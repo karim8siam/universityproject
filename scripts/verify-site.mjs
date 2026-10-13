@@ -7,7 +7,7 @@ const read=p=>readFileSync(join(root,p),'utf8');
 const assert=(yes,msg)=>{if(!yes)throw Error(msg)};
 const domain='https://universityproject-chi.vercel.app';
 const slug=s=>String(s).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
-const date=new Date().toISOString().slice(0,10);
+const date=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Dhaka',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const oppPath=o=>'/opportunities/'+o.id+'-'+slug(o.title)+'/';
 const personPath=p=>'/researchers/'+p.id+'-'+slug(p.name)+'/';
 const subjectNames=new Set(subjects.map(s=>s.id));
