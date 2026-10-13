@@ -20,3 +20,10 @@ Node.js 20+, `npm start`, then open http://localhost:4173. No NPM installation i
 
 ## SEO
 Submit `https://universityproject-chi.vercel.app/sitemap.xml` to Search Console once the site's ownership is verified. Sitemaps and metadata **do not guarantee indexing, rankings or AdSense approval**. Improve original quality, accurate funding information and editorial review before scaling.
+
+## Country directory and round-robin review
+- Browse `/universities/` and ten `/countries/{id}/` pages; source-reviewed Canada institutions have detailed profiles. The screening list of 1,646 candidate names is preliminary, not a source of funding claims.
+- Publishing order: **Canada → Australia → Germany → Italy → USA → UK → Japan → Sweden → Netherlands → Switzerland**. Once one eligible university in a country is completed, move to the next country; start the cycle again after Switzerland. A country with no remaining candidates drops out of subsequent rounds.
+- Canada has two independently published guides already (Acadia and Alberta University of the Arts); preserve both and continue with **Australia** next.
+- Checkpoints: working Google Sheet `Publishing Progress` and `Country Rotation`, plus `country-rotation.json`. Do not duplicate published university records, and retain honest statuses for unresolved live-page QA.
+- Country pages with no published source-reviewed university use `noindex,follow`. Never submit all preliminary institution names as scholarship pages to Search Console.

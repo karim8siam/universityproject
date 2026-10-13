@@ -1,0 +1,65 @@
+/* OpenField country atlas: restrained editorial layout */
+.country-hero{padding-top:60px;padding-bottom:50px}
+.country-hero h1{max-width:980px;line-height:1.02;margin:15px 0 22px}
+.country-hero h1 em{font-weight:400;font-style:italic;color:#a56949}
+.country-hero>p{max-width:750px;font-size:17px;line-height:1.75}
+.crumb{font-size:12px;color:#7b867c;display:flex;gap:10px;align-items:center;margin:0 0 32px;flex-wrap:wrap}
+.crumb a{color:#3e5d4b}
+.country-highlights{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--edge);border-bottom:1px solid var(--edge);margin-top:30px}
+.country-highlights>div{padding:24px 20px;border-right:1px solid var(--edge)}
+.country-highlights>div:first-child{padding-left:0}
+.country-highlights>div:last-child{border:0}
+.country-highlights strong{display:block;font:500 39px/1.15 "Newsreader",Georgia,serif;letter-spacing:-.03em;color:#214b37;margin-bottom:4px}
+.country-highlights span{font-size:11px;color:#687a6c}
+.country-section-head h2{max-width:780px}
+.country-section-head p{max-width:720px}
+.country-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));margin:30px 0;border:1px solid var(--edge);background:#fffdf8}
+.country-link-card{display:flex;flex-direction:column;min-height:212px;border-right:1px solid var(--edge);border-bottom:1px solid var(--edge);padding:23px 21px;text-decoration:none;color:#1f382b;transition:background .18s}
+.country-link-card:nth-child(5n){border-right:0}
+.country-link-card:nth-child(n+6){border-bottom:0}
+.country-link-card:hover,.country-link-card:focus-visible{background:#eef1e7;color:#1f382b}
+.country-link-card h3{font-size:28px;margin:15px 0 27px;line-height:1.12}
+.country-numeral{font-size:10px;color:#b16543;font-weight:800;letter-spacing:.14em}
+.country-link-bottom{display:flex;justify-content:space-between;align-items:center;gap:6px;margin-top:auto;font-size:12px;font-weight:650}
+.country-round-arrow{width:30px;height:30px;border-radius:50%;border:1px solid #b7c5b5;display:grid;place-items:center}
+.country-pending,.country-verified{font-size:10px;line-height:1.4;margin:9px 0 0}
+.country-verified{color:#226847}
+.country-footnote{padding:30px 0 25px;border-top:1px solid var(--edge);max-width:750px}
+.country-footnote h3{font-size:29px}
+.country-help{font-size:13px!important;color:#547060;margin-top:20px}
+.country-feature{padding-top:25px}
+.country-published{display:grid;grid-template-columns:37% 1fr;border:1px solid var(--edge);background:#fffdf8;text-decoration:none;color:#1f382b;max-width:1100px;margin-top:26px}
+.country-published:hover{color:#1f382b;border-color:#b3c7b6}
+.country-published-art{background:#e7eee2;min-height:268px;padding:25px;display:flex;flex-direction:column;justify-content:space-between;color:#315743;letter-spacing:.12em;font-size:12px;font-weight:750;position:relative}
+.country-published-art:after{content:"↗";position:absolute;right:27px;top:45%;font-family:"Newsreader",serif;font-size:100px;line-height:1;color:#bccdb7;transform:rotate(-17deg)}
+.country-published-art span:last-child{font-size:10px}
+.country-published-text{padding:30px 35px}
+.country-published-text h3{font-size:43px;margin:12px 0}
+.country-published-text>p{max-width:540px}
+.country-badge{font-weight:750;font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:#886f56}
+.country-badge.live{color:#217047}
+.country-metrics{display:flex;gap:20px;flex-wrap:wrap;font-size:11px;color:#526c5a}
+.country-metrics strong{font-size:20px;font-family:"Newsreader",serif;font-weight:600}
+.country-cta{font-size:13px;font-weight:750;color:#226a47;display:inline-block;margin-top:17px;border-bottom:1px solid}
+.country-awaiting{border:1px solid var(--edge);border-left:4px solid #96b29f;background:#edf0e8;padding:35px;max-width:960px}
+.country-awaiting h2{font-size:36px;margin-top:13px}
+.country-awaiting p{max-width:650px}
+.country-institutions{padding-top:35px}
+.directory-controls{margin:24px 0;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.directory-controls label{font-size:12px;font-weight:800}
+.directory-controls input{background:#fffdf8;border:1px solid #b9c6bc;padding:12px 15px;border-radius:3px;min-width:280px;flex:1;max-width:500px;font:inherit;font-size:14px;outline-offset:3px}
+.directory-controls p{font-size:12px;margin:0;color:#637767}
+.institution-list{border-top:1px solid var(--edge);display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:35px}
+.institution-entry{padding:18px 0;border-bottom:1px solid var(--edge);display:flex;gap:16px;align-items:flex-start;justify-content:space-between;min-width:0}
+.institution-entry h3{font:500 21px/1.2 "Newsreader",Georgia,serif;margin:0 0 8px;overflow-wrap:anywhere}
+.institution-entry .subtext{font-size:11px;color:#6a7b6e;line-height:1.6}
+.institution-entry .status{font-size:10px;font-weight:750;color:#8c7b6d;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;line-height:1.7}
+.institution-entry .visit{font-size:11px;margin-top:7px;display:inline-block}
+.directory-bottom{display:flex;justify-content:center;padding:28px}
+.directory-bottom button{border:1px solid #2c5b45;padding:10px 22px;border-radius:3px;background:#f7f5ee;color:#27523b;cursor:pointer;font-weight:700}
+.country-notice{background:#eaece3;border-left:3px solid #53775a;padding:20px;margin:25px 0;font-size:12px;color:#455f4e}
+.country-crosslinks{display:flex;flex-wrap:wrap;gap:10px;margin:21px 0}
+.country-crosslinks a{border:1px solid var(--edge);text-decoration:none;padding:11px 14px;font-size:12px;font-weight:700}
+@media(max-width:1050px){.country-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.country-link-card,.country-link-card:nth-child(n){border-right:1px solid var(--edge);border-bottom:1px solid var(--edge)}.country-link-card:nth-child(3n){border-right:0}.country-link-card:nth-child(n+10){border-bottom:0}}
+@media(max-width:700px){.country-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.country-link-card:nth-child(n){border-right:1px solid var(--edge);border-bottom:1px solid var(--edge)}.country-link-card:nth-child(2n){border-right:0}.country-link-card:nth-child(n+9){border-bottom:0}.country-published{grid-template-columns:1fr}.country-published-art{min-height:145px}.country-published-art:after{font-size:64px;top:28%}.country-published-text{padding:24px}.country-highlights strong{font-size:28px}.country-highlights>div{padding:18px 10px}.institution-list{grid-template-columns:1fr}.directory-controls input{min-width:100%}}
+@media(max-width:390px){.country-link-card{padding:18px 13px;min-height:195px}.country-link-card h3{font-size:24px}.country-highlights span{font-size:10px}.country-hero h1{font-size:clamp(3rem,10vw,4rem)}}

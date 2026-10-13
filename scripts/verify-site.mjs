@@ -26,7 +26,7 @@ for(const p of researchers){
  assert(p.recruiting==='Not verified','Unverified recruiting claim '+p.id);
 }
 assert(subjects.find(s=>s.id==='physics')?.name==='Physics','Physics naming regression');
-const staticRoutes=["/universities/","/universities/alberta-university-of-the-arts/",'/','/universities/acadia-university/','/scholarships/acadia-entrance-scholarships-2027/',...subjects.filter(s=>s.id!=='engineering').map(s=>'/subjects/'+s.id+'/'),...['about','editorial-policy','privacy','contact'].map(x=>'/'+x+'/')];
+const staticRoutes=["/universities/","/countries/canada/","/universities/alberta-university-of-the-arts/",'/','/universities/acadia-university/','/scholarships/acadia-entrance-scholarships-2027/',...subjects.filter(s=>s.id!=='engineering').map(s=>'/subjects/'+s.id+'/'),...['about','editorial-policy','privacy','contact'].map(x=>'/'+x+'/')];
 const active=opportunities.filter(o=>!o.deadline||o.deadline>=date).map(oppPath);
 const profiles=researchers.map(personPath);
 const expected=[...staticRoutes,...active,...profiles];
@@ -52,4 +52,20 @@ const app=read('app.js');
 assert(!/fictional demonstration data|demo opportunity|example research fellowship/i.test(app),'Fictional data claims visible in JS');
 assert(app.includes('const oppPath=')&&app.includes('const personPath='),'Cards do not link to indexable URLs');
 assert(app.includes('shahriyarkarimsiam@gmail.com'),'Free contact missing');
+const countryAtlas=JSON.parse(read("country-directory.json"));
+const rotation=JSON.parse(read("country-rotation.json"));
+assert(countryAtlas.countries.length===10,"Exactly 10 country groups required");
+assert(countryAtlas.countries.reduce((sum,g)=>sum+g.institutions.length,0)===1646,"Candidate list changed; refresh Sheet-derived directory");
+assert(rotation.order.length===10&&rotation.nextCountry==="australia","Country publishing order must continue with Australia");
+for(const group of countryAtlas.countries){
+ const rel="countries/"+group.id+"/index.html";
+ assert(existsSync(join(root,rel)),"Country page missing: "+rel);
+ const html=read(rel);
+ assert(html.includes('rel="canonical"'),"Country canonical missing "+rel);
+ if(group.id!=="canada") assert(html.includes('name="robots" content="noindex,follow"'),"Unverified country must not enter Google index "+rel);
+}
+assert(read("country-directory.js").includes("textContent"),"University shortlist must be safely rendered");
+assert(read("universities/index.html").includes('href="/countries/australia/"'),"Country directory lacks Australia");
+assert(!app.includes("First university, now live."),"Old first university hero still visible");
+
 console.log('OpenField PASS: '+expected.length+' indexable URLs, '+opportunities.length+' real university opportunity/program records, '+researchers.length+' sourced faculty listings.');

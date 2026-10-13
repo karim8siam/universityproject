@@ -25,3 +25,17 @@
 .feature-facts strong{display:block;font:500 2.3rem/1.15 "Newsreader",Georgia,serif;color:var(--green);margin-bottom:7px}
 @media(max-width:850px){.feature-panel{grid-template-columns:1fr}.feature-facts{border-top:1px solid var(--line);padding-top:15px}}
 @media(max-width:560px){.feature-panel{padding:20px}.feature-facts{grid-template-columns:repeat(3,minmax(0,1fr))}.feature-facts strong{font-size:1.85rem}}
+
+/* Country-led homepage — editorial tiles, no featured-first-university billboard. */
+.country-home-section{padding-top:75px;padding-bottom:64px}
+.country-home-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--line);border-left:1px solid var(--line);background:#fffdf8;margin-top:25px}
+.country-quick{padding:21px 18px;min-height:164px;display:flex;flex-direction:column;justify-content:space-between;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-decoration:none;transition:background .15s}
+.country-quick:hover,.country-quick:focus-visible{background:#e9eee5;color:var(--ink)}
+.country-quick-number{font-size:10px;font-weight:800;letter-spacing:.1em;color:#a3694e}
+.country-quick strong{display:block;font:500 clamp(1.35rem,2vw,1.85rem)/1.07 "Newsreader",Georgia,serif;color:var(--ink);letter-spacing:-.025em;margin:13px 0 16px}
+.country-quick-bottom{font-size:10px;color:var(--muted);display:flex;align-items:center;justify-content:space-between;gap:10px}
+.country-quick-bottom b{font-weight:500;font-size:17px}
+.country-home-footer{padding-top:24px;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+.country-home-footer p{margin:0;max-width:610px;font-size:13px}
+@media(max-width:1000px){.country-home-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:660px){.country-home-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.country-quick{padding:17px 14px;min-height:145px}.country-home-section{padding-top:50px;padding-bottom:45px}}
