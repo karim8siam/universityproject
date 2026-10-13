@@ -1,4 +1,4 @@
-import {readFileSync,existsSync} from 'node:fs';
+import {readFileSync,existsSync,readdirSync} from 'node:fs';
 import {dirname,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {opportunities,researchers,subjects} from '../data.js';
@@ -26,7 +26,16 @@ for(const p of researchers){
  assert(p.recruiting==='Not verified','Unverified recruiting claim '+p.id);
 }
 assert(subjects.find(s=>s.id==='physics')?.name==='Physics','Physics naming regression');
-const staticRoutes=["/universities/","/countries/canada/","/universities/alberta-university-of-the-arts/",'/','/universities/acadia-university/','/scholarships/acadia-entrance-scholarships-2027/',...subjects.filter(s=>s.id!=='engineering').map(s=>'/subjects/'+s.id+'/'),...['about','editorial-policy','privacy','contact'].map(x=>'/'+x+'/')];
+// Discover the current indexable pages so adding a country never requires a hardcoded sitemap list.
+const listedRoutes=area=>{
+ const folder=join(root,area);
+ if(!existsSync(folder))return [];
+ return readdirSync(folder,{withFileTypes:true})
+  .filter(item=>item.isDirectory()&&existsSync(join(folder,item.name,'index.html')))
+  .map(item=>'/'+area+'/'+item.name+'/')
+  .filter(route=>!read(route.slice(1)+'index.html').includes('name="robots" content="noindex'));
+};
+const staticRoutes=['/','/universities/',...listedRoutes('universities'),...listedRoutes('countries'),...listedRoutes('scholarships'),...listedRoutes('subjects'),...['about','editorial-policy','privacy','contact'].map(name=>'/'+name+'/')];
 const active=opportunities.filter(o=>!o.deadline||o.deadline>=date).map(oppPath);
 const profiles=researchers.map(personPath);
 const expected=[...staticRoutes,...active,...profiles];
@@ -38,13 +47,21 @@ for(const url of expected){
  const file=url==='/'?'index.html':url.slice(1)+'index.html';
  assert(existsSync(join(root,file)),'Missing public URL HTML '+file);
  const html=read(file);
- assert(html.includes('<title>')&&html.includes('name="description"'),'Missing title/description '+file);
- assert(map.includes('<loc>'+domain+url+'</loc>'),'Sitemap does not include '+url);
- if(url!=='/')assert(html.includes('rel="canonical"'),'Missing canonical '+file);
+ const title=html.match(/<title>([^<]+)<\/title>/)?.[1];
+ const description=html.match(/<meta name="description" content="([^"]+)"/)?.[1];
+ const canonical=html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+ assert(title&&description&&title.length>15&&description.length>45,'Missing or weak metadata '+file);
+ assert(!/undefined|fictional demo/i.test(title),'Broken SEO title '+file);
+ assert(canonical===domain+url,'Incorrect canonical URL '+file);
+ assert(!html.includes('name="robots" content="noindex'),'Nonindexable page in sitemap '+file);
+ assert(map.includes('<loc>'+domain+url+'</loc>'),'Sitemap missing '+url);
 }
 for(const o of opportunities.filter(o=>o.deadline&&o.deadline<date)){
  assert(!map.includes('<loc>'+domain+oppPath(o)+'</loc>'),'Expired record still in sitemap '+o.title);
  assert(read(oppPath(o).slice(1)+'index.html').includes('name="robots" content="noindex,follow"'),'Expired article not noindex '+o.id);
+}
+for(const match of map.matchAll(/<url><loc>([^<]+)<\/loc><lastmod>([^<]+)<\/lastmod><\/url>/g)){
+ assert(/^\d{4}-\d{2}-\d{2}$/.test(match[2])&&match[2]<=date,'Incorrect sitemap lastmod '+match[1]);
 }
 for(const url of entries)assert(expected.some(x=>domain+x===url),'Unexpected or expired sitemap URL '+url);
 for(const s of subjects)assert(existsSync(join(root,'subjects/'+s.id+'/index.html')),'Missing subject HTML '+s.id);
@@ -56,13 +73,19 @@ const countryAtlas=JSON.parse(read("country-directory.json"));
 const rotation=JSON.parse(read("country-rotation.json"));
 assert(countryAtlas.countries.length===10,"Exactly 10 country groups required");
 assert(countryAtlas.countries.reduce((sum,g)=>sum+g.institutions.length,0)===1646,"Candidate list changed; refresh Sheet-derived directory");
-assert(rotation.order.length===10&&rotation.nextCountry==="australia","Country publishing order must continue with Australia");
+assert(rotation.order.length===10&&new Set(rotation.order).size===10,'Must have 10 unique countries');
+assert(rotation.order.includes(rotation.nextCountry),'Rotation next country is invalid');
 for(const group of countryAtlas.countries){
- const rel="countries/"+group.id+"/index.html";
- assert(existsSync(join(root,rel)),"Country page missing: "+rel);
+ const rel='countries/'+group.id+'/index.html';
+ assert(existsSync(join(root,rel)),'Country page missing '+rel);
  const html=read(rel);
- assert(html.includes('rel="canonical"'),"Country canonical missing "+rel);
- if(group.id!=="canada") assert(html.includes('name="robots" content="noindex,follow"'),"Unverified country must not enter Google index "+rel);
+ const indexed=entries.includes(domain+'/countries/'+group.id+'/');
+ const noindex=html.includes('name="robots" content="noindex');
+ const published=Number(rotation.publishedInCountry?.[group.id]||0);
+ assert(html.includes('rel="canonical"'),'Missing country canonical '+rel);
+ assert(indexed===!noindex,'Country sitemap/noindex mismatch '+rel);
+ if(published>0)assert(!noindex,'Published country is noindex '+rel);
+ if(published===0)assert(noindex,'Unverified country is indexable '+rel);
 }
 assert(read("country-directory.js").includes("textContent"),"University shortlist must be safely rendered");
 assert(read("universities/index.html").includes('href="/countries/australia/"'),"Country directory lacks Australia");
