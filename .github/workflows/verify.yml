@@ -1,0 +1,21 @@
+name: OpenField publishing checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: JavaScript syntax
+        run: |
+          node --check app.js
+          node --check data.js
+      - name: Academic data and SEO structure
+        run: node scripts/verify-site.mjs
