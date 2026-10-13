@@ -31,7 +31,7 @@ No `npm install` is required. To use a different port: `PORT=3000 npm start`.
 
 ## Important: prototype vs production
 
-- **All opportunities, researcher profiles and institution names in this sample are fictional.** They illustrate a complete site experience, NOT verified current scholarship offers.
+- **All published Acadia programs, listings and researcher profiles are linked to official university source pages. A program entry is not proof of open recruitment.
 - Deadline dates are generated relative to your current device date so you can test the filtering. One deliberately expired record is included and should never show in active results.
 - The user requested that application links and researcher emails be gated; the prototype reflects that experience, but public official-source links are strongly recommended in a real scholarship website for transparency and trust. Do not scrape/monetize personal addresses or send bulk unsolicited emails.
 - This is a front-end prototype. A production system needs databases, audit logs, administrative review tools, real source links, legal/privacy controls, hosting, a server-side expiry process, and responsible enrichment of academic data.

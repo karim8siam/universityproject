@@ -7,7 +7,8 @@ const mimes = {'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-
 createServer(async(req,res)=>{
  try {
   let path = decodeURIComponent(new URL(req.url,'http://localhost').pathname);
-  if(path==='/' || !extname(path)) path='/index.html';
+  if(path==='/') path='/index.html';
+  else if(!extname(path)) path=(path.endsWith('/')?path:path+'/')+'index.html';
   const filepath=resolve(root,'.'+path);
   if(filepath!==root && !filepath.startsWith(root+sep)) {res.writeHead(403);res.end('Forbidden');return;}
   const info=await stat(filepath);if(!info.isFile())throw new Error('Not a file');
