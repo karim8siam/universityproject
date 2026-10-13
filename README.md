@@ -1,47 +1,22 @@
-# OpenField — Academic Opportunity Platform (Interactive Design Prototype)
+# OpenField — Real Academic Opportunities
+OpenField is a source-backed, subject-led academic discovery project, not a university or admissions agency.
 
-This is a **standalone, dependency-free, responsive website prototype** for a free subject-first scholarship, funding, research and mentorship discovery platform.
+## Published content
+- Acadia University, Nova Scotia, Canada is the first university with a deeper verified source review.
+- 22 actual degree, scholarship, summer research and co-op reference entries, each linked to official university information. An undated listing is **not** a confirmed open funded vacancy.
+- 15 research faculty listings from Acadia's Physics and Mathematics university pages. Faculty recruitment and funding availability are marked unknown where unverified.
+- Individual opportunity and researcher pages with descriptive titles, unique canonical URLs, original eligibility/cost summaries and source links. Source pages and programs may change after their review date.
+- Eight subject pages (Physics, Engineering, Computer Science, Mathematics, Biology & Medicine, Chemistry, Earth & Environment, Social Sciences), official-source university pages, About, Privacy and Contact.
 
-## Run locally
+## Development
+Node.js 20+, `npm start`, then open http://localhost:4173. No NPM installation is needed.
 
-1. Install Node.js 18 or later (if not already installed).
-2. Open Terminal and go to the `academic-atlas` folder.
-3. Run:
+## Publishing rules
+- Only publish real academic records backed by a public official source and visible review date; never invent funding, admissions, staffing or dates.
+- Keep the precise difference between scholarship consideration, fully funded admission, an unadvertised degree and a verified active research job.
+- Each dated opportunity leaves active listings after the deadline; `scripts/expire-listings.mjs` archives expired individual pages and updates `sitemap.xml` via scheduled GitHub Actions. GitHub Actions schedules can be delayed or disabled, so a failed scheduled run must be investigated.
+- `node scripts/verify-site.mjs` checks the source data and all indexable pages. CI checks syntax and structured SEO output; browser HTTP checks still matter separately.
+- Student contact: shahriyarkarimsiam@gmail.com. Optional mentorship is not live for payments.
 
-```bash
-npm start
-```
-
-4. Visit **http://localhost:4173** in your browser.
-
-No `npm install` is required. To use a different port: `PORT=3000 npm start`.
-
-## What works
-
-- Subject-first home page and eight academic disciplines
-- Scholarships, master's, PhD, internship, research program and fellowship filters
-- Search, funding filters and sort by deadline
-- Opportunity detail pages and university requirement layouts
-- Researcher listings, researcher detail pages and contact-gated design
-- Bookmarking with `localStorage`, no login needed
-- Mentorship concept page ($299/year)
-- Automatically excludes expired opportunities in subject results, recent-deadlines desk and saved list
-- Refreshes daily if the page remains open across midnight
-- Responsive desktop/mobile layout
-
-## Important: prototype vs production
-
-- **All published Acadia programs, listings and researcher profiles are linked to official university source pages. A program entry is not proof of open recruitment.
-- Deadline dates are generated relative to your current device date so you can test the filtering. One deliberately expired record is included and should never show in active results.
-- The user requested that application links and researcher emails be gated; the prototype reflects that experience, but public official-source links are strongly recommended in a real scholarship website for transparency and trust. Do not scrape/monetize personal addresses or send bulk unsolicited emails.
-- This is a front-end prototype. A production system needs databases, audit logs, administrative review tools, real source links, legal/privacy controls, hosting, a server-side expiry process, and responsible enrichment of academic data.
-
-## Files
-
-- `index.html`: page shell and fonts
-- `styles.css`: responsive visual system
-- `data.js`: clearly labeled fictional demonstration data
-- `app.js`: interactive interface and browser-based routing
-- `server.mjs`: local HTTP server using built-in Node libraries
-
-Built as a concept, not yet integrated into a live domain or third-party services.
+## SEO
+Submit `https://universityproject-chi.vercel.app/sitemap.xml` to Search Console once the site's ownership is verified. Sitemaps and metadata **do not guarantee indexing, rankings or AdSense approval**. Improve original quality, accurate funding information and editorial review before scaling.

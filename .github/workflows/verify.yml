@@ -13,9 +13,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: JavaScript syntax
+      - name: Verify syntax
         run: |
           node --check app.js
           node --check data.js
-      - name: Academic data and SEO structure
+          node --check server.mjs
+          node --check scripts/expire-listings.mjs
+      - name: Verify actual listings and SEO files
         run: node scripts/verify-site.mjs
