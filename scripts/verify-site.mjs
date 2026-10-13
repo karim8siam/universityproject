@@ -26,7 +26,7 @@ for(const p of researchers){
  assert(p.recruiting==='Not verified','Unverified recruiting claim '+p.id);
 }
 assert(subjects.find(s=>s.id==='physics')?.name==='Physics','Physics naming regression');
-const staticRoutes=['/','/universities/acadia-university/','/scholarships/acadia-entrance-scholarships-2027/',...subjects.filter(s=>s.id!=='engineering').map(s=>'/subjects/'+s.id+'/'),...['about','editorial-policy','privacy','contact'].map(x=>'/'+x+'/')];
+const staticRoutes=["/universities/","/universities/alberta-university-of-the-arts/",'/','/universities/acadia-university/','/scholarships/acadia-entrance-scholarships-2027/',...subjects.filter(s=>s.id!=='engineering').map(s=>'/subjects/'+s.id+'/'),...['about','editorial-policy','privacy','contact'].map(x=>'/'+x+'/')];
 const active=opportunities.filter(o=>!o.deadline||o.deadline>=date).map(oppPath);
 const profiles=researchers.map(personPath);
 const expected=[...staticRoutes,...active,...profiles];

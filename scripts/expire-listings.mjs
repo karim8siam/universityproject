@@ -20,7 +20,7 @@ for(const o of expired){
  const u='https://universityproject-chi.vercel.app'+route;
  edits+=update('sitemap.xml',xml=>xml.replace(new RegExp('<url><loc>'+u.replace(/[.*+?^$\{\}()|[\]\\]/g,'\\$&')+'<\\/loc><lastmod>[^<]+<\\/lastmod><\\/url>\\n?','g'),''));
 }
-const categories=['universities/acadia-university/index.html',...subjects.map(s=>'subjects/'+s.id+'/index.html')];
+const categories=['universities/acadia-university/index.html','universities/alberta-university-of-the-arts/index.html',...subjects.map(s=>'subjects/'+s.id+'/index.html')];
 for(const rel of categories){
  edits+=update(rel,html=>html.replace(/<article class="card" data-deadline="(\d{4}-\d{2}-\d{2})">[\s\S]*?<\/article>/g,(record,date)=>date<today?'':record));
 }

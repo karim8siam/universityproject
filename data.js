@@ -1,5 +1,4 @@
-// Official-source research, first institution: Acadia University. Verified 2026-10-13.
-// Do not claim admissions, funding, researcher recruitment or direct entry is guaranteed.
+// Source-linked academic records. Verified dates differ from open funded positions.
 export const subjects=[
   {
     "id": "physics",
@@ -87,6 +86,17 @@ export const subjects=[
       "Economics",
       "Sociology",
       "Psychology"
+    ]
+  },
+  {
+    "id": "arts-design",
+    "name": "Arts & Design",
+    "icon": "◈",
+    "tagline": "Research through creative practice",
+    "topics": [
+      "Craft media",
+      "Material research",
+      "Contemporary design"
     ]
   }
 ];
@@ -723,6 +733,90 @@ export const opportunities=[
       "papers": "Not stated",
       "references": "Program-specific"
     }
+  },
+  {
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "location": "Calgary, Alberta, Canada",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "reviewed": "2026-10-13",
+    "requirements": {
+      "gpa": "A recognized Bachelor of Fine Arts or related degree; minimum cumulative GPA 3.00.",
+      "ielts": "IELTS 7.0 overall or accepted alternative test/exemption, according to AUArts graduate requirements.",
+      "gre": "Not listed as a standard MFA admission requirement; confirm with AUArts if uncertain.",
+      "papers": "No compulsory published paper. Applicants may optionally include up to 3 relevant publications.",
+      "references": "Two independent references, portfolio up to 20 works, cover letter up to 500 words, statement of intent 750–1250 words, CV up to 4 pages."
+    },
+    "tuition": "Published MFA tuition: CAD 12,500/semester international or CAD 6,250/semester domestic/permanent resident, over 5 semesters (additional costs extra).",
+    "id": 23,
+    "type": "Master's",
+    "title": "MFA in Craft Media — Fall 2027",
+    "source": "https://auarts.ca/future-students/how-to-apply/how-to-apply-for-a-masters-degree",
+    "funding": "Merit-based scholarships and possible teaching assistantships; not guaranteed.",
+    "deadline": "2027-06-01",
+    "applicationOpens": "2026-10-01",
+    "fee": "CAD 150 international or CAD 110 domestic application fee, non-refundable.",
+    "status": "verified-deadline",
+    "desc": "AUArts MFA in Craft Media is a 20-month, 60-credit practice-led master's in ceramics, fibre, glass and jewellery/metals. Fall 2027 applications opened October 1, 2026; January 15, 2027 is priority for entrance scholarship consideration and June 1, 2027 is the final general deadline, subject to available places."
+  },
+  {
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "location": "Calgary, Alberta, Canada",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "reviewed": "2026-10-13",
+    "requirements": {
+      "gpa": "A recognized Bachelor of Fine Arts or related degree; minimum cumulative GPA 3.00.",
+      "ielts": "IELTS 7.0 overall or accepted alternative test/exemption, according to AUArts graduate requirements.",
+      "gre": "Not listed as a standard MFA admission requirement; confirm with AUArts if uncertain.",
+      "papers": "No compulsory published paper. Applicants may optionally include up to 3 relevant publications.",
+      "references": "Two independent references, portfolio up to 20 works, cover letter up to 500 words, statement of intent 750–1250 words, CV up to 4 pages."
+    },
+    "tuition": "Published MFA tuition: CAD 12,500/semester international or CAD 6,250/semester domestic/permanent resident, over 5 semesters (additional costs extra).",
+    "id": 24,
+    "type": "Scholarship",
+    "title": "2027 MFA Craft Media Entrance Awards",
+    "source": "https://www.auarts.ca/future-students/how-to-apply/how-to-apply-for-a-masters-degree/mfa-awards-and-scholarships",
+    "funding": "Competitive entrance award of up to CAD 5,000; not automatic funding.",
+    "deadline": "2027-01-15",
+    "applicationOpens": "2026-10-01",
+    "fee": "No separate award application; MFA application CAD 150 international or CAD 110 domestic.",
+    "status": "verified-deadline",
+    "desc": "AUArts automatically considers MFA applicants for entrance scholarship awards up to CAD 5,000 when their complete admission application is submitted by January 15, 2027. Award decisions are based on merit and are not guaranteed."
+  },
+  {
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "location": "Calgary, Alberta, Canada",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "reviewed": "2026-10-13",
+    "requirements": {
+      "gpa": "A recognized Bachelor of Fine Arts or related degree; minimum cumulative GPA 3.00.",
+      "ielts": "IELTS 7.0 overall or accepted alternative test/exemption, according to AUArts graduate requirements.",
+      "gre": "Not listed as a standard MFA admission requirement; confirm with AUArts if uncertain.",
+      "papers": "No compulsory published paper. Applicants may optionally include up to 3 relevant publications.",
+      "references": "Two independent references, portfolio up to 20 works, cover letter up to 500 words, statement of intent 750–1250 words, CV up to 4 pages."
+    },
+    "tuition": "Published MFA tuition: CAD 12,500/semester international or CAD 6,250/semester domestic/permanent resident, over 5 semesters (additional costs extra).",
+    "id": 25,
+    "type": "Scholarship",
+    "title": "MFA Graduate Teaching Assistantship",
+    "source": "https://www.auarts.ca/future-students/how-to-apply/how-to-apply-for-a-masters-degree/mfa-awards-and-scholarships",
+    "funding": "CAD 5,000 if awarded; a student may receive up to three over the two-year MFA, subject to selection.",
+    "deadline": null,
+    "deadlineText": "No separate open application deadline independently confirmed.",
+    "fee": "No separate GTA application fee established; associated MFA admission fee applies.",
+    "status": "program-information",
+    "desc": "Alberta University of the Arts lists a Graduate Teaching Assistantship of CAD 5,000 that may be offered up to three times during the MFA program. The listing describes possible funding rather than a confirmed available assistantship position."
   }
 ];
 export const researchers=[
@@ -987,6 +1081,62 @@ export const researchers=[
     "email": null,
     "summary": "Research interests listed by Acadia in its graduate program directory; individual recruitment and professional contact need further verification.",
     "country": "Canada",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-13"
+  },
+  {
+    "id": 16,
+    "subject": "arts-design",
+    "name": "Natali Rodrigues",
+    "title": "Associate Professor, Glass",
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "topics": [
+      "Studio glass",
+      "Drawing",
+      "Material process",
+      "Liminal experience"
+    ],
+    "source": "https://www.auarts.ca/about-auarts/faculty-and-staff/natali-rodrigues",
+    "email": "natali.rodrigues@auarts.ca",
+    "summary": "Creative research in glass and drawing, exploring liminal experiences and the relationship between physical materials and intangible processes.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-13"
+  },
+  {
+    "id": 17,
+    "subject": "arts-design",
+    "name": "Mackenzie Kelly-Frère",
+    "title": "Associate Professor, Fibre",
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "topics": [
+      "Weaving",
+      "Textiles",
+      "Regenerative agriculture",
+      "Fibre materials"
+    ],
+    "source": "https://www.auarts.ca/about-auarts/faculty-and-staff/mackenzie-kellyfr%C3%A8re-faculty",
+    "email": "mackenzie.kellyfrere@auarts.ca",
+    "summary": "Investigates handweaving, cloth and relationships with natural fibre materials and regenerative agriculture, with published work and exhibitions.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-13"
+  },
+  {
+    "id": 18,
+    "subject": "arts-design",
+    "name": "Jamie Kroeger",
+    "title": "Faculty, Jewellery & Metals",
+    "university": "Alberta University of the Arts",
+    "country": "Canada",
+    "topics": [
+      "Contemporary jewellery",
+      "Metalsmithing",
+      "Craft practice"
+    ],
+    "source": "https://www.auarts.ca/about-auarts/faculty-and-staff/jamie-kroeger",
+    "email": null,
+    "summary": "AUArts faculty member associated with Jewellery and Metals, with studio practice in contemporary jewellery and craft.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-13"
   }
