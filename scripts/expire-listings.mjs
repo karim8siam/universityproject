@@ -24,4 +24,13 @@ const categories=['universities/acadia-university/index.html','universities/albe
 for(const rel of categories){
  edits+=update(rel,html=>html.replace(/<article class="card" data-deadline="(\d{4}-\d{2}-\d{2})">[\s\S]*?<\/article>/g,(record,date)=>date<today?'':record));
 }
+// Archive standalone dated scholarship pages when their verified round has passed.
+const datedScholarshipPages=[{route:'/scholarships/adelaide-graduate-research-talent-scheme-2027/',deadline:'2026-11-02'}];
+for(const item of datedScholarshipPages){
+ if(item.deadline>=today)continue;
+ const file=item.route.slice(1)+'index.html';
+ edits+=update(file,html=>html.includes('name="robots" content="noindex')?html:html.replace('<head>','<head><meta name="robots" content="noindex,follow">').replace('<section class="hero">','<section class="hero"><p class="source-note">This scholarship round has closed. Check the university for future rounds.</p>'));
+ const loc='https://universityproject-chi.vercel.app'+item.route;
+ edits+=update('sitemap.xml',xml=>xml.split('\n').filter(line=>!line.includes('<loc>'+loc+'</loc>')).join('\n'));
+}
 console.log('Deadline maintenance: '+expired.length+' expired records, '+edits+' files updated.');
