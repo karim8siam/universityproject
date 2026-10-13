@@ -1,33 +1,11 @@
 {
   "schemaVersion": 1,
-  "order": [
-    "canada",
-    "australia",
-    "germany",
-    "italy",
-    "usa",
-    "uk",
-    "japan",
-    "sweden",
-    "netherlands",
-    "switzerland"
-  ],
+  "order": ["canada","australia","germany","italy","usa","uk","japan","sweden","netherlands","switzerland"],
   "cycle": 1,
-  "completedInCycle": [
-    "canada"
-  ],
-  "nextCountry": "australia",
-  "lastPublished": {
-    "country": "canada",
-    "university": "Alberta University of the Arts",
-    "sourceRow": 5
-  },
+  "completedInCycle": ["canada","australia"],
+  "nextCountry": "germany",
+  "lastPublished": {"country":"australia","university":"Adelaide University","sourceRow":146},
   "skipExhausted": true,
-  "scope": "One verified institution per remaining country each cycle, then repeat starting Canada.",
-  "sourceSheet": "1C3C93DR1KmzhIa-AUG-dL0RqsxA4ZzsmVMh5G3HB4Do",
-  "updatedAt": "2026-10-14",
-  "publishedInCountry": {
-    "canada": 2
-  },
-  "notes": "Canada has two previously published university guides. New strict one-per-country rotation begins with Australia, then Germany through Switzerland, then Canada."
+  "publishedInCountry": {"canada":2,"australia":1},
+  "updatedAt":"2026-10-14"
 }

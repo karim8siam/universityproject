@@ -8,7 +8,7 @@ const more=document.getElementById("show-more-institutions");
 if(!id||!el)return;
 const PAGE=24;
 let records=[],limit=PAGE;
-const published={canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"}};
+const published={canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"},australia:{"Adelaide University":"/universities/adelaide-university/"}};
 const safeLink=(value)=>{try{const u=new URL(value);return u.protocol==="https:"||u.protocol==="http:"?u.href:null}catch{return null}};
 const create=(tag,className,text)=>{const n=document.createElement(tag);if(className)n.className=className;if(text!==undefined)n.textContent=text;return n};
 function draw(){
