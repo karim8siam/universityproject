@@ -818,6 +818,36 @@ export const opportunities=[
     "status": "program-information",
     "desc": "Alberta University of the Arts lists a Graduate Teaching Assistantship of CAD 5,000 that may be offered up to three times during the MFA program. The listing describes possible funding rather than a confirmed available assistantship position."
   }
+,
+  {
+    "university": "Accademia di Belle Arti di Lecce",
+    "country": "Italy",
+    "location": "Lecce, Apulia, Italy",
+    "reviewed": "2026-10-14",
+    "id": 26,
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "type": "PhD",
+    "title": "Cultural Heritage and Creativity PhD — Lecce",
+    "funding": "Previously published funded doctoral competitions; no open new-cycle scholarship confirmed",
+    "deadline": null,
+    "deadlineText": "Next doctoral competition deadline not verified; XLI 2025/26 selection completed February 2026",
+    "source": "https://www.accademialecce.edu.it/dottorato-di-ricerca/",
+    "status": "program-information",
+    "fee": "Check current doctoral call and 2026/27 fee regulations; amount unverified",
+    "tuition": "Doctoral fees and exemptions must be checked in each call; no amount confirmed",
+    "requirements": {
+      "gpa": "A suitable Laurea Magistrale, second-level academic diploma or recognized equivalent for historical XL call; future calls may differ",
+      "ielts": "No universal English exam threshold independently verified",
+      "gre": "Not shown as universal prerequisite",
+      "papers": "No compulsory publication minimum verified",
+      "references": "Check the current call for referee requirements and anonymized project"
+    },
+    "desc": "Established art/design and cultural heritage research doctorate at the Lecce Academy. XLI 2025/26 competition and results are historical. Research fields, document templates and scholarships must be checked against the next officially published call."
+  }
 ];
 export const researchers=[
   {
@@ -1248,6 +1278,60 @@ export const researchers=[
     "source": "https://www.hfbk-dresden.de/hochschule/organisation/fakultaeten/",
     "email": null,
     "summary": "Professor of Art Therapy at HfBK Dresden, leading teaching and research in art therapy and doctoral study in artistic healthcare fields.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 25,
+    "subject": "arts-design",
+    "name": "Professor Patrizia Staffiero",
+    "title": "Doctoral coordinator and professor of Art History",
+    "university": "Accademia di Belle Arti di Lecce",
+    "country": "Italy",
+    "topics": [
+      "Art history and costume history",
+      "academic coordination of the Cultural Heritage and Creativity doctorate",
+      "exhibition practice"
+    ],
+    "source": "https://www.accademialecce.edu.it/elenco-docenti/",
+    "email": "staffiero.p@accademialecce.edu.it",
+    "summary": "The academy lists Patrizia Staffiero as an in-house professor teaching art and costume history and identifies her as coordinator of the Cultural Heritage and Creativity doctoral board.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 26,
+    "subject": "arts-design",
+    "name": "Professor Stefania Galante",
+    "title": "Design lecturer and doctoral board member",
+    "university": "Accademia di Belle Arti di Lecce",
+    "country": "Italy",
+    "topics": [
+      "Design teaching",
+      "creative practice and design research",
+      "doctoral board participation"
+    ],
+    "source": "https://www.accademialecce.edu.it/elenco-docenti/",
+    "email": "galante.s@accademialecce.edu.it",
+    "summary": "The academy identifies Stefania Galante as a design lecturer and as an internal member of its Cultural Heritage and Creativity doctoral research board.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 27,
+    "subject": "arts-design",
+    "name": "Professor Donato Martucci",
+    "title": "Cultural anthropology lecturer and doctoral board member",
+    "university": "Accademia di Belle Arti di Lecce",
+    "country": "Italy",
+    "topics": [
+      "Cultural anthropology",
+      "context and interpretation of cultural heritage",
+      "doctoral arts research participation"
+    ],
+    "source": "https://www.accademialecce.edu.it/elenco-docenti/",
+    "email": "martucci.d@accademialecce.edu.it",
+    "summary": "Donato Martucci is listed by Accademia di Belle Arti di Lecce as a Cultural Anthropology lecturer and internal doctoral board member.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
   }
