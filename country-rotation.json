@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 10,
+  "cycle": 12,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "University of Neuchâtel",
-    "sourceRow": 1357
+    "university": "SUPSI - Scuola universitaria professionale della Svizzera italiana",
+    "sourceRow": 1346
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 11,
-    "australia": 10,
-    "germany": 10,
-    "italy": 10,
-    "usa": 10,
-    "uk": 10,
-    "japan": 10,
-    "sweden": 10,
-    "netherlands": 10,
-    "switzerland": 10
+    "canada": 13,
+    "australia": 12,
+    "germany": 12,
+    "italy": 12,
+    "usa": 12,
+    "uk": 12,
+    "japan": 12,
+    "sweden": 12,
+    "netherlands": 12,
+    "switzerland": 12
   },
-  "updatedAt": "2026-10-14"
+  "updatedAt": "2026-10-15"
 }
