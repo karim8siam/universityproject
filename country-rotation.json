@@ -21,13 +21,14 @@
     "usa",
     "uk",
     "japan",
-    "sweden"
+    "sweden",
+    "netherlands"
   ],
-  "nextCountry": "netherlands",
+  "nextCountry": "switzerland",
   "lastPublished": {
-    "country": "sweden",
-    "university": "Blekinge Institute of Technology",
-    "sourceRow": 1555
+    "country": "netherlands",
+    "university": "University of Groningen",
+    "sourceRow": 1371
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -38,7 +39,8 @@
     "usa": 1,
     "uk": 1,
     "japan": 1,
-    "sweden": 1
+    "sweden": 1,
+    "netherlands": 1
   },
   "updatedAt": "2026-10-14",
   "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
