@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 2,
+  "cycle": 3,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "École Polytechnique Fédérale de Lausanne (EPFL)",
-    "sourceRow": 1369
+    "university": "University of Geneva",
+    "sourceRow": 1354
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 3,
-    "australia": 2,
-    "germany": 2,
-    "italy": 2,
-    "usa": 2,
-    "uk": 2,
-    "japan": 2,
-    "sweden": 2,
-    "netherlands": 2,
-    "switzerland": 2
+    "canada": 4,
+    "australia": 3,
+    "germany": 3,
+    "italy": 3,
+    "usa": 3,
+    "uk": 3,
+    "japan": 3,
+    "sweden": 3,
+    "netherlands": 3,
+    "switzerland": 3
   },
   "updatedAt": "2026-10-14"
 }

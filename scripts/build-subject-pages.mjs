@@ -28,7 +28,17 @@ const universityMap = {
   "The University of Tokyo": "/universities/the-university-of-tokyo/",
   "KTH Royal Institute of Technology": "/universities/kth-royal-institute-of-technology/",
   "Eindhoven University of Technology": "/universities/eindhoven-university-of-technology/",
-  "École Polytechnique Fédérale de Lausanne (EPFL)": "/universities/ecole-polytechnique-federale-de-lausanne/"
+  "École Polytechnique Fédérale de Lausanne (EPFL)": "/universities/ecole-polytechnique-federale-de-lausanne/",
+  "University of Toronto": "/universities/university-of-toronto/",
+  "Curtin University": "/universities/curtin-university/",
+  "Humboldt University of Berlin": "/universities/humboldt-university-of-berlin/",
+  "Catholic University of Sacred Heart": "/universities/catholic-university-of-sacred-heart/",
+  "Harvard University": "/universities/harvard-university/",
+  "University of Cambridge": "/universities/university-of-cambridge/",
+  "Kyoto University": "/universities/kyoto-university/",
+  "Uppsala University": "/universities/uppsala-university/",
+  "TU Delft (Delft University of Technology)": "/universities/delft-university-of-technology/",
+  "University of Geneva": "/universities/university-of-geneva/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
