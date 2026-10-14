@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 26,
+  "cycle": 29,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "Citizen Science Zurich",
-    "sourceRow": 1335
+    "university": "SDBS Swiss Distance Business School",
+    "sourceRow": 1365
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 27,
-    "australia": 26,
-    "germany": 26,
-    "italy": 26,
-    "usa": 26,
-    "uk": 26,
-    "japan": 26,
-    "sweden": 26,
-    "netherlands": 26,
-    "switzerland": 26
+    "canada": 30,
+    "australia": 29,
+    "germany": 29,
+    "italy": 29,
+    "usa": 29,
+    "uk": 29,
+    "japan": 29,
+    "sweden": 29,
+    "netherlands": 29,
+    "switzerland": 29
   },
   "updatedAt": "2026-10-15"
 }
