@@ -12,23 +12,13 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 1,
-  "completedInCycle": [
-    "canada",
-    "australia",
-    "germany",
-    "italy",
-    "usa",
-    "uk",
-    "japan",
-    "sweden",
-    "netherlands"
-  ],
-  "nextCountry": "switzerland",
+  "cycle": 2,
+  "completedInCycle": [],
+  "nextCountry": "canada",
   "lastPublished": {
-    "country": "netherlands",
-    "university": "University of Groningen",
-    "sourceRow": 1371
+    "country": "switzerland",
+    "university": "ETH Zurich",
+    "sourceRow": 1337
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -40,7 +30,8 @@
     "uk": 1,
     "japan": 1,
     "sweden": 1,
-    "netherlands": 1
+    "netherlands": 1,
+    "switzerland": 1
   },
   "updatedAt": "2026-10-14",
   "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
