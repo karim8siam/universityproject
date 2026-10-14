@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 14,
+  "cycle": 16,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "ZHAW Zurich University of Applied Sciences",
-    "sourceRow": 1366
+    "university": "HWZ Zurich University of Applied Sciences in Business Administration",
+    "sourceRow": 1341
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 15,
-    "australia": 14,
-    "germany": 14,
-    "italy": 14,
-    "usa": 14,
-    "uk": 14,
-    "japan": 14,
-    "sweden": 14,
-    "netherlands": 14,
-    "switzerland": 14
+    "canada": 17,
+    "australia": 16,
+    "germany": 16,
+    "italy": 16,
+    "usa": 16,
+    "uk": 16,
+    "japan": 16,
+    "sweden": 16,
+    "netherlands": 16,
+    "switzerland": 16
   },
   "updatedAt": "2026-10-15"
 }
