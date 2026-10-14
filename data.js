@@ -1839,6 +1839,110 @@ export const opportunities=[
       "references": "Nomination by Aichi University International Center following academic review."
     },
     "desc": "Japanese government (MEXT / JASSO) financial award providing ¥48,000 per month in living maintenance for high-achieving self-financed international graduate students enrolled at Aichi University."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri / Mesa, Arizona, USA",
+    "reviewed": "2026-10-14",
+    "id": 64,
+    "subject": "biology",
+    "subjects": ["biology","social-sciences"],
+    "type": "Scholarship",
+    "title": "ATSU Hometown Scholars & Community Health Endowed Scholarships",
+    "source": "https://www.atsu.edu/financial-aid/scholarships",
+    "funding": "Merit and need-based institutional scholarships ranging from $5,000 to full tuition support for future community healthcare leaders",
+    "status": "open-scholarship",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Annual priority financial aid & scholarship application deadline)",
+    "fee": "Free internal application through ATSU ScholarshipUniverse portal",
+    "tuition": "Subsidizes tuition across ATSU-KCOM, SOMA, ASHS, and CGHS degree programs.",
+    "requirements": {
+      "gpa": "Minimum 3.0 cumulative undergraduate GPA in biomedical or health sciences.",
+      "ielts": "U.S. citizen, permanent resident, or eligible international applicant depending on program.",
+      "gre": "Not required for internal scholarship consideration.",
+      "papers": "Demonstrated record of healthcare leadership, volunteerism, or primary care service in underserved rural/urban communities.",
+      "references": "Official ATSU admissions acceptance, FAFSA / institutional financial aid form, and endorsement from a Community Health Center (CHC) leader."
+    },
+    "desc": "Targeted scholarship initiative connecting incoming and continuing health professions students with institutional endowments and partner Community Health Centers (CHCs) to support aspiring healthcare leaders dedicated to serving medically underserved populations."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri / Mesa, Arizona, USA",
+    "reviewed": "2026-10-14",
+    "id": 65,
+    "subject": "biology",
+    "subjects": ["biology"],
+    "type": "Research",
+    "title": "ATSRI Clinician Researcher Development Program (CRDP)",
+    "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/student-research",
+    "funding": "Fully funded research mentorship, laboratory instrumentation access, and conference travel grants up to $2,500",
+    "status": "open-position",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027 for Academic Year Research appointment",
+    "fee": "Free application for matriculated students",
+    "tuition": "Zero tuition; funded research development pathway.",
+    "requirements": {
+      "gpa": "Enrolled student in Master of Science in Biomedical Sciences or Doctor of Health Sciences in good academic standing.",
+      "ielts": "Demonstrated academic and scientific communication skills.",
+      "gre": "Not required.",
+      "papers": "Structured clinical or translational research interest statement outlining problem hypothesis and methodology.",
+      "references": "Sponsorship endorsement from an ATSRI primary research investigator."
+    },
+    "desc": "Structured research pathway through the A.T. Still Research Institute (ATSRI) connecting graduate and clinical students with senior investigators for hands-on clinical trials, neuromusculoskeletal studies, and biomechanics research."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri / Mesa, Arizona, USA",
+    "reviewed": "2026-10-14",
+    "id": 66,
+    "subject": "biology",
+    "subjects": ["biology","social-sciences"],
+    "type": "Internship",
+    "title": "ATSRI Summer Student Research Immersion Experience",
+    "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/student-research",
+    "funding": "Funded student research stipend ($15 to $20/hour for 30 hours per week over 8 weeks) plus project supplies allowance",
+    "status": "open-position",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Annual summer fellowship application cutoff)",
+    "fee": "Free application",
+    "tuition": "Zero tuition; paid summer research appointment.",
+    "requirements": {
+      "gpa": "Enrolled in ATSU health science or biomedical master's programs with minimum 3.0 GPA.",
+      "ielts": "Enrolled student status at ATSU.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae and 500-word statement describing research interests in osteopathic medicine, oral health, or community healthcare.",
+      "references": "One faculty recommendation letter from an ATSU biomedical or clinical professor."
+    },
+    "desc": "Intensive 8-week full-time summer research fellowship (approx. 30 hours/week) under the supervision of ATSRI faculty mentors, conducting laboratory experiments, patient data analysis, and preparing abstracts for scientific presentation."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri / Mesa, Arizona, USA",
+    "reviewed": "2026-10-14",
+    "id": 67,
+    "subject": "biology",
+    "subjects": ["biology"],
+    "type": "Fellowship",
+    "title": "ATSU Pre-Doctoral Anatomy & Clinical Skills Teaching Fellowship",
+    "source": "https://www.atsu.edu/kirksville-college-of-osteopathic-medicine/academics",
+    "funding": "Fully funded: Full tuition scholarship/waiver for the fellowship year plus annual living stipend of $18,000 to $24,000",
+    "status": "open-position",
+    "deadline": "2027-01-30",
+    "deadlineText": "January 30, 2027 (Annual competitive selection for upcoming academic year)",
+    "fee": "Free application",
+    "tuition": "Full tuition waiver covering the dedicated 12-month fellowship intercalated academic year.",
+    "requirements": {
+      "gpa": "Completion of foundational preclinical biomedical and anatomical coursework with top quartile academic marks.",
+      "ielts": "Fluent communication skills suited for laboratory dissection coaching and small-group clinical tutoring.",
+      "gre": "Not required.",
+      "papers": "Demonstrated teaching capability or prior tutoring experience in gross anatomy, embryology, or histology.",
+      "references": "Departmental interview, faculty recommendation letters, and approval by Anatomy Department Chair."
+    },
+    "desc": "Competitive 12-month pre-doctoral academic teaching fellowship within the Department of Anatomy and clinical medicine, providing complete tuition coverage, living stipends, and advanced training in cadaveric dissection, medical education, and biomedical research."
   }
 ];
 export const researchers=[
@@ -2646,6 +2750,20 @@ export const researchers=[
     "source": "https://www.aichi-u.ac.jp/english/academics/chi",
     "email": null,
     "summary": "Professor of International Relations in the Graduate School of Modern Chinese Studies at Aichi University, specializing in Chinese foreign policy, security architecture in Northeast Asia, and modern diplomatic relations.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 48,
+    "subject": "biology",
+    "name": "Dr. Victoria Bryant",
+    "title": "Associate Professor and Chair, Department of Basic Medical Sciences",
+    "university": "A.T. Still University",
+    "country": "United States",
+    "topics": ["Basic Medical Sciences","Neurobiology","Cellular Physiology","Medical Education"],
+    "source": "https://www.atsu.edu/school-of-osteopathic-medicine-in-arizona",
+    "email": null,
+    "summary": "Associate Professor and Chair of the Department of Basic Medical Sciences at ATSU-SOMA, directing foundational biomedical sciences education, cellular physiology, and curriculum innovation in medical education.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
   }
