@@ -169,5 +169,29 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     sitemapUpdated: true
   });
 
+  // 5. Sync Japan Rotation & Progress
+  console.log('Syncing Japan...');
+  await updateRotation('Japan', {
+    publishedCount: 1,
+    currentRoundStatus: 'Round 1 completed',
+    mostRecentPublished: 'Aichi University',
+    updatedDate: '2026-10-14'
+  });
+  await recordProgress({
+    sourceRow: 1623,
+    country: 'Japan',
+    institution: 'Aichi University',
+    officialWebsite: 'https://www.aichi-u.ac.jp/',
+    universityGuide: 'https://universityproject-chi.vercel.app/universities/aichi-university/',
+    publishedContent: 'Graduate School of Economics & International Communication, International Student Tuition Fee Reduction, Aichi Prefectural Scholarship, 3 faculty profiles; live on Vercel',
+    evidenceReviewDate: '2026-10-14',
+    gitCommit: 'ba17e49',
+    deploymentQa: 'GitHub CI SUCCESS; Vercel live 200 OK',
+    nextAction: 'Completed Japan turn; next country Sweden',
+    publishedDone: true,
+    sitemapUpdated: true
+  });
+
   console.log('\nAll sheets synchronized successfully!');
 }
+
