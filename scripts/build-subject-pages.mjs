@@ -48,7 +48,17 @@ const universityMap = {
   "Nagoya University": "/universities/nagoya-university/",
   "Stockholm University": "/universities/stockholm-university/",
   "Universiteit Leiden": "/universities/universiteit-leiden/",
-  "University of Basel": "/universities/university-of-basel/"
+  "University of Basel": "/universities/university-of-basel/",
+  "University of Waterloo": "/universities/university-of-waterloo/",
+  "The University of Queensland": "/universities/the-university-of-queensland/",
+  "RWTH Aachen University": "/universities/rwth-aachen-university/",
+  "University of Milan": "/universities/university-of-milan/",
+  "Massachusetts Institute of Technology": "/universities/massachusetts-institute-of-technology/",
+  "The University of Edinburgh": "/universities/the-university-of-edinburgh/",
+  "Osaka University": "/universities/osaka-university/",
+  "Lund University": "/universities/lund-university/",
+  "Vrije Universiteit Amsterdam": "/universities/vrije-universiteit-amsterdam/",
+  "University of Lausanne": "/universities/university-of-lausanne/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
