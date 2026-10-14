@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 22,
+  "cycle": 24,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "César Ritz Colleges Switzerland",
-    "sourceRow": 1336
+    "university": "Webster Geneva Campus",
+    "sourceRow": 1364
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 23,
-    "australia": 22,
-    "germany": 22,
-    "italy": 22,
-    "usa": 22,
-    "uk": 22,
-    "japan": 22,
-    "sweden": 22,
-    "netherlands": 22,
-    "switzerland": 22
+    "canada": 25,
+    "australia": 24,
+    "germany": 24,
+    "italy": 24,
+    "usa": 24,
+    "uk": 24,
+    "japan": 24,
+    "sweden": 24,
+    "netherlands": 24,
+    "switzerland": 24
   },
   "updatedAt": "2026-10-15"
 }
