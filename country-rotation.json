@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 12,
+  "cycle": 14,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "SUPSI - Scuola universitaria professionale della Svizzera italiana",
-    "sourceRow": 1346
+    "university": "ZHAW Zurich University of Applied Sciences",
+    "sourceRow": 1366
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 13,
-    "australia": 12,
-    "germany": 12,
-    "italy": 12,
-    "usa": 12,
-    "uk": 12,
-    "japan": 12,
-    "sweden": 12,
-    "netherlands": 12,
-    "switzerland": 12
+    "canada": 15,
+    "australia": 14,
+    "germany": 14,
+    "italy": 14,
+    "usa": 14,
+    "uk": 14,
+    "japan": 14,
+    "sweden": 14,
+    "netherlands": 14,
+    "switzerland": 14
   },
   "updatedAt": "2026-10-15"
 }
