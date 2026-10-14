@@ -1081,6 +1081,62 @@ export const opportunities=[
       "references": "Two satisfactory academic references commenting on research potential"
     },
     "desc": "Three-year PhD and one-year MPhil research degrees in the Department of Computer Science at Aberystwyth University, with funded research topics across Intelligent Robotics, Bioinformatics, Vision and Graphics, and Advanced Reasoning."
+  },
+  {
+    "university": "Aichi University",
+    "country": "Japan",
+    "location": "Nagoya and Toyohashi, Aichi Prefecture, Japan",
+    "reviewed": "2026-10-14",
+    "id": 35,
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "type": "Scholarship",
+    "title": "Aichi University International Student Tuition Fee Reduction",
+    "funding": "30% reduction in annual tuition fees, plus merit study grants up to ¥200,000/year",
+    "deadline": null,
+    "deadlineText": "Annual application upon enrollment for April and September intakes",
+    "source": "https://www.aichi-u.ac.jp/english/admissions/scholarships",
+    "status": "program-information",
+    "fee": "Graduate application examination fee typically ¥35,000 for international admissions",
+    "tuition": "Graduate tuition varies by school (approx. ¥700,000 to ¥900,000/yr before 30% reduction; approx. ¥490,000 to ¥630,000 after reduction)",
+    "requirements": {
+      "gpa": "Recognized 16-year bachelor's degree for Master's; Master's degree for Doctoral admission",
+      "ielts": "Japanese language proficiency (JLPT N1 or N2) typically required for instruction; English test scores evaluated where applicable",
+      "gre": "Not required",
+      "papers": "Academic research plan (Kenkyu Keikakusho) in target field required",
+      "references": "Letter of recommendation from academic dean or graduating institution professor"
+    },
+    "desc": "Special financial assistance scheme by Aichi University granting a standard 30% tuition fee waiver to self-financed international students holding College Student residency status across undergraduate and graduate degree schools."
+  },
+  {
+    "university": "Aichi University",
+    "country": "Japan",
+    "location": "Nagoya and Toyohashi, Aichi Prefecture, Japan",
+    "reviewed": "2026-10-14",
+    "id": 36,
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "type": "Master's",
+    "title": "Aichi University Graduate School of Economics & International Communication",
+    "funding": "Eligible for 30% tuition reduction, Gakusyu Shoreikin merit grants (¥200,000/yr), and Aichi Prefectural scholarship nomination",
+    "deadline": null,
+    "deadlineText": "Fall and Spring admission cycles; check university guide for current intake guidelines",
+    "source": "https://www.aichi-u.ac.jp/english/academics",
+    "status": "program-information",
+    "fee": "¥35,000 entrance examination fee",
+    "tuition": "Annual graduate tuition approx. ¥750,000; discounted to approx. ¥525,000 for qualifying self-financed international students",
+    "requirements": {
+      "gpa": "Graduation from an accredited four-year university (bachelor's degree) or equivalent academic standing",
+      "ielts": "JLPT N1 or N2 level Japanese proficiency; TOEFL/IELTS recommended for International Communication applicants",
+      "gre": "Not required",
+      "papers": "Detailed graduation thesis summary and graduate study research proposal (Kenkyu Keikakusho)",
+      "references": "Academic recommendation letter and graduation certificate"
+    },
+    "desc": "Two-year Master's degree programs in Economics and International Communication at Aichi University Nagoya and Toyohashi campuses, offering rigorous coursework in open macroeconomics, international trade, cultural exchange, and global business."
   }
 ];
 export const researchers=[
@@ -1677,6 +1733,63 @@ export const researchers=[
     "source": "https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/hmd1",
     "email": "hmd1@aber.ac.uk",
     "summary": "Senior Lecturer researching applied computer vision, shadow reasoning, robot navigation, and computing education diversity; founder of BCSWomen Lovelace Colloquium and MBE recipient.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 34,
+    "subject": "social-sciences",
+    "name": "Professor Yuki Hirose",
+    "title": "President of Aichi University / Professor of Commercial & Insurance Law",
+    "university": "Aichi University",
+    "country": "Japan",
+    "topics": [
+      "Insurance Law",
+      "Commercial Law",
+      "Maritime Law",
+      "Civil Liability"
+    ],
+    "source": "https://www.aichi-u.ac.jp/english/about/message",
+    "email": null,
+    "summary": "President of Aichi University and Professor of Law, specializing in commercial law, insurance law, and civil liability with previous leadership of the Faculty of Law.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 35,
+    "subject": "social-sciences",
+    "name": "Professor Yutaka Kurihara",
+    "title": "Professor of Economics / Faculty of Economics",
+    "university": "Aichi University",
+    "country": "Japan",
+    "topics": [
+      "International Economics",
+      "International Finance",
+      "Monetary Integration",
+      "Financial Markets"
+    ],
+    "source": "https://www.aichi-u.ac.jp/english/academics/eco",
+    "email": null,
+    "summary": "Professor in the Faculty of Economics at Aichi University, researching international finance, exchange rate behavior, monetary integration, and international capital flows.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 36,
+    "subject": "social-sciences",
+    "name": "Professor Katsushi Tabata",
+    "title": "Professor of Economics / Graduate School of Economics",
+    "university": "Aichi University",
+    "country": "Japan",
+    "topics": [
+      "Open Economy Macroeconomics",
+      "International Finance",
+      "Global Economic Shocks",
+      "Monetary Policy"
+    ],
+    "source": "https://www.aichi-u.ac.jp/english/academics/eco",
+    "email": null,
+    "summary": "Professor of Economics researching open macroeconomics, global transmission of macroeconomic shocks, and international monetary economics in Aichi University's graduate programs.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
   }
