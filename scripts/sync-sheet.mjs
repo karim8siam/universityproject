@@ -146,5 +146,28 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     sitemapUpdated: true
   });
 
+  // 4. Sync UK Rotation & Progress
+  console.log('Syncing United Kingdom...');
+  await updateRotation('United Kingdom', {
+    publishedCount: 1,
+    currentRoundStatus: 'Round 1 completed',
+    mostRecentPublished: 'Aberystwyth University',
+    updatedDate: '2026-10-14'
+  });
+  await recordProgress({
+    sourceRow: 1230,
+    country: 'United Kingdom',
+    institution: 'Aberystwyth University',
+    officialWebsite: 'https://www.aber.ac.uk/',
+    universityGuide: 'https://universityproject-chi.vercel.app/universities/aberystwyth-university/',
+    publishedContent: 'PhD & MPhil in Computer Science, Global Citizens Scholarship, AberDoc PhD Scholarship, 3 faculty profiles; live on Vercel',
+    evidenceReviewDate: '2026-10-14',
+    gitCommit: '0352227',
+    deploymentQa: 'GitHub CI SUCCESS; Vercel live 200 OK',
+    nextAction: 'Completed UK turn; next country Japan',
+    publishedDone: true,
+    sitemapUpdated: true
+  });
+
   console.log('\nAll sheets synchronized successfully!');
 }
