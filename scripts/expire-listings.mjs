@@ -1,9 +1,9 @@
-import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+import {readFileSync,writeFileSync,existsSync,readdirSync} from 'node:fs';
 import {join,dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {opportunities,subjects} from '../data.js';
 const root=dirname(dirname(fileURLToPath(import.meta.url)));
-const today=new Date().toISOString().slice(0,10);
+const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Dhaka',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const slug=s=>String(s).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
 const expired=opportunities.filter(o=>o.deadline&&o.deadline<today);
 const update=(rel,fn)=>{const path=join(root,rel);if(!existsSync(path))throw new Error('Expected file missing '+rel);const original=readFileSync(path,'utf8'),changed=fn(original);if(original!==changed){writeFileSync(path,changed,'utf8');console.log('Updated '+rel);return 1;}return 0};
@@ -20,12 +20,16 @@ for(const o of expired){
  const u='https://universityproject-chi.vercel.app'+route;
  edits+=update('sitemap.xml',xml=>xml.replace(new RegExp('<url><loc>'+u.replace(/[.*+?^$\{\}()|[\]\\]/g,'\\$&')+'<\\/loc><lastmod>[^<]+<\\/lastmod><\\/url>\\n?','g'),''));
 }
-const categories=['universities/acadia-university/index.html','universities/alberta-university-of-the-arts/index.html',...subjects.map(s=>'subjects/'+s.id+'/index.html')];
+const universityPages=existsSync(join(root,'universities'))?readdirSync(join(root,'universities'),{withFileTypes:true}).filter(item=>item.isDirectory()&&existsSync(join(root,'universities',item.name,'index.html'))).map(item=>'universities/'+item.name+'/index.html'):[];
+const categories=[...universityPages,...subjects.map(s=>'subjects/'+s.id+'/index.html')];
 for(const rel of categories){
  edits+=update(rel,html=>html.replace(/<article class="card" data-deadline="(\d{4}-\d{2}-\d{2})">[\s\S]*?<\/article>/g,(record,date)=>date<today?'':record));
 }
 // Archive standalone dated scholarship pages when their verified round has passed.
-const datedScholarshipPages=[{route:'/scholarships/adelaide-graduate-research-talent-scheme-2027/',deadline:'2026-11-02'}];
+const datedScholarshipPages=[
+ {route:'/scholarships/adelaide-graduate-research-talent-scheme-2027/',deadline:'2026-11-02'},
+ {route:'/scholarships/dresden-deutschlandstipendium-2026-27/',deadline:'2026-10-14'}
+];
 for(const item of datedScholarshipPages){
  if(item.deadline>=today)continue;
  const file=item.route.slice(1)+'index.html';

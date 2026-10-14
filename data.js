@@ -1139,5 +1139,117 @@ export const researchers=[
     "summary": "AUArts faculty member associated with Jewellery and Metals, with studio practice in contemporary jewellery and craft.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-13"
+  },
+  {
+    "id": 19,
+    "subject": "physics",
+    "name": "Professor Kishan Dholakia",
+    "title": "Director, Centre of Light for Life",
+    "university": "Adelaide University",
+    "country": "Australia",
+    "topics": [
+      "Optical trapping",
+      "Structured light",
+      "Microscopy",
+      "Biophotonics"
+    ],
+    "source": "https://adelaideuni.edu.au/research/centre-of-light-for-life/",
+    "email": null,
+    "summary": "Director of the Centre of Light for Life at Adelaide University. Research themes include optical trapping, structured light, microscopy and biophotonics.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 20,
+    "subject": "biology",
+    "name": "Associate Professor Kylie Dunning",
+    "title": "Deputy Director, Centre of Light for Life",
+    "university": "Adelaide University",
+    "country": "Australia",
+    "topics": [
+      "Reproductive biology",
+      "Optical embryo imaging",
+      "Biophotonics"
+    ],
+    "source": "https://adelaideuni.edu.au/research/centre-of-light-for-life/",
+    "email": null,
+    "summary": "Deputy Director of the Centre of Light for Life at Adelaide University. Research themes include reproductive biology, optical embryo imaging and biophotonics.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 21,
+    "subject": "computer-science",
+    "name": "Professor Simon Lucey",
+    "title": "Director, Australian Institute for Machine Learning",
+    "university": "Adelaide University",
+    "country": "Australia",
+    "topics": [
+      "Artificial intelligence",
+      "Machine learning",
+      "Computer vision"
+    ],
+    "source": "https://adelaideuni.edu.au/people/simon.lucey",
+    "email": null,
+    "summary": "Director of the Australian Institute for Machine Learning at Adelaide University, studying artificial intelligence and foundational machine learning.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 22,
+    "subject": "arts-design",
+    "name": "Professor Angela Matyssek",
+    "title": "Professor of Art History",
+    "university": "Academy of Fine Arts Dresden",
+    "country": "Germany",
+    "topics": [
+      "Art history",
+      "Modern art",
+      "Contemporary art",
+      "Art theory"
+    ],
+    "source": "https://www.hfbk-dresden.de/lehre-forschung/lehrgebiete/kunstgeschichte/",
+    "email": null,
+    "summary": "Professor of Art History at HfBK Dresden, focusing on modern and contemporary art, art theory, and historical/theoretical image studies.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 23,
+    "subject": "arts-design",
+    "name": "Professor Samo Tomšič",
+    "title": "Professor of Philosophy and Aesthetics",
+    "university": "Academy of Fine Arts Dresden",
+    "country": "Germany",
+    "topics": [
+      "Philosophical aesthetics",
+      "Critical theory",
+      "Political philosophy",
+      "Materialism"
+    ],
+    "source": "https://www.hfbk-dresden.de/lehre-forschung/lehrgebiete/philosophie",
+    "email": null,
+    "summary": "Professor in philosophy and aesthetics at HfBK Dresden, covering critical theory, political philosophy, materialism, and contemporary artistic practice.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 24,
+    "subject": "arts-design",
+    "name": "Professor Alexandra Hopf",
+    "title": "Professor of Art Therapy",
+    "university": "Academy of Fine Arts Dresden",
+    "country": "Germany",
+    "topics": [
+      "Art therapy",
+      "Clinical art therapy",
+      "Doctoral art research"
+    ],
+    "source": "https://www.hfbk-dresden.de/hochschule/organisation/fakultaeten/",
+    "email": null,
+    "summary": "Professor of Art Therapy at HfBK Dresden, leading teaching and research in art therapy and doctoral study in artistic healthcare fields.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
   }
 ];
+
