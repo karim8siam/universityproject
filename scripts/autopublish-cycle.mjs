@@ -3,6 +3,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 import { recordProgress, updateRotation } from './sync-sheet.mjs';
+import { generateAllSubjectPages } from './build-subject-pages.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -606,6 +607,10 @@ export async function runAutopublishCycle() {
   write('country-rotation.json', JSON.stringify(newRotation, null, 2) + '\n');
 
   console.log(`\nLocal files created and updated successfully!`);
+
+  // 11b. Regenerate all subject pages from live data.js
+  console.log(`Regenerating all 9 subject field pages...`);
+  generateAllSubjectPages();
 
   // 12. Run Site Verification
   console.log(`Running verify-site.mjs...`);
