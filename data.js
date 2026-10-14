@@ -1022,6 +1022,65 @@ export const opportunities=[
       "references": "Formal acceptance by an HfBK Dresden doctoral supervisor required"
     },
     "desc": "Doctor of Philosophy study in art history, philosophical aesthetics, art technology, conservation/restoration, and art therapy, alongside advanced Meisterschüler studio art study."
+  },
+  {
+    "university": "Aberystwyth University",
+    "country": "United Kingdom",
+    "location": "Aberystwyth, Ceredigion, Wales, United Kingdom",
+    "reviewed": "2026-10-14",
+    "id": 33,
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "type": "Scholarship",
+    "title": "Aberystwyth Global Citizens Scholarship and Housing Award",
+    "funding": "£3,000 to £3,800/year fee discount plus free university accommodation for at least one year (worth over £6,000)",
+    "deadline": null,
+    "deadlineText": "Applications open for 2026-2027 and 2027-2028 intakes; awards allocated upon postgraduate offer",
+    "source": "https://www.aber.ac.uk/en/study-with-us/international/scholarships/features/global-citizens-scholarship/",
+    "status": "program-information",
+    "fee": "No application fee for direct postgraduate research admission",
+    "tuition": "Postgraduate Research international fee £20,270 (humanities) or £22,870 (sciences) before scholarship; discounted to £17,270/£19,070 plus free housing.",
+    "requirements": {
+      "gpa": "Relevant UK 2:1 Honours degree or international equivalent (typically 3.0/4.0 or ~60-65% depending on qualification)",
+      "ielts": "Academic IELTS 6.5 overall with minimum 5.5 to 6.0 in each component (program-specific)",
+      "gre": "Not required by Aberystwyth postgraduate regulations",
+      "papers": "Research proposal required for PhD/MPhil; published papers advantageous but not mandatory",
+      "references": "Two academic reference letters required with postgraduate research submission"
+    },
+    "desc": "Comprehensive international student scholarship package at Aberystwyth University providing up to £3,800 per year tuition fee deduction and complimentary university accommodation for full-time Master's and PhD candidates across Sciences and Humanities."
+  },
+  {
+    "university": "Aberystwyth University",
+    "country": "United Kingdom",
+    "location": "Aberystwyth, Ceredigion, Wales, United Kingdom",
+    "reviewed": "2026-10-14",
+    "id": 34,
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering",
+      "mathematics"
+    ],
+    "type": "PhD",
+    "title": "Aberystwyth University PhD and MPhil in Computer Science",
+    "funding": "Eligible for AberDoc PhD Scholarships (UK rate stipend and fees) and Departmental Doctoral Overseas fee-difference scholarships",
+    "deadline": null,
+    "deadlineText": "Research admissions open year-round; AberDoc competition cutoff normally January",
+    "source": "https://www.aber.ac.uk/en/cs/study-with-us/pg/research-degrees/",
+    "status": "program-information",
+    "fee": "Free online direct postgraduate application via Aberystwyth admissions portal",
+    "tuition": "Full-time international PhD tuition £22,870/year (Sciences); UK home rate £4,786/year (Research Council rate)",
+    "requirements": {
+      "gpa": "First or Upper Second Class (2:1) Honours degree in Computer Science, Mathematics, or related STEM subject",
+      "ielts": "IELTS 6.5 overall (minimum 6.0 in each sub-skill) or equivalent approved English test",
+      "gre": "Not required",
+      "papers": "Detailed research proposal (typically 1,500-2,000 words) matching department research groups",
+      "references": "Two satisfactory academic references commenting on research potential"
+    },
+    "desc": "Three-year PhD and one-year MPhil research degrees in the Department of Computer Science at Aberystwyth University, with funded research topics across Intelligent Robotics, Bioinformatics, Vision and Graphics, and Advanced Reasoning."
   }
 ];
 export const researchers=[
@@ -1561,6 +1620,63 @@ export const researchers=[
     "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/institute-members",
     "email": null,
     "summary": "Co-director of the Center for Oral Health Research at ATSU, focusing on oral health clinical studies and dental education.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 31,
+    "subject": "computer-science",
+    "name": "Professor Bernard Tiddeman",
+    "title": "Professor in Computer Science / Director of Vision, Graphics and Visualisation Group",
+    "university": "Aberystwyth University",
+    "country": "United Kingdom",
+    "topics": [
+      "Computer Vision",
+      "Machine Learning",
+      "Computer Graphics",
+      "Medical Image Analysis"
+    ],
+    "source": "https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/bpt",
+    "email": "bpt@aber.ac.uk",
+    "summary": "Heads the Vision, Graphics and Visualisation group at Aberystwyth University, researching 3D shape analysis, facial analysis, medical imaging, and pattern recognition.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 32,
+    "subject": "computer-science",
+    "name": "Professor Qiang Shen",
+    "title": "Professor of Computer Science / Computational Intelligence",
+    "university": "Aberystwyth University",
+    "country": "United Kingdom",
+    "topics": [
+      "Artificial Intelligence",
+      "Fuzzy Systems",
+      "Computational Intelligence",
+      "Pattern Recognition"
+    ],
+    "source": "https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/qqs",
+    "email": "qqs@aber.ac.uk",
+    "summary": "Fellow of the Royal Academy of Engineering (FREng) and Chair of the UK REF 2029 Subpanel for Computer Science; specialist in approximate reasoning and computational intelligence.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 33,
+    "subject": "computer-science",
+    "name": "Dr Hannah Dee",
+    "title": "Senior Lecturer in Computer Science",
+    "university": "Aberystwyth University",
+    "country": "United Kingdom",
+    "topics": [
+      "Computer Vision",
+      "Shadow Detection",
+      "Robotics",
+      "AI Education"
+    ],
+    "source": "https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/hmd1",
+    "email": "hmd1@aber.ac.uk",
+    "summary": "Senior Lecturer researching applied computer vision, shadow reasoning, robot navigation, and computing education diversity; founder of BCSWomen Lovelace Colloquium and MBE recipient.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
   }

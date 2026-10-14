@@ -18,13 +18,14 @@
     "australia",
     "germany",
     "italy",
-    "usa"
+    "usa",
+    "uk"
   ],
-  "nextCountry": "uk",
+  "nextCountry": "japan",
   "lastPublished": {
-    "country": "usa",
-    "university": "A.T. Still University",
-    "sourceRow": 559
+    "country": "uk",
+    "university": "Aberystwyth University",
+    "sourceRow": 1230
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -32,7 +33,8 @@
     "australia": 1,
     "germany": 1,
     "italy": 1,
-    "usa": 1
+    "usa": 1,
+    "uk": 1
   },
   "updatedAt": "2026-10-14",
   "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
