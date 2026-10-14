@@ -1,0 +1,67 @@
+name: OpenField 24/7 Autonomous Publisher
+
+on:
+  schedule:
+    # Runs every 2 hours (12 times per day around the clock, even when laptop is turned off)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      forceCountry:
+        description: 'Optionally specify target country ID (leave empty for automatic rotation)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: openfield-autopublish
+  cancel-in-progress: false
+
+jobs:
+  publish-next-university:
+    name: Cycle, verify and publish next institution
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run autonomous publishing cycle
+        env:
+          FORCE_COUNTRY: ${{ github.event.inputs.forceCountry }}
+        run: |
+          node scripts/autopublish-cycle.mjs
+
+      - name: Verify site integrity & SEO sitemap
+        run: |
+          node scripts/verify-site.mjs
+
+      - name: Commit and push changes to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            COMMIT_MSG=$(node -e '
+              try {
+                const rot = JSON.parse(require("fs").readFileSync("country-rotation.json", "utf8"));
+                console.log(`feat(autopublish): publish ${rot.lastPublished.university} (${rot.lastPublished.country}) [skip ci]`);
+              } catch(e) {
+                console.log("feat(autopublish): publish next university in country rotation [skip ci]");
+              }
+            ')
+            git commit -m "$COMMIT_MSG"
+            git push origin main
+            echo "Successfully published and pushed to origin main! Vercel will now deploy automatically."
+          else
+            echo "No changes detected to commit."
+          fi

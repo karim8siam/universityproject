@@ -20,13 +20,14 @@
     "italy",
     "usa",
     "uk",
-    "japan"
+    "japan",
+    "sweden"
   ],
-  "nextCountry": "sweden",
+  "nextCountry": "netherlands",
   "lastPublished": {
-    "country": "japan",
-    "university": "Aichi University",
-    "sourceRow": 1623
+    "country": "sweden",
+    "university": "Blekinge Institute of Technology",
+    "sourceRow": 1555
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -36,7 +37,8 @@
     "italy": 1,
     "usa": 1,
     "uk": 1,
-    "japan": 1
+    "japan": 1,
+    "sweden": 1
   },
   "updatedAt": "2026-10-14",
   "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."

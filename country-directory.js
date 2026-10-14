@@ -8,7 +8,7 @@ const more=document.getElementById("show-more-institutions");
 if(!id||!el)return;
 const PAGE=24;
 let records=[],limit=PAGE;
-const published={canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"},australia:{"Adelaide University":"/universities/adelaide-university/"},germany:{"Academy of Fine Arts Dresden":"/universities/academy-of-fine-arts-dresden/"},italy:{"Accademia di Belle Arti di Lecce":"/universities/accademia-di-belle-arti-di-lecce/"},usa:{"A.T. Still University":"/universities/a-t-still-university/"}};
+const published={sweden:{"Blekinge Institute of Technology":"/universities/blekinge-institute-of-technology/"},canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"},australia:{"Adelaide University":"/universities/adelaide-university/"},germany:{"Academy of Fine Arts Dresden":"/universities/academy-of-fine-arts-dresden/"},italy:{"Accademia di Belle Arti di Lecce":"/universities/accademia-di-belle-arti-di-lecce/"},usa:{"A.T. Still University":"/universities/a-t-still-university/"}};
 const safeLink=(value)=>{try{const u=new URL(value);return u.protocol==="https:"||u.protocol==="http:"?u.href:null}catch{return null}};
 const create=(tag,className,text)=>{const n=document.createElement(tag);if(className)n.className=className;if(text!==undefined)n.textContent=text;return n};
 function draw(){

@@ -1137,6 +1137,58 @@ export const opportunities=[
       "references": "Academic recommendation letter and graduation certificate"
     },
     "desc": "Two-year Master's degree programs in Economics and International Communication at Aichi University Nagoya and Toyohashi campuses, offering rigorous coursework in open macroeconomics, international trade, cultural exchange, and global business."
+  },
+  {
+    "university": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "location": "Karlskrona, Sweden",
+    "reviewed": "2026-10-14",
+    "id": 37,
+    "subject": "engineering",
+    "subjects": ["engineering","computer-science"],
+    "type": "Scholarship",
+    "title": "BTH Scholarship Programme for Prospective Students",
+    "source": "https://www.bth.se/eng/education/contact-and-service/scholarships/",
+    "funding": "Partial funding: 50% tuition fee reduction",
+    "status": "open-scholarship",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Swedish national autumn admission round 1 deadline)",
+    "fee": "SEK 70,000 per semester (non-EU standard tuition; 50% covered by scholarship)",
+    "tuition": "SEK 70,000 per semester (SEK 140,000/year); reduced to SEK 35,000 per semester with BTH scholarship",
+    "requirements": {
+      "gpa": "Demonstrated academic excellence in previous undergraduate Bachelor of Science degree",
+      "ielts": "Swedish English 6 equivalent (IELTS 6.5 overall with minimum 5.5 in each section)",
+      "gre": "Not required by Swedish universities",
+      "papers": "Completed undergraduate bachelor thesis project of at least 15 ECTS credits",
+      "references": "Letters of academic recommendation, motivation essay, and passport copy"
+    },
+    "desc": "Official merit-based tuition fee reduction covering 50% of tuition fees for non-EU/EEA students admitted to campus-based Master's degree programs at Blekinge Institute of Technology."
+  },
+  {
+    "university": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "location": "Karlskrona, Sweden",
+    "reviewed": "2026-10-14",
+    "id": 38,
+    "subject": "computer-science",
+    "subjects": ["computer-science","engineering"],
+    "type": "PhD",
+    "title": "Blekinge Institute of Technology PhD and Licentiate in Software Engineering",
+    "source": "https://www.bth.se/eng/research/third-cycle-studies/",
+    "funding": "Fully funded: salaried university doctoral employment (doktorandanstallning) under Swedish collective agreements",
+    "status": "open-position",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027 (Departmental recruitment intake; verify specific active job vacancy call)",
+    "fee": "Free (Tuition-free third-cycle doctoral education across Swedish public universities)",
+    "tuition": "Zero tuition. Appointed PhD researchers hold salaried employment contracts with comprehensive Swedish state social benefits and pension contributions.",
+    "requirements": {
+      "gpa": "Master of Science degree (120 ECTS) in Software Engineering, Computer Science or related quantitative field",
+      "ielts": "Swedish English 6 level proficiency (IELTS 6.5+ or university-level English instruction verification)",
+      "gre": "Not required",
+      "papers": "Master's thesis or peer-reviewed publication in software systems, requirements, or empirical engineering",
+      "references": "Two academic or industry research reference letters, research statement, and CV"
+    },
+    "desc": "Four-year salaried doctoral research appointment (or two-year licentiate) in the Department of Software Engineering at BTH, ranked among Europe's premier research centers for empirical software engineering and industrial cooperation."
   }
 ];
 export const researchers=[
@@ -1792,6 +1844,47 @@ export const researchers=[
     "summary": "Professor of Economics researching open macroeconomics, global transmission of macroeconomic shocks, and international monetary economics in Aichi University's graduate programs.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
+  },
+  {
+    "id": 37,
+    "subject": "engineering",
+    "name": "Professor Tony Gorschek",
+    "title": "Professor of Software Engineering / Head of Software Engineering Department",
+    "university": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "topics": ["Requirements Engineering","Software Architecture","Technology Transfer","Empirical Software Engineering"],
+    "source": "https://www.bth.se/staff/tony-gorschek-tgo/",
+    "email": null,
+    "summary": "Professor of Software Engineering and Head of Department at BTH, pioneering technology transfer models, industry-academia co-production, and requirements engineering methodologies.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 38,
+    "subject": "computer-science",
+    "name": "Professor Darja Smite",
+    "title": "Professor of Software Engineering / Department of Software Engineering",
+    "university": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "topics": ["Global Software Engineering","Distributed Software Teams","Work-from-Anywhere Software Teams","Empirical Engineering"],
+    "source": "https://www.bth.se/staff/darja-smite-dsm/",
+    "email": null,
+    "summary": "Professor of Software Engineering at BTH specializing in global software development, remote and hybrid software teams, distributed collaboration, and large-scale agile transitions.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 39,
+    "subject": "computer-science",
+    "name": "Professor Håkan Grahn",
+    "title": "Professor of Computer Engineering / Department of Computer Science",
+    "university": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "topics": ["Parallel Computing","High Performance Computing","Computer Architecture","Hardware Acceleration for AI"],
+    "source": "https://www.bth.se/staff/hakan-grahn-hgr/",
+    "email": null,
+    "summary": "Professor of Computer Engineering in the Department of Computer Science at BTH, researching multiprocessor architectures, parallel computing systems, and accelerated computing for machine learning.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
   }
 ];
-
