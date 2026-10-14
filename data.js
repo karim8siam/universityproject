@@ -847,6 +847,63 @@ export const opportunities=[
       "references": "Check the current call for referee requirements and anonymized project"
     },
     "desc": "Established art/design and cultural heritage research doctorate at the Lecce Academy. XLI 2025/26 competition and results are historical. Research fields, document templates and scholarships must be checked against the next officially published call."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri / Mesa, Arizona, USA",
+    "reviewed": "2026-10-14",
+    "id": 27,
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "type": "PhD",
+    "title": "Doctor of Health Sciences ATSU",
+    "funding": "Competitive institutional aid and loans; no salaried research studentship verified",
+    "deadline": null,
+    "deadlineText": "Four start periods annually; verify current term intake deadlines",
+    "source": "https://www.atsu.edu/college-of-graduate-health-studies/academics/doctor-of-health-sciences-degree-online",
+    "status": "program-information",
+    "fee": "Nonrefundable application fee applies; exact current amount unverified",
+    "tuition": "Check ATSU tuition breakdown; per-credit tuition and technology fees apply",
+    "requirements": {
+      "gpa": "Bachelor's track: minimum 3.0/4.0 GPA; Master's track: minimum 2.5/4.0 GPA from accredited institutions",
+      "ielts": "English language proficiency required where applicable; check program-specific guidelines",
+      "gre": "No universal GRE requirement specified for DHSc admission",
+      "papers": "No compulsory publication requirement verified",
+      "references": "Resume, official transcripts, essay, and virtual interview required"
+    },
+    "desc": "Applied online doctoral degree for healthcare leaders comprising 70 credits and an Applied Research Project. Does not constitute a salaried PhD research fellowship."
+  },
+  {
+    "university": "A.T. Still University",
+    "country": "United States",
+    "location": "Kirksville, Missouri, USA",
+    "reviewed": "2026-10-14",
+    "id": 28,
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "type": "Master's",
+    "title": "Master of Science in Biomedical Sciences — KCOM",
+    "funding": "Graduate aid and external scholarships; thesis work is required but not a guaranteed salary",
+    "deadline": null,
+    "deadlineText": "PostbacCAS application portal; verify next cycle deadline with KCOM",
+    "source": "https://www.atsu.edu/kirksville-college-of-osteopathic-medicine/academics/master-of-science-in-biomedical-sciences",
+    "status": "program-information",
+    "fee": "PostbacCAS and secondary application fee apply; exact amount unverified",
+    "tuition": "Check ATSU-KCOM school-specific graduate tuition and fees",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree; minimum 2.65 overall and science GPA on a 4.0 scale",
+      "ielts": "U.S. citizenship or permanent residence currently required by KCOM",
+      "gre": "GRE, MCAT, or DAT taken within the past three years required",
+      "papers": "Research thesis is required for graduation; prior publications optional",
+      "references": "Two letters: one science academic advisor/professor, one physician or science professor"
+    },
+    "desc": "Biomedical research master's degree requiring at least 32.5 credits and a research thesis at ATSU Kirksville. Restricted to U.S. citizens and permanent residents."
   }
 ];
 export const researchers=[
@@ -1332,6 +1389,60 @@ export const researchers=[
     "source": "https://www.accademialecce.edu.it/elenco-docenti/",
     "email": "martucci.d@accademialecce.edu.it",
     "summary": "Donato Martucci is listed by Accademia di Belle Arti di Lecce as a Cultural Anthropology lecturer and internal doctoral board member.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 28,
+    "subject": "biology",
+    "name": "Dr. Brian Degenhardt",
+    "title": "Director, Center for Research in Osteopathic Manipulative Medicine",
+    "university": "A.T. Still University",
+    "country": "United States",
+    "topics": [
+      "Osteopathic manipulative treatment",
+      "Palpation measurement",
+      "Clinical research"
+    ],
+    "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/institute-members",
+    "email": "bdegenhardt@atsu.edu",
+    "summary": "Director of the Center for Research in Osteopathic Manipulative Medicine and a leader of clinical osteopathic research at ATSU.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 29,
+    "subject": "biology",
+    "name": "Dr. Eric Snider",
+    "title": "Co-Director, CROMM and Professor of OMM",
+    "university": "A.T. Still University",
+    "country": "United States",
+    "topics": [
+      "Osteopathic manual diagnosis",
+      "Palpatory skills research",
+      "Diagnostic training"
+    ],
+    "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/institute-members",
+    "email": "esnider@atsu.edu",
+    "summary": "CROMM co-director and professor of osteopathic manipulative medicine at ATSU, researching quantitative assessment of palpatory diagnosis.",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-14"
+  },
+  {
+    "id": 30,
+    "subject": "biology",
+    "name": "Dr. Ann Spolarich",
+    "title": "Co-Director, Arizona Center for Oral Health Research",
+    "university": "A.T. Still University",
+    "country": "United States",
+    "topics": [
+      "Oral health research",
+      "Whole-person health",
+      "Clinical dental education"
+    ],
+    "source": "https://www.atsu.edu/a-t-still-research-institute/about-atsri/institute-members",
+    "email": null,
+    "summary": "Co-director of the Center for Oral Health Research at ATSU, focusing on oral health clinical studies and dental education.",
     "recruiting": "Not verified",
     "reviewed": "2026-10-14"
   }
