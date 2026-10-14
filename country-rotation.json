@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 24,
+  "cycle": 26,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "Webster Geneva Campus",
-    "sourceRow": 1364
+    "university": "Citizen Science Zurich",
+    "sourceRow": 1335
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 25,
-    "australia": 24,
-    "germany": 24,
-    "italy": 24,
-    "usa": 24,
-    "uk": 24,
-    "japan": 24,
-    "sweden": 24,
-    "netherlands": 24,
-    "switzerland": 24
+    "canada": 27,
+    "australia": 26,
+    "germany": 26,
+    "italy": 26,
+    "usa": 26,
+    "uk": 26,
+    "japan": 26,
+    "sweden": 26,
+    "netherlands": 26,
+    "switzerland": 26
   },
   "updatedAt": "2026-10-15"
 }
