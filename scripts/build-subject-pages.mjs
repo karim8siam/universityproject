@@ -16,7 +16,19 @@ const universityMap = {
   "A.T. Still University": "/universities/a-t-still-university/",
   "Aberystwyth University": "/universities/aberystwyth-university/",
   "Aichi University": "/universities/aichi-university/",
-  "Blekinge Institute of Technology": "/universities/blekinge-institute-of-technology/"
+  "Blekinge Institute of Technology": "/universities/blekinge-institute-of-technology/",
+  "University of Groningen": "/universities/university-of-groningen/",
+  "ETH Zurich": "/universities/eth-zurich/",
+  "The University of British Columbia": "/universities/university-of-british-columbia/",
+  "The University of Melbourne": "/universities/the-university-of-melbourne/",
+  "Technical University of Munich": "/universities/technical-university-of-munich/",
+  "Sapienza University of Rome": "/universities/sapienza-university-of-rome/",
+  "American University": "/universities/american-university/",
+  "Imperial College London": "/universities/imperial-college-london/",
+  "The University of Tokyo": "/universities/the-university-of-tokyo/",
+  "KTH Royal Institute of Technology": "/universities/kth-royal-institute-of-technology/",
+  "Eindhoven University of Technology": "/universities/eindhoven-university-of-technology/",
+  "École Polytechnique Fédérale de Lausanne (EPFL)": "/universities/ecole-polytechnique-federale-de-lausanne/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;

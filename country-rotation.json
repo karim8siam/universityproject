@@ -13,26 +13,36 @@
     "switzerland"
   ],
   "cycle": 2,
-  "completedInCycle": [],
+  "completedInCycle": [
+    "canada",
+    "australia",
+    "germany",
+    "italy",
+    "usa",
+    "uk",
+    "japan",
+    "sweden",
+    "netherlands",
+    "switzerland"
+  ],
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "ETH Zurich",
-    "sourceRow": 1337
+    "university": "École Polytechnique Fédérale de Lausanne (EPFL)",
+    "sourceRow": 1369
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 2,
-    "australia": 1,
-    "germany": 1,
-    "italy": 1,
-    "usa": 1,
-    "uk": 1,
-    "japan": 1,
-    "sweden": 1,
-    "netherlands": 1,
-    "switzerland": 1
+    "canada": 3,
+    "australia": 2,
+    "germany": 2,
+    "italy": 2,
+    "usa": 2,
+    "uk": 2,
+    "japan": 2,
+    "sweden": 2,
+    "netherlands": 2,
+    "switzerland": 2
   },
-  "updatedAt": "2026-10-14",
-  "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
+  "updatedAt": "2026-10-14"
 }
