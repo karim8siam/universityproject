@@ -88,7 +88,17 @@ const universityMap = {
   "University of Tsukuba": "/universities/university-of-tsukuba/",
   "Stockholm School of Economics": "/universities/stockholm-school-of-economics/",
   "University of Twente": "/universities/university-of-twente/",
-  "University of St. Gallen": "/universities/university-of-st-gallen/"
+  "University of St. Gallen": "/universities/university-of-st-gallen/",
+  "Western University": "/universities/western-university/",
+  "RMIT University": "/universities/rmit-university/",
+  "University of Göttingen": "/universities/university-of-goettingen/",
+  "University of Padua": "/universities/university-of-padua/",
+  "Yale University": "/universities/yale-university/",
+  "University of Glasgow": "/universities/university-of-glasgow/",
+  "Waseda University": "/universities/waseda-university/",
+  "Swedish University of Agricultural Sciences": "/universities/swedish-university-of-agricultural-sciences/",
+  "Wageningen University & Research": "/universities/wageningen-university-and-research/",
+  "University of Bern": "/universities/university-of-bern/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
