@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 18,
+  "cycle": 20,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "Haute École de Santé Vaud (HESAV)",
-    "sourceRow": 1339
+    "university": "University of Education Zurich",
+    "sourceRow": 1353
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 19,
-    "australia": 18,
-    "germany": 18,
-    "italy": 18,
-    "usa": 18,
-    "uk": 18,
-    "japan": 18,
-    "sweden": 18,
-    "netherlands": 18,
-    "switzerland": 18
+    "canada": 21,
+    "australia": 20,
+    "germany": 20,
+    "italy": 20,
+    "usa": 20,
+    "uk": 20,
+    "japan": 20,
+    "sweden": 20,
+    "netherlands": 20,
+    "switzerland": 20
   },
   "updatedAt": "2026-10-15"
 }
