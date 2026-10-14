@@ -8,7 +8,7 @@ const more=document.getElementById("show-more-institutions");
 if(!id||!el)return;
 const PAGE=24;
 let records=[],limit=PAGE;
-const published={canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"},australia:{"Adelaide University":"/universities/adelaide-university/"}};
+const published={canada:{"Acadia University":"/universities/acadia-university/","Alberta University of the Arts":"/universities/alberta-university-of-the-arts/"},australia:{"Adelaide University":"/universities/adelaide-university/"},germany:{"Academy of Fine Arts Dresden":"/universities/academy-of-fine-arts-dresden/"}};
 const safeLink=(value)=>{try{const u=new URL(value);return u.protocol==="https:"||u.protocol==="http:"?u.href:null}catch{return null}};
 const create=(tag,className,text)=>{const n=document.createElement(tag);if(className)n.className=className;if(text!==undefined)n.textContent=text;return n};
 function draw(){
@@ -24,7 +24,7 @@ const nameLink=detail?create("a","",x.name):null;
 if(nameLink){nameLink.href=detail;heading.appendChild(nameLink)}else heading.textContent=x.name;
 main.appendChild(heading);
 const status=x.status==="Keep — merge/verify parent"?"Campus / parent institution under review":x.status==="Keep — needs verification"?"Institution type to verify":"Academic verification pending";
-main.appendChild(create("div","subtext",detail?(x.name==="Acadia University"?"Wolfville, Nova Scotia · university details reviewed":"Calgary, Alberta · university details reviewed"):status));
+main.appendChild(create("div","subtext",detail?(id==="germany"?"Dresden, Saxony · doctoral and arts study reviewed":x.name==="Acadia University"?"Wolfville, Nova Scotia · university details reviewed":id==="australia"?"Adelaide, South Australia · university details reviewed":"Calgary, Alberta · university details reviewed"):status));
 if(detail){
 const link=create("a","visit","University guide, programs and funding ↗");
 link.href=detail;main.appendChild(link);

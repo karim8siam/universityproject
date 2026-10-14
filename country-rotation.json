@@ -1,11 +1,34 @@
 {
   "schemaVersion": 1,
-  "order": ["canada","australia","germany","italy","usa","uk","japan","sweden","netherlands","switzerland"],
+  "order": [
+    "canada",
+    "australia",
+    "germany",
+    "italy",
+    "usa",
+    "uk",
+    "japan",
+    "sweden",
+    "netherlands",
+    "switzerland"
+  ],
   "cycle": 1,
-  "completedInCycle": ["canada","australia"],
-  "nextCountry": "germany",
-  "lastPublished": {"country":"australia","university":"Adelaide University","sourceRow":146},
+  "completedInCycle": [
+    "canada",
+    "australia",
+    "germany"
+  ],
+  "nextCountry": "italy",
+  "lastPublished": {
+    "country": "germany",
+    "university": "Academy of Fine Arts Dresden",
+    "sourceRow": 209
+  },
   "skipExhausted": true,
-  "publishedInCountry": {"canada":2,"australia":1},
-  "updatedAt":"2026-10-14"
+  "publishedInCountry": {
+    "canada": 2,
+    "australia": 1,
+    "germany": 1
+  },
+  "updatedAt": "2026-10-14"
 }
