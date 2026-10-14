@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 20,
+  "cycle": 22,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "University of Education Zurich",
-    "sourceRow": 1353
+    "university": "César Ritz Colleges Switzerland",
+    "sourceRow": 1336
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 21,
-    "australia": 20,
-    "germany": 20,
-    "italy": 20,
-    "usa": 20,
-    "uk": 20,
-    "japan": 20,
-    "sweden": 20,
-    "netherlands": 20,
-    "switzerland": 20
+    "canada": 23,
+    "australia": 22,
+    "germany": 22,
+    "italy": 22,
+    "usa": 22,
+    "uk": 22,
+    "japan": 22,
+    "sweden": 22,
+    "netherlands": 22,
+    "switzerland": 22
   },
   "updatedAt": "2026-10-15"
 }
