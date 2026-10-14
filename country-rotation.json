@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 3,
+  "cycle": 4,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "University of Geneva",
-    "sourceRow": 1354
+    "university": "University of Basel",
+    "sourceRow": 1360
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 4,
-    "australia": 3,
-    "germany": 3,
-    "italy": 3,
-    "usa": 3,
-    "uk": 3,
-    "japan": 3,
-    "sweden": 3,
-    "netherlands": 3,
-    "switzerland": 3
+    "canada": 5,
+    "australia": 4,
+    "germany": 4,
+    "italy": 4,
+    "usa": 4,
+    "uk": 4,
+    "japan": 4,
+    "sweden": 4,
+    "netherlands": 4,
+    "switzerland": 4
   },
   "updatedAt": "2026-10-14"
 }

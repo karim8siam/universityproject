@@ -38,7 +38,17 @@ const universityMap = {
   "Kyoto University": "/universities/kyoto-university/",
   "Uppsala University": "/universities/uppsala-university/",
   "TU Delft (Delft University of Technology)": "/universities/delft-university-of-technology/",
-  "University of Geneva": "/universities/university-of-geneva/"
+  "University of Geneva": "/universities/university-of-geneva/",
+  "McGill University": "/universities/mcgill-university/",
+  "The University of Sydney": "/universities/the-university-of-sydney/",
+  "Heidelberg University": "/universities/heidelberg-university/",
+  "University of Milano-Bicocca": "/universities/university-of-milano-bicocca/",
+  "Stanford University": "/universities/stanford-university/",
+  "University College London": "/universities/university-college-london/",
+  "Nagoya University": "/universities/nagoya-university/",
+  "Stockholm University": "/universities/stockholm-university/",
+  "Universiteit Leiden": "/universities/universiteit-leiden/",
+  "University of Basel": "/universities/university-of-basel/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
