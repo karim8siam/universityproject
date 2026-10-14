@@ -58,7 +58,17 @@ const universityMap = {
   "Osaka University": "/universities/osaka-university/",
   "Lund University": "/universities/lund-university/",
   "Vrije Universiteit Amsterdam": "/universities/vrije-universiteit-amsterdam/",
-  "University of Lausanne": "/universities/university-of-lausanne/"
+  "University of Lausanne": "/universities/university-of-lausanne/",
+  "McMaster University": "/universities/mcmaster-university/",
+  "UNSW Sydney": "/universities/unsw-sydney/",
+  "Ludwig Maximilian University of Munich": "/universities/ludwig-maximilian-university-of-munich/",
+  "University of Naples Federico II": "/universities/university-of-naples-federico-ii/",
+  "University of California, Berkeley": "/universities/university-of-california-berkeley/",
+  "The University of Manchester": "/universities/the-university-of-manchester/",
+  "Hokkaido University": "/universities/hokkaido-university/",
+  "Umeå University": "/universities/umea-university/",
+  "Erasmus University Rotterdam": "/universities/erasmus-university-rotterdam/",
+  "USI Università della Svizzera italiana": "/universities/usi-universita-della-svizzera-italiana/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
