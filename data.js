@@ -904,6 +904,124 @@ export const opportunities=[
       "references": "Two letters: one science academic advisor/professor, one physician or science professor"
     },
     "desc": "Biomedical research master's degree requiring at least 32.5 credits and a research thesis at ATSU Kirksville. Restricted to U.S. citizens and permanent residents."
+  },
+  {
+    "university": "Adelaide University",
+    "country": "Australia",
+    "location": "Adelaide, South Australia, Australia",
+    "reviewed": "2026-10-14",
+    "id": 29,
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering",
+      "computer-science",
+      "biology"
+    ],
+    "type": "Scholarship",
+    "title": "Adelaide Graduate Research Talent Scheme 2027",
+    "funding": "Full tuition fee waiver and annual living stipend (AUD 36,500 rate in 2026)",
+    "deadline": "2026-11-02",
+    "deadlineText": "Round 1 closes 2 November 2026",
+    "source": "https://adelaideuni.edu.au/research/research-degrees/research-scholarships/",
+    "status": "verified-deadline",
+    "fee": "No separate scholarship application fee confirmed; standard research admission applies",
+    "tuition": "International PhD tuition AUD 42,600 to AUD 54,800 depending on discipline; covered by scholarship",
+    "requirements": {
+      "gpa": "Relevant research Master's or Honours degree; typical entry threshold WAM 65-75 or GPA 5.0-6.0/7",
+      "ielts": "IELTS Academic 6.5 overall (minimum 6.0 bands) or 7.0 for select disciplines",
+      "gre": "No universal GRE requirement specified",
+      "papers": "Evidence of research output or research thesis component required",
+      "references": "Written principal supervisor support required before international submission"
+    },
+    "desc": "Adelaide University competitive postgraduate research scholarship offering full tuition coverage and living allowance. Round 1 requires Australian/New Zealand qualifications or domestic status; overseas-only qualification holders apply in later international rounds."
+  },
+  {
+    "university": "Adelaide University",
+    "country": "Australia",
+    "location": "Adelaide, South Australia, Australia",
+    "reviewed": "2026-10-14",
+    "id": 30,
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering",
+      "physics"
+    ],
+    "type": "PhD",
+    "title": "Adelaide University PhD and MPhil Research Degrees",
+    "funding": "Eligible applicants considered for AURS/RTPS government and university research scholarships",
+    "deadline": null,
+    "deadlineText": "Applications open year-round; scholarship rounds have strict cutoff dates",
+    "source": "https://adelaideuni.edu.au/study/degrees/doctor-of-philosophy/",
+    "status": "program-information",
+    "fee": "Check current online research admission portal for any international application fees",
+    "tuition": "AUD 51,600/year for computing, engineering and physical sciences; AUD 42,600 for humanities",
+    "requirements": {
+      "gpa": "Qualifying research Master's degree or First Class Honours in a relevant field",
+      "ielts": "IELTS Academic 6.5 overall, 6.0 in each sub-test",
+      "gre": "Not required by standard university doctoral regulations",
+      "papers": "Substantial research project or published scholarly papers strongly recommended",
+      "references": "Prior written agreement from an eligible Adelaide University principal supervisor is mandatory"
+    },
+    "desc": "Doctor of Philosophy (normally 4 years) and Master of Philosophy (normally 2 years) across diverse STEM and humanities disciplines with verified research groups including the Australian Institute for Machine Learning and Centre of Light for Life."
+  },
+  {
+    "university": "Academy of Fine Arts Dresden",
+    "country": "Germany",
+    "location": "Dresden, Saxony, Germany",
+    "reviewed": "2026-10-14",
+    "id": 31,
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "type": "Scholarship",
+    "title": "HfBK Dresden Deutschlandstipendium 2026-27",
+    "funding": "€300 per month (€3,600 per year), income-independent merit funding",
+    "deadline": "2026-10-14",
+    "deadlineText": "Official German announcement deadline 14 October 2026",
+    "source": "https://www.hfbk-dresden.de/studium/stipendien/deutschlandstipendium",
+    "status": "verified-deadline",
+    "fee": "No application fee for scholarship submission",
+    "tuition": "Tuition-free public university; semester contribution of €354.91 applies",
+    "requirements": {
+      "gpa": "Enrolled student or Meisterschüler with strong academic/artistic performance",
+      "ielts": "Instruction predominantly German; program-specific language criteria apply",
+      "gre": "Not applicable to German art academy study",
+      "papers": "Artistic portfolio or doctoral research plan depending on discipline",
+      "references": "Requires written recommendation letter from an HfBK Dresden university professor"
+    },
+    "desc": "Twelve competitive merit scholarships across both faculties of Hochschule für Bildende Künste Dresden supporting enrolled undergraduate, postgraduate, and Meisterschüler candidates for one academic year."
+  },
+  {
+    "university": "Academy of Fine Arts Dresden",
+    "country": "Germany",
+    "location": "Dresden, Saxony, Germany",
+    "reviewed": "2026-10-14",
+    "id": 32,
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "type": "PhD",
+    "title": "HfBK Dresden Doctorate and Meisterschuler Studies",
+    "funding": "DAAD STIBET and university travel grants available; doctorates are tuition-free",
+    "deadline": null,
+    "deadlineText": "Doctoral admissions accepted per semester; Fine Arts diploma intake 15 January",
+    "source": "https://www.hfbk-dresden.de/lehre-forschung/praxis-und-weiterbildung/promotion",
+    "status": "program-information",
+    "fee": "No application fee; €354.91 semester administrative contribution",
+    "tuition": "Tuition-free public institution in Saxony",
+    "requirements": {
+      "gpa": "Relevant master's degree or second-level diploma in art history, philosophy, or conservation",
+      "ielts": "German proficiency required for formal doctoral committee and coursework",
+      "gre": "Not required",
+      "papers": "Independent academic doctoral proposal aligned with university research fields",
+      "references": "Formal acceptance by an HfBK Dresden doctoral supervisor required"
+    },
+    "desc": "Doctor of Philosophy study in art history, philosophical aesthetics, art technology, conservation/restoration, and art therapy, alongside advanced Meisterschüler studio art study."
   }
 ];
 export const researchers=[
