@@ -17,20 +17,22 @@
     "canada",
     "australia",
     "germany",
-    "italy"
+    "italy",
+    "usa"
   ],
-  "nextCountry": "usa",
+  "nextCountry": "uk",
   "lastPublished": {
-    "country": "italy",
-    "university": "Accademia di Belle Arti di Lecce",
-    "sourceRow": 442
+    "country": "usa",
+    "university": "A.T. Still University",
+    "sourceRow": 559
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 2,
     "australia": 1,
     "germany": 1,
-    "italy": 1
+    "italy": 1,
+    "usa": 1
   },
   "updatedAt": "2026-10-14",
   "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
