@@ -16,19 +16,22 @@
   "completedInCycle": [
     "canada",
     "australia",
-    "germany"
+    "germany",
+    "italy"
   ],
-  "nextCountry": "italy",
+  "nextCountry": "usa",
   "lastPublished": {
-    "country": "germany",
-    "university": "Academy of Fine Arts Dresden",
-    "sourceRow": 209
+    "country": "italy",
+    "university": "Accademia di Belle Arti di Lecce",
+    "sourceRow": 442
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 2,
     "australia": 1,
-    "germany": 1
+    "germany": 1,
+    "italy": 1
   },
-  "updatedAt": "2026-10-14"
+  "updatedAt": "2026-10-14",
+  "sourceCaveat": "Italy source row 441 3D University: site inaccessible/unverified as doctoral institution; deferred without exclusion. Verified first research institution at row 442."
 }
