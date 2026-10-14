@@ -78,7 +78,17 @@ const universityMap = {
   "Kyushu University": "/universities/kyushu-university/",
   "Karolinska Institute": "/universities/karolinska-institute/",
   "Maastricht University": "/universities/maastricht-university/",
-  "University of Zurich": "/universities/university-of-zurich/"
+  "University of Zurich": "/universities/university-of-zurich/",
+  "Queen's University": "/universities/queens-university/",
+  "Monash University": "/universities/monash-university/",
+  "University of Freiburg": "/universities/university-of-freiburg/",
+  "University of Trento": "/universities/university-of-trento/",
+  "Princeton University": "/universities/princeton-university/",
+  "University of Bristol": "/universities/university-of-bristol/",
+  "University of Tsukuba": "/universities/university-of-tsukuba/",
+  "Stockholm School of Economics": "/universities/stockholm-school-of-economics/",
+  "University of Twente": "/universities/university-of-twente/",
+  "University of St. Gallen": "/universities/university-of-st-gallen/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
