@@ -68,7 +68,17 @@ const universityMap = {
   "Hokkaido University": "/universities/hokkaido-university/",
   "Umeå University": "/universities/umea-university/",
   "Erasmus University Rotterdam": "/universities/erasmus-university-rotterdam/",
-  "USI Università della Svizzera italiana": "/universities/usi-universita-della-svizzera-italiana/"
+  "USI Università della Svizzera italiana": "/universities/usi-universita-della-svizzera-italiana/",
+  "University of Calgary": "/universities/university-of-calgary/",
+  "The University of Western Australia": "/universities/the-university-of-western-australia/",
+  "University of Bonn": "/universities/university-of-bonn/",
+  "Università Bocconi": "/universities/universita-bocconi/",
+  "Columbia University": "/universities/columbia-university/",
+  "King's College London": "/universities/kings-college-london/",
+  "Kyushu University": "/universities/kyushu-university/",
+  "Karolinska Institute": "/universities/karolinska-institute/",
+  "Maastricht University": "/universities/maastricht-university/",
+  "University of Zurich": "/universities/university-of-zurich/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;

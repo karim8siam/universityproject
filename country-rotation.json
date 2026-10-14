@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 6,
+  "cycle": 7,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "USI Università della Svizzera italiana",
+    "university": "University of Zurich",
     "sourceRow": 1361
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 7,
-    "australia": 6,
-    "germany": 6,
-    "italy": 6,
-    "usa": 6,
-    "uk": 6,
-    "japan": 6,
-    "sweden": 6,
-    "netherlands": 6,
-    "switzerland": 6
+    "canada": 8,
+    "australia": 7,
+    "germany": 7,
+    "italy": 7,
+    "usa": 7,
+    "uk": 7,
+    "japan": 7,
+    "sweden": 7,
+    "netherlands": 7,
+    "switzerland": 7
   },
   "updatedAt": "2026-10-14"
 }
