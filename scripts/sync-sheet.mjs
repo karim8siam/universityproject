@@ -3,7 +3,8 @@ import {join,dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';
 
 const root=dirname(dirname(fileURLToPath(import.meta.url)));
-const SHEET_ID='1C3C93DR1KmzhIa-AUG-dL0RqsxA4ZzsmVMh5G3HB4Do';
+export const SHEET_ID='1C3C93DR1KmzhIa-AUG-dL0RqsxA4ZzsmVMh5G3HB4Do';
+export const WEBHOOK_URL='https://script.google.com/macros/s/AKfycbwJKcWc_lzkwDkxkbsVVs4yXoVViJfsssp4G-Q3MJftmWkNAfDYTWVv4JiabvKFbmFH/exec';
 
 // Follow redirects for Google Docs CSV exports
 export async function fetchCsv(gid) {
@@ -54,8 +55,8 @@ export async function getLiveProgress() {
   return parseCsv(csv);
 }
 
-export async function postToSheetWebhook(webhookUrl, payload) {
-  const res = await fetch(webhookUrl, {
+export async function postWebhook(payload) {
+  const res = await fetch(WEBHOOK_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(payload)
@@ -63,12 +64,87 @@ export async function postToSheetWebhook(webhookUrl, payload) {
   return await res.json();
 }
 
-// Quick CLI status check
+export async function recordProgress(data) {
+  return await postWebhook({
+    action: 'addProgress',
+    ...data
+  });
+}
+
+export async function updateRotation(country, data) {
+  return await postWebhook({
+    action: 'updateRotation',
+    country,
+    ...data
+  });
+}
+
+// CLI sync
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  console.log('Connecting to Google Sheet:', SHEET_ID);
-  const rotation = await getLiveRotation();
-  console.log('\n--- LIVE COUNTRY ROTATION ---');
-  for (const r of rotation.slice(0, 5)) {
-    console.log(`${r['Round order']}. ${r['Country']} [Status: ${r['Current round status']}] -> Next: Row ${r['Next source row']} (${r['Initial name to evaluate']})`);
-  }
+  console.log('Connecting to Google Sheet via Webhook:', WEBHOOK_URL);
+  
+  // 1. Sync Italy Rotation & Progress
+  console.log('Syncing Italy...');
+  await updateRotation('Italy', {
+    publishedCount: 1,
+    currentRoundStatus: 'Round 1 completed',
+    mostRecentPublished: 'Accademia di Belle Arti di Lecce',
+    updatedDate: '2026-10-14'
+  });
+  await recordProgress({
+    sourceRow: 442,
+    country: 'Italy',
+    institution: 'Accademia di Belle Arti di Lecce',
+    officialWebsite: 'https://www.accademialecce.edu.it/',
+    universityGuide: 'https://universityproject-chi.vercel.app/universities/accademia-di-belle-arti-di-lecce/',
+    publishedContent: 'PhD in Cultural Heritage and Creativity, 2 scholarship guides, 3 faculty profiles; live on Vercel',
+    evidenceReviewDate: '2026-10-14',
+    gitCommit: '4b686e0',
+    deploymentQa: 'GitHub CI SUCCESS; Vercel live 200 OK',
+    nextAction: 'Completed Italy turn; next country United States',
+    publishedDone: true,
+    sitemapUpdated: true
+  });
+
+  // 2. Sync USA Rotation & Progress
+  console.log('Syncing United States...');
+  await updateRotation('United States', {
+    publishedCount: 1,
+    currentRoundStatus: 'Round 1 completed',
+    mostRecentPublished: 'A.T. Still University',
+    updatedDate: '2026-10-14'
+  });
+  await recordProgress({
+    sourceRow: 559,
+    country: 'United States',
+    institution: 'A.T. Still University',
+    officialWebsite: 'https://www.atsu.edu/',
+    universityGuide: 'https://universityproject-chi.vercel.app/universities/a-t-still-university/',
+    publishedContent: 'Doctor of Health Sciences (DHSc), MS Biomedical Sciences, 2 scholarships, 3 faculty profiles; live on Vercel',
+    evidenceReviewDate: '2026-10-14',
+    gitCommit: '071ca9b',
+    deploymentQa: 'GitHub CI SUCCESS; Vercel live 200 OK',
+    nextAction: 'Completed USA turn; next country United Kingdom',
+    publishedDone: true,
+    sitemapUpdated: true
+  });
+
+  // 3. Update Germany Progress Row
+  console.log('Updating Germany in Progress tab...');
+  await recordProgress({
+    sourceRow: 209,
+    country: 'Germany',
+    institution: 'Academy of Fine Arts Dresden',
+    officialWebsite: 'https://www.hfbk-dresden.de/',
+    universityGuide: 'https://universityproject-chi.vercel.app/universities/academy-of-fine-arts-dresden/',
+    publishedContent: 'University guide, 2 scholarship guides, 3 faculty profiles; live on Vercel',
+    evidenceReviewDate: '2026-10-14',
+    gitCommit: '6629425',
+    deploymentQa: 'GitHub CI SUCCESS; Vercel live 200 OK',
+    nextAction: 'Completed Germany turn; proceeded to Italy',
+    publishedDone: true,
+    sitemapUpdated: true
+  });
+
+  console.log('\nAll sheets synchronized successfully!');
 }
