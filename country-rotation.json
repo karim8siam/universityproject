@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 64,
+  "cycle": 65,
   "completedInCycle": [
     "canada",
     "germany",
@@ -25,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Leuven NanoCentre",
-    "sourceRow": 1449
+    "university": "TU Eindhoven - University Racing Eindhoven (URE) Innovation Hub",
+    "sourceRow": 1533
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 100,
+    "canada": 104,
     "australia": 57,
-    "germany": 106,
-    "italy": 99,
-    "usa": 107,
-    "uk": 98,
-    "japan": 99,
+    "germany": 111,
+    "italy": 103,
+    "usa": 112,
+    "uk": 100,
+    "japan": 104,
     "sweden": 56,
-    "netherlands": 98,
+    "netherlands": 102,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
