@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 58,
+  "cycle": 59,
   "completedInCycle": [
     "canada",
     "germany",
@@ -25,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "NHL Stenden University of Applied Sciences (Groningen Campus)",
-    "sourceRow": 1494
+    "university": "Twente Pathway College (TPC)",
+    "sourceRow": 1514
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 75,
+    "canada": 79,
     "australia": 57,
-    "germany": 77,
-    "italy": 74,
-    "usa": 78,
-    "uk": 74,
-    "japan": 75,
+    "germany": 82,
+    "italy": 78,
+    "usa": 83,
+    "uk": 78,
+    "japan": 79,
     "sweden": 56,
-    "netherlands": 74,
+    "netherlands": 78,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
