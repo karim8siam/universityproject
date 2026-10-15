@@ -1,0 +1,2435 @@
+// Batch 39 Data - Part 3 (Universities 21 to 30: UK 2, Japan 4, Netherlands 4)
+// Opportunities: IDs 4288 to 4357 (70 opps)
+// Researchers: IDs 1857 to 1886 (30 researchers)
+
+export const batch39Part3Universities = [
+  // 21. UK - The University of Law (Row 1300)
+  {
+    slug: 'the-university-of-law-uk',
+    institution: 'The University of Law',
+    shortName: 'ULaw',
+    countryId: 'uk',
+    countryLabel: 'United Kingdom',
+    location: 'Guildford and London, England, United Kingdom',
+    website: 'https://www.law.ac.uk',
+    sourceRow: 1300,
+    badge: 'The UK\'s Longest-Established Specialist Legal & Business University',
+    lead: 'The University of Law (ULaw) is the United Kingdom’s largest and longest-established specialist provider of legal education, having trained more practicing lawyers in England and Wales than any other academic institution.',
+    overview: 'Tracing its pedigree back to 1863 as Gibson & Weldon and later the College of Law, The University of Law was granted full university status and taught degree awarding powers in 2012. ULaw operates more than fifteen vibrant campuses across London (Bloomsbury and Moorgate in the financial City), Birmingham, Bristol, Leeds, Manchester, Nottingham, Guildford, and international hubs in Hong Kong and Berlin. ULaw is renowned for pioneer programs in the Solicitors Qualifying Examination (SQE), the Bar Practice Course (BPC), and specialized Master of Laws (LLM) degrees partnered with Magic Circle law firms.',
+    quickFacts: {
+      type: 'Specialist Private University for Legal & Professional Studies',
+      campus: 'Campuses in London (Moorgate & Bloomsbury), Guildford, Manchester, Birmingham, Leeds & Bristol',
+      accreditation: 'Privy Council Degree Awarding Powers, Bar Standards Board (BSB) & Solicitors Regulation Authority (SRA)',
+      admissions: 'Direct Application and Central Applications Board (CAB) / UCAS',
+      language: 'English (primary instruction)',
+      aid: 'ULaw Career Hunter Scholarships, Lord Blunkett Widening Access Awards, International Law Bursaries'
+    },
+    strengths: [
+      'Solicitors Qualifying Examination (SQE1 & SQE2) Prep & LLM Legal Practice',
+      'Bar Practice Course (BPC) for Barristers (BSB Accredited)',
+      'Corporate, Commercial & International Banking Law (LLM Specialisms)',
+      'Legal Technology, Artificial Intelligence in Law & Cyber Law'
+    ],
+    programs: [
+      { title: 'LLM Legal Practice (SQE1 and SQE2)', level: 'Master\'s', desc: 'Comprehensive master\'s degree preparing law graduates for both stages of the centralized Solicitors Qualifying Examination alongside practical client casework.' },
+      { title: 'Bar Practice Course (BPC)', level: 'Postgraduate Diploma', desc: 'BSB-accredited advocacy and procedural litigation program qualifying graduates to enter pupillage as barristers in England and Wales.' },
+      { title: 'LLB (Hons) Law (Senior Status / 3-Year Qualifying)', level: 'Bachelor\'s', desc: 'Qualifying law degree offering rigorous modules in public law, torts, equity, commercial transactions, and moot court competitions.' },
+      { title: 'MSc Legal Technology (Artificial Intelligence in Legal Practice)', level: 'Master\'s', desc: 'Pioneering interdisciplinary degree examining automated contract analysis, legal prompt engineering, blockchain smart contracts, and e-discovery.' }
+    ],
+    opportunities: [
+      {
+        id: 4288,
+        title: 'The University of Law Career Hunter Full Tuition Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Competitive national scholarship covering 100% of tuition fees for outstanding students pursuing the SQE LLM or BPC professional courses.',
+        funding: 'Full tuition fee waiver worth up to £17,500',
+        fee: '£0 (free online application)',
+        tuition: '£14,500 to £17,500 (standard postgraduate legal course tuition)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.law.ac.uk/study/scholarships-bursaries/',
+        requirements: {
+          gpa: 'First-Class or Upper Second-Class (2:1) UK qualifying law degree or international equivalent',
+          ielts: 'IELTS 7.5 overall with minimum 7.0 in each section for Bar courses, or 6.5 for SQE',
+          gre: 'Not required',
+          papers: '750-word competitive essay analyzing an emerging ethical challenge in modern legal practice',
+          references: 'Two academic or legal profession references'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4289,
+        title: 'Bar Practice Course (BPC): Advocacy and Moot Court Fellowship',
+        type: 'Fellowship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'One-year intensive advocacy fellowship featuring mock trials, cross-examination workshops, and judge-adjudicated competitions in London courtrooms.',
+        funding: 'Inns of Court scholarship matching awards up to £5,000',
+        fee: '£0',
+        tuition: '£16,000 to £19,500 (London campus)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.law.ac.uk/study/postgraduate/law/bpc/',
+        requirements: {
+          gpa: 'Qualifying law degree with minimum 2:1 and passing score on Bar Course Aptitude Test (BCAT)',
+          ielts: 'IELTS 7.5 (minimum 7.5 in all bands)',
+          gre: 'Not required',
+          papers: 'Membership in one of the four Inns of Court (Lincoln\'s Inn, Inner Temple, Middle Temple, Gray\'s Inn)',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4290,
+        title: 'Lord Blunkett Widening Access Law Bursary',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Endowed bursary named after ULaw Chancellor Lord Blunkett providing direct financial assistance to students from underrepresented backgrounds.',
+        funding: '£1,000 to £3,000 cash grant toward maintenance and course texts',
+        fee: '£0',
+        tuition: '£0 (bursary offset against fees)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.law.ac.uk/about/who-we-are/widening-participation/',
+        requirements: {
+          gpa: 'Holding an offer for an undergraduate LLB or postgraduate LLM course at ULaw',
+          ielts: 'English language requirements of the program',
+          gre: 'Not required',
+          papers: 'Demonstration of household income under £25,000 or first-generation university status',
+          references: 'One reference'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4291,
+        title: 'LLB (Hons) Law 3-Year Qualifying Degree Program',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Comprehensive qualifying law degree delivered by practicing solicitors and barristers with hands-on pro bono clinic casework throughout.',
+        funding: 'Eligible for UK Student Finance England loans and campus student advisor employment',
+        fee: '£27.50 (UCAS application fee)',
+        tuition: '£9,250/year (UK Home) or £15,900/year (International)',
+        deadline: '2027-01-29',
+        deadlineText: 'January 29, 2027',
+        source: 'https://www.law.ac.uk/study/undergraduate/law/llb-hons/',
+        requirements: {
+          gpa: 'BBB at A-Level or 30 points in International Baccalaureate',
+          ielts: 'IELTS 6.5 with at least 6.0 in each band',
+          gre: 'Not required',
+          papers: 'Personal statement outlining legal passion and analytical problem-solving skills',
+          references: 'One UCAS academic referee'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4292,
+        title: 'Master of Science in Legal Technology and AI Governance',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Interdisciplinary one-year master\'s program analyzing machine learning algorithms in contract review, algorithmic bias in sentencing, and regulatory sandbox design.',
+        funding: 'LegalTech Innovation Bursary of £2,500 for qualifying technology applicants',
+        fee: '£0',
+        tuition: '£12,500/year (UK Home) or £16,500/year (International)',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.law.ac.uk/study/postgraduate/law/msc-legal-technology/',
+        requirements: {
+          gpa: 'UK 2:2 degree or higher in law, computer science, or business',
+          ielts: 'IELTS 6.5 with 6.0 in each section',
+          gre: 'Not required',
+          papers: 'Personal statement demonstrating interest in automated legal tech',
+          references: 'Two letters from academic or professional supervisors'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4293,
+        title: 'Pro Bono Legal Advice Centre Clinical Internship',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Structured clinical legal internship at ULaw\'s award-winning Pro Bono clinics providing free legal advice to the public in housing, family, and employment law.',
+        funding: 'Pro bono travel bursaries and accreditation for SQE Qualifying Work Experience (QWE)',
+        fee: '£0',
+        tuition: '£0',
+        deadline: '2026-12-10',
+        deadlineText: 'December 10, 2026',
+        source: 'https://www.law.ac.uk/about/pro-bono/',
+        requirements: {
+          gpa: 'Enrolled in 2nd or 3rd year LLB, or postgraduate LLM/SQE courses with passing grades',
+          ielts: 'Fluent spoken and written English',
+          gre: 'Not required',
+          papers: 'Application form and interview with supervising pro bono solicitors',
+          references: 'Recommendation from law tutor'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      },
+      {
+        id: 4294,
+        title: 'Executive Certificate in International Commercial Arbitration (CIArb Accredited)',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-month certificate covering international arbitral tribunal rules (LCIA, ICC), arbitral award enforcement under the New York Convention, and award drafting.',
+        funding: 'Member discounts for Chartered Institute of Arbitrators affiliates',
+        fee: '£50',
+        tuition: '£2,100 total course fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.law.ac.uk/study/postgraduate/law/arbitration-certificate/',
+        requirements: {
+          gpa: 'Degree in law or minimum two years commercial contracts experience',
+          ielts: 'English C1 proficiency',
+          gre: 'Not required',
+          papers: 'Resume detailing commercial litigation or contract background',
+          references: 'Not required'
+        },
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        location: 'Guildford and London, England, United Kingdom'
+      }
+    ],
+    researchers: [
+      {
+        id: 1857,
+        name: 'Prof. Peter Crisp',
+        title: 'Deputy Vice Chancellor & Professor of Legal Education',
+        subject: 'social-sciences',
+        topics: ['Legal Apprenticeships', 'SQE Assessment Pedagogies', 'Regulatory Evolution in the Legal Sector'],
+        summary: 'Leading architect of modern English professional legal education, advising major multinational law firms and regulatory bodies on qualifying work experience and solicitor examinations.',
+        source: 'https://www.law.ac.uk/about/who-we-are/leadership-team/',
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1858,
+        name: 'Prof. Patrick Johnson',
+        title: 'National Director of Operations & Senior Lecturer in Civil Litigation',
+        subject: 'social-sciences',
+        topics: ['Civil Procedure Rules Reform', 'Commercial Dispute Resolution', 'Legal Aid Policy'],
+        summary: 'Civil litigator and legal scholar examining the modernization of English high court litigation procedures, digitised court filings, and dispute escalation clauses.',
+        source: 'https://www.law.ac.uk/about/our-people/patrick-johnson/',
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1859,
+        name: 'Dr. Jane Ching',
+        title: 'Professor of Professional Legal Education & Co-Director of the Centre for Legal Education',
+        subject: 'social-sciences',
+        topics: ['Competence Frameworks in Law', 'Continuing Professional Development (CPD)', 'Comparative Legal Qualification'],
+        summary: 'Internationally recognized authority on legal professional competence assessment, conducting research for the Solicitors Regulation Authority and international bars on work-based learning.',
+        source: 'https://www.law.ac.uk/about/research/centre-for-legal-education/',
+        university: 'The University of Law',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 22. UK - University College Birmingham (Row 1306)
+  {
+    slug: 'university-college-birmingham-ucb',
+    institution: 'University College Birmingham (UCB)',
+    shortName: 'UCB Birmingham',
+    countryId: 'uk',
+    countryLabel: 'United Kingdom',
+    location: 'Birmingham, West Midlands, England, United Kingdom',
+    website: 'https://www.ucb.ac.uk',
+    sourceRow: 1306,
+    badge: 'Premier Specialist Vocational & Professional University (Accredited by University of Warwick)',
+    lead: 'University College Birmingham (UCB) is an award-winning vocational and professional university in the heart of Birmingham, internationally renowned for culinary arts, hospitality management, nursing, physiotherapy, and engineering apprenticeships.',
+    overview: 'Dating back to the 19th century as the Birmingham Municipal Technical School, University College Birmingham has evolved into a premier specialized university institution educating over 7,500 students. UCB maintains a groundbreaking academic accreditation partnership with the Russell Group University of Warwick, which accredits many of UCB’s undergraduate and postgraduate degrees. The university boasts world-class culinary training restaurants, high-fidelity hospital clinical wards, sports performance laboratories at the new Moss House campus, and the state-of-the-art Sustainable Construction and STEM Center.',
+    quickFacts: {
+      type: 'Public Specialized Vocational & Professional University',
+      campus: 'Summer Row, McIntyre House & Moss House Campuses in Birmingham City Centre',
+      accreditation: 'Privy Council Taught Degree Awarding Powers & Degrees Accredited by University of Warwick',
+      admissions: 'UCAS (Institution Code B35) and UCB Direct International Application',
+      language: 'English (primary instruction)',
+      aid: 'UCB Academic Excellence Scholarships, University of Warwick Progression Awards'
+    },
+    strengths: [
+      'Culinary Arts, Bakery Science & Food Product Innovation',
+      'International Hospitality, Tourism & Aviation Management',
+      'Nursing, Physiotherapy, Prosthetics & Healthcare Simulation',
+      'Sports Therapy, Strength & Conditioning & Exercise Physiology'
+    ],
+    programs: [
+      { title: 'BSc (Hons) Culinary Arts Management (University of Warwick Accredited)', level: 'Bachelor\'s', desc: 'World-renowned culinary business degree combining kitchen mastery with commercial kitchen economics, menu development, and food safety regulations.' },
+      { title: 'BSc (Hons) Adult Nursing (NMC Accredited)', level: 'Bachelor\'s', desc: 'Three-year clinical nursing degree featuring 2,300 hours of clinical placements across University Hospitals Birmingham NHS Foundation Trust.' },
+      { title: 'MSc Hospitality with Tourism Management', level: 'Master\'s', desc: 'Postgraduate management program examining international luxury resort operations, revenue management algorithms, and sustainable tourism policy.' },
+      { title: 'BSc (Hons) Physiotherapy', level: 'Bachelor\'s', desc: 'CSP and HCPC-accredited healthcare degree training physiotherapists in musculoskeletal, neurological, and cardio-respiratory clinical rehabilitation.' }
+    ],
+    opportunities: [
+      {
+        id: 4295,
+        title: 'UCB Academic Excellence Scholarship (Warwick-Accredited Degrees)',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Merit scholarship awarded to top-achieving domestic and international students enrolling in undergraduate or postgraduate degrees accredited by the University of Warwick.',
+        funding: '£2,500 tuition fee discount for the first year of full-time study',
+        fee: '£27.50 (UCAS) or £0 (direct postgraduate application)',
+        tuition: '£9,250/year (UK Home) or £14,000/year (International)',
+        deadline: '2027-01-25',
+        deadlineText: 'January 25, 2027',
+        source: 'https://www.ucb.ac.uk/study/fees-and-funding/scholarships/',
+        requirements: {
+          gpa: 'ABB at A-Level (or equivalent international secondary school marks with minimum 80%)',
+          ielts: 'IELTS 6.0 with no subtest below 5.5 (or IELTS 6.5 for clinical programs)',
+          gre: 'Not required',
+          papers: '500-word personal statement detailing professional aspirations and industry focus',
+          references: 'One academic reference letter'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4296,
+        title: 'BSc (Hons) Culinary Arts Management Industry Work Placement',
+        type: 'Bachelor\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'social-sciences'],
+        desc: 'Three-year degree with an optional 48-week paid industrial placement inside Michelin-starred restaurants, luxury five-star hotels, or global food product manufacturers.',
+        funding: 'Paid placement earnings average £18,000–£22,000 during the sandwich year',
+        fee: '£27.50',
+        tuition: '£9,250/year (UK Home) or £14,000/year (International)',
+        deadline: '2027-01-29',
+        deadlineText: 'January 29, 2027',
+        source: 'https://www.ucb.ac.uk/courses/undergraduate/culinary-arts-management-bsc-hons/',
+        requirements: {
+          gpa: '104 UCAS points from A-Levels, BTEC, or T-Levels',
+          ielts: 'IELTS 6.0',
+          gre: 'Not required',
+          papers: 'Personal statement outlining culinary or food business experience',
+          references: 'One UCAS academic reference'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4297,
+        title: 'NHS Learning Support Fund Nursing Training Grant',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'UK Government non-repayable grant for students enrolled on pre-registration nursing and allied health professions degrees at UCB.',
+        funding: '£5,000 per academic year plus up to £2,000 in regional shortage allowances and childcare support',
+        fee: '£27.50',
+        tuition: 'Standard UK undergraduate tuition covered by Student Finance England',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.nhsbsa.nhs.uk/nhs-learning-support-fund',
+        requirements: {
+          gpa: 'Eligible for Home student tuition status and accepted into BSc Adult Nursing',
+          ielts: 'IELTS 7.0 for NMC registration',
+          gre: 'Not required',
+          papers: 'Enhanced DBS check and occupational health clearance',
+          references: 'Two references'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4298,
+        title: 'Master of Science in Hospitality and Tourism Management',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'One-year postgraduate degree accredited by the University of Warwick examining strategic revenue management, digital tourism platforms, and sustainable events.',
+        funding: 'Eligible for UK Postgraduate Master\'s Loans up to £12,471',
+        fee: '£0',
+        tuition: '£8,750/year (UK Home) or £14,500/year (International)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.ucb.ac.uk/courses/postgraduate/hospitality-with-tourism-management-msc/',
+        requirements: {
+          gpa: 'UK 2:2 degree or higher in business, hospitality, geography, or humanities',
+          ielts: 'IELTS 6.0 with 5.5 in each component',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and 500-word statement on hospitality sector management challenges',
+          references: 'One academic or employer reference'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4299,
+        title: 'Moss House Sports Therapy & Rehabilitation Clinical Internship',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology'],
+        desc: 'Six-month clinical placement inside the UCB Sports Injury Clinic assessing musculoskeletal injuries in regional athletes and applying manual therapy.',
+        funding: 'Subsidized clinical kit and professional association membership bursaries',
+        fee: '£0',
+        tuition: '£0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.ucb.ac.uk/university-life/facilities/sports-facilities/',
+        requirements: {
+          gpa: 'Second or third-year student in Sports Therapy or Physiotherapy with 2:1 equivalent marks',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'First aid certification and clinical anatomy competency sign-off',
+          references: 'Clinic director recommendation'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4300,
+        title: 'BSc (Hons) Physiotherapy (HCPC and CSP Accredited)',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Three-year clinical degree preparing physiotherapists with over 1,000 hours of clinical placements in acute NHS hospitals and elite sports teams.',
+        funding: 'Eligible for NHS Learning Support Fund (£5,000/year grant)',
+        fee: '£27.50',
+        tuition: '£9,250/year (UK Home) or £14,500/year (International)',
+        deadline: '2027-01-29',
+        deadlineText: 'January 29, 2027',
+        source: 'https://www.ucb.ac.uk/courses/undergraduate/physiotherapy-bsc-hons/',
+        requirements: {
+          gpa: 'ABB at A-Level (including Biology or Physical Education) or BTEC DDM in Applied Science',
+          ielts: 'IELTS 7.0 with no element below 6.5',
+          gre: 'Not required',
+          papers: 'Evidence of physiotherapy clinical observation and values-based interview performance',
+          references: 'Two references'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      },
+      {
+        id: 4301,
+        title: 'Certificate in Artisan Bakery and Sourdough Microbiology',
+        type: 'Course',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Twelve-week professional short course in natural sourdough fermentation chemistry, artisan bread baking, and industrial dough rheology.',
+        funding: 'West Midlands Combined Authority adult education grants available for regional residents',
+        fee: '£25',
+        tuition: '£950 total course fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.ucb.ac.uk/courses/short-courses/artisan-baking/',
+        requirements: {
+          gpa: 'Basic food hygiene certification or culinary interest',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Brief statement of culinary interest',
+          references: 'Not required'
+        },
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        location: 'Birmingham, West Midlands, England, United Kingdom'
+      }
+    ],
+    researchers: [
+      {
+        id: 1860,
+        name: 'Prof. Michael Harkin',
+        title: 'Vice-Chancellor & Principal',
+        subject: 'social-sciences',
+        topics: ['Technical and Vocational Education', 'Regional Skills Ecosystems', 'University-Industry Integration'],
+        summary: 'Higher education leader directing UCB’s strategic alliance with the University of Warwick, expanding technical STEM facilities and medical simulation centers in the West Midlands.',
+        source: 'https://www.ucb.ac.uk/about-us/leadership-and-governance/',
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1861,
+        name: 'Prof. Paul Doherty',
+        title: 'Head of the Department of Sports, Nutrition and Health Sciences',
+        subject: 'biology',
+        topics: ['Biomechanics of Running', 'Rehabilitation Protocols in Knee Injury', 'Exercise Metabolism'],
+        summary: 'Sports scientist analyzing force-plate ground reaction data in runners, rehabilitation kinematics following ACL reconstructions, and nutritional protocols for athletic endurance.',
+        source: 'https://www.ucb.ac.uk/staff/paul-doherty/',
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1862,
+        name: 'Chef Neil Rippington',
+        title: 'Director of Culinary Arts & Senior Research Fellow in Food Hospitality Pedagogy',
+        subject: 'arts-design',
+        topics: ['Gastronomic Education Standards', 'Kitchen Operations Efficiency', 'Sustainable Culinary Sourcing'],
+        summary: 'Prominent culinary educator and author defining national culinary qualifications, researching food waste reduction in commercial kitchens and farm-to-fork pedagogical models.',
+        source: 'https://www.ucb.ac.uk/staff/neil-rippington/',
+        university: 'University College Birmingham (UCB)',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 23. Japan - Kobe Institute of Computing (KIC) (Row 1674)
+  {
+    slug: 'kobe-institute-of-computing-kic',
+    institution: 'Kobe Institute of Computing (KIC)',
+    shortName: 'KIC Kobe',
+    countryId: 'japan',
+    countryLabel: 'Japan',
+    location: 'Kobe, Hyogo, Japan',
+    website: 'https://www.kobedenshi.ac.jp',
+    sourceRow: 1674,
+    badge: 'Premier ICT for Development (ICT4D) Graduate School of Japan',
+    lead: 'Kobe Institute of Computing (Graduate School of Information Technology - KIC) is a pioneering professional graduate university in Kobe, internationally celebrated for training digital leaders from over 100 countries in ICT for Social Development (ICT4D), IoT engineering, and AI.',
+    overview: 'Established in 1958 as Kobe Denshi and elevated in 2005 to an independent professional graduate school, Kobe Institute of Computing (KIC) focuses on "Tankyu" (social inquiry) through practical information technology. Partnered with the Japan International Cooperation Agency (JICA) through the ABE Initiative (African Business Education Initiative) and Japanese government scholarship frameworks, KIC educates students from Asia, Africa, Europe, and the Americas. The graduate school is renowned for turning digital prototypes into real-world solutions for agriculture, healthcare logistics, disaster risk management, and cybersecurity.',
+    quickFacts: {
+      type: 'Private Professional Graduate University (Professional Master\'s Degrees)',
+      campus: 'Kano-cho Campus, Chuo-ku, Kobe, Hyogo Prefecture',
+      accreditation: 'Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT)',
+      admissions: 'International Admissions Office Direct Online Screening',
+      language: 'English (full international track) and Japanese',
+      aid: 'JICA ABE Initiative Fellowships, MEXT Government Scholarships, KIC Founder\'s Tuition Grants'
+    },
+    strengths: [
+      'ICT for Development (ICT4D) & Social Problem Solving (Tankyu Method)',
+      'Internet of Things (IoT) Sensor Architecture & Edge AI Systems',
+      'Disaster Mitigation Informatics & Resilient Telecommunications',
+      'Agricultural Tech & Smart Healthcare Logistics in Emerging Markets'
+    ],
+    programs: [
+      { title: 'Master of Science in Information Systems (Global Innovator Course - English Track)', level: 'Master\'s', desc: 'Two-year professional master\'s taught entirely in English focusing on deploying IoT networks, cloud computing, and machine learning to solve socioeconomic challenges.' },
+      { title: 'Master of Science in Information Systems (ICT Innovation Course - Japanese Track)', level: 'Master\'s', desc: 'Advanced professional computing degree training software architects in enterprise database systems, mobile software development, and digital security.' },
+      { title: 'Graduate Certificate in IoT Sensor Integration and Edge Computing', level: 'Certificate', desc: 'Six-month intensive certificate exploring micro-controllers, wireless mesh networking (LoRaWAN), and embedded computer vision.' },
+      { title: 'Executive Program in Digital Transformation for Public Sector Leaders', level: 'Certificate', desc: 'Specialized executive course for government and NGO officials in digital identity, open data governance, and public e-services.' }
+    ],
+    opportunities: [
+      {
+        id: 4302,
+        title: 'JICA ABE Initiative Full Master\'s Fellowship at KIC Kobe',
+        type: 'Scholarship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Prestigious Japanese government fellowship for young African and Asian professionals covering full graduate tuition, living allowances, and Tokyo internship placements.',
+        funding: 'Full tuition waiver, return international airfare, and monthly living allowance of ¥144,000 (approx. USD $1,000/month)',
+        fee: '¥0 (waived for JICA candidates)',
+        tuition: '¥1,500,000/year (fully covered by JICA)',
+        deadline: '2026-11-30',
+        deadlineText: 'November 30, 2026',
+        source: 'https://www.jica.go.jp/english/countries/africa/internship.html',
+        requirements: {
+          gpa: 'Bachelor\'s degree in computing, engineering, or related field with above-average grades',
+          ielts: 'IELTS 6.0 or TOEFL iBT 80',
+          gre: 'Not required',
+          papers: 'Social innovation research proposal detailing an ICT solution for home country development',
+          references: 'Official recommendation letter from current government agency or employer'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4303,
+        title: 'KIC Founder\'s Global Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Tuition reduction scholarship awarded by KIC to privately funded international graduate students admitted to the Global Innovator Master\'s Course.',
+        funding: '30% to 50% tuition reduction worth up to ¥750,000 per academic year',
+        fee: '¥10,000 (international document screening fee)',
+        tuition: '¥1,500,000/year (reduced to ¥750,000–¥1,050,000 with scholarship)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.kic.ac.jp/en/admissions/scholarship/',
+        requirements: {
+          gpa: 'Minimum 3.0/4.0 undergraduate GPA',
+          ielts: 'IELTS 6.0 or TOEFL 75',
+          gre: 'Not required',
+          papers: 'Personal statement outlining social challenge to be addressed using ICT',
+          references: 'Two letters of recommendation from former university professors'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4304,
+        title: 'Master of Science in Information Systems (Global Innovator Course)',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Two-year English-taught professional master\'s combining software engineering, IoT hardware prototyping, and social innovation methodologies.',
+        funding: 'Eligible for Kobe City international student housing subsidies and part-time tech teaching assistantships',
+        fee: '¥10,000',
+        tuition: '¥1,500,000/year',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.kic.ac.jp/en/academics/master-program/',
+        requirements: {
+          gpa: 'Recognized 16-year bachelor\'s degree in any field with basic programming knowledge',
+          ielts: 'IELTS 6.0 or TOEFL 75',
+          gre: 'Not required',
+          papers: 'Tankyu practice plan (problem definition and proposed ICT solution)',
+          references: 'Two academic or employer recommendations'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4305,
+        title: 'IoT and Disaster Mitigation Edge Computing Research Fellowship',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'One-year research appointment at KIC exploring sensor networks for early flood warning, landslide detection, and ad-hoc emergency communications.',
+        funding: '¥1,200,000 annual research stipend plus hardware prototyping materials grant',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.kic.ac.jp/en/research/',
+        requirements: {
+          gpa: 'Enrolled in 2nd year of KIC master\'s program with high marks in systems engineering',
+          ielts: 'Good English communication',
+          gre: 'Not required',
+          papers: 'Hardware design portfolio demonstrating Arduino, ESP32, or Raspberry Pi sensor projects',
+          references: 'Faculty advisor endorsement'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4306,
+        title: 'Kobe Digital Technology Corporate Summer Internship',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science'],
+        desc: 'Eight-week paid technical internship with Japanese IT enterprises in Kobe and Osaka developing web applications, cloud APIs, and data dashboards.',
+        funding: '¥180,000 per month corporate allowance plus commuting expenses',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.kic.ac.jp/en/career-support/',
+        requirements: {
+          gpa: 'Good academic standing in KIC graduate program',
+          ielts: 'Basic conversational Japanese (JLPT N4/N3) and English',
+          gre: 'Not required',
+          papers: 'Technical resume with GitHub project repositories',
+          references: 'Approval from KIC Career Support Center'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4307,
+        title: 'Graduate Certificate in Smart Agriculture and Drone Remote Sensing',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Three-month intensive certificate exploring multispectral drone imaging, soil moisture sensor telemetry, and automated drip irrigation logic.',
+        funding: 'Hyogo Prefecture agribusiness tech subsidies available',
+        fee: '¥5,000',
+        tuition: '¥180,000 total course tuition',
+        deadline: '2027-03-10',
+        deadlineText: 'March 10, 2027',
+        source: 'https://www.kic.ac.jp/en/short-courses/',
+        requirements: {
+          gpa: 'Bachelor\'s degree or equivalent technical experience in computing or agronomy',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Brief statement of agricultural technology application interest',
+          references: 'Not required'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4308,
+        title: 'Tankyu Social Innovation Capstone Project Grant',
+        type: 'Fellowship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'computer-science'],
+        desc: 'Fieldwork project grant supporting graduate students implementing their ICT capstone solutions in developing regions (Africa, South Asia, or Southeast Asia).',
+        funding: 'Up to ¥400,000 for overseas travel, sensor deployments, and community surveys',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://www.kic.ac.jp/en/tankyu/',
+        requirements: {
+          gpa: 'Approval of master\'s thesis capstone proposal by KIC academic committee',
+          ielts: 'Working English',
+          gre: 'Not required',
+          papers: 'Detailed fieldwork deployment plan with partner NGO or local government endorsement',
+          references: 'Supervisor sign-off'
+        },
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      }
+    ],
+    researchers: [
+      {
+        id: 1863,
+        name: 'Prof. Kenji Fukuoka',
+        title: 'President & Professor of Educational Technology and Social Computing',
+        subject: 'social-sciences',
+        topics: ['ICT for Development (ICT4D)', 'Human Resource Development in Emerging Markets', 'Tankyu Pedagogical Methodology'],
+        summary: 'Pioneering educational technologist who established KIC\'s international master\'s curriculum, creating training bridges between Japanese IT and developing nations.',
+        source: 'https://www.kic.ac.jp/en/faculty/kenji-fukuoka/',
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1864,
+        name: 'Prof. Noriaki Kano',
+        title: 'Professor of Embedded Systems and Edge Sensor Networks',
+        subject: 'engineering',
+        topics: ['Microcontroller Architectures', 'Low-Power Wide-Area Networks (LPWAN)', 'Remote Telemetry Systems'],
+        summary: 'Embedded systems engineer developing solar-powered LoRa and satellite telemetry stations for extreme environmental monitoring and disaster warning in rural areas.',
+        source: 'https://www.kic.ac.jp/en/faculty/noriaki-kano/',
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1865,
+        name: 'Prof. Paul Nduhuura',
+        title: 'Associate Professor of Information Systems and Digital Health',
+        subject: 'computer-science',
+        topics: ['Mobile Health (mHealth)', 'Health Informatics in Emerging Economies', 'Data-Driven Epidemiology'],
+        summary: 'Global health informatics researcher designing smartphone diagnostic frameworks and immunization supply chain tracking platforms for remote health clinics.',
+        source: 'https://www.kic.ac.jp/en/faculty/paul-nduhuura/',
+        university: 'Kobe Institute of Computing (KIC)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 24. Japan - Kobe Pharmaceutical University (Kobeyakka) (Row 1680)
+  {
+    slug: 'kobe-pharmaceutical-university',
+    institution: 'Kobe Pharmaceutical University (Kobeyakka)',
+    shortName: 'Kobeyakka',
+    countryId: 'japan',
+    countryLabel: 'Japan',
+    location: 'Kobe, Hyogo, Japan',
+    website: 'https://www.kobepharma-u.ac.jp',
+    sourceRow: 1680,
+    badge: 'Historic Premier Private Pharmaceutical Sciences University of Japan',
+    lead: 'Kobe Pharmaceutical University (Kobeyakka) is one of Japan’s oldest and most prestigious private pharmaceutical universities, founded in 1932 in Kobe and celebrated for medicinal chemistry, pharmacogenomics, natural drug discovery, and clinical hospital pharmacy.',
+    overview: 'Established in 1932 as the Kobe Women\'s College of Pharmacy and reorganized in 1994 as a coeducational pharmaceutical university, Kobeyakka has educated generations of Japan’s leading clinical pharmacists, pharmacological researchers, and drug discovery scientists. Situated on the scenic heights of Mount Rokko in Higashinada-ku, Kobe, the university features advanced laboratories for nuclear magnetic resonance (NMR), mass spectrometry, a medicinal botanical garden with over 1,200 medicinal plant species, and intimate research alliances with Kobe University Hospital and the RIKEN Center for Biosystems Dynamics Research.',
+    quickFacts: {
+      type: 'Private Specialized Pharmaceutical University',
+      campus: 'Motoyama-kitamachi Rokko Foothills Campus, Higashinada-ku, Kobe',
+      accreditation: 'Japanese Ministry of Education (MEXT) & Japan University Accreditation Association (JUAA)',
+      admissions: 'National University Entrance Examination and Kobeyakka General Entrance Examination',
+      language: 'Japanese (primary instruction) and English for postgraduate research',
+      aid: 'Kobeyakka Alumni Merit Scholarships, JASSO Honors Scholarships, MEXT Fellowships'
+    },
+    strengths: [
+      'Medicinal Chemistry, Synthetic Organic Chemistry & Natural Products',
+      'Clinical Pharmacokinetics & Personalized Pharmacogenomics',
+      'Neuropharmacology, Synaptic Receptors & Alzheimer\'s Drug Targets',
+      'Medicinal Botanical Resources & Traditional Kampo Medicine Analysis'
+    ],
+    programs: [
+      { title: 'PhD in Pharmaceutical Sciences (4-Year Doctoral Program)', level: 'Doctorate', desc: 'Advanced doctoral degree focusing on clinical pharmacy, drug interactions, molecular oncology targets, and pharmacological mechanisms.' },
+      { title: 'PhD in Pharmaceutical Sciences (3-Year Drug Discovery Course)', level: 'Doctorate', desc: 'Research-intensive doctorate dedicated to synthetic chemical biology, structural biochemistry, and bio-organic drug design.' },
+      { title: 'Faculty of Pharmacy 6-Year Clinical Degree (Yakugakubu)', level: 'Bachelor\'s', desc: 'Government-standardized six-year curriculum qualifying graduates for the National Examination for Pharmacists, with six months of intensive hospital and community pharmacy internships.' },
+      { title: 'Master of Science in Pharmaceutical Sciences (2-Year Master\'s)', level: 'Master\'s', desc: 'Two-year graduate program in drug metabolism, analytical biochemistry, and pharmacological toxicology.' }
+    ],
+    opportunities: [
+      {
+        id: 4309,
+        title: 'Kobeyakka Graduate Doctoral Research Fellowship in Medicinal Chemistry',
+        type: 'Fellowship',
+        subject: 'chemistry',
+        subjects: ['chemistry', 'biology'],
+        desc: 'Three-to-four year doctoral fellowship providing full tuition remission and research funding for scholars synthesizing novel heterocyclic bioactive molecules.',
+        funding: 'Full tuition coverage (¥1,100,000/year value) plus annual research stipend of ¥600,000',
+        fee: '¥30,000 (doctoral entrance examination fee)',
+        tuition: '¥1,100,000/year (fully covered by fellowship)',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/graduate/scholarship.html',
+        requirements: {
+          gpa: 'Master of Science in pharmacy, chemistry, or biology with grade point average above 3.2/4.0',
+          ielts: 'TOEFL iBT 80 or IELTS 6.5; JLPT N2 required for clinical laboratory integration',
+          gre: 'Not required',
+          papers: 'Master\'s thesis manuscript and 1,500-word doctoral research plan in synthetic organic chemistry',
+          references: 'Two letters of recommendation from university professors'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4310,
+        title: 'Kobeyakka Alumni Association Undergraduate Academic Excellence Scholarship',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Merit scholarship awarded to top-ranking students in the six-year pharmaceutical clinical program to reward outstanding academic achievement.',
+        funding: '¥500,000 annual grant awarded directly toward university tuition',
+        fee: '¥0',
+        tuition: '¥2,100,000/year (standard six-year clinical pharmacy tuition)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.kobepharma-u.ac.jp/campuslife/scholarship.html',
+        requirements: {
+          gpa: 'Ranked in the top 5% of enrolled cohort in annual pharmaceutical sciences examinations',
+          ielts: 'Japanese language native or JLPT N1',
+          gre: 'Not required',
+          papers: 'Academic transcript evaluation and faculty dean nomination',
+          references: 'Dean recommendation'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4311,
+        title: 'Master of Science in Pharmaceutical Sciences: Natural Drug Discovery Track',
+        type: 'Master\'s',
+        subject: 'chemistry',
+        subjects: ['chemistry', 'biology'],
+        desc: 'Two-year graduate degree utilizing Kobeyakka\'s medicinal botanical garden and high-field NMR to isolate bioactive secondary metabolites from medicinal herbs.',
+        funding: 'JASSO Type 1 interest-free loan with full loan exemption for outstanding research results',
+        fee: '¥30,000',
+        tuition: '¥1,050,000/year',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/graduate/curriculum.html',
+        requirements: {
+          gpa: 'Four-year bachelor\'s degree in pharmacy, chemistry, biology, or agriculture',
+          ielts: 'JLPT N2 or TOEFL 75',
+          gre: 'Not required',
+          papers: 'Written examination in pharmacology and organic chemistry, plus oral interview',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4312,
+        title: 'Six-Year Faculty of Pharmacy Undergraduate Clinical Program (Yakugakubu)',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Professional six-year clinical pharmacy curriculum combining advanced pharmacokinetics, drug toxicology, and mandatory clinical hospital rotations.',
+        funding: 'Eligible for Japanese Government Tuition Reduction System for Higher Education and Kobeyakka loan funds',
+        fee: '¥35,000',
+        tuition: '¥2,100,000/year',
+        deadline: '2027-01-25',
+        deadlineText: 'January 25, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/faculty/curriculum.html',
+        requirements: {
+          gpa: 'Upper secondary school graduation with high achievement in chemistry, biology, and mathematics',
+          ielts: 'Native Japanese or JLPT N1 for clinical patient interaction',
+          gre: 'Not required',
+          papers: 'General entrance examination in Chemistry, Biology, and Mathematics',
+          references: 'High school principal recommendation (for recommendation quota)'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4313,
+        title: 'Advanced Hospital Clinical Pharmacy Residency Practicum (Kobe University Hospital)',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology'],
+        desc: 'Twenty-two week mandatory hospital clinical training embedded inside university medical centers managing chemotherapy regimens and therapeutic drug monitoring.',
+        funding: 'Subsidized clinical travel allowance and hospital meal vouchers',
+        fee: '¥0',
+        tuition: 'Covered within standard fifth-year clinical curriculum tuition',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/faculty/training.html',
+        requirements: {
+          gpa: 'Passing the Common Achievement Test (CBT - Computer-Based Testing and OSCE - Objective Structured Clinical Examination)',
+          ielts: 'Japanese fluency',
+          gre: 'Not required',
+          papers: 'CBT and OSCE official score certification',
+          references: 'Clinical education committee clearance'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4314,
+        title: 'Medicinal Botanical Garden Summer Phytochemistry Research Internship',
+        type: 'Internship',
+        subject: 'chemistry',
+        subjects: ['chemistry', 'environment'],
+        desc: 'Six-week summer research placement investigating antimicrobial and antioxidant metabolites from rare botanical specimens in the Kobeyakka botanical collection.',
+        funding: '¥100,000 research stipend plus laboratory supplies allocation',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/facility/botanical_garden.html',
+        requirements: {
+          gpa: 'Enrolled in 3rd or 4th year of pharmacy or chemistry with strong analytical chemistry grades',
+          ielts: 'Japanese or English communication',
+          gre: 'Not required',
+          papers: 'Resume and statement of interest in herbal pharmacology',
+          references: 'One professor recommendation'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      },
+      {
+        id: 4315,
+        title: 'Continuing Education Certificate in Pharmacogenomics and Precision Oncology',
+        type: 'Course',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Four-month evening certification program for licensed hospital pharmacists on CYP450 polymorphism testing, HLA-B genetic screening, and targeted kinase inhibitors.',
+        funding: 'Eligible for Ministry of Health, Labour and Welfare vocational training subsidies',
+        fee: '¥10,000',
+        tuition: '¥120,000 total course fee',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.kobepharma-u.ac.jp/community/lifelong.html',
+        requirements: {
+          gpa: 'License as a Pharmacist in Japan (Yakuzaishi)',
+          ielts: 'Japanese proficiency',
+          gre: 'Not required',
+          papers: 'Copy of national pharmacist license and brief clinical experience record',
+          references: 'Not required'
+        },
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        location: 'Kobe, Hyogo, Japan'
+      }
+    ],
+    researchers: [
+      {
+        id: 1866,
+        name: 'Prof. Toshikazu Miyoshi',
+        title: 'Professor of Synthetic Organic Chemistry and Drug Discovery',
+        subject: 'chemistry',
+        topics: ['Asymmetric Catalysis', 'Synthesis of Bioactive Alkaloids', 'Organocatalytic Cascade Reactions'],
+        summary: 'Synthetic organic chemist developing novel chiral organocatalysts for the enantioselective total synthesis of complex marine alkaloids and anticancer natural products.',
+        source: 'https://www.kobepharma-u.ac.jp/research/faculty/detail.html?id=miyoshi',
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1867,
+        name: 'Prof. Masatoshi Tomi',
+        title: 'Professor of Pharmaceutics and Biopharmaceutics',
+        subject: 'biology',
+        topics: ['Blood-Brain Barrier Transport', 'Placental Drug Permeation', 'Membrane Transporter Kinetics'],
+        summary: 'Biopharmaceutics researcher investigating solute carrier (SLC) transporters at the blood-brain barrier and placenta to design drugs that penetrate the central nervous system.',
+        source: 'https://www.kobepharma-u.ac.jp/research/faculty/detail.html?id=tomi',
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1868,
+        name: 'Prof. Hiroaki Shirahase',
+        title: 'Professor of Pharmacology and Neurobiology',
+        subject: 'biology',
+        topics: ['Endothelial Dysfunction', 'Vascular Dementia Mechanisms', 'Cerebrovascular Pharmacology'],
+        summary: 'Pharmacologist analyzing microvascular disease in stroke and vascular cognitive impairment, evaluating novel receptor antagonists that restore cerebral perfusion.',
+        source: 'https://www.kobepharma-u.ac.jp/research/faculty/detail.html?id=shirahase',
+        university: 'Kobe Pharmaceutical University (Kobeyakka)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 25. Japan - Tokyo Denki University (TDU) (Row 1769)
+  {
+    slug: 'tokyo-denki-university-tdu',
+    institution: 'Tokyo Denki University (TDU)',
+    shortName: 'TDU Tokyo',
+    countryId: 'japan',
+    countryLabel: 'Japan',
+    location: 'Tokyo & Saitama, Japan',
+    website: 'https://www.dendai.ac.jp',
+    sourceRow: 1769,
+    badge: 'Historic Century-Old Private Engineering & Technology University of Tokyo',
+    lead: 'Tokyo Denki University (TDU) is a prestigious private technology university in Tokyo, founded in 1907 with the historic motto "In the Technology Lies Its Value," internationally celebrated for robotics, electrical engineering, cybersecurity, and architectural engineering.',
+    overview: 'Established in 1907 by two young electrical engineers, Seiichi Hirota and Sadanosuke Ogawa, Tokyo Denki University has educated generations of Japan\'s premier engineers who built the nation\'s electrical, electronic, and industrial infrastructure. Today, TDU educates over 10,000 students across two ultra-modern campuses: the flagship Tokyo Senju Campus in Adachi-ku, Tokyo, and the green Saitama Hatoyama Campus. TDU operates world-class research institutes in robotics engineering, advanced materials, and cybersecurity, maintaining close joint-venture laboratories with Hitachi, Sony, Panasonic, and Mitsubishi Electric.',
+    quickFacts: {
+      type: 'Private University of Technology & Engineering',
+      campus: 'Tokyo Senju Campus (Adachi-ku, Tokyo) & Saitama Hatoyama Campus',
+      accreditation: 'Japanese Ministry of Education (MEXT) & JABEE Engineering Accreditation',
+      admissions: 'National Center Test and TDU Entrance Examination',
+      language: 'Japanese (primary) with select bilingual research laboratories',
+      aid: 'TDU Centennial Excellence Scholarships, JASSO International Student Grants, Corporate Engineering Fellowships'
+    },
+    strengths: [
+      'Bionic Robotics, Humanoid Mechanics & Cybernetic Rehabilitation',
+      'Electrical Energy Systems, Power Semiconductors & Smart Grids',
+      'Computer Science, Cyber Security & High-Performance Embedded Systems',
+      'Architectural Environmental Design & Seismic Structural Engineering'
+    ],
+    programs: [
+      { title: 'PhD in Advanced Science and Technology (Informatics and Robotics)', level: 'Doctorate', desc: 'Cutting-edge doctoral research exploring wearable exoskeleton control, autonomous bipedal navigation, and human-robot cooperative manipulation.' },
+      { title: 'Master of Engineering in Electrical and Electronic Engineering', level: 'Master\'s', desc: 'Graduate program covering wide-bandgap semiconductors (SiC/GaN), high-voltage transmission, and wireless power transfer.' },
+      { title: 'Bachelor of Engineering in Robotics and Mechatronics', level: 'Bachelor\'s', desc: 'JABEE-accredited four-year degree featuring intensive studio design of mobile robotics, micro-actuators, and embedded real-time software.' },
+      { title: 'Master of Engineering in Information and Communication Engineering', level: 'Master\'s', desc: 'Specialized master\'s curriculum focused on next-generation 6G mobile networks, cryptographic protocols, and quantum communication.' }
+    ],
+    opportunities: [
+      {
+        id: 4316,
+        title: 'TDU Centennial Doctoral Fellowship in Robotics and Autonomous Systems',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Three-year fully funded doctoral research fellowship at the Tokyo Senju Campus investigating collaborative robotics and sensorimotor AI.',
+        funding: 'Full tuition waiver (¥900,000/year value) plus annual living stipend of ¥1,200,000 and research equipment grant',
+        fee: '¥30,000',
+        tuition: '¥900,000/year (fully waived under fellowship)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.dendai.ac.jp/about/research/graduate/scholarship.html',
+        requirements: {
+          gpa: 'Master of Engineering or Science with grade point average equivalent to 3.3/4.0',
+          ielts: 'TOEFL iBT 80 or IELTS 6.5 (JLPT N2 recommended)',
+          gre: 'Not required',
+          papers: 'Master\'s thesis copy and 2,000-word doctoral research plan in robotics or control',
+          references: 'Two letters from academic dissertation mentors'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4317,
+        title: 'TDU International Student Special Tuition Reduction Award',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Tuition reduction awarded to privately funded international undergraduate and graduate students admitted to TDU engineering faculties.',
+        funding: '30% tuition fee reduction applied across all years of study subject to academic progress',
+        fee: '¥25,000 (international application fee)',
+        tuition: '¥1,600,000/year (undergraduate engineering standard; reduced to ¥1,120,000 with award)',
+        deadline: '2026-12-10',
+        deadlineText: 'December 10, 2026',
+        source: 'https://www.dendai.ac.jp/about/international/scholarship.html',
+        requirements: {
+          gpa: 'Secondary school GPA above 3.0/4.0 with high grades in physics and mathematics',
+          ielts: 'JLPT N2 or N1 for undergraduate courses',
+          gre: 'Not required',
+          papers: 'EJU (Examination for Japanese University Admission for International Students) scores in Japanese, Math, and Science',
+          references: 'One high school teacher reference letter'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4318,
+        title: 'Master of Engineering in Electrical Engineering: Power Semiconductors Track',
+        type: 'Master\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Two-year graduate degree investigating silicon carbide (SiC) and gallium nitride (GaN) power switches for electric vehicles and renewable grid inverters.',
+        funding: 'Eligible for JASSO scholarship loans and industry-sponsored corporate research assistantships',
+        fee: '¥30,000',
+        tuition: '¥950,000/year',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.dendai.ac.jp/about/research/graduate/ee.html',
+        requirements: {
+          gpa: 'Bachelor\'s in electrical engineering, electronics, or applied physics',
+          ielts: 'Japanese JLPT N2 or English TOEFL 75',
+          gre: 'Not required',
+          papers: 'Graduate entrance examination in electrical circuits and electromagnetism',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4319,
+        title: 'Bachelor of Engineering in Robotics and Mechatronics (Tokyo Senju Campus)',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Four-year JABEE-accredited engineering program combining mechanical linkages, digital circuit design, micro-actuators, and robot operating systems (ROS).',
+        funding: 'Subsidized robotics project prototyping budgets in Senju Maker Lab',
+        fee: '¥35,000',
+        tuition: '¥1,650,000/year',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.dendai.ac.jp/faculty/system_design/rb.html',
+        requirements: {
+          gpa: 'Upper secondary school graduation with advanced mathematics and physics',
+          ielts: 'Native Japanese or JLPT N1/N2',
+          gre: 'Not required',
+          papers: 'TDU entrance examination or national common test results',
+          references: 'Not required'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4320,
+        title: 'Hitachi-TDU Advanced Power Grid Simulation Summer Practicum',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering'],
+        desc: 'Eight-week corporate engineering practicum working with Hitachi energy laboratories on power system transient analysis and microgrid stability.',
+        funding: '¥200,000 monthly company stipend plus technical housing allowance',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.dendai.ac.jp/career/internship.html',
+        requirements: {
+          gpa: '3rd year undergraduate or 1st year master\'s student in electrical engineering with minimum 3.0 GPA',
+          ielts: 'Fluent Japanese',
+          gre: 'Not required',
+          papers: 'Technical resume and coursework transcript in electrical machinery',
+          references: 'Faculty advisor recommendation'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4321,
+        title: 'TDU Cybersecurity Defense Exercise (Hardening Project)',
+        type: 'Course',
+        subject: 'computer-science',
+        subjects: ['computer-science'],
+        desc: 'Four-month intensive hands-on course in cyber incident response, live enterprise server defense against simulated attacks, and secure cloud orchestration.',
+        funding: 'Industry scholarship subsidies from the Cyber Security Consortium',
+        fee: '¥10,000',
+        tuition: '¥80,000 course fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.dendai.ac.jp/about/research/cybersecurity.html',
+        requirements: {
+          gpa: 'Enrolled student or graduate with solid background in TCP/IP networking and Linux administration',
+          ielts: 'Japanese or English communication',
+          gre: 'Not required',
+          papers: 'Brief statement of technical networking background',
+          references: 'Not required'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      },
+      {
+        id: 4322,
+        title: 'Architectural Environmental Engineering & Seismic Structural Practicum',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Six-month studio examining base-isolation seismic dampers, wind tunnel aerodynamic testing of skyscrapers, and net-zero energy building (ZEB) retrofits.',
+        funding: 'Subsidized laboratory materials and testing facility access',
+        fee: '¥10,000',
+        tuition: '¥150,000 total course fee',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.dendai.ac.jp/faculty/engineering/ar.html',
+        requirements: {
+          gpa: 'Undergraduate student or practitioner in architecture, structural engineering, or civil engineering',
+          ielts: 'Japanese proficiency',
+          gre: 'Not required',
+          papers: 'Structural analysis portfolio or CAD design samples',
+          references: 'One instructor recommendation'
+        },
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        location: 'Tokyo & Saitama, Japan'
+      }
+    ],
+    researchers: [
+      {
+        id: 1869,
+        name: 'Prof. Kenji Inoue',
+        title: 'Professor of Robotics and Mechatronics, School of System Design and Technology',
+        subject: 'engineering',
+        topics: ['Human-Cooperative Robotics', 'Wearable Assistive Exoskeletons', 'Force Feedback Tele-operation'],
+        summary: 'Robotics pioneer investigating pneumatic artificial muscle actuators and human motor intention detection for walking assistance exoskeletons.',
+        source: 'https://web.dendai.ac.jp/tdu/research/detail/inoue_kenji.html',
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1870,
+        name: 'Prof. Hiroaki Morino',
+        title: 'Professor of Information and Communication Engineering',
+        subject: 'computer-science',
+        topics: ['Ad-Hoc Wireless Sensor Networks', 'V2X Vehicular Communications', 'Intelligent Transportation Systems'],
+        summary: 'Telecommunications engineer developing low-latency vehicular communication protocols and decentralized routing algorithms for autonomous traffic coordination.',
+        source: 'https://web.dendai.ac.jp/tdu/research/detail/morino_hiroaki.html',
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1871,
+        name: 'Prof. Junji Kondoh',
+        title: 'Professor of Electrical and Electronic Engineering & Power Electronics Specialist',
+        subject: 'engineering',
+        topics: ['High-Efficiency Power Conversion', 'Battery Storage Control Systems', 'Smart Inverter Design'],
+        summary: 'Power electronics researcher designing high-frequency switching converters using silicon carbide (SiC) MOSFETs to minimize losses in electric vehicles and solar farms.',
+        source: 'https://web.dendai.ac.jp/tdu/research/detail/kondoh_junji.html',
+        university: 'Tokyo Denki University (TDU)',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 26. Japan - University of Hyogo (Row 1785)
+  {
+    slug: 'university-of-hyogo',
+    institution: 'University of Hyogo',
+    shortName: 'Hyogo Uni',
+    countryId: 'japan',
+    countryLabel: 'Japan',
+    location: 'Kobe & Himeji, Hyogo, Japan',
+    website: 'https://www.u-hyogo.ac.jp',
+    sourceRow: 1785,
+    badge: 'Premier Public Research University of Hyogo Prefecture & SPring-8 Synchrotron Partner',
+    lead: 'The University of Hyogo is a major public research university in the Kansai region of Japan, renowned for advanced materials science using the SPring-8 synchrotron radiation facility, supercomputing informatics, economics, and environmental disaster management.',
+    overview: 'Established in 2004 by integrating three historic prefectural higher education institutions (Kobe University of Commerce founded in 1929, Himeji Institute of Technology founded in 1944, and the College of Nursing Art and Science), the University of Hyogo enrolls over 6,500 students across six faculties and fourteen graduate schools. The university operates world-leading scientific complexes, notably the NewSUBARU synchrotron radiation facility, and is directly linked to the world’s most powerful SPring-8 and SACLA X-ray free-electron laser complexes in Harima Science Garden City.',
+    quickFacts: {
+      type: 'Public Prefectural Research University (Hyogo Prefectural University)',
+      campus: 'Kobe Campus (Gakuen-toshi), Himeji Engineering Campus, and Harima Science Campus',
+      accreditation: 'Japanese Ministry of Education (MEXT) & National Institution for Academic Degrees (NIAD-QE)',
+      admissions: 'National University Entrance Exam, EJU International Exam, and Global Leader G30 Selection',
+      language: 'Japanese (primary) with fully English-taught undergraduate degree (G30 Global Business Leader) and graduate tracks',
+      aid: 'Hyogo Prefectural Tuition Exemption Scheme (Zero Tuition for Hyogo Residents), MEXT, JASSO Scholarships'
+    },
+    strengths: [
+      'Synchrotron Radiation Materials Science (SPring-8 & NewSUBARU)',
+      'High-Performance Supercomputing & Computational Life Sciences (Fugaku Partner)',
+      'Global Business Economics & Econometrics (Historic Kobe Commerce Lineage)',
+      'Disaster Nursing, Public Health & Earthquake Resilience'
+    ],
+    programs: [
+      { title: 'PhD in Materials Science and Synchrotron Radiation Technology', level: 'Doctorate', desc: 'World-class doctoral program conducted at the Harima Science Campus and NewSUBARU synchrotron ring analyzing atomic surface structures and extreme-UV lithography.' },
+      { title: 'Bachelor of Global Business Course (GBC - English-Taught)', level: 'Bachelor\'s', desc: 'Four-year undergraduate degree taught entirely in English at the Kobe Campus, welcoming international students to master economics, business strategy, and Asian trade.' },
+      { title: 'Master of Engineering in Advanced Mechanical and Electrical Engineering', level: 'Master\'s', desc: 'Graduate engineering curriculum in Himeji focusing on precision robotics, micro-fluidics, semiconductor sensors, and thermal power systems.' },
+      { title: 'PhD in Disaster Nursing and Global Health', level: 'Doctorate', desc: 'Internationally recognized program created following the Great Hanshin-Awaji Earthquake, developing emergency disaster triage protocols and post-catastrophe care.' }
+    ],
+    opportunities: [
+      {
+        id: 4323,
+        title: 'NewSUBARU Synchrotron Materials Doctoral Research Fellowship',
+        type: 'Fellowship',
+        subject: 'physics',
+        subjects: ['physics', 'chemistry'],
+        desc: 'Three-year fully funded doctoral research fellowship utilizing the NewSUBARU 1.5 GeV synchrotron storage ring for soft X-ray spectroscopy and nano-machining.',
+        funding: '¥1,500,000 annual living stipend plus full tuition exemption and synchrotron beamline time allocation',
+        fee: '¥30,000',
+        tuition: '¥535,800/year (fully waived under fellowship)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.u-hyogo.ac.jp/research/fellowship/',
+        requirements: {
+          gpa: 'Master of Science or Engineering with 3.4/4.0 GPA in physics, chemistry, or materials science',
+          ielts: 'IELTS 6.5 or TOEFL iBT 80',
+          gre: 'Not required',
+          papers: 'Master\'s thesis and 1,500-word research proposal utilizing synchrotron radiation',
+          references: 'Three academic letters of recommendation from university professors'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4324,
+        title: 'Global Business Course (GBC) Full Tuition International Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Competitive scholarship for outstanding international students admitted to the four-year English-taught Bachelor of Global Business Course in Kobe.',
+        funding: '100% or 50% tuition waiver for all four years of undergraduate study',
+        fee: '¥17,000 (international application fee)',
+        tuition: '¥535,800/year (reduced to ¥0 or ¥267,900 with scholarship)',
+        deadline: '2026-11-20',
+        deadlineText: 'November 20, 2026',
+        source: 'https://www.u-hyogo.ac.jp/english/admissions/gbc/',
+        requirements: {
+          gpa: 'Secondary school graduation GPA equivalent to 3.5/4.0',
+          ielts: 'IELTS 6.0 or TOEFL iBT 79 for non-native English speakers',
+          gre: 'Not required',
+          papers: 'Personal statement outlining interest in Asian economic development and intercultural leadership',
+          references: 'Two letters from secondary school teachers'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4325,
+        title: 'Hyogo Prefectural Zero Tuition Program for Domestic Students',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'Prefectural government higher education policy making tuition and admission fees completely free for students whose families reside in Hyogo Prefecture.',
+        funding: 'Full tuition and matriculation fee waiver worth over ¥820,000 in the first year and ¥535,800/year thereafter',
+        fee: '¥0 (waived for eligible residents)',
+        tuition: '¥0 (100% free under prefectural policy)',
+        deadline: '2027-01-25',
+        deadlineText: 'January 25, 2027',
+        source: 'https://www.u-hyogo.ac.jp/campuslife/tuition/free.html',
+        requirements: {
+          gpa: 'Admission to undergraduate or graduate degree at University of Hyogo',
+          ielts: 'Japanese language proficiency required for degree',
+          gre: 'Not required',
+          papers: 'Certified Hyogo residence certificate (Juminhyo) demonstrating minimum 3 years residence',
+          references: 'Not required'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4326,
+        title: 'Master of Engineering in Precision Robotics and Automation (Himeji Campus)',
+        type: 'Master\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Two-year graduate engineering program in micro-actuators, robotic sensor fusion, computer vision, and industrial mechanical design.',
+        funding: 'Eligible for JASSO Type 1/2 scholarships and laboratory research assistantships (¥50,000/month)',
+        fee: '¥30,000',
+        tuition: '¥535,800/year',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://www.u-hyogo.ac.jp/eng/',
+        requirements: {
+          gpa: 'Bachelor\'s degree in mechanical, electrical, or materials engineering with 2.8+ GPA',
+          ielts: 'TOEFL 70 or JLPT N2',
+          gre: 'Not required',
+          papers: 'Graduate entrance examination in mathematics and mechanical engineering',
+          references: 'Two letters from university professors'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4327,
+        title: 'Disaster Reduction and Human Renovation Institution Research Practicum',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Six-month research internship at the Disaster Reduction and Human Renovation Institution in Kobe analyzing earthquake evacuation psychology and municipal resilience.',
+        funding: '¥80,000 monthly research allowance plus fieldwork travel expenses',
+        fee: '¥0',
+        tuition: '¥0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.u-hyogo.ac.jp/research/disaster/',
+        requirements: {
+          gpa: 'Enrolled in 2nd year master\'s or doctoral program in social sciences, nursing, or environmental engineering',
+          ielts: 'Working Japanese and English',
+          gre: 'Not required',
+          papers: 'Resume and research proposal on disaster preparedness',
+          references: 'Academic supervisor recommendation'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4328,
+        title: 'Bachelor of Global Business Course (GBC) 4-Year Undergraduate Program',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-year English-taught bachelor\'s degree in business economics, supply chain analytics, Asian economic integration, and Japanese corporate culture.',
+        funding: 'Guaranteed heavily subsidized international dormitory housing in Kobe during the first two years',
+        fee: '¥17,000',
+        tuition: '¥535,800/year',
+        deadline: '2026-11-20',
+        deadlineText: 'November 20, 2026',
+        source: 'https://www.u-hyogo.ac.jp/english/admissions/gbc/curriculum.html',
+        requirements: {
+          gpa: 'Secondary school completion (12 years of formal education) with minimum B average',
+          ielts: 'IELTS 6.0 or TOEFL 79',
+          gre: 'Not required',
+          papers: 'High school graduation certificate, transcripts, and statement of academic purpose',
+          references: 'Two teacher letters of recommendation'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      },
+      {
+        id: 4329,
+        title: 'Harima Synchrotron Radiation Summer School at SPring-8 and NewSUBARU',
+        type: 'Course',
+        subject: 'physics',
+        subjects: ['physics', 'chemistry'],
+        desc: 'Two-week intensive summer school providing direct hands-on beamline experimental training at the SPring-8 and NewSUBARU synchrotron rings.',
+        funding: 'JASSO short-term study support grants available for international participants',
+        fee: '¥0',
+        tuition: '¥30,000 workshop fee including on-site guesthouse accommodation',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.u-hyogo.ac.jp/sci/newsubaru/school/',
+        requirements: {
+          gpa: 'Upper undergraduate or graduate student in physics, materials science, or chemistry',
+          ielts: 'English or Japanese proficiency',
+          gre: 'Not required',
+          papers: 'Statement of experimental purpose using synchrotron radiation',
+          references: 'One professor recommendation'
+        },
+        university: 'University of Hyogo',
+        country: 'Japan',
+        location: 'Kobe & Himeji, Hyogo, Japan'
+      }
+    ],
+    researchers: [
+      {
+        id: 1872,
+        name: 'Prof. Takeo Watanabe',
+        title: 'Director of the Laboratory of Advanced Science and Technology for Industry (LASTI)',
+        subject: 'physics',
+        topics: ['Extreme Ultraviolet (EUV) Lithography', 'Synchrotron Radiation Nanofabrication', 'Soft X-Ray Surface Physics'],
+        summary: 'World-renowned authority on EUV semiconductor lithography, researching resist materials and high-precision optics using the NewSUBARU synchrotron storage ring.',
+        source: 'https://lasti.u-hyogo.ac.jp/member/watanabe/',
+        university: 'University of Hyogo',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1873,
+        name: 'Prof. Aiko Yamamoto',
+        title: 'Professor Emeritus & Leading Scholar in Disaster Nursing',
+        subject: 'biology',
+        topics: ['Disaster Nursing Pedagogy', 'Community Post-Trauma Mental Health', 'Emergency Triage Coordination'],
+        summary: 'Pioneer who established the global discipline of disaster nursing in the wake of the 1995 Kobe earthquake, advising the WHO on disaster nursing workforce training.',
+        source: 'https://www.u-hyogo.ac.jp/faculty/nurse/yamamoto/',
+        university: 'University of Hyogo',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1874,
+        name: 'Prof. Masayuki Morikawa',
+        title: 'Professor of Economics and Quantitative Econometrics',
+        subject: 'social-sciences',
+        topics: ['Productivity Analysis in Service Industries', 'Economic Impacts of AI and Telework', 'Industrial Trade Structures'],
+        summary: 'Prominent empirical economist analyzing firm-level productivity, innovation diffusion, and structural labor market shifts resulting from automation and remote work in Japan.',
+        source: 'https://www.u-hyogo.ac.jp/econ/faculty/morikawa/',
+        university: 'University of Hyogo',
+        country: 'Japan',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 27. Netherlands - Open Universiteit (Row 1468)
+  {
+    slug: 'open-universiteit-ou-netherlands',
+    institution: 'Open Universiteit (OU Netherlands)',
+    shortName: 'OU Netherlands',
+    countryId: 'netherlands',
+    countryLabel: 'Netherlands',
+    location: 'Heerlen, Limburg, Netherlands',
+    website: 'https://www.ou.nl',
+    sourceRow: 1468,
+    badge: 'Premier Public Distance & Digital Research University of the Netherlands',
+    lead: 'Open Universiteit (OU) is the Netherlands’ only state-funded public university dedicated to distance and digital higher education, internationally renowned for educational sciences, psychology, software engineering, and environmental law.',
+    overview: 'Established by royal decree in 1984 with its central rectorate in Heerlen, the Open Universiteit provides government-accredited university education (NVAO accredited) to more than 18,000 adult and international students across eighteen regional study centres in the Netherlands and Flanders (Belgium). The OU conducts high-impact scientific research through its six faculties: Educational Sciences, Psychology, Computer Science, Science (Environmental Sciences), Law, and Management. Its Welten Institute is celebrated worldwide as a leading research centre for digital learning technologies, cognitive load theory, and artificial intelligence in education.',
+    quickFacts: {
+      type: 'Public State Research University (Rijksuniversiteit voor Afstandsonderwijs)',
+      campus: 'Heerlen Headquarters & 18 Study Centres across the Netherlands and Flanders',
+      accreditation: 'Nederlands-Vlaamse Accreditatieorganisatie (NVAO) & Dutch Ministry of Education (OCW)',
+      admissions: 'Direct open enrollment (Open Hoger Onderwijs) via OU portal',
+      language: 'Dutch and English (English master\'s degrees and doctoral research)',
+      aid: 'Levenlanglerenkrediet (Lifelong Learning Credit), OU Research Fellowships, NWO Grants'
+    },
+    strengths: [
+      'Educational Sciences & Cognitive Learning Technologies (Welten Institute)',
+      'Artificial Intelligence, Automated Software Verification & Cyber Security',
+      'Clinical Psychology, Mental Health Diagnostics & E-Health Therapy',
+      'European Environmental Law & Sustainable Energy Regulation'
+    ],
+    programs: [
+      { title: 'Master of Science in Educational Sciences (Onderwijswetenschappen)', level: 'Master\'s', desc: 'World-leading curriculum exploring instructional design, digital learning environments, adaptive tutoring algorithms, and learning analytics.' },
+      { title: 'Master of Science in Computer Science: Software Technology and AI', level: 'Master\'s', desc: 'NVAO-accredited flexible master\'s covering formal verification, distributed cloud computing, cybersecurity, and applied deep learning.' },
+      { title: 'Master of Science in Psychologie (Klinische Psychologie)', level: 'Master\'s', desc: 'Accredited degree qualifying graduates for advanced clinical psychological practice, cognitive behavioral diagnostics, and e-mental health.' },
+      { title: 'PhD in Educational Sciences or Computer Science', level: 'Doctorate', desc: 'Four-year doctoral research fellowship at the Welten Institute or Faculty of Science investigating digital technologies for societal impact.' }
+    ],
+    opportunities: [
+      {
+        id: 4330,
+        title: 'Welten Institute Doctoral Research Fellowship in AI in Education',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Four-year fully funded PhD appointment (Promovendus) at the Welten Institute investigating cognitive load optimization in adaptive digital learning systems.',
+        funding: 'Dutch collective labour agreement (CAO Nederlandse Universiteiten) salary: €2,770 to €3,539 gross monthly plus 8% holiday and 8.3% end-of-year bonus',
+        fee: '€0',
+        tuition: '€0 (salaried employee status)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.ou.nl/onderzoek-promoveren',
+        requirements: {
+          gpa: 'Master of Science in computer science, educational sciences, cognitive psychology, or data science',
+          ielts: 'IELTS 7.0 or TOEFL iBT 95',
+          gre: 'Not required',
+          papers: 'Master\'s thesis copy and 1,500-word proposal on adaptive learning technology',
+          references: 'Two letters from university professors'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4331,
+        title: 'Master of Science in Computer Science: Flexible Digital Track',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Fully accredited two-year flexible online master\'s allowing working professionals to specialize in Software Engineering, Artificial Intelligence, or Cybersecurity.',
+        funding: 'Eligible for Dutch Levenlanglerenkrediet providing up to €12,000 government study loan financing',
+        fee: '€0',
+        tuition: '€2,530/year (Statutory tuition for EU/EEA) or €3,750/year (Institutional)',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.ou.nl/opleiding/master-computer-science',
+        requirements: {
+          gpa: 'Bachelor of Science in computer science, software engineering, or information technology',
+          ielts: 'English B2/C1 proficiency',
+          gre: 'Not required',
+          papers: 'Transcript of completed computing credits',
+          references: 'One academic reference'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4332,
+        title: 'Master of Science in Clinical Psychology (E-Health Mental Care)',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Two-year consecutive degree preparing clinical psychologists in psychopathology diagnostics, evidence-based interventions, and digital blended therapy.',
+        funding: 'Dutch government student finance (DUO) and educational study vouchers applicable',
+        fee: '€0',
+        tuition: '€2,530/year (Statutory) or €3,950/year (Institutional)',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.ou.nl/opleiding/master-psychologie',
+        requirements: {
+          gpa: 'Academic Bachelor\'s in Psychology (with 180 ECTS conforming to Dutch BAPD standards)',
+          ielts: 'Dutch language proficiency C1 (CNaVT or NT2-II) and English B2',
+          gre: 'Not required',
+          papers: 'Proof of completed clinical diagnostics and psychometrics modules',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4333,
+        title: 'Doctoral Fellowship in European Environmental and Energy Law',
+        type: 'Fellowship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Four-year doctoral position at the Faculty of Law examining cross-border EU renewable energy regulations, legal challenges of carbon capture, and water directives.',
+        funding: 'CAO Universiteiten monthly gross salary €2,770 (year 1) rising to €3,539 (year 4)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.ou.nl/faculteit-rechtswetenschappen',
+        requirements: {
+          gpa: 'Master of Laws (LLM) in European law, environmental law, or international law with honors',
+          ielts: 'English C1',
+          gre: 'Not required',
+          papers: 'Master\'s thesis and doctoral research proposal on EU climate regulation',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4334,
+        title: 'Bachelor of Science in Environmental Sciences (Milieu-natuurwetenschappen)',
+        type: 'Bachelor\'s',
+        subject: 'environment',
+        subjects: ['environment', 'biology'],
+        desc: 'Three-year academic bachelor\'s degree focusing on climate change ecology, environmental toxicology, soil degradation, and circular resource management.',
+        funding: 'Statutory tuition fee rates for Dutch/EEA citizens and DUO study financing',
+        fee: '€0',
+        tuition: '€2,530/year (EU/EEA)',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.ou.nl/opleiding/bachelor-milieu-natuurwetenschappen',
+        requirements: {
+          gpa: 'VWO diploma, HBO propedeuse, or colloquium doctum entrance examination (age 21+)',
+          ielts: 'Dutch proficiency (NT2-II)',
+          gre: 'Not required',
+          papers: 'Online intake registration and academic matching',
+          references: 'Not required'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4335,
+        title: 'Digital Learning Technologies Laboratory Research Internship',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Six-month research internship at the Welten Institute in Heerlen developing automated feedback bots and multimodal eye-tracking analytics in virtual classrooms.',
+        funding: '€600 monthly university internship compensation',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.ou.nl/welten-institute',
+        requirements: {
+          gpa: 'Enrolled in master\'s program in computer science, cognitive science, or interaction design',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Resume detailing Python, JavaScript, or NLP software experience',
+          references: 'One academic reference'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      },
+      {
+        id: 4336,
+        title: 'Continuing Certificate in Cyber Security Incident Response and Digital Forensics',
+        type: 'Course',
+        subject: 'computer-science',
+        subjects: ['computer-science'],
+        desc: 'Four-month online post-academic certificate covering packet analysis, reverse engineering of malware, threat intelligence, and ISO 27035 compliance.',
+        funding: 'Eligible for employer training budgets and Dutch tax-deductible educational expenses',
+        fee: '€0',
+        tuition: '€1,350 total certificate tuition',
+        deadline: '2027-03-10',
+        deadlineText: 'March 10, 2027',
+        source: 'https://www.ou.nl/opleiding/cursus-cyber-security',
+        requirements: {
+          gpa: 'Higher professional education (HBO) or university bachelor\'s degree in computing or networking',
+          ielts: 'English or Dutch proficiency',
+          gre: 'Not required',
+          papers: 'Brief professional resume',
+          references: 'Not required'
+        },
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        location: 'Heerlen, Limburg, Netherlands'
+      }
+    ],
+    researchers: [
+      {
+        id: 1875,
+        name: 'Prof. Dr. Roland Klemke',
+        title: 'Professor of Technology-Enhanced Learning at Welten Institute',
+        subject: 'computer-science',
+        topics: ['Multimodal Learning Analytics', 'Artificial Intelligence in Education', 'Serious Gaming for Skill Acquisition'],
+        summary: 'Computer scientist and educational technologist investigating sensor-based multimodal learning analytics, augmented reality in professional training, and generative AI tutors.',
+        source: 'https://www.ou.nl/medewerker/roland-klemke',
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1876,
+        name: 'Prof. Dr. Denise Peels',
+        title: 'Professor of Clinical Psychology and E-Health Interventions',
+        subject: 'social-sciences',
+        topics: ['Digital Mental Health Interventions', 'Behavior Change Technology', 'Tailored Health Communication'],
+        summary: 'Clinical psychologist researching the efficacy of computer-tailored behavioral interventions, mobile mental health applications, and blended therapy for anxiety and depression.',
+        source: 'https://www.ou.nl/medewerker/denise-peels',
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1877,
+        name: 'Prof. Dr. Marjan Peeters',
+        title: 'Professor of Environmental Policy and Law',
+        subject: 'social-sciences',
+        topics: ['EU Climate Change Law', 'Regulatory Instruments for Carbon Pricing', 'Public Participation in Environmental Governance'],
+        summary: 'Leading legal scholar analyzing European and international climate law, emissions trading mechanisms, and judicial review of governmental greenhouse gas reduction targets.',
+        source: 'https://www.ou.nl/medewerker/marjan-peeters',
+        university: 'Open Universiteit (OU Netherlands)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 28. Netherlands - University College Roosevelt (UCR Middelburg) (Row 1520)
+  {
+    slug: 'university-college-roosevelt-ucr',
+    institution: 'University College Roosevelt (UCR Middelburg)',
+    shortName: 'UCR Middelburg',
+    countryId: 'netherlands',
+    countryLabel: 'Netherlands',
+    location: 'Middelburg, Zeeland, Netherlands',
+    website: 'https://www.ucr.nl',
+    sourceRow: 1520,
+    badge: 'Premier International Honours Liberal Arts & Sciences College of Utrecht University',
+    lead: 'University College Roosevelt (UCR) is the prestigious international honors liberal arts and sciences undergraduate college of Utrecht University, located in the historic provincial capital of Middelburg, Zeeland.',
+    overview: 'Founded in 2004 as a collaboration between Utrecht University and the Province of Zeeland and named in honor of the Roosevelt family (whose ancestral roots lie in Zeeland), UCR is an intensive residential liberal arts college hosting around 600 students from more than 60 nations. Housed in the magnificent Gothic City Hall of Middelburg and surrounding heritage buildings, UCR confers official Bachelor of Arts (BA) and Bachelor of Science (BSc) degrees from Utrecht University. Students construct personalized interdisciplinary curricula across Arts & Humanities, Social Sciences, Science, and Biomedical Sciences, characterized by small seminar classes (maximum 25 students) and compulsory undergraduate research.',
+    quickFacts: {
+      type: 'International Honours College of Utrecht University (Residential Liberal Arts)',
+      campus: 'Historic City Centre of Middelburg (Gothic Stadhuis & Roosevelt Square), Zeeland',
+      accreditation: 'Nederlands-Vlaamse Accreditatieorganisatie (NVAO) & Utrecht University Quality Assurance',
+      admissions: 'Selective direct admissions (Studielink and UCR Application Portal)',
+      language: 'English (100% of instruction and academic community)',
+      aid: 'Roosevelt Foundation Scholarships, Zeeland Excellence Bursaries, Dutch DUO Loans'
+    },
+    strengths: [
+      'Interdisciplinary Liberal Arts & Sciences (Arts, Social Sciences & Sciences)',
+      'Undergraduate Research Apprenticeship (Undergraduate Research Hub)',
+      'Biomedical Sciences, Pre-Med Track & Public Health',
+      'Coastal Resilience, Marine Ecology & Zeeland Delta Engineering'
+    ],
+    programs: [
+      { title: 'Bachelor of Science (BSc) in Interdisciplinary Science and Engineering', level: 'Bachelor\'s', desc: 'Pre-engineering and scientific curriculum combining mathematics, physics, earth and environmental science, and data computing.' },
+      { title: 'Bachelor of Science (BSc) in Biomedical Sciences and Pre-Medicine', level: 'Bachelor\'s', desc: 'Rigorous life sciences major preparing graduates for top medical schools (SUMMA at Utrecht) and biomedical master\'s programs.' },
+      { title: 'Bachelor of Arts (BA) in Social Sciences and International Relations', level: 'Bachelor\'s', desc: 'Interdisciplinary study of international law, economics, political theory, anthropology, and human rights philosophy.' },
+      { title: 'Bachelor of Arts (BA) in Arts and Humanities', level: 'Bachelor\'s', desc: 'Comprehensive liberal arts degree covering history, philosophy, rhetoric, musicology, and literature with intensive seminar discussions.' }
+    ],
+    opportunities: [
+      {
+        id: 4337,
+        title: 'UCR Roosevelt International Honours Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Merit-based scholarship awarded to exceptional non-EU/EEA students admitted to the residential Bachelor of Arts and Sciences degree at UCR.',
+        funding: '€2,500 to €5,000 per year tuition fee reduction for all three years of study',
+        fee: '€0 (free selective application)',
+        tuition: '€3,750/year (EU/EEA residential statutory fee) or €11,800/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.ucr.nl/admissions/fees-and-scholarships/',
+        requirements: {
+          gpa: 'Secondary school diploma equivalent to Dutch VWO with minimum 7.5/10 average (or 34 IB points, or 3.5/4.0 GPA)',
+          ielts: 'IELTS 7.0 overall (minimum 6.5 in writing) or TOEFL iBT 100',
+          gre: 'Not required',
+          papers: 'Motivational essay (500–700 words) detailing reasons for choosing liberal arts and residential learning',
+          references: 'One academic reference letter from a secondary school teacher'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4338,
+        title: 'Bachelor of Science in Biomedical Sciences and Pre-Med Track',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Three-year honors degree conferring an official Utrecht University BSc, providing guaranteed progression pathways to graduate-entry medicine programs.',
+        funding: 'Eligible for Dutch DUO performance grants, student travel product, and UCR financial aid bursaries',
+        fee: '€0',
+        tuition: '€3,750/year (EU/EEA) or €11,800/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.ucr.nl/academics/biomedical-sciences/',
+        requirements: {
+          gpa: 'Dutch VWO diploma with chemistry and mathematics, or international equivalent (AP Chemistry/Biology)',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'Motivation letter and interview with UCR admissions board',
+          references: 'Academic reference'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4339,
+        title: 'Zeeland Delta Coastal Marine Science Summer Research Fellowship',
+        type: 'Fellowship',
+        subject: 'environment',
+        subjects: ['environment', 'biology'],
+        desc: 'Ten-week funded undergraduate research appointment studying salt-marsh restoration, Oosterschelde barrier ecology, and estuarine sedimentation.',
+        funding: '€2,500 research grant plus field equipment and laboratory supplies allocation',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.ucr.nl/research/delta-studies/',
+        requirements: {
+          gpa: 'Enrolled at UCR with minimum 3.2 GPA in earth science, biology, or chemistry',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Two-page research proposal aligned with the Delta Climate Center Middelburg',
+          references: 'One UCR science faculty endorsement'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4340,
+        title: 'Bachelor of Arts in International Relations and Human Rights (Utrecht Degree)',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Three-year residential honors degree exploring public international law, comparative politics, diplomatic negotiation, and global governance.',
+        funding: 'Eligible for Roosevelt Foundation need-based housing grants up to €2,000/year',
+        fee: '€0',
+        tuition: '€3,750/year (EU/EEA) or €11,800/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.ucr.nl/academics/social-sciences/',
+        requirements: {
+          gpa: 'VWO diploma or equivalent international high school credential with strong humanities marks',
+          ielts: 'IELTS 7.0',
+          gre: 'Not required',
+          papers: 'Analytical writing sample or graded high school history/literature essay',
+          references: 'One teacher recommendation'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4341,
+        title: 'Undergraduate Research Hub (URH) Independent Project Grant',
+        type: 'Fellowship',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'social-sciences'],
+        desc: 'Competitive undergraduate research grant funding student-initiated field research, primary archival investigations, or experimental laboratory studies.',
+        funding: '€1,500 direct grant toward travel, transcription, or experimental supplies',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.ucr.nl/research/undergraduate-research-hub/',
+        requirements: {
+          gpa: 'Second or third-year UCR student with cumulative GPA above 3.4/4.0',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Five-page project proposal with itemized budget and ethics committee clearance',
+          references: 'Faculty project mentor commitment letter'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4342,
+        title: 'Roosevelt Institute for American Studies (RIAS) Archival Internship',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-month research internship at RIAS Middelburg working with unique presidential archives, diplomatic papers, and transatlantic history collections.',
+        funding: '€500 monthly internship stipend plus free access to specialized transatlantic historical archives',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.roosevelt.nl',
+        requirements: {
+          gpa: 'UCR or partner university student in history, international relations, or American studies',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Historical research essay sample and statement of interest',
+          references: 'One history professor recommendation'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      },
+      {
+        id: 4343,
+        title: 'Intensive Seminar in Human Rights and the Four Freedoms Philosophy',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-week summer honors course commemorating Franklin and Eleanor Roosevelt\'s Four Freedoms, exploring freedom of speech, worship, want, and fear in modern global law.',
+        funding: 'Subsidized residential fees for international students through Roosevelt Foundation funds',
+        fee: '€0',
+        tuition: '€750 total course tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.ucr.nl/admissions/summer-courses/',
+        requirements: {
+          gpa: 'Undergraduate student in law, politics, philosophy, or international relations',
+          ielts: 'IELTS 6.5 or equivalent',
+          gre: 'Not required',
+          papers: 'Brief personal reflection on the Four Freedoms today',
+          references: 'Not required'
+        },
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        location: 'Middelburg, Zeeland, Netherlands'
+      }
+    ],
+    researchers: [
+      {
+        id: 1878,
+        name: 'Prof. Dr. Edward Nieuwenhuis',
+        title: 'Dean of University College Roosevelt & Professor of Pediatric Gastroenterology (Utrecht)',
+        subject: 'biology',
+        topics: ['Mucosal Immunology', 'Pediatric Inflammatory Bowel Disease', 'Liberal Arts Medical Pedagogy'],
+        summary: 'Clinician-scientist and academic leader researching intestinal immune homeostasis, pediatric Crohn\'s disease, and spearheading innovative interdisciplinary liberal arts pre-medical education.',
+        source: 'https://www.ucr.nl/about-ucr/faculty/edward-nieuwenhuis/',
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1879,
+        name: 'Prof. Dr. Michael Steketee',
+        title: 'Associate Professor of Biomedical Sciences and Neurobiology',
+        subject: 'biology',
+        topics: ['Optic Nerve Regeneration', 'Axonal Growth Cone Signaling', 'Nanotechnology in Neural Repair'],
+        summary: 'Neurobiologist investigating cellular and molecular mechanisms of central nervous system axonal regeneration following traumatic optical nerve damage and glaucoma.',
+        source: 'https://www.ucr.nl/about-ucr/faculty/michael-steketee/',
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1880,
+        name: 'Dr. Herman Lelieveldt',
+        title: 'Associate Professor of Political Science & Senior Fellow in Food Politics',
+        subject: 'social-sciences',
+        topics: ['European Union Agricultural Policy', 'Local Food Politics', 'Comparative Political Institutions'],
+        summary: 'Political scientist and co-author of prominent textbooks on European politics, analyzing interest group lobbying, municipal food strategies, and EU common agricultural regulations.',
+        source: 'https://www.ucr.nl/about-ucr/faculty/herman-lelieveldt/',
+        university: 'University College Roosevelt (UCR Middelburg)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 29. Netherlands - University College Twente (ATLAS) (Row 1521)
+  {
+    slug: 'university-college-twente-atlas',
+    institution: 'University College Twente (ATLAS Honours College)',
+    shortName: 'UCT ATLAS',
+    countryId: 'netherlands',
+    countryLabel: 'Netherlands',
+    location: 'Enschede, Overijssel, Netherlands',
+    website: 'https://ut.onl/uctwente',
+    sourceRow: 1521,
+    badge: 'Premier Technology, Liberal Arts & Sciences (ATLAS) Honours College of University of Twente',
+    lead: 'University College Twente (UCT) is the prestigious residential honours college of the University of Twente, offering the world-unique Technology and Liberal Arts & Sciences (ATLAS) Bachelor of Science degree combining rigorous engineering with social sciences.',
+    overview: 'Established in 2013 on the lush American-style campus of the University of Twente in Enschede, University College Twente is the first and only honours college in the Netherlands that seamlessly bridges engineering and technology with social sciences and the humanities. UCT’s groundbreaking ATLAS program (Academy of Technology and Liberal Arts & Sciences) does not rely on conventional exams; instead, students develop personalized semester projects evaluated by continuous feedback and student self-assessment portfolios. Graduates earn a prestigious Bachelor of Science (BSc) degree and gain direct entry into world-class master’s degrees in mechanical engineering, robotics, public policy, or artificial intelligence.',
+    quickFacts: {
+      type: 'International Honours College of University of Twente (Residential STEM & Liberal Arts)',
+      campus: 'University of Twente Campus (O&O Plaza & Drienerburght Residence), Enschede',
+      accreditation: 'Nederlands-Vlaamse Accreditatieorganisatie (NVAO) & Keurmerk Bijzonder Kenmerk Kleinschalig en Intensief Onderwijs',
+      admissions: 'Selective direct admissions (Studielink and UCT Selection Committee interview)',
+      language: 'English (100% of curriculum and community)',
+      aid: 'ATLAS Scholarship for Non-EU/EEA Students, Holland Scholarship, Dutch DUO Loans'
+    },
+    strengths: [
+      'Technology and Liberal Arts & Sciences (ATLAS BSc Degree)',
+      'Self-Directed Learning & Continuous Portfolio Assessment',
+      'Renewable Energy Tech, Smart Materials & Nanotechnology',
+      'Societal Impact Analysis, Innovation Governance & Philosophy of Technology'
+    ],
+    programs: [
+      { title: 'Bachelor of Science (BSc) in Technology and Liberal Arts & Sciences (ATLAS)', level: 'Bachelor\'s', desc: 'World-unique three-year residential honors degree integrating thermodynamics, calculus, programming, and electronics with public policy, sociology, and ethics.' },
+      { title: 'Pre-Master Honors Track in Robotics and Mechatronic Systems', level: 'Bachelor\'s', desc: 'Customized STEM specialization within the ATLAS curriculum providing seamless admission into University of Twente\'s MSc Robotics program.' },
+      { title: 'Pre-Master Honors Track in Sustainable Energy Technology and Policy', level: 'Bachelor\'s', desc: 'Integrated engineering-policy track focusing on hydrogen energy storage, battery life-cycle assessment, and EU green transition governance.' },
+      { title: 'ATLAS Semester 6 Capstone Graduation Research Project', level: 'Capstone Project', desc: 'Individual six-month intensive scientific capstone project executed at international research institutes or corporate innovation labs.' }
+    ],
+    opportunities: [
+      {
+        id: 4344,
+        title: 'ATLAS International Honours Talent Scholarship',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Highly competitive scholarship for top-ranking non-EU/EEA applicants admitted to the residential Bachelor of Science Technology and Liberal Arts (ATLAS) program.',
+        funding: 'Up to €4,000 per year towards tuition fees for all three years of the program (€12,000 total)',
+        fee: '€0 (free selective application)',
+        tuition: '€4,660/year (EU/EEA intensive statutory rate) or €13,750/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.utwente.nl/en/uct/scholarship/',
+        requirements: {
+          gpa: 'Secondary school completion (VWO, IB with 34+ points, or A-Levels with minimum ABB) including advanced Mathematics and Physics',
+          ielts: 'IELTS 7.0 overall (minimum 6.5 in all sub-scores) or TOEFL iBT 100',
+          gre: 'Not required',
+          papers: 'Motivational video and self-reflection letter explaining passion for integrating engineering with social sciences',
+          references: 'One mathematics or physics teacher recommendation'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4345,
+        title: 'Bachelor of Science in Technology and Liberal Arts & Sciences (ATLAS Degree)',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Three-year small-scale and intensive residential program awarded the prestigious Dutch "Exemplary Quality" distinction by NVAO.',
+        funding: 'Eligible for Dutch DUO tuition loans and Twente University Excellence Grants',
+        fee: '€0',
+        tuition: '€4,660/year (EU/EEA) or €13,750/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.utwente.nl/en/uct/program/',
+        requirements: {
+          gpa: 'Dutch VWO with Mathematics B and Physics, or foreign equivalent',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'Selection Day attendance (online or on-campus) featuring collaborative group problem-solving and personal interview',
+          references: 'Academic reference letter'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4346,
+        title: 'MESA+ Institute for Nanotechnology Undergraduate Research Apprenticeship',
+        type: 'Fellowship',
+        subject: 'physics',
+        subjects: ['physics', 'engineering'],
+        desc: 'Ten-week funded undergraduate research placement inside the MESA+ NanoLab cleanroom fabricating micro-fluidic channels and quantum nano-devices.',
+        funding: '€2,500 research stipend plus full access to cleanroom micro-fabrication suites',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.utwente.nl/en/mesaplus/',
+        requirements: {
+          gpa: 'ATLAS student in 2nd or 3rd year with strong performance in materials science and physics modules',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Proposal outlining a cleanroom nanofabrication experiment',
+          references: 'MESA+ faculty supervisor endorsement'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4347,
+        title: 'Pre-Master Honors Fellowship in Robotics and Autonomous Systems',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Specialized third-year track embedding ATLAS students into the Robotics and Mechatronics (RAM) lab, developing autonomous mobile robot control algorithms.',
+        funding: 'Departmental project funding of €1,200 for robotic sensor hardware and microcontrollers',
+        fee: '€0',
+        tuition: 'Included in regular tuition',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.utwente.nl/en/eemcs/ram/',
+        requirements: {
+          gpa: 'Completion of 120 ECTS in ATLAS with demonstrated mastery in dynamics, signals, and linear algebra',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Personal development plan outlining robotics master\'s progression',
+          references: 'Recommendation by ATLAS academic mentor'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4348,
+        title: 'University of Twente NL Scholarship for Non-EEA Students',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Dutch Ministry of Education co-funded scholarship for excellent international students from outside the European Economic Area.',
+        funding: '€5,000 one-time financial contribution towards living expenses in the first year of study',
+        fee: '€0',
+        tuition: 'Standard non-EEA tuition applies',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.utwente.nl/en/education/scholarship-finder/nl-scholarship/',
+        requirements: {
+          gpa: 'Outstanding secondary school diploma results (top 10% of graduating cohort)',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'High school transcripts and motivation letter',
+          references: 'One academic reference'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4349,
+        title: 'Kennispark Twente Deep Tech Venture Incubation Internship',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Six-month venture development internship embedded inside university spin-offs at Kennispark Twente (one of Europe’s leading university startup ecosystems).',
+        funding: '€750 monthly startup stipend plus mentorship by venture capitalists',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.kennispark.nl',
+        requirements: {
+          gpa: 'Third-year ATLAS student completing the entrepreneurship and technology innovation semester',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Pitch deck or technical feasibility report on a hardware/software spin-off idea',
+          references: 'Approval from Twente Novel-T incubator lead'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      },
+      {
+        id: 4350,
+        title: 'Summer School on Philosophy of Technology and Responsible Design',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'Two-week intensive summer course exploring postphenomenology, mediation theory, moral agency of algorithms, and human-technology relations.',
+        funding: 'Subsidized registration for international honours students',
+        fee: '€0',
+        tuition: '€650 total course fee including on-campus accommodation',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.utwente.nl/en/summer-school-curiousu/',
+        requirements: {
+          gpa: 'Undergraduate student in engineering, philosophy, or social sciences with minimum 3.0 GPA',
+          ielts: 'English B2/C1',
+          gre: 'Not required',
+          papers: 'Short essay on a moral dilemma posed by an emerging technology',
+          references: 'Not required'
+        },
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        location: 'Enschede, Overijssel, Netherlands'
+      }
+    ],
+    researchers: [
+      {
+        id: 1881,
+        name: 'Prof. Dr. Ansgar Fehnker',
+        title: 'Dean of University College Twente & Professor of Formal Methods and Software Verification',
+        subject: 'computer-science',
+        topics: ['Model Checking', 'Verification of Autonomous Systems', 'Interdisciplinary STEM Education'],
+        summary: 'Computer scientist specializing in formal verification of critical software, model checking of automated transportation protocols, and educational design for self-directed engineering learning.',
+        source: 'https://people.utwente.nl/ansgar.fehnker',
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1882,
+        name: 'Prof. Dr. Stefano Stramigioli',
+        title: 'Professor of Advanced Robotics, Chair of Robotics and Mechatronics (RAM)',
+        subject: 'engineering',
+        topics: ['Port-Hamiltonian Systems', 'Medical Robotics', 'Autonomous Aerial Manipulation'],
+        summary: 'World-renowned roboticist leading IEEE and European robotics societies, researching geometric control theory, snake robots for search and rescue, and robotic surgical tools.',
+        source: 'https://people.utwente.nl/s.stramigioli',
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1883,
+        name: 'Prof. Dr. Peter-Paul Verbeek',
+        title: 'Honorary Professor of Philosophy of Technology & Member of UNESCO COMEST',
+        subject: 'social-sciences',
+        topics: ['Philosophy of Technology', 'Postphenomenology', 'Ethics of Human Augmentation'],
+        summary: 'Leading philosopher of technology analyzing the moral agency of technical artifacts, technological mediation in healthcare, and ethical governance of artificial intelligence.',
+        source: 'https://people.utwente.nl/p.p.c.c.verbeek',
+        university: 'University College Twente (ATLAS Honours College)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 30. Netherlands - University Medical Center Groningen (UMCG) (Row 1522)
+  {
+    slug: 'university-medical-center-groningen-umcg',
+    institution: 'University Medical Center Groningen (UMCG)',
+    shortName: 'UMCG Groningen',
+    countryId: 'netherlands',
+    countryLabel: 'Netherlands',
+    location: 'Groningen, Netherlands',
+    website: 'https://www.umcg.nl',
+    sourceRow: 1522,
+    badge: 'World-Leading Academic Medical Center, Proton Therapy Hub & Healthy Ageing Research Powerhouse',
+    lead: 'University Medical Center Groningen (UMCG), affiliated with the University of Groningen, is one of the largest academic hospitals in Europe, world-renowned for its "Healthy Ageing" focus, the Lifelines cohort biobank, solid organ transplantation, and proton beam therapy.',
+    overview: 'Tracing its medical roots back to the founding of the University of Groningen in 1614, UMCG is an internationally celebrated medical research citadel employing over 13,000 staff, educating nearly 4,000 medical and biomedical students, and treating more than 800,000 patients annually. UMCG is designated as the Dutch national referral center for multiorgan transplantation and home to the Lifelines Cohort Study—a premier three-generation prospective biobank monitoring 167,000 participants over 30 years. UMCG operates Europe’s first pencil-beam scanning proton therapy center and spearheads global breakthroughs in mitochondrial medicine, immunogenetics, and oncological radiobiology.',
+    quickFacts: {
+      type: 'Academic Medical Center & University Hospital (University of Groningen)',
+      campus: 'UMCG Hospital Complex & Healthy Ageing Campus, Central Groningen',
+      accreditation: 'Nederlandse Federatie van Universitair Medische Centra (NFU) & Joint Commission International (JCI)',
+      admissions: 'Numerus Fixus National Selection (Medicine) and Groningen Graduate School of Medical Sciences (GSMS)',
+      language: 'Dutch and English (English bachelor’s and master’s in medicine and biomedical sciences)',
+      aid: 'Eric Bleumink Fund Scholarships, GSMS PhD Fellowships, NWO Vidi/Vici Grants'
+    },
+    strengths: [
+      'Healthy Ageing & Lifelines Three-Generation Multi-Omics Cohort',
+      'Solid Organ & Multiorgan Transplantation (Kidney, Liver, Lung, Heart)',
+      'Advanced Radiation Oncology & Pencil-Beam Proton Therapy (GPTC)',
+      'Genomics, Epigenetics of Immune Diseases & Mitochondrial Biology'
+    ],
+    programs: [
+      { title: 'PhD in Medical Sciences (Graduate School of Medical Sciences - GSMS)', level: 'Doctorate', desc: 'Elite four-year doctoral research curriculum in immunology, oncology, neuroscience, or cardiology within high-impact UMCG research institutes.' },
+      { title: 'Bachelor of Science in Medicine (Global Health Profile - English-Taught)', level: 'Bachelor\'s', desc: 'One of the few English-taught medical bachelor degrees in the European Union, featuring problem-based learning, patient simulation, and clinical clerkships.' },
+      { title: 'Master of Science in Clinical and Psychosocial Epidemiology (Research Master)', level: 'Master\'s', desc: 'NVAO-accredited top-rated research master using big data from the Lifelines biobank to study chronic disease etiology.' },
+      { title: 'Master of Science in Biomedical Sciences (Biology of Ageing)', level: 'Master\'s', desc: 'Two-year research master exploring cellular senescence, telomere dynamics, metabolic reprogramming, and regenerative organ repair.' }
+    ],
+    opportunities: [
+      {
+        id: 4351,
+        title: 'GSMS Fully Funded Doctoral Research Fellowship in Healthy Ageing',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Four-year fully salaried doctoral research appointment (Promovendus) at the Graduate School of Medical Sciences investigating cellular senescence and immune longevity.',
+        funding: 'CAO Universitair Medische Centra (UMC) salary: €2,901 (year 1) to €3,677 (year 4) gross monthly plus 8.3% end-of-year allowance',
+        fee: '€0',
+        tuition: '€0 (salaried hospital research position)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.rug.nl/research/gradschool-medical-sciences/phd-programme/',
+        requirements: {
+          gpa: 'Master of Science in biomedical sciences, medicine, molecular biology, or biochemistry with grade 8.0/10 or higher',
+          ielts: 'IELTS 7.0 overall with no band score below 6.5, or TOEFL iBT 100',
+          gre: 'Not required',
+          papers: 'Master\'s thesis manuscript and 2,000-word doctoral research proposal',
+          references: 'Three letters of recommendation from academic laboratory supervisors'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4352,
+        title: 'Eric Bleumink Fund Full Master\'s Fellowship for Developing Nation Scholars',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Prestigious full scholarship covering all tuition, international travel, health insurance, and monthly living costs for talented medical/biomedical master\'s students.',
+        funding: 'Full tuition coverage plus €1,100 monthly living stipend and return flights',
+        fee: '€100 (University of Groningen application fee)',
+        tuition: '€20,500/year (international tuition fully covered)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.rug.nl/education/scholarships/eric-bleumink-fund',
+        requirements: {
+          gpa: 'Unconditional admission to a two-year master\'s program at UMCG/GSMS and exceptional undergraduate academic record',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and academic recommendation from home institution dean',
+          references: 'Two letters of recommendation'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4353,
+        title: 'Master of Science in Clinical and Psychosocial Epidemiology (Research Master)',
+        type: 'Master\'s',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Two-year elite research master utilizing multi-omics and longitudinal phenotypic data from 167,000 participants in the Lifelines biobank.',
+        funding: 'Guaranteed research assistantships and Dutch DUO student financing for qualifying European students',
+        fee: '€100',
+        tuition: '€2,530/year (EU/EEA) or €20,500/year (Non-EU/EEA)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.rug.nl/masters/clinical-and-psychosocial-epidemiology-research/',
+        requirements: {
+          gpa: 'Bachelor\'s degree in medicine, biomedical sciences, psychology, or epidemiology with GPA > 7.5/10',
+          ielts: 'IELTS 6.5 (minimum 6.0 in each sub-score)',
+          gre: 'Not required',
+          papers: 'Letter of motivation and writing sample demonstrating quantitative research aptitude',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4354,
+        title: 'Bachelor of Science in Medicine (Global Health Profile - English Track)',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Three-year English-taught medical bachelor degree covering organ systems, pathology, public health epidemiology, and clinical diagnostic reasoning.',
+        funding: 'Eligible for Dutch statutory tuition rates and international student support loans',
+        fee: '€100',
+        tuition: '€2,530/year (EU/EEA) or €32,000/year (Non-EU/EEA international medical rate)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.rug.nl/bachelors/medicine/',
+        requirements: {
+          gpa: 'Secondary school diploma with high grades in Biology, Chemistry, Physics, and Mathematics',
+          ielts: 'IELTS 6.5 (minimum 6.0 across all components)',
+          gre: 'Not required',
+          papers: 'Participation in the selective Numerus Fixus decentralized selection testing procedure',
+          references: 'Not required'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4355,
+        title: 'Groningen Proton Therapy Center (GPTC) Postdoctoral Fellowship',
+        type: 'Fellowship',
+        subject: 'physics',
+        subjects: ['physics', 'biology'],
+        desc: 'Two-year medical physics postdoctoral fellowship developing real-time CT adaptive radiation delivery and radiobiological modeling for proton therapy.',
+        funding: 'CAO UMC scale 10 salary (€3,677 to €4,900 gross monthly) plus conference travel funding',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.umcg.nl/en/subsites/gptc/research',
+        requirements: {
+          gpa: 'PhD in medical physics, nuclear physics, or biomedical engineering awarded within the past 4 years',
+          ielts: 'Fluent professional English',
+          gre: 'Not required',
+          papers: 'Minimum two first-author peer-reviewed publications in radiation oncology physics or Monte Carlo dose simulation',
+          references: 'Three professional letters from dissertation mentors'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4356,
+        title: 'Lifelines Biobank Summer Research Internship in Genetic Epidemiology',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'computer-science'],
+        desc: 'Eight-week funded summer internship performing genome-wide association studies (GWAS) and polygenic risk scoring on the Lifelines cohort data.',
+        funding: '€1,500 total summer stipend plus dedicated high-performance computing cluster workspace',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.lifelines.nl/researcher',
+        requirements: {
+          gpa: 'Enrolled in master\'s or upper undergraduate program in bioinformatics, genetics, or epidemiology',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and documented experience in R, Python, or statistical genomics',
+          references: 'One academic reference letter'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      },
+      {
+        id: 4357,
+        title: 'Post-Academic Masterclass in Clinical Organ Perfusion and Machine Preservation',
+        type: 'Course',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'Four-month intensive masterclass on normothermic machine perfusion of donor livers and kidneys, viability biomarkers, and ex-vivo reconditioning.',
+        funding: 'European Society for Organ Transplantation (ESOT) educational travel bursaries available',
+        fee: '€50',
+        tuition: '€1,750 total course fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.umcg.nl/en/corporate/transplantatiecentrum',
+        requirements: {
+          gpa: 'MD degree, surgical residency, or master\'s degree in biomedical engineering or clinical perfusion',
+          ielts: 'English C1',
+          gre: 'Not required',
+          papers: 'Proof of clinical role or surgical fellowship in organ transplantation',
+          references: 'One hospital department chair endorsement'
+        },
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        location: 'Groningen, Netherlands'
+      }
+    ],
+    researchers: [
+      {
+        id: 1884,
+        name: 'Prof. Dr. Cisca Wijmenga',
+        title: 'Spinoza Laureate & Professor of Human Genetics',
+        subject: 'biology',
+        topics: ['Celiac Disease Genetics', 'Gut Microbiome Genomics', 'Genome-Wide Association Studies'],
+        summary: 'Winner of the Dutch Spinoza Prize, deciphering the genetic architecture of gluten intolerance and autoimmune bowel disorders through complex multi-omics analyses of the Lifelines cohort.',
+        source: 'https://www.rug.nl/staff/p.wijmenga/',
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1885,
+        name: 'Prof. Dr. Robert J. Porte',
+        title: 'Professor of Surgery and Head of Hepato-Pancreato-Biliary Surgery & Liver Transplantation',
+        subject: 'biology',
+        topics: ['Normothermic Machine Perfusion', 'Ischemia-Reperfusion Injury', 'Ex-Vivo Liver Reconditioning'],
+        summary: 'World-leading transplant surgeon pioneering machine perfusion technologies that preserve and recondition marginal donor livers, dramatically reducing graft discard rates.',
+        source: 'https://www.rug.nl/staff/r.j.porte/',
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1886,
+        name: 'Prof. Dr. Johannes A. Langendijk',
+        title: 'Chair of Radiation Oncology & Clinical Director of Groningen Proton Therapy Center',
+        subject: 'physics',
+        topics: ['Proton Beam Therapy', 'Model-Based Selection in Radiation Oncology', 'Head and Neck Radiation Toxicity'],
+        summary: 'Radiation oncologist who pioneered the world-standard "model-based approach" for patient selection in proton therapy, reducing severe xerostomia and dysphagia in cancer patients.',
+        source: 'https://www.rug.nl/staff/j.a.langendijk/',
+        university: 'University Medical Center Groningen (UMCG)',
+        country: 'Netherlands',
+        recruiting: 'Not verified'
+      }
+    ]
+  }
+];

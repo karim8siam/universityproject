@@ -1,0 +1,2435 @@
+// Batch 39 Data - Part 2 (Universities 11 to 20: Italy 3, USA 5, UK 2)
+// Opportunities: IDs 4218 to 4287 (70 opps)
+// Researchers: IDs 1827 to 1856 (30 researchers)
+
+export const batch39Part2Universities = [
+  // 11. Italy - ITS Academy Meccatronico Veneto (Row 477)
+  {
+    slug: 'its-academy-meccatronico-veneto',
+    institution: 'ITS Academy Meccatronico Veneto',
+    shortName: 'ITS Meccatronico Veneto',
+    countryId: 'italy',
+    countryLabel: 'Italy',
+    location: 'Vicenza, Veneto, Italy',
+    website: 'https://itsmeccatronico.it',
+    sourceRow: 477,
+    badge: 'Premier Italian Higher Institute for Advanced Industrial Mechatronics & Industry 4.0',
+    lead: 'ITS Academy Meccatronico Veneto is Italy’s leading government-accredited tertiary technical academy (Istituto Tecnico Superiore), training highly specialized engineers in mechatronic systems, smart robotics, additive manufacturing, and automated industrial IoT.',
+    overview: 'Established under the Ministry of Education and Merit framework in the industrial heart of the Veneto region (Vicenza, Padua, Treviso, Verona, Venice, and Belluno), ITS Academy Meccatronico Veneto is recognized as Italy’s top-ranked higher technical institute for mechanical engineering and automation. With over 800 students across ten regional training hubs and an employment rate exceeding 98% within twelve months of graduation, the academy works directly with over 400 manufacturing leaders. Instruction is delivered by senior corporate engineers and researchers using advanced dual-training models, cyber-physical automation benches, and digital twins.',
+    quickFacts: {
+      type: 'Higher Technical Institute (Istituto Tecnico Superiore - Tertiary Level 5 EQF)',
+      campus: 'Vicenza Central Hub & Regional Centers across Veneto (Padua, Verona, Treviso, Schio)',
+      accreditation: 'Ministero dell\'Istruzione e del Merito (MIM) & Regione del Veneto',
+      admissions: 'Regional selection test (technical aptitude, logic, and English) via official portal',
+      language: 'Italian (primary instruction) with technical English for automation systems',
+      aid: 'Regione Veneto DSU Grants, Confindustria Meccatronica Merit Bursaries, Erasmus+ traineeships'
+    },
+    strengths: [
+      'Industrial Automation, PLC Programming & Cyber-Physical Systems',
+      'Advanced Robotics, Collaborative Cobots & Machine Vision',
+      'Additive Manufacturing, 3D Metal Printing & Generative CAD Design',
+      'Digital Twins, Industrial IoT Telemetry & Predictive Maintenance'
+    ],
+    programs: [
+      { title: 'Tecnico Superiore per l\'Automazione ed i Sistemi Meccatronici (EQF 5)', level: 'Higher Technical Diploma', desc: 'Two-year intensive diploma comprising 2,000 hours of training (with 800 hours embedded in advanced manufacturing firms) in PLC programming, robotic cells, and pneumatic circuits.' },
+      { title: 'Tecnico Superiore per la Progettazione Meccanica ed i Materiali Innovativi', level: 'Higher Technical Diploma', desc: 'Specialized track focusing on parametric CAD modeling, FEM structural simulation, composite materials, and metal additive manufacturing.' },
+      { title: 'Tecnico Superiore per la Digitalizzazione dei Processi Industriali (Smart Factory)', level: 'Higher Technical Diploma', desc: 'Curriculum developing expertise in industrial cloud integration, edge computing, SCADA systems, and predictive maintenance algorithms.' },
+      { title: 'Corso di Perfezionamento in Robotica Collaborativa e Sicurezza Macchine', level: 'Certificate', desc: 'Post-diploma certificate in CE machine safety compliance, risk analysis, and collaborative robotics programming.' }
+    ],
+    opportunities: [
+      {
+        id: 4218,
+        title: 'Confindustria Veneto Mechatronic Talent Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Merit scholarship funded by regional manufacturing enterprises for top-ranking students entering the two-year Higher Technical Mechatronics program.',
+        funding: 'Full tuition fee reimbursement (€1,000) plus €2,500 contribution toward training tools and software workstations',
+        fee: '€50 (regional admission selection test fee)',
+        tuition: '€500/year (state and regional subsidized tuition)',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://itsmeccatronico.it/borse-di-studio',
+        requirements: {
+          gpa: 'Secondary school diploma (Maturità) with grade of at least 80/100',
+          ielts: 'English B1/B2 technical reading capability',
+          gre: 'Not required',
+          papers: 'High score on the regional technical aptitude, electronics, and logical reasoning exam',
+          references: 'One letter from technical high school instructor or vocational tutor'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4219,
+        title: 'Diploma in Mechatronics and Industrial Automation (EQF Level 5)',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Rigorous two-year state higher diploma preparing mechatronics specialists through 1,200 hours of hands-on laboratory workshops and 800 hours of company internships.',
+        funding: 'Eligible for Veneto regional DSU study grants providing accommodation and meals',
+        fee: '€50',
+        tuition: '€500/year',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://itsmeccatronico.it/corsi/automazione-e-sistemi-meccatronici',
+        requirements: {
+          gpa: 'Secondary school diploma (Liceo Scientifico, ITI, or IPSIA diploma)',
+          ielts: 'Working Italian proficiency for classroom workshops',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and motivational interview with technical commission',
+          references: 'Not required'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4220,
+        title: 'Industry 4.0 Paid Industrial Internship (Veneto Industrial District)',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Mandatory 800-hour corporate internship embedded inside premier Italian automation, packaging, and automotive tier-one manufacturing enterprises.',
+        funding: 'Paid placement with corporate stipends averaging €600–€1,000 monthly',
+        fee: '€0',
+        tuition: 'Included in regular diploma registration',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://itsmeccatronico.it/le-aziende-partner',
+        requirements: {
+          gpa: 'Successful completion of first-year technical modules and laboratory safety certifications',
+          ielts: 'Technical English B1',
+          gre: 'Not required',
+          papers: 'Safety training certificate (Accordo Stato-Regioni Rischio Alto)',
+          references: 'Tutor validation from ITS Meccatronico'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4221,
+        title: 'Erasmus+ International Industrial Mobility Grant in Smart Manufacturing',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering'],
+        desc: 'Three-to-six month mobility grant supporting ITS Meccatronico students conducting technical internships in Germany, Austria, or the Netherlands.',
+        funding: '€600–€800 per month European Commission grant plus company allowance',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://itsmeccatronico.it/erasmus-plus',
+        requirements: {
+          gpa: 'Enrolled in 2nd year of ITS program with high academic and laboratory marks',
+          ielts: 'B2 English or host country language',
+          gre: 'Not required',
+          papers: 'Learning Agreement for Traineeship signed by host enterprise',
+          references: 'Recommendation by ITS Academy board'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4222,
+        title: 'Specialist Course in Additive Manufacturing and Generative Design',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'arts-design'],
+        desc: 'Six-month advanced specialization covering selective laser melting (SLM), topology optimization in Altair/ANSYS, and post-processing quality inspection.',
+        funding: 'Regional co-funding through European Social Fund Plus (FSE+)',
+        fee: '€0',
+        tuition: '€400 total course fee',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://itsmeccatronico.it/corsi/progettazione-meccanica-materiali-innovativi',
+        requirements: {
+          gpa: 'Diploma in mechanical or industrial engineering or equivalent professional experience',
+          ielts: 'Basic English comprehension for CAD documentation',
+          gre: 'Not required',
+          papers: 'Portfolio of mechanical design projects or technical drawings',
+          references: 'One employer or instructor reference'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4223,
+        title: 'Diploma in Digital Factory and Industrial IoT Solutions',
+        type: 'Bachelor\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Two-year technical qualification in edge computing, MQTT/OPC-UA communication protocols, industrial cybersecurity, and data visualization dashboards.',
+        funding: 'Full regional grant eligibility and free hardware lab prototyping kits',
+        fee: '€50',
+        tuition: '€500/year',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://itsmeccatronico.it/corsi/digitalizzazione-dei-processi-industriali',
+        requirements: {
+          gpa: 'Upper secondary school diploma with background in IT, electronics, or telecommunications',
+          ielts: 'Technical English B1',
+          gre: 'Not required',
+          papers: 'Selection interview assessing motivation for industrial digital systems',
+          references: 'Not required'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4224,
+        title: 'Executive Masterclass in Collaborative Robotics and Machine Safety',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Four-month evening masterclass for practicing automation technicians covering Universal Robots, Fanuc CRX programming, and ISO 10218 safety standards.',
+        funding: 'Fondimpresa training vouchers eligible for corporate reimbursement',
+        fee: '€0',
+        tuition: '€1,200 executive fee',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://itsmeccatronico.it/formazione-continua',
+        requirements: {
+          gpa: 'Working knowledge of industrial electrical schematics or programming',
+          ielts: 'Not required',
+          gre: 'Not required',
+          papers: 'Resume detailing current technical responsibilities',
+          references: 'Company endorsement letter'
+        },
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      }
+    ],
+    researchers: [
+      {
+        id: 1827,
+        name: 'Ing. Giorgio Spanevello',
+        title: 'Director General & Senior Technical Coordinator in Industrial Automation',
+        subject: 'engineering',
+        topics: ['Dual Education Systems', 'Industry 4.0 Workforce Transition', 'Applied Mechatronic Curriculum Design'],
+        summary: 'Pioneering educational engineer leading national tertiary technical education reforms and aligning industrial manufacturing standards with advanced automation training.',
+        source: 'https://itsmeccatronico.it/chi-siamo/organi-di-gestione',
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1828,
+        name: 'Ing. Roberto Busellato',
+        title: 'Head of Robotics and Cyber-Physical Systems Laboratory',
+        subject: 'engineering',
+        topics: ['Industrial Robotics Integration', 'Automated Guided Vehicles (AGV)', 'PLC Architecture & Scada'],
+        summary: 'Automation researcher and robotics consultant designing flexible manufacturing lines and cyber-physical communication protocols for Veneto machinery manufacturers.',
+        source: 'https://itsmeccatronico.it/docenti/roberto-busellato',
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1829,
+        name: 'Ing. Andrea Pozzi',
+        title: 'Lead Instructor in Additive Manufacturing and Advanced Materials',
+        subject: 'engineering',
+        topics: ['Metal 3D Printing Technologies', 'FEM Structural Simulation', 'Generative Design Algorithms'],
+        summary: 'Materials engineer specializing in powder bed fusion of titanium and nickel superalloys for aerospace and high-precision packaging automation components.',
+        source: 'https://itsmeccatronico.it/docenti/andrea-pozzi',
+        university: 'ITS Academy Meccatronico Veneto',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 12. Italy - Università Telematica Internazionale UNINETTUNO (Polo Puglia) (Row 511)
+  {
+    slug: 'uninettuno-university-puglia',
+    institution: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+    shortName: 'UNINETTUNO Puglia',
+    countryId: 'italy',
+    countryLabel: 'Italy',
+    location: 'Bari, Puglia, Italy',
+    website: 'https://www.uninettunouniversity.net',
+    sourceRow: 511,
+    badge: 'Premier Italian Digital Research University & Mediterranean Academic Hub',
+    lead: 'Università Telematica Internazionale UNINETTUNO is a prestigious, state-accredited digital research university recognized by the Italian Ministry of University and Research (MUR), operating its strategic regional and Mediterranean research polo in Bari, Puglia.',
+    overview: 'Established by Ministerial Decree in 2005 from the historic NETTUNO consortium of 43 Italian and European state universities, UNINETTUNO is Italy’s top-ranked online research university according to national evaluation agency ANVUR. The university serves more than 16,000 students from over 160 countries through a proprietary psycho-pedagogic e-learning platform. The Polo Tecnologico Puglia in Bari coordinates research collaborations in digital cultural heritage, software engineering, Mediterranean environmental law, and tele-health technologies.',
+    quickFacts: {
+      type: 'State-Accredited Digital Research University (Università Telematica Statutaria)',
+      campus: 'Polo Tecnologico Bari, Puglia & Central Rectorate in Rome',
+      accreditation: 'Ministero dell\'Università e della Ricerca (MUR) & ANVUR (Top Rating for Online Universities)',
+      admissions: 'Continuous year-round online matriculation via UNINETTUNO portal',
+      language: 'Italian, English, French, Arabic, and Greek',
+      aid: 'UNINETTUNO Global South Grants, ADiSU Puglia, INPS Executive Bursaries'
+    },
+    strengths: [
+      'Software Engineering, Artificial Intelligence & Cybersecurity',
+      'Digital Cultural Heritage Preservation & Digital Humanities',
+      'Civil & Environmental Engineering for Mediterranean Coasts',
+      'Digital Economy, Business Administration & Law'
+    ],
+    programs: [
+      { title: 'Corso di Laurea Magistrale in Ingegneria Informatica (Master Computer Engineering)', level: 'Master\'s', desc: 'Two-year accredited master\'s offering tracks in Big Data, Artificial Intelligence, and Cybersecurity with remote virtualized labs and on-campus exams.' },
+      { title: 'Corso di Laurea Triennale in Ingegneria Gestionale (BSc Management Engineering)', level: 'Bachelor\'s', desc: 'Three-year degree integrating production logistics, operations research, information systems, and corporate finance.' },
+      { title: 'Master Universitario in Beni Culturali Digitali (Digital Heritage)', level: 'Master\'s', desc: 'Interdisciplinary graduate master\'s in 3D photogrammetry, virtual museum curation, and archival digitisation.' },
+      { title: 'Dottorato di Ricerca in Tecnologie per la Società Digitale (PhD Digital Society)', level: 'Doctorate', desc: 'Three-year doctoral research program investigating algorithmic fairness, tele-medicine systems, and e-learning cognitive architectures.' }
+    ],
+    opportunities: [
+      {
+        id: 4225,
+        title: 'UNINETTUNO Doctoral Fellowship in AI and Cognitive Pedagogical Systems',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Three-year ministerial doctoral research fellowship exploring predictive analytics in digital higher education and adaptive neural learning interfaces.',
+        funding: '€16,243 annual gross ministerial stipend plus 10% research activity budget',
+        fee: '€50',
+        tuition: '€0 (tuition covered by doctoral fellowship grant)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.uninettunouniversity.net/it/dottorati.aspx',
+        requirements: {
+          gpa: 'Laurea Magistrale, Master of Science, or equivalent foreign degree with at least 100/110',
+          ielts: 'English B2/C1 and basic Italian comprehension',
+          gre: 'Not required',
+          papers: 'Research project proposal (max 5,000 words) on adaptive machine learning in education',
+          references: 'Two letters from university professors'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4226,
+        title: 'Master of Science in Computer Engineering: AI and Big Data Track',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Two-year flexible online master\'s taught in English or Italian with proctored exams available at the Bari polo or Italian embassies worldwide.',
+        funding: 'Corporate and international tuition reduction agreements available up to €800/year',
+        fee: '€100',
+        tuition: '€2,600/year (standard European fee)',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.uninettunouniversity.net/it/laurea-magistrale-ingegneria-informatica.aspx',
+        requirements: {
+          gpa: 'Bachelor\'s in computer science, information engineering, mathematics, or physics',
+          ielts: 'B2 English or B2 Italian depending on chosen language track',
+          gre: 'Not required',
+          papers: 'Transcript of undergraduate credits (ECTS curriculum evaluation)',
+          references: 'One academic reference'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4227,
+        title: 'ADiSU Puglia Regional Equal Opportunity Study Bursary',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'Regional educational right bursary providing total tuition exemption and direct financial allowances for students resident in Puglia.',
+        funding: 'Full tuition waiver plus annual living allowance up to €6,650 depending on ISEE bracket',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-20',
+        deadlineText: 'November 20, 2026',
+        source: 'https://www.adisu.puglia.it',
+        requirements: {
+          gpa: 'Enrollment in UNINETTUNO degree and acquisition of prescribed CFU credits per year',
+          ielts: 'Language of degree instruction',
+          gre: 'Not required',
+          papers: 'Valid ISEE Universitario under €25,000',
+          references: 'Not required'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4228,
+        title: 'Corso di Laurea in Ingegneria Gestionale (Management Engineering)',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Three-year online bachelor\'s degree combining mechanical systems, operations research, supply chain analytics, and economic engineering.',
+        funding: 'Installment payment plans and INPS scholarship subsidies for public sector employees',
+        fee: '€100',
+        tuition: '€2,200/year',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.uninettunouniversity.net/it/laurea-ingegneria-gestionale.aspx',
+        requirements: {
+          gpa: 'Secondary school diploma (Diploma di Maturità) or international secondary certificate',
+          ielts: 'Italian language proficiency B2',
+          gre: 'Not required',
+          papers: 'Online non-selective entry orientation test',
+          references: 'Not required'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4229,
+        title: 'Master Universitario in Beni Culturali Digitali: 3D Photogrammetry Lab',
+        type: 'Master\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'One-year postgraduate professional master\'s exploring digital scanning of archeological assets, virtual reality museums, and semantic metadata schemas.',
+        funding: 'Tuition discount vouchers of €500 for heritage sector professionals and museum staff',
+        fee: '€50',
+        tuition: '€1,900 total tuition',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.uninettunouniversity.net/it/master-beni-culturali.aspx',
+        requirements: {
+          gpa: 'Undergraduate degree (Laurea Triennale) in humanities, architecture, or computer science',
+          ielts: 'Italian or English language proficiency',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and portfolio of relevant academic work',
+          references: 'One reference letter'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4230,
+        title: 'Mediterranean Digital Innovation Internship (Polo Tecnologico Bari)',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Six-month technical internship supporting e-learning platform infrastructure, automated tutoring bots, and digital media production in Bari.',
+        funding: '€600 monthly internship reimbursement',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.uninettunouniversity.net/it/tirocini.aspx',
+        requirements: {
+          gpa: 'Enrolled in 2nd year of computer engineering or multimedia studies with average mark > 26/30',
+          ielts: 'Fluent Italian and working English',
+          gre: 'Not required',
+          papers: 'Technical resume with GitHub/GitLab repository link',
+          references: 'One instructor recommendation'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      },
+      {
+        id: 4231,
+        title: 'Certificate in Environmental Law and Circular Economy Governance',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Four-month online executive course examining European Green Deal directives, ESG corporate reporting, and Mediterranean coastal protection regulations.',
+        funding: 'Corporate training credits (Fondi Paritetici Interprofessionali) eligible',
+        fee: '€50',
+        tuition: '€950 total course fee',
+        deadline: '2027-03-10',
+        deadlineText: 'March 10, 2027',
+        source: 'https://www.uninettunouniversity.net/it/corsi-di-aggiornamento.aspx',
+        requirements: {
+          gpa: 'High school diploma or university degree in law, political science, or economics',
+          ielts: 'Proficiency in Italian',
+          gre: 'Not required',
+          papers: 'Statement of professional development objectives',
+          references: 'Not required'
+        },
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        location: 'Bari, Puglia, Italy'
+      }
+    ],
+    researchers: [
+      {
+        id: 1830,
+        name: 'Prof.ssa Maria Amata Garito',
+        title: 'President & Professor of Psycho-Pedagogy and Educational Technologies',
+        subject: 'social-sciences',
+        topics: ['Psycho-Pedagogic E-Learning Models', 'Cognitive Distance Education', 'Digital Knowledge Democratization'],
+        summary: 'World-recognized pioneer in distance learning and cognitive educational theory, designing the pedagogical models behind UNINETTUNO that connect institutions across the Euro-Mediterranean.',
+        source: 'https://www.uninettunouniversity.net/it/rettore.aspx',
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1831,
+        name: 'Prof. Dario Assante',
+        title: 'Associate Professor of Electrical Engineering & Dean of Engineering Faculty',
+        subject: 'engineering',
+        topics: ['Remote Engineering Laboratories', 'Internet of Things Architecture', 'Smart Grid Monitoring'],
+        summary: 'Engineering researcher developing online virtualized laboratories for real-time remote electronics experimentation and IoT sensor network validation.',
+        source: 'https://www.uninettunouniversity.net/it/docenti/dario-assante.aspx',
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1832,
+        name: 'Prof. Filippo Carannante',
+        title: 'Professor of Civil and Environmental Engineering',
+        subject: 'engineering',
+        topics: ['Structural Reliability', 'Seismic Retrofitting', 'Coastal Infrastructure Diagnostics'],
+        summary: 'Civil engineer analyzing durability of reinforced concrete structures and digital monitoring systems for historical and maritime infrastructures in Mediterranean environments.',
+        source: 'https://www.uninettunouniversity.net/it/docenti/filippo-carannante.aspx',
+        university: 'Università Telematica Internazionale UNINETTUNO (Polo Puglia)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 13. Italy - Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub) (Row 545)
+  {
+    slug: 'fondazione-studi-universitari-di-vicenza',
+    institution: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+    shortName: 'UniVicenza Hub',
+    countryId: 'italy',
+    countryLabel: 'Italy',
+    location: 'Vicenza, Veneto, Italy',
+    website: 'https://www.univi.it',
+    sourceRow: 545,
+    badge: 'Premier Multi-University Engineering, Economics & Design Polo of Veneto',
+    lead: 'Fondazione Studi Universitari di Vicenza (UniVicenza) is the premier public-private university polo of the Veneto region, federating degree programs and cutting-edge research laboratories of the University of Padua and the University of Verona.',
+    overview: 'Established in 1990 by municipal, provincial, and industrial institutions to provide higher education for one of Europe’s most export-intensive industrial districts, the Fondazione Studi Universitari di Vicenza hosts over 4,500 students in the historic San Nicola campus and the Complesso Universitario di Viale Margherita. The polo hosts the Department of Management and Engineering (DTG) of the University of Padua, as well as renowned degree courses in International Business, Multimedia Economics, and Mechatronics Engineering from both Padua and Verona. Its laboratories lead Italian industry in laser sintering, metal mechanics, supply chains, and digital business.',
+    quickFacts: {
+      type: 'Federated University Campus & Research Hub (Univ. of Padua & Univ. of Verona)',
+      campus: 'Complesso Universitario Viale Margherita & San Nicola Campus, Vicenza',
+      accreditation: 'Ministero dell\'Università e della Ricerca (MUR) via University of Padua & University of Verona',
+      admissions: 'TOLC tests and direct national portal application via UniPD and UniVR',
+      language: 'Italian and English (bilingual master\'s degrees)',
+      aid: 'ESU Padova Study Grants, Fondazione Cariverona Scholarships, Confindustria Vicenza Awards'
+    },
+    strengths: [
+      'Management Engineering & Integrated Industrial Operations (DTG UniPD)',
+      'Mechatronics & Precision Manufacturing Systems Engineering',
+      'International Business Administration & Export Management',
+      'Industrial Product Design, Ergonomics & Digital Prototyping'
+    ],
+    programs: [
+      { title: 'Laurea Magistrale in Ingegneria Gestionale (Management Engineering, UniPD)', level: 'Master\'s', desc: 'Flagship two-year master\'s exploring global operations, supply chain resilience, lean product development, and industrial data analytics.' },
+      { title: 'Laurea Magistrale in Ingegneria Meccatronica (Mechatronics Engineering, UniPD)', level: 'Master\'s', desc: 'Advanced degree combining electromechanical design, automated robotics control, micro-sensors, and predictive machine maintenance.' },
+      { title: 'Corso di Laurea Triennale in Economia e Commercio (International Business, UniVR)', level: 'Bachelor\'s', desc: 'Three-year economics degree focused on international trade law, accounting standards, and cross-border commercial strategy.' },
+      { title: 'Dottorato di Ricerca in Ingegneria Meccatronica e dell\'Innovazione Meccanica (UniPD)', level: 'Doctorate', desc: 'Three-year doctoral research program based at the Vicenza DTG campus focusing on industrial robotics, precision tooling, and smart manufacturing.' }
+    ],
+    opportunities: [
+      {
+        id: 4232,
+        title: 'DTG Padua Doctoral Research Scholarship in Precision Mechatronics (Vicenza Campus)',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Three-year fully funded PhD studentship at the Department of Management and Engineering (DTG) in Vicenza investigating advanced sensor systems for industrial machinery.',
+        funding: '€16,243 annual gross stipend plus 50% increase for overseas research and €1,600 annual research budget',
+        fee: '€30 (University of Padua doctoral competition fee)',
+        tuition: '€0 (full tuition waiver for scholarship winners)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.univi.it/ricerca-e-dottorati.html',
+        requirements: {
+          gpa: 'Laurea Magistrale or Master of Science in Engineering with minimum 105/110',
+          ielts: 'IELTS 6.5 or equivalent English certification',
+          gre: 'Not required',
+          papers: 'Research proposal (up to 8 pages) on mechatronics control or smart manufacturing',
+          references: 'Two letters from academic dissertation supervisors'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4233,
+        title: 'Master of Science in Management Engineering: Global Supply Chain Analytics',
+        type: 'Master\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Two-year consecutive degree delivered by University of Padua faculty in Vicenza exploring optimization algorithms, logistics digital twins, and corporate strategy.',
+        funding: 'Eligible for ESU Padova regional scholarships up to €6,500/year and industry tuition prizes',
+        fee: '€30',
+        tuition: '€2,600/year (progressive fees based on ISEE)',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.univi.it/corsi-di-laurea/ingegneria-gestionale.html',
+        requirements: {
+          gpa: 'Bachelor\'s in engineering with minimum 85/110 and minimum 30 ECTS in math and physics',
+          ielts: 'English B2 certified',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and academic transcripts',
+          references: 'One academic reference letter'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4234,
+        title: 'Confindustria Vicenza Excellence Award for Engineering Students',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Merit scholarship awarded annually by the Vicenza Industrial Association to top graduating bachelor’s and master’s students in engineering.',
+        funding: '€3,000 cash prize plus direct entry into corporate leadership fast-track programs',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-30',
+        deadlineText: 'November 30, 2026',
+        source: 'https://www.univi.it/agevolazioni-e-borse.html',
+        requirements: {
+          gpa: 'Enrolled at Vicenza campus with weighted grade point average above 28/30',
+          ielts: 'Good academic English',
+          gre: 'Not required',
+          papers: 'Capstone thesis proposal aligned with industrial automation or green manufacturing',
+          references: 'Faculty advisor nomination'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4235,
+        title: 'Bachelor in Economics and International Trade (University of Verona Hub)',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Three-year undergraduate program focusing on trade finance, customs compliance, international marketing, and business organization.',
+        funding: 'Tuition reductions for students with ISEE under €24,000 via ESU Verona',
+        fee: '€30 (TOLC-E test registration fee)',
+        tuition: '€1,800/year (standard maximum fee; reduced to €0 for low ISEE)',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.univi.it/corsi-di-laurea/economia-e-commercio.html',
+        requirements: {
+          gpa: 'Upper secondary school diploma (Maturità)',
+          ielts: 'Italian language fluency and English B1',
+          gre: 'Not required',
+          papers: 'TOLC-E test results evaluated by University of Verona commission',
+          references: 'Not required'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4236,
+        title: 'ESU Padova Regional University Study and Housing Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'Regional study grant providing full tuition exemption, free campus meals at Vicenza cafeterias, and residential housing allowances.',
+        funding: 'Up to €6,800 annual stipend plus total tuition waiver',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://www.esu.pd.it',
+        requirements: {
+          gpa: 'Regular enrollment and acquisition of required minimum annual CFU credits',
+          ielts: 'Proficiency in language of degree',
+          gre: 'Not required',
+          papers: 'Certified ISEE Universitario certificate below €26,000',
+          references: 'Not required'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4237,
+        title: 'Vicenza Gold and Jewelry Manufacturing Technology Internship',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering', 'arts-design'],
+        desc: 'Six-month industrial research practicum working with Vicenza’s world-renowned gold and jewelry machinery manufacturers on micro-casting and laser marking.',
+        funding: '€700 monthly company training stipend',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.univi.it/stage-e-tirocini.html',
+        requirements: {
+          gpa: 'Third-year undergraduate or second-year master\'s student in engineering or design',
+          ielts: 'Working Italian capability',
+          gre: 'Not required',
+          papers: 'Resume detailing metallurgical or mechanical design coursework',
+          references: 'Approval from DTG Stage Office'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      },
+      {
+        id: 4238,
+        title: 'Continuing Education Certificate in Lean Six Sigma Black Belt Certification',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'social-sciences'],
+        desc: 'Five-month professional certificate in statistical process control, DMAIC project execution, and Kaizen continuous improvement for manufacturing leaders.',
+        funding: 'Eligible for Fondirigenti and corporate training vouchers',
+        fee: '€50',
+        tuition: '€2,400 total tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.univi.it/master-e-corsi-di-perfezionamento.html',
+        requirements: {
+          gpa: 'Bachelor\'s degree in engineering, economics, or science with at least 2 years industry experience',
+          ielts: 'Basic English proficiency for statistical software',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and project outline from current enterprise',
+          references: 'Company recommendation letter'
+        },
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        location: 'Vicenza, Veneto, Italy'
+      }
+    ],
+    researchers: [
+      {
+        id: 1833,
+        name: 'Prof. Cipriano Forza',
+        title: 'Full Professor of Operations Management, DTG University of Padua (Vicenza Campus)',
+        subject: 'engineering',
+        topics: ['Mass Customization', 'Product Modularization', 'Supply Chain Integration'],
+        summary: 'Pioneering researcher in operations strategy and product configurator systems, analyzing modular product architectures and postponement strategies in manufacturing enterprises.',
+        source: 'https://www.unipd.it/scheda-persona?persona=C8C5768311B6C4F34A8014E73DC296BE',
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1834,
+        name: 'Prof. Roberto Oboe',
+        title: 'Full Professor of Control Systems and Mechatronics, DTG University of Padua',
+        subject: 'engineering',
+        topics: ['Precision Motion Control', 'Haptic Interfaces', 'Networked Mechatronic Systems'],
+        summary: 'Internationally recognized control systems engineer leading IEEE societies, researching nano-positioning devices, bilateral tele-operation, and high-speed motor drives.',
+        source: 'https://www.unipd.it/scheda-persona?persona=8D95CE8D149B8E6F06DFDF2D5EB9433B',
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1835,
+        name: 'Prof.ssa Anna Menozzi',
+        title: 'Associate Professor of Corporate Finance & Economics (University of Verona in Vicenza)',
+        subject: 'social-sciences',
+        topics: ['Corporate Governance', 'State-Owned Enterprises Finance', 'Industrial District Credit Markets'],
+        summary: 'Financial economist analyzing board structures, capital allocation in European manufacturing SMEs, and the impact of public procurement regulations on industrial district resilience.',
+        source: 'https://www.univr.it/it/docenti/anna-menozzi',
+        university: 'Fondazione Studi Universitari di Vicenza (Università di Vicenza Hub)',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 14. USA - Bradley University (Row 603)
+  {
+    slug: 'bradley-university-illinois',
+    institution: 'Bradley University',
+    shortName: 'Bradley',
+    countryId: 'usa',
+    countryLabel: 'United States',
+    location: 'Peoria, Illinois, United States',
+    website: 'https://www.bradley.edu',
+    sourceRow: 603,
+    badge: 'Premier Midwest Comprehensive Private Engineering & Game Design University',
+    lead: 'Bradley University is a top-ranked private comprehensive university in Peoria, Illinois, internationally celebrated for its Caterpillar College of Engineering and Technology, top-five ranked game design programs, and transformative undergraduate research.',
+    overview: 'Founded in 1897 by philanthropist Lydia Moss Bradley, Bradley University educates nearly 5,400 undergraduate and graduate students across five distinguished colleges. Bradley is celebrated for its deep industrial ties to Fortune 100 giant Caterpillar Inc., whose global headquarters was historically founded in Peoria. The Caterpillar College of Engineering and Technology and the Department of Interactive Media within the Slane College of Communications and Fine Arts consistently rank among North America’s best programs for video game development, mechanical design, nursing, and computer science.',
+    quickFacts: {
+      type: 'Private Non-Profit Comprehensive University',
+      campus: '85-Acre Historic Hilltop Campus, Peoria, Illinois',
+      accreditation: 'Higher Learning Commission (HLC) & ABET Engineering Accreditation',
+      admissions: 'Common Application and Bradley Direct Application Portal',
+      language: 'English (primary instruction)',
+      aid: 'Bradley Presidential Scholarships, Caterpillar Endowed Grants, Dean\'s Fellowships'
+    },
+    strengths: [
+      'Interactive Media, Video Game Design & Virtual Reality (Top 5 Nationally)',
+      'Mechanical & Manufacturing Engineering (Caterpillar Integrated Laboratories)',
+      'Computer Science, Cyber-Physical Systems & Mobile Computing',
+      'Nursing Science, Physical Therapy & Allied Clinical Health'
+    ],
+    programs: [
+      { title: 'Bachelor of Science in Game Design and Interactive Media', level: 'Bachelor\'s', desc: 'Princeton Review top-ranked curriculum offering intensive studios in 3D game engines, procedural level design, multiplayer networking, and character animation.' },
+      { title: 'Master of Science in Mechanical Engineering (MSME)', level: 'Master\'s', desc: 'Advanced engineering degree focusing on thermo-fluids, robotics dynamics, finite element analysis, and heavy equipment automation.' },
+      { title: 'Doctor of Physical Therapy (DPT)', level: 'Doctorate', desc: 'CAPTE-accredited professional clinical doctorate providing over 30 weeks of hands-on clinical internships and human anatomy cadaver dissection.' },
+      { title: 'Master of Science in Computer Science: Artificial Intelligence Specialization', level: 'Master\'s', desc: 'Graduate computing program emphasizing deep neural networks, computer vision, distributed cloud databases, and software reliability.' }
+    ],
+    opportunities: [
+      {
+        id: 4239,
+        title: 'Bradley Presidential Undergraduate Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Top-tier undergraduate merit scholarship awarded to incoming freshmen demonstrating exceptional academic performance and leadership.',
+        funding: 'USD $20,000 to USD $26,000 per year for up to four years (totaling up to USD $104,000)',
+        fee: 'USD $0 (Bradley free online application)',
+        tuition: 'USD $38,500/year (standard undergraduate tuition)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.bradley.edu/admissions/freshman/cost-and-scholarships/',
+        requirements: {
+          gpa: 'Minimum 3.6/4.0 high school GPA or top 10% graduating class rank',
+          ielts: 'IELTS 6.5 or TOEFL iBT 79 for international students',
+          gre: 'Test-optional for undergraduate admissions',
+          papers: 'High school essay showcasing intellectual curiosity and community contribution',
+          references: 'One high school counselor or teacher letter of recommendation'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4240,
+        title: 'Caterpillar College of Engineering Graduate Research Assistantship',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Graduate assistantship in mechanical or manufacturing engineering working on heavy machinery dynamics, autonomous powertrain sensors, or thermal fluids.',
+        funding: 'Full tuition waiver plus USD $14,000 annual academic stipend',
+        fee: 'USD $50',
+        tuition: 'USD $0 (waived through assistantship)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.bradley.edu/academic/colleges/ehs/grad-education/assistantships/',
+        requirements: {
+          gpa: '3.0/4.0 in undergraduate engineering or physics degree',
+          ielts: 'IELTS 6.5 or TOEFL 79',
+          gre: 'GRE Quantitative score 155+ recommended',
+          papers: 'Statement of research interests aligned with department laboratory focus',
+          references: 'Three academic letters of recommendation'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4241,
+        title: 'Master of Science in Computer Science (Artificial Intelligence Track)',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'mathematics'],
+        desc: 'Two-year graduate degree offering specialized coursework in machine learning, GPU computing, natural language processing, and cybersecurity.',
+        funding: 'Eligible for graduate assistantships, international merit tuition awards, and campus employment',
+        fee: 'USD $50',
+        tuition: 'USD $18,900/year (graduate tuition based on 18 credit hours)',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.bradley.edu/academic/departments/csis/programs/graduate/',
+        requirements: {
+          gpa: '3.0/4.0 in computer science, software engineering, or related quantitative major',
+          ielts: 'IELTS 6.5 or TOEFL 79',
+          gre: 'GRE waived for qualifying undergraduate GPAs above 3.2',
+          papers: 'Statement of purpose and software portfolio link',
+          references: 'Two letters from former professors or tech managers'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4242,
+        title: 'Interactive Media Game Studio Capstone Internship',
+        type: 'Internship',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Intensive senior year game development practicum where multidisciplinary teams build and publish commercial-ready games on Steam or console marketplaces.',
+        funding: 'University project grants up to USD $3,000 for game asset licensing, motion capture, and conference showcases at GDC San Francisco',
+        fee: 'USD $0',
+        tuition: 'Included in undergraduate tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.bradley.edu/academic/departments/interactive-media/',
+        requirements: {
+          gpa: 'Junior or Senior standing in Game Design, Animation, or Interactive Media',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Playable game build or digital art portfolio',
+          references: 'Interactive Media faculty review'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4243,
+        title: 'Doctor of Physical Therapy (DPT) Clinical Fellowship',
+        type: 'PhD',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Three-year CAPTE-accredited doctorate integrating high-volume clinical rotations across major regional trauma centers and outpatient sports clinics.',
+        funding: 'Eligible for Federal Direct Graduate PLUS loans, departmental traineeships, and rural healthcare tuition forgiveness',
+        fee: 'USD $100 (PTCAS application fee)',
+        tuition: 'USD $32,000/year',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.bradley.edu/academic/departments/pt/',
+        requirements: {
+          gpa: 'Minimum 3.0 prerequisite science GPA (Anatomy, Physiology, Physics, Chemistry)',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'GRE required (recommended 150 Verbal, 150 Quantitative, 4.0 Analytical Writing)',
+          papers: '50 hours of verified physical therapy clinical observation',
+          references: 'Three letters including one from a licensed physical therapist'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4244,
+        title: 'Bachelor of Science in Mechanical Engineering with Caterpillar Co-op',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering'],
+        desc: 'Four-year ABET-accredited degree incorporating multi-semester paid cooperative work terms at Caterpillar Global Engine and Hydraulics Centers.',
+        funding: 'Co-op earnings average USD $20–$25 per hour during alternating work terms',
+        fee: 'USD $0',
+        tuition: 'USD $38,500/year',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.bradley.edu/academic/departments/me/',
+        requirements: {
+          gpa: 'High school average 3.2+ with four years of mathematics (through pre-calculus or calculus)',
+          ielts: 'IELTS 6.5',
+          gre: 'Test-optional',
+          papers: 'Personal statement regarding passion for mechanical design',
+          references: 'One teacher recommendation'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      },
+      {
+        id: 4245,
+        title: 'Summer Institute in Virtual Reality and 3D Modeling',
+        type: 'Course',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Four-week summer program for visiting and high school students exploring Unreal Engine 5, Blender 3D modeling, and spatial audio in the VR CAVE laboratory.',
+        funding: 'Bradley youth arts bursaries up to USD $500 available',
+        fee: 'USD $25',
+        tuition: 'USD $1,150 total course tuition',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.bradley.edu/academic/continue/summer/',
+        requirements: {
+          gpa: 'Good academic standing in high school or university',
+          ielts: 'Proficiency in English',
+          gre: 'Not required',
+          papers: 'Short essay on creative goals',
+          references: 'Not required'
+        },
+        university: 'Bradley University',
+        country: 'United States',
+        location: 'Peoria, Illinois, United States'
+      }
+    ],
+    researchers: [
+      {
+        id: 1836,
+        name: 'Prof. Kalyani Nair',
+        title: 'Associate Professor of Mechanical Engineering & Director of Biomechanics Lab',
+        subject: 'engineering',
+        topics: ['Orthopedic Biomechanics', 'Tissue Mechanics', 'Finite Element Bone Remodeling'],
+        summary: 'Biomedical and mechanical engineer analyzing stress distribution in joint prostheses, bone fracture mechanics, and viscoelastic behavior of cartilage under dynamic loading.',
+        source: 'https://www.bradley.edu/academic/departments/me/faculty/profile.dot?id=knair',
+        university: 'Bradley University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1837,
+        name: 'Prof. Ethan Ham',
+        title: 'Chair and Professor of Interactive Media, Slane College',
+        subject: 'arts-design',
+        topics: ['Game Design Pedagogy', 'Interactive Storytelling', 'Virtual Reality Public Art'],
+        summary: 'Leading game designer and media scholar exploring non-linear narrative structures, game aesthetics, and community engagement through interactive digital installations.',
+        source: 'https://www.bradley.edu/academic/departments/interactive-media/faculty/profile.dot?id=eham',
+        university: 'Bradley University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1838,
+        name: 'Prof. Vladimir Uskov',
+        title: 'Professor of Computer Science & Information Systems',
+        subject: 'computer-science',
+        topics: ['Smart Educational Technologies', 'Mobile Learning Systems', 'Artificial Intelligence in Pedagogy'],
+        summary: 'Computer scientist investigating ambient intelligence, smart universities, and personalized recommendation systems for adaptive online and mobile learning.',
+        source: 'https://www.bradley.edu/academic/departments/csis/faculty/profile.dot?id=vuskov',
+        university: 'Bradley University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 15. USA - Bridgewater State University (Row 605)
+  {
+    slug: 'bridgewater-state-university-massachusetts',
+    institution: 'Bridgewater State University',
+    shortName: 'BSU Massachusetts',
+    countryId: 'usa',
+    countryLabel: 'United States',
+    location: 'Bridgewater, Massachusetts, United States',
+    website: 'https://www.bridgew.edu',
+    sourceRow: 605,
+    badge: 'Historic Massachusetts Public University of Education, Aviation & Photonics',
+    lead: 'Bridgewater State University (BSU) is the largest comprehensive state university in Massachusetts outside the UMass system, celebrated as the historic birthplace of American teacher education and home to premier aviation science and photonics programs.',
+    overview: 'Founded in 1840 by education reformer Horace Mann as Bridgewater Normal School, Bridgewater State University is one of the oldest continuously operating public institutions of higher education in the United States. Today, BSU educates over 9,600 undergraduate and graduate students across its 278-acre campus in southeastern Massachusetts. The university features the state-of-the-art Bartlett College of Science and Mathematics, the world-class BSU Aviation Training Center at New Bedford Regional Airport, and the Cyber Range for defensive cybersecurity operations.',
+    quickFacts: {
+      type: 'Public Comprehensive University',
+      campus: '278-Acre Historic Campus, Bridgewater, Massachusetts (30 miles south of Boston)',
+      accreditation: 'New England Commission of Higher Education (NECHE) & Aviation Accreditation Board International (AABI)',
+      admissions: 'Common Application and BSU Direct Portal',
+      language: 'English (primary instruction)',
+      aid: 'Horace Mann Merit Scholarships, Massachusetts State University Grants, CyberCorps SFS'
+    },
+    strengths: [
+      'Aviation Science & Commercial Flight Training (FAA Part 141)',
+      'Photonics, Optical Engineering & Micro-Fabrication Cleanroom',
+      'Education Pedagogy, Special Education & STEM Teacher Preparation',
+      'Cybersecurity Operations, Cyber Range & Digital Forensics'
+    ],
+    programs: [
+      { title: 'Bachelor of Science in Aviation Science (Flight Training Track)', level: 'Bachelor\'s', desc: 'AABI-accredited commercial pilot degree featuring flight training on BSU\'s modern fleet of Cirrus SR20 and Piper Archer aircraft at New Bedford.' },
+      { title: 'Bachelor of Science in Photonics and Optical Engineering', level: 'Bachelor\'s', desc: 'Specialized STEM degree offering cleanroom micro-fabrication, laser physics, fiber optics, and semiconductor fabrication.' },
+      { title: 'Master of Education in Educational Leadership (MEd)', level: 'Master\'s', desc: 'Distinguished graduate degree preparing school principals, curriculum directors, and educational policymakers.' },
+      { title: 'Master of Science in Computer Science: Cybersecurity Concentration', level: 'Master\'s', desc: 'Hands-on graduate computing program utilizing the BSU Cyber Range for simulated network war-games, malware analysis, and cloud defense.' }
+    ],
+    opportunities: [
+      {
+        id: 4246,
+        title: 'BSU Horace Mann Full Tuition and Fees Excellence Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'Flagship competitive merit scholarship for exceptional incoming first-year students covering four continuous years of undergraduate study.',
+        funding: 'Full tuition and mandatory fees coverage worth over USD $11,500/year (USD $46,000 four-year value)',
+        fee: 'USD $50 (application fee waivers available)',
+        tuition: 'USD $10,730/year (In-state) or USD $18,870/year (Out-of-state)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.bridgew.edu/admissions-aid/financial-aid/types-aid/scholarships',
+        requirements: {
+          gpa: 'Minimum 3.8/4.0 cumulative high school GPA',
+          ielts: 'IELTS 6.5 or TOEFL 79 for international students',
+          gre: 'Test-optional',
+          papers: '500-word essay reflecting on Horace Mann\'s motto: "Be ashamed to die until you have won some victory for humanity"',
+          references: 'Two letters from secondary school teachers'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4247,
+        title: 'BSU Aviation Science Flight Training Scholarship',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Specialized flight fee assistance award for Aviation Science majors pursuing FAA Private, Commercial, and Multi-Engine flight certifications.',
+        funding: 'USD $5,000 flight fee stipend applied directly to flight simulator and aircraft rental accounts',
+        fee: 'USD $50',
+        tuition: 'Standard undergraduate tuition plus flight course lab fees',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.bridgew.edu/department/aviation-science/flight-training',
+        requirements: {
+          gpa: 'Cumulative GPA of 3.0 or higher in aviation science coursework',
+          ielts: 'FAA English language proficiency standard',
+          gre: 'Not required',
+          papers: 'Valid FAA First or Second Class Medical Certificate and pilot logbook review',
+          references: 'Recommendation from BSU Chief Flight Instructor'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4248,
+        title: 'Undergraduate Research Summer Fellowship in Photonics and Cleanroom Engineering',
+        type: 'Fellowship',
+        subject: 'physics',
+        subjects: ['physics', 'engineering'],
+        desc: 'Ten-week paid summer research appointment in the Bartlett College cleanroom fabricating semiconductor photonic devices and optical waveguide sensors.',
+        funding: 'USD $4,500 summer stipend plus on-campus housing and materials budget',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.bridgew.edu/undergraduate-research',
+        requirements: {
+          gpa: 'Sophomore or Junior standing with minimum 3.2 GPA in physics or engineering',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Two-page research statement detailing interest in laser optical systems',
+          references: 'One physics faculty recommendation'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4249,
+        title: 'Master of Science in Computer Science: Cyber Range Operations Fellowship',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Graduate research fellowship supporting the operations of the BSU Cyber Range, designing automated adversary simulation scripts for training sessions.',
+        funding: 'USD $12,000 annual stipend plus 50% tuition remission',
+        fee: 'USD $50',
+        tuition: 'USD $9,200/year (In-state) or USD $14,400/year (Out-of-state)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.bridgew.edu/academics/cybersecurity',
+        requirements: {
+          gpa: 'Bachelor\'s in computer science, cybersecurity, or IT with minimum 3.0 GPA',
+          ielts: 'IELTS 6.5 or TOEFL 79',
+          gre: 'Not required',
+          papers: 'Resume detailing Linux systems administration, Wireshark, or scripting expertise',
+          references: 'Two letters of recommendation'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4250,
+        title: 'Master of Education in STEM Curriculum and Instructional Leadership',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'mathematics'],
+        desc: 'Practitioner-oriented graduate program preparing K-12 educators to implement inquiry-based science, math, and engineering curricula.',
+        funding: 'Eligible for Massachusetts Department of Higher Education STEM teacher loan forgiveness',
+        fee: 'USD $50',
+        tuition: 'USD $8,800 total program tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.bridgew.edu/graduate-admissions/programs/med-curriculum-instruction',
+        requirements: {
+          gpa: 'Bachelor\'s degree with at least 2.8 GPA and state educator license or eligibility',
+          ielts: 'IELTS 6.5',
+          gre: 'Not required',
+          papers: 'Statement of educational philosophy and teaching objectives',
+          references: 'Two professional references from school administrators'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4251,
+        title: 'New England Regional Commercial Aviation Flight Internship',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering'],
+        desc: 'Six-month aviation operations internship with regional airline partners (Cape Air, Republic Airways) covering flight dispatch and crew scheduling.',
+        funding: 'USD $18.50 per hour for 30 hours per week',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.bridgew.edu/department/aviation-science/industry-partners',
+        requirements: {
+          gpa: 'Aviation Science major with minimum 2.8 GPA and Commercial Pilot certificate',
+          ielts: 'FAA English fluency',
+          gre: 'Not required',
+          papers: 'FAA airman knowledge test scores and flight logbook summary',
+          references: 'Flight department recommendation'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      },
+      {
+        id: 4252,
+        title: 'Certificate in Applied Geographic Information Systems (GIS) for Coastal Management',
+        type: 'Course',
+        subject: 'environment',
+        subjects: ['environment', 'computer-science'],
+        desc: 'Four-course certificate examining spatial analysis in ArcGIS Pro, coastal sea-level rise modeling, and drone photogrammetry across Cape Cod Bay.',
+        funding: 'Continuing education community grants up to USD $600',
+        fee: 'USD $25',
+        tuition: 'USD $2,250 total certificate tuition',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.bridgew.edu/department/geography/gis-certificate',
+        requirements: {
+          gpa: 'Bachelor\'s degree or current undergraduate student status',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Brief statement of spatial analysis application interest',
+          references: 'Not required'
+        },
+        university: 'Bridgewater State University',
+        country: 'United States',
+        location: 'Bridgewater, Massachusetts, United States'
+      }
+    ],
+    researchers: [
+      {
+        id: 1839,
+        name: 'Prof. Samuel Serna Otalvaro',
+        title: 'Associate Professor of Physics and Photonics Engineering',
+        subject: 'physics',
+        topics: ['Integrated Silicon Photonics', 'Nonlinear Optical Waveguides', 'Optical Micro-Sensors'],
+        summary: 'Photonics physicist designing chip-scale integrated optical circuits, micro-ring resonators, and mid-infrared waveguides for environmental gas sensing.',
+        source: 'https://www.bridgew.edu/faculty-staff/samuel-serna',
+        university: 'Bridgewater State University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1840,
+        name: 'Prof. Michael DeGagné',
+        title: 'Associate Professor & Chairperson of Aviation Science',
+        subject: 'engineering',
+        topics: ['Flight Deck Human Factors', 'Aviation Safety Management Systems (SMS)', 'UAS Integration in National Airspace'],
+        summary: 'Aviation educator and commercial pilot researching pilot cognitive workload during instrument approaches and regulatory frameworks for unmanned aerial systems.',
+        source: 'https://www.bridgew.edu/faculty-staff/michael-degagne',
+        university: 'Bridgewater State University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1841,
+        name: 'Prof. Nicole Glen',
+        title: 'Professor of Elementary Science Education & STEM Pedagogy',
+        subject: 'social-sciences',
+        topics: ['Inquiry-Based Science Teaching', 'STEM Teacher Self-Efficacy', 'Curriculum Reform in Public Schools'],
+        summary: 'Science education scholar analyzing early childhood and elementary teacher training models in physical sciences and nature-of-science pedagogical frameworks.',
+        source: 'https://www.bridgew.edu/faculty-staff/nicole-glen',
+        university: 'Bridgewater State University',
+        country: 'United States',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 16. USA - University of Oregon (Row 1145)
+  {
+    slug: 'university-of-oregon',
+    institution: 'University of Oregon',
+    shortName: 'UO Eugene',
+    countryId: 'usa',
+    countryLabel: 'United States',
+    location: 'Eugene, Oregon, United States',
+    website: 'https://www.uoregon.edu',
+    sourceRow: 1145,
+    badge: 'Tier-1 Flagship Research University & Member of the Association of American Universities (AAU)',
+    lead: 'The University of Oregon is the flagship public research university of the state of Oregon, renowned for the Phil and Penny Knight Campus for Accelerating Scientific Impact, sustainable architecture, marine biology, and quantum physics.',
+    overview: 'Founded in 1876 in Eugene along the scenic Willamette River, the University of Oregon is a prestigious Carnegie R1 (Very High Research Activity) institution and an elected member of the Association of American Universities (AAU). UO enrolls over 23,000 students across nine colleges and schools. The university is home to world-class scientific facilities including the USD $1 billion Knight Campus for Accelerating Scientific Impact, the Oregon Institute of Marine Biology (OIMB) in Charleston, and the Institute of Molecular Biology (IMB) where molecular genetics and zebrafish genomics were famously pioneered.',
+    quickFacts: {
+      type: 'Public Flagship Research University (Carnegie R1 / AAU Member)',
+      campus: '295-Acre Historic Campus in Eugene & OIMB Coastal Station in Charleston',
+      accreditation: 'Northwest Commission on Colleges and Universities (NWCCU)',
+      admissions: 'Common Application and UO Oregon Admissions Portal',
+      language: 'English (primary instruction)',
+      aid: 'PathwayOregon (Full Tuition/Fees for eligible residents), Stamps Scholarship, UO Excellence Awards'
+    },
+    strengths: [
+      'Bioengineering & Regenerative Medicine (Knight Campus)',
+      'Quantum Optics, Condensed Matter Physics & Materials Science',
+      'Sustainable Ecological Architecture & Mass Timber Construction',
+      'Molecular Genetics, Neuroscience & Zebrafish Genomics'
+    ],
+    programs: [
+      { title: 'PhD in Bioengineering (Knight Campus)', level: 'Doctorate', desc: 'Cutting-edge doctoral research at the Knight Campus focusing on synthetic biomaterials, tissue engineering, neuro-engineering, and therapeutic delivery.' },
+      { title: 'PhD in Physics (Quantum Optics and Condensed Matter)', level: 'Doctorate', desc: 'World-renowned physics program actively contributing to LIGO gravitational wave astronomy, quantum measurement, and superconducting materials.' },
+      { title: 'Master of Architecture (MArch in Sustainable Design)', level: 'Master\'s', desc: 'NAAB-accredited professional degree recognized globally for mass timber technology, passive solar heating, and carbon-neutral building design.' },
+      { title: 'Bachelor of Science in Marine Biology (OIMB Immersion)', level: 'Bachelor\'s', desc: 'Immersive coastal undergraduate degree based at the Oregon Institute of Marine Biology featuring daily ocean research on research vessel Pluteus.' }
+    ],
+    opportunities: [
+      {
+        id: 4253,
+        title: 'Knight Campus Graduate Fellowship in Bioengineering and Regenerative Medicine',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'Fully funded five-year doctoral fellowship at the Phil and Penny Knight Campus for Accelerating Scientific Impact exploring synthetic biomaterials and neural interfaces.',
+        funding: 'USD $38,000 annual living stipend plus full tuition waiver and comprehensive medical health insurance',
+        fee: 'USD $70',
+        tuition: 'USD $0 (fully covered by Knight Campus fellowship endowment)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://accelerate.uoregon.edu/academic-programs',
+        requirements: {
+          gpa: 'Minimum 3.5/4.0 in bioengineering, materials science, chemistry, or molecular biology',
+          ielts: 'IELTS 7.5 or TOEFL iBT 100',
+          gre: 'Not required',
+          papers: 'Statement of purpose and documented wet-lab or computational bioengineering research experience',
+          references: 'Three letters from research faculty mentors'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4254,
+        title: 'University of Oregon Stamps Presidential Undergraduate Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'engineering'],
+        desc: 'UO\'s most prestigious merit award for incoming freshmen, providing full undergraduate funding plus an enrichment fund for study abroad and research.',
+        funding: 'Full tuition, room and board, and fees for four years (approx. USD $140,000 value) plus USD $12,000 enrichment fund',
+        fee: 'USD $65 (fee waiver available)',
+        tuition: 'USD $15,600/year (In-state) or USD $43,500/year (Out-of-state)',
+        deadline: '2026-11-01',
+        deadlineText: 'November 1, 2026',
+        source: 'https://financialaid.uoregon.edu/stamps-scholarship',
+        requirements: {
+          gpa: 'Minimum 3.85 unweighted high school GPA',
+          ielts: 'IELTS 7.0 for international applicants',
+          gre: 'Test-optional',
+          papers: 'Stamps scholarship supplemental essay and video interview invitation',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4255,
+        title: 'Doctoral Research Fellowship in Quantum Physics and Gravitational Wave Astronomy',
+        type: 'PhD',
+        subject: 'physics',
+        subjects: ['physics', 'mathematics'],
+        desc: 'Graduate teaching and research fellowship (GE) within the Oregon Center for Optical, Molecular, and Quantum Science (OMQ) participating in LIGO research.',
+        funding: 'USD $32,000 annual research salary plus full tuition remission and health insurance',
+        fee: 'USD $70',
+        tuition: 'USD $0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://physics.uoregon.edu/graduate-studies/',
+        requirements: {
+          gpa: 'Bachelor\'s in physics, astronomy, or electrical engineering with 3.4+ GPA',
+          ielts: 'IELTS 7.0 or TOEFL 90',
+          gre: 'Physics GRE optional',
+          papers: 'Curriculum vitae and statement of physics research interests',
+          references: 'Three letters from physics professors'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4256,
+        title: 'Master of Architecture in Mass Timber and Net-Zero Building Technology',
+        type: 'Master\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'environment'],
+        desc: 'Professional two-to-three year graduate architecture degree at the College of Design specializing in cross-laminated timber (CLT) and embodied carbon reduction.',
+        funding: 'Eligible for TallWood Design Institute research assistantships and departmental tuition scholarships',
+        fee: 'USD $70',
+        tuition: 'USD $18,400/year (Resident) or USD $34,200/year (Non-resident)',
+        deadline: '2027-01-05',
+        deadlineText: 'January 5, 2027',
+        source: 'https://design.uoregon.edu/architecture',
+        requirements: {
+          gpa: '3.0/4.0 undergraduate degree in architecture or any field for 3-year track',
+          ielts: 'IELTS 7.0 or TOEFL 88',
+          gre: 'Not required',
+          papers: 'Comprehensive creative design portfolio and statement of design intent',
+          references: 'Three letters of recommendation'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4257,
+        title: 'Oregon Institute of Marine Biology (OIMB) Charleston Field Fellowship',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'environment'],
+        desc: 'Residential coastal research semester at OIMB in Coos Bay conducting oceanographic trawls, benthic invertebrate surveys, and larval development experiments.',
+        funding: 'USD $4,000 marine station fellowship plus subsidized coastal dormitory housing',
+        fee: 'USD $0',
+        tuition: 'Regular UO undergraduate or graduate credit tuition applies',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://oimb.uoregon.edu/academics/',
+        requirements: {
+          gpa: 'Enrolled in biology, marine biology, or environmental science with minimum 3.0 GPA',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Statement of marine fieldwork objectives and prerequisite science course record',
+          references: 'One biology faculty recommendation'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4258,
+        title: 'Undergraduate Summer Research Internship in Molecular Biology and Zebrafish Genetics',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Ten-week funded summer laboratory placement at the Institute of Molecular Biology (IMB) using CRISPR genome editing in Danio rerio models.',
+        funding: 'USD $6,000 total summer stipend plus on-campus university housing',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://molbio.uoregon.edu/summer-research',
+        requirements: {
+          gpa: 'Undergraduate student with minimum 3.2 GPA in biology or chemistry',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Resume and 500-word essay detailing interest in genetic developmental mechanisms',
+          references: 'Two letters from university science instructors'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      },
+      {
+        id: 4259,
+        title: 'Executive Certificate in Environmental Conflict Resolution and Negotiation',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Eight-week executive program offered by the Wayne Morse Center for Law and Politics in multi-stakeholder forestry mediation and indigenous water compacts.',
+        funding: 'Scholarship subsidies available for nonprofit environmental practitioners up to USD $800',
+        fee: 'USD $35',
+        tuition: 'USD $1,850 total certificate tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://waynemorse.uoregon.edu/conflict-resolution',
+        requirements: {
+          gpa: 'Bachelor\'s degree or minimum three years experience in natural resources or law',
+          ielts: 'Professional English fluency',
+          gre: 'Not required',
+          papers: 'Brief professional bio and case interest statement',
+          references: 'Not required'
+        },
+        university: 'University of Oregon',
+        country: 'United States',
+        location: 'Eugene, Oregon, United States'
+      }
+    ],
+    researchers: [
+      {
+        id: 1842,
+        name: 'Prof. Robert Guldberg',
+        title: 'Vice President and Robert and Leona DeArmond Executive Director of the Knight Campus',
+        subject: 'biology',
+        topics: ['Musculoskeletal Regenerative Medicine', 'Bone and Cartilage Tissue Engineering', 'Biomaterial Delivery Systems'],
+        summary: 'World-renowned bioengineer leading the USD $1 billion Knight Campus, developing vascularized scaffold matrices and regenerative gene delivery vectors to repair catastrophic skeletal injuries.',
+        source: 'https://accelerate.uoregon.edu/robert-guldberg',
+        university: 'University of Oregon',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1843,
+        name: 'Prof. Michael Raymer',
+        title: 'Knight Professor of Liberal Arts and Sciences & Professor of Physics',
+        subject: 'physics',
+        topics: ['Quantum Optics', 'Quantum Information Science', 'Single-Photon Waveforms'],
+        summary: 'Eminent physicist who co-authored the U.S. National Quantum Initiative Act, researching quantum state tomography, single-photon sources, and optical quantum computing circuits.',
+        source: 'https://physics.uoregon.edu/directory/faculty/profile/raymer',
+        university: 'University of Oregon',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1844,
+        name: 'Prof. Judith Eisen',
+        title: 'Professor of Biology & Member of the American Academy of Arts and Sciences',
+        subject: 'biology',
+        topics: ['Neural Circuit Development', 'Gut-Brain Axis in Zebrafish', 'Enteric Nervous System Plasticity'],
+        summary: 'Pioneering developmental neurobiologist investigating how motoneurons and the enteric nervous system develop, and how the microbiome shapes neural circuit wiring during embryogenesis.',
+        source: 'https://biology.uoregon.edu/profile/eisen',
+        university: 'University of Oregon',
+        country: 'United States',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 17. USA - University of Pittsburgh (Row 1148)
+  {
+    slug: 'university-of-pittsburgh',
+    institution: 'University of Pittsburgh',
+    shortName: 'Pitt',
+    countryId: 'usa',
+    countryLabel: 'United States',
+    location: 'Pittsburgh, Pennsylvania, United States',
+    website: 'https://www.pitt.edu',
+    sourceRow: 1148,
+    badge: 'World-Leading Health Sciences & R1 AAU Research University',
+    lead: 'The University of Pittsburgh (Pitt) is a world-class public research university and AAU member, consistently ranked among the top recipients of NIH biomedical research funding globally and celebrated for the Jonas Salk polio vaccine, organ transplantation, and neuro-technologies.',
+    overview: 'Founded in 1787 on the American frontier as the Pittsburgh Academy, the University of Pittsburgh has evolved into a global powerhouse in medicine, computer science, bioengineering, and philosophy of science. Enrolling more than 34,000 students on its urban campus anchored by the iconic 42-story Cathedral of Learning, Pitt is closely partnered with the USD $24 billion UPMC healthcare system. Pitt scientists developed the world’s first licensed polio vaccine, pioneered modern multivisceral organ transplantation under Thomas Starzl, and are currently creating brain-computer interfaces allowing paralyzed individuals to control robotic limbs with direct sensory feedback.',
+    quickFacts: {
+      type: 'State-Related Public Research University (Carnegie R1 / AAU Member)',
+      campus: '132-Acre Urban Campus, Oakland Neighborhood, Pittsburgh, Pennsylvania',
+      accreditation: 'Middle States Commission on Higher Education (MSCHE)',
+      admissions: 'Common Application and Pitt Direct Admissions',
+      language: 'English (primary instruction)',
+      aid: 'Chancellor\'s Scholarships, Pitt Fund.Me Grants, NIH T32 Institutional Training Grants'
+    },
+    strengths: [
+      'Biomedical Science, Immunology & Organ Transplantation (UPMC Hub)',
+      'Neural Engineering, Brain-Computer Interfaces & Neuro-Rehabilitation',
+      'School of Computing and Information (SCI) & Health Informatics',
+      'Philosophy of Science & History and Philosophy of Science (HPS)'
+    ],
+    programs: [
+      { title: 'PhD in Bioengineering (Swanson School of Engineering)', level: 'Doctorate', desc: 'World-renowned interdisciplinary doctoral program bridging neural engineering, cardiovascular fluid dynamics, and biomaterial tissue scaffolding.' },
+      { title: 'Doctor of Medicine (MD Program, Pitt School of Medicine)', level: 'Doctorate', desc: 'Consistently ranked among the top 15 medical schools in the US, featuring the pioneering Three Rivers medical curriculum and clinical rotations at UPMC.' },
+      { title: 'Master of Science in Information Science (MSIS, Big Data & Cybersecurity)', level: 'Master\'s', desc: 'Cutting-edge degree developing software architectures for high-throughput enterprise systems, data mining, and defensive cybersecurity.' },
+      { title: 'Bachelor of Science in Neuroscience', level: 'Bachelor\'s', desc: 'Elite undergraduate program offering intensive laboratory apprenticeships within the University of Pittsburgh Brain Institute.' }
+    ],
+    opportunities: [
+      {
+        id: 4260,
+        title: 'Pitt Chancellor\'s Full Undergraduate Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'Pitt\'s most prestigious full academic scholarship awarded to incoming first-year students of extraordinary intellectual promise.',
+        funding: 'Full tuition, mandatory fees, room and board, and a USD $500 book allowance per semester for eight semesters',
+        fee: 'USD $55 (waivers available)',
+        tuition: 'USD $21,500/year (PA resident) or USD $39,800/year (Out-of-state)',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://financialaid.pitt.edu/types-of-aid/scholarships/university-scholarships/',
+        requirements: {
+          gpa: 'Minimum 3.9/4.0 unweighted GPA in rigorous high school AP/IB coursework',
+          ielts: 'IELTS 7.5 or TOEFL 100 for international students',
+          gre: 'Test-optional',
+          papers: 'Personal statement demonstrating exceptional leadership and creative scholarship',
+          references: 'Two letters from secondary school educators'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4261,
+        title: 'NIH T32 Pre-Doctoral Fellowship in Neural Engineering and Neuro-prosthetics',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'biology'],
+        desc: 'Competitive National Institutes of Health (NIH) training grant supporting bioengineering doctoral students working on intracortical microstimulation and brain-machine interfaces.',
+        funding: 'USD $37,500 annual stipend plus full tuition waiver and USD $4,500 travel/training budget',
+        fee: 'USD $60',
+        tuition: 'USD $0 (fully covered under NIH training grant)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.engineering.pitt.edu/bioengineering/graduate/',
+        requirements: {
+          gpa: '3.6/4.0 undergraduate degree in bioengineering, electrical engineering, neuroscience, or physics',
+          ielts: 'IELTS 7.5 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'Statement of research interests focused on neuro-prosthetic systems',
+          references: 'Three letters from research faculty'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4262,
+        title: 'Master of Science in Information Science: Cloud Analytics Fellowship',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Two-year graduate computing degree at the School of Computing and Information focusing on distributed cloud databases, information retrieval, and cybersecurity.',
+        funding: 'Graduate student assistantships covering tuition and providing USD $1,600 monthly stipend',
+        fee: 'USD $60',
+        tuition: 'USD $26,400/year',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://sci.pitt.edu/academics/degrees-and-programs/information-science-ms',
+        requirements: {
+          gpa: '3.0/4.0 in undergraduate computer science, information science, or engineering',
+          ielts: 'IELTS 7.0 or TOEFL 90',
+          gre: 'GRE Quantitative 158+ recommended',
+          papers: 'Resume detailing programming skills (Python, Java, C++) and personal statement',
+          references: 'Two letters of recommendation'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4263,
+        title: 'Thomas E. Starzl Transplantation Institute Postdoctoral Fellowship',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Two-year post-MD or post-PhD translational research fellowship investigating immune tolerance mechanisms, xenotransplantation, and organ perfusion bioengineering.',
+        funding: 'USD $65,000 annual NIH-scale postdoctoral salary plus health benefits and travel funds',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.starzlinstitute.pitt.edu/',
+        requirements: {
+          gpa: 'Completed MD, PhD, or MD/PhD in immunology, pathology, or surgical science within past 3 years',
+          ielts: 'Fluency in English',
+          gre: 'Not required',
+          papers: 'Minimum two first-author peer-reviewed publications in immunology or transplantation',
+          references: 'Three reference letters from dissertation or fellowship supervisors'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4264,
+        title: 'Bachelor of Science in Neuroscience Research Practicum',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Four-year degree featuring direct mentorship within the University of Pittsburgh Brain Institute, exploring synaptic plasticity, neurodegenerative diseases, and neuropsychology.',
+        funding: 'Eligible for Pitt Honors research grants and undergraduate summer fellowships up to USD $4,000',
+        fee: 'USD $55',
+        tuition: 'USD $21,500/year (PA resident) or USD $39,800/year (Out-of-state)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.neuroscience.pitt.edu/undergraduate',
+        requirements: {
+          gpa: 'High school GPA 3.5+ with strong grades in biology and chemistry',
+          ielts: 'IELTS 7.0',
+          gre: 'Test-optional',
+          papers: 'Personal essay regarding scientific curiosity in brain sciences',
+          references: 'One high school teacher recommendation'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4265,
+        title: 'UPMC Center for Vaccine Research Summer Laboratory Internship',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Ten-week funded undergraduate internship at the Center for Vaccine Research working in BSL-3 facilities on emerging viral pathogens and structural immunology.',
+        funding: 'USD $5,500 total summer stipend plus subsidized housing',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://cvr.pitt.edu/education-and-training',
+        requirements: {
+          gpa: 'Sophomore or Junior standing with 3.3+ GPA in microbiology, biochemistry, or biology',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Statement of intent in infectious disease research and lab safety record',
+          references: 'Two letters from university faculty'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      },
+      {
+        id: 4266,
+        title: 'Certificate in Health Data Analytics and Clinical Informatics',
+        type: 'Course',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'biology'],
+        desc: 'Five-course graduate certificate in electronic health records data warehousing, clinical machine learning, and HIPAA regulatory security frameworks.',
+        funding: 'Corporate employee education benefit discounts available',
+        fee: 'USD $50',
+        tuition: 'USD $5,400 total certificate tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://shrs.pitt.edu/health-informatics-certificate',
+        requirements: {
+          gpa: 'Bachelor\'s degree in any field with demonstrated quantitative aptitude',
+          ielts: 'IELTS 6.5 or TOEFL 80',
+          gre: 'Not required',
+          papers: 'Resume detailing healthcare or IT background',
+          references: 'One professional recommendation'
+        },
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        location: 'Pittsburgh, Pennsylvania, United States'
+      }
+    ],
+    researchers: [
+      {
+        id: 1845,
+        name: 'Prof. Michael Boninger',
+        title: 'Professor of Physical Medicine & Rehabilitation and Bioengineering',
+        subject: 'engineering',
+        topics: ['Brain-Computer Interfaces', 'Neuro-Rehabilitation Technology', 'Spinal Cord Injury Diagnostics'],
+        summary: 'Pioneering clinician-scientist leading cortical neuro-prosthetics trials, enabling tetraplegic patients to operate multi-degree-of-freedom robotic arms and experience somatosensory feedback.',
+        source: 'https://www.rehabmedicine.pitt.edu/people/michael-l-boninger-md',
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1846,
+        name: 'Prof. Peter L. Strick',
+        title: 'Scientific Director of the Brain Institute & Distinguished Professor of Neurobiology',
+        subject: 'biology',
+        topics: ['Basal Ganglia Circuits', 'Mind-Body Connectome', 'Viral Trans-Neuronal Tracing'],
+        summary: 'Renowned neuroanatomist who discovered multisynaptic pathways linking the cerebral cortex with internal organs, elucidating how stress and mental states modulate physical disease.',
+        source: 'https://www.braininstitute.pitt.edu/people/peter-l-strick-phd',
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1847,
+        name: 'Prof. Sandra Mitchell',
+        title: 'Distinguished Professor of History and Philosophy of Science (HPS)',
+        subject: 'social-sciences',
+        topics: ['Complex Systems Epistemology', 'Integrative Pluralism in Biology', 'Philosophy of Scientific Modeling'],
+        summary: 'Leading philosopher of science analyzing complexity, emergent properties in biological networks, and the epistemological limits of reductionist models in climate and biological systems.',
+        source: 'https://www.hps.pitt.edu/people/sandra-mitchell',
+        university: 'University of Pittsburgh',
+        country: 'United States',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 18. USA - University of Utah (Row 1174)
+  {
+    slug: 'university-of-utah',
+    institution: 'University of Utah',
+    shortName: 'the U',
+    countryId: 'usa',
+    countryLabel: 'United States',
+    location: 'Salt Lake City, Utah, United States',
+    website: 'https://www.utah.edu',
+    sourceRow: 1174,
+    badge: 'Tier-1 Flagship Research University & Member of the Association of American Universities (AAU)',
+    lead: 'The University of Utah (the U) is the flagship public research institution of Utah and an AAU member, internationally recognized for pioneering computer graphics, the Utah Artificial Heart, genetics at the Huntsman Cancer Institute, and clean energy innovation.',
+    overview: 'Established in 1850 in the foothills of the Wasatch Mountain Range in Salt Lake City, the University of Utah is a premier Carnegie R1 research university serving over 35,000 students. The university holds historic status in computer science as the birthplace of modern 3D computer graphics (founded by Ivan Sutherland and David Evans, training Pixar and Adobe founders). The U also operates the world-renowned Huntsman Cancer Institute, the John and Marcia Price College of Engineering, and University of Utah Health, generating over USD $680 million in annual sponsored research awards.',
+    quickFacts: {
+      type: 'Public Flagship Research University (Carnegie R1 / AAU Member)',
+      campus: '1,534-Acre Mountain Foothill Campus, Salt Lake City, Utah',
+      accreditation: 'Northwest Commission on Colleges and Universities (NWCCU)',
+      admissions: 'Common Application and U of U Admissions Portal',
+      language: 'English (primary instruction)',
+      aid: 'Eccles Scholarships, Western Undergraduate Exchange (WUE), Graduate Research Fellowships'
+    },
+    strengths: [
+      'Computer Graphics, Visualization & Entertainment Arts and Engineering (EAE)',
+      'Oncology Genetics & Molecular Targeted Therapies (Huntsman Cancer Institute)',
+      'Biomedical Engineering & Neural Interfaces (Utah Bionic Leg and Utah Electrode Array)',
+      'Geothermal Energy, Mining Engineering & Atmospheric Science'
+    ],
+    programs: [
+      { title: 'PhD in Computer Science (School of Computing)', level: 'Doctorate', desc: 'World-renowned doctoral curriculum in computer graphics, scientific visualization, distributed systems, and quantum architecture.' },
+      { title: 'Master of Science in Entertainment Arts and Engineering (EAE)', level: 'Master\'s', desc: 'Consistently ranked the #1 video game development graduate program in the world by the Princeton Review.' },
+      { title: 'PhD in Biomedical Engineering (Price College of Engineering)', level: 'Doctorate', desc: 'Elite research doctorate developing neural prostheses (inventor of the Utah Electrode Array), bionic limbs, and cardiac assist devices.' },
+      { title: 'Bachelor of Science in Mining Engineering', level: 'Bachelor\'s', desc: 'One of America\'s oldest mining engineering programs specializing in critical minerals, copper extraction, and sustainable mine tailings management.' }
+    ],
+    opportunities: [
+      {
+        id: 4267,
+        title: 'University of Utah Eccles Distinguished Presidential Scholarship',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Utah\'s premier undergraduate scholarship covering full tuition, housing, and an experiential learning stipend for high-achieving leaders.',
+        funding: 'Full tuition and mandatory fees plus on-campus housing, meal plan, and USD $3,000 research stipend for four years',
+        fee: 'USD $55',
+        tuition: 'USD $9,400/year (Utah resident) or USD $31,800/year (Non-resident)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://financialaid.utah.edu/types-of-aid/scholarships/freshman/eccles.php',
+        requirements: {
+          gpa: 'Minimum 3.9 unweighted high school GPA with challenging STEM curriculum',
+          ielts: 'IELTS 7.0 or TOEFL 80 for international applicants',
+          gre: 'Test-optional',
+          papers: 'Eccles leadership essay and documented public service involvement',
+          references: 'Two letters from secondary school teachers'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4268,
+        title: 'Huntsman Cancer Institute Graduate Research Fellowship in Oncology Genetics',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Fully funded five-year doctoral research fellowship at the Huntsman Cancer Institute investigating hereditary cancer susceptibility genes and targeted kinase inhibitors.',
+        funding: 'USD $36,000 annual living stipend plus full tuition waiver and subsidized healthcare',
+        fee: 'USD $65',
+        tuition: 'USD $0 (covered by HCI endowment)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://healthcare.utah.edu/huntsmancancerinstitute/research/training',
+        requirements: {
+          gpa: 'Bachelor\'s in molecular biology, biochemistry, or genetics with 3.5+ GPA',
+          ielts: 'IELTS 7.5 or TOEFL 95',
+          gre: 'Not required',
+          papers: 'Statement of research interests in tumor genomics or targeted oncological therapy',
+          references: 'Three letters from research mentors'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4269,
+        title: 'Master of Science in Entertainment Arts and Engineering (EAE Game Tech)',
+        type: 'Master\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Two-year cohort-based master\'s program in game engineering, technical art, game production, and narrative design ranked #1 globally.',
+        funding: 'Eligible for EAE teaching assistantships and game industry diversity scholarships',
+        fee: 'USD $65',
+        tuition: 'USD $22,500/year',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://games.utah.edu/admissions/mfa-in-game-design/',
+        requirements: {
+          gpa: '3.0/4.0 in bachelor\'s degree (computer science, digital art, or related)',
+          ielts: 'IELTS 7.0 or TOEFL 90',
+          gre: 'Not required',
+          papers: 'Creative portfolio or programming repository showcasing completed game projects',
+          references: 'Three professional or academic references'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4270,
+        title: 'Price College of Engineering Doctoral Fellowship in Neural Bionics',
+        type: 'PhD',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Four-year research fellowship developing motorized robotic prosthetics (Utah Bionic Leg) and peripheral nerve signal processing algorithms.',
+        funding: 'USD $34,000 annual stipend plus full tuition coverage',
+        fee: 'USD $65',
+        tuition: 'USD $0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://bme.utah.edu/graduate-program/',
+        requirements: {
+          gpa: 'Bachelor\'s or Master\'s in engineering, robotics, or neuroscience with 3.4+ GPA',
+          ielts: 'IELTS 7.0',
+          gre: 'Not required',
+          papers: 'Statement of purpose detailing electromechanical or neural interface projects',
+          references: 'Three letters of recommendation'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4271,
+        title: 'Bachelor of Science in Mining Engineering with Kennecott Copper Scholarship',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Four-year ABET-accredited degree in open-pit and underground mine design, geothermal drilling, and mineral separation, situated 20 miles from Bingham Canyon Mine.',
+        funding: 'USD $6,000 annual industry scholarship from Rio Tinto Kennecott plus summer internship placements',
+        fee: 'USD $55',
+        tuition: 'USD $9,400/year (Resident) or USD $31,800/year (Non-resident)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://mining.utah.edu/scholarships/',
+        requirements: {
+          gpa: 'Minimum 3.2 high school GPA with strong grades in chemistry, physics, and calculus',
+          ielts: 'IELTS 6.5',
+          gre: 'Test-optional',
+          papers: 'Personal statement on sustainable critical minerals extraction',
+          references: 'One teacher recommendation'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4272,
+        title: 'Scientific Computing and Imaging (SCI) Institute Summer Research Internship',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'mathematics'],
+        desc: 'Ten-week funded undergraduate internship at the SCI Institute working on large-scale biomedical visualization, volumetric rendering, and finite element modeling.',
+        funding: 'USD $6,000 total summer stipend plus on-campus university housing',
+        fee: 'USD $0',
+        tuition: 'USD $0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.sci.utah.edu/internships.html',
+        requirements: {
+          gpa: 'Undergraduate student with 3.3+ GPA in computer science, applied math, or engineering',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and GitHub code repository link',
+          references: 'Two letters from university professors'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      },
+      {
+        id: 4273,
+        title: 'Professional Certificate in Geothermal Energy and Subsurface Reservoir Engineering',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Four-month online continuing education certificate exploring enhanced geothermal systems (EGS), reservoir stimulation, and thermodynamic power plant cycles.',
+        funding: 'Subsidies available for clean energy practitioners',
+        fee: 'USD $40',
+        tuition: 'USD $2,100 total tuition',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://energy.utah.edu/geothermal-certificate/',
+        requirements: {
+          gpa: 'Degree in engineering, geology, or environmental science',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Brief professional resume',
+          references: 'Not required'
+        },
+        university: 'University of Utah',
+        country: 'United States',
+        location: 'Salt Lake City, Utah, United States'
+      }
+    ],
+    researchers: [
+      {
+        id: 1848,
+        name: 'Prof. Tommaso Lenzi',
+        title: 'Associate Professor of Mechanical Engineering & Director of the Bionic Engineering Lab',
+        subject: 'engineering',
+        topics: ['Powered Robotic Prosthetics', 'Wearable Exoskeletons', 'Human-Machine Interfacing'],
+        summary: 'Pioneering robotics engineer who created the "Utah Bionic Leg"—a lightweight motorized prosthetic knee and ankle that replicates natural physiological muscle function.',
+        source: 'https://bionic.mech.utah.edu/team/tommaso-lenzi/',
+        university: 'University of Utah',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1849,
+        name: 'Prof. Chris R. Johnson',
+        title: 'Founding Director of the Scientific Computing and Imaging (SCI) Institute',
+        subject: 'computer-science',
+        topics: ['Scientific Data Visualization', 'Computational Electrocardiology', 'Biomedical Image Computing'],
+        summary: 'Distinguished computer scientist and pioneer in scientific visualization, co-developing bio-electric field simulation frameworks and open-source volume rendering algorithms.',
+        source: 'https://www.sci.utah.edu/people/crj.html',
+        university: 'University of Utah',
+        country: 'United States',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1850,
+        name: 'Prof. Cornelia Ulrich',
+        title: 'Executive Director of the Comprehensive Cancer Center at Huntsman Cancer Institute',
+        subject: 'biology',
+        topics: ['Cancer Molecular Epidemiology', 'Colorectal Oncology Biomarkers', 'Energy Balance and Cancer Outcomes'],
+        summary: 'Prominent molecular epidemiologist analyzing genetic susceptibility to colorectal cancer, anti-inflammatory biomarker pathways, and exercise immunology during cancer survivorship.',
+        source: 'https://healthcare.utah.edu/huntsmancancerinstitute/research/labs/neli-ulrich',
+        university: 'University of Utah',
+        country: 'United States',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 19. UK - Ravensbourne University London (Row 1287)
+  {
+    slug: 'ravensbourne-university-london',
+    institution: 'Ravensbourne University London',
+    shortName: 'Ravensbourne',
+    countryId: 'uk',
+    countryLabel: 'United Kingdom',
+    location: 'Greenwich Peninsula, London, England, United Kingdom',
+    website: 'https://www.ravensbourne.ac.uk',
+    sourceRow: 1287,
+    badge: 'World-Renowned Digital Media, Design & Creative Technology Specialist University',
+    lead: 'Ravensbourne University London is an innovative specialist university in design, digital media, fashion, architecture, and creative computing, based in an iconic architectural building next to The O2 on the Greenwich Peninsula.',
+    overview: 'Established in 1962 and granted full university status in 2018, Ravensbourne University London is an internationally celebrated specialist creative institution renowned for exceptionally high graduate employment in the UK creative industries. Housed in a landmark RIBA Award-winning open-plan building designed by Foreign Office Architects, Ravensbourne operates cutting-edge television studios, 3D prototyping labs, motion-capture suites, and virtual production stages. The university maintains deep partnerships with industry giants including the BBC, Cisco, Apple, Epic Games, and Warner Bros.',
+    quickFacts: {
+      type: 'Specialist Creative & Digital Media University',
+      campus: 'Greenwich Peninsula Waterfront Campus (next to The O2), London',
+      accreditation: 'Privy Council Degree Awarding Powers & Office for Students (OfS)',
+      admissions: 'UCAS (Undergraduate) and Ravensbourne Direct International Portal',
+      language: 'English (primary instruction, minimum IELTS 6.0)',
+      aid: 'Ravensbourne Vice Chancellor\'s Scholarships, UK Government Postgraduate Loans'
+    },
+    strengths: [
+      'Digital Film Production, Virtual Production & Broadcast Television',
+      'User Experience (UX) Design, Interaction Design & Digital Media',
+      'Fashion Design, Digital Fashion & Sustainable Textiles',
+      'Creative Computing, Augmented Reality & Game Development'
+    ],
+    programs: [
+      { title: 'BA (Hons) Digital Film Production', level: 'Bachelor\'s', desc: 'ScreenSkills Select-accredited degree providing hands-on training in cinema cameras (ARRI/RED), multi-camera live television broadcast, and color grading.' },
+      { title: 'MA User Experience Design (UX Design)', level: 'Master\'s', desc: 'Industry-facing master\'s developing expertise in cognitive interaction architecture, user research methodologies, rapid wireframing, and design systems.' },
+      { title: 'BA (Hons) Fashion: Digital Fashion and Design', level: 'Bachelor\'s', desc: 'Cutting-edge fashion curriculum combining traditional pattern cutting and garment construction with 3D digital apparel software (CLO 3D).' },
+      { title: 'MSc Computer Science (Applied AI and Creative Technologies)', level: 'Master\'s', desc: 'Transformative graduate computing program exploring machine learning for media generation, shaders, real-time graphics in Unreal Engine, and web development.' }
+    ],
+    opportunities: [
+      {
+        id: 4274,
+        title: 'Ravensbourne Vice Chancellor\'s International Creative Scholarship',
+        type: 'Scholarship',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Merit-based tuition scholarship awarded to exceptional international students demonstrating standout creative portfolios in design, media, or creative computing.',
+        funding: '£3,500 tuition fee discount deducted from first-year fees',
+        fee: '£0 (direct postgraduate application) or £27.50 (UCAS undergraduate fee)',
+        tuition: '£9,250/year (UK Home) or £17,500/year (International)',
+        deadline: '2027-01-25',
+        deadlineText: 'January 25, 2027',
+        source: 'https://www.ravensbourne.ac.uk/study-here/finance-and-funding/scholarships',
+        requirements: {
+          gpa: 'Demonstrated high academic standing in previous secondary or undergraduate study',
+          ielts: 'IELTS 6.0 with no band score below 5.5 (or IELTS 6.5 for master\'s)',
+          gre: 'Not required',
+          papers: 'Digital creative portfolio (12–15 slides) and 500-word statement on creative vision',
+          references: 'One academic reference letter from art/media teacher'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4275,
+        title: 'Master of Arts in User Experience (UX) Design Studio Practicum',
+        type: 'Master\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'One-year intensive master\'s degree developing skills in interactive design prototypes, usability laboratory testing, and enterprise design strategy.',
+        funding: 'Eligible for UK Government Postgraduate Master\'s Loans up to £12,471',
+        fee: '£0',
+        tuition: '£9,500/year (UK Home) or £18,000/year (International)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.ravensbourne.ac.uk/study-here/postgraduate/ma-user-experience-design',
+        requirements: {
+          gpa: 'UK 2:1 honours degree or international equivalent in design, computing, psychology, or media',
+          ielts: 'IELTS 6.5 overall with minimum 6.0 in writing',
+          gre: 'Not required',
+          papers: 'UX design portfolio demonstrating problem-solving process and user wireframes',
+          references: 'Two letters from academic or industry supervisors'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4276,
+        title: 'ScreenSkills Select UK Broadcast Television and Film Production Traineeship',
+        type: 'Internship',
+        subject: 'arts-design',
+        subjects: ['arts-design'],
+        desc: 'Four-to-six month paid industry traineeship embedded within major UK broadcast channels (BBC, ITV, Channel 4) and London post-production facilities.',
+        funding: 'London Living Wage compensation (approx. £13.15 per hour)',
+        fee: '£0',
+        tuition: '£0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.ravensbourne.ac.uk/industry-and-partnerships',
+        requirements: {
+          gpa: 'Enrolled in 2nd or 3rd year of Digital Film Production with excellent attendance and project grades',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Showreel (maximum 3 minutes) demonstrating camera, sound, or editing competency',
+          references: 'Recommendation from Ravensbourne course director'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4277,
+        title: 'BA (Hons) Digital Film Production (ScreenSkills Select Accredited)',
+        type: 'Bachelor\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design'],
+        desc: 'Three-year practice-based filmmaking degree training directors, cinematographers, sound designers, and editors using state-of-the-art studio facilities.',
+        funding: 'Eligible for UK Student Finance tuition and maintenance loans',
+        fee: '£27.50 (UCAS fee)',
+        tuition: '£9,250/year (UK Home) or £17,500/year (International)',
+        deadline: '2027-01-29',
+        deadlineText: 'January 29, 2027',
+        source: 'https://www.ravensbourne.ac.uk/study-here/undergraduate/ba-hons-digital-film-production',
+        requirements: {
+          gpa: '112 UCAS tariff points from A-Levels, BTEC Extended Diploma (DMM), or IB Diploma',
+          ielts: 'IELTS 6.0 with no band less than 5.5',
+          gre: 'Not required',
+          papers: 'Portfolio review featuring short film excerpt, photography, or script sample',
+          references: 'One UCAS academic reference'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4278,
+        title: 'MSc Computer Science: Applied Creative AI Research Grant',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'arts-design'],
+        desc: 'One-year postgraduate conversion degree training graduates to build machine learning models for real-time generative art, music synthesis, and games.',
+        funding: 'Departmental scholarship grant of £2,000 for students with STEM undergraduate degrees',
+        fee: '£0',
+        tuition: '£9,500/year (UK Home) or £17,900/year (International)',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.ravensbourne.ac.uk/study-here/postgraduate/msc-computer-science',
+        requirements: {
+          gpa: 'UK 2:2 honours degree or foreign equivalent in any discipline',
+          ielts: 'IELTS 6.5 with at least 6.0 in each skill',
+          gre: 'Not required',
+          papers: 'Personal statement detailing motivation to enter creative computing',
+          references: 'One academic reference'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4279,
+        title: 'Epic Games Unreal Engine Virtual Production Summer Masterclass',
+        type: 'Course',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Three-week intensive masterclass on LED volume stages, real-time camera tracking, in-camera visual effects (ICVFX), and virtual cinematography in Unreal Engine 5.',
+        funding: 'Subsidized tuition for enrolled creative students and industry bursaries',
+        fee: '£0',
+        tuition: '£850 total course fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.ravensbourne.ac.uk/short-courses/virtual-production',
+        requirements: {
+          gpa: 'Prior familiarity with 3D animation, video production, or game engines',
+          ielts: 'English B2',
+          gre: 'Not required',
+          papers: 'Brief portfolio or showreel link',
+          references: 'Not required'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      },
+      {
+        id: 4280,
+        title: 'BA (Hons) Fashion: Digital Fashion and CLO 3D Innovation Practicum',
+        type: 'Bachelor\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design'],
+        desc: 'Three-year fashion degree training designers in sustainable physical garment creation alongside metaverse and digital avatar fashion prototyping.',
+        funding: 'British Fashion Council educational foundation grant eligibility',
+        fee: '£27.50',
+        tuition: '£9,250/year (UK Home) or £17,500/year (International)',
+        deadline: '2027-01-29',
+        deadlineText: 'January 29, 2027',
+        source: 'https://www.ravensbourne.ac.uk/study-here/undergraduate/ba-hons-fashion',
+        requirements: {
+          gpa: '112 UCAS points from A-Levels or Art & Design Foundation Diploma',
+          ielts: 'IELTS 6.0',
+          gre: 'Not required',
+          papers: 'Fashion design portfolio demonstrating sketching, fabrication experiments, and mood boards',
+          references: 'One academic reference'
+        },
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        location: 'Greenwich Peninsula, London, England, United Kingdom'
+      }
+    ],
+    researchers: [
+      {
+        id: 1851,
+        name: 'Prof. Andy Cook',
+        title: 'Vice Chancellor & Chief Executive Officer',
+        subject: 'arts-design',
+        topics: ['Creative Higher Education Policy', 'Industry-Integrated Learning', 'Digital Design Pedagogies'],
+        summary: 'Higher education executive leading Ravensbourne’s expansion in digital creative technologies, driving institutional collaborations with London’s tech city and European design hubs.',
+        source: 'https://www.ravensbourne.ac.uk/about-us/leadership-and-governance',
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1852,
+        name: 'Dr. Derek Yates',
+        title: 'Associate Dean of Design & Principal Fellow in Visual Communication',
+        subject: 'arts-design',
+        topics: ['Design Systems for Social Impact', 'Co-Creation Methodologies', 'Speculative Graphic Design'],
+        summary: 'Graphic design scholar and author investigating collaborative design models, cross-disciplinary design education, and the impact of automation on visual authorship.',
+        source: 'https://www.ravensbourne.ac.uk/staff/derek-yates',
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1853,
+        name: 'Dr. Carl H Smith',
+        title: 'Director of the Learning Technology Research Centre & Creative Computing Specialist',
+        subject: 'computer-science',
+        topics: ['Spatial Computing', 'Hybrid Reality Learning Environments', 'Augmented Human Cognition'],
+        summary: 'Pioneering researcher in perceptual technology and augmented reality, analyzing how immersive media and spatial computing transform memory retention and spatial comprehension.',
+        source: 'https://www.ravensbourne.ac.uk/staff/carl-smith',
+        university: 'Ravensbourne University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 20. UK - Regent's University London (Row 1288)
+  {
+    slug: 'regents-university-london',
+    institution: 'Regent\'s University London',
+    shortName: 'Regent\'s',
+    countryId: 'uk',
+    countryLabel: 'United Kingdom',
+    location: 'Regent\'s Park, London, England, United Kingdom',
+    website: 'https://www.regents.ac.uk',
+    sourceRow: 1288,
+    badge: 'Premier International Cosmopolitan University in Royal Regent\'s Park',
+    lead: 'Regent\'s University London is a premier private non-profit cosmopolitan university situated within 11 acres of royal private gardens in Regent’s Park, renowned for international business, luxury brand management, psychotherapy, and acting.',
+    overview: 'Established in 1984 on the historic site of Bedford College (the first higher education college for women in the UK, founded in 1849), Regent’s University London is one of the most culturally diverse independent universities in the world. With students representing over 140 nationalities, Regent\'s provides an intimate, boutique learning experience characterized by small class sizes, high executive contact, and a global alumni network spanning royalty, business tycoons, and creative directors. Programs are centered in the European Business School London and the School of Psychotherapy and Psychology.',
+    quickFacts: {
+      type: 'Private Non-Profit Independent University (Royal Chartered Campus)',
+      campus: '11-Acre Historic Campus in Royal Regent\'s Park, Central London',
+      accreditation: 'Privy Council Taught Degree Awarding Powers & British Psychological Society (BPS)',
+      admissions: 'Direct Online Portal and UCAS (Institution Code R18)',
+      language: 'English (primary instruction)',
+      aid: 'Regent\'s Royal Park Scholarships, Global Business Merit Awards, Alumni Discretionary Bursaries'
+    },
+    strengths: [
+      'Luxury Brand Management & Global Fashion Marketing',
+      'International Business, Venture Entrepreneurship & Private Wealth',
+      'Integrative Psychotherapy, Counseling Psychology & Systemic Therapy',
+      'Screenwriting, Film Directing & Acting for Stage and Screen'
+    ],
+    programs: [
+      { title: 'MA Luxury Brand Management', level: 'Master\'s', desc: 'World-renowned master\'s program analyzing luxury value creation, heritage brand strategy, omnichannel clienteling, and sustainable craftsmanship in Mayfair fashion houses.' },
+      { title: 'BA (Hons) International Business', level: 'Bachelor\'s', desc: 'Four-year degree incorporating integrated study abroad terms at partner business schools across Europe, Asia, and the Americas, with mandatory foreign language mastery.' },
+      { title: 'Doctorate in Counseling Psychology (DPsych)', level: 'Doctorate', desc: 'HCPC-approved and BPS-accredited professional doctorate qualifying counseling psychologists through 450 hours of supervised clinical client therapy.' },
+      { title: 'BA (Hons) Acting for Stage and Screen', level: 'Bachelor\'s', desc: 'Intensive conservatory-style acting program training actors in voice, stage combat, Stanislavski/Meisner techniques, and camera performance.' }
+    ],
+    opportunities: [
+      {
+        id: 4281,
+        title: 'Regent\'s University London Global Leadership Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Prestigious undergraduate merit scholarship awarded to incoming international students who display exceptional leadership and entrepreneurship.',
+        funding: '£4,000 per year tuition discount for all three or four years of undergraduate study (up to £16,000 total)',
+        fee: '£0 (direct application) or £27.50 (UCAS)',
+        tuition: '£21,500/year (standard undergraduate tuition)',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.regents.ac.uk/study/scholarships-funding-and-fees',
+        requirements: {
+          gpa: 'Equivalent to ABB at A-Level (or 32 IB Diploma points, or 3.4/4.0 GPA)',
+          ielts: 'IELTS 6.5 overall with minimum 5.5 in each component',
+          gre: 'Not required',
+          papers: '500-word statement demonstrating entrepreneurial initiative or community impact',
+          references: 'One letter of recommendation from an educator or employer'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4282,
+        title: 'Master of Arts in Luxury Brand Management Mayfair Industry Practicum',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'arts-design'],
+        desc: 'One-year specialist master\'s degree featuring live consulting projects with luxury fashion houses, fine watchmakers, and premium automotive brands.',
+        funding: 'Eligible for Regent\'s Postgraduate Excellence Awards up to £3,000',
+        fee: '£0',
+        tuition: '£26,000 total master tuition',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.regents.ac.uk/programmes/postgraduate/ma-luxury-brand-management',
+        requirements: {
+          gpa: 'UK 2:1 honours degree or international equivalent in business, marketing, or humanities',
+          ielts: 'IELTS 6.5 with at least 6.0 in writing and speaking',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and 500-word essay analyzing a contemporary luxury market disruption',
+          references: 'Two letters of recommendation'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4283,
+        title: 'Doctorate in Counseling Psychology (DPsych) Clinical Traineeship',
+        type: 'PhD',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Three-year practitioner doctorate qualifying graduates for HCPC registration as Practitioner Psychologists, with clinical placements across NHS trusts and private clinics.',
+        funding: 'Subsidized clinical supervision and NHS placement travel expense reimbursements',
+        fee: '£50',
+        tuition: '£14,500/year',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.regents.ac.uk/programmes/postgraduate/doctorate-in-counselling-psychology',
+        requirements: {
+          gpa: 'UK 2:1 honours degree in psychology conferring Graduate Basis for Chartered Membership (GBC) with the BPS',
+          ielts: 'IELTS 7.0 with no band lower than 7.0',
+          gre: 'Not required',
+          papers: 'Proof of at least 100 hours of face-to-face counseling skills practice and clinical case essay',
+          references: 'Two professional references, including one clinical supervisor'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4284,
+        title: 'BA (Hons) International Business with Global Dual-Campus Mobility',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-year degree featuring two full semesters abroad at partner institutions in Madrid, Milan, Paris, or Tokyo, combined with foreign language immersion.',
+        funding: 'Erasmus+ and Turing Scheme travel and living maintenance grants',
+        fee: '£0',
+        tuition: '£21,500/year',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.regents.ac.uk/programmes/undergraduate/ba-hons-international-business',
+        requirements: {
+          gpa: 'Three A-Levels at BBB or IB Diploma 30 points',
+          ielts: 'IELTS 6.0 overall',
+          gre: 'Not required',
+          papers: 'Personal statement outlining international career aspirations and language study goals',
+          references: 'One academic reference letter'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4285,
+        title: 'Central London Private Equity and Family Office Summer Internship',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Eight-week summer analyst internship with boutique wealth management and venture capital firms in Mayfair and the City of London.',
+        funding: '£550 weekly corporate allowance',
+        fee: '£0',
+        tuition: '£0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.regents.ac.uk/careers-and-employability',
+        requirements: {
+          gpa: 'Second or final-year student in business, finance, or economics with 2:1 equivalent GPA',
+          ielts: 'Fluent English',
+          gre: 'Not required',
+          papers: 'Financial modeling resume and commercial awareness pitch deck',
+          references: 'Careers office recommendation'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4286,
+        title: 'BA (Hons) Acting for Stage and Screen Conservatory Showcase',
+        type: 'Bachelor\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design'],
+        desc: 'Three-year conservatory performance training terminating in a West End industry showcase attended by casting directors, talent agents, and producers.',
+        funding: 'Regent\'s Acting Talent bursaries up to £2,500/year for audition winners',
+        fee: '£0',
+        tuition: '£21,500/year',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.regents.ac.uk/programmes/undergraduate/ba-hons-acting-for-stage-and-screen',
+        requirements: {
+          gpa: 'Two A-Levels or equivalent international secondary school credential',
+          ielts: 'IELTS 6.5 with at least 6.0 in speaking',
+          gre: 'Not required',
+          papers: 'Live or recorded video audition featuring two contrasting monologues (one classical, one contemporary)',
+          references: 'One drama coach reference'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      },
+      {
+        id: 4287,
+        title: 'Executive Masterclass in Sustainable Luxury Governance and ESG Curation',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'arts-design'],
+        desc: 'Six-week executive certificate examining circular fashion supply chains, ethical diamond and gold sourcing, and carbon neutral certification in luxury retail.',
+        funding: 'Corporate executive sponsorship eligible',
+        fee: '£35',
+        tuition: '£1,650 total certificate tuition',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.regents.ac.uk/short-courses/luxury-esg',
+        requirements: {
+          gpa: 'Undergraduate degree or equivalent industry experience in retail, fashion, or hospitality',
+          ielts: 'English proficiency',
+          gre: 'Not required',
+          papers: 'Short statement of corporate development needs',
+          references: 'Not required'
+        },
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        location: 'Regent\'s Park, London, England, United Kingdom'
+      }
+    ],
+    researchers: [
+      {
+        id: 1854,
+        name: 'Prof. Geoff Smith',
+        title: 'Vice-Chancellor and Chief Executive Officer',
+        subject: 'social-sciences',
+        topics: ['Transnational Higher Education', 'Creative Entrepreneurship', 'Digital Learning Architectures'],
+        summary: 'Higher education executive and creative industries scholar championing cosmopolitan cross-border degree mobility and student venture incubation within prime London ecosystems.',
+        source: 'https://www.regents.ac.uk/about/leadership/geoff-smith',
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1855,
+        name: 'Prof. Helen Xanthaki',
+        title: 'Dean of the Faculty of Business and Law & Professor of Law',
+        subject: 'social-sciences',
+        topics: ['Legislative Drafting', 'European Commercial Law', 'Regulatory Clarity & Governance'],
+        summary: 'Internationally renowned legal scholar and legislative drafter advising international parliaments, the European Parliament, and Commonwealth bodies on statutory interpretation.',
+        source: 'https://www.regents.ac.uk/about/our-people/helen-xanthaki',
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1856,
+        name: 'Prof. Paul Zeal',
+        title: 'Senior Lecturer in Psychoanalysis and Existential Psychotherapy',
+        subject: 'social-sciences',
+        topics: ['Existential-Phenomenological Therapy', 'Lacanian Psychoanalysis', 'Trauma and Subjectivity'],
+        summary: 'Psychotherapist and academic researcher analyzing clinical existential anxiety, unconscious linguistic structures, and therapeutic boundary ethics in contemporary clinical psychology.',
+        source: 'https://www.regents.ac.uk/about/our-people/paul-zeal',
+        university: 'Regent\'s University London',
+        country: 'United Kingdom',
+        recruiting: 'Not verified'
+      }
+    ]
+  }
+];

@@ -1,0 +1,2435 @@
+// Batch 39 Data - Part 1 (Universities 1 to 10: Canada 4, Germany 5, Italy 1)
+// Opportunities: IDs 4148 to 4217 (70 opps)
+// Researchers: IDs 1797 to 1826 (30 researchers)
+
+export const batch39Part1Universities = [
+  // 1. Canada - Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ) (Row 37)
+  {
+    slug: 'institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec-iucpq',
+    institution: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+    shortName: 'IUCPQ - Université Laval',
+    countryId: 'canada',
+    countryLabel: 'Canada',
+    location: 'Quebec City, Quebec, Canada',
+    website: 'https://iucpq.qc.ca',
+    sourceRow: 37,
+    badge: 'World-Renowned Cardiopulmonary & Obesity Research Institute',
+    lead: 'The Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ), affiliated with Université Laval, is an internationally acclaimed specialized university research hospital dedicated to cardiology, respirology, and obesity-metabolism science.',
+    overview: 'Designated as a world-leading suprarregional specialized health center, IUCPQ is affiliated with Université Laval and serves as a premier research and clinical training hub in North America. The IUCPQ Research Centre hosts more than 70 principal investigators, 850 clinicians, and hundreds of graduate and post-doctoral trainees. Its breakthroughs in transcatheter aortic valve replacement (TAVR), bariatric metabolic surgery, sleep apnea biomechanics, and cardiopulmonary genomics have established international standards of care.',
+    quickFacts: {
+      type: 'Specialized University Hospital & Research Institute (Université Laval)',
+      campus: 'Sainte-Foy Medical Complex, Quebec City',
+      accreditation: 'Agrément Canada & Ministère de la Santé et des Services Sociaux du Québec',
+      admissions: 'Direct admission through Université Laval Faculté de Médecine',
+      language: 'French (clinical & institutional) and English (laboratory research & publications)',
+      aid: 'IUCPQ Foundation Fellowships, FRQS, CIHR, and Doctoral Training Stipends'
+    },
+    strengths: [
+      'Cardiopulmonary Hemodynamics & Interventional Structural Heart Care',
+      'Translational Obesity, Bariatric Surgery & Type 2 Diabetes Biology',
+      'Chronic Obstructive Pulmonary Disease (COPD) & Asthma Genomics',
+      'Cardiometabolic Biomarkers & Advanced Thoracic Imaging'
+    ],
+    programs: [
+      { title: 'Doctorat en médecine moléculaire et cardiovasculaire (PhD Molecular Medicine)', level: 'Doctorate', desc: 'Advanced doctoral research training in cardiac lipidology, vascular calcification, and post-infarction tissue remodeling.' },
+      { title: 'Maîtrise en santé respiratoire et sciences cliniques (MSc Respiratory Health)', level: 'Master\'s', desc: 'Graduate clinical and experimental science program focusing on ventilatory physics, lung microbiome, and pulmonary hypertension.' },
+      { title: 'Postdoctoral Fellowship in Bariatric and Metabolic Surgery', level: 'Postdoctoral', desc: 'High-volume clinical and translational laboratory fellowship studying gut incretin mechanisms and metabolic remission.' },
+      { title: 'Fellowship in Advanced Structural Heart Interventions & TAVR', level: 'Clinical Fellowship', desc: 'Specialized post-residency fellowship in catheter-based cardiac interventions and echocardiographic guidance.' }
+    ],
+    opportunities: [
+      {
+        id: 4148,
+        title: 'IUCPQ Foundation Doctoral Excellence Fellowship in Cardiovascular Science',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Fully funded four-year doctoral research fellowship at the IUCPQ Research Centre investigating molecular pathways of vascular stiffening and cardiac calcification.',
+        funding: 'Full tuition coverage plus CAD $32,000 annual living stipend and conference travel allowance',
+        fee: 'CAD $95 (Université Laval graduate application fee)',
+        tuition: 'CAD $4,400/year (Quebec resident) or CAD $19,800/year (International, differential fee waivers available)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://iucpq.qc.ca/fr/recherche',
+        requirements: {
+          gpa: '3.3/4.0 or French grade mention bien in biochemistry, pharmacology, or medicine',
+          ielts: 'IELTS 6.5 or TFI (Test de français international) 750 for clinical components',
+          gre: 'Not required; research master thesis evaluated',
+          papers: 'Master\'s thesis or published co-authored article in cardiopulmonary science',
+          references: 'Three academic letters of recommendation evaluating research capacity'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4149,
+        title: 'Postdoctoral Research Fellowship in Obesity-Induced Cardiometabolic Disease',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Two-year postdoctoral fellowship at the Chair in Obesity and Metabolic Complications exploring visceral adiposity biomarkers and insulin resistance.',
+        funding: 'CAD $55,000 annual taxable stipend plus institutional benefits and research operating budget',
+        fee: 'CAD $0 (direct research committee application)',
+        tuition: 'CAD $0 (salaried fellowship appointment)',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://iucpq.qc.ca/fr/recherche/axes-de-recherche/obesite-et-metabolisme',
+        requirements: {
+          gpa: 'Completed PhD or MD within the preceding four years',
+          ielts: 'Proficiency in English or French for academic writing',
+          gre: 'Not required',
+          papers: 'Minimum two peer-reviewed first-author publications in metabolism or endocrinology',
+          references: 'Three professional letters from dissertation mentors'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4150,
+        title: 'MSc in Experimental Medicine: Pulmonary Hypertension & Respiratory Physiology',
+        type: 'Master\'s',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'Two-year thesis-based Master of Science program focusing on pulmonary arterial remodeling and hemodynamics in specialized animal and tissue models.',
+        funding: 'Guaranteed minimum departmental stipend of CAD $23,000/year',
+        fee: 'CAD $95',
+        tuition: 'CAD $3,800/year (Quebec resident) or CAD $17,500/year (International)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://iucpq.qc.ca/fr/recherche/formation',
+        requirements: {
+          gpa: '3.0/4.0 in biology, physiology, kinesiology, or related life sciences',
+          ielts: 'IELTS 6.5 or equivalent French proficiency',
+          gre: 'Not required',
+          papers: 'Undergraduate capstone research report or laboratory experience statement',
+          references: 'Two academic reference letters'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4151,
+        title: 'CIHR Doctoral Trainee Award in Thoracic Surgery and Lung Biobanking',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Competitive doctoral studentship supported by the Canadian Institutes of Health Research (CIHR) utilizing the world’s largest respiratory tissue biobank.',
+        funding: 'CAD $35,000 per year for up to three years',
+        fee: 'CAD $0',
+        tuition: 'CAD $4,400/year covered by faculty matching grants',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://iucpq.qc.ca/fr/recherche/biobanque',
+        requirements: {
+          gpa: '3.5/4.0 cumulative graduate GPA',
+          ielts: 'IELTS 7.0 or institutional French equivalence',
+          gre: 'Not required',
+          papers: 'Demonstrated experience in tissue histology, genomics, or biobanking ethics',
+          references: 'Three letters of recommendation including supervisor endorsement'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4152,
+        title: 'Advanced Clinical Fellowship in Transcatheter Valve Interventions',
+        type: 'Fellowship',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'One-year clinical and translational cardiology fellowship offering intensive training in complex TAVR, MitraClip procedures, and clinical trial coordination.',
+        funding: 'CAD $72,000 annual clinical stipend',
+        fee: 'CAD $150 (Quebec College of Physicians postgraduate verification fee)',
+        tuition: 'CAD $0 (clinical fellowship appointment)',
+        deadline: '2026-12-31',
+        deadlineText: 'December 31, 2026',
+        source: 'https://iucpq.qc.ca/fr/soins-et-services/cardiologie-interventionnelle',
+        requirements: {
+          gpa: 'MD degree with board certification or eligibility in adult cardiology',
+          ielts: 'Proof of English and working French medical communication skills',
+          gre: 'Not required; medical licensing exams verified',
+          papers: 'Published clinical abstracts in cardiology or cardiovascular imaging',
+          references: 'Three letters from cardiology program director and catheterization laboratory directors'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4153,
+        title: 'Graduate Practicum in Pulmonary Function Testing & Sleep Medicine',
+        type: 'Course',
+        subject: 'biology',
+        subjects: ['biology', 'physics'],
+        desc: 'Six-month intensive graduate hospital practicum in respiratory physiology, polysomnography scoring, and continuous positive airway pressure titration.',
+        funding: 'Subsidized hospital training with CAD $1,500 monthly living allowance',
+        fee: 'CAD $50',
+        tuition: 'CAD $1,200 total program fee',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://iucpq.qc.ca/fr/soins-et-services/pneumologie',
+        requirements: {
+          gpa: 'Bachelor\'s degree in kinesiology, nursing, or respiratory therapy',
+          ielts: 'IELTS 6.5 or DELF B2',
+          gre: 'Not required',
+          papers: 'Statement of career interest in sleep laboratory medicine',
+          references: 'Two professional supervisor references'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      },
+      {
+        id: 4154,
+        title: 'Undergraduate Summer Research Internship in Cardiopulmonary Cell Biology',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Twelve-week funded summer laboratory placement for undergraduate students in biochemistry or physiology working with leading IUCPQ research teams.',
+        funding: 'CAD $6,500 total stipend for 12 weeks',
+        fee: 'CAD $0',
+        tuition: 'CAD $0',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://iucpq.qc.ca/fr/recherche/stages-ete',
+        requirements: {
+          gpa: 'Minimum 3.2/4.0 in completed undergraduate courses',
+          ielts: 'Working proficiency in French or English',
+          gre: 'Not required',
+          papers: 'Resume detailing completed wet laboratory course modules',
+          references: 'One academic reference letter from a university science professor'
+        },
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        location: 'Quebec City, Quebec, Canada'
+      }
+    ],
+    researchers: [
+      {
+        id: 1797,
+        name: 'Prof. Josep Rodés-Cabau',
+        title: 'Senior Clinical Investigator & Professor of Medicine, Chair in Structural Heart Diseases',
+        subject: 'biology',
+        topics: ['Transcatheter Aortic Valve Replacement (TAVR)', 'Structural Heart Disease', 'Interventional Cardiology'],
+        summary: 'Pioneering cardiologist and world authority on transcatheter valve replacement, leading global clinical trials evaluating aortic bioprostheses durability and stroke prevention.',
+        source: 'https://iucpq.qc.ca/fr/recherche/chercheurs/josep-rodes-cabau',
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1798,
+        name: 'Prof. André Tchernof',
+        title: 'Research Director & Professor of Nutrition and Endocrinology',
+        subject: 'biology',
+        topics: ['Adipose Tissue Biology', 'Visceral Obesity', 'Metabolic Surgery Mechanisms'],
+        summary: 'Leading metabolism researcher investigating adipose tissue cellular heterogeneity, sex steroid metabolism in fat depots, and metabolic outcomes of bariatric surgery.',
+        source: 'https://iucpq.qc.ca/fr/recherche/chercheurs/andre-tchernof',
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1799,
+        name: 'Prof. Yohan Bossé',
+        title: 'Full Professor of Molecular Medicine & Canada Research Chair in Respiratory Genomics',
+        subject: 'biology',
+        topics: ['Respiratory Genomics', 'COPD Genetic Architecture', 'Expression Quantitative Trait Loci (eQTL)'],
+        summary: 'Genomic scientist unraveling the genetic and epigenetic determinants of chronic lung diseases and thoracic tumors using multi-omics data from the IUCPQ biobank.',
+        source: 'https://iucpq.qc.ca/fr/recherche/chercheurs/yohan-bosse',
+        university: 'Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 2. Canada - NorQuest College (Row 62)
+  {
+    slug: 'norquest-college-edmonton',
+    institution: 'NorQuest College',
+    shortName: 'NorQuest',
+    countryId: 'canada',
+    countryLabel: 'Canada',
+    location: 'Edmonton, Alberta, Canada',
+    website: 'https://www.norquest.ca',
+    sourceRow: 62,
+    badge: 'Premier Public Comprehensive Community College of Alberta',
+    lead: 'NorQuest College is the largest publicly funded comprehensive community college in the Edmonton region, serving more than 21,000 learners in practical healthcare, business technology, community studies, and applied health research.',
+    overview: 'Established in 1965 in the heart of downtown Edmonton, NorQuest College plays a pivotal role in Alberta\'s workforce development and post-secondary educational landscape. NorQuest operates the state-of-the-art Singhmar Centre for Learning, housing high-fidelity healthcare simulation suites, the Colbourne Institute for Inclusive Leadership, and the NorQuest Health Research and Applied Innovation Center. The college emphasizes experiential learning, intercultural competencies, and immediate employment pathways across interdisciplinary health, digital media, business management, and foundational sciences.',
+    quickFacts: {
+      type: 'Public Comprehensive Community College',
+      campus: 'Downtown Edmonton Singhmar Centre for Learning & Wetaskiwin Campus',
+      accreditation: 'Alberta Advanced Education & Colleges and Institutes Canada (CICan)',
+      admissions: 'ApplyAlberta and NorQuest Direct International Admissions Portal',
+      language: 'English (primary instruction)',
+      aid: 'NorQuest Excellence Scholarships, Alberta Student Aid, and Indigenous Learner Bursaries'
+    },
+    strengths: [
+      'Practical Nursing, Interdisciplinary Health & Allied Clinical Care',
+      'Community Mental Health, Social Work & Addictions Recovery',
+      'Applied Cybersecurity, Cloud Foundations & Business Analytics',
+      'Inclusive Leadership & Applied Intercultural Workplace Innovation'
+    ],
+    programs: [
+      { title: 'Diploma in Practical Nursing', level: 'Diploma', desc: 'Two-year clinical diploma accredited by the College of Licensed Practical Nurses of Alberta (CLPNA) with over 900 hours of acute and community practicum.' },
+      { title: 'Diploma in Interdisciplinary Therapy Assistant', level: 'Diploma', desc: 'Comprehensive two-year credential preparing graduates in physiotherapy, occupational therapy, and speech-language pathology assistance.' },
+      { title: 'Diploma in Machine Learning Analyst & Applied AI', level: 'Diploma', desc: 'Applied computing diploma focused on automated data pipelines, predictive models, and cloud machine learning deployment.' },
+      { title: 'Certificate in Health Care Aide (HCA)', level: 'Certificate', desc: 'Government-standardized clinical program providing essential care skills in long-term care and home-care settings.' }
+    ],
+    opportunities: [
+      {
+        id: 4155,
+        title: 'NorQuest President\'s International Student Excellence Scholarship',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'computer-science'],
+        desc: 'Merit-based entrance scholarship recognizing high-achieving international students enrolling in full-time diploma programs at NorQuest College.',
+        funding: 'CAD $5,000 tuition credit awarded upon successful registration',
+        fee: 'CAD $155 (NorQuest international application fee)',
+        tuition: 'CAD $16,800/year (standard international diploma tuition)',
+        deadline: '2026-11-30',
+        deadlineText: 'November 30, 2026',
+        source: 'https://www.norquest.ca/financial-aid/awards-scholarships.aspx',
+        requirements: {
+          gpa: '80% or 3.2/4.0 minimum equivalent in secondary school graduation coursework',
+          ielts: 'IELTS 6.5 overall with no band score below 6.0',
+          gre: 'Not required',
+          papers: '500-word personal statement detailing community leadership and career aspirations',
+          references: 'Two letters from secondary school teachers or community leaders'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4156,
+        title: 'Diploma in Practical Nursing (CLPNA-Accredited Healthcare Training)',
+        type: 'Course',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Rigorous two-year healthcare program combining simulation laboratory learning with extensive clinical rotations across Alberta Health Services facilities.',
+        funding: 'Eligible for Alberta Student Aid loans, grants, and provincial rural nursing incentives',
+        fee: 'CAD $155',
+        tuition: 'CAD $7,400/year (Domestic) or CAD $18,900/year (International)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.norquest.ca/programs-courses/programs/practical-nursing.aspx',
+        requirements: {
+          gpa: 'Minimum 60% in Grade 12 English 30-1/30-2, Math 20-1/20-2, and Biology 30',
+          ielts: 'IELTS Academic overall 6.5 (Listening 7.5, Speaking 7.0, Reading 6.5, Writing 6.5)',
+          gre: 'Not required',
+          papers: 'Police information check with vulnerable sector search and immunization verification',
+          references: 'Two professional references'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4157,
+        title: 'Diploma in Machine Learning Analyst: Cloud AI Deployment Practicum',
+        type: 'Course',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'mathematics'],
+        desc: 'Practical two-year technical program equipping students with Python, SQL, computer vision, and NLP frameworks for enterprise digital automation.',
+        funding: 'Work-integrated learning bursaries of CAD $2,000 for approved industry capstone projects',
+        fee: 'CAD $155',
+        tuition: 'CAD $6,900/year (Domestic) or CAD $17,200/year (International)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.norquest.ca/programs-courses/programs/machine-learning-analyst.aspx',
+        requirements: {
+          gpa: '65% minimum in high school Grade 12 Math 30-1 or 30-2',
+          ielts: 'IELTS 6.0 with no band lower than 5.5',
+          gre: 'Not required',
+          papers: 'Statement of technological intent and programming background',
+          references: 'One academic reference'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4158,
+        title: 'Colbourne Institute Applied Research Award in Workplace Equity',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Annual research studentship supporting applied projects in diversity, equity, and inclusion across Canadian healthcare and corporate environments.',
+        funding: 'CAD $3,500 direct grant plus mentorship by senior research associates',
+        fee: 'CAD $0',
+        tuition: 'CAD $0 (supplemental bursary grant)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.norquest.ca/about-us/colbourne-institute-for-inclusive-leadership.aspx',
+        requirements: {
+          gpa: 'Enrolled in second year of a diploma program with minimum 3.0 GPA',
+          ielts: 'Demonstrated English proficiency in coursework',
+          gre: 'Not required',
+          papers: '750-word proposal addressing intercultural workplace dynamics or neurodiversity inclusion',
+          references: 'One faculty recommendation'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4159,
+        title: 'Community Mental Health Worker Diploma Program',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Two-year human services diploma focused on trauma-informed care, harm reduction strategies, crisis intervention, and suicide prevention.',
+        funding: 'Government of Alberta tuition support grants up to CAD $4,000 for eligible students',
+        fee: 'CAD $155',
+        tuition: 'CAD $5,800/year (Domestic) or CAD $15,600/year (International)',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.norquest.ca/programs-courses/programs/community-mental-health-worker.aspx',
+        requirements: {
+          gpa: 'Minimum 55% in Grade 12 English 30-1 or 60% in English 30-2',
+          ielts: 'IELTS 6.5 overall with no score below 6.0',
+          gre: 'Not required',
+          papers: 'Clear criminal record check and personal statement of professional ethics',
+          references: 'Two letters from former employers or volunteer supervisors'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4160,
+        title: 'Singhmar Innovation Hub Health Simulation Student Internship',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'engineering'],
+        desc: 'Paid eight-month student internship supporting the operations of high-fidelity mannequins, virtual reality headsets, and clinical simulation scenarios.',
+        funding: 'CAD $21.50 per hour for 15 hours per week during academic terms',
+        fee: 'CAD $0',
+        tuition: 'CAD $0',
+        deadline: '2026-11-20',
+        deadlineText: 'November 20, 2026',
+        source: 'https://www.norquest.ca/about-us/facilities/singhmar-centre-for-learning.aspx',
+        requirements: {
+          gpa: 'Full-time student in health or IT programs with minimum 2.8 GPA',
+          ielts: 'Fluency in English',
+          gre: 'Not required',
+          papers: 'Resume detailing technical aptitude or healthcare simulation experience',
+          references: 'One NorQuest instructor endorsement'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      },
+      {
+        id: 4161,
+        title: 'Settlement Studies & Community Development Certificate',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'One-year specialized certificate training professionals to assist newcomers, refugees, and immigrants through case management and systemic advocacy.',
+        funding: 'Immigration and settlement sector bursaries up to CAD $2,500',
+        fee: 'CAD $155',
+        tuition: 'CAD $5,100 total program tuition (Domestic) or CAD $14,200 (International)',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.norquest.ca/programs-courses/programs/settlement-studies.aspx',
+        requirements: {
+          gpa: 'Successful completion of high school with English 30-1 or 30-2',
+          ielts: 'IELTS 6.0 overall',
+          gre: 'Not required',
+          papers: 'Brief narrative explaining commitment to immigrant settlement sector',
+          references: 'One reference from a community agency or educator'
+        },
+        university: 'NorQuest College',
+        country: 'Canada',
+        location: 'Edmonton, Alberta, Canada'
+      }
+    ],
+    researchers: [
+      {
+        id: 1800,
+        name: 'Dr. Jennifer Mah',
+        title: 'Dean of Health Studies & Principal Investigator in Clinical Simulation Education',
+        subject: 'biology',
+        topics: ['Clinical Simulation Pedagogy', 'Nursing Competency Assessment', 'Interprofessional Healthcare Collaboration'],
+        summary: 'Healthcare educator and researcher investigating patient safety outcomes following interprofessional high-fidelity simulation training for practical nurses and healthcare aides.',
+        source: 'https://www.norquest.ca/about-us/leadership/jennifer-mah.aspx',
+        university: 'NorQuest College',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1801,
+        name: 'Dr. Michael Schmitt',
+        title: 'Director of Applied Research & Innovation',
+        subject: 'engineering',
+        topics: ['Applied Technology Translation', 'Community Health Data Informatics', 'Social Innovation Ecosystems'],
+        summary: 'Research executive directing college-industry collaborative projects, bridging local enterprises with technical faculty in machine learning, workforce analytics, and smart healthcare devices.',
+        source: 'https://www.norquest.ca/research-innovation/applied-research.aspx',
+        university: 'NorQuest College',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1802,
+        name: 'Prof. Todd Odgers',
+        title: 'Associate Dean & Executive Director, Colbourne Institute for Inclusive Leadership',
+        subject: 'social-sciences',
+        topics: ['Intercultural Competence in Healthcare', 'Workplace Diversity Frameworks', 'Inclusive Leadership Pedagogy'],
+        summary: 'Pioneering researcher in organizational culture and intercultural communication, designing assessment frameworks implemented across hospital networks and public sector agencies.',
+        source: 'https://www.norquest.ca/about-us/colbourne-institute-for-inclusive-leadership/todd-odgers.aspx',
+        university: 'NorQuest College',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 3. Canada - Northeastern University Toronto (Row 63)
+  {
+    slug: 'northeastern-university-toronto',
+    institution: 'Northeastern University Toronto',
+    shortName: 'Northeastern Toronto',
+    countryId: 'canada',
+    countryLabel: 'Canada',
+    location: 'Toronto, Ontario, Canada',
+    website: 'https://toronto.northeastern.edu',
+    sourceRow: 63,
+    badge: 'Premier Global Research University Canadian Campus',
+    lead: 'Northeastern University Toronto is the Canadian graduate research campus of top-tier global research institution Northeastern University, situated in the First Canadian Place financial core and delivering industry-aligned master’s degrees and cooperative research.',
+    overview: 'Northeastern University Toronto expands Northeastern’s world-renowned cooperative education (co-op) ecosystem into Canada’s premier commercial and technological capital. Located in downtown Toronto, the campus offers accredited master\'s degrees recognized by the Ontario Ministry of Colleges and Universities. Degree programs span Computer Science (Align MSCS), Project Management, Regulatory Affairs for Drugs and Biologics, and Information Systems. Trainees engage in experiential research alongside leading multinational technology firms, hospital consortia, and venture funds in the Toronto-Waterloo Innovation Corridor.',
+    quickFacts: {
+      type: 'Private Non-Profit Global Research University Campus (Ontario Accredited)',
+      campus: 'First Canadian Place, Downtown Toronto Financial District',
+      accreditation: 'Ontario Postsecondary Education Quality Assessment Board (PEQAB) & NECHE (USA)',
+      admissions: 'Northeastern Graduate Application Portal',
+      language: 'English (primary instruction)',
+      aid: 'Toronto Dean\'s Scholarship, Global Graduate Fellowship, and Paid Industry Co-op terms'
+    },
+    strengths: [
+      'Computer Science (Align MSCS for Non-CS Majors) & AI Systems',
+      'Regulatory Affairs for Medical Devices, Biologics & Pharmaceuticals',
+      'Experiential Co-op Placements with Toronto-Waterloo Tech Enterprises',
+      'Agile Project Management, Information Systems & Enterprise Cloud'
+    ],
+    programs: [
+      { title: 'Master of Science in Computer Science (Align MSCS)', level: 'Master\'s', desc: 'Transformative master\'s curriculum allowing graduates from non-computer science disciplines to transition into software engineering and machine learning through intensive bridge modules and paid co-op.' },
+      { title: 'Master of Science in Regulatory Affairs for Drugs, Biologics, and Medical Devices', level: 'Master\'s', desc: 'Industry-aligned graduate credential exploring global health authority regulations (Health Canada, FDA, EMA), clinical trial protocols, and post-market safety.' },
+      { title: 'Master of Science in Project Management', level: 'Master\'s', desc: 'PMI-accredited master\'s degree developing skills in agile project delivery, enterprise risk analysis, and technology governance.' },
+      { title: 'Graduate Certificate in Cloud Software Engineering', level: 'Certificate', desc: 'Targeted four-course certificate focusing on distributed microservices, containerization, and enterprise cloud architectures.' }
+    ],
+    opportunities: [
+      {
+        id: 4162,
+        title: 'Northeastern Toronto Dean\'s Global Merit Scholarship',
+        type: 'Scholarship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Merit scholarship awarded automatically to exceptional domestic and international applicants admitted to full-time master\'s programs at Northeastern Toronto.',
+        funding: 'CAD $5,000 to CAD $10,000 tuition credit disbursed across academic semesters',
+        fee: 'CAD $100 (application fee waivers offered at official webinars)',
+        tuition: 'CAD $24,500/year (standard graduate tuition)',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://toronto.northeastern.edu/admissions/tuition-scholarships/',
+        requirements: {
+          gpa: 'Minimum 3.4/4.0 in accredited undergraduate degree',
+          ielts: 'IELTS 7.0 overall with no sub-score below 6.5, or TOEFL iBT 100',
+          gre: 'Optional / waived for applicants with strong quantitative background',
+          papers: 'Statement of purpose highlighting alignment with cooperative education model',
+          references: 'Two academic or professional recommendation letters'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4163,
+        title: 'Align MSCS Fellowship for STEM Diversity and Career Changers',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'mathematics'],
+        desc: 'Specialized funding package for students entering the Align Master of Science in Computer Science program from non-technical undergraduate disciplines.',
+        funding: 'CAD $7,500 tuition remission plus guaranteed access to paid cooperative work terms (earning CAD $28–$42/hour)',
+        fee: 'CAD $100',
+        tuition: 'CAD $26,000/year',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://toronto.northeastern.edu/programs/align-ms-in-computer-science/',
+        requirements: {
+          gpa: '3.0/4.0 undergraduate degree in humanities, social sciences, or business',
+          ielts: 'IELTS 7.0 or TOEFL 100',
+          gre: 'Not required',
+          papers: 'Personal essay detailing motivation to transition into software computing',
+          references: 'Two professional or academic letters'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4164,
+        title: 'Master of Science in Regulatory Affairs: Health Canada Co-op Track',
+        type: 'Master\'s',
+        subject: 'biology',
+        subjects: ['biology', 'chemistry'],
+        desc: 'Two-year graduate degree combining regulatory science coursework with a four-to-eight month paid co-op placement within Canadian biopharma or medical device firms.',
+        funding: 'Co-op earnings average CAD $18,000–$25,000 during the placement period',
+        fee: 'CAD $100',
+        tuition: 'CAD $22,500/year',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://toronto.northeastern.edu/programs/ms-in-regulatory-affairs/',
+        requirements: {
+          gpa: '3.0/4.0 in life sciences, pharmacology, chemistry, or nursing',
+          ielts: 'IELTS 6.5 (minimum 6.0 in each band)',
+          gre: 'Not required',
+          papers: 'Resume and statement of interest in pharmaceutical regulatory submission',
+          references: 'Two letters from university faculty or clinical supervisors'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4165,
+        title: 'Khoury College Graduate Research Assistantship in Distributed Systems',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Graduate research appointment working on federated learning and distributed data privacy under visiting and affiliated Khoury College faculty.',
+        funding: 'CAD $24,000 annual research stipend plus full tuition waiver',
+        fee: 'CAD $0',
+        tuition: 'CAD $0 (waived through assistantship)',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://www.khoury.northeastern.edu/research/',
+        requirements: {
+          gpa: '3.6/4.0 undergraduate GPA in Computer Science or Computer Engineering',
+          ielts: 'IELTS 7.5 or TOEFL 105',
+          gre: 'GRE Quantitative 165+ recommended',
+          papers: 'Undergraduate thesis or open-source software contribution portfolio',
+          references: 'Three strong academic letters from computer science professors'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4166,
+        title: 'Master of Science in Project Management with Agile & Analytics Concentration',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'computer-science'],
+        desc: 'Professional master\'s degree focused on complex mega-project execution, scrum methodologies, predictive analytics, and enterprise digital strategy.',
+        funding: 'Eligible for PMI Educational Foundation scholarships and graduate corporate tuition discounts',
+        fee: 'CAD $100',
+        tuition: 'CAD $21,000/year',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://toronto.northeastern.edu/programs/ms-in-project-management/',
+        requirements: {
+          gpa: '3.0/4.0 in any accredited undergraduate bachelor\'s degree',
+          ielts: 'IELTS 6.5 overall',
+          gre: 'Not required',
+          papers: 'Resume detailing minimum one year of professional workplace experience',
+          references: 'Two professional employer references'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4167,
+        title: 'Toronto Technology Industry Co-op Practicum Placement',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Structured 4-to-6 month paid cooperative education work term embedded inside leading Toronto tech scaleups, banks, or artificial intelligence labs.',
+        funding: 'Salaried position paying CAD $4,200 to CAD $6,500 monthly',
+        fee: 'CAD $0',
+        tuition: 'Covered within normal academic year credit registration',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://toronto.northeastern.edu/experiential-learning/co-op/',
+        requirements: {
+          gpa: 'Good academic standing (minimum 3.0 graduate GPA) and completion of two academic terms',
+          ielts: 'Professional English communication verified in mock interviews',
+          gre: 'Not required',
+          papers: 'Co-op preparation course completion and verified resume',
+          references: 'Approval from faculty co-op advisor'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      },
+      {
+        id: 4168,
+        title: 'Executive Masterclass in AI Governance and Responsible Innovation',
+        type: 'Course',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Eight-week executive certificate examining algorithmic bias, cross-border privacy regulations (GDPR and Canadian Bill C-27), and ethical AI frameworks.',
+        funding: 'Corporate employer sponsorship and tech diversity subsidies up to CAD $1,200',
+        fee: 'CAD $50',
+        tuition: 'CAD $2,800 total tuition',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://toronto.northeastern.edu/programs/executive-education/',
+        requirements: {
+          gpa: 'Bachelor\'s degree and minimum three years of professional experience',
+          ielts: 'Professional proficiency in English',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and 300-word statement on organizational AI challenges',
+          references: 'One manager recommendation'
+        },
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        location: 'Toronto, Ontario, Canada'
+      }
+    ],
+    researchers: [
+      {
+        id: 1803,
+        name: 'Dr. Alireza Shameli-Sendi',
+        title: 'Associate Teaching Professor of Computer Science & Cybersecurity Specialist',
+        subject: 'computer-science',
+        topics: ['Cloud Security', 'Intrusion Detection Systems', 'Software Defined Networking'],
+        summary: 'Computer scientist and cybersecurity researcher specializing in automated threat response architectures, vulnerability assessment, and robust cloud container defenses.',
+        source: 'https://www.khoury.northeastern.edu/people/alireza-shameli-sendi/',
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1804,
+        name: 'Dr. Jacqueline Isaacs',
+        title: 'Vice Provost for Faculty Affairs & Professor of Mechanical and Industrial Engineering',
+        subject: 'engineering',
+        topics: ['Sustainable Nanomanufacturing', 'Life Cycle Environmental Impact', 'Advanced Materials Policy'],
+        summary: 'Distinguished engineering scholar analyzing economic and environmental trade-offs in advanced nanomaterials fabrication and circular manufacturing supply chains.',
+        source: 'https://coe.northeastern.edu/people/isaacs-jacqueline/',
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1805,
+        name: 'Dr. Stephen Flynn',
+        title: 'Founding Director of the Global Resilience Institute & Professor of Political Science',
+        subject: 'social-sciences',
+        topics: ['Critical Infrastructure Resilience', 'Urban Disaster Management', 'Supply Chain Security'],
+        summary: 'Internationally recognized resilience authority advising governments and international bodies on defending critical transportation, maritime, and digital infrastructures against systemic disruption.',
+        source: 'https://globalresilience.northeastern.edu/leadership/stephen-flynn/',
+        university: 'Northeastern University Toronto',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 4. Canada - Ontario Agricultural College, University of Guelph (Row 73)
+  {
+    slug: 'ontario-agricultural-college-uoguelph',
+    institution: 'Ontario Agricultural College (OAC) - University of Guelph',
+    shortName: 'OAC Guelph',
+    countryId: 'canada',
+    countryLabel: 'Canada',
+    location: 'Guelph, Ontario, Canada',
+    website: 'https://www.uoguelph.ca/oac',
+    sourceRow: 73,
+    badge: 'Canada\'s Founding Agricultural & Food Systems College',
+    lead: 'The Ontario Agricultural College (OAC) of the University of Guelph is Canada’s historic, premier academic institution for agriculture, food innovation, environmental sciences, and rural development, consistently ranked among the top agricultural faculties worldwide.',
+    overview: 'Founded in 1874—predating the University of Guelph by almost a century—the Ontario Agricultural College is an internationally acclaimed center for agri-food research, animal biosciences, soil health, and sustainable plant agriculture. OAC encompasses six academic departments and operates major research stations across Ontario in partnership with the Ontario Ministry of Agriculture, Food and Rural Affairs (OMAFRA). Its researchers spearhead global breakthroughs in DNA barcoding, livestock genomics, precision drone agronomy, and climate-resilient crop breeding.',
+    quickFacts: {
+      type: 'Constituent Faculty of University of Guelph (Public Research)',
+      campus: 'Guelph Main Campus, Ridgetown Campus & Regional Agri-Stations',
+      accreditation: 'Ontario Universities Council on Quality Assurance & Agricultural Institute of Canada',
+      admissions: 'Ontario Universities\' Application Centre (OUAC) & Guelph Graduate Studies',
+      language: 'English (primary instruction)',
+      aid: 'OAC Alumni Foundation Scholarships, NSERC, OMAFRA Highly Qualified Personnel (HQP) awards'
+    },
+    strengths: [
+      'Sustainable Plant Agriculture & Crop Genomic Resilience',
+      'Food Science, Dairy Microbiology & Nutritional Bio-Fortification',
+      'Soil Health, Carbon Sequestration & Agro-Ecosystem Ecology',
+      'Animal Welfare, Precision Livestock Farming & Quantitative Genetics'
+    ],
+    programs: [
+      { title: 'PhD in Plant Agriculture (Crop Breeding and Genomics)', level: 'Doctorate', desc: 'World-class doctoral research exploring marker-assisted selection, abiotic stress physiology, and gene editing in staple field and horticultural crops.' },
+      { title: 'MSc in Food Science (Quality Assurance and Safety)', level: 'Master\'s', desc: 'Comprehensive master\'s degree focusing on thermal processing, food pathogen detection, biopolymers, and functional food development.' },
+      { title: 'Bachelor of Science in Agriculture (Honours)', level: 'Bachelor\'s', desc: 'Flagship four-year honours degree offering majors in Animal Science, Crop, Horticulture and Turfgrass Science, and Honours Agricultural Business.' },
+      { title: 'Master of Environmental Sciences (MEnvSc in Land and Water Conservation)', level: 'Master\'s', desc: 'Course-based or major research project degree preparing environmental scientists for watershed protection, soil remediation, and carbon accounting.' }
+    ],
+    opportunities: [
+      {
+        id: 4169,
+        title: 'OMAFRA-U of G Highly Qualified Personnel (HQP) Doctoral Scholarship',
+        type: 'Scholarship',
+        subject: 'environment',
+        subjects: ['environment', 'biology'],
+        desc: 'Prestigious agri-food research award providing multi-year funding to PhD candidates working on priority research projects for Ontario\'s agri-food sector.',
+        funding: 'CAD $27,000 per year for up to three years plus business training and policy modules',
+        fee: 'CAD $120 (University of Guelph graduate application fee)',
+        tuition: 'CAD $8,100/year (Domestic) or CAD $23,400/year (International)',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.uoguelph.ca/oac/prospective-students/hqp-scholarships',
+        requirements: {
+          gpa: 'First-class honours (minimum A- / 80% equivalent) in previous degree',
+          ielts: 'IELTS 6.5 with no band less than 6.0 or TOEFL iBT 89',
+          gre: 'Not required',
+          papers: '1,000-word research proposal addressing OMAFRA priority research themes',
+          references: 'Three academic references certifying research aptitude'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4170,
+        title: 'OAC Graduate Excellence Award in Soil Science and Carbon Sequestration',
+        type: 'Fellowship',
+        subject: 'environment',
+        subjects: ['environment', 'chemistry'],
+        desc: 'Endowed graduate fellowship supporting exceptional students pursuing MSc or PhD studies in soil microbiology, organic carbon cycling, and regenerative tillage.',
+        funding: 'CAD $15,000 top-up stipend in addition to base departmental graduate assistantships',
+        fee: 'CAD $120',
+        tuition: 'CAD $7,900/year (Domestic) or CAD $22,800/year (International)',
+        deadline: '2027-02-01',
+        deadlineText: 'February 1, 2027',
+        source: 'https://www.uoguelph.ca/ses/graduate-studies',
+        requirements: {
+          gpa: 'Minimum 3.5/4.0 in environmental science, chemistry, geology, or agriculture',
+          ielts: 'IELTS 7.0 overall',
+          gre: 'Not required',
+          papers: 'Published bachelor’s or master’s research manuscript or honors thesis',
+          references: 'Two letters from academic mentors'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4171,
+        title: 'Master of Science in Food Science: Dairy Chemistry and Packaging Innovation',
+        type: 'Master\'s',
+        subject: 'chemistry',
+        subjects: ['chemistry', 'biology'],
+        desc: 'Two-year thesis-based graduate program conducting experimental research in the Canadian Food and Advanced Technology Centre and Guelph Food Technology Centre.',
+        funding: 'Guaranteed minimum departmental research stipend of CAD $21,000 per annum',
+        fee: 'CAD $120',
+        tuition: 'CAD $8,100/year (Domestic) or CAD $23,900/year (International)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.uoguelph.ca/foodscience/graduate',
+        requirements: {
+          gpa: '75% (B) or higher in honours food science, chemistry, microbiology, or engineering',
+          ielts: 'IELTS 6.5 or TOEFL iBT 89',
+          gre: 'Not required',
+          papers: 'Statement of research interests aligned with an identified faculty advisor',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4172,
+        title: 'Bachelor of Science in Agriculture (BSc Agr) Honours Entrance Scholarship',
+        type: 'Scholarship',
+        subject: 'biology',
+        subjects: ['biology', 'environment'],
+        desc: 'Competitive entrance award for incoming undergraduate students entering the four-year Bachelor of Science in Agriculture degree.',
+        funding: 'CAD $4,000 one-time award deducted from first-year tuition',
+        fee: 'CAD $156 (OUAC 105 or 101 application fee)',
+        tuition: 'CAD $7,500/year (Domestic) or CAD $34,800/year (International)',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.uoguelph.ca/oac/future-students/undergraduate',
+        requirements: {
+          gpa: 'Minimum 85% high school average in Grade 12 English, Advanced Functions, Biology, and Chemistry',
+          ielts: 'IELTS 6.5 with no band score below 6.0',
+          gre: 'Not required',
+          papers: 'Student Profile Form (SPF) demonstrating extracurricular passion for agri-food',
+          references: 'One high school counselor or agriculture teacher reference'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4173,
+        title: 'Arrell Food Institute Graduate Fellowship in Global Food Security',
+        type: 'Fellowship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Prestigious fellowship supporting graduate researchers working across interdisciplinary food policy, agricultural economics, and community nutrition systems.',
+        funding: 'CAD $50,000 (CAD $25,000/year for two years)',
+        fee: 'CAD $0',
+        tuition: 'Standard graduate tuition rates apply',
+        deadline: '2026-12-10',
+        deadlineText: 'December 10, 2026',
+        source: 'https://arrellfoodinstitute.ca/funding/graduate-studies/',
+        requirements: {
+          gpa: 'Minimum 80% (A-) in previous postsecondary degrees',
+          ielts: 'IELTS 7.0 overall',
+          gre: 'Not required',
+          papers: 'Two-page essay proposing solutions to an international or domestic food security challenge',
+          references: 'Three professional and academic letters'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4174,
+        title: 'Elora Research Station Agro-Ecosystem Fieldwork Practicum',
+        type: 'Internship',
+        subject: 'environment',
+        subjects: ['environment', 'engineering'],
+        desc: 'Paid sixteen-week summer field technician practicum at the Elora and Arkell research stations operating automated flux towers and crop sensors.',
+        funding: 'CAD $19.00/hour for 40 hours per week (total approx. CAD $12,000)',
+        fee: 'CAD $0',
+        tuition: 'CAD $0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.uoguelph.ca/research/facilities/elora-research-station',
+        requirements: {
+          gpa: 'Enrolled in BSc Agriculture, Environmental Science, or Engineering with minimum 70% average',
+          ielts: 'Working English capability',
+          gre: 'Not required',
+          papers: 'Valid Ontario Class G driver’s licence and resume',
+          references: 'One faculty or work supervisor reference'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      },
+      {
+        id: 4175,
+        title: 'Certificate in Sustainable Urban Agriculture and Horticulture',
+        type: 'Course',
+        subject: 'environment',
+        subjects: ['environment', 'biology'],
+        desc: 'Continuing education certificate offering five online courses in urban permaculture, vertical hydroponics, integrated pest management, and soil ecology.',
+        funding: 'OpenEd continuing education bursaries up to CAD $750 available',
+        fee: 'CAD $35',
+        tuition: 'CAD $2,650 for entire 5-course certificate',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://opened.uoguelph.ca/student-resources/certificates-and-diplomas',
+        requirements: {
+          gpa: 'High school graduation diploma or mature student status',
+          ielts: 'Functional English literacy',
+          gre: 'Not required',
+          papers: 'Brief personal learning goals submission',
+          references: 'Not required'
+        },
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        location: 'Guelph, Ontario, Canada'
+      }
+    ],
+    researchers: [
+      {
+        id: 1806,
+        name: 'Prof. Istvan Rajcan',
+        title: 'Professor of Plant Agriculture & Soybean Breeding Specialist',
+        subject: 'biology',
+        topics: ['Soybean Molecular Genetics', 'Seed Composition Modification', 'Marker-Assisted Crop Breeding'],
+        summary: 'Prominent plant geneticist breeding high-yielding, cold-tolerant soybean varieties with enhanced protein and isoflavone profiles for food and industrial processing.',
+        source: 'https://www.uoguelph.ca/plant/people/rajcan/',
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1807,
+        name: 'Prof. Massimo Marcone',
+        title: 'Professor Emeritus of Food Science & Natural Product Chemist',
+        subject: 'chemistry',
+        topics: ['Food Authentication & Chemistry', 'Natural Bioactive Compounds', 'Rare Food Commodities Analysis'],
+        summary: 'Celebrated food chemist renowned globally for analyzing exotic foods, forensic food fraud detection, and the physical chemistry of natural polysaccharides and proteins.',
+        source: 'https://www.uoguelph.ca/foodscience/people/massimo-marcone',
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1808,
+        name: 'Prof. Claudia Wagner-Riddle',
+        title: 'Professor of Environmental Sciences & Director of Soils at Guelph',
+        subject: 'environment',
+        topics: ['Agricultural Greenhouse Gas Emissions', 'Micrometeorology', 'Soil Carbon Fluxes'],
+        summary: 'Internationally recognized environmental scientist measuring nitrous oxide emissions, winter freeze-thaw cycles, and cover crop impacts on long-term soil carbon storage.',
+        source: 'https://www.uoguelph.ca/ses/people/claudia-wagner-riddle',
+        university: 'Ontario Agricultural College (OAC) - University of Guelph',
+        country: 'Canada',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 5. Germany - Catholic University of North Rhine-Westphalia (KatHO NRW) (Row 233)
+  {
+    slug: 'catholic-university-of-north-rhine-westphalia-katho-nrw',
+    institution: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+    shortName: 'KatHO NRW',
+    countryId: 'germany',
+    countryLabel: 'Germany',
+    location: 'Cologne, North Rhine-Westphalia, Germany',
+    website: 'https://www.katho-nrw.de',
+    sourceRow: 233,
+    badge: 'Germany\'s Largest Church-Sponsored University of Applied Sciences',
+    lead: 'The Catholic University of North Rhine-Westphalia (Katholische Hochschule Nordrhein-Westfalen - KatHO NRW) is Germany’s largest state-accredited church-sponsored university of applied sciences, renowned for social work, healthcare pedagogy, practical theology, and childhood education.',
+    overview: 'Established in 1971 by merging several historic academies of social pedagogy, KatHO NRW educates over 5,300 students across four dynamic campuses: Cologne, Münster, Paderborn, and Aachen. While sponsored by the Roman Catholic dioceses of North Rhine-Westphalia, KatHO NRW is fully state-recognized and welcomes students of all backgrounds and faiths. The university operates prestigious research institutes such as the German Institute for Addiction and Prevention Research (DISuP) and the Institute for Applied Care Research (IAP), shaping social legislation, community mental health policies, and healthcare ethics across the Federal Republic.',
+    quickFacts: {
+      type: 'State-Recognized Church-Sponsored University of Applied Sciences (Kirchliche Hochschule)',
+      campus: 'Cologne (Headquarters), Münster, Paderborn & Aachen Campuses',
+      accreditation: 'Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen & Akkreditierungsrat',
+      admissions: 'Direct online application through KatHO NRW Bewerbungsportal',
+      language: 'German (primary instruction, minimum TestDaF 4 / DSH-2)',
+      aid: 'Cusanuswerk Catholic Academic Foundation Scholarships, Deutschlandstipendium, BAföG'
+    },
+    strengths: [
+      'Clinical Social Work, Addictions Recovery & Juvenile Justice Pedagogy',
+      'Nursing Science, Healthcare Management & Gerontological Care',
+      'Childhood Pedagogy, Early Intervention & Family Systems',
+      'Applied Ethics, Practical Theology & Interreligious Dialogue'
+    ],
+    programs: [
+      { title: 'Master of Arts in Klinische Sozialarbeit (Clinical Social Work)', level: 'Master\'s', desc: 'Accredited multi-campus graduate program focusing on psychosocial diagnostics, psychotherapy intervention models, and social counseling in psychiatric settings.' },
+      { title: 'Bachelor of Arts in Soziale Arbeit (Social Work)', level: 'Bachelor\'s', desc: 'Flagship seven-semester professional degree conferring the state license as a Social Worker/Social Pedagogue (Staatlich anerkannte/r Sozialarbeiter/in).' },
+      { title: 'Master of Science in Pflegewissenschaft (Nursing Science)', level: 'Master\'s', desc: 'Advanced academic degree in clinical evidence-based nursing, healthcare organizational design, and palliative care pedagogy.' },
+      { title: 'Bachelor of Arts in Kindheitspädagogik (Childhood Pedagogy)', level: 'Bachelor\'s', desc: 'Professional curriculum qualifying educators in developmental psychology, family advisory systems, and inclusive early-childhood institutions.' }
+    ],
+    opportunities: [
+      {
+        id: 4176,
+        title: 'Cusanuswerk Episcopal Doctoral Fellowship for KatHO NRW Scholars',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Prestigious German national scholarship sponsored by the Catholic church supporting outstanding doctoral researchers conducting thesis work in social work or practical ethics.',
+        funding: '€1,450 monthly basic stipend plus €100 research allowance and family supplements',
+        fee: '€0',
+        tuition: '€0 (no tuition fees at KatHO NRW; €320/semester social contribution fee includes state transit ticket)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.katho-nrw.de/forschung-transfer/nachwuchsfoerderung/promotionskolleg',
+        requirements: {
+          gpa: 'Master\'s degree with grade "gut" (minimum 2.0 or higher in German grading system)',
+          ielts: 'German language proficiency at level C1 (DSH-2 or TestDaF 4x4)',
+          gre: 'Not required',
+          papers: 'Doctoral exposé (10–15 pages) outlining methodology, literature, and social impact',
+          references: 'Two university professor appraisals and one reference from a social or ecclesiastical institution'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4177,
+        title: 'DISuP Graduate Research Studentship in Addiction and Prevention Studies',
+        type: 'Fellowship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Two-year research fellowship at the German Institute for Addiction and Prevention Research (DISuP) examining adolescent digital addiction and community harm reduction.',
+        funding: 'Half-time TV-L E13 academic salary (€2,400 monthly gross) plus project equipment',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-01',
+        deadlineText: 'December 1, 2026',
+        source: 'https://www.katho-nrw.de/forschung-transfer/institute/deutsches-institut-fuer-sucht-und-praeventionsforschung-disup',
+        requirements: {
+          gpa: 'Master\'s in social work, psychology, public health, or sociology with 2.3 or better',
+          ielts: 'C1 German and strong reading English skills',
+          gre: 'Not required',
+          papers: 'Master\'s thesis copy and motivation letter focusing on addiction epidemiology',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4178,
+        title: 'Master of Arts in Clinical Social Work (Psychosocial Diagnostic Track)',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Four-semester consecutive master\'s program offering specialized clinical training in systemic therapy, psychiatric rehabilitation, and forensic social services.',
+        funding: 'Eligible for BAföG federal student aid and KatHO Deutschlandstipendium (€300/month)',
+        fee: '€0 (free university application)',
+        tuition: '€0 tuition; €315/semester semester fee',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.katho-nrw.de/studium/studienangebot/master-studiengaenge/klinische-sozialarbeit-ma',
+        requirements: {
+          gpa: 'Bachelor\'s in Social Work (or related) with at least 2.5 and 180 ECTS',
+          ielts: 'TestDaF TDN 4 or DSH-2 for international applicants',
+          gre: 'Not required',
+          papers: 'Proof of at least 6 months relevant practical professional experience in social institutions',
+          references: 'Two professional references'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4179,
+        title: 'KatHO NRW Deutschlandstipendium National Merit Bursary',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Federal co-funded merit scholarship awarded to outstanding undergraduate and graduate students demonstrating academic excellence and community engagement.',
+        funding: '€300 monthly cash stipend for twelve months (renewable)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-30',
+        deadlineText: 'November 30, 2026',
+        source: 'https://www.katho-nrw.de/studium/finanzierung-des-studiums/deutschlandstipendium',
+        requirements: {
+          gpa: 'Demonstrated top 15% academic grade performance in current cohort',
+          ielts: 'German fluency',
+          gre: 'Not required',
+          papers: 'Resume detailing civic engagement, volunteer social work, or overcoming family hardship',
+          references: 'One recommendation from a KatHO instructor or charitable organization'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4180,
+        title: 'Bachelor of Arts in Social Work (Staatliche Anerkennung Curriculum)',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Seven-semester full-time degree program featuring integrated practical semesters in community centres, youth welfare offices, and healthcare institutions.',
+        funding: 'Free tuition across all semesters under North Rhine-Westphalia state higher education funding',
+        fee: '€0',
+        tuition: '€0 tuition; €310/semester semester contribution',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.katho-nrw.de/studium/studienangebot/bachelor-studiengaenge/soziale-arbeit-ba',
+        requirements: {
+          gpa: 'German Abitur, Fachhochschulreife, or international equivalent recognized by DAAD/Uni-Assist',
+          ielts: 'DSH-2, TestDaF 4x4, or Goethe-Zertifikat C1',
+          gre: 'Not required',
+          papers: 'Proof of 3-month pre-study internship in a social welfare establishment',
+          references: 'Letter from internship supervisor'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4181,
+        title: 'Gerontological Care Innovation Practicum at IAP Aachen',
+        type: 'Internship',
+        subject: 'biology',
+        subjects: ['biology', 'social-sciences'],
+        desc: 'Six-month clinical research placement at the Institute for Applied Care Research evaluating digital assistive robotics in senior care residences.',
+        funding: '€850 monthly educational allowance',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.katho-nrw.de/forschung-transfer/institute/institut-fuer-angewandte-pflegeforschung-iap',
+        requirements: {
+          gpa: 'Enrolled in nursing science, gerontology, or social work with good academic record',
+          ielts: 'Fluent spoken and written German (minimum B2/C1)',
+          gre: 'Not required',
+          papers: 'Resume and statement of interest in geriatric care technologies',
+          references: 'One academic reference'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4182,
+        title: 'Continuing Certificate in Palliative Care and Psychosocial Grief Counseling',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Eight-month interdisciplinary continuing education certificate for healthcare practitioners and social workers in hospice care ethics and bereavement support.',
+        funding: 'Eligible for NRW Bildungsscheck vocational training subsidies up to €500',
+        fee: '€50',
+        tuition: '€1,750 total certificate tuition',
+        deadline: '2027-03-10',
+        deadlineText: 'March 10, 2027',
+        source: 'https://www.katho-nrw.de/weiterbildung',
+        requirements: {
+          gpa: 'Completed vocational or academic degree in nursing, medicine, social work, or psychology',
+          ielts: 'German language proficiency',
+          gre: 'Not required',
+          papers: 'Proof of professional role in palliative, oncology, or hospice setting',
+          references: 'Employer confirmation letter'
+        },
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        location: 'Cologne, North Rhine-Westphalia, Germany'
+      }
+    ],
+    researchers: [
+      {
+        id: 1809,
+        name: 'Prof. Dr. Michael Klein',
+        title: 'Professor of Clinical Psychology and Social Work & Director of DISuP',
+        subject: 'social-sciences',
+        topics: ['Addiction Prevention', 'Children of Mentally Ill and Addicted Parents (COPMI)', 'Clinical Psychotherapy'],
+        summary: 'Prominent clinical psychologist and federal policy advisor investigating risk and resilience factors in families affected by substance abuse and psychiatric disorders.',
+        source: 'https://www.katho-nrw.de/koeln/personen/hauptamtlich-lehrende/prof-dr-michael-klein',
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1810,
+        name: 'Prof. Dr. Liane Schirra-Weirich',
+        title: 'Professor of Nursing Science & Dean of the Aachen Department',
+        subject: 'biology',
+        topics: ['Dementia Care Interventions', 'Health Services Research', 'Care Diagnostics'],
+        summary: 'Healthcare researcher developing standardized nursing diagnostic frameworks and evaluating psychosocial intervention models for individuals living with advanced dementia.',
+        source: 'https://www.katho-nrw.de/aachen/personen/hauptamtlich-lehrende/prof-dr-liane-schirra-weirich',
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1811,
+        name: 'Prof. Dr. Andreas Lob-Hüdepohl',
+        title: 'Professor of Theological Ethics and Social Ethics & Member of the German Ethics Council',
+        subject: 'social-sciences',
+        topics: ['Bioethics & Care Ethics', 'Disability Rights and Inclusion', 'Social Justice Philosophy'],
+        summary: 'Leading moral philosopher and bioethicist appointed to the Deutscher Ethikrat (German Ethics Council), advising the Federal Government on healthcare triage, gene editing, and pandemic ethics.',
+        source: 'https://www.katho-nrw.de/berlin/personen/hauptamtlich-lehrende/prof-dr-andreas-lob-huedepohl',
+        university: 'Catholic University of North Rhine-Westphalia (KatHO NRW)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 6. Germany - Technische Hochschule Brandenburg (THB) (Row 370)
+  {
+    slug: 'technische-hochschule-brandenburg-thb',
+    institution: 'Technische Hochschule Brandenburg (THB)',
+    shortName: 'THB Brandenburg',
+    countryId: 'germany',
+    countryLabel: 'Germany',
+    location: 'Brandenburg an der Havel, Brandenburg, Germany',
+    website: 'https://www.th-brandenburg.de',
+    sourceRow: 370,
+    badge: 'Premier Technology & Digital Engineering University of Applied Sciences',
+    lead: 'Technische Hochschule Brandenburg (THB) is a prominent public university of applied sciences in the Berlin-Brandenburg metropolitan region, known for computer science, robotics, cybersecurity, medical informatics, and renewable energy technologies.',
+    overview: 'Founded in 1992 on a revitalized military barracks campus along the Havel River, Technische Hochschule Brandenburg hosts over 2,600 students across three cutting-edge departments: Computer Science and Media, Engineering, and Business and Management. THB combines hands-on engineering education with intensive industrial partnerships, hosting regional innovation hubs, 3D printing laboratories, autonomous vehicle testing grounds, and the Interdisciplinary Center for Security and Privacy. Its programs maintain low student-to-professor ratios and robust practical semester integrations.',
+    quickFacts: {
+      type: 'Public University of Applied Sciences (Fachhochschule)',
+      campus: 'Magdeburger Straße Havel Campus, Brandenburg an der Havel',
+      accreditation: 'Ministerium für Wissenschaft, Forschung und Kultur des Landes Brandenburg & ASIIN',
+      admissions: 'Direct application through THB Online Portal or Uni-Assist for international degrees',
+      language: 'German (primary) with English-taught modules and master tracks',
+      aid: 'Deutschlandstipendium, BAföG, Brandenburg Innovation Research Stipends'
+    },
+    strengths: [
+      'Cybersecurity, Network Forensic Systems & Applied Cryptography',
+      'Medical Informatics, Biomedical Devices & Diagnostic Software',
+      'Autonomous Mobile Robotics & Mechatronics Engineering',
+      'Renewable Energy Systems & Industrial Energy Efficiency'
+    ],
+    programs: [
+      { title: 'Master of Science in Security Management (Cybersecurity)', level: 'Master\'s', desc: 'Specialized master\'s program training information security officers in risk assessment, network hardening, digital forensics, and compliance.' },
+      { title: 'Master of Science in Medizininformatik (Medical Informatics)', level: 'Master\'s', desc: 'Interdisciplinary graduate curriculum bridging software engineering, medical imaging algorithms, electronic health records, and clinical AI.' },
+      { title: 'Bachelor of Science in Angewandte Informatik (Applied Computer Science)', level: 'Bachelor\'s', desc: 'Comprehensive six-semester undergraduate computing degree covering modern software engineering, web architectures, and algorithms.' },
+      { title: 'Bachelor of Engineering in Maschinenbau (Mechanical Engineering)', level: 'Bachelor\'s', desc: 'Practical engineering program featuring extensive laboratory sessions in CAD/CAM, finite element analysis, thermodynamics, and robotics.' }
+    ],
+    opportunities: [
+      {
+        id: 4183,
+        title: 'Brandenburg Innovation Doctoral Research Fellowship in Smart Robotics',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Three-year doctoral research fellowship funded by the State of Brandenburg focusing on collaborative robotics and sensor fusion for manufacturing lines.',
+        funding: '€1,600 monthly basic tax-free research scholarship plus annual travel budget',
+        fee: '€0',
+        tuition: '€0 (no tuition fees; approx. €290/semester contribution covering regional transit ticket)',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://www.th-brandenburg.de/forschung/nachwuchsfoerderung/promovieren-an-der-thb',
+        requirements: {
+          gpa: 'Master of Science or Engineering with minimum German grade 2.0 (good)',
+          ielts: 'Fluent English (IELTS 6.5) and basic conversational German',
+          gre: 'Not required',
+          papers: '10-page doctoral exposé detailing research problem in mechatronics or robotics',
+          references: 'Two academic letters of recommendation from university professors'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4184,
+        title: 'Master of Science in Security Management: Cyber Defense Specialization',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'engineering'],
+        desc: 'Four-semester master\'s program offering practical labs in penetration testing, threat hunting, ISO 27001 auditing, and secure coding.',
+        funding: 'Eligible for Deutschlandstipendium (€300/month) and research assistant contracts',
+        fee: '€75 (Uni-Assist processing fee for non-EU degrees)',
+        tuition: '€0 tuition; €290/semester administrative fee',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.th-brandenburg.de/studium/studiengaenge/security-management-msc',
+        requirements: {
+          gpa: 'Bachelor\'s in computer science, business informatics, or engineering with 2.5 or better',
+          ielts: 'English B2 and German B2/C1 depending on specific course track',
+          gre: 'Not required',
+          papers: 'Letter of motivation explaining practical computing project background',
+          references: 'One academic reference'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4185,
+        title: 'THB Deutschlandstipendium Excellence Award in Applied Computing',
+        type: 'Scholarship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'mathematics'],
+        desc: 'Annual scholarship funded jointly by regional tech enterprises and the German federal government for outstanding computer science students.',
+        funding: '€3,600 total (€300 monthly for one year)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://www.th-brandenburg.de/studium/rund-ums-studium/finanzierung/deutschlandstipendium',
+        requirements: {
+          gpa: 'Outstanding academic marks in completed semesters at THB',
+          ielts: 'Proficiency in German or English',
+          gre: 'Not required',
+          papers: 'Detailed CV and proof of volunteer activities or hackathon achievements',
+          references: 'Faculty professor evaluation'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4186,
+        title: 'Bachelor of Engineering in Mechanical Engineering with Robotics Practicum',
+        type: 'Bachelor\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Seven-semester practice-oriented engineering degree integrating an 18-week industrial internship within automotive, rail, or aerospace manufacturers.',
+        funding: 'Zero tuition fees; industrial internship term compensated by partner companies (€800–€1,200/month)',
+        fee: '€0',
+        tuition: '€0 tuition; €290/semester contribution',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.th-brandenburg.de/studium/studiengaenge/maschinenbau-beng',
+        requirements: {
+          gpa: 'German Hochschulzugangsberechtigung or international equivalent',
+          ielts: 'German language certificate C1 (DSH-2, TestDaF 4, or telc C1 Hochschule)',
+          gre: 'Not required',
+          papers: 'Proof of 8-week basic mechanical engineering workshop pre-internship',
+          references: 'Not required for bachelor entry'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4187,
+        title: 'Center for Security and Privacy Student Research Assistantship',
+        type: 'Internship',
+        subject: 'computer-science',
+        subjects: ['computer-science'],
+        desc: 'Part-time research assistant position (HiWi) investigating zero-trust network architectures and cryptographic hardware security tokens.',
+        funding: '€14.50 per hour for 40 hours per month during semester',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://www.th-brandenburg.de/forschung/kompetenzzentren/sicherheit-und-datenschutz',
+        requirements: {
+          gpa: 'Enrolled in 3rd semester or higher in Computer Science with minimum 2.3 GPA',
+          ielts: 'Working English and German',
+          gre: 'Not required',
+          papers: 'Demonstrated experience with Linux kernel security, Wireshark, or Python cryptography',
+          references: 'Recommendation from THB informatics faculty'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4188,
+        title: 'Master of Science in Medical Informatics: Clinical Data Science Project',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'biology'],
+        desc: 'Advanced graduate program training experts in DICOM imaging protocols, FHIR medical exchange standards, and neural network diagnostics.',
+        funding: 'Eligible for Brandenburg graduate research support and university exchange grants',
+        fee: '€75',
+        tuition: '€0 tuition; €290/semester semester fee',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://www.th-brandenburg.de/studium/studiengaenge/medizininformatik-msc',
+        requirements: {
+          gpa: 'Bachelor\'s degree in medical informatics, computer science, or bioinformatics with 2.5 grade',
+          ielts: 'German B2/C1 and English B2',
+          gre: 'Not required',
+          papers: 'Motivation letter highlighting medical software design interest',
+          references: 'One academic reference letter'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      },
+      {
+        id: 4189,
+        title: 'Applied Photovoltaics and Microgrid Engineering Summer School',
+        type: 'Course',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Four-week intensive summer laboratory course on battery energy storage integration, solar inverter topologies, and smart grid automation.',
+        funding: 'DAAD short-term mobility subsidies up to €500 for international partner students',
+        fee: '€0',
+        tuition: '€450 course fee including all lab materials and site visits',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.th-brandenburg.de/international/summer-school',
+        requirements: {
+          gpa: 'Enrolled in electrical engineering, mechanical engineering, or renewable energy studies',
+          ielts: 'English B2',
+          gre: 'Not required',
+          papers: 'Official university transcript of completed engineering coursework',
+          references: 'One professor recommendation'
+        },
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        location: 'Brandenburg an der Havel, Brandenburg, Germany'
+      }
+    ],
+    researchers: [
+      {
+        id: 1812,
+        name: 'Prof. Dr. Michael Höding',
+        title: 'Professor of Information Systems and Software Engineering',
+        subject: 'computer-science',
+        topics: ['Enterprise Architecture', 'Cloud Data Integration', 'Healthcare Software Interoperability'],
+        summary: 'Expert in enterprise databases and health data interoperability, researching scalable microservice architectures and clinical data communication standards.',
+        source: 'https://www.th-brandenburg.de/hochschule/personenverzeichnis/person/michael-hoeding',
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1813,
+        name: 'Prof. Dr. Jochen Scheuerer',
+        title: 'Professor of Electrical Engineering and Automated Control Systems',
+        subject: 'engineering',
+        topics: ['Control Engineering', 'Autonomous Navigation', 'Embedded Sensor Systems'],
+        summary: 'Control systems researcher developing real-time embedded algorithms for autonomous unmanned vessels and automated guided vehicles in logistics.',
+        source: 'https://www.th-brandenburg.de/hochschule/personenverzeichnis/person/jochen-scheuerer',
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1814,
+        name: 'Prof. Dr. Martin Wrobel',
+        title: 'Professor of Management and Digital Business Innovation',
+        subject: 'social-sciences',
+        topics: ['Digital Transformation in SMEs', 'Entrepreneurship Ecosystems', 'Technology Commercialization'],
+        summary: 'Management scholar examining digital innovation pathways in small and medium enterprises across Eastern Germany, focusing on AI adoption barriers and startup incubation.',
+        source: 'https://www.th-brandenburg.de/hochschule/personenverzeichnis/person/martin-wrobel',
+        university: 'Technische Hochschule Brandenburg (THB)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 7. Germany - Hochschule Düsseldorf (HSD) (Row 389)
+  {
+    slug: 'hochschule-duesseldorf-hsd',
+    institution: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+    shortName: 'HSD Düsseldorf',
+    countryId: 'germany',
+    countryLabel: 'Germany',
+    location: 'Düsseldorf, North Rhine-Westphalia, Germany',
+    website: 'https://hs-duesseldorf.de',
+    sourceRow: 389,
+    badge: 'Premier Urban Applied Arts & Technology University of the Rhineland',
+    lead: 'Hochschule Düsseldorf (HSD) is one of the largest universities of applied sciences in North Rhine-Westphalia, hosting over 11,000 students across its modern Derendorf campus in architecture, design, electrical engineering, media, and social sciences.',
+    overview: 'Formed in 1971 from prestigious predecessor academies—including the Werkkunstschule Düsseldorf and several engineering schools—Hochschule Düsseldorf combines historic design excellence with high-tech engineering and social sciences. Located on a state-of-the-art campus in Düsseldorf-Derendorf, HSD features seven faculties: Architecture (PBSA), Design, Electrical Engineering and Information Technology, Mechanical and Process Engineering, Media, Social Sciences and Cultural Studies, and Business Studies. The Peter Behrens School of Arts within HSD is celebrated internationally for avant-garde exhibition design, sustainable urban architecture, and typography.',
+    quickFacts: {
+      type: 'Public University of Applied Sciences (Fachhochschule)',
+      campus: 'Campus Derendorf, Münsterstraße, Düsseldorf',
+      accreditation: 'Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen & AQAS',
+      admissions: 'HSD Online Portal & Uni-Assist for international qualifications',
+      language: 'German (primary) with several bilingual and English master modules',
+      aid: 'Deutschlandstipendium, BAföG, NRW Scholarship Programme for Developing Countries'
+    },
+    strengths: [
+      'Visual Communication, Exhibition Design & Peter Behrens Architecture',
+      'Audio & Video Engineering, Virtual Reality & Spatial Media Systems',
+      'Automation Technology, Power Electronics & E-Mobility',
+      'Social Work in Urban Contexts, Migration & Cultural Studies'
+    ],
+    programs: [
+      { title: 'Master of Arts in Exhibition Design and Interior Architecture (PBSA)', level: 'Master\'s', desc: 'World-renowned design master\'s focusing on immersive narrative spaces, museum scenography, and interactive spatial media.' },
+      { title: 'Master of Science in Medieninformatik (Media Informatics)', level: 'Master\'s', desc: 'Cutting-edge program exploring computer graphics, spatial audio, human-computer interaction, and generative artificial intelligence.' },
+      { title: 'Bachelor of Engineering in Elektrotechnik und Informationstechnik', level: 'Bachelor\'s', desc: 'Comprehensive engineering degree covering smart grid technologies, microelectronics, and automated industrial drives.' },
+      { title: 'Bachelor of Arts in Kommunikationsdesign (Communication Design)', level: 'Bachelor\'s', desc: 'Celebrated design curriculum training art directors in typography, digital branding, editorial media, and motion graphics.' }
+    ],
+    opportunities: [
+      {
+        id: 4190,
+        title: 'Peter Behrens School of Arts Graduate Fellowship in Spatial Scenography',
+        type: 'Fellowship',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'engineering'],
+        desc: 'Two-year graduate design fellowship providing studio workspace and project funding for innovative exhibition and temporary architectural installations.',
+        funding: '€10,000 annual project grant plus materials budget and studio access',
+        fee: '€0',
+        tuition: '€0 (no tuition fees; €330/semester semester contribution includes NRW transit ticket)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://pbsa.hs-duesseldorf.de/studium/master-studiengaenge',
+        requirements: {
+          gpa: 'Bachelor\'s in architecture, interior architecture, or design with grade 2.3 or better',
+          ielts: 'English B2 and German B2/C1',
+          gre: 'Not required',
+          papers: 'Comprehensive creative portfolio demonstrating spatial concept design',
+          references: 'Two letters from design professors or creative directors'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4191,
+        title: 'Master of Science in Media Informatics: Immersive Virtual Reality Lab',
+        type: 'Master\'s',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'arts-design'],
+        desc: 'Four-semester program combining advanced 3D rendering algorithms, real-time spatial audio processing, and gesture-driven user interfaces.',
+        funding: 'Eligible for Deutschlandstipendium and research assistant appointments (€14.00/hour)',
+        fee: '€75',
+        tuition: '€0 tuition; €330/semester contribution',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://medien.hs-duesseldorf.de/studium/studiengaenge/master-medieninformatik',
+        requirements: {
+          gpa: 'Bachelor\'s degree in media informatics or computer science with minimum 2.5',
+          ielts: 'German C1 (DSH-2) and English B2',
+          gre: 'Not required',
+          papers: 'Project documentation detailing graphics programming or software architecture experience',
+          references: 'One academic reference'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4192,
+        title: 'HSD Deutschlandstipendium National Merit Bursary',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'arts-design'],
+        desc: 'Merit scholarship awarded by HSD and corporate sponsors like Henkel, Rheinmetall, and Stadtwerke Düsseldorf to exceptional students.',
+        funding: '€300 per month for one academic year (€3,600 total)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-20',
+        deadlineText: 'November 20, 2026',
+        source: 'https://hs-duesseldorf.de/deutschlandstipendium',
+        requirements: {
+          gpa: 'Demonstrated top 10% academic standing in semester exams',
+          ielts: 'Language proficiency required by enrolled program',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and proof of social commitment or entrepreneurship',
+          references: 'One recommendation from an HSD professor'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4193,
+        title: 'Bachelor of Arts in Communication Design (Portfolio Entrance Track)',
+        type: 'Bachelor\'s',
+        subject: 'arts-design',
+        subjects: ['arts-design'],
+        desc: 'Seven-semester intensive studio degree preparing graphic designers, web creatives, and brand consultants through hands-on atelier courses.',
+        funding: 'Zero state tuition fees; subsidized workshop printing and laser-cutting facilities',
+        fee: '€0',
+        tuition: '€0 tuition; €330/semester semester fee',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://design.hs-duesseldorf.de/studium/studiengaenge/bachelor-kommunikationsdesign',
+        requirements: {
+          gpa: 'General university entrance qualification (Abitur/Fachabitur)',
+          ielts: 'German language certificate C1',
+          gre: 'Not required',
+          papers: 'Submission of artistic portfolio (Mappe) with 15–20 original design works and passing the entrance exam (Künstlerische Eignungsprüfung)',
+          references: 'Not required for portfolio review'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4194,
+        title: 'Doctoral Research Fellowship in Urban Energy Systems Transition',
+        type: 'Fellowship',
+        subject: 'engineering',
+        subjects: ['engineering', 'environment'],
+        desc: 'Three-year cooperative doctoral fellowship at the Center for Innovative Energy Systems (ZIES) researching district heat electrification and hydrogen networks.',
+        funding: 'Full-time TV-L E13 research salary (€4,300 monthly gross) for 36 months',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-10',
+        deadlineText: 'December 10, 2026',
+        source: 'https://zies.hs-duesseldorf.de/',
+        requirements: {
+          gpa: 'Master of Engineering or Physics with grade 1.9 or better',
+          ielts: 'Fluent German and professional English',
+          gre: 'Not required',
+          papers: 'Master\'s thesis in thermodynamics, power engineering, or energy economics',
+          references: 'Two letters from academic dissertation advisors'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4195,
+        title: 'Audio Visual Technology Industrial Practicum (WDR & Filmstiftung NRW)',
+        type: 'Internship',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'engineering'],
+        desc: 'Twenty-week practical semester embedded within major broadcast stations, post-production houses, and game development studios in the Rhine-Ruhr region.',
+        funding: 'Industry compensation ranging from €700 to €1,100 per month',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://medien.hs-duesseldorf.de/praxis/praxissemester',
+        requirements: {
+          gpa: 'Successful completion of all foundation modules (minimum 90 ECTS credits)',
+          ielts: 'Working German capability for studio production communication',
+          gre: 'Not required',
+          papers: 'Signed internship contract with approved broadcasting or digital media firm',
+          references: 'Approval from HSD internship board'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      },
+      {
+        id: 4196,
+        title: 'Continuing Certificate in Sound Design and Spatial Audio Production',
+        type: 'Course',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'computer-science'],
+        desc: 'Six-month specialized certificate exploring Dolby Atmos mixing, Ambisonics, procedural game audio in Wwise/Unreal, and binaural acoustics.',
+        funding: 'Continuing education grants available for NRW media professionals',
+        fee: '€50',
+        tuition: '€1,950 total course tuition',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://medien.hs-duesseldorf.de/weiterbildung',
+        requirements: {
+          gpa: 'Professional experience in sound recording, music production, or audio engineering',
+          ielts: 'English or German proficiency',
+          gre: 'Not required',
+          papers: 'Showreel containing 3 original audio mixing or sound design samples',
+          references: 'One industry reference'
+        },
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        location: 'Düsseldorf, North Rhine-Westphalia, Germany'
+      }
+    ],
+    researchers: [
+      {
+        id: 1815,
+        name: 'Prof. Dr. Dieter Oesterwind',
+        title: 'Founding Director of the Center for Innovative Energy Systems (ZIES)',
+        subject: 'engineering',
+        topics: ['District Energy Decarbonization', 'Thermal Energy Storage', 'Energy Economics'],
+        summary: 'Pioneering energy systems engineer leading municipal decarbonization studies and industrial waste heat recovery projects throughout the Ruhr valley.',
+        source: 'https://zies.hs-duesseldorf.de/team',
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1816,
+        name: 'Prof. Laurent Lacour',
+        title: 'Professor of Corporate Design and Typography, Peter Behrens School of Arts',
+        subject: 'arts-design',
+        topics: ['Dynamic Visual Identity', 'Typography & Editorial Systems', 'Brand Strategy in Digital Media'],
+        summary: 'Award-winning creative director and typographer analyzing parametric corporate identities, algorithmic brand communication, and modern editorial architectures.',
+        source: 'https://design.hs-duesseldorf.de/personen/lacour',
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1817,
+        name: 'Prof. Dr. Christian Geiger',
+        title: 'Professor of Mixed Reality and Visualization, Faculty of Media',
+        subject: 'computer-science',
+        topics: ['Virtual & Augmented Reality', 'Real-Time 3D Computer Graphics', 'Human-Computer Interaction'],
+        summary: 'Leading computer scientist investigating spatial interaction paradigms, head-mounted displays, and virtual reality simulations for surgery and disaster training.',
+        source: 'https://medien.hs-duesseldorf.de/personen/geiger',
+        university: 'Hochschule Düsseldorf (HSD - University of Applied Sciences)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 8. Germany - Ernst-Abbe-Hochschule Jena (EAH Jena) (Row 392)
+  {
+    slug: 'ernst-abbe-hochschule-jena-eah',
+    institution: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+    shortName: 'EAH Jena',
+    countryId: 'germany',
+    countryLabel: 'Germany',
+    location: 'Jena, Thuringia, Germany',
+    website: 'https://www.eah-jena.de',
+    sourceRow: 392,
+    badge: 'Premier Optics, Photonics & Precision Engineering University',
+    lead: 'Ernst-Abbe-Hochschule Jena (EAH Jena) is Thuringia’s largest and oldest university of applied sciences, situated in the historic global capital of optical engineering and precision mechanics alongside Carl Zeiss and Schott.',
+    overview: 'Founded in 1991 and named after physicist and industrial reformer Ernst Abbe, EAH Jena hosts over 4,400 students across engineering, business administration, and social sciences. Deeply embedded within the legendary "Optics Valley" of Jena, the university maintains intimate joint laboratories and dual-study programs with world giants like ZEISS, Jenoptik, and Schott AG. EAH Jena is internationally celebrated for optometry, laser technology, biomedical engineering, environmental technology, and precision mechatronics.',
+    quickFacts: {
+      type: 'Public University of Applied Sciences (Fachhochschule)',
+      campus: 'Carl-Zeiss-Promenade Campus, Jena',
+      accreditation: 'Thüringer Ministerium für Wirtschaft, Wissenschaft und Digitale Gesellschaft & ASIIN',
+      admissions: 'Direct portal application or Uni-Assist for international certificates',
+      language: 'German (primary) and English for international engineering programs',
+      aid: 'Ernst-Abbe-Stiftung Scholarships, Deutschlandstipendium, BAföG, Thuringian Graduate Grants'
+    },
+    strengths: [
+      'Laser & Optical Technologies, Photonics & Optoelectronics',
+      'Precision Medical Engineering & Diagnostic Instrument Design',
+      'Materials Engineering, Surface Finishing & Nanotechnologies',
+      'Industrial Engineering & Supply Chain Management in High-Tech'
+    ],
+    programs: [
+      { title: 'Master of Science in Laser- und Optotechnologien (Laser and Optical Technologies)', level: 'Master\'s', desc: 'Internationally recognized program in laser material processing, optical simulation, fiber optics, and interferometry.' },
+      { title: 'Master of Engineering in Medizintechnik (Medical Engineering)', level: 'Master\'s', desc: 'Advanced engineering degree focusing on biomedical electronics, orthopedic implants, biocompatible polymers, and endoscopy.' },
+      { title: 'Bachelor of Science in Augenoptik / Optometrie (Optometry)', level: 'Bachelor\'s', desc: 'Germany\'s flagship optometric science degree qualifying clinicians in vision correction, refractive diagnostics, and contact lens physics.' },
+      { title: 'Bachelor of Engineering in Feinwerktechnik / Mechatronik (Precision Mechatronics)', level: 'Bachelor\'s', desc: 'Rigorous engineering training in micro-positioning, optomechanical assemblies, and robotic automation.' }
+    ],
+    opportunities: [
+      {
+        id: 4197,
+        title: 'Ernst-Abbe Foundation Doctoral Excellence Grant in Photonics',
+        type: 'Scholarship',
+        subject: 'physics',
+        subjects: ['physics', 'engineering'],
+        desc: 'Three-year doctoral grant sponsored by the Ernst-Abbe-Stiftung for researchers conducting thesis projects in optical metrology and ultra-fast laser systems.',
+        funding: '€1,500 monthly tax-free living stipend plus travel grant for international photonics symposia',
+        fee: '€0',
+        tuition: '€0 (no tuition; €260/semester contribution includes state railway ticket across Thuringia)',
+        deadline: '2027-01-20',
+        deadlineText: 'January 20, 2027',
+        source: 'https://www.eah-jena.de/forschung/nachwuchsfoerderung',
+        requirements: {
+          gpa: 'Master of Science in physics, photonics, or optical engineering with minimum grade 1.8',
+          ielts: 'IELTS 6.5 or German DSH-2',
+          gre: 'Not required',
+          papers: 'Master\'s thesis and 8-page research outline in laser physics or optical engineering',
+          references: 'Two letters from university professors'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4198,
+        title: 'Master of Science in Laser and Optical Technologies (English-Taught Track)',
+        type: 'Master\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Three-semester advanced degree taught in English covering non-linear optics, laser design, optical coating technologies, and optical CAD.',
+        funding: 'Eligible for Thuringian Ministry of Science scholarships and ZEISS industry sponsorships',
+        fee: '€75 (Uni-Assist)',
+        tuition: '€0 tuition; €260/semester contribution',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.eah-jena.de/studium/studiengaenge/master-laser-und-optotechnologien',
+        requirements: {
+          gpa: 'Bachelor of Engineering or Science in physics, optical engineering, or electrical engineering with 2.5 or better',
+          ielts: 'IELTS 6.5 or TOEFL iBT 85',
+          gre: 'Not required',
+          papers: 'Statement of purpose and catalog of completed optics/mathematics laboratory courses',
+          references: 'Two academic reference letters'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4199,
+        title: 'EAH Jena Deutschlandstipendium for Precision Engineering Scholars',
+        type: 'Scholarship',
+        subject: 'engineering',
+        subjects: ['engineering', 'computer-science'],
+        desc: 'Annual national merit award co-sponsored by Jenoptik AG and SCHOTT for outstanding students enrolled in engineering disciplines at EAH Jena.',
+        funding: '€300 monthly for twelve months (€3,600 total)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://www.eah-jena.de/studium/rund-ums-studium/stipendien',
+        requirements: {
+          gpa: 'Top 10% academic achievement in recent semester exams',
+          ielts: 'Fluency in German or English',
+          gre: 'Not required',
+          papers: 'Curriculum vitae with documentation of extracurricular engineering projects',
+          references: 'Faculty professor endorsement'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4200,
+        title: 'Master of Engineering in Medical Technology and Implants',
+        type: 'Master\'s',
+        subject: 'engineering',
+        subjects: ['engineering', 'biology'],
+        desc: 'Four-semester graduate program focused on medical device regulation (EU MDR), biocompatibility testing, surgical navigation, and bio-sensors.',
+        funding: 'Eligible for BAföG student loans and departmental lab assistant contracts (€13.50/hour)',
+        fee: '€0',
+        tuition: '€0 tuition; €260/semester contribution',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.eah-jena.de/studium/studiengaenge/master-medizintechnik',
+        requirements: {
+          gpa: 'Bachelor\'s in biomedical engineering, mechanical engineering, or mechatronics with 2.5 or better',
+          ielts: 'German language C1 (DSH-2) and English B2',
+          gre: 'Not required',
+          papers: 'Letter of motivation detailing medical devices or biomechanics interest',
+          references: 'One professor recommendation'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4201,
+        title: 'Bachelor of Science in Optometry and Vision Science Practicum',
+        type: 'Bachelor\'s',
+        subject: 'biology',
+        subjects: ['biology', 'physics'],
+        desc: 'Seven-semester clinical and optical degree offering hands-on patient refractions, cornea topography measurements, and low-vision rehabilitation.',
+        funding: 'Zero tuition; clinical training semester supported by clinical partner practices',
+        fee: '€0',
+        tuition: '€0 tuition; €260/semester contribution',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.eah-jena.de/studium/studiengaenge/bachelor-augenoptik-optometrie',
+        requirements: {
+          gpa: 'German Abitur/Fachhochschulreife or foreign equivalent certified by Uni-Assist',
+          ielts: 'German language C1 (DSH-2 or TestDaF 4)',
+          gre: 'Not required',
+          papers: 'Proof of 4-week pre-study internship in optometric practice or ophthalmic clinic',
+          references: 'Not required for bachelor entry'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4202,
+        title: 'ZEISS Industrial Co-op Internship in Optical Metrology',
+        type: 'Internship',
+        subject: 'engineering',
+        subjects: ['engineering', 'physics'],
+        desc: 'Twenty-week paid co-op placement at Carl Zeiss AG facilities in Jena working on coordinate measuring machines and extreme ultraviolet (EUV) optics.',
+        funding: 'Industry salary of €1,100 to €1,400 monthly',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-31',
+        deadlineText: 'December 31, 2026',
+        source: 'https://www.zeiss.de/karriere/studenten.html',
+        requirements: {
+          gpa: 'Completion of 4 semesters of undergraduate engineering with minimum 2.3 GPA',
+          ielts: 'Fluent English and conversational German',
+          gre: 'Not required',
+          papers: 'Detailed CV, transcript, and cover letter for ZEISS optics division',
+          references: 'One academic reference letter from EAH faculty'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      },
+      {
+        id: 4203,
+        title: 'Hands-on Fiber Optics and Sensor Fabrication Summer Workshop',
+        type: 'Course',
+        subject: 'physics',
+        subjects: ['physics', 'engineering'],
+        desc: 'Three-week intensive summer workshop covering optical fiber fusion splicing, fiber Bragg grating (FBG) interrogation, and optical sensor calibration.',
+        funding: 'Subsidized laboratory tuition for partner university students',
+        fee: '€0',
+        tuition: '€380 course fee covering all lab materials and cleanroom access',
+        deadline: '2027-03-15',
+        deadlineText: 'March 15, 2027',
+        source: 'https://www.eah-jena.de/international/summer-courses',
+        requirements: {
+          gpa: 'Undergraduate student in physics, electrical engineering, or photonics',
+          ielts: 'English B2',
+          gre: 'Not required',
+          papers: 'Transcript of records and brief statement of laboratory interest',
+          references: 'One professor endorsement'
+        },
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        location: 'Jena, Thuringia, Germany'
+      }
+    ],
+    researchers: [
+      {
+        id: 1818,
+        name: 'Prof. Dr. Jens Bliedtner',
+        title: 'Professor of Materials Technology and Optical Manufacturing',
+        subject: 'engineering',
+        topics: ['Laser Materials Processing', 'Optical Glass Grinding and Polishing', 'Additive Manufacturing in Glass'],
+        summary: 'World-renowned expert in laser beam machining of optical glasses and ceramics, developing innovative laser cutting and polishing systems for precision optics.',
+        source: 'https://www.eah-jena.de/hochschule/personenverzeichnis/person/jens-bliedtner',
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1819,
+        name: 'Prof. Dr. Stephan Schwarzer',
+        title: 'Professor of Optometry and Physiological Optics',
+        subject: 'biology',
+        topics: ['Corneal Biomechanics', 'Refractive Surgery Screening', 'Ophthalmic Diagnostic Systems'],
+        summary: 'Optometric scientist researching ocular wavefront aberrations, tear film stability in dry eye disease, and computerized topography of keratoconus patients.',
+        source: 'https://www.eah-jena.de/hochschule/personenverzeichnis/person/stephan-schwarzer',
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1820,
+        name: 'Prof. Dr. Robert Brunner',
+        title: 'Professor of Applied Optics and Micro-Optics',
+        subject: 'physics',
+        topics: ['Diffractive Optical Elements (DOE)', 'Micro-Structured Surfaces', 'Biophotonic Sensors'],
+        summary: 'Physicist and optics inventor exploring sub-wavelength nanostructures, antireflective moth-eye surfaces, and micro-optical sensors for lab-on-a-chip diagnostic systems.',
+        source: 'https://www.eah-jena.de/hochschule/personenverzeichnis/person/robert-brunner',
+        university: 'Ernst-Abbe-Hochschule Jena (EAH Jena)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 9. Germany - University of Trier (Row 423)
+  {
+    slug: 'university-of-trier',
+    institution: 'University of Trier (Universität Trier)',
+    shortName: 'Uni Trier',
+    countryId: 'germany',
+    countryLabel: 'Germany',
+    location: 'Trier, Rhineland-Palatinate, Germany',
+    website: 'https://www.uni-trier.de',
+    sourceRow: 423,
+    badge: 'Historic Rhineland Humanities, Social Sciences & Environmental Research University',
+    lead: 'The University of Trier (Universität Trier) is a renowned public research university in Germany’s oldest city, celebrated globally for European legal studies, environmental biogeography, computational linguistics, and clinical psychology.',
+    overview: 'Originally founded in 1473 and re-established in 1970 on the scenic Tarforst heights overlooking Trier and the Moselle valley, the University of Trier hosts more than 11,500 students across six faculties. Trier is distinguished for cross-border research within the Greater Region (Germany, France, Luxembourg, and Belgium) and the University of the Greater Region (UniGR) alliance. The university hosts premier research centers including the Institute for Environmental and Technology Law (IUTR), the Trier Center for Digital Humanities (TCDH), and the Research Institute for Psychobiology.',
+    quickFacts: {
+      type: 'Public Research University (Landesuniversität)',
+      campus: 'Campus I & Campus II, Tarforst, Trier',
+      accreditation: 'Ministerium für Wissenschaft und Gesundheit des Landes Rheinland-Pfalz & Systemakkreditiert',
+      admissions: 'PORTA University Application Portal & Uni-Assist for international applicants',
+      language: 'German (primary) and English for international master\'s and doctoral programs',
+      aid: 'Nikolaus Koch Foundation Scholarships, Deutschlandstipendium, DAAD, DFG Fellowships'
+    },
+    strengths: [
+      'European & International Environmental Law (IUTR)',
+      'Digital Humanities, Computational Linguistics & Text Mining',
+      'Environmental Geosciences, Biogeography & Soil Degradation',
+      'Neurobiology of Stress, Psychobiology & Clinical Psychology'
+    ],
+    programs: [
+      { title: 'Master of Science in Applied Environmental Geosciences (English-Taught)', level: 'Master\'s', desc: 'International graduate program in environmental soil chemistry, hydrology, remote sensing, and environmental site assessment.' },
+      { title: 'Master of Science in Data Science / Computational Linguistics', level: 'Master\'s', desc: 'Interdisciplinary curriculum in natural language processing, machine translation algorithms, and large language model analytics.' },
+      { title: 'Magister Juris / Staatsexamen in Rechtswissenschaft (Law)', level: 'State Examination', desc: 'Prestigious German law degree with specializations in European Union law, environmental regulation, and international commercial arbitration.' },
+      { title: 'Master of Science in Psychologie: Klinische Psychologie und Psychotherapie', level: 'Master\'s', desc: 'Accredited clinical psychology program qualifying graduates for state psychotherapist licensure (Approbation).' }
+    ],
+    opportunities: [
+      {
+        id: 4204,
+        title: 'DFG International Research Training Group Doctoral Fellowship in Environmental Change',
+        type: 'Fellowship',
+        subject: 'environment',
+        subjects: ['environment', 'biology'],
+        desc: 'Three-year fully funded doctoral fellowship supported by the German Research Foundation (DFG) investigating ecosystem resilience to climate stress.',
+        funding: 'TV-L E13 (75%) salary approximately €3,100 gross monthly plus travel and equipment funds',
+        fee: '€0',
+        tuition: '€0 (no tuition fees; €310/semester contribution includes regional and cross-border train pass into Luxembourg)',
+        deadline: '2027-01-15',
+        deadlineText: 'January 15, 2027',
+        source: 'https://www.uni-trier.de/forschung/promotionsfoerderung',
+        requirements: {
+          gpa: 'Master of Science in geosciences, environmental science, or biology with grade 2.0 or better',
+          ielts: 'IELTS 7.0 or TOEFL iBT 95',
+          gre: 'Not required',
+          papers: 'Master\'s thesis and 10-page doctoral research proposal',
+          references: 'Three academic letters of recommendation from university faculty'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4205,
+        title: 'Master of Science in Applied Environmental Geosciences (English Curriculum)',
+        type: 'Master\'s',
+        subject: 'environment',
+        subjects: ['environment', 'chemistry'],
+        desc: 'Four-semester English-taught master\'s program offering laboratory and field courses in soil erosion modeling, pollutant fate, and GIS watershed management.',
+        funding: 'Eligible for Nikolaus Koch Foundation scholarships and DAAD master\'s grants',
+        fee: '€75 (Uni-Assist)',
+        tuition: '€0 tuition; €310/semester contribution',
+        deadline: '2027-01-31',
+        deadlineText: 'January 31, 2027',
+        source: 'https://www.uni-trier.de/studium/studienangebot/master/applied-environmental-geosciences-msc',
+        requirements: {
+          gpa: 'Bachelor of Science in environmental science, geography, geology, or agricultural science with minimum 2.5',
+          ielts: 'IELTS 6.5 or TOEFL 85',
+          gre: 'Not required',
+          papers: 'Curriculum vitae and 500-word statement of environmental research focus',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4206,
+        title: 'Nikolaus Koch Foundation Excellence Scholarship for International Students',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'computer-science'],
+        desc: 'Regional foundation scholarship supporting exceptionally talented international students completing master\'s or doctoral degrees in Trier.',
+        funding: '€900 monthly allowance for twelve months (renewable)',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-11-30',
+        deadlineText: 'November 30, 2026',
+        source: 'https://www.uni-trier.de/international/wege-nach-trier/stipendien',
+        requirements: {
+          gpa: 'Academic record in top 15% of graduating class',
+          ielts: 'English or German proficiency appropriate to degree',
+          gre: 'Not required',
+          papers: 'Motivation letter highlighting connection to the Trier/Greater Region research ecosystem',
+          references: 'Two recommendations from University of Trier professors'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4207,
+        title: 'Trier Center for Digital Humanities (TCDH) Graduate Research Studentship',
+        type: 'Fellowship',
+        subject: 'computer-science',
+        subjects: ['computer-science', 'social-sciences'],
+        desc: 'Two-year research assistantship at TCDH working on automated text collation, named entity recognition in historical manuscripts, and semantic web graphs.',
+        funding: 'Half-time TV-L E13 salary (€2,200 monthly gross) plus full access to high-performance computing clusters',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-15',
+        deadlineText: 'December 15, 2026',
+        source: 'https://tcdh.uni-trier.de/de/projekte',
+        requirements: {
+          gpa: 'Master\'s in digital humanities, computational linguistics, or computer science with 2.2 or better',
+          ielts: 'Working proficiency in German and English',
+          gre: 'Not required',
+          papers: 'Code repository link or master\'s thesis excerpt in Python, XML-TEI, or NLP pipelines',
+          references: 'Two academic letters of recommendation'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4208,
+        title: 'Master of Science in Clinical Psychology and Psychotherapy (Approbation Track)',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'biology'],
+        desc: 'Four-semester polyvalent master\'s program conforming to the new German Psychotherapists Act, with clinical rotations at Trier University Outpatient Clinics.',
+        funding: 'Zero state tuition; clinical practical placements compensated by hospital clinics',
+        fee: '€0',
+        tuition: '€0 tuition; €310/semester contribution',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.uni-trier.de/studium/studienangebot/master/psychologie-msc',
+        requirements: {
+          gpa: 'Bachelor of Science in Psychology meeting the requirements of the German PsychThApprO with minimum grade 2.0',
+          ielts: 'German language proficiency at level C2 or C1 with DSH-3',
+          gre: 'Not required',
+          papers: 'Proof of completed clinical diagnostics and psychopathology modules',
+          references: 'Two academic references'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4209,
+        title: 'European and Technology Law (IUTR) Research Practicum',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'Four-month research internship at the Institute for Environmental and Technology Law analyzing EU renewable energy directives and cross-border environmental litigation.',
+        funding: '€950 monthly research stipend',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.uni-trier.de/fakultaeten/rechtswissenschaft/institute/iutr',
+        requirements: {
+          gpa: 'Law student with at least four completed semesters and above-average marks',
+          ielts: 'Fluent German and good working English or French',
+          gre: 'Not required',
+          papers: 'Legal seminar paper sample in public or environmental law',
+          references: 'One law professor endorsement'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      },
+      {
+        id: 4210,
+        title: 'Greater Region Cross-Border Mobility Semester (UniGR Program)',
+        type: 'Course',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'environment'],
+        desc: 'One-semester mobility program allowing Trier students to take accredited courses and seminars tuition-free at partner universities in Luxembourg, Lorraine, Liège, and Saarbrücken.',
+        funding: 'UniGR travel bursary of €500 per semester plus free cross-border transport',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.uni-gr.eu/en',
+        requirements: {
+          gpa: 'Enrolled in full-time degree at University of Trier with good standing',
+          ielts: 'Language proficiency required by host university course (German, French, or English)',
+          gre: 'Not required',
+          papers: 'UniGR Learning Agreement approved by Trier departmental coordinator',
+          references: 'Academic advisor signature'
+        },
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        location: 'Trier, Rhineland-Palatinate, Germany'
+      }
+    ],
+    researchers: [
+      {
+        id: 1821,
+        name: 'Prof. Dr. Jobst-Hinrich Ubbelohde',
+        title: 'Professor of Public Law, Environmental Law and European Law & Director of IUTR',
+        subject: 'social-sciences',
+        topics: ['European Environmental Law', 'Renewable Energy Regulatory Policy', 'Cross-Border Infrastructure Law'],
+        summary: 'Leading administrative law scholar advising the European Commission and federal ministries on environmental impact assessment procedures and emissions trading mechanisms.',
+        source: 'https://www.uni-trier.de/fakultaeten/rechtswissenschaft/professuren-lehrstuehle/oeffentliches-recht/prof-dr-j-h-ubbelohde',
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1822,
+        name: 'Prof. Dr. Dirk Wenzel',
+        title: 'Professor of Clinical Psychobiology and Stress Research',
+        subject: 'biology',
+        topics: ['Neurobiology of Stress', 'Cortisol Reactivity', 'Psychoneuroendocrinology'],
+        summary: 'Psychobiologist examining individual endocrine stress vulnerability, the Trier Social Stress Test (TSST) biomarkers, and epigenetic markers of chronic exhaustion.',
+        source: 'https://www.uni-trier.de/fakultaeten/fachbereich-i/faecher/psychologie/professuren/psychobiologie',
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1823,
+        name: 'Prof. Dr. Claudine Moulin',
+        title: 'Professor of Historical Linguistics and Digital Humanities, Senior Fellow at TCDH',
+        subject: 'social-sciences',
+        topics: ['Computational Philology', 'Historical Lexicography', 'Digital Scholarly Editions'],
+        summary: 'Pioneering linguist and digital humanities researcher developing digital editions of medieval and early modern texts using computational corpus linguistics.',
+        source: 'https://www.uni-trier.de/fakultaeten/fachbereich-ii/faecher/germanistik/faecher/aeltere-deutsche-philologie/prof-dr-claudine-moulin',
+        university: 'University of Trier (Universität Trier)',
+        country: 'Germany',
+        recruiting: 'Not verified'
+      }
+    ]
+  },
+
+  // 10. Italy - SSML Carlo Bo University Institute (Row 502)
+  {
+    slug: 'ssml-carlo-bo-university-institute',
+    institution: 'SSML Carlo Bo University Institute (Scuola Superiore Mediatori Linguistici Carlo Bo)',
+    shortName: 'SSML Carlo Bo',
+    countryId: 'italy',
+    countryLabel: 'Italy',
+    location: 'Rome, Milan, Bari, Bologna, Florence, Italy',
+    website: 'https://www.ssmlcarlobo.it',
+    sourceRow: 502,
+    badge: 'Italy\'s Historic Premier Higher Institute for Interpreting & Translation',
+    lead: 'SSML Carlo Bo (Scuola Superiore per Mediatori Linguistici Carlo Bo) is Italy’s historic, state-recognized university institute dedicated to linguistic mediation, conference interpreting, multilingual diplomatic negotiation, and cross-border digital communication.',
+    overview: 'Founded in 1951 by the renowned literary critic and senator-for-life Carlo Bo, SSML Carlo Bo has served for more than seven decades as the gold standard of Italian higher education in specialized translation and simultaneous interpretation. Recognized by the Italian Ministry of University and Research (MUR) under Ministerial Decree 38/2002 as equivalent to university bachelor’s degrees (Classe L-12), the institute operates five campuses across Rome, Milan, Bari, Bologna, and Florence. Graduates serve throughout European Union institutions, international diplomatic missions, multinational corporations, and global media networks.',
+    quickFacts: {
+      type: 'State-Recognized University Institute for Linguistic Mediation (Istituto Universitario)',
+      campus: 'Rome, Milan, Bari, Bologna & Florence Campuses',
+      accreditation: 'Ministero dell\'Università e della Ricerca (MUR) — Classe di Laurea L-12',
+      admissions: 'Admission test in native and foreign languages through SSML Carlo Bo portal',
+      language: 'Italian (primary) with intensive instruction in English, French, Spanish, German, Russian, Chinese, and Arabic',
+      aid: 'LazioDiSCo, EDiSU Regional Scholarships, Carlo Bo Merit Reductions, Erasmus+ mobility grants'
+    },
+    strengths: [
+      'Simultaneous & Consecutive Conference Interpreting',
+      'Specialized Legal, Financial & Technical Translation',
+      'International Diplomatic & Cross-Cultural Negotiation',
+      'Digital Localization, Multilingual SEO & Transcreation'
+    ],
+    programs: [
+      { title: 'Corso di Laurea Triennale in Mediazione Linguistica (Classe L-12)', level: 'Bachelor\'s', desc: 'Three-year university degree conferring official legal qualification in two foreign languages with specializations in International Business, Diplomacy, or Digital Media.' },
+      { title: 'Master di Primo Livello in Interpretariato di Conferenza', level: 'Master\'s', desc: 'Intensive postgraduate professional master\'s training simultaneous interpreters in soundproof conference booths for international institutions and summits.' },
+      { title: 'Master in Traduzione Specialistica Giuridico-Economica', level: 'Master\'s', desc: 'Postgraduate professional master\'s focusing on multinational contract law, financial disclosures, European court filings, and patent translation.' },
+      { title: 'Corso di Perfezionamento in Localizzazione e Scrittura Multilingue per il Web', level: 'Certificate', desc: 'Postgraduate specialization in software string localization, gaming transcreation, and global digital content strategy.' }
+    ],
+    opportunities: [
+      {
+        id: 4211,
+        title: 'Carlo Bo Merit Scholarship for Multilingual Interpreting Talents',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'arts-design'],
+        desc: 'Merit-based tuition scholarship awarded to the top-scoring applicants on the national entrance examination for the three-year Degree in Linguistic Mediation.',
+        funding: '50% tuition reduction worth up to €3,400 per academic year',
+        fee: '€100 (SSML Carlo Bo admission exam fee)',
+        tuition: '€6,800/year (standard tuition for degree program)',
+        deadline: '2027-01-25',
+        deadlineText: 'January 25, 2027',
+        source: 'https://www.ssmlcarlobo.it/agevolazioni-borse-di-studio/',
+        requirements: {
+          gpa: 'High school diploma with final mark of at least 85/100 (or international equivalent)',
+          ielts: 'Fluent Italian (C1) and B2/C1 in first chosen foreign language (English, French, Spanish, or German)',
+          gre: 'Not required',
+          papers: 'Passing grade on the Carlo Bo language aptitude and general knowledge admission test',
+          references: 'One high school language teacher recommendation letter'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4212,
+        title: 'Master in Conference Interpreting: European Parliament Booth Practicum',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'One-year postgraduate professional master\'s program offering over 400 hours of simultaneous booth training, dummy-booth sessions at EU institutions, and speech synthesis.',
+        funding: 'Eligible for Directorate-General for Interpretation (SCIC) training bursaries up to €2,500',
+        fee: '€120',
+        tuition: '€7,900 total master tuition',
+        deadline: '2027-02-15',
+        deadlineText: 'February 15, 2027',
+        source: 'https://www.ssmlcarlobo.it/master-interpretariato/',
+        requirements: {
+          gpa: 'Undergraduate degree (Laurea Triennale or equivalent) in languages, translation, or international relations',
+          ielts: 'Native or near-native (C2) competence in language A and C1/C2 in languages B and C',
+          gre: 'Not required',
+          papers: 'Aptitude entrance test featuring live consecutive interpretation and sight translation',
+          references: 'Two letters from conference interpreters or university professors'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4213,
+        title: 'LazioDiSCo / EDiSU Regional Full University Study Grant',
+        type: 'Scholarship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Regional government scholarship providing full tuition exemption, free campus dining services, and cash living grants for eligible enrolled students.',
+        funding: 'Full tuition waiver plus annual living grant up to €6,800 depending on ISEE indicator',
+        fee: '€0',
+        tuition: '€0 (fully exempted via regional scholarship)',
+        deadline: '2026-11-15',
+        deadlineText: 'November 15, 2026',
+        source: 'https://www.laziodisco.it',
+        requirements: {
+          gpa: 'Regular enrollment and completion of minimum annual CFU credit benchmarks',
+          ielts: 'Proficiency in language of study',
+          gre: 'Not required',
+          papers: 'Certified ISEE Parificato documentation demonstrating family income under €26,000',
+          references: 'Not required'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4214,
+        title: 'Bachelor in Linguistic Mediation (L-12) International Business Track',
+        type: 'Bachelor\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences', 'arts-design'],
+        desc: 'Three-year degree combining two foreign languages with international business law, marketing transcreation, cross-cultural management, and trade negotiation.',
+        funding: 'Erasmus+ traineeship mobility funding of €450–€600 monthly for international internships',
+        fee: '€100',
+        tuition: '€6,800/year',
+        deadline: '2027-03-01',
+        deadlineText: 'March 1, 2027',
+        source: 'https://www.ssmlcarlobo.it/corso-di-laurea-triennale/',
+        requirements: {
+          gpa: 'Upper secondary school diploma (Maturità) or international IB/A-Level equivalent',
+          ielts: 'Italian B2/C1 and primary foreign language B1/B2',
+          gre: 'Not required',
+          papers: 'Written and oral entrance test evaluating Italian text comprehension and foreign language grammar',
+          references: 'Not required'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4215,
+        title: 'Master in Legal and Financial Translation: Multinational M&A Practicum',
+        type: 'Master\'s',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Postgraduate professional master\'s focusing on translation of cross-border financial prospectuses, arbitral awards, patent applications, and GDPR disclosures.',
+        funding: 'Corporate partner tuition vouchers up to €1,500 for qualifying legal translation trainees',
+        fee: '€100',
+        tuition: '€5,600 total tuition',
+        deadline: '2027-01-30',
+        deadlineText: 'January 30, 2027',
+        source: 'https://www.ssmlcarlobo.it/master-traduzione/',
+        requirements: {
+          gpa: 'Bachelor\'s degree in law, economics, or languages with minimum 95/110',
+          ielts: 'C1 in English and C1 in Italian',
+          gre: 'Not required',
+          papers: 'Translation test of a standard commercial contract excerpt',
+          references: 'Two academic or legal profession references'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4216,
+        title: 'Diplomatic Mission and NGO Multilingual Internship Program',
+        type: 'Internship',
+        subject: 'social-sciences',
+        subjects: ['social-sciences'],
+        desc: 'Six-month professional internship embedded within foreign embassies in Rome, international NGOs, or the UN Food and Agriculture Organization (FAO) liaison office.',
+        funding: 'Monthly training reimbursement of €500–€800 plus academic credit accreditation',
+        fee: '€0',
+        tuition: '€0',
+        deadline: '2026-12-20',
+        deadlineText: 'December 20, 2026',
+        source: 'https://www.ssmlcarlobo.it/stage-e-tirocini/',
+        requirements: {
+          gpa: 'Third-year undergraduate or master\'s student with average mark above 27/30',
+          ielts: 'Fluent Italian and two foreign languages at C1 level',
+          gre: 'Not required',
+          papers: 'Europass CV and 500-word statement on diplomatic liaison interests',
+          references: 'Approval from Carlo Bo Stage Office director'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      },
+      {
+        id: 4217,
+        title: 'Professional Masterclass in Audiovisual Subtitling and Dubbing Adaptation',
+        type: 'Course',
+        subject: 'arts-design',
+        subjects: ['arts-design', 'social-sciences'],
+        desc: 'Twelve-week intensive course on time-coded subtitling, voice-over adaptation, video game script transcreation, and audio description for the visually impaired.',
+        funding: 'Subsidized workshop fees for enrolled Carlo Bo students and alumni',
+        fee: '€50',
+        tuition: '€1,400 total course fee',
+        deadline: '2027-02-28',
+        deadlineText: 'February 28, 2027',
+        source: 'https://www.ssmlcarlobo.it/corsi-specializzazione/',
+        requirements: {
+          gpa: 'Demonstrated foreign language competence at B2+ level',
+          ielts: 'Not required if Italian degree held',
+          gre: 'Not required',
+          papers: 'Short essay translating and culturally adapting a dialogue script',
+          references: 'Not required'
+        },
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        location: 'Rome, Milan, Bari, Bologna, Florence, Italy'
+      }
+    ],
+    researchers: [
+      {
+        id: 1824,
+        name: 'Prof.ssa Stefania Cavagnoli',
+        title: 'Scientific Director & Full Professor of Applied Linguistics and Legal Language',
+        subject: 'social-sciences',
+        topics: ['Forensic Linguistics', 'Gender and Language in Public Institutions', 'Legal Translation Hermeneutics'],
+        summary: 'Eminent sociolinguist and expert in plain legal language, researching multilingual legal drafting in the European Union and linguistic human rights in judicial proceedings.',
+        source: 'https://www.ssmlcarlobo.it/docenti/stefania-cavagnoli/',
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1825,
+        name: 'Prof. Christopher Garwood',
+        title: 'Senior Lecturer in Simultaneous Conference Interpreting',
+        subject: 'social-sciences',
+        topics: ['Cognitive Load in Simultaneous Interpretation', 'Speech Prosody in Interpreting', 'Bilingual Terminology Extraction'],
+        summary: 'Veteran conference interpreter for EU summits and state heads, analyzing cognitive split-attention mechanisms during simultaneous booth interpretation and AI-assisted interpreter tooling.',
+        source: 'https://www.ssmlcarlobo.it/docenti/christopher-garwood/',
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      },
+      {
+        id: 1826,
+        name: 'Prof. Maurizio Viezzi',
+        title: 'Visiting Professor & Former President of CIUTI (International Standing Conference of University Institutes of Translators and Interpreters)',
+        subject: 'social-sciences',
+        topics: ['Quality Assessment in Interpreting', 'Public Service Interpreting Ethics', 'International Translators Pedagogy'],
+        summary: 'World-recognized leader in interpreter education, defining global accreditation standards and evaluating communicative effectiveness in conference and community interpreting.',
+        source: 'https://www.ssmlcarlobo.it/docenti/maurizio-viezzi/',
+        university: 'SSML Carlo Bo University Institute',
+        country: 'Italy',
+        recruiting: 'Not verified'
+      }
+    ]
+  }
+];

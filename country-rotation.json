@@ -12,10 +12,9 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 55,
+  "cycle": 56,
   "completedInCycle": [
     "canada",
-    "australia",
     "germany",
     "italy",
     "usa",
@@ -26,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Wageningen Bioveterinary Research",
-    "sourceRow": 1544
+    "university": "University Medical Center Groningen (UMCG)",
+    "sourceRow": 1522
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 62,
+    "canada": 66,
     "australia": 57,
-    "germany": 63,
-    "italy": 61,
-    "usa": 64,
-    "uk": 62,
-    "japan": 63,
+    "germany": 68,
+    "italy": 65,
+    "usa": 69,
+    "uk": 66,
+    "japan": 67,
     "sweden": 56,
-    "netherlands": 62,
+    "netherlands": 66,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
