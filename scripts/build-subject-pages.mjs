@@ -1949,7 +1949,65 @@ const universityMap = {
   "University of Marketing and Distribution Sciences": "/universities/university-of-marketing-and-distribution-sciences-kobe/",
   "UMDS Kobe": "/universities/university-of-marketing-and-distribution-sciences-kobe/",
   "University of the Sacred Heart, Tokyo": "/universities/university-of-the-sacred-heart-tokyo/",
-  "Sacred Heart Tokyo": "/universities/university-of-the-sacred-heart-tokyo/"
+  "Sacred Heart Tokyo": "/universities/university-of-the-sacred-heart-tokyo/",
+  "Hochschule der Polizei Rheinland-Pfalz": "/universities/hochschule-der-polizei-rheinland-pfalz/",
+  "HdP RLP": "/universities/hochschule-der-polizei-rheinland-pfalz/",
+  "SLUB Dresden - Saxon State and University Library": "/universities/slub-dresden-state-university-library/",
+  "SLUB Dresden": "/universities/slub-dresden-state-university-library/",
+  "Staatliches Studienkolleg Nordhausen": "/universities/staatliches-studienkolleg-nordhausen/",
+  "Studienkolleg Nordhausen": "/universities/staatliches-studienkolleg-nordhausen/",
+  "Staatliche Studienakademie Riesa - Berufsakademie Sachsen": "/universities/staatliche-studienakademie-riesa/",
+  "BA Riesa": "/universities/staatliche-studienakademie-riesa/",
+  "Steinbeis Center of Management and Technology (SCMT)": "/universities/steinbeis-center-of-management-and-technology/",
+  "SCMT": "/universities/steinbeis-center-of-management-and-technology/",
+  "Steinbeis School of Management and Innovation (SMI)": "/universities/steinbeis-school-of-management-and-innovation/",
+  "Steinbeis SMI": "/universities/steinbeis-school-of-management-and-innovation/",
+  "Technische Akademie Esslingen (TAE Studium Stuttgart)": "/universities/technische-akademie-esslingen-tae-stuttgart/",
+  "TAE Esslingen": "/universities/technische-akademie-esslingen-tae-stuttgart/",
+  "Technische Oberschule Stuttgart": "/universities/technische-oberschule-stuttgart/",
+  "TO Stuttgart": "/universities/technische-oberschule-stuttgart/",
+  "Thüringer ERP-Kompetenzzentrum": "/universities/thueringer-erp-kompetenzzentrum/",
+  "ERP Thüringen": "/universities/thueringer-erp-kompetenzzentrum/",
+  "Unipark Studienkolleg Leipzig": "/universities/unipark-studienkolleg-leipzig/",
+  "Unipark Leipzig": "/universities/unipark-studienkolleg-leipzig/",
+  "Universitätsklinikum Brandenburg an der Havel": "/universities/universitaetsklinikum-brandenburg-an-der-havel/",
+  "UKB MHB": "/universities/universitaetsklinikum-brandenburg-an-der-havel/",
+  "Hochschule für den öffentlichen Dienst in Bayern (HföD Bayern)": "/universities/hochschule-fuer-den-oeffentlichen-dienst-in-bayern/",
+  "HföD Bayern": "/universities/hochschule-fuer-den-oeffentlichen-dienst-in-bayern/",
+  "Hochschule für öffentliche Verwaltung Rheinland-Pfalz (HöV RLP)": "/universities/hochschule-fuer-oeffentliche-verwaltung-rheinland-pfalz/",
+  "HöV RLP": "/universities/hochschule-fuer-oeffentliche-verwaltung-rheinland-pfalz/",
+  "Universität Bayern e.V. - Bayerische Universitätenkonferenz": "/universities/universitaet-bayern-ev-muenchen/",
+  "Universität Bayern": "/universities/universitaet-bayern-ev-muenchen/",
+  "Harvey Mudd College": "/universities/harvey-mudd-college-claremont/",
+  "Harvey Mudd": "/universities/harvey-mudd-college-claremont/",
+  "Hawaii Pacific University": "/universities/hawaii-pacific-university-honolulu/",
+  "HPU": "/universities/hawaii-pacific-university-honolulu/",
+  "Helena College University of Montana": "/universities/helena-college-university-of-montana/",
+  "Helena College": "/universities/helena-college-university-of-montana/",
+  "Herzing University": "/universities/herzing-university-milwaukee/",
+  "Herzing": "/universities/herzing-university-milwaukee/",
+  "New Mexico Highlands University": "/universities/new-mexico-highlands-university/",
+  "NMHU": "/universities/new-mexico-highlands-university/",
+  "Howard University": "/universities/howard-university-washington-dc/",
+  "Howard": "/universities/howard-university-washington-dc/",
+  "Idaho College of Osteopathic Medicine": "/universities/idaho-college-of-osteopathic-medicine/",
+  "ICOM": "/universities/idaho-college-of-osteopathic-medicine/",
+  "Illinois College": "/universities/illinois-college-jacksonville/",
+  "Illinois Institute of Technology": "/universities/illinois-institute-of-technology-chicago/",
+  "Illinois Tech": "/universities/illinois-institute-of-technology-chicago/",
+  "Illinois Valley Community College": "/universities/illinois-valley-community-college/",
+  "IVCC": "/universities/illinois-valley-community-college/",
+  "Illinois Wesleyan University": "/universities/illinois-wesleyan-university-bloomington/",
+  "IWU": "/universities/illinois-wesleyan-university-bloomington/",
+  "Indiana State University": "/universities/indiana-state-university-terre-haute/",
+  "ISU": "/universities/indiana-state-university-terre-haute/",
+  "Indiana Tech": "/universities/indiana-tech-fort-wayne/",
+  "Indiana University East": "/universities/indiana-university-east-richmond/",
+  "IU East": "/universities/indiana-university-east-richmond/",
+  "Indiana University Fort Wayne (IUFW)": "/universities/indiana-university-fort-wayne/",
+  "IU Fort Wayne": "/universities/indiana-university-fort-wayne/",
+  "Indiana Wesleyan University": "/universities/indiana-wesleyan-university-marion/",
+  "IWU Marion": "/universities/indiana-wesleyan-university-marion/"
 };
 
 const getUniPath = u => universityMap[u] || `/universities/${slug(u)}/`;
@@ -2009,11 +2067,11 @@ ${cardsHtml}
       const facUrl = `/researchers/${f.id}-${slug(f.name)}/`;
       const uniUrl = getUniPath(f.university);
       return `        <article class="card">
-          <span class="tag">${f.title}</span>
+          <span class="tag">${f.title || f.role || 'Faculty'}</span>
           <h3><a href="${facUrl}">${f.name}</a></h3>
           <p class="institution"><strong><a href="${uniUrl}">${f.university}</a></strong> (${f.country})</p>
-          <p>${f.summary}</p>
-          <p><strong>Fields:</strong> ${f.topics.join(', ')}</p>
+          <p>${f.summary || f.bio || ''}</p>
+          <p><strong>Fields:</strong> ${(f.topics || [f.department || 'Academic Research']).join(', ')}</p>
           <div class="mini"><span class="tag">Recruitment status</span><br><b>Not verified — do not assume a vacancy</b></div>
           <div class="actions">
             <a class="btn" href="${facUrl}">Research profile ↗</a>
