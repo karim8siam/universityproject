@@ -216964,6 +216964,5046 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 8067,
+    "title": "Bachelor of Science in Sustainable Rangeland & Wildlife Ecology",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary degree studying forest ecosystems, rangeland restoration, wildlife conservation, and watershed hydrology in eastern Oregon.",
+    "funding": "Eligible for EOU Mountaineer Scholar Awards up to $8,000 annually",
+    "tuition": "$9,840 annual in-state / $16,800 non-resident tuition",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "Cumulative high school GPA 2.75+ or college transfer credit with 2.50+",
+      "ielts": "IELTS 6.0 or TOEFL iBT 61 for international students",
+      "gre": "Not required",
+      "papers": "High school transcripts and personal educational goals essay",
+      "references": "One academic reference letter from counselor or teacher"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8068,
+    "title": "Bachelor of Science in Computer Science & Cloud Analytics",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Comprehensive four-year computer science curriculum covering object-oriented programming, cloud computing infrastructure, and applied database systems.",
+    "funding": "EOU STEM Dean’s Merit Grant up to $5,000 per year",
+    "tuition": "$10,200 per academic year",
+    "fee": "$50 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "High school diploma with algebra and pre-calculus coursework",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal statement",
+      "references": "One recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8069,
+    "title": "Master of Science in Education (M.S.Ed.) & Rural Teaching Leadership",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate teacher preparation degree focusing on differentiated curriculum design, rural school district leadership, and instructional technology.",
+    "funding": "Oregon Rural Educator Loan Forgiveness and graduate assistantships available",
+    "tuition": "$545 per graduate credit hour ($19,620 total program)",
+    "fee": "$50 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree from accredited institution with 3.00+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Philosophy of education statement and resume of teaching experience",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8070,
+    "title": "EOU International Student Academic Excellence Award",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive tuition remission scholarship awarded to undergraduate international students based on secondary school academic merit.",
+    "funding": "$4,000 to $7,500 annual tuition waiver renewable for four years",
+    "tuition": "Direct reduction of non-resident tuition",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "International admission GPA 3.25+ or equivalent secondary school marks",
+      "ielts": "IELTS 6.5 or TOEFL 70+",
+      "gre": "Not required",
+      "papers": "Scholarship application essay detailing cross-cultural leadership",
+      "references": "One teacher or principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8071,
+    "title": "Grande Ronde Basin Hydrology & Stream Restoration Fellowship",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Undergraduate research fellowship supporting stream temperature monitoring, salmon habitat restoration, and GIS hydrological mapping in northeastern Oregon rivers.",
+    "funding": "$6,000 annual research stipend plus field lodging",
+    "tuition": "Funded field fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "Enrolled Biology or Environmental Science major with 3.00+ GPA",
+      "ielts": "English proficiency suitable for fieldwork coordination",
+      "gre": "Not required",
+      "papers": "Field research proposal and academic transcript",
+      "references": "Recommendation from faculty mentor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8072,
+    "title": "Rural Community Health & Telehealth Practicum Internship",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "location": "La Grande, Oregon, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Applied healthcare internship placing pre-health and psychology students in rural health clinics throughout Union and Baker counties.",
+    "funding": "$3,500 semester clinical stipend and mileage reimbursement",
+    "tuition": "Internship academic credit available",
+    "fee": "$0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.eou.edu",
+    "requirements": {
+      "gpa": "Sophomore or Junior standing with 2.80+ GPA in health sciences",
+      "ielts": "Fluent English for patient communication",
+      "gre": "Not required",
+      "papers": "Cover letter, resume, and background check",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8073,
+    "title": "Bachelor of Science in Cybersecurity & Digital Infrastructure Defense",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on curriculum analyzing network forensics, penetration testing, information assurance policies, and cloud infrastructure defense in New York City.",
+    "funding": "Eligible for SUNY Empire Foundation Scholarships and NYS Excelsior Scholarship",
+    "tuition": "$7,070 annual in-state / $16,980 non-resident tuition",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "High school diploma or 24+ transferable college credits with 2.50+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79 for international students",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal learning essay",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8074,
+    "title": "Master of Arts in Adult Learning & Instructional Design",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate program preparing corporate trainers, higher education administrators, and instructional designers in digital curriculum architecture.",
+    "funding": "Graduate assistantships and diversity fellowship stipends available",
+    "tuition": "$5,655 per semester in-state ($11,310 annual)",
+    "fee": "$50 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "Accredited bachelor’s degree with 3.00+ cumulative GPA",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Statement of professional purpose and curriculum vitae",
+      "references": "Two professional or academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8075,
+    "title": "Bachelor of Professional Studies in Healthcare Management",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Degree path designed for clinical allied health professionals advancing into healthcare facility administration, health informatics, and clinical governance.",
+    "funding": "SUNY Empire Healthcare Leadership Grants up to $3,500",
+    "tuition": "$353 per credit hour ($10,590 annual full-time)",
+    "fee": "$50 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "High school completion or clinical associate degree",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts and statement of educational intent",
+      "references": "One professional recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8076,
+    "title": "Manhattan Urban Diversity & Adult Learner Scholarship",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit and need-based scholarship providing direct tuition support for adult learners and non-traditional students attending the Manhattan campus.",
+    "funding": "$2,500 to $5,000 annual scholarship award",
+    "tuition": "Direct tuition remission",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "Undergraduate cumulative GPA 3.00+ at SUNY Empire",
+      "ielts": "Enrolled student status",
+      "gre": "Not required",
+      "papers": "Scholarship essay detailing community engagement in NYC",
+      "references": "One mentor endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8077,
+    "title": "Labor Relations & Worker Rights Policy Fellowship",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Research fellowship conducted through the Harry Van Arsdale Jr. School of Labor Studies, exploring collective bargaining in modern gig economies.",
+    "funding": "$4,500 project grant and archival access to NY labor archives",
+    "tuition": "Fellowship grant funding",
+    "fee": "$0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "Enrolled graduate or upper-level undergraduate with 3.20+ GPA",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Research project outline on labor trends and resume",
+      "references": "Faculty advisor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8078,
+    "title": "Fintech & New York Financial District Internship Practicum",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Structured business practicum connecting SUNY Empire finance students with Manhattan investment funds, regulatory compliance bodies, and fintech startups.",
+    "funding": "$4,000 semester internship stipend",
+    "tuition": "Academic course credit included",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://sunyempire.edu",
+    "requirements": {
+      "gpa": "Completed 60+ undergraduate credits with 3.00+ GPA in business/finance",
+      "ielts": "Professional English fluency",
+      "gre": "Not required",
+      "papers": "Professional resume and cover letter",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8079,
+    "title": "Bachelor of Science in Information Technology & Software Development",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "ABET-accredited degree path covering modern software engineering, web database architecture, object-oriented design, and mobile app development.",
+    "funding": "Eligible for Georgia HOPE and Zell Miller Scholarships plus GGC Foundation Grants",
+    "tuition": "$4,166 annual in-state / $13,446 non-resident tuition",
+    "fee": "$20 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "High school graduation with minimum 2.00 core GPA (2.50+ recommended)",
+      "ielts": "IELTS 6.0 or TOEFL 74 for international applicants",
+      "gre": "Not required",
+      "papers": "Official high school transcripts and immunization clearance",
+      "references": "Not required for general admission"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8080,
+    "title": "Bachelor of Science in Chemistry & Pre-Pharmacy Research",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Rigorous laboratory chemistry degree covering organic synthesis, instrumental spectrometry, medicinal biochemistry, and physical chemistry research.",
+    "funding": "GGC STEM Undergraduate Research Assistantships up to $3,000 per term",
+    "tuition": "$4,350 annual in-state / $13,600 non-resident",
+    "fee": "$20 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "High school GPA 2.50+ with advanced biology and chemistry courses",
+      "ielts": "IELTS 6.0 or TOEFL 74",
+      "gre": "Not required",
+      "papers": "High school academic transcripts",
+      "references": "One recommendation letter from a science instructor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8081,
+    "title": "Bachelor of Science in Environmental Science & Urban Ecosystems",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary study of urban water management, ecological restoration, environmental toxicology, and GIS mapping throughout Georgia watersheds.",
+    "funding": "GGC Sustainability Grant and summer research fellowship funding",
+    "tuition": "$4,200 annual in-state / $13,500 non-resident",
+    "fee": "$20 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "High school graduation with 2.25+ core GPA",
+      "ielts": "IELTS 6.0",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8082,
+    "title": "GGC Global Student Academic Achievement Scholarship",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based international scholarship waiving out-of-state tuition differentials for exceptional non-resident and international undergraduate students.",
+    "funding": "Out-of-state tuition waiver saving up to $9,280 annually",
+    "tuition": "Reduces tuition to in-state rates",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "Cumulative college or high school GPA 3.25+",
+      "ielts": "IELTS 6.5 or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Scholarship application essay and resume of extracurricular service",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8083,
+    "title": "Atlanta Innovation Corridor Cybersecurity Practicum",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Corporate technology internship pairing GGC IT majors with Atlanta Fortune 500 cybersecurity security operations centers (SOC).",
+    "funding": "$4,200 semester corporate practicum stipend",
+    "tuition": "Internship academic credit available",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "Information Technology major with 3.00+ GPA and completed networking coursework",
+      "ielts": "English proficiency",
+      "gre": "Not required",
+      "papers": "Resume, technical coding portfolio, and interview",
+      "references": "IT department faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8084,
+    "title": "GGC Undergraduate Molecular Biology Research Fellowship",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "location": "Lawrenceville, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Faculty-mentored laboratory research fellowship investigating antimicrobial peptides and bacterial genome sequencing in GGC’s allied health laboratories.",
+    "funding": "$5,000 summer research stipend plus laboratory supplies",
+    "tuition": "Direct fellowship stipend",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ggc.edu",
+    "requirements": {
+      "gpa": "Biology or Chemistry major with 3.20+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Research project proposal and transcript",
+      "references": "Endorsement from faculty research sponsor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8085,
+    "title": "Master of Science in Aerospace Engineering & Autonomous Hypersonic Systems",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Elite graduate engineering program examining computational aerodynamics, space propulsion, hypersonic thermal protection, and guidance dynamics at the Guggenheim School of Aerospace Engineering.",
+    "funding": "Full Graduate Research Assistantships (GRA) providing 100% tuition waiver plus $2,800 monthly stipend",
+    "tuition": "$14,064 annual in-state / $29,140 non-resident (waived with GRA)",
+    "fee": "$85 graduate application fee",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027 (Fall Priority Consideration)",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree in aerospace, mechanical, or electrical engineering with 3.50+ GPA",
+      "ielts": "IELTS 7.5 or TOEFL iBT 100",
+      "gre": "Quantitative score 164+, Verbal 155+",
+      "papers": "Three-page research statement of purpose and detailed CV",
+      "references": "Three letters of recommendation from engineering professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8086,
+    "title": "Doctor of Philosophy (Ph.D.) in Machine Learning & Autonomous Robotics",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Premier interdisciplinary doctoral degree administered jointly by the College of Computing and College of Engineering, researching deep reinforcement learning and human-robot interaction.",
+    "funding": "Fully funded 5-year doctoral fellowship covering full tuition waiver, health insurance, and $34,000 annual stipend",
+    "tuition": "$0 tuition for funded doctoral fellows",
+    "fee": "$85 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Exceptional academic background in computer science, mathematics, or engineering (3.70+ GPA)",
+      "ielts": "TOEFL 105+ or IELTS 8.0",
+      "gre": "Optional but competitive",
+      "papers": "Statement of research interests, published conference papers/preprints, and CV",
+      "references": "Three letters of recommendation from research investigators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8087,
+    "title": "Bachelor of Science in Biomedical Engineering & Neural Interfacing",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "World top-ranked undergraduate BME program at the Wallace H. Coulter Department of Biomedical Engineering, exploring tissue engineering, medical device bio-design, and neuro-engineering.",
+    "funding": "Georgia Tech Presidential Scholars Program offering full cost-of-attendance merit awards",
+    "tuition": "$12,424 in-state / $33,796 out-of-state per academic year",
+    "fee": "$75 application fee",
+    "deadline": "2027-01-04",
+    "deadlineText": "January 4, 2027 (Regular Decision)",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Rigorous high school calculus, biology, chemistry, and physics with near-top class rank",
+      "ielts": "TOEFL 100+ / IELTS 7.5 for international students",
+      "gre": "Not required for undergraduates",
+      "papers": "Common Application personal essay and Georgia Tech supplemental essays",
+      "references": "Two teacher and counselor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8088,
+    "title": "Georgia Tech Institute for Electronics and Nanotechnology Postdoctoral Fellowship",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Advanced research fellowship utilizing Georgia Tech’s cleanroom facilities to engineer quantum photonic chips, 2D van der Waals materials, and nanoscale transistors.",
+    "funding": "$68,000 annual postdoctoral salary, full healthcare benefits, and $10,000 research discretionary allowance",
+    "tuition": "Full postdoctoral salaried appointment",
+    "fee": "$0 fellowship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Ph.D. in Physics, Electrical Engineering, or Materials Science obtained within 3 years",
+      "ielts": "Fluent technical communication",
+      "gre": "Not required",
+      "papers": "Postdoctoral research proposal, list of peer-reviewed publications, and cover letter",
+      "references": "Three letters of recommendation including Ph.D. dissertation advisor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8089,
+    "title": "Strategic Energy Institute Clean Hydrogen Innovation Grant",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Grant",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Faculty and graduate student collaborative grant funding advanced research in solid oxide fuel cells, electrocatalytic water splitting, and green hydrogen infrastructure.",
+    "funding": "$30,000 direct project funding and access to SEI experimental reactors",
+    "tuition": "Direct research project allocation",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Enrolled Georgia Tech master’s or Ph.D. student in good standing",
+      "ielts": "Enrolled student status",
+      "gre": "Not required",
+      "papers": "Six-page research plan, budget justification, and timeline",
+      "references": "Endorsement from faculty laboratory PI"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8090,
+    "title": "Georgia Tech Technology Square Venture & Incubator Internship",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Prestigious software and hardware innovation practicum based in Tech Square, connecting students with high-growth deep tech startups and enterprise research centers.",
+    "funding": "$30 to $45 per hour compensation ($6,000 to $9,000 per term)",
+    "tuition": "Co-op / Internship academic transcript notation",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-20",
+    "deadlineText": "March 20, 2027",
+    "source": "https://www.gatech.edu",
+    "requirements": {
+      "gpa": "Undergraduate or graduate student with 3.30+ GPA in engineering or computing",
+      "ielts": "Professional English proficiency",
+      "gre": "Not required",
+      "papers": "Technical resume, GitHub code repositories, and project portfolio",
+      "references": "One technical reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8091,
+    "title": "Bachelor of Science in Manufacturing Engineering & Robotics Automation",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on engineering degree focusing on computer-integrated manufacturing, industrial robotics, precision CNC machining, and quality assurance.",
+    "funding": "Eligible for Allen E. Paulson College of Engineering scholarships up to $6,000 annually",
+    "tuition": "$5,446 in-state / $17,538 non-resident per academic year",
+    "fee": "$30 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "High school core GPA 2.50+ with strong mathematics background",
+      "ielts": "IELTS 6.5 or TOEFL 80 for international applicants",
+      "gre": "Not required for undergraduates",
+      "papers": "Official high school transcripts and immunization records",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8092,
+    "title": "Master of Science in Applied Geography & Coastal GIS Hydrology",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Advanced graduate research examining coastal sea-level rise, salt marsh hydrology, spatial remote sensing, and barrier island conservation in Georgia.",
+    "funding": "Graduate teaching and research assistantships with full tuition remission and $14,000 annual stipend",
+    "tuition": "$6,156 in-state / $20,448 non-resident (waived with assistantship)",
+    "fee": "$50 graduate application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree in geography, geology, or environmental science with 3.00+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Optional",
+      "papers": "Research statement of purpose outlining proposed thesis topic and resume",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8093,
+    "title": "Master of Public Health (MPH) in Epidemiology & Biostatistics",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CEPH-accredited graduate professional program training epidemiologists in infectious disease surveillance, chronic disease analytics, and community health.",
+    "funding": "Jiann-Ping Hsu College of Public Health research fellowships up to $8,000",
+    "tuition": "$7,200 annual in-state / $22,800 non-resident",
+    "fee": "$50 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree with minimum 3.00 GPA from accredited college",
+      "ielts": "IELTS 7.0 or TOEFL 85",
+      "gre": "GRE waived for GPA 3.20+",
+      "papers": "SOPHAS personal statement, resume, and public health experience essay",
+      "references": "Three professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8094,
+    "title": "Georgia Southern International Student Leadership Waiver",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based international tuition waiver reducing non-resident tuition costs to in-state equivalent for high-achieving foreign scholars.",
+    "funding": "Out-of-state tuition fee waiver saving up to $12,000 annually",
+    "tuition": "Reduces tuition to in-state rates",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "Minimum cumulative 3.30 GPA on US 4.0 scale",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Essay on international leadership contributions and community goals",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8095,
+    "title": "Port of Savannah Logistics & Global Freight Practicum",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Industry-partnered logistics internship placing business and engineering students at the Georgia Ports Authority Garden City terminal in Savannah.",
+    "funding": "$4,500 semester corporate practicum stipend",
+    "tuition": "Cooperative education credits available",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "Junior or Senior standing in Logistics, Supply Chain, or Industrial Engineering (3.00+ GPA)",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Resume and cover letter",
+      "references": "Department faculty endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8096,
+    "title": "Coastal Plain Ecological Research Grant",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "location": "Statesboro, Georgia, United States",
+    "type": "Grant",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Competitive research grant supporting field sampling of longleaf pine savannahs, coastal dune plant communities, and tidal estuary water quality.",
+    "funding": "$3,500 field equipment and travel funding",
+    "tuition": "Direct research project allocation",
+    "fee": "$0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.georgiasouthern.edu",
+    "requirements": {
+      "gpa": "Enrolled undergraduate or graduate student in Biology/Environmental Sciences",
+      "ielts": "Enrolled student standing",
+      "gre": "Not required",
+      "papers": "Field methodology proposal and budget request",
+      "references": "Faculty research sponsor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8097,
+    "title": "Bachelor of Science in Nursing (BSN) & Rural Clinical Practice",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Top-tier CCNE-accredited nursing curriculum offering clinical rotations in regional hospitals, emergency triage, pediatric care, and surgical nursing.",
+    "funding": "Eligible for GSW Foundation Nursing Endowed Scholarships up to $5,000",
+    "tuition": "$5,080 annual in-state / $15,920 non-resident tuition",
+    "fee": "$25 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Nursing Fall Cohort)",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "Pre-nursing core GPA 3.00+ with prerequisite science courses (anatomy, physiology, microbiology)",
+      "ielts": "IELTS 6.5 or TOEFL 79 for international students",
+      "gre": "TEAS examination score >= 75%",
+      "papers": "Nursing application essay and health immunization clearance",
+      "references": "Two academic or clinical references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8098,
+    "title": "Bachelor of Science in Computer Science & Applied Software Engineering",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on program exploring full-stack software development, relational databases, systems programming, and modern machine intelligence.",
+    "funding": "GSW Canes STEM Merit Grants up to $3,500 annually",
+    "tuition": "$5,100 annual in-state / $16,000 non-resident",
+    "fee": "$25 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "High school core GPA 2.50+ with mathematics aptitude",
+      "ielts": "IELTS 6.0 or TOEFL 69",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal statement",
+      "references": "One recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8099,
+    "title": "Master of Business Administration (MBA) with Health Informatics Track",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited online and on-campus MBA focusing on strategic executive leadership, healthcare data systems, and financial management.",
+    "funding": "Graduate assistantships available with tuition waiver and stipend",
+    "tuition": "$257 per credit hour in-state ($7,710 total 30-hour program)",
+    "fee": "$25 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree from an accredited institution with 2.75+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GMAT/GRE waived for GPA 3.00+ or professional experience",
+      "papers": "Statement of purpose and professional resume",
+      "references": "Two professional letters of reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8100,
+    "title": "Rosalynn Carter Caregiver Research & Advocacy Fellowship",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Preeminent fellowship conducted with the Rosalynn Carter Institute for Caregivers, evaluating evidence-based family caregiver support interventions.",
+    "funding": "$5,500 research grant and national conference presentation travel support",
+    "tuition": "Funded research fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "Enrolled upper-division or graduate student in Nursing, Psychology, or Sociology (3.20+ GPA)",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Caregiving research proposal and curriculum vitae",
+      "references": "Faculty mentor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8101,
+    "title": "GSW International Student Presidential Tuition Waiver",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Presidential merit award granting out-of-state tuition fee waivers for academically distinguished foreign undergraduate students.",
+    "funding": "Saves up to $10,800 annually in non-resident tuition",
+    "tuition": "Reduces tuition to in-state levels",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "Minimum cumulative 3.20 high school GPA or 3.00 transfer GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Essay on international perspective and academic goals",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8102,
+    "title": "Southwest Georgia Regional Hospital Clinical Internship",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "location": "Americus, Georgia, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Immersive semester clinical training rotation at regional healthcare systems throughout Sumter and surrounding rural Georgia counties.",
+    "funding": "$3,200 clinical internship stipend",
+    "tuition": "Earns 3-6 clinical course credits",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://gsw.edu",
+    "requirements": {
+      "gpa": "Accepted nursing or pre-med student with 2.80+ GPA",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Clinical resume, background check, and CPR certification",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8103,
+    "title": "Doctor of Philosophy (Ph.D.) in Neuroscience & Neuro-Informatics",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Elite doctoral program within the Neuroscience Institute exploring neural circuit plasticity, molecular behavioral neuroscience, and neuroimaging analytics.",
+    "funding": "Fully funded 5-year stipend of $28,000 to $32,000 annually with 100% graduate tuition waiver and health insurance",
+    "tuition": "$0 for funded doctoral fellows",
+    "fee": "$50 graduate application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026 (Priority Ph.D. Consideration)",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "Bachelor’s or Master’s degree in biological sciences, psychology, or computing with 3.30+ GPA",
+      "ielts": "IELTS 7.0 or TOEFL 90+",
+      "gre": "GRE scores optional",
+      "papers": "Three-page research statement of purpose detailing laboratory experience and CV",
+      "references": "Three letters of recommendation from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8104,
+    "title": "Master of Science in Data Science & Big Data Analytics",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary program through the College of Arts and Sciences focusing on deep neural networks, distributed big data architectures, and Bayesian predictive statistics.",
+    "funding": "Graduate research assistantships offering tuition waiver and $16,000 annual stipend",
+    "tuition": "$9,342 annual in-state / $24,804 non-resident (waived with GRA)",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "Undergraduate degree in STEM field with 3.00+ GPA and multivariable calculus/linear algebra",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE quantitative score 155+ recommended",
+      "papers": "Statement of purpose, resume, and coding project links",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8105,
+    "title": "Bachelor of Interdisciplinary Studies in Game Design & Virtual Worlds",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Comprehensive digital media degree offered through the Creative Media Industries Institute (CMII), training students in virtual production, 3D modeling, and game engine mechanics.",
+    "funding": "Eligible for Georgia HOPE/Zell Miller and CMII Creative Talent Grants",
+    "tuition": "$8,948 annual in-state / $24,142 non-resident",
+    "fee": "$60 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "High school diploma with competitive academic GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "High school transcripts and creative design portfolio (optional but encouraged)",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8106,
+    "title": "Center for High Angular Resolution Astronomy (CHARA) Research Fellowship",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Preeminent observational astrophysics fellowship working with Georgia State’s CHARA Array on Mount Wilson, resolving stellar diameters and binary star orbits.",
+    "funding": "$32,000 annual graduate research stipend and Mount Wilson observing travel allowance",
+    "tuition": "Full tuition waiver",
+    "fee": "$0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "Enrolled Astronomy/Physics doctoral student with 3.50+ GPA",
+      "ielts": "Fluent English",
+      "gre": "Physics GRE recommended",
+      "papers": "Astrophysical research proposal and academic CV",
+      "references": "Endorsement from CHARA faculty research mentor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8107,
+    "title": "Andrew Young School of Policy Studies Urban Governance Fellowship",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Public policy research fellowship exploring urban housing affordability, transportation equity, and municipal public finance in metropolitan Atlanta.",
+    "funding": "$8,000 semester research award plus conference travel grant",
+    "tuition": "Direct fellowship stipend",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "Graduate student in Public Policy, Economics, or Criminal Justice (3.30+ GPA)",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Policy research memo and resume",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8108,
+    "title": "Center for Molecular and Translational Medicine Research Internship",
+    "university": "Georgia State University",
+    "country": "United States",
+    "location": "Atlanta, Georgia, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Undergraduate research internship investigating vascular inflammation, atherosclerosis pathogenesis, and metabolic cell signaling pathways.",
+    "funding": "$4,000 summer research stipend plus laboratory access",
+    "tuition": "Direct research stipend",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.gsu.edu",
+    "requirements": {
+      "gpa": "Sophomore or Junior Biology/Biochemistry major with 3.20+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Cover letter, resume, and unofficial transcript",
+      "references": "One science faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8109,
+    "title": "Bachelor of Science in Biomedical Engineering & Medical Device Design",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Engineering curriculum covering biomechanics, biomaterials biocompatibility, prosthetic design, and medical instrumentation in modern campus laboratories.",
+    "funding": "Eligible for GCU President and Chancellor Merit Scholarships up to $10,000 annually",
+    "tuition": "$16,500 annual ground undergraduate tuition",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "High school GPA 3.00+ with strong science and math prerequisites",
+      "ielts": "IELTS 6.0 or TOEFL 68 for international students",
+      "gre": "Not required",
+      "papers": "Official high school transcripts",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8110,
+    "title": "Bachelor of Science in Cybersecurity & Defensive Operations",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense, teaching ethical hacking, network forensics, threat intelligence, and security policy.",
+    "funding": "GCU STEM Achievement Scholarship up to $6,000 per year",
+    "tuition": "$16,500 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "High school GPA 2.75+",
+      "ielts": "IELTS 6.0 or TOEFL 68",
+      "gre": "Not required",
+      "papers": "Transcripts and application form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8111,
+    "title": "Master of Science in Health Informatics & Telehealth Systems",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Graduate degree analyzing clinical decision support systems, healthcare data privacy regulations (HIPAA), and interoperable medical database architecture.",
+    "funding": "Healthcare professional educational discount and graduate assistant awards",
+    "tuition": "$565 per credit hour ($19,210 total program)",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree from an accredited institution with 2.80+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 76",
+      "gre": "Not required",
+      "papers": "Transcripts and professional resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8112,
+    "title": "GCU International Student Christian Leadership Scholarship",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit and community service scholarship awarded to international undergraduate scholars demonstrating servant leadership and scholastic merit.",
+    "funding": "$4,000 to $8,000 annual tuition credit",
+    "tuition": "Direct tuition remission",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "High school or transfer GPA 3.25+",
+      "ielts": "IELTS 6.5 or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Leadership essay outlining community service initiatives",
+      "references": "One letter of recommendation from community or educational mentor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8113,
+    "title": "Phoenix Biomedical Valley Laboratory Research Fellowship",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Undergraduate research fellowship supporting laboratory investigations into antimicrobial resistance, cancer genetics, and natural product pharmacology.",
+    "funding": "$4,500 research stipend and materials support",
+    "tuition": "Funded research fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "Biology, Biochemistry, or BME major with 3.30+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Research project summary and faculty sponsor approval",
+      "references": "Science faculty mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8114,
+    "title": "Cyber Warfare Range & Penetration Testing Practicum",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied practicum based in the Arizona Cyber Warfare Range on GCU's campus, defending simulated SCADA industrial control systems and enterprise networks.",
+    "funding": "$3,800 semester practicum compensation",
+    "tuition": "Practical internship course credit",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.gcu.edu",
+    "requirements": {
+      "gpa": "Cybersecurity or Computer Science student with 3.00+ GPA",
+      "ielts": "English proficiency",
+      "gre": "Not required",
+      "papers": "Resume and technical assessment",
+      "references": "Faculty instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8115,
+    "title": "Bachelor of Applied Science in Digital Instrumentation & Industrial Control",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Advanced degree training instrumentation technicians in programmable logic controllers (PLCs), SCADA network architecture, and automated process control in heavy industry.",
+    "funding": "Eligible for Nevada Mining Association Grants and GBC Foundation Scholarships up to $4,500",
+    "tuition": "$3,870 annual in-state / $11,940 non-resident tuition",
+    "fee": "$15 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "Completion of technical associate degree or high school graduation with 2.00+ GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61 for international applicants",
+      "gre": "Not required",
+      "papers": "Official high school or collegiate transcripts",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8116,
+    "title": "Bachelor of Applied Science in Land Surveying & Geomatics",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "ABET-accredited degree program covering geodesy, GPS spatial positioning, boundary legal jurisprudence, photogrammetry, and geographic information systems.",
+    "funding": "Nevada Association of Land Surveyors Scholarships up to $3,000",
+    "tuition": "$3,950 annual in-state / $12,050 non-resident",
+    "fee": "$15 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "High school graduation or transfer credits with algebra and trigonometry competency",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts and application",
+      "references": "One professional or academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8117,
+    "title": "Bachelor of Science in Nursing (RN-to-BSN) & Rural Healthcare",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing completion degree empowering registered nurses in remote western healthcare delivery, palliative care, and rural public health leadership.",
+    "funding": "Rural Nevada Nursing Endowed Bursaries up to $2,500",
+    "tuition": "$4,100 annual in-state / $12,300 non-resident",
+    "fee": "$15 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "Associate Degree in Nursing (ADN) with active unencumbered RN license",
+      "ielts": "IELTS 6.5 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Proof of RN licensure and collegiate transcripts",
+      "references": "One supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8118,
+    "title": "Carlin Trend Mining Technology & Metallurgy Practicum",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Paid industry internship embedded with Nevada Gold Mines operations, focusing on pit slope stability monitoring, mineral processing metallurgy, and heavy equipment mechanics.",
+    "funding": "$25 to $32 per hour paid corporate compensation ($6,000+ per semester)",
+    "tuition": "Internship course credit included",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "Enrolled in GBC Instrumentation, Diesel, or Geomatics program with 2.50+ GPA",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Resume and MSHA safety training clearance",
+      "references": "Technical faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8119,
+    "title": "GBC Rural Opportunity & Native American Student Scholarship",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed tuition grant supporting rural Nevada scholars and tribal students pursuing post-secondary technical and academic degrees.",
+    "funding": "$1,500 to $3,000 annual scholarship award",
+    "tuition": "Direct tuition remission",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "High school or collegiate GPA 2.50+",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Scholarship essay detailing educational aspirations in Nevada",
+      "references": "One letter of support"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8120,
+    "title": "Great Basin Desert Ecology & Hydrogeology Field Grant",
+    "university": "Great Basin College",
+    "country": "United States",
+    "location": "Elko, Nevada, United States",
+    "type": "Grant",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Field research stipend supporting student hydrological surveys of Great Basin playa lakes, subterranean aquifers, and desert sagebrush ecosystems.",
+    "funding": "$2,500 field equipment and travel stipend",
+    "tuition": "Direct research project funding",
+    "fee": "$0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.gbcnv.edu",
+    "requirements": {
+      "gpa": "Enrolled science or geomatics student with 2.80+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Desert field study plan and equipment budget",
+      "references": "Faculty research endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8121,
+    "title": "Associate of Applied Science in Dental Hygiene & Community Oral Health",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CODA-accredited clinical dental hygiene program operating a full public community dental clinic, training hygienists in periodontics, local anesthesia, and radiology.",
+    "funding": "Eligible for Montana University System Honor Scholarships and GFC Foundation Endowments up to $3,000",
+    "tuition": "$3,450 annual in-state / $10,800 non-resident tuition",
+    "fee": "$30 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Dental Hygiene Cohort Deadline)",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "Prerequisite GPA 2.75+ in anatomy, physiology, microbiology, and chemistry",
+      "ielts": "IELTS 6.0 or TOEFL 61 for international students",
+      "gre": "Not required",
+      "papers": "Program application essay and dental clinic shadowing documentation",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8122,
+    "title": "Associate of Applied Science in Cybersecurity & Network Administration",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Technical degree covering enterprise Cisco routing, Linux server administration, ethical hacking, and industrial critical infrastructure defense in Montana.",
+    "funding": "Montana STEM Workforce Training grants up to $2,500",
+    "tuition": "$3,450 annual in-state / $10,800 non-resident",
+    "fee": "$30 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "High school diploma or GED with basic computing literacy",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official transcripts and admissions form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8123,
+    "title": "Associate of Science in Environmental Science & Water Resources Transfer Track",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Transfer-oriented degree covering Missouri River hydrology, soil science, GIS mapping, and ecological sampling articulated with MSU Bozeman.",
+    "funding": "GFC MSU Academic Excellence Grants up to $2,000",
+    "tuition": "$3,400 annual in-state / $10,700 non-resident",
+    "fee": "$30 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "High school graduation with algebra and biology coursework",
+      "ielts": "IELTS 5.5",
+      "gre": "Not required",
+      "papers": "High school transcripts",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8124,
+    "title": "Benefis Health System Allied Health Clinical Fellowship",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Clinical fellowship pairing respiratory care and radiologic technology students with Benefis Health System trauma units and rural outpatient facilities.",
+    "funding": "$4,000 clinical fellowship stipend and hospital housing subsidy",
+    "tuition": "Clinical practicum course credit",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "Enrolled health sciences student in good academic standing (GPA 3.00+)",
+      "ielts": "Fluent English for clinical communication",
+      "gre": "Not required",
+      "papers": "Clinical resume, immunization records, and background clearance",
+      "references": "Health science department director endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8125,
+    "title": "Central Montana Rural Community Student Scholarship",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Tuition assistance scholarship dedicated to students from rural farming and ranching counties throughout central and north-central Montana.",
+    "funding": "$1,500 to $2,500 per academic year",
+    "tuition": "Direct tuition remission",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "High school or collegiate GPA 2.50+",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Scholarship essay on educational aspirations in central Montana",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8126,
+    "title": "Missouri River Riparian Water Quality Field Internship",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Applied environmental internship testing dissolved oxygen, agricultural runoff sediment loads, and macroinvertebrate health along the upper Missouri River basin.",
+    "funding": "$3,000 semester field research stipend",
+    "tuition": "Earns 3 academic science elective credits",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.gfcmsu.edu",
+    "requirements": {
+      "gpa": "Completed college chemistry and biology with 2.80+ GPA",
+      "ielts": "English proficiency",
+      "gre": "Not required",
+      "papers": "Resume and statement of environmental interest",
+      "references": "Science faculty mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8127,
+    "title": "Bachelor of Science in Forensic Science & Criminalistics",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "FEPAC-aligned curriculum covering crime scene reconstruction, forensic toxicology, trace evidence chromatography, and courtroom expert witness testimony.",
+    "funding": "Eligible for Hamline Presidential Scholarships up to $25,000 annually",
+    "tuition": "$47,650 annual undergraduate tuition",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "High school GPA 3.00+ with strong coursework in chemistry, biology, and algebra",
+      "ielts": "IELTS 6.5 or TOEFL 80 for international scholars",
+      "gre": "Not required",
+      "papers": "Common Application essay and personal statement",
+      "references": "One letter of recommendation from high school counselor or teacher"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8128,
+    "title": "Master of Fine Arts (MFA) in Writing for Children and Young Adults",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally celebrated low-residency creative writing program led by award-winning authors, exploring picture books, middle-grade fiction, and YA novels.",
+    "funding": "Hamline MFA Merit Fellowships and diversity bursaries up to $8,000 per year",
+    "tuition": "$10,950 per semester ($21,900 annual)",
+    "fee": "$45 graduate application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree from an accredited institution with solid academic record",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Not required",
+      "papers": "Creative writing portfolio (up to 20 pages of prose or 10 poems) and critical essay",
+      "references": "Two letters of recommendation from writers or literature professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8129,
+    "title": "Master of Public Administration (MPA) in Public Policy Leadership",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "NASPAA-accredited professional graduate degree preparing leaders for municipal government, nonprofit management, public budgeting, and civic advocacy in the Twin Cities.",
+    "funding": "School of Business and Leadership grants and employer partnership discounts",
+    "tuition": "$850 per credit hour ($28,900 total program)",
+    "fee": "$45 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree with 3.00+ GPA from an accredited institution",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Personal statement detailing public sector commitment and professional resume",
+      "references": "Two professional letters of reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8130,
+    "title": "Hamline Global Scholar International Merit Scholarship",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Renewable merit scholarship awarded to international undergraduate students demonstrating high academic achievement and global community commitment.",
+    "funding": "$18,000 to $24,000 annual tuition reduction renewable for four years",
+    "tuition": "Direct tuition remission",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "Secondary school GPA equivalent to 3.30+ on US scale",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Global Scholar scholarship essay",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8131,
+    "title": "Center for Anthropological Research Bioarchaeology Fellowship",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate research fellowship conducting osteological analysis, forensic bone trauma documentation, and historic cemetery archaeological surveys.",
+    "funding": "$4,500 research stipend and laboratory materials allowance",
+    "tuition": "Funded research fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "Enrolled Anthropology or Forensic Science major with 3.20+ GPA",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Bioarchaeology research proposal and academic transcript",
+      "references": "Anthropology department faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8132,
+    "title": "Minnesota State Capitol Legislative Policy Internship",
+    "university": "Hamline University",
+    "country": "United States",
+    "location": "Saint Paul, Minnesota, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Immersive legislative internship placed with the Minnesota Senate, House of Representatives, or state administrative agencies in Saint Paul.",
+    "funding": "$3,500 semester legislative stipend",
+    "tuition": "Earns 4-8 political science course credits",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.hamline.edu",
+    "requirements": {
+      "gpa": "Sophomore, Junior, or Senior standing with 3.00+ GPA in social sciences",
+      "ielts": "Professional English fluency",
+      "gre": "Not required",
+      "papers": "Writing sample, resume, and policy issue cover letter",
+      "references": "Political Science faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8133,
+    "title": "Doctor of Pharmacy (Pharm.D.) & Clinical Pharmacogenomics",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Four-year professional doctoral curriculum in the College of Pharmacy, preparing clinical pharmacists in precision pharmacogenomics, ambulatory care, and infectious therapeutics.",
+    "funding": "Dean’s Pharmacy Merit Scholarships up to $10,000 annually",
+    "tuition": "$38,500 annual pharmacy professional tuition",
+    "fee": "$50 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (PharmCAS Regular Deadline)",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "Prerequisite collegiate GPA 2.75+ in organic chemistry, biochemistry, anatomy, and physics",
+      "ielts": "IELTS 6.5 or TOEFL 80 for international applicants",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS personal statement, curriculum vitae, and on-campus interview",
+      "references": "Two letters of recommendation (at least one from a licensed pharmacist or science professor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8134,
+    "title": "Bachelor of Science in Biomedical Engineering & Clinical Biomechanics",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "ABET-accredited engineering program analyzing biocompatible materials, orthopedic gait biomechanics, physiological signal processing, and medical imaging.",
+    "funding": "Eligible for Harding Trustee and President Scholarships up to $14,000 annually",
+    "tuition": "$23,850 annual undergraduate tuition",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "High school GPA 3.00+ with advanced math and physics",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official high school transcripts and admissions essay",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8135,
+    "title": "Master of Science in Information Systems & Health Data Analytics",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Graduate degree focusing on healthcare database warehousing, cloud cyber-defense, enterprise system architectures, and predictive machine learning models.",
+    "funding": "Graduate assistantships available covering tuition credit and research stipend",
+    "tuition": "$635 per graduate credit hour ($19,050 total program)",
+    "fee": "$50 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree from accredited college with 2.75+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GMAT/GRE waived for GPA 3.00+",
+      "papers": "Statement of professional goals and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8136,
+    "title": "Harding International Student Academic Distinction Award",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive merit award providing direct tuition assistance to foreign undergraduate scholars attending the Searcy campus.",
+    "funding": "$5,000 to $10,000 annual scholarship award renewable for 4 years",
+    "tuition": "Direct tuition deduction",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "Secondary school GPA 3.25+ or equivalent national exam marks",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Scholarship application essay and resume of leadership activities",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8137,
+    "title": "Carr College of Nursing Rural Health Practicum Grant",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Grant",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Practicum grant supporting senior nursing students conducting community medical screenings and diabetic education clinics in the Arkansas Delta region.",
+    "funding": "$2,500 travel and clinical materials grant",
+    "tuition": "Direct practicum funding",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "Enrolled nursing student in good academic standing (GPA 3.00+)",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Clinical community project plan",
+      "references": "Nursing clinical faculty approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8138,
+    "title": "College of Pharmacy Pharmaceutical Research Fellowship",
+    "university": "Harding University",
+    "country": "United States",
+    "location": "Searcy, Arkansas, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Summer research fellowship investigating synthetic drug formulation, liposomal drug delivery, and receptor-ligand docking kinetics.",
+    "funding": "$4,500 laboratory research stipend plus chemical supplies",
+    "tuition": "Funded research fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.harding.edu",
+    "requirements": {
+      "gpa": "Pre-pharmacy, Chemistry, or Pharm.D. student with 3.20+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Research proposal and academic CV",
+      "references": "Faculty research investigator recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8139,
+    "title": "Associate in Engineering Science (AES) & University Transfer Track",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Rigorous transfer curriculum covering differential equations, engineering statics, electric circuits, and dynamics, articulated directly into Grainger Engineering at UIUC.",
+    "funding": "Eligible for Harper College Promise Scholarship providing 100% tuition for qualifying high school graduates",
+    "tuition": "$3,936 annual in-district / $11,760 out-of-district tuition",
+    "fee": "$25 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Priority Fall Admissions)",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "High school graduation with calculus placement or pre-calculus prerequisite",
+      "ielts": "IELTS 6.0 or TOEFL 61 for international students",
+      "gre": "Not required",
+      "papers": "High school transcripts and math placement exam",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8140,
+    "title": "Associate in Applied Science in Advanced Manufacturing & Mechatronics",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on industrial automation degree utilizing robotics, pneumatic actuators, industrial PLC programming, and precision multi-axis CNC machining.",
+    "funding": "Harper College Apprenticeship program with participating manufacturing employers paying 100% tuition plus hourly wage",
+    "tuition": "$3,936 in-district / $11,760 non-resident (often covered by employer)",
+    "fee": "$25 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "High school diploma or GED with mechanical aptitude",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts and apprenticeship interview",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8141,
+    "title": "Associate in Applied Science in Cybersecurity & Cloud Networking",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated National Center of Academic Excellence in Cyber Defense Two-Year (CAE-2Y), teaching digital forensics, firewall architecture, and cloud security.",
+    "funding": "Harper STEM Workforce Grants up to $2,000 per term",
+    "tuition": "$4,050 annual in-district / $11,900 out-of-district",
+    "fee": "$25 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "High school graduation or equivalent",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Admissions application and academic records",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8142,
+    "title": "Zurich North America Insurance & Business Apprenticeship Fellowship",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious corporate apprenticeship partnership with Zurich North America headquarters, combining college business coursework with paid underwriting and claims rotations.",
+    "funding": "100% tuition, books, and fees covered plus $22+/hr salary and full corporate benefits",
+    "tuition": "Full tuition and fee sponsorship",
+    "fee": "$0 fellowship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "Admitted to Harper College with 2.80+ high school or college GPA",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Corporate apprenticeship application, resume, and multi-round interviews",
+      "references": "Two professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8143,
+    "title": "Harper College International Student Academic Scholarship",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based tuition reduction award for enrolled F-1 international students demonstrating superior GPA and campus intercultural leadership.",
+    "funding": "$2,000 to $4,000 annual tuition credit",
+    "tuition": "Direct tuition reduction",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "Minimum cumulative 3.25 GPA at Harper College (completed 12+ credits)",
+      "ielts": "F-1 student visa standing",
+      "gre": "Not required",
+      "papers": "International leadership essay and unofficial transcript",
+      "references": "Faculty recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8144,
+    "title": "Northwest Community Healthcare Clinical Nursing Practicum",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "location": "Palatine, Illinois, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on clinical internship placed within Northwest Community Hospital in Arlington Heights, rotating through intensive care, pediatrics, and surgical oncology.",
+    "funding": "$3,200 clinical internship stipend",
+    "tuition": "Fulfills clinical nursing course requirements",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.harpercollege.edu",
+    "requirements": {
+      "gpa": "Enrolled in Harper College Nursing Program with 2.75+ GPA",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Clinical immunization record, drug screen, and background clearance",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8145,
+    "title": "Master of Science in Analytics & Predictive Machine Learning",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Elite STEM-designated graduate program analyzing big data architectures, deep learning natural language processing, predictive time-series modeling, and business intelligence.",
+    "funding": "Eligible for HU Graduate Merit Scholarships and Industry CPT Internship sponsorships",
+    "tuition": "$5,310 per semester ($15,930 annual full-time tuition)",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Priority Fall Admissions)",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "Bachelor’s degree in computer science, mathematics, statistics, or engineering with 3.00+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80 for international applicants",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, updated resume, and math background evaluation",
+      "references": "Two professional or academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8146,
+    "title": "Doctor of Philosophy (Ph.D.) in Data Sciences & Algorithmic Optimization",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied doctoral research program conducting advanced dissertations in distributed AI systems, neural computing, causal inference, and healthcare analytics.",
+    "funding": "Doctoral research assistantships offering up to 50% tuition remission and research project funding",
+    "tuition": "$950 per doctoral credit hour ($51,300 total 54-credit program)",
+    "fee": "$0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "Master’s degree in analytics, computer science, or mathematics with 3.30+ GPA",
+      "ielts": "IELTS 7.0 or TOEFL 85",
+      "gre": "GRE quantitative score 155+ recommended",
+      "papers": "Five-page doctoral dissertation research proposal, academic CV, and writing sample",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8147,
+    "title": "Bachelor of Science in Interactive Media & Esports Game Design",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "World-class curriculum based in HU's Center for Advanced Entertainment and Learning Technologies, training students in 3D game engines, esports tournament operations, and AR/VR systems.",
+    "funding": "HU Full-Tuition Esports Scholarships and STEM Merit Grants up to $16,000 annually",
+    "tuition": "$23,900 annual undergraduate tuition",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "High school GPA 2.75+ with creative or technical interest",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Admissions essay and creative digital media portfolio (optional)",
+      "references": "One recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8148,
+    "title": "Center for Environment and Energy Renewable Grid Fellowship",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Graduate research fellowship modeling smart microgrids, battery energy storage systems, and regional solar-wind integration in the mid-Atlantic corridor.",
+    "funding": "$8,000 project research award and hardware testing access",
+    "tuition": "Direct fellowship research grant",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "Enrolled graduate student in Analytics, Computer Science, or Environmental Science (3.20+ GPA)",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Microgrid research proposal and resume",
+      "references": "Center director endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8149,
+    "title": "HU International Student Global STEM Scholarship",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based undergraduate tuition scholarship awarded to admitted international scholars pursuing bachelor degrees in STEM disciplines.",
+    "funding": "$6,000 to $12,000 annual tuition reduction renewable for four years",
+    "tuition": "Direct tuition reduction",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "High school or transfer GPA equivalent to 3.20+ on US scale",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Scholarship essay outlining career ambitions in technology",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8150,
+    "title": "Health Analytics & Pharmaceutical Clinical Data Internship",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "location": "Harrisburg, Pennsylvania, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied industry internship analyzing clinical trial patient registries, adverse event pharmacovigilance databases, and electronic medical records.",
+    "funding": "$4,800 semester corporate research compensation",
+    "tuition": "Experiential learning degree requirement credit",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.harrisburgu.edu",
+    "requirements": {
+      "gpa": "Master’s student in Analytics or Biotech with 3.00+ GPA and SQL/Python proficiency",
+      "ielts": "Professional English fluency",
+      "gre": "Not required",
+      "papers": "Resume and technical coding portfolio",
+      "references": "Department faculty endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8151,
+    "title": "Bachelor of Arts in International Relations & Global Governance",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Three-year English-taught bachelor degree analyzing multilateral diplomacy, peace and conflict studies, international public law, and global civil society.",
+    "funding": "Eligible for Karlshochschule Solidarity Fund and merit tuition waivers up to €3,500 annually",
+    "tuition": "€4,440 per semester (€8,880 per academic year)",
+    "fee": "€50 admissions processing fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (EU/EEA Applicants) / May 15 (Non-EU Visa Applicants)",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Recognized higher education entrance qualification (Abitur or international equivalent)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80 or Cambridge English Advanced (CAE)",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, motivational letter, and personal essay on global challenge",
+      "references": "Admissions interview day evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8152,
+    "title": "Bachelor of Arts in Management: Social TransFormation & Ethical Innovation",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Innovative curriculum integrating circular economics, social entrepreneurship, regenerative business models, and qualitative cultural analysis.",
+    "funding": "Karlshochschule Global Diversity Scholarship up to €4,000",
+    "tuition": "€4,440 per semester (€8,880 annually)",
+    "fee": "€50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Abitur or certified secondary school diploma with good scholastic marks",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Statement of motivation explaining commitment to social innovation",
+      "references": "One academic or teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8153,
+    "title": "Master of Arts in Social Transformation & Critical Management",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-year English-taught postgraduate degree exploring post-capitalist organizational design, ecological economics, and participatory leadership.",
+    "funding": "Graduate academic research assistantships and Deutschlandstipendium (€300/month)",
+    "tuition": "€4,740 per semester (€9,480 annually)",
+    "fee": "€50 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Undergraduate degree in social sciences, humanities, or business (180 ECTS) with 2.5 German grade or better",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Not required",
+      "papers": "Master thesis expository essay and academic resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8154,
+    "title": "Karlshochschule Civic Solidarity Tuition Reduction Award",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Income-contingent and merit scholarship providing up to 50% tuition reduction for students committed to democratic civic engagement.",
+    "funding": "25% to 50% tuition fee reduction (worth up to €4,440 per year)",
+    "tuition": "Direct tuition reduction",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Admitted undergraduate or master student with strong academic record",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Solidarity application detailing financial need and civic engagement portfolio",
+      "references": "Endorsement from community or school mentor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8155,
+    "title": "Karlsruhe Institute for Cultural Semiotics Research Fellowship",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate and postgraduate research fellowship investigating cultural narratives of sustainability, consumer symbolism, and urban public spaces.",
+    "funding": "€3,200 research stipend and presentation travel grant",
+    "tuition": "Funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Enrolled student with minimum cumulative grade 2.0 (German scale)",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Cultural research proposal and literature review",
+      "references": "Faculty research supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8156,
+    "title": "European NGO & Sustainable Transition Practicum",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "location": "Karlsruhe, Baden-Württemberg, Germany",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Integrated 6-month international internship placement with European sustainability advocacy networks, think tanks, and social enterprises.",
+    "funding": "€800 to €1,200 monthly corporate/NGO internship stipend plus Erasmus+ mobility grant",
+    "tuition": "Curricular internship semester credit (30 ECTS)",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://karlshochschule.de",
+    "requirements": {
+      "gpa": "Completed fourth semester of bachelor studies in good academic standing",
+      "ielts": "English B2/C1",
+      "gre": "Not required",
+      "papers": "CV, internship motivation letter, and learning agreement",
+      "references": "Internship office approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8157,
+    "title": "Kinder-Uni Science Communication & Public Pedagogy Practicum",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Didactic training practicum for university education, physics, and biology students, designing age-appropriate scientific lecture modules and interactive experiments.",
+    "funding": "€600 monthly university teaching assistant stipend",
+    "tuition": "Earns 6 ECTS in science communication and educational pedagogy",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027 (Summer Semester)",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Enrolled student at University of Rostock in Lehramt (teacher education) or STEM discipline",
+      "ielts": "Fluent German (C1/C2)",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and outline of a proposed interactive science demonstration",
+      "references": "Endorsement from faculty didactic chair"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8158,
+    "title": "Baltic Marine Science Youth Outreach Module",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary marine environmental science demonstration program studying Baltic Sea salinity gradients, microplastic pollution, and coastal dunes.",
+    "funding": "State of Mecklenburg-Vorpommern Science Promotion Grant sponsorship",
+    "tuition": "€0 tuition for participating schools and families",
+    "fee": "€0 registration fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Enrolled in primary or secondary school grade 3-6",
+      "ielts": "German language comprehension",
+      "gre": "Not required",
+      "papers": "Student interest registration via school or parent portal",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8159,
+    "title": "Rostock Junior Medical Science Anatomy Exploration Program",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on medical science series hosted at Rostock University Medical Center, introducing cardiac physiology, neuro-reflexes, and medical hygiene.",
+    "funding": "Funded by Rostock University Medical Faculty community foundation",
+    "tuition": "€0 tuition (fully sponsored)",
+    "fee": "€0 fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Young scholars aged 9-12 with curiosity in medical biology",
+      "ielts": "German proficiency",
+      "gre": "Not required",
+      "papers": "Registration form signed by guardian",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8160,
+    "title": "STEM Early Research Mentorship Fellowship",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Fellowship supporting university doctoral researchers who translate cutting-edge quantum optics, clean energy, and robotics research into youth modules.",
+    "funding": "€2,500 research outreach stipend and experimental demonstrator fabrication budget",
+    "tuition": "Funded didactic fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Doctoral candidate or postdoctoral researcher at University of Rostock",
+      "ielts": "Excellent presentation skills in German or bilingual English/German",
+      "gre": "Not required",
+      "papers": "Two-page proposal detailing children's university lecture and interactive lab concept",
+      "references": "Ph.D. supervisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8161,
+    "title": "Mecklenburg Youth Science Talent Merit Bursary",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Educational materials scholarship providing books, laboratory kits, and telescope equipment for enthusiastic young participants from rural Mecklenburg districts.",
+    "funding": "€500 scientific equipment and literature bursary",
+    "tuition": "Direct grant payment",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Regular attendance at Kinder-Uni Rostock lectures with stamped student passport",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Short creative essay or drawing on 'What I want to discover as a scientist'",
+      "references": "School teacher endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8162,
+    "title": "Robotics & Microcontroller Coding Discovery Lab",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Introductory computing academy teaching algorithmic logic, block-based programming, and sensor-actuator robotics using micro:bit microcontrollers.",
+    "funding": "Corporate technology sponsorship from regional digital engineering partners",
+    "tuition": "€0 course tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://kinderuni-rostock.de",
+    "requirements": {
+      "gpa": "Enrolled pupil in grades 4-7 with interest in technology",
+      "ielts": "German language proficiency",
+      "gre": "Not required",
+      "papers": "Registration and parental consent",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8163,
+    "title": "Bachelor of Science (Hons) in Computer Science & Artificial Intelligence",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Three-year British degree covering computational thinking, algorithm complexity, deep learning, distributed cloud architecture, and cybersecurity in Leipzig.",
+    "funding": "Eligible for Lancaster Leipzig Founder Scholarships up to €3,000 per academic year",
+    "tuition": "€16,500 per academic year (international and EU students)",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31, 2027 (Rolling Admissions)",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "A-Levels (BBB) or German Abitur (equivalent to 2.4 or better) with strong mathematics background",
+      "ielts": "IELTS 6.5 overall with minimum 6.0 in all components (or TOEFL iBT 87)",
+      "gre": "Not required",
+      "papers": "Personal statement explaining motivation for studying British computer science in Germany and transcripts",
+      "references": "One academic recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8164,
+    "title": "Bachelor of Science (Hons) in Software Engineering",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous software engineering curriculum teaching agile software architecture, continuous integration pipelines, mobile applications, and enterprise database systems.",
+    "funding": "Lancaster Leipzig STEM Merit Bursaries up to €2,500 annually",
+    "tuition": "€16,500 per academic year",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31, 2027",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "A-Levels (BBB) or Abitur equivalent with mathematics competence",
+      "ielts": "IELTS 6.5 (minimum 6.0 each band)",
+      "gre": "Not required",
+      "papers": "Personal statement and high school transcripts",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8165,
+    "title": "Master of Science in Cyber Security & Enterprise Risk Management",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "One-year intensive British master’s degree exploring penetration testing, cryptography, threat modeling, and European regulatory compliance (GDPR and NIS2).",
+    "funding": "Lancaster University Alumni Fee Reductions and Early-Bird tuition waivers up to €2,000",
+    "tuition": "€21,000 total program tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "UK 2:1 Honours degree (or international equivalent with 3.00+ GPA) in computer science, engineering, or related field",
+      "ielts": "IELTS 6.5 (min 6.0 per band) or TOEFL 87",
+      "gre": "Not required",
+      "papers": "Two-page personal statement, curriculum vitae, and degree transcripts",
+      "references": "Two academic or professional letters of reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8166,
+    "title": "Lancaster Leipzig European Global Citizen Scholarship",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based international tuition scholarship awarding tuition fee remissions to high-achieving applicants across all undergraduate degree pathways.",
+    "funding": "€2,000 to €4,500 annual tuition fee reduction",
+    "tuition": "Direct tuition reduction",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "Predicted A-Levels AAA/AAB or Abitur 1.8 or equivalent secondary credential",
+      "ielts": "IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Scholarship essay on contribution to intercultural campus life in Leipzig",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8167,
+    "title": "Leipzig Silicon Saxony Tech Corridor Practicum",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Curricular technology internship connecting Lancaster software students with Leipzig and Dresden tech hubs, autonomous vehicle labs, and European software houses.",
+    "funding": "€950 to €1,400 monthly industry practicum stipend",
+    "tuition": "Academic credit towards industrial placement year",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "Enrolled Lancaster Leipzig second-year student with 60%+ average",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Technical CV, GitHub portfolio, and cover letter",
+      "references": "Faculty academic tutor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8168,
+    "title": "Lancaster-Leipzig Artificial Intelligence Undergraduate Fellowship",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "location": "Leipzig, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Faculty-led research fellowship exploring computer vision for medical diagnostics and edge AI algorithms for low-power smart city sensor arrays.",
+    "funding": "€3,500 research stipend and hardware laboratory access",
+    "tuition": "Funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.lancasterleipzig.de",
+    "requirements": {
+      "gpa": "B.Sc. Computer Science or Software Engineering student with First Class standing",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "AI research proposal and academic transcript",
+      "references": "Faculty supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8169,
+    "title": "Baden-Württemberg State Higher Education Governance Policy Fellowship",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Postdoctoral and executive fellowship evaluating university autonomy, research excellence funding formulas, and open-access scientific publishing legislation.",
+    "funding": "€48,000 annual research fellowship salary plus conference travel fund",
+    "tuition": "Full salaried policy fellowship appointment",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Doctoral degree in public administration, law, higher education policy, or economics",
+      "ielts": "Professional German and English fluency (C1 level)",
+      "gre": "Not required",
+      "papers": "Policy research statement outlining higher education governance reform in Germany",
+      "references": "Two academic recommendations from university rectors or deans"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8170,
+    "title": "LRK Inter-University Doctoral Consortium in High-Performance Computing",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Collaborative doctoral research network connecting doctoral researchers across Stuttgart, KIT Karlsruhe, and Heidelberg utilizing federal supercomputers (Hawk and HoreKa).",
+    "funding": "Fully funded TV-L E13 (100%) doctoral research position (€52,000+ annually)",
+    "tuition": "€0 tuition fees at state research universities",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Master’s degree in computer science, physics, or applied mathematics with German grade <= 1.8",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Doctoral research outline in parallel computing or scalable algorithms, CV, and transcripts",
+      "references": "Endorsement from LRK university faculty supervisor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8171,
+    "title": "Baden-Württemberg University Digital Teaching Innovation Grant",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive inter-institutional project grant funding cross-campus digital lecture archives, virtual reality laboratories, and AI-assisted educational assessment.",
+    "funding": "€25,000 to €50,000 direct project funding per consortium",
+    "tuition": "Direct research project allocation",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Faculty member or instructional designer across the 9 LRK state universities",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Inter-university project proposal, technical milestones, and consortium budget",
+      "references": "Signed endorsement by university vice-rector of academic affairs"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8172,
+    "title": "Southwest German Research Leadership Practicum",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "High-level administrative and science management internship based at the LRK central office in Stuttgart, engaging with the Ministry of Science, Research and the Arts.",
+    "funding": "€1,200 monthly administrative fellowship stipend",
+    "tuition": "Fulfills university science management internship requirements",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Master’s or doctoral student in public administration, law, or political science",
+      "ielts": "German C2 / English C1",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, cover letter, and writing sample on European science policy",
+      "references": "One university department recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8173,
+    "title": "Baden-Württemberg Interdisciplinary Sustainability Research Award",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Grant",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Prestigious state research award honoring pioneering joint interdisciplinary environmental and climate resilience projects across LRK member institutions.",
+    "funding": "€15,000 research award and ceremonial state recognition",
+    "tuition": "Direct prize grant",
+    "fee": "€0 nomination fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Joint research team spanning at least two LRK state universities",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Summary of published interdisciplinary sustainability research and societal impact documentation",
+      "references": "Nomination by member university rector"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8174,
+    "title": "LRK Young Scholars Academic Exchange Bursary",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Mobility bursary facilitating short-term research stays, specialized instrument access, and co-supervision between the nine state universities.",
+    "funding": "€1,500 travel and inter-campus accommodation stipend",
+    "tuition": "Direct mobility support",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.lrk-bw.de",
+    "requirements": {
+      "gpa": "Enrolled doctoral student at an LRK state research university",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Statement of inter-campus research objectives and invitation letter from host chair",
+      "references": "Primary doctoral supervisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8175,
+    "title": "T-Kurs: Technical & Mathematical University Preparatory Program",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "One-year intensive state preparatory curriculum in advanced mathematics, physics, chemistry, technical drafting, and academic German leading to the engineering Feststellungsprüfung (FSP).",
+    "funding": "No tuition fees; eligible for MLU Halle international student support grants",
+    "tuition": "€0 tuition (state subsidized); standard semester contribution (~€290/semester including transit ticket)",
+    "fee": "€30 entrance test registration fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027 (Winter Semester Entrance Exam)",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "Recognized foreign secondary school certificate qualifying for university entrance",
+      "ielts": "German B1 or B2 certificate (Goethe-Zertifikat, TestDaF, or telc)",
+      "gre": "Not required",
+      "papers": "Certified translation of high school diploma, CV, and passport copy",
+      "references": "Pass Aufnahmetest in German and Mathematics"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8176,
+    "title": "M-Kurs: Medical & Biological Sciences Preparatory Track",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Comprehensive preparation in biology, organic chemistry, physics, and medical German terminology, qualifying international students for human medicine, dentistry, and pharmacy.",
+    "funding": "State-funded educational preparation with €0 tuition",
+    "tuition": "€0 tuition; semester fee only (~€290/term)",
+    "fee": "€30 examination fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "Foreign secondary school diploma with top-tier science marks",
+      "ielts": "German B2 recommended",
+      "gre": "Not required",
+      "papers": "Certified transcripts, personal statement, and photo",
+      "references": "Pass Aufnahmetest in German and Biology/Math"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8177,
+    "title": "W-Kurs: Economic & Social Sciences Preparatory Curriculum",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-semester course preparing international students in economic theory, business administration, differential calculus, and sociopolitical German.",
+    "funding": "Tuition-free state qualification",
+    "tuition": "€0 tuition fee",
+    "fee": "€30 exam fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "Foreign high school graduation credentials",
+      "ielts": "German B1/B2 certificate",
+      "gre": "Not required",
+      "papers": "Official translated transcripts and application form",
+      "references": "Entrance exam performance"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8178,
+    "title": "MLU International Academic Preparation Excellence Scholarship",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit bursary awarded to top-ranking graduates of the Feststellungsprüfung transitioning into full degree programs at Martin Luther University Halle-Wittenberg.",
+    "funding": "€3,000 annual scholarship award (€250/month for first year)",
+    "tuition": "Direct student living allowance",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "FSP examination overall grade 1.5 or better on German scale",
+      "ielts": "German FSP certificate",
+      "gre": "Not required",
+      "papers": "FSP certificate, matriculation proof at MLU Halle, and motivational letter",
+      "references": "Landesstudienkolleg rector recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8179,
+    "title": "German as a Foreign Language (DaF) Didactic Assistantship",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Teaching assistantship for German linguistics and education master students, providing language tutoring and phonetic coaching to international Studienkolleg cohorts.",
+    "funding": "€550 monthly university student assistant (HiWi) contract",
+    "tuition": "Earns curricular teaching practicum credit",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "Enrolled Germanistik or DaF master student at MLU Halle with 2.0+ GPA",
+      "ielts": "Native or near-native German",
+      "gre": "Not required",
+      "papers": "Resume and statement of didactic interest",
+      "references": "DaF professor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8180,
+    "title": "Intercultural Orientation & Academic Mentorship Fellowship",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "location": "Halle (Saale), Saxony-Anhalt, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Student fellowship facilitating academic mentoring, library research workshops, and cultural onboarding for newly arrived international scholars in Saxony-Anhalt.",
+    "funding": "€1,200 semester peer-mentorship grant",
+    "tuition": "Direct fellowship stipend",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uni-halle.de",
+    "requirements": {
+      "gpa": "Advanced undergraduate or graduate student at MLU Halle",
+      "ielts": "Multilingual proficiency",
+      "gre": "Not required",
+      "papers": "Cover letter outlining intercultural mentoring experience",
+      "references": "International Office endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8181,
+    "title": "Diplom-Ingenieur in Iron & Steel Metallurgy & Green Metal Production",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Traditional five-year integrated engineering degree studying hydrogen direct reduction of iron ore, electric arc furnace metallurgy, continuous casting, and thermodynamic alloy simulation.",
+    "funding": "Industry scholarships from German Steel Federation (Wirtschaftsvereinigung Stahl) up to €4,000 annually",
+    "tuition": "€0 tuition (tuition-free German public university); semester fee ~€110/term",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (Winter Semester Admissions)",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Abitur or equivalent university entrance credential with superior mathematics and physics grades",
+      "ielts": "German language certificate DSH-2 or TestDaF 4x4",
+      "gre": "Not required",
+      "papers": "Certified school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8182,
+    "title": "Master of Science in Foundry Technology & Additive Metal Casting",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Two-year postgraduate research degree examining computer-aided casting solidification simulation, non-ferrous lightweight alloy metallurgy, and 3D sand-mold printing.",
+    "funding": "Foundry Industry Endowed Research Assistantships (HiWi) with full living stipends",
+    "tuition": "€0 tuition; semester fee ~€110",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027 (Non-EU) / July 15, 2027 (EU)",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Bachelor’s degree in materials science, mechanical engineering, or metallurgy with 2.5 German grade or better",
+      "ielts": "English B2/C1 or German B2 depending on course track",
+      "gre": "Not required",
+      "papers": "Bachelor degree transcripts, module handbook, and curriculum vitae",
+      "references": "Two academic reference letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8183,
+    "title": "Doctor of Engineering (Dr.-Ing.) in Hydrogen-Based Direct Reduction Metallurgy",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Funded doctoral research based in the Ledebur-Bau pilot plant, investigating kinetic reaction mechanisms of hydrogen reduction in iron ore pellets to eliminate CO2 emissions.",
+    "funding": "Full TV-L E13 (100%) research associate contract (€52,000 to €58,000 per year) funded by Federal Ministry of Education and Research (BMBF)",
+    "tuition": "€0 tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Master’s degree or Diplom in Metallurgy, Materials Engineering, or Chemical Process Engineering with grade 1.8 or better",
+      "ielts": "Fluent English and conversational German",
+      "gre": "Not required",
+      "papers": "Doctoral research expository thesis concept, master’s thesis abstract, and CV",
+      "references": "Two letters of recommendation from metallurgy professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8184,
+    "title": "Adolf Ledebur Memorial Metallurgical Research Fellowship",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Postdoctoral research fellowship utilizing Ledebur-Bau’s high-temperature thermodynamic measurement reactors to investigate molten slag chemistry and inclusion engineering.",
+    "funding": "€45,000 annual research fellowship stipend plus experimental consumables grant",
+    "tuition": "Funded fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Ph.D. or Dr.-Ing. in Metallurgy or Solid-State Chemistry awarded within the last 4 years",
+      "ielts": "Fluent technical communication",
+      "gre": "Not required",
+      "papers": "Postdoctoral research proposal, publication list in metallurgical journals, and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8185,
+    "title": "Thyssenkrupp & Salzgitter Clean Steel Industrial Practicum",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Six-month plant internship embedded within modern blast furnace and electric steelmaking operations, focusing on sensor instrumentation and molten steel degassing.",
+    "funding": "€1,200 to €1,600 monthly industrial compensation",
+    "tuition": "Curricular practical semester notation (30 ECTS)",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Advanced student in Metallurgy, Materials Science, or Process Engineering",
+      "ielts": "German B2 level for industrial safety",
+      "gre": "Not required",
+      "papers": "Resume and statement of industrial focus",
+      "references": "Institute professor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8186,
+    "title": "Circular Metallurgy & Scrap Recycling Innovation Grant",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Grant",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Applied project grant developing high-speed optical sorting and molten scrap refining methods to remove copper and tin contaminants from post-consumer recycled steel.",
+    "funding": "€12,000 project grant and pilot furnace melting allocation",
+    "tuition": "Direct research project allocation",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Enrolled graduate or doctoral researcher at TU Bergakademie Freiberg",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Recycling metallurgy experimental plan and material balance proposal",
+      "references": "Foundry Institute or Iron Technology chair approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8187,
+    "title": "Bachelor of Engineering in Landscape Architecture & Urban Climate Resilience",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Seven-semester accredited engineering degree studying open space design, sponge city stormwater management, green infrastructure, and ecological plant community planning.",
+    "funding": "Eligible for Thuringian regional student grants and Deutschlandstipendium (€300/month)",
+    "tuition": "€0 tuition fees (public university); semester fee ~€270 including regional transit",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (Winter Semester Admissions)",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Abitur or Fachhochschulreife with good grades in biology and arts/geography",
+      "ielts": "German DSH-2 or TestDaF 4x4",
+      "gre": "Not required",
+      "papers": "Evidence of 8-week pre-study horticulture/landscape construction internship and CV",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8188,
+    "title": "Master of Science in Urban Horticulture & Vertical Farming Systems",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Three-semester graduate program based in the Lehrpark research greenhouses, focusing on precision hydroponics, automated microclimate sensing, and urban food security.",
+    "funding": "BMEL Federal Agricultural Research Assistantships offering €800 monthly stipend",
+    "tuition": "€0 tuition; semester fee ~€270",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Bachelor of Science in Horticulture, Agriculture, or Environmental Science (210 ECTS) with 2.5 or better",
+      "ielts": "German B2/C1 and English B2",
+      "gre": "Not required",
+      "papers": "Bachelor thesis summary, curriculum vitae, and academic transcripts",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8189,
+    "title": "Lehrpark Climate-Resilient Urban Trees Research Fellowship",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Field research fellowship conducting sap-flow sapling measurements, thermal infrared canopy imaging, and drought stress evaluations across 500 experimental urban street tree species.",
+    "funding": "€4,200 research project stipend and dendrological measurement equipment access",
+    "tuition": "Funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Enrolled master or doctoral student in Landscape Ecology or Forestry",
+      "ielts": "English or German fluency",
+      "gre": "Not required",
+      "papers": "Dendrological research plan and equipment budget",
+      "references": "Faculty research mentor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8190,
+    "title": "Thuringian Garden Heritage & Botanical Archival Grant",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Grant",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Historical garden preservation grant supporting documentation of historic palace parks (Belvedere, Gotha, and Molsdorf) and historic seed preservation.",
+    "funding": "€2,500 archival research and documentation grant",
+    "tuition": "Direct research funding",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Enrolled student in Landscape Architecture or Art History",
+      "ielts": "German language proficiency",
+      "gre": "Not required",
+      "papers": "Historic preservation survey outline and resume",
+      "references": "Landscape history professor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8191,
+    "title": "Erfurter Gartenbau Commercial Greenhouse Practicum",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Curricular practical internship embedded in modern commercial ornamental and vegetable production facilities throughout the Erfurt horticultural cluster.",
+    "funding": "€950 monthly industry practical compensation",
+    "tuition": "Fulfills mandatory practical semester (30 ECTS)",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Completed third semester of horticultural studies with solid academic performance",
+      "ielts": "German B2",
+      "gre": "Not required",
+      "papers": "Application letter, CV, and internship learning contract",
+      "references": "Internship coordinator approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8192,
+    "title": "Sponge City Stormwater Infiltration Design Award",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Award recognizing student design studio projects presenting innovative swale, bioswale, and rain garden integration in central German urban districts.",
+    "funding": "€1,500 prize award sponsored by Thuringian Landscape Contractors Association",
+    "tuition": "Direct merit prize",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.fh-erfurt.de",
+    "requirements": {
+      "gpa": "Enrolled in Bachelor or Master of Landscape Architecture studio coursework",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Landscape design portfolio plates and technical rainwater drainage calculations",
+      "references": "Studio professor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8193,
+    "title": "Bachelor of Arts in Game Design & Virtual Reality Environments",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Three-year English-taught creative degree in Unreal Engine and Unity mechanics, 3D character rigging, narrative storytelling, and level architecture in Berlin.",
+    "funding": "Eligible for Macromedia Creative Talent Scholarships up to 25% tuition waiver",
+    "tuition": "€5,350 per semester (€10,700 per academic year)",
+    "fee": "€50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (Winter Semester Admissions)",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Abitur, Fachhochschulreife, or international equivalent",
+      "ielts": "IELTS 6.0 or TOEFL iBT 72 for English track",
+      "gre": "Not required",
+      "papers": "Creative work portfolio (concept sketches, game mods, or 3D assets), motivation letter, and CV",
+      "references": "Admissions interview evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8194,
+    "title": "Bachelor of Arts in Media Management & Digital Brand Marketing",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on program exploring social media analytics, digital streaming rights, influencer campaign dynamics, and strategic media entrepreneurship.",
+    "funding": "Macromedia Female Leadership in Media Grant up to €3,000",
+    "tuition": "€5,350 per semester (€10,700 annually)",
+    "fee": "€50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Recognized secondary school diploma with solid academic marks",
+      "ielts": "IELTS 6.0 or TOEFL 72",
+      "gre": "Not required",
+      "papers": "Motivational essay on contemporary digital media trends and resume",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8195,
+    "title": "Master of Arts in Design Management & Sustainable Creative Direction",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Two-year English-taught master’s degree bridging design thinking methodologies, circular product design, and creative studio leadership.",
+    "funding": "Graduate academic research bursaries and early-bird fee discounts",
+    "tuition": "€6,500 per semester (€13,000 annually)",
+    "fee": "€50 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Bachelor’s degree (180 or 210 ECTS) in design, media, or business with 2.5 German grade or better",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Curated design portfolio, master’s research intention essay, and CV",
+      "references": "Two academic or industry references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8196,
+    "title": "Berlin Creative Industries Incubator Practicum",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Mandatory 6-month semester internship embedded in leading Berlin creative agencies, digital streaming networks, and indie game development studios.",
+    "funding": "€900 to €1,400 monthly industry practicum stipend",
+    "tuition": "Curricular practical semester (30 ECTS)",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Enrolled Macromedia Berlin student in good academic standing",
+      "ielts": "English or German fluency depending on host studio",
+      "gre": "Not required",
+      "papers": "Professional creative showreel/portfolio and internship agreement",
+      "references": "Faculty studio lead endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8197,
+    "title": "Macromedia Global Cultural Diversity Scholarship",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit and diversity scholarship granting 20% to 30% tuition fee reductions for international undergraduate and graduate creators in Berlin.",
+    "funding": "Up to €3,200 annual tuition fee reduction",
+    "tuition": "Direct tuition reduction",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Admitted international student with superior creative portfolio and academic record",
+      "ielts": "IELTS 6.0+",
+      "gre": "Not required",
+      "papers": "Diversity statement and creative showcase link",
+      "references": "One recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8198,
+    "title": "Immersive Virtual Production & Unreal Engine Grant",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Grant",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Creative research grant funding LED virtual production wall tests, motion capture actor pipelines, and real-time volumetric rendering experiments.",
+    "funding": "€3,000 project production grant and green-screen studio access",
+    "tuition": "Direct project grant",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.hochschule-macromedia.de",
+    "requirements": {
+      "gpa": "Upper-level student in Game Design, Film, or Digital Technologies",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Volumetric production concept paper and technical asset pipeline document",
+      "references": "Media lab director approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8199,
+    "title": "Exascale High-Performance Visualization & Simulation Fellowship",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Elite research fellowship utilizing the HLRS Hawk and Hunter supercomputers to render real-time fluid dynamics and ultra-high-resolution digital twin environments.",
+    "funding": "€46,000 annual research fellowship salary plus computing time allocations on HLRS clusters",
+    "tuition": "Full funded fellowship appointment",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Master’s degree in computer science, scientific computing, or computational engineering with 3.30+ GPA",
+      "ielts": "Fluent English (C1)",
+      "gre": "Not required",
+      "papers": "Research proposal in parallel rendering or GPU cluster computing and CV",
+      "references": "Two letters of recommendation from computing professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8200,
+    "title": "Digital Twin of the City & Urban Simulation Masterclass",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced project curriculum modeling urban heat island microclimates, autonomous traffic fleets, and acoustic noise distribution using supercomputer twins.",
+    "funding": "State Ministry of Science Baden-Württemberg project grant sponsorship",
+    "tuition": "€0 tuition for enrolled partner university students",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Enrolled master student in informatics, urban planning, or civil engineering",
+      "ielts": "English or German proficiency",
+      "gre": "Not required",
+      "papers": "Transcripts and statement of interest in urban simulation",
+      "references": "Academic tutor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8201,
+    "title": "Media Solution Center Creative AI Innovation Grant",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Grant",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Interdisciplinary grant supporting collaborative artist-engineer pairs creating generative volumetric artworks and interactive musical installations using neural supercomputing.",
+    "funding": "€10,000 production grant and immersive CAVE visualization cube exhibition access",
+    "tuition": "Direct project grant funding",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Joint team comprising at least one technical programmer and one media artist",
+      "ielts": "Good communication",
+      "gre": "Not required",
+      "papers": "Concept proposal, interactive technical diagram, and budget justification",
+      "references": "One letter of endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8202,
+    "title": "High-Performance Media Streaming & Volumetric Video Practicum",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Technical practicum embedded in HLRS visualization laboratories, engineering low-latency point-cloud compression algorithms for holographic telepresence.",
+    "funding": "€1,250 monthly research assistant stipend",
+    "tuition": "Earns university thesis and practical credit",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Proficiency in C++, CUDA, and video codec architectures with 3.00+ GPA",
+      "ielts": "English B2/C1",
+      "gre": "Not required",
+      "papers": "Resume and code repository demonstrating GPU programming",
+      "references": "Technical faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8203,
+    "title": "Baden-Württemberg Digital Media Supercomputing Fellowship",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Postdoctoral research fellowship developing AI-driven ray tracing and photon mapping pipelines for film production clusters and industrial CAD rendering.",
+    "funding": "€50,000 annual postdoctoral stipend and access to state computing infrastructure",
+    "tuition": "Funded postdoctoral appointment",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Ph.D. in Computer Graphics, High-Performance Computing, or Digital Media",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Research proposal, list of SIGGRAPH/Eurographics publications, and CV",
+      "references": "Two academic reference letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8204,
+    "title": "Quantum Computing & Media Encryption Discovery Bursary",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Specialized bursary supporting students conducting exploratory research on quantum key distribution (QKD) for secure high-bandwidth media transmission.",
+    "funding": "€2,500 research study bursary",
+    "tuition": "Direct bursary allocation",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.msc-bw.com",
+    "requirements": {
+      "gpa": "Enrolled in Physics or Quantum Information master track with 3.20+ GPA",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "One-page research intention essay and transcript",
+      "references": "Physics faculty advisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8205,
+    "title": "MINT Engineering Mathematics Preparatory Semester (Propädeutikum)",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics"
+    ],
+    "desc": "Intensive one-semester pre-university course in differential and integral calculus, linear algebra, vector geometry, and mathematical proofs for prospective engineering students.",
+    "funding": "Funded by Ministry of Science, Research and the Arts Baden-Württemberg",
+    "tuition": "€0 tuition fees (fully state funded)",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027 (Pre-Winter Semester Course)",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "Admission to or prospective matriculation in a STEM degree program at University of Stuttgart or KIT",
+      "ielts": "German language proficiency (B2/C1)",
+      "gre": "Not required",
+      "papers": "Registration form and proof of high school graduation (Abitur or equivalent)",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8206,
+    "title": "Experimental Physics & Mechanical Foundations Preparatory Track",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Foundational curriculum reviewing classical Newtonian mechanics, electrodynamics, wave physics, and laboratory measurement error analysis.",
+    "funding": "Free state preparatory curriculum",
+    "tuition": "€0 tuition",
+    "fee": "€0 fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "High school diploma with physics coursework",
+      "ielts": "German B2",
+      "gre": "Not required",
+      "papers": "Online registration and diagnostic self-test completion",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8207,
+    "title": "Algorithmic Logic & Python Programming Preparatory Academy",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Introductory computing track teaching algorithm design, recursive logic, object-oriented concepts, and Python programming before beginning computer science degrees.",
+    "funding": "Baden-Württemberg STEM Acceleration Funding",
+    "tuition": "€0 tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "Enrolled or prospective computer science, software engineering, or data science student",
+      "ielts": "German or English proficiency",
+      "gre": "Not required",
+      "papers": "Matriculation proof or program registration",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8208,
+    "title": "STEM Peer Tutoring & Didactic Coaching Fellowship",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics"
+    ],
+    "desc": "Didactic fellowship training advanced mathematics and physics students to deliver small-group tutorials, active problem-solving workshops, and diagnostic feedback.",
+    "funding": "€600 monthly student assistant salary plus pedagogical certification",
+    "tuition": "Earns pedagogical soft-skills credits",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "Advanced bachelor or master student at University of Stuttgart/KIT with excellent marks in Höhere Mathematik I/II",
+      "ielts": "Fluent German (C1/C2)",
+      "gre": "Not required",
+      "papers": "Academic transcript and statement of didactic interest",
+      "references": "Mathematics department faculty endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8209,
+    "title": "MINT First-Generation University Student Bursary",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Special support scholarship for first-generation university students entering STEM engineering programs, funding textbooks, graphic tablets, and study resources.",
+    "funding": "€1,200 annual learning materials bursary",
+    "tuition": "Direct bursary payment",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "First-generation university student entering a STEM bachelor program at Stuttgart or KIT",
+      "ielts": "Enrolled student standing",
+      "gre": "Not required",
+      "papers": "Application essay detailing personal educational pathway",
+      "references": "MINT-Kolleg advisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8210,
+    "title": "Diagnostic Learning Analytics Research Assistantship",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "location": "Stuttgart, Baden-Württemberg, Germany",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Research assistantship evaluating psychometric data from online STEM diagnostic entrance tests to identify conceptual bottlenecks in university calculus.",
+    "funding": "€550 monthly university student assistant stipend",
+    "tuition": "Research assistantship appointment",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "requirements": {
+      "gpa": "Student in Data Science, Mathematics, or Educational Psychology",
+      "ielts": "German and English proficiency",
+      "gre": "Not required",
+      "papers": "CV and coding experience in R/Python",
+      "references": "Faculty researcher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8211,
+    "title": "Bachelor of Business Administration (BBA) in International Management & FinTech",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Three-year Dutch-accredited double-degree program covering corporate finance, algorithmic fintech models, European commercial law, and cross-border trade.",
+    "funding": "Eligible for NEC Munich Academic Merit Scholarships up to €2,500 annually",
+    "tuition": "€6,200 per semester (€12,400 per academic year)",
+    "fee": "€65 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (Fall Intake)",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Recognized secondary school diploma equivalent to Dutch HAVO/VWO or German Abitur",
+      "ielts": "IELTS 6.0 overall with minimum 6.0 in writing (or TOEFL iBT 80)",
+      "gre": "Not required",
+      "papers": "Motivational essay (500 words), curriculum vitae, and high school transcripts",
+      "references": "Admissions interview with academic dean"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8212,
+    "title": "Master of Business Administration (MBA) in Digital Technology Leadership",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "One-and-a-half-year executive MBA exploring AI business transformation, enterprise cloud management, agile corporate strategy, and venture financing in Munich.",
+    "funding": "Corporate partnership tuition discounts and graduate merit awards up to €3,000",
+    "tuition": "€16,500 total program tuition",
+    "fee": "€65 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Bachelor’s degree from an accredited institution with solid GPA plus 2 years professional work experience",
+      "ielts": "IELTS 6.5 or TOEFL 88",
+      "gre": "Not required",
+      "papers": "Resume detailing professional work experience, personal statement, and degree certificates",
+      "references": "Two professional reference letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8213,
+    "title": "Master of Science in International Tourism & Luxury Brand Management",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Boutique master’s degree studying luxury retail aesthetics, high-end hospitality operations, sensory marketing, and customer relationship analytics.",
+    "funding": "NEC European Hospitality Merit Grant up to €2,000",
+    "tuition": "€6,800 per semester (€13,600 annually)",
+    "fee": "€65 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Bachelor’s degree in business, economics, or humanities with 2.5 German grade or better",
+      "ielts": "IELTS 6.5 or TOEFL 88",
+      "gre": "Not required",
+      "papers": "Statement of purpose and CV",
+      "references": "Two academic or employer recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8214,
+    "title": "Bavarian Corporate Innovation & DAX Venture Practicum",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Integrated six-month corporate internship placed with Munich-based multinational corporations and high-growth mobility and software startups.",
+    "funding": "€1,000 to €1,600 monthly corporate internship compensation",
+    "tuition": "Curricular practical internship credits",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Completed second year of BBA studies or enrolled master student",
+      "ielts": "English fluency; conversational German advantageous",
+      "gre": "Not required",
+      "papers": "Professional resume and corporate cover letter",
+      "references": "NEC Career Services approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8215,
+    "title": "NEC Munich Female Entrepreneurship Scholarship",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based scholarship dedicated to emerging female business leaders and technology founders entering undergraduate or master business programs.",
+    "funding": "€3,000 annual tuition fee reduction",
+    "tuition": "Direct tuition reduction",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Female applicant with superior academic background (GPA 3.30+)",
+      "ielts": "IELTS 6.5+",
+      "gre": "Not required",
+      "papers": "Venture plan or leadership essay detailing entrepreneurial vision in Europe",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8216,
+    "title": "Munich Venture Capital & Angel Financing Research Fellowship",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Faculty-mentored research fellowship investigating venture capital deal structures, unicorn valuation dynamics, and green tech investments in Bavaria.",
+    "funding": "€3,500 research stipend and industry data terminal access",
+    "tuition": "Funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.new-european-college.com",
+    "requirements": {
+      "gpa": "Enrolled MBA or master student with 3.50+ GPA in finance courses",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Venture capital empirical research proposal and CV",
+      "references": "Faculty supervisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8217,
+    "title": "European Union Geopolitics & Migration Policy Seminar",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Upper-level academic seminar exploring EU constitutional law, Schengen asylum agreements, German foreign policy, and Franco-German bilateral diplomacy.",
+    "funding": "Eligible for NYU Global Programs Travel Grants up to $4,000 per term",
+    "tuition": "$29,500 semester tuition (standard NYU undergraduate tuition rate)",
+    "fee": "$80 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027 (Fall Semester Global Admissions)",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "Undergraduate student in good academic standing with minimum 3.00 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.5 for international exchange scholars",
+      "gre": "Not required",
+      "papers": "Personal statement explaining academic rationale for studying in Berlin and transcripts",
+      "references": "One academic faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8218,
+    "title": "Contemporary Art Practice & Berlin Gallery Curatorial Studies",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio and critical theory course analyzing post-wall public memorials, contemporary art biennials, archival curation, and Berlin’s experimental artist collectives.",
+    "funding": "NYU Tisch School of the Arts Dean’s Global Fellowship awards",
+    "tuition": "$29,500 semester tuition",
+    "fee": "$80 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "Cumulative GPA 3.00+ with coursework in art history or studio arts",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "Artist portfolio or art historical analytical essay and CV",
+      "references": "Studio professor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8219,
+    "title": "NYU Berlin Transatlantic Environmental Policy Fellowship",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Research fellowship investigating German renewable energy transitions (Energiewende), circular city waste policies, and EU Green Deal climate mandates.",
+    "funding": "$5,000 research stipend and European climate summit travel allowance",
+    "tuition": "Funded research fellowship",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "Enrolled NYU or partner university student with 3.30+ GPA in Environmental Studies or Policy",
+      "ielts": "Fluent English",
+      "gre": "Not required",
+      "papers": "Environmental policy research proposal and academic CV",
+      "references": "Faculty sponsor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8220,
+    "title": "German Cold War History & Memorialization Research Grant",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Archival grant supporting primary source research at the Stasi Records Archive, Berlin Wall Memorial, and German Historical Museum.",
+    "funding": "$2,500 archival research travel and materials grant",
+    "tuition": "Direct research project funding",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "History, German Studies, or European Politics major with 3.20+ GPA",
+      "ielts": "German reading proficiency (B1/B2)",
+      "gre": "Not required",
+      "papers": "Archival research prospectus and timeline",
+      "references": "History department faculty approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8221,
+    "title": "Berlin International Non-Profit & Think Tank Practicum",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Curricular experiential internship placed with human rights organizations, cultural diplomacy institutes, and environmental NGOs based in Berlin.",
+    "funding": "Academic course credit (4 NYU credits) and €500 monthly transit/living stipend",
+    "tuition": "Included in standard semester tuition",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "Sophomore, Junior, or Senior standing with 3.00+ GPA",
+      "ielts": "English fluency; German B1+ preferred for local NGO placements",
+      "gre": "Not required",
+      "papers": "Resume and statement of internship goals",
+      "references": "NYU Berlin experiential learning coordinator sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8222,
+    "title": "NYU Global Diversity & First-Generation European Study Bursary",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Need-based scholarship providing travel and housing stipends for historically underrepresented and first-generation university students studying in Berlin.",
+    "funding": "$3,000 to $6,000 semester flight and living grant",
+    "tuition": "Direct grant payment",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.nyu.edu",
+    "requirements": {
+      "gpa": "Enrolled undergraduate student with demonstrated financial need and 3.00+ GPA",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Diversity statement and FAFSA/financial documentation",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8223,
+    "title": "Bachelor of Arts in Religious Education & Diaconal Social Pedagogy",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Double-qualifying seven-semester degree conferring state recognition as a Social Pedagogue (Staatlich anerkannte/r Sozialpädagoge/in) and church community educator.",
+    "funding": "Eligible for Saxon Diaconal Foundation Bursaries and BAföG federal student aid",
+    "tuition": "€0 tuition fees (state and church subsidized); semester fee ~€260 including regional transit",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027 (Winter Semester Admissions)",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Abitur or Fachhochschulreife with satisfactory marks in humanities and social sciences",
+      "ielts": "German C1 (DSH-2 or TestDaF 4x4) for international applicants",
+      "gre": "Not required",
+      "papers": "CV, personal motivation letter on diaconal values, and proof of 4-week social practicum or FSJ",
+      "references": "Admissions selection interview"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8224,
+    "title": "Master of Arts in Social Work & Transformative Community Leadership",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Postgraduate research program focusing on social policy governance, child protection jurisprudence, ethical organizational leadership, and community conflict resolution.",
+    "funding": "Deutschlandstipendium (€300/month) and research assistantships available",
+    "tuition": "€0 tuition; semester fee ~€260",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Bachelor’s degree in Social Work, Childhood Education, or Theology (210 ECTS) with 2.5 grade or better",
+      "ielts": "German C1",
+      "gre": "Not required",
+      "papers": "Statement of research interests in community welfare and academic transcripts",
+      "references": "Two academic or institutional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8225,
+    "title": "Moritzburg Diaconal Ethics & Palliative Care Fellowship",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Postgraduate research fellowship investigating spiritual care ethics, palliative hospice counseling, and social support networks in aging rural societies.",
+    "funding": "€3,800 research stipend and archival residency at the Moritzburg Diaconal Archives",
+    "tuition": "Funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Enrolled master or doctoral student in Social Pedagogy, Theology, or Ethics",
+      "ielts": "German language fluency",
+      "gre": "Not required",
+      "papers": "Palliative ethics research proposal and academic CV",
+      "references": "Faculty research sponsor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8226,
+    "title": "Inclusion Pedagogy & Special Needs Youth Practicum",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on semester practicum embedded in residential youth welfare centers, inclusive primary schools, and disability support foundations across Dresden and Meissen.",
+    "funding": "€650 to €850 monthly practicum compensation",
+    "tuition": "Fulfills curricular practical semester (30 ECTS)",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Completed fourth semester of social pedagogy studies in good standing",
+      "ielts": "German C1",
+      "gre": "Not required",
+      "papers": "Resume, police clearance certificate (Erweitertes Führungszeugnis), and learning contract",
+      "references": "Practicum coordinator sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8227,
+    "title": "Evangelische Kirche in Mitteldeutschland Educational Merit Bursary",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Church foundation merit scholarship supporting students from lower-income backgrounds pursuing full-time studies in social pedagogy and community service.",
+    "funding": "€2,400 annual living and literature stipend (€200/month)",
+    "tuition": "Direct scholarship grant",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Matriculated student at EHS Campus Moritzburg with 2.2 grade average or better",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Bursary application essay detailing personal social engagement",
+      "references": "Parish or civic mentor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8228,
+    "title": "Community Youth Empowerment & Anti-Discrimination Project Grant",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "location": "Moritzburg, Saxony, Germany",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Applied student project grant funding grassroots anti-bias workshops, refugee integration youth circles, and creative theater pedagogy in eastern Germany.",
+    "funding": "€1,500 project materials and workshop execution grant",
+    "tuition": "Direct project grant",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.ehs-dresden.de",
+    "requirements": {
+      "gpa": "Student group comprising at least two enrolled EHS Moritzburg students",
+      "ielts": "Good standing",
+      "gre": "Not required",
+      "papers": "Community initiative concept paper, target group description, and budget breakdown",
+      "references": "Social work faculty approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8229,
+    "title": "Bachelor of Information Management in Cloud Architecture & AI Systems",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Four-year university degree covering distributed cloud engineering, Python machine learning pipelines, cybersecurity operations, and internet database architecture in Tokyo.",
+    "funding": "Eligible for MEXT Japan Student Services Organization (JASSO) scholarships and university tuition reduction grants",
+    "tuition": "¥834,000 per academic year (approx. ¥2,990,000 total 4-year degree)",
+    "fee": "¥10,000 admissions screening fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027 (Spring Admission Intake)",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation certificate or MEXT university entrance qualification exam",
+      "ielts": "JLPT N2 or EJU Japanese score >= 220 for international applicants",
+      "gre": "Not required",
+      "papers": "Academic graduation transcript, curriculum vitae, and personal statement of purpose",
+      "references": "Not required for general admission"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8230,
+    "title": "Bachelor of Human Welfare in Psychiatric Healthcare & Social Work Licensure",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Accredited social work degree qualifying graduates for national examinations as Certified Social Workers (Shakai Fukushishi) and Psychiatric Social Workers in Japan.",
+    "funding": "Japanese National Social Welfare Student Loan Fund with full tuition cancellation upon qualifying practice",
+    "tuition": "¥850,000 per academic year",
+    "fee": "¥10,000 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma with good general academic standing",
+      "ielts": "JLPT N1 recommended for national welfare licensing examinations",
+      "gre": "Not required",
+      "papers": "Personal essay on public health commitment and high school transcripts",
+      "references": "One character or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8231,
+    "title": "Bachelor of Information Management in Digital Business & Web Production",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary digital curriculum analyzing e-commerce UX design, search marketing analytics, web application frameworks, and digital intellectual property law.",
+    "funding": "Tokyo Tsushin Future Digital Creator Scholarships up to ¥200,000",
+    "tuition": "¥834,000 per academic year",
+    "fee": "¥10,000 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma or certified equivalent",
+      "ielts": "JLPT N2 or native Japanese",
+      "gre": "Not required",
+      "papers": "Statement of digital career objectives and academic records",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8232,
+    "title": "Tokyo Online Distance Learning Global Merit Scholarship",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Tuition reduction scholarship awarded to outstanding international students resident in Japan or abroad pursuing full four-year degrees online.",
+    "funding": "¥150,000 to ¥300,000 annual tuition fee reduction",
+    "tuition": "Direct tuition reduction",
+    "fee": "¥0 scholarship fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "Superior high school GPA (equivalent to 3.20+ on 4.0 scale)",
+      "ielts": "JLPT N2+",
+      "gre": "Not required",
+      "papers": "Scholarship application essay outlining independent digital learning strategies",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8233,
+    "title": "Tokyo Digital Health & Gerontological Social Welfare Practicum",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Fieldwork internship placing human welfare students in certified elderly care facilities and clinical mental health hospitals in the Tokyo metropolitan area.",
+    "funding": "¥120,000 practicum support allowance",
+    "tuition": "Fulfills national social worker licensure practicum requirements",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "Completed required pre-practicum coursework in Human Welfare with 2.80+ GPA",
+      "ielts": "Fluent Japanese suitable for clinical dialogue",
+      "gre": "Not required",
+      "papers": "Health clearance, clinical liability insurance, and personal statement",
+      "references": "Faculty practicum supervisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8234,
+    "title": "Cloud Computing & Modern Web Frameworks Research Grant",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Grant",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Project grant funding cloud database server instances, API development, and automated user analytics testing for innovative undergraduate capstone projects.",
+    "funding": "¥150,000 cloud infrastructure and testing grant",
+    "tuition": "Direct research project allocation",
+    "fee": "¥0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.internet.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled third or fourth-year Information Management student",
+      "ielts": "Good academic standing",
+      "gre": "Not required",
+      "papers": "Technical architecture specification, system architecture diagram, and GitHub repo",
+      "references": "Faculty capstone mentor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8235,
+    "title": "Bachelor of Commerce in Supply Chain Logistics & Retail Innovation",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Four-year specialized degree examining global supply chain optimization, automated warehouse robotics, omni-channel retailing, and consumer demand forecasting in Kobe.",
+    "funding": "Eligible for Nakauchi Memorial Founder Scholarships granting up to 50% tuition reduction",
+    "tuition": "¥1,330,000 per academic year",
+    "fee": "¥35,000 entrance examination fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027 (General Entrance Examination)",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation certificate with solid scholastic background",
+      "ielts": "JLPT N2 or EJU Japanese score >= 220 for international applicants",
+      "gre": "Not required",
+      "papers": "Transcripts, statement of motivation in distribution science, and essay",
+      "references": "One recommendation letter from high school principal or teacher"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8236,
+    "title": "Bachelor of Human Societies in Tourism & Hospitality Management",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Curriculum studying international hotel management, regional ecotourism, Kansai inbound tourism marketing, and airline passenger services.",
+    "funding": "Kobe Tourism Bureau industry study grants up to ¥250,000",
+    "tuition": "¥1,340,000 per academic year",
+    "fee": "¥35,000 examination fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma with good language ability",
+      "ielts": "JLPT N2 or IELTS 5.5",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8237,
+    "title": "Graduate School of Distribution Sciences Master of Distribution Economics",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-year research master’s degree analyzing Asian distribution networks, maritime freight logistics, econometric pricing models, and trade policy.",
+    "funding": "UMDS Graduate Research Fellowships offering ¥40,000 monthly study bursary",
+    "tuition": "¥880,000 annual graduate tuition",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor’s degree in commerce, economics, or business with 2.80+ GPA",
+      "ielts": "JLPT N1 or fluent Japanese",
+      "gre": "Not required",
+      "papers": "Master thesis research plan (approx. 2,000 characters in Japanese), CV, and transcripts",
+      "references": "Two letters of recommendation from undergraduate professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8238,
+    "title": "Nakauchi International Student Academic Merit Tuition Reduction",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Substantial tuition reduction scholarship granting 30% to 50% tuition reduction for admitted international undergraduate and graduate students.",
+    "funding": "30% to 50% annual tuition waiver (worth up to ¥500,000 annually)",
+    "tuition": "Direct tuition reduction",
+    "fee": "¥0 scholarship fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled or admitted foreign student with high entrance exam performance",
+      "ielts": "EJU Japanese >= 240 or JLPT N2+",
+      "gre": "Not required",
+      "papers": "Scholarship application form and personal essay",
+      "references": "Faculty endorsement upon enrollment"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8239,
+    "title": "Kobe Maritime Port & Intermodal Logistics Practicum",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on corporate practicum embedded with Kobe port container terminals, cold-chain logistics hubs, and international customs brokerage firms.",
+    "funding": "¥100,000 monthly corporate practicum stipend",
+    "tuition": "Internship academic course credit",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "Junior or Senior standing in Commerce or Distribution with 2.80+ GPA",
+      "ielts": "Japanese fluency",
+      "gre": "Not required",
+      "papers": "Resume and corporate cover letter",
+      "references": "Career Center endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8240,
+    "title": "Asian Consumer Retail Behavior Fieldwork Grant",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "location": "Kobe, Hyogo, Japan",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Empirical fieldwork grant supporting student research teams surveying convenience store retail robotics, QR-code payment adoption, and food waste reduction.",
+    "funding": "¥200,000 field survey and consumer data collection grant",
+    "tuition": "Direct research project funding",
+    "fee": "¥0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.umds.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled seminar student in Faculty of Commerce or Economics",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Consumer survey research design and questionnaire methodology",
+      "references": "Seminar professor sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8241,
+    "title": "Bachelor of Arts in International Exchange & Global Studies",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Four-year modern liberal arts curriculum exploring international relations, multicultural symbiosis, sustainable development goals (SDGs), and global diplomacy in Tokyo.",
+    "funding": "Eligible for Sacred Heart Founder St. Madeleine Sophie Barat Scholarships up to ¥400,000 annually",
+    "tuition": "¥1,280,000 per academic year",
+    "fee": "¥35,000 entrance examination fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027 (General Entrance Examination)",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "Female high school graduate with solid academic record and English or Japanese proficiency",
+      "ielts": "JLPT N1/N2 or EJU Japanese >= 260 for international scholars",
+      "gre": "Not required",
+      "papers": "High school transcripts, personal statement on global citizenship, and short essay",
+      "references": "One letter of recommendation from school principal"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8242,
+    "title": "Bachelor of Arts in Psychology & Human Developmental Sciences",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous psychological curriculum covering cognitive developmental stages, clinical counseling psychology, psychometrics, and neuro-development in children.",
+    "funding": "Faculty of Modern Liberal Arts Endowed Bursaries up to ¥300,000",
+    "tuition": "¥1,310,000 per academic year",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma with good performance in humanities and sciences",
+      "ielts": "JLPT N2 or native Japanese",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8243,
+    "title": "Graduate School of Humanities Master of Arts in English Literature & Linguistics",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Coeducational two-year research degree examining Anglo-American literature, feminist literary criticism, sociolinguistics, and second language acquisition pedagogy.",
+    "funding": "Graduate research assistantships offering tuition assistance and study grants",
+    "tuition": "¥820,000 annual graduate tuition",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor’s degree in English literature, linguistics, or humanities with 3.00+ GPA",
+      "ielts": "IELTS 7.0 or TOEFL iBT 90 or TOEIC 850+",
+      "gre": "Not required",
+      "papers": "Master’s thesis research proposal (approx. 2,000 words in English) and academic CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8244,
+    "title": "Sacred Heart Global Sustainability & SDG Research Fellowship",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Fellowship conducted at the Sacred Heart Institute for Sustainable Futures (SHISF), investigating climate change adaptation in Asia and fair-trade community economics.",
+    "funding": "¥350,000 annual research grant and international field survey support",
+    "tuition": "Funded research fellowship",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled undergraduate or graduate student with 3.20+ GPA",
+      "ielts": "Fluent Japanese or English",
+      "gre": "Not required",
+      "papers": "Sustainability field research proposal and CV",
+      "references": "SHISF faculty mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8245,
+    "title": "Empress Michiko Intercultural Understanding Merit Scholarship",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Special commemorative merit scholarship supporting international students who foster cross-cultural dialogue and women's educational leadership.",
+    "funding": "¥500,000 annual tuition grant",
+    "tuition": "Direct tuition reduction",
+    "fee": "¥0 scholarship fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "Admitted foreign female undergraduate student with superior entrance exam ranking",
+      "ielts": "JLPT N1/N2 or EJU Japanese >= 260",
+      "gre": "Not required",
+      "papers": "Scholarship essay detailing cross-cultural vision and leadership aspirations",
+      "references": "Department head recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8246,
+    "title": "United Nations & International Human Rights NGO Practicum",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "location": "Shibuya-ku, Tokyo, Japan",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious academic practicum placed with UN agencies, international refugee support organizations, and UNESCO partner institutions in Tokyo.",
+    "funding": "¥120,000 monthly internship stipend and academic course credit",
+    "tuition": "Practicum course credit included",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "requirements": {
+      "gpa": "Junior or Senior student in International Studies with 3.20+ GPA",
+      "ielts": "TOEFL 85+ / IELTS 6.5+ and fluent Japanese",
+      "gre": "Not required",
+      "papers": "Resume and personal statement in English and Japanese",
+      "references": "International Studies department faculty endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];
 export const researchers=[
   {
@@ -273731,6 +278771,1716 @@ export const researchers=[
     ],
     "summary": "Dr. Yosuke Matsumura researches real-time shader pipelines and player immersion dynamics in virtual reality gaming, collaborating with major Tokyo video game development studios.",
     "source": "https://www.takara-univ.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+{
+    "id": 3589,
+    "name": "Dr. Amy R. Yielding",
+    "title": "Professor of Mathematics and Computational Modeling",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "department": "College of STEM",
+    "subject": "mathematics",
+    "topics": [
+      "Applied Mathematics",
+      "Mathematical Modeling of Ecosystems",
+      "Differential Equations",
+      "Undergraduate STEM Pedagogy"
+    ],
+    "summary": "Dr. Amy R. Yielding investigates mathematical biology and population dynamics models, designing innovative pedagogy to enhance rural STEM student retention.",
+    "source": "https://www.eou.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3590,
+    "name": "Dr. Bryan Fisher",
+    "title": "Associate Professor of Biology and Wildlife Conservation",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Avian Ecology",
+      "Riparian Zone Restoration",
+      "Wildlife Habitat Connectivity",
+      "Conservation Biology"
+    ],
+    "summary": "Dr. Bryan Fisher examines bird breeding behaviors and riparian habitat restoration throughout the Blue Mountains and Wallowa mountain range.",
+    "source": "https://www.eou.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3591,
+    "name": "Dr. Colleen Johnson",
+    "title": "Professor of Economics and Regional Development",
+    "university": "Eastern Oregon University",
+    "country": "United States",
+    "department": "College of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Rural Economic Development",
+      "Natural Resource Economics",
+      "Regional Labor Markets",
+      "Agricultural Trade Policy"
+    ],
+    "summary": "Dr. Colleen Johnson researches regional economic resilience in timber and agricultural communities across the Pacific Northwest interior.",
+    "source": "https://www.eou.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3592,
+    "name": "Dr. Barry Eisenberg",
+    "title": "Associate Professor of Healthcare Management",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Healthcare Strategic Planning",
+      "Hospital Leadership Systems",
+      "Organizational Culture in Healthcare",
+      "Health Care Policy"
+    ],
+    "summary": "Dr. Barry Eisenberg examines institutional change management and clinical quality improvement in major metropolitan hospital centers.",
+    "source": "https://sunyempire.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3593,
+    "name": "Dr. Roxana Toma",
+    "title": "Associate Professor of Public Affairs and Quantitative Methods",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "department": "School of Public Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Public Sector Anti-Corruption",
+      "Policy Evaluation Metrics",
+      "Governance Transparency",
+      "Comparative Public Administration"
+    ],
+    "summary": "Dr. Roxana Toma conducts quantitative investigations into global institutional corruption, governmental transparency indices, and civic trust.",
+    "source": "https://sunyempire.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3594,
+    "name": "Dr. David A. Fullard",
+    "title": "Visiting Assistant Professor of Criminal Justice",
+    "university": "Empire State University at Manhattan",
+    "country": "United States",
+    "department": "School of Social and Behavioral Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Correctional Reform",
+      "Criminal Justice Policy",
+      "Urban Behavioral Health",
+      "Forensic Behavioral Science"
+    ],
+    "summary": "Dr. David A. Fullard evaluates urban criminal justice reintegration, prison mental health programs, and administrative accountability in correctional systems.",
+    "source": "https://sunyempire.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3595,
+    "name": "Dr. Caryl A. McNeilly",
+    "title": "Associate Professor of Chemistry and Chemical Education",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "department": "School of Science and Technology",
+    "subject": "chemistry",
+    "topics": [
+      "Bioinorganic Chemistry",
+      "Chemical Spectrometry",
+      "STEM Educational Inclusivity",
+      "Organic Mechanism Synthesis"
+    ],
+    "summary": "Dr. Caryl A. McNeilly explores synthetic transition metal catalysts and guided-inquiry instructional models for undergraduate chemistry cohorts.",
+    "source": "https://www.ggc.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3596,
+    "name": "Dr. Sairam V. Tangirala",
+    "title": "Associate Professor of Information Technology",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "department": "School of Science and Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Cloud Database Architecture",
+      "Big Data Engineering",
+      "Machine Learning Algorithms",
+      "Enterprise Information Systems"
+    ],
+    "summary": "Dr. Sairam V. Tangirala designs high-throughput distributed database architectures and machine learning anomaly detection frameworks.",
+    "source": "https://www.ggc.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3597,
+    "name": "Dr. Rebecca E. Cooper",
+    "title": "Associate Professor of Psychology and Behavioral Health",
+    "university": "Georgia Gwinnett College",
+    "country": "United States",
+    "department": "School of Liberal Arts",
+    "subject": "social-sciences",
+    "topics": [
+      "Cognitive Development",
+      "Behavioral Neuroscience",
+      "Health Psychology Interventions",
+      "Cross-Cultural Psychological Wellbeing"
+    ],
+    "summary": "Dr. Rebecca E. Cooper studies neural correlates of stress resilience and cognitive interventions mitigating burnout in collegiate populations.",
+    "source": "https://www.ggc.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3598,
+    "name": "Prof. Dr. Ayanna Howard",
+    "title": "Adjunct Professor of Interactive Computing and Human-Robot Interaction",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "department": "College of Computing",
+    "subject": "computer-science",
+    "topics": [
+      "Human-Robot Interaction",
+      "Pediatric Assistive Robotics",
+      "Artificial Intelligence Ethics",
+      "Autonomous Systems in Healthcare"
+    ],
+    "summary": "Prof. Dr. Ayanna Howard is a pioneering researcher in robotics and AI, developing assistive robot technologies for children with disabilities and mitigating algorithmic bias.",
+    "source": "https://www.gatech.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3599,
+    "name": "Prof. Dr. Mostafa A. El-Sayed",
+    "title": "Julius Brown Chair and Regents Professor of Chemistry and Biochemistry",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "department": "School of Chemistry and Biochemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Nanoplasmonics",
+      "Gold Nanoparticles in Photothermal Cancer Therapy",
+      "Femtosecond Laser Spectroscopy",
+      "Nanotechnology"
+    ],
+    "summary": "Prof. Dr. Mostafa A. El-Sayed is a National Medal of Science laureate renowned for El-Sayed's rule in photochemistry and pioneering nanoplasmonic cancer diagnostic methods.",
+    "source": "https://www.gatech.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3600,
+    "name": "Prof. Dr. Marilyn A. Brown",
+    "title": "Regents Professor and Brook Byers Professor of Sustainable Systems",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "department": "School of Public Policy",
+    "subject": "environment",
+    "topics": [
+      "Clean Energy Policy",
+      "Climate Change Mitigation Pathways",
+      "Grid Decarbonization Economics",
+      "Smart Grid Technology Adoption"
+    ],
+    "summary": "Prof. Dr. Marilyn A. Brown, co-recipient of the Nobel Peace Prize with the IPCC, researches technological transitions to low-carbon electricity grids and urban energy equity.",
+    "source": "https://www.gatech.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3601,
+    "name": "Dr. L. Stephen O'Pry",
+    "title": "Professor of Civil and Environmental Engineering",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "department": "Allen E. Paulson College of Engineering and Computing",
+    "subject": "engineering",
+    "topics": [
+      "Structural Health Monitoring",
+      "Resilient Concrete Infrastructure",
+      "Coastal Wind Damage Mitigation",
+      "Geotechnical Engineering"
+    ],
+    "summary": "Dr. L. Stephen O'Pry develops non-destructive structural sensor networks and hurricane-resistant composite materials for coastal civil infrastructures.",
+    "source": "https://www.georgiasouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3602,
+    "name": "Dr. J. Checo Colon-Gaud",
+    "title": "Professor of Biology and Aquatic Ecology",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Stream Ecology",
+      "Macroinvertebrate Biodiversity",
+      "Riparian Ecosystem Energetics",
+      "Tropical and Temperate Watersheds"
+    ],
+    "summary": "Dr. J. Checo Colon-Gaud investigates aquatic invertebrate trophic webs and organic matter decomposition in southeastern coastal plain stream channels.",
+    "source": "https://www.georgiasouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3603,
+    "name": "Dr. Haresh D. Rochani",
+    "title": "Associate Professor of Biostatistics",
+    "university": "Georgia Southern University",
+    "country": "United States",
+    "department": "Jiann-Ping Hsu College of Public Health",
+    "subject": "mathematics",
+    "topics": [
+      "Biostatistical Modeling",
+      "Longitudinal Clinical Data Analysis",
+      "Survival Analysis",
+      "Public Health Epidemiology"
+    ],
+    "summary": "Dr. Haresh D. Rochani formulates statistical modeling frameworks for correlated epidemiological observations and clinical trial efficacy evaluations.",
+    "source": "https://www.georgiasouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3604,
+    "name": "Dr. Michele Ragsdale",
+    "title": "Associate Professor of Nursing and Clinical Simulation",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "High-Fidelity Clinical Simulation",
+      "Rural Emergency Nursing",
+      "Pediatric Nursing Competencies",
+      "Patient Safety Protocols"
+    ],
+    "summary": "Dr. Michele Ragsdale investigates experiential fidelity in simulated clinical environments to accelerate emergency decision-making in nursing students.",
+    "source": "https://gsw.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3605,
+    "name": "Dr. Boris Peltsverger",
+    "title": "Professor of Computer Science and Distributed Networks",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "department": "College of Business and Computing",
+    "subject": "computer-science",
+    "topics": [
+      "Telecommunications Routing",
+      "Network Optimization Algorithms",
+      "Parallel Computing",
+      "Operations Research"
+    ],
+    "summary": "Dr. Boris Peltsverger designs graph-theoretical routing algorithms and heuristic models for optimal data transmission in telecommunication networks.",
+    "source": "https://gsw.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3606,
+    "name": "Dr. Kelly McCoy",
+    "title": "Professor of Biology and Herpetology",
+    "university": "Georgia Southwestern State University",
+    "country": "United States",
+    "department": "Department of Biological Sciences",
+    "subject": "biology",
+    "topics": [
+      "Herpetology",
+      "Amphibian Ecotoxicology",
+      "Wetland Biodiversity",
+      "Endocrine Disruption in Aquatic Wildlife"
+    ],
+    "summary": "Dr. Kelly McCoy researches environmental pesticide exposure and reproductive endocrine disruption in amphibian populations across Georgia waterways.",
+    "source": "https://gsw.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3607,
+    "name": "Prof. Dr. Ming-Hui Zou",
+    "title": "Director and Eminent Scholar Chair in Molecular Medicine",
+    "university": "Georgia State University",
+    "country": "United States",
+    "department": "Center for Molecular and Translational Medicine",
+    "subject": "biology",
+    "topics": [
+      "Cardiovascular Molecular Medicine",
+      "AMPK Signaling Pathways",
+      "Vascular Endothelial Biology",
+      "Atherosclerosis Pathophysiology"
+    ],
+    "summary": "Prof. Dr. Ming-Hui Zou is an internationally acclaimed investigator in cardiovascular biology, deciphering AMPK enzyme activation and oxidative vascular stress.",
+    "source": "https://www.gsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3608,
+    "name": "Prof. Dr. Douglas R. Gies",
+    "title": "Regents' Professor of Astronomy and Director of CHARA",
+    "university": "Georgia State University",
+    "country": "United States",
+    "department": "Department of Physics and Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Optical Stellar Interferometry",
+      "Massive Star Evolution",
+      "Binary Star Dynamics",
+      "Be Star Circumstellar Disks"
+    ],
+    "summary": "Prof. Dr. Douglas R. Gies leads high-angular-resolution stellar astrophysics, directing the CHARA Array to directly image stellar surfaces and circumstellar gas disks.",
+    "source": "https://www.gsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3609,
+    "name": "Dr. Cynthia J. Najdowski",
+    "title": "Associate Professor of Psychology and Law",
+    "university": "Georgia State University",
+    "country": "United States",
+    "department": "Department of Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Legal Psychology",
+      "Eyewitness Identification Reliability",
+      "Racial Bias in Criminal Justice",
+      "False Confessions"
+    ],
+    "summary": "Dr. Cynthia J. Najdowski explores social-psychological dynamics in criminal justice, examining how racial stereotypes and interrogative pressure induce false confessions.",
+    "source": "https://www.gsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3610,
+    "name": "Dr. Jon R. Valla",
+    "title": "Associate Dean and Associate Professor of Biology",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "department": "College of Science, Engineering and Technology",
+    "subject": "biology",
+    "topics": [
+      "Neuroanatomy",
+      "Alzheimer’s Disease Neuropathology",
+      "Cerebral Metabolism",
+      "Cellular Aging Models"
+    ],
+    "summary": "Dr. Jon R. Valla studies neurodegenerative pathology and mitochondrial bioenergetics in Alzheimer’s disease, guiding undergraduate biomedical laboratory research.",
+    "source": "https://www.gcu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3611,
+    "name": "Dr. Richard N. Mulski",
+    "title": "Assistant Professor of Mechanical Engineering",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "department": "College of Science, Engineering and Technology",
+    "subject": "engineering",
+    "topics": [
+      "Additive Manufacturing",
+      "Composite Material Tensile Mechanics",
+      "Biomechanical Implants",
+      "Thermal Fluid Systems"
+    ],
+    "summary": "Dr. Richard N. Mulski evaluates 3D-printed titanium composite fatigue limits and orthopedic implant geometries for musculoskeletal rehabilitation.",
+    "source": "https://www.gcu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3612,
+    "name": "Dr. Daisy Savarirajan",
+    "title": "Associate Professor of Microbiology and Genetics",
+    "university": "Grand Canyon University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Antimicrobial Resistance",
+      "Natural Botanical Antimicrobials",
+      "Bacterial Biofilm Inhibition",
+      "Molecular Genetics"
+    ],
+    "summary": "Dr. Daisy Savarirajan investigates botanical phytochemical extracts capable of disrupting pathogenic bacterial biofilms and overcoming multidrug resistance.",
+    "source": "https://www.gcu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3613,
+    "name": "Dr. Byron Calkins",
+    "title": "Professor of Land Surveying and Geomatics",
+    "university": "Great Basin College",
+    "country": "United States",
+    "department": "Department of Geomatics",
+    "subject": "engineering",
+    "topics": [
+      "Geodetic Surveying",
+      "Satellite Positioning Systems",
+      "Public Land Survey System",
+      "Photogrammetric Mapping"
+    ],
+    "summary": "Dr. Byron Calkins teaches advanced boundary jurisprudence and satellite geodesy, consulting on western public lands surveying and mining claim disputes.",
+    "source": "https://www.gbcnv.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3614,
+    "name": "Dr. Amber Donnelli",
+    "title": "Dean and Professor of Health Science and Human Services",
+    "university": "Great Basin College",
+    "country": "United States",
+    "department": "Department of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Rural Nursing Education",
+      "Telehealth in Frontier Communities",
+      "Nurse Retention in Mining Districts",
+      "Health Disparities"
+    ],
+    "summary": "Dr. Amber Donnelli researches clinical workforce retention in isolated rural frontier communities and educational modalities for non-traditional nursing students.",
+    "source": "https://www.gbcnv.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3615,
+    "name": "Dr. David Freistroffer",
+    "title": "Professor of Biological Sciences and Chemistry",
+    "university": "Great Basin College",
+    "country": "United States",
+    "department": "Department of Science",
+    "subject": "biology",
+    "topics": [
+      "Arid Land Ecology",
+      "Riparian Soil Chemistry",
+      "Invasive Weed Dynamics",
+      "Great Basin Botanical Adaptations"
+    ],
+    "summary": "Dr. David Freistroffer investigates drought adaptation mechanisms in Great Basin flora and soil chemistry alterations resulting from cheatgrass invasion.",
+    "source": "https://www.gbcnv.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3616,
+    "name": "Dr. Brenda Skocilich",
+    "title": "Director and Professor of Dental Hygiene",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "department": "Health Sciences Division",
+    "subject": "biology",
+    "topics": [
+      "Community Oral Health Disparities",
+      "Periodontal Instrumentation Ergonomics",
+      "Fluoridation in Rural Water Supplies",
+      "Teledentistry"
+    ],
+    "summary": "Dr. Brenda Skocilich studies preventive oral healthcare protocols in underserved rural populations, directing regional clinical rotations and teledentistry programs.",
+    "source": "https://www.gfcmsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3617,
+    "name": "Prof. Shannon Marr",
+    "title": "Director and Instructor of Computer Technology",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "department": "Business and Technology Division",
+    "subject": "computer-science",
+    "topics": [
+      "Industrial Network Security",
+      "Intrusion Detection Systems",
+      "Cybersecurity Workforce Pedagogy",
+      "Cloud Infrastructure Defense"
+    ],
+    "summary": "Prof. Shannon Marr leads curriculum engineering in defensive cybersecurity, training technicians in hands-on packet inspection and operational technology protection.",
+    "source": "https://www.gfcmsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3618,
+    "name": "Dr. Gregory Kegel",
+    "title": "Adjunct Instructor in Environmental Science and Geology",
+    "university": "Great Falls College Montana State University",
+    "country": "United States",
+    "department": "General Education Division",
+    "subject": "environment",
+    "topics": [
+      "Hydrogeology of the Great Plains",
+      "Sediment Transport Dynamics",
+      "Riparian Restoration",
+      "Aquifer Recharge"
+    ],
+    "summary": "Dr. Gregory Kegel examines subsurface hydrological dynamics and riverbank sediment stabilization methods throughout central Montana waterways.",
+    "source": "https://www.gfcmsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3619,
+    "name": "Dr. Susan M. Myster",
+    "title": "Professor of Anthropology and Forensic Sciences",
+    "university": "Hamline University",
+    "country": "United States",
+    "department": "Department of Anthropology",
+    "subject": "social-sciences",
+    "topics": [
+      "Forensic Anthropology",
+      "Bioarchaeology",
+      "Human Osteology",
+      "Skeletal Trauma Analysis"
+    ],
+    "summary": "Dr. Susan M. Myster is a board-certified forensic anthropologist consulting for law enforcement on human identification, bone histology, and forensic taphonomy.",
+    "source": "https://www.hamline.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3620,
+    "name": "Dr. Deanna L. Thompson",
+    "title": "Director of the Wesley Center and Professor of Religion",
+    "university": "Hamline University",
+    "country": "United States",
+    "department": "Department of Religion",
+    "subject": "social-sciences",
+    "topics": [
+      "Contemporary Theology",
+      "Digital Religion and Ethics",
+      "Medical Humanities",
+      "Illness and Hope"
+    ],
+    "summary": "Dr. Deanna L. Thompson writes on virtual community formation, digital theology, and medical humanities, analyzing how digital communication reshapes trauma and grief.",
+    "source": "https://www.hamline.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3621,
+    "name": "Dr. Betsy Hoium",
+    "title": "Associate Professor of Chemistry and Forensic Toxicology",
+    "university": "Hamline University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Forensic Toxicology",
+      "Gas Chromatography-Mass Spectrometry",
+      "Drug Metabolism Kinetics",
+      "Environmental Trace Contaminants"
+    ],
+    "summary": "Dr. Betsy Hoium develops sensitive chromatographic separation methods for detecting synthetic opioids and metabolic byproducts in biological matrices.",
+    "source": "https://www.hamline.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3622,
+    "name": "Dr. Jeff Mercer",
+    "title": "Dean and Professor of Pharmacy Practice",
+    "university": "Harding University",
+    "country": "United States",
+    "department": "College of Pharmacy",
+    "subject": "biology",
+    "topics": [
+      "Clinical Pharmacokinetics",
+      "Infectious Disease Pharmacotherapy",
+      "Ambulatory Patient Outcomes",
+      "Pharmacy Accreditation"
+    ],
+    "summary": "Dr. Jeff Mercer leads clinical pharmacy research on antimicrobial dosing protocols in critical care and rural health outcomes.",
+    "source": "https://www.harding.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3623,
+    "name": "Dr. James Huff",
+    "title": "Associate Professor of Engineering and Human-Centered Design",
+    "university": "Harding University",
+    "country": "United States",
+    "department": "Department of Engineering and Physics",
+    "subject": "engineering",
+    "topics": [
+      "Engineering Identity Development",
+      "Psychological Wellbeing in STEM",
+      "Qualitative Engineering Pedagogy",
+      "Professional Engineering Ethics"
+    ],
+    "summary": "Dr. James Huff conducts NSF-funded investigations into professional identity formation, emotional resilience, and ethical practice among engineering practitioners.",
+    "source": "https://www.harding.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3624,
+    "name": "Dr. Kenneth B. Turley",
+    "title": "Professor of Exercise Science and Cardiovascular Physiology",
+    "university": "Harding University",
+    "country": "United States",
+    "department": "Department of Exercise and Sport Science",
+    "subject": "biology",
+    "topics": [
+      "Pediatric Exercise Physiology",
+      "Cardiovascular Hemodynamics",
+      "Thermoregulatory Responses during Exercise",
+      "Metabolic Syndrome Intervention"
+    ],
+    "summary": "Dr. Kenneth B. Turley evaluates cardiovascular exercise stress dynamics and thermoregulatory physiology in pediatric and adolescent populations.",
+    "source": "https://www.harding.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3625,
+    "name": "Prof. Martha J. Karavitis-Hemmati",
+    "title": "Professor of Biological Sciences and Anatomy",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "department": "Career and Technical Programs Division",
+    "subject": "biology",
+    "topics": [
+      "Human Anatomy Pedagogy",
+      "Cadaveric Dissection Techniques",
+      "Allied Health Curriculum Integration",
+      "Physiology Simulation"
+    ],
+    "summary": "Prof. Martha J. Karavitis-Hemmati directs anatomical dissection laboratories, researching active learning interventions in pre-health human anatomy courses.",
+    "source": "https://www.harpercollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3626,
+    "name": "Prof. Stephanie Whalen",
+    "title": "Professor of English and Academy for Teaching Excellence Director",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "department": "Liberal Arts Division",
+    "subject": "social-sciences",
+    "topics": [
+      "Universal Design for Learning",
+      "Culturally Responsive Teaching",
+      "Faculty Development Pedagogy",
+      "Developmental Literacy"
+    ],
+    "summary": "Prof. Stephanie Whalen publishes on Universal Design for Learning (UDL) frameworks and instructional neurodiversity in community college environments.",
+    "source": "https://www.harpercollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3627,
+    "name": "Prof. Scott Friedman",
+    "title": "Associate Professor of Computer Information Systems",
+    "university": "William Rainey Harper College",
+    "country": "United States",
+    "department": "Career and Technical Programs Division",
+    "subject": "computer-science",
+    "topics": [
+      "Cloud Virtualization",
+      "Zero-Trust Cybersecurity Architecture",
+      "Ethical Hacking Curriculum",
+      "Network Forensics"
+    ],
+    "summary": "Prof. Scott Friedman designs cyber defense range scenarios, training cybersecurity students in threat incident mitigation and firewall rule synthesis.",
+    "source": "https://www.harpercollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3628,
+    "name": "Dr. Roozbeh Sadeghian",
+    "title": "Associate Professor and Program Lead for Analytics and Data Science",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "department": "Department of Analytics",
+    "subject": "computer-science",
+    "topics": [
+      "Deep Learning Neural Networks",
+      "Predictive Analytics in Healthcare",
+      "Big Data Architecture",
+      "Natural Language Processing"
+    ],
+    "summary": "Dr. Roozbeh Sadeghian explores clinical predictive modeling, training transformer neural networks to forecast patient readmission and sepsis onset.",
+    "source": "https://www.harrisburgu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3629,
+    "name": "Dr. Sa Liu",
+    "title": "Associate Professor of Interactive Media and Game Studies",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "department": "Department of Interactive Media",
+    "subject": "arts-design",
+    "topics": [
+      "Esports Player Performance Ergonomics",
+      "Virtual Reality in Learning",
+      "Human-Computer Interaction",
+      "User Experience Design"
+    ],
+    "summary": "Dr. Sa Liu studies cognitive workload and physiological biofeedback in competitive esports players and virtual reality educational simulations.",
+    "source": "https://www.harrisburgu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3630,
+    "name": "Dr. Siamak Aram",
+    "title": "Associate Professor of Computer and Information Sciences",
+    "university": "Harrisburg University of Science and Technology",
+    "country": "United States",
+    "department": "Department of Computer and Information Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Internet of Things (IoT)",
+      "Wireless Sensor Networks",
+      "Data Mining in Environmental Sensing",
+      "Machine Learning for Smart Cities"
+    ],
+    "summary": "Dr. Siamak Aram designs energy-efficient wireless sensor network topologies and IoT edge computing algorithms for urban environmental monitoring.",
+    "source": "https://www.harrisburgu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3631,
+    "name": "Prof. Dr. Michael Zerr",
+    "title": "Professor of Critical Management and Organizational Theory",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "department": "Faculty of Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Critical Management Studies",
+      "Post-Structuralist Organizational Theory",
+      "Social Innovation",
+      "Constructive Pedagogy"
+    ],
+    "summary": "Prof. Dr. Michael Zerr explores epistemological assumptions in management science, designing participatory organizational structures that transcend orthodox corporate hierarchies.",
+    "source": "https://karlshochschule.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3632,
+    "name": "Prof. Dr. Desmond Wee",
+    "title": "Professor of Intercultural Communication and Tourism Studies",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "department": "Faculty of Cultural Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Cultural Semiotics",
+      "Spatiality in Tourism",
+      "Intercultural Communication Dynamics",
+      "Phenomenology of Place"
+    ],
+    "summary": "Prof. Dr. Desmond Wee investigates the semiotics of tourist spaces and cultural encounters, analyzing how mobility and sensory experience shape global identities.",
+    "source": "https://karlshochschule.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3633,
+    "name": "Prof. Dr. Melodena Stephens",
+    "title": "Professor of International Management and Policy Strategy",
+    "university": "Karlshochschule International University",
+    "country": "Germany",
+    "department": "Faculty of International Relations",
+    "subject": "social-sciences",
+    "topics": [
+      "Crisis Management in Governance",
+      "Nation Branding Strategies",
+      "Social Entrepreneurship Ecosystems",
+      "Global Policy Implementation"
+    ],
+    "summary": "Prof. Dr. Melodena Stephens studies governmental agility and public communication during complex systemic crises across emerging and developed markets.",
+    "source": "https://karlshochschule.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3634,
+    "name": "Prof. Dr. Wiebke Mohr",
+    "title": "Scientific Director of Science Outreach and Didactics",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "department": "Faculty of Humanities and Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Early Childhood Science Communication",
+      "Inquiry-Based Learning Didactics",
+      "STEM Outreach Pedagogy",
+      "Public Understanding of Science"
+    ],
+    "summary": "Prof. Dr. Wiebke Mohr studies cognitive engagement and curiosity retention in early childhood STEM education, evaluating experiential discovery pedagogy.",
+    "source": "https://kinderuni-rostock.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3635,
+    "name": "Prof. Dr. Karsten Schulz",
+    "title": "Professor of Electrical Engineering and Information Technology",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "department": "Faculty of Computer Science and Electrical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Youth Robotics Education",
+      "Embedded Computing for Beginners",
+      "Renewable Energy Technology Demonstrators",
+      "Interactive Sensor Systems"
+    ],
+    "summary": "Prof. Dr. Karsten Schulz develops tactile engineering demonstrators and educational robotics kits to introduce schoolchildren to electronic engineering principles.",
+    "source": "https://kinderuni-rostock.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3636,
+    "name": "Dr. Anja Bräuer",
+    "title": "Senior Lecturer in Anatomy and Medical Education",
+    "university": "Kinder-Uni Rostock",
+    "country": "Germany",
+    "department": "Rostock University Medical Center",
+    "subject": "biology",
+    "topics": [
+      "Anatomy Education",
+      "Cardiovascular Physiology Demonstrations",
+      "Health Literacy among Youth",
+      "Interactive Medical Exhibits"
+    ],
+    "summary": "Dr. Anja Bräuer creates interactive anatomical exhibits and guided hospital laboratories demonstrating pulmonary and cardiovascular mechanics to young learners.",
+    "source": "https://kinderuni-rostock.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3637,
+    "name": "Dr. Mark R. Shackleton",
+    "title": "Professor of Finance and Quantitative Risk",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "department": "Department of Accounting and Finance",
+    "subject": "social-sciences",
+    "topics": [
+      "Real Options Valuation",
+      "Asset Pricing Models",
+      "Corporate Risk Hedging",
+      "Financial Econometrics"
+    ],
+    "summary": "Dr. Mark R. Shackleton conducts empirical investigations into real options pricing, volatility forecasting, and capital investment decisions under macroeconomic uncertainty.",
+    "source": "https://www.lancasterleipzig.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3638,
+    "name": "Dr. Stefan Rennick-Egglestone",
+    "title": "Associate Professor of Computer Science and Health Informatics",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Digital Mental Health Technologies",
+      "Human-Computer Interaction",
+      "Health Informatics Data Architecture",
+      "Qualitative Computing Methods"
+    ],
+    "summary": "Dr. Stefan Rennick-Egglestone designs digital mental health interventions and patient narrative data architectures to improve psychiatric healthcare delivery.",
+    "source": "https://www.lancasterleipzig.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3639,
+    "name": "Dr. Elena Zaitseva",
+    "title": "Senior Lecturer in Business Management and Strategy",
+    "university": "Lancaster University Leipzig",
+    "country": "Germany",
+    "department": "Department of Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Quality Metrics",
+      "Cross-Border Higher Education",
+      "Student Learning Analytics",
+      "Strategic Educational Leadership"
+    ],
+    "summary": "Dr. Elena Zaitseva investigates institutional quality assurance models, transnational branch campus governance, and educational data analytics.",
+    "source": "https://www.lancasterleipzig.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3640,
+    "name": "Prof. Dr. Stephan Dabbert",
+    "title": "Former Chair of LRK and Professor of Agricultural Economics",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "Office of the Rectorate Consortium",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Strategic Policy",
+      "Bioeconomy Economics",
+      "Agricultural Market Models",
+      "Inter-University Governance"
+    ],
+    "summary": "Prof. Dr. Stephan Dabbert has led strategic higher education coordination across southwestern Germany, researching bioeconomic transitions and research university policy.",
+    "source": "https://www.lrk-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3641,
+    "name": "Dr. Oliver Keim",
+    "title": "Managing Director of LRK Central Office",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "Science Policy and Higher Education Coordination",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Law",
+      "State University Budgeting",
+      "Federal Excellence Strategy Coordination",
+      "Academic Staff Structuring"
+    ],
+    "summary": "Dr. Oliver Keim oversees state-wide university legislative negotiations, structural development plans, and digital transformation initiatives in Baden-Württemberg.",
+    "source": "https://www.lrk-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3642,
+    "name": "Prof. Dr. Bernhard Eitel",
+    "title": "Executive Board Member and Professor of Physical Geography",
+    "university": "Landesrektorenkonferenz Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "Geosciences and Environmental Policy Division",
+    "subject": "environment",
+    "topics": [
+      "Geomorphology",
+      "Dryland Soil Evolution",
+      "Quaternary Paleoclimatology",
+      "National Science Council Policy"
+    ],
+    "summary": "Prof. Dr. Bernhard Eitel advises federal and state science councils on geoscientific research infrastructure, dryland geomorphology, and quaternary climate history.",
+    "source": "https://www.lrk-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3643,
+    "name": "Prof. Dr. Stefan Schumacher",
+    "title": "Director of Landesstudienkolleg and Professor of German as a Second Language",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "department": "Department of Language Pedagogy",
+    "subject": "social-sciences",
+    "topics": [
+      "Linguistic Diagnostics for International Students",
+      "Scientific German Language Acquisition",
+      "Feststellungsprüfung Psychometrics",
+      "Academic Language Register"
+    ],
+    "summary": "Prof. Dr. Stefan Schumacher evaluates academic German acquisition trajectories and test validity metrics for foreign university entrance qualification examinations.",
+    "source": "https://www.uni-halle.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3644,
+    "name": "Dr. Claudia Börner",
+    "title": "Head of Technical Sciences Curriculum and Senior Lecturer in Physics",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "department": "Section for Mathematics and Natural Sciences",
+    "subject": "physics",
+    "topics": [
+      "Preparatory Physics Didactics",
+      "Calculus Integration in Applied Mechanics",
+      "STEM Acculturation",
+      "Laboratory Experimentation Pedagogy"
+    ],
+    "summary": "Dr. Claudia Börner designs bilingual and transitional laboratory physics experiments to bridge international curricula with German engineering faculty prerequisites.",
+    "source": "https://www.uni-halle.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3645,
+    "name": "Dr. Matthias Müller",
+    "title": "Senior Lecturer in Chemistry and Molecular Biology",
+    "university": "Landesstudienkolleg Sachsen-Anhalt",
+    "country": "Germany",
+    "department": "Section for Medical Sciences",
+    "subject": "chemistry",
+    "topics": [
+      "Chemical Equilibrium Didactics",
+      "Organic Reaction Mechanisms",
+      "Medical Preparatory Curriculum",
+      "Pre-Clinical Biochemistry"
+    ],
+    "summary": "Dr. Matthias Müller specializes in chemical didactics for international pre-medical cohorts, authoring foundational textbooks on German medical chemistry terminology.",
+    "source": "https://www.uni-halle.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3646,
+    "name": "Prof. Dr.-Ing. Olena Volkova",
+    "title": "Director of Institute of Iron and Steel Technology",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Ledebur-Bau Metallurgical Institute",
+    "subject": "engineering",
+    "topics": [
+      "Physical Chemistry of Steelmaking",
+      "Hydrogen Plasma Smelting",
+      "Inclusion Metallurgy",
+      "High-Temperature Thermodynamics"
+    ],
+    "summary": "Prof. Dr.-Ing. Olena Volkova directs thermodynamic and kinetic investigations of zero-emission steelmaking, pioneering hydrogen-based reduction and deoxidation.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3647,
+    "name": "Prof. Dr.-Ing. Dirk Sachs",
+    "title": "Director of the Foundry Institute",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Ledebur-Bau Foundry Institute",
+    "subject": "engineering",
+    "topics": [
+      "Cast Iron Metallurgy",
+      "Solidification Microstructure Simulation",
+      "Precision Foundry Technologies",
+      "Lightweight Metal Casting"
+    ],
+    "summary": "Prof. Dr.-Ing. Dirk Sachs explores spheroidal graphite cast iron nucleation kinetics and sand mold binder chemistry for heavy automotive and turbine castings.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3648,
+    "name": "Dr.-Ing. Sören Müller",
+    "title": "Head of High-Temperature Metallurgy Pilot Facilities",
+    "university": "Ledebur-Bau | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Institute of Iron and Steel Technology",
+    "subject": "engineering",
+    "topics": [
+      "Vacuum Induction Melting",
+      "Continuous Casting Sensorics",
+      "Refractory Material Degradation",
+      "Secondary Metallurgy Slag Control"
+    ],
+    "summary": "Dr.-Ing. Sören Müller manages pilot induction melting furnaces and pilot rolling equipment within the Ledebur-Bau, researching slag-steel interfacial reactions.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3649,
+    "name": "Prof. Dr. Michael Kleyer",
+    "title": "Professor of Vegetation Ecology and Plant Functional Traits",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "department": "Faculty of Landscape Architecture, Horticulture and Forestry",
+    "subject": "environment",
+    "topics": [
+      "Plant Functional Traits",
+      "Urban Vegetation Modeling",
+      "Drought Resistance in Woody Perennials",
+      "Sponge City Ecology"
+    ],
+    "summary": "Prof. Dr. Michael Kleyer studies ecological plant traits and predictive community assembly models to select drought-resilient flora for changing European urban climates.",
+    "source": "https://www.fh-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3650,
+    "name": "Prof. Dr. Birgit Wilhelm",
+    "title": "Professor of Horticultural Production and Controlled Environment Agriculture",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "department": "Department of Horticulture",
+    "subject": "biology",
+    "topics": [
+      "Greenhouse Climate Optimization",
+      "Substrate Science and Peat Reduction",
+      "Sensory Evaluation of Specialty Crops",
+      "Precision Irrigation Systems"
+    ],
+    "summary": "Prof. Dr. Birgit Wilhelm directs experimental trials in peat-free organic growing substrates and dynamic LED spectral recipes for commercial horticultural yields.",
+    "source": "https://www.fh-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3651,
+    "name": "Prof. Dipl.-Ing. Jens Bentfeld",
+    "title": "Professor of Landscape Construction and Water Sensitive Urban Design",
+    "university": "Lehrpark der Fachhochschule Erfurt",
+    "country": "Germany",
+    "department": "Faculty of Landscape Architecture",
+    "subject": "engineering",
+    "topics": [
+      "Water Sensitive Urban Design",
+      "Decentralized Stormwater Infiltration",
+      "Permeable Pavement Hydraulics",
+      "Landscape Construction Engineering"
+    ],
+    "summary": "Prof. Dipl.-Ing. Jens Bentfeld evaluates hydraulic infiltration capacities of bio-retention cells and permeable pavements within the Lehrpark demonstration grounds.",
+    "source": "https://www.fh-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3652,
+    "name": "Prof. Dr. Gernot Wolfram",
+    "title": "Professor of Media Management and Cultural Transformation",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "department": "Department of Media and Communication",
+    "subject": "social-sciences",
+    "topics": [
+      "Intercultural Media Strategies",
+      "Digital Transformation in Creative Industries",
+      "Narrative Culture in Urban Spaces",
+      "Cultural Policy"
+    ],
+    "summary": "Prof. Dr. Gernot Wolfram writes extensively on digital narrative dynamics, advising European cultural institutes on participatory digital curation and media strategies.",
+    "source": "https://www.hochschule-macromedia.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3653,
+    "name": "Prof. Dr. Florian C. Haack",
+    "title": "Professor of Game Design and Interactive Media",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "department": "Department of Design",
+    "subject": "arts-design",
+    "topics": [
+      "Interactive Narrative Mechanics",
+      "Virtual Reality Locomotion",
+      "Serious Game Dynamics in Education",
+      "Procedural World Generation"
+    ],
+    "summary": "Prof. Dr. Florian C. Haack investigates player agency in branching virtual narratives and user ergonomics in immersive virtual reality environments.",
+    "source": "https://www.hochschule-macromedia.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3654,
+    "name": "Prof. Nicole Srock.Stanley",
+    "title": "Professor of Creative Leadership and Experience Design",
+    "university": "Macromedia University of Applied Sciences – Campus Berlin",
+    "country": "Germany",
+    "department": "Department of Brand and Experience Architecture",
+    "subject": "arts-design",
+    "topics": [
+      "Spatial Experience Design",
+      "Destination Branding Architectures",
+      "Sensory Consumer Environments",
+      "Sustainable Urban Leisure Design"
+    ],
+    "summary": "Prof. Nicole Srock.Stanley explores multisensory spatial branding and experience architecture, designing transformative visitor centers and retail spaces.",
+    "source": "https://www.hochschule-macromedia.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3655,
+    "name": "Prof. Dr. Michael M. Resch",
+    "title": "Director of HLRS and Co-Founder of Media Solution Center",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "High-Performance Computing Center Stuttgart (HLRS)",
+    "subject": "computer-science",
+    "topics": [
+      "High-Performance Computing Architectures",
+      "Numerical Scientific Visualization",
+      "Exascale Simulation Systems",
+      "Digital Twin Engineering"
+    ],
+    "summary": "Prof. Dr. Michael M. Resch leads the High-Performance Computing Center Stuttgart, pioneering the convergence of supercomputing, immersive visual analytics, and digital urban twins.",
+    "source": "https://www.msc-bw.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3656,
+    "name": "Prof. Dr. Uwe W. Schlegel",
+    "title": "Head of Visualization and Immersive Environments",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "Visual Computing Division",
+    "subject": "computer-science",
+    "topics": [
+      "Volumetric Video Compression",
+      "CAVE Immersive Environments",
+      "Holographic Telepresence",
+      "GPU Cluster Rendering"
+    ],
+    "summary": "Prof. Dr. Uwe W. Schlegel designs real-time spatial compression pipelines and multisensory immersive CAVE installations for scientific data exploration.",
+    "source": "https://www.msc-bw.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3657,
+    "name": "Dr. Ingmar W. Baumgart",
+    "title": "Senior Research Scientist in Distributed Computing and Security",
+    "university": "Media Solution Center Baden-Württemberg e.V.",
+    "country": "Germany",
+    "department": "Applied Media Solutions Division",
+    "subject": "computer-science",
+    "topics": [
+      "Peer-to-Peer Networks",
+      "Decentralized Media Distribution",
+      "Zero-Knowledge Proofs in Content Rights",
+      "Cloud Security"
+    ],
+    "summary": "Dr. Ingmar W. Baumgart formulates scalable peer-to-peer streaming protocols and cryptographic media authentication frameworks for high-bandwidth scientific broadcasts.",
+    "source": "https://www.msc-bw.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3658,
+    "name": "Dr. Gisela D. Drexler",
+    "title": "Scientific Director of MINT-Kolleg Stuttgart",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "department": "Division of Higher Mathematics Pedagogy",
+    "subject": "mathematics",
+    "topics": [
+      "Higher Mathematics Didactics",
+      "Calculus Transition Pedagogy",
+      "Diagnostic Testing in Engineering",
+      "STEM Student Attrition Prevention"
+    ],
+    "summary": "Dr. Gisela D. Drexler investigates cognitive transition hurdles between school mathematics and university engineering calculus, designing individualized preparatory curricula.",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3659,
+    "name": "Dr. Frank W. Loose",
+    "title": "Senior Lecturer in Differential Geometry and Mathematical Physics",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "department": "Department of Mathematics",
+    "subject": "mathematics",
+    "topics": [
+      "Differential Geometry",
+      "Riemannian Manifolds",
+      "Mathematical Foundations of Physics",
+      "Advanced Calculus Pedagogy"
+    ],
+    "summary": "Dr. Frank W. Loose teaches foundational differential geometry and classical mechanics, authoring core instructional texts for engineering mathematics cohorts.",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3660,
+    "name": "Dr. Holger R. Vogt",
+    "title": "Lecturer in Experimental Physics Didactics",
+    "university": "MINT-Kolleg Baden-Württemberg | Stuttgart",
+    "country": "Germany",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Conceptual Physics Learning",
+      "Demonstration Experiment Design",
+      "Mechanics and Thermodynamics Didactics",
+      "Interactive Lecture Demonstrations"
+    ],
+    "summary": "Dr. Holger R. Vogt develops interactive digital physics simulations and guided laboratory experiments to clarify complex electrodynamics and mechanics concepts.",
+    "source": "https://www.mint-kolleg.de/stuttgart",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3661,
+    "name": "Dr. Sascha Liebhardt",
+    "title": "Chancellor and Professor of International Marketing",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "department": "Faculty of Business Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Brand Positioning Strategies",
+      "Luxury Consumer Psychology",
+      "Cross-Cultural Market Entry",
+      "Entrepreneurial Management"
+    ],
+    "summary": "Dr. Sascha Liebhardt directs corporate brand strategy studies, consulting global consumer goods enterprises on cross-border luxury market positioning.",
+    "source": "https://www.new-european-college.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3662,
+    "name": "Prof. Dr. Florian Hummel",
+    "title": "Academic Dean and Professor of Strategic Management",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "department": "Faculty of Strategy and Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Corporate Governance in SMEs",
+      "Aviation and Tourism Economics",
+      "Strategic Mergers in Europe",
+      "Higher Education Accreditation"
+    ],
+    "summary": "Prof. Dr. Florian Hummel analyzes European airline business models, regional airport economics, and institutional governance structures in transnational education.",
+    "source": "https://www.new-european-college.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3663,
+    "name": "Dr. Ronald Kleverlaan",
+    "title": "Senior Lecturer in Alternative Finance and Crowdfunding",
+    "university": "New European College GmbH",
+    "country": "Germany",
+    "department": "Center for Financial Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "Crowdfunding Ecosystems",
+      "Alternative Finance Regulation in the EU",
+      "Fintech Disruptive Models",
+      "Microfinance Structures"
+    ],
+    "summary": "Dr. Ronald Kleverlaan advises the European Commission on alternative finance regulation, crowd-equity investing, and decentralized financial instruments.",
+    "source": "https://www.new-european-college.com",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3664,
+    "name": "Dr. Gabriella E. Szalay",
+    "title": "Director of NYU Berlin and Clinical Associate Professor of German Studies",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "department": "Academic Center Directorate",
+    "subject": "arts-design",
+    "topics": [
+      "19th-Century European Visual Culture",
+      "Transatlantic Intellectual History",
+      "German Romanticism Aesthetics",
+      "Memorialization in Modern Berlin"
+    ],
+    "summary": "Dr. Gabriella E. Szalay researches German Romanticism, visual aesthetic culture, and the institutional dynamics of historical commemoration in central Europe.",
+    "source": "https://www.nyu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3665,
+    "name": "Dr. Matthias D. Koch",
+    "title": "Senior Lecturer in European Politics and Security Policy",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "department": "Department of Politics and International Relations",
+    "subject": "social-sciences",
+    "topics": [
+      "European Security Architecture",
+      "NATO Transatlantic Relations",
+      "German Defense Policy",
+      "Eastern European Border Politics"
+    ],
+    "summary": "Dr. Matthias D. Koch explores EU Common Foreign and Security Policy, Baltic deterrence strategies, and democratic resilience against geopolitical coercion.",
+    "source": "https://www.nyu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3666,
+    "name": "Dr. Christine Korte",
+    "title": "Lecturer in Cultural Studies and Urban Theory",
+    "university": "New York University Berlin",
+    "country": "Germany",
+    "department": "Department of Media, Culture, and Communication",
+    "subject": "social-sciences",
+    "topics": [
+      "Berlin Urban Subcultures",
+      "Soundscape Ecology and Electronic Music",
+      "Gentrification Politics",
+      "Spatial Theories of Culture"
+    ],
+    "summary": "Dr. Christine Korte studies sonic subcultures, techno club heritage protection, and the spatial politics of urban gentrification in post-reunification Berlin.",
+    "source": "https://www.nyu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3667,
+    "name": "Prof. Dr. Ralf Evers",
+    "title": "Professor of Practical Theology and Diaconal Studies",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "department": "Campus Moritzburg Faculty of Diaconal Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Diaconal Professional Ethics",
+      "Community Pastoral Pedagogy",
+      "Spiritual Care in Secular Societies",
+      "Organizational Ethics"
+    ],
+    "summary": "Prof. Dr. Ralf Evers explores diaconal identity, professional social ethics, and institutional transformation in faith-based social service corporations.",
+    "source": "https://www.ehs-dresden.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3668,
+    "name": "Prof. Dr. Ivonne Zill-Sahm",
+    "title": "Professor of Educational Sciences and Childhood Pedagogy",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "department": "Department of Childhood Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Inclusion Didactics",
+      "Early Childhood Language Development",
+      "Family-Centered Social Work",
+      "Transitions in Education"
+    ],
+    "summary": "Prof. Dr. Ivonne Zill-Sahm investigates educational transitions from kindergarten to primary school, focusing on inclusive pedagogy for children with developmental challenges.",
+    "source": "https://www.ehs-dresden.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3669,
+    "name": "Dr. Christoph Neuber",
+    "title": "Senior Lecturer in Social Pedagogy and Youth Welfare",
+    "university": "Evangelische Hochschule Dresden – Campus Moritzburg",
+    "country": "Germany",
+    "department": "Department of Social Pedagogy",
+    "subject": "social-sciences",
+    "topics": [
+      "Residential Youth Care",
+      "Child Protection Risk Assessment",
+      "Restorative Pedagogy",
+      "Community Mental Health"
+    ],
+    "summary": "Dr. Christoph Neuber evaluates trauma-informed interventions and legal child protection protocols within regional residential child and youth welfare institutions.",
+    "source": "https://www.ehs-dresden.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3670,
+    "name": "Prof. Dr. Kenji Sugimoto",
+    "title": "Dean and Professor of Information Management",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "department": "Faculty of Information Management",
+    "subject": "computer-science",
+    "topics": [
+      "Cloud Database Systems",
+      "Asynchronous Online Pedagogy",
+      "Software Architecture Optimization",
+      "Educational Learning Analytics"
+    ],
+    "summary": "Prof. Dr. Kenji Sugimoto researches adaptive learning platforms, distributed database architectures, and data-driven learning analytics in higher education.",
+    "source": "https://www.internet.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3671,
+    "name": "Prof. Dr. Mariko Ogawa",
+    "title": "Professor of Social Welfare and Gerontology",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "department": "Faculty of Human Welfare",
+    "subject": "social-sciences",
+    "topics": [
+      "Gerontological Social Work",
+      "Community Mental Health Policies",
+      "Family Caregiver Burnout",
+      "Elder Abuse Prevention Protocols"
+    ],
+    "summary": "Prof. Dr. Mariko Ogawa evaluates community care networks for dementia patients and professional support frameworks for rural family caregivers in Japan.",
+    "source": "https://www.internet.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3672,
+    "name": "Assoc. Prof. Tatsuya Sato",
+    "title": "Associate Professor of Digital Media and Web Systems",
+    "university": "Tokyo University of Communication",
+    "country": "Japan",
+    "department": "Department of Information Systems",
+    "subject": "computer-science",
+    "topics": [
+      "Responsive Web Architecture",
+      "User Experience (UX) Ergonomics",
+      "Accessibility in Digital Interfaces",
+      "Microservice Engineering"
+    ],
+    "summary": "Assoc. Prof. Tatsuya Sato designs accessible web interface architectures and cognitive load reduction models for diverse learner demographics.",
+    "source": "https://www.internet.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3673,
+    "name": "Prof. Dr. Hiroshi Katayama",
+    "title": "Professor of Logistics Management and Supply Chain Optimization",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "department": "Faculty of Commerce",
+    "subject": "social-sciences",
+    "topics": [
+      "Automated Distribution Systems",
+      "Green Logistics in Freight Transport",
+      "Inventory Optimization Algorithms",
+      "Wholesale Market Economics"
+    ],
+    "summary": "Prof. Dr. Hiroshi Katayama investigates carbon emissions reduction in cold-chain logistics networks and automated warehousing robotics across the Kansai region.",
+    "source": "https://www.umds.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3674,
+    "name": "Prof. Dr. Kazuo Shimizu",
+    "title": "Professor of Marketing and Consumer Psychology",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "department": "Faculty of Human Societies",
+    "subject": "social-sciences",
+    "topics": [
+      "Consumer Decision-Making Heuristics",
+      "Retail Merchandising Aesthetics",
+      "Brand Loyalty in Digital Retailing",
+      "Service Quality Metrics"
+    ],
+    "summary": "Prof. Dr. Kazuo Shimizu explores sensory branding and cognitive purchase decision heuristics in omni-channel retail environments.",
+    "source": "https://www.umds.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3675,
+    "name": "Assoc. Prof. Yoko Fujimoto",
+    "title": "Associate Professor of Tourism Economics and Regional Promotion",
+    "university": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "department": "Department of Tourism Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Inbound Tourism Economics",
+      "Heritage Tourism in Western Japan",
+      "Destination Marketing Organizations",
+      "Hospitality Management"
+    ],
+    "summary": "Assoc. Prof. Yoko Fujimoto evaluates economic multipliers of foreign tourist spending and sustainable cultural heritage promotion in historic port cities.",
+    "source": "https://www.umds.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3676,
+    "name": "Prof. Dr. Junko Takahashi",
+    "title": "Professor of International Relations and Peace Studies",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "department": "Department of International Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Human Security in East Asia",
+      "Refugee Integration Policy",
+      "Multilateral Humanitarian Diplomacy",
+      "Gender and Peacebuilding"
+    ],
+    "summary": "Prof. Dr. Junko Takahashi explores human security paradigms, refugee protection frameworks, and gender equity in post-conflict reconstruction across Southeast Asia.",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3677,
+    "name": "Prof. Dr. Naoko Sugiyama",
+    "title": "Professor of American Literature and Gender Studies",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "department": "Department of English Language and Literature",
+    "subject": "arts-design",
+    "topics": [
+      "Feminist Literary Theory",
+      "20th-Century American Women Writers",
+      "Maternal Narratives in Literature",
+      "Transpacific Cultural Exchange"
+    ],
+    "summary": "Prof. Dr. Naoko Sugiyama investigates representations of motherhood, race, and gender in modern American literature, authoring celebrated monographs on literary feminism.",
+    "source": "https://www.u-sacred-heart.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3678,
+    "name": "Assoc. Prof. Dr. Kenichi Tanaka",
+    "title": "Associate Professor of Environmental Geography and Sustainability",
+    "university": "University of the Sacred Heart, Tokyo",
+    "country": "Japan",
+    "department": "Institute for Sustainable Futures",
+    "subject": "environment",
+    "topics": [
+      "Community Resilience to Climate Change",
+      "Urban Heat Island Mitigation",
+      "Sustainable Agriculture Networks",
+      "Environmental Education"
+    ],
+    "summary": "Assoc. Prof. Dr. Kenichi Tanaka studies community-based disaster resilience, urban green corridors, and experiential environmental pedagogy in Japanese metropolitan areas.",
+    "source": "https://www.u-sacred-heart.ac.jp",
     "recruiting": "Not verified",
     "reviewed": "2026-10-16"
   }];

@@ -12,30 +12,40 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 74,
+  "cycle": 75,
   "completedInCycle": [
-    "germany",
     "usa",
+    "germany",
     "japan"
   ],
   "nextCountry": "germany",
   "lastPublished": {
     "country": "japan",
-    "university": "Takarazuka University Tokyo Shinjuku Campus",
-    "sourceRow": 1755
+    "university": "University of the Sacred Heart, Tokyo",
+    "sourceRow": 1787
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 116,
     "australia": 57,
-    "germany": 186,
+    "germany": 199,
     "italy": 114,
-    "usa": 185,
+    "usa": 199,
     "uk": 100,
-    "japan": 177,
+    "japan": 180,
     "sweden": 56,
     "netherlands": 121,
     "switzerland": 41
   },
+  "exhaustedCountries": [
+    "canada",
+    "australia",
+    "uk",
+    "sweden",
+    "switzerland",
+    "italy",
+    "netherlands",
+    "japan"
+  ],
   "updatedAt": "2026-10-16"
 }
