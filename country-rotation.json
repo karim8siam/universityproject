@@ -20,13 +20,14 @@
     "usa",
     "uk",
     "japan",
-    "netherlands"
+    "netherlands",
+    "sweden"
   ],
-  "nextCountry": "germany",
+  "nextCountry": "australia",
   "lastPublished": {
-    "country": "netherlands",
-    "university": "Stichting Geert Grote Universiteit (GGU Deventer)",
-    "sourceRow": 1495
+    "country": "sweden",
+    "university": "Blekinge Institute of Technology",
+    "sourceRow": 1555
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -37,7 +38,7 @@
     "usa": 97,
     "uk": 90,
     "japan": 91,
-    "sweden": 56,
+    "sweden": 57,
     "netherlands": 90,
     "switzerland": 41
   },
