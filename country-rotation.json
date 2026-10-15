@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 78,
+  "cycle": 79,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Montana State University Billings",
-    "sourceRow": 830
+    "university": "Northeast Alabama Community College",
+    "sourceRow": 873
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 275,
+    "usa": 305,
     "uk": 100,
     "japan": 180,
     "sweden": 56,

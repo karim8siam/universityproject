@@ -237485,6 +237485,5145 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 8787,
+    "title": "Master of Science in Metallurgical and Materials Engineering",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Premier research curriculum focusing on critical minerals extraction, hydrometallurgical processing, battery materials recycling, and pyrometallurgical synthesis.",
+    "funding": "Graduate Research Assistantship with $20,000 annual stipend and 100% tuition remission",
+    "tuition": "$5,800/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mtech.edu/metallurgical-engineering/",
+    "requirements": {
+      "gpa": "Bachelor of Science in engineering or physical sciences with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional for domestic, recommended for international",
+      "papers": "Statement of metallurgical research interests",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8788,
+    "title": "Doctor of Philosophy in Earth Science and Engineering (Mining/Geotechnical)",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Interdisciplinary terminal research degree targeting mine rock mechanics, slope stability, underground excavation sensor networks, and subsurface environmental hydrology.",
+    "funding": "Doctoral research fellowships with full tuition waiver and $26,000 annual living stipend",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtech.edu/earth-science-phd/",
+    "requirements": {
+      "gpa": "Master's degree in geological or mining engineering with min. 3.25 GPA",
+      "ielts": "TOEFL 85+ or IELTS 7.0",
+      "gre": "Quantitative score 156+",
+      "papers": "Comprehensive doctoral research prospectus",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8789,
+    "title": "Master of Science in Ecological Restoration",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Applied science degree training specialists to restore contaminated aquatic ecosystems, tailings ponds, and heavy metal impacted riparian watersheds.",
+    "funding": "Superfund and watershed restoration project stipends providing up to $18,000 per year",
+    "tuition": "$5,800/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mtech.edu/restoration/",
+    "requirements": {
+      "gpa": "BS in ecology, biology, or environmental engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of environmental restoration career goals",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8790,
+    "title": "Bachelor of Science in Petroleum Engineering",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited program covering reservoir simulation, enhanced oil recovery, carbon underground injection, and geothermal reservoir extraction.",
+    "funding": "Society of Petroleum Engineers (SPE) and industry endowed scholarships up to $8,000/year",
+    "tuition": "$7,800/year (In-state) / $24,500/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mtech.edu/petroleum-engineering/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with precalculus and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One STEM teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8791,
+    "title": "Bachelor of Science in Computer Science & Cybersecurity",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Covers cyber-physical systems security, distributed high-performance computing, software verification, and embedded industrial controller protection.",
+    "funding": "Montana High Tech Business Alliance Merit Grants up to $5,000/year",
+    "tuition": "$7,800/year (In-state) / $24,500/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mtech.edu/computer-science/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra II proficiency",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of computing objectives",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8792,
+    "title": "Chancellor's Copper Scholars Fellowship",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "location": "Butte, Montana, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Montana Tech's highest honors scholarship recognizing incoming undergraduates with superior mathematical talent and leadership in natural resource engineering.",
+    "funding": "Full tuition, university fees, and campus room/board allowance ($24,000/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtech.edu/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.85 and ACT >= 30 or SAT >= 1390",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor's Honors competition essay",
+      "references": "Three letters from STEM instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8793,
+    "title": "Doctor of Philosophy in Environmental Science and Management",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Interdisciplinary doctoral program investigating urban environmental degradation, estuarine biogeochemistry, water resource economics, and climate resilience planning.",
+    "funding": "Doctoral Graduate Assistantships with $24,000 annual stipend and 100% tuition coverage",
+    "tuition": "$0 (Fully funded doctoral assistant)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.montclair.edu/earth-and-environmental-studies/phd-environmental-management/",
+    "requirements": {
+      "gpa": "BS or MS in environmental science, chemistry, biology, or geology with min. 3.25 GPA",
+      "ielts": "TOEFL 83+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Doctoral research statement",
+      "references": "Three letters from research faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8794,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense covering secure software architecture, blockchain security, network forensics, and cloud infrastructure defense.",
+    "funding": "Departmental Graduate Merit Fellowships offering up to $8,000 per academic year",
+    "tuition": "$745/credit hour (In-state) / $1,095/credit hour (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.montclair.edu/computer-science/graduate-programs/cybersecurity-ms/",
+    "requirements": {
+      "gpa": "Bachelor's degree in CS or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of technical objectives",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8795,
+    "title": "Master of Science in Molecular Biology",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive bench research training in recombinant DNA technology, protein chemistry, mammalian gene expression, and biopharmaceutical development.",
+    "funding": "Graduate Teaching Assistantships providing full tuition waiver and $16,000 annual stipend",
+    "tuition": "$745/credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.montclair.edu/biology/graduate-programs/molecular-biology-ms/",
+    "requirements": {
+      "gpa": "BS in biology, biochemistry, or chemistry with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of laboratory experience",
+      "references": "Two letters from laboratory mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8796,
+    "title": "Master of Business Administration (MBA - Business Analytics)",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "AACSB-accredited program combining predictive modeling, big data corporate governance, financial econometrics, and supply chain logistics.",
+    "funding": "Feliciano School of Business Merit Scholarships up to $6,000",
+    "tuition": "$850/credit hour",
+    "fee": "$60",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.montclair.edu/feliciano-school-of-business/mba/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.85 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional goals essay and resume",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8797,
+    "title": "Bachelor of Science in Marine Biology and Coastal Sciences",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Fieldwork-based degree based at the Montclair State University Field Station at Stokes State Forest and coastal New Jersey estuaries, studying salt marsh ecology and oceanography.",
+    "funding": "New Jersey Sea Grant Consortium Undergraduate Research Fellowships up to $4,000/year",
+    "tuition": "$14,500/year (In-state) / $23,800/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.montclair.edu/biology/undergraduate-programs/marine-biology-bs/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and biology",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One high school counselor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8798,
+    "title": "Montclair State Presidential Scholars Award",
+    "university": "Montclair State University",
+    "country": "United States",
+    "location": "Montclair, New Jersey, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Montclair State's premier institutional scholarship awarding incoming freshmen of exceptional academic achievement, public leadership, and civic responsibility.",
+    "funding": "Full in-state or out-of-state tuition renewable for four undergraduate academic years ($14,500–$23,800/year value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.montclair.edu/red-hawk-central/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA with rigorous AP/IB coursework",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Scholarship competitive essay",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8799,
+    "title": "Master of Science in Cybersecurity Administration",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "An NSA-designated graduate program combining ethical governance, enterprise security architecture, incident response protocols, and cyber regulatory compliance.",
+    "funding": "National Cyber Workforce Grants providing up to $5,000 per academic year",
+    "tuition": "$595/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.montreat.edu/academics/graduate/ms-cybersecurity/",
+    "requirements": {
+      "gpa": "2.75 minimum undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Cybersecurity ethics statement",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8800,
+    "title": "Bachelor of Science in Cybersecurity",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous undergraduate training in penetration testing, threat hunting, network defense, digital forensics, and security operations center (SOC) management.",
+    "funding": "Carolina Cyber Center Scholarships awarding up to $8,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$30",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.montreat.edu/academics/undergraduate/cybersecurity/",
+    "requirements": {
+      "gpa": "2.75 high school GPA with strong math preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8801,
+    "title": "Bachelor of Science in Outdoor Education and Leadership",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Hands-on experiential curriculum based in Pisgah National Forest, covering wilderness risk management, environmental ethics, and search and rescue.",
+    "funding": "Blue Ridge Outdoor Leadership Stipends of $4,500/year",
+    "tuition": "$32,800/year",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.montreat.edu/academics/undergraduate/outdoor-education/",
+    "requirements": {
+      "gpa": "2.5 high school GPA and wilderness fitness endorsement",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Outdoor leadership essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8802,
+    "title": "Bachelor of Science in Environmental Science",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Investigates Southern Appalachian forest ecology, freshwater streams, soil geochemistry, and biological biodiversity conservation.",
+    "funding": "Appalachian Conservation Scholarships up to $5,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.montreat.edu/academics/undergraduate/environmental-science/",
+    "requirements": {
+      "gpa": "2.6 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of environmental interests",
+      "references": "One science instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8803,
+    "title": "Bachelor of Science in Business Administration",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Develops competencies in corporate finance, managerial economics, ethical leadership, strategic marketing, and small enterprise entrepreneurship.",
+    "funding": "Montreat Dean's Merit Scholarships providing up to $10,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.montreat.edu/academics/undergraduate/business-administration/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8804,
+    "title": "Montreat Pinnacle Honors Fellowship",
+    "university": "Montreat College",
+    "country": "United States",
+    "location": "Montreat, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "environment"
+    ],
+    "desc": "The highest competitive scholarship awarded to incoming freshmen demonstrating exceptional intellectual curiosity, moral character, and STEM aptitude.",
+    "funding": "Full tuition scholarship ($32,800/year value) renewable across four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.montreat.edu/admissions/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.80 high school GPA and ACT >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Pinnacle Scholarship competitive essay and interview",
+      "references": "Two academic and one pastoral reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8805,
+    "title": "Master of Science in Space Systems Engineering",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite aerospace curriculum where graduate students design, build, test, and operate SmallSats, CubeSats, and lunar orbiters in the on-campus cleanroom and satellite tracking center.",
+    "funding": "NASA Kentucky Space Grant Graduate Research Assistantships with $18,000 annual stipend and tuition remission",
+    "tuition": "$585/credit hour (In-state) / $720/credit hour (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.moreheadstate.edu/academics/programs/space-systems-engineering-ms/",
+    "requirements": {
+      "gpa": "BS in engineering, physics, or computer science with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative score 155+ recommended",
+      "papers": "Statement of space mission research interests",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8806,
+    "title": "Bachelor of Science in Space Science",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "One of only a handful of undergraduate space science programs in the nation, providing direct operation experience with the 21-meter satellite tracking antenna.",
+    "funding": "Volgenau Space Science Endowed Scholarships providing up to $8,000/year",
+    "tuition": "$9,600/year (In-state) / $14,400/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.moreheadstate.edu/academics/programs/space-science-bs/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with precalculus and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of space science interests",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8807,
+    "title": "Master of Science in Engineering and Technology Management",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Prepares technical managers in production operations, automated robotics, supply chain optimization, and total quality management (Six Sigma).",
+    "funding": "Departmental Graduate Teaching Assistantships providing full tuition waiver and $10,000 stipend",
+    "tuition": "$585/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.moreheadstate.edu/academics/programs/engineering-and-technology-management-ms/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree in engineering or technology with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Career trajectory statement",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8808,
+    "title": "Bachelor of Science in Agricultural Sciences (Veterinary Technology)",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on animal science and clinical veterinary instruction at the 350-acre Derrickson Agricultural Complex, featuring equine, beef, and small animal hospitals.",
+    "funding": "Kentucky Agricultural Development Fund Scholarships up to $3,500/year",
+    "tuition": "$9,600/year (In-state) / $14,400/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.moreheadstate.edu/academics/programs/agricultural-sciences-bs/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with biology coursework",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8809,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers algorithm analysis, systems programming, data structures, mobile software engineering, and database systems architecture.",
+    "funding": "Appalachian STEM Scholar Grants providing up to $4,500/year",
+    "tuition": "$9,600/year (In-state) / $14,400/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.moreheadstate.edu/academics/programs/computer-science-bs/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8810,
+    "title": "Morehead State George M. Luckey Academic Honors Scholarship",
+    "university": "Morehead State University",
+    "country": "United States",
+    "location": "Morehead, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "MSU's most prestigious merit award supporting extraordinary students across all four undergraduate years with dedicated honors faculty mentoring.",
+    "funding": "Full tuition, campus housing, meal plan, and $1,500 travel study stipend ($22,000/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.moreheadstate.edu/admissions/scholarships/honors-scholarship/",
+    "requirements": {
+      "gpa": "3.75 high school GPA and ACT >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Luckey Honors Scholarship essay",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8811,
+    "title": "Bachelor of Arts in Computer Science & Data Science",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Rigorous undergraduate computing education emphasizing algorithmic fairness, artificial intelligence ethics, full-stack software development, and Five College cross-registration.",
+    "funding": "Lynk Summer Research Fellowships ($4,500 stipend) and institutional need-based grants up to full tuition",
+    "tuition": "$63,500/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Regular Decision)",
+    "source": "https://www.mtholyoke.edu/academics/find-your-program/computer-science",
+    "requirements": {
+      "gpa": "Top 10% high school class rank with calculus preparation",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Common Application personal essay and Mount Holyoke supplement",
+      "references": "Two academic teacher recommendations and counselor report"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8812,
+    "title": "Bachelor of Arts in Neuroscience and Behavior",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary program examining neurobiology, cognitive neuroscience, psychopharmacology, synaptic electrophysiology, and neurodegenerative disorders.",
+    "funding": "Howard Hughes Medical Institute (HHMI) Undergraduate Science Grants up to $5,000",
+    "tuition": "$63,500/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtholyoke.edu/academics/find-your-program/neuroscience-and-behavior",
+    "requirements": {
+      "gpa": "Exceptional secondary school transcript in chemistry and biology",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Academic writing sample and statement",
+      "references": "Two science/math recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8813,
+    "title": "Bachelor of Arts in Environmental Studies & Policy",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Focuses on climate justice, urban ecology, environmental jurisprudence, renewable energy transition, and ecological economics.",
+    "funding": "Miller Worley Environmental Research Grants up to $4,500 per summer",
+    "tuition": "$63,500/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtholyoke.edu/academics/find-your-program/environmental-studies",
+    "requirements": {
+      "gpa": "Strong high school GPA in social sciences and laboratory sciences",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8814,
+    "title": "Bachelor of Arts in Biochemistry",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Intensive laboratory-based program in enzymology, macromolecular structural biology, spectroscopic techniques, and biophysical chemistry.",
+    "funding": "Beckman Scholars Program awards providing $26,000 multi-year undergraduate research support",
+    "tuition": "$63,500/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtholyoke.edu/academics/find-your-program/biochemistry",
+    "requirements": {
+      "gpa": "Rigorous high school preparation in chemistry and advanced calculus",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Application essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8815,
+    "title": "Bachelor of Arts in International Relations & Global Politics",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Explores multilateral diplomacy, global human rights regimes, international political economy, post-colonial statecraft, and international conflict resolution.",
+    "funding": "McCulloch Center for Global Initiatives Study Abroad Grants up to $5,000",
+    "tuition": "$63,500/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtholyoke.edu/academics/find-your-program/international-relations",
+    "requirements": {
+      "gpa": "Strong background in world history and foreign languages",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Analytical writing sample",
+      "references": "Two humanities/social science teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8816,
+    "title": "Mount Holyoke Trustee Merit Scholarship",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "location": "South Hadley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Awarded to incoming students demonstrating extraordinary academic achievement, creative vision, and leadership in social change.",
+    "funding": "Merit award of $30,000 per year renewable for four undergraduate academic years ($120,000 total value)",
+    "tuition": "$30,000/year tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mtholyoke.edu/admission/tuition-aid/merit-scholarships",
+    "requirements": {
+      "gpa": "Exceptional secondary school GPA and leadership portfolio",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Trustee Scholarship essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8817,
+    "title": "Doctor of Nurse Anesthesia Practice (DNAP)",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "COA-accredited terminal clinical doctoral program preparing Certified Registered Nurse Anesthetists (CRNAs) for advanced surgical anesthesia and pain management.",
+    "funding": "Health Resources and Services Administration (HRSA) Anesthesia Traineeships up to $15,000",
+    "tuition": "$950/credit hour",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.mountmarty.edu/academics/graduate-programs/nurse-anesthesia/",
+    "requirements": {
+      "gpa": "BSN with min. 3.0 GPA, active RN license, and at least 1-2 years acute ICU clinical experience",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement and critical care portfolio",
+      "references": "Three clinical and supervisor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8818,
+    "title": "Master of Science in Nursing (Family Nurse Practitioner - FNP)",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Prepares advanced practice nurses to provide comprehensive primary healthcare to underserved rural communities throughout the Dakotas and Nebraska.",
+    "funding": "Rural Health Nursing Workforce Fellowships offering $6,000 per academic year",
+    "tuition": "$625/credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mountmarty.edu/academics/graduate-programs/msn-fnp/",
+    "requirements": {
+      "gpa": "BSN with min. 3.0 GPA and unencumbered RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of rural health career goals",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8819,
+    "title": "Bachelor of Science in Nursing (Pre-Licensure BSN)",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited undergraduate nursing curriculum with extensive simulation lab training and clinical rotations at Avera Sacred Heart Hospital.",
+    "funding": "Avera Health Partnership Nursing Scholarships up to $10,000/year",
+    "tuition": "$30,500/year",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mountmarty.edu/academics/undergraduate-programs/nursing/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with prerequisite chemistry and biology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing statement of intent",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8820,
+    "title": "Bachelor of Science in Exercise Science",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Instruction in human anatomy, clinical exercise testing, sports biomechanics, and strength and conditioning at the Cimpl Arena complex.",
+    "funding": "Lancer Athletic & Academic Merit Grants up to $8,000/year",
+    "tuition": "$30,500/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mountmarty.edu/academics/undergraduate-programs/exercise-science/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8821,
+    "title": "Bachelor of Arts in Business Administration (Agri-Business)",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Combines accounting, corporate finance, and supply chain logistics with commodities marketing, grain merchandising, and agricultural lending.",
+    "funding": "Dakota Plains Agribusiness Endowed Scholarships up to $4,500/year",
+    "tuition": "$30,500/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mountmarty.edu/academics/undergraduate-programs/business-administration/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of business interests",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8822,
+    "title": "Mount Marty Benedictine Honors Fellowship",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "location": "Yankton, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Premier scholarship recognizing exceptional incoming students who exemplify Benedictine values of hospitality, intellectual stewardship, and service leadership.",
+    "funding": "Full tuition scholarship ($30,500/year value) renewable across four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mountmarty.edu/admissions-aid/scholarships-and-grants/",
+    "requirements": {
+      "gpa": "3.80 high school GPA and ACT >= 27",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Benedictine values competitive essay and interview",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8823,
+    "title": "Master of Science in Occupational Safety and Health",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "ABET-accredited leader in industrial hygiene, ergonomics, environmental toxic chemical exposure, hazard prevention engineering, and emergency disaster planning.",
+    "funding": "NIOSH Training Project Grants providing full tuition remission and monthly living stipends",
+    "tuition": "$525/credit hour (In-state) / $820/credit hour (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.murraystate.edu/academics/colleges-and-schools/jones-college/osh/",
+    "requirements": {
+      "gpa": "BS in safety, STEM, or health sciences with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of occupational health career objectives",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8824,
+    "title": "Master of Science in Agriculture (Sustainable Agriculture & Agribusiness)",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Advanced research curriculum utilizing the 1,500-acre university farm complex to investigate soil carbon sequestration, precision ag technology, and agronomic crop breeding.",
+    "funding": "Hutson School Graduate Assistantships with $10,500 annual stipend and tuition scholarship",
+    "tuition": "$525/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.murraystate.edu/academics/colleges-and-schools/hutson-school-of-agriculture/",
+    "requirements": {
+      "gpa": "BS in agriculture or related biological sciences with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Research statement",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8825,
+    "title": "Master of Science in Information Systems (Cybersecurity Concentration)",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Focuses on cloud infrastructure governance, relational database management, threat modeling, and business continuity architecture.",
+    "funding": "Bauernfeind College Fellowships up to $5,000 per year",
+    "tuition": "$525/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.murraystate.edu/academics/colleges-and-schools/bauernfeind-college-of-business/",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE considered",
+      "papers": "Statement of professional goals",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8826,
+    "title": "Bachelor of Science in Engineering Physics (Mechanical & Electrical)",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "EAC/ABET-accredited degree blending fundamental physics with classical mechanical and electrical engineering design and instrumentation.",
+    "funding": "Jesse D. Jones STEM Excellence Scholarships providing up to $6,000/year",
+    "tuition": "$9,650/year (In-state) / $19,300/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.murraystate.edu/academics/colleges-and-schools/jones-college/engineering-physics/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with strong calculus preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two science/math teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8827,
+    "title": "Bachelor of Science in Veterinary Technology",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "AVMA-accredited four-year program offering hands-on large and small animal clinical medicine, surgical nursing, anesthesiology, and diagnostic imaging.",
+    "funding": "Equine and Food Animal Health Grants up to $4,000/year",
+    "tuition": "$9,650/year (In-state) / $19,300/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.murraystate.edu/academics/colleges-and-schools/hutson-school-of-agriculture/vet-tech/",
+    "requirements": {
+      "gpa": "3.0 high school GPA with prerequisite biology and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Veterinary career essay",
+      "references": "Two recommendations including licensed veterinarian"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8828,
+    "title": "Murray State University Presidential Fellowship",
+    "university": "Murray State University",
+    "country": "United States",
+    "location": "Murray, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Murray State's premier honors award given to incoming freshmen demonstrating exceptional intellectual curiosity, community impact, and research dedication.",
+    "funding": "Full in-state or out-of-state tuition plus on-campus housing and meal stipend ($24,000/year total value)",
+    "tuition": "$0 (100% full tuition covered)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.murraystate.edu/admissions/scholarships/presidential-fellowship.aspx",
+    "requirements": {
+      "gpa": "3.75 high school GPA and ACT score >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship competitive essay and on-campus interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8829,
+    "title": "Doctor of Strategic Security (DSS)",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Terminal professional doctoral degree concentrating on intelligence analysis, counterterrorism strategy, geopolitical threat assessment, and strategic protection operations.",
+    "funding": "Henley-Putnam Strategic Security Scholarships providing up to $6,000 per year",
+    "tuition": "$675/credit hour",
+    "fee": "$45",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.national.edu/programs/henley-putnam-school-of-strategic-security/doctor-of-strategic-security/",
+    "requirements": {
+      "gpa": "Master's degree with min. 3.0 GPA and demonstrated security/intelligence experience",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Doctoral research statement on national or strategic security",
+      "references": "Three professional and security supervisor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8830,
+    "title": "Master of Science in Intelligence Management",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Covers collection management, covert action analysis, intelligence ethics, open-source intelligence (OSINT), and counterintelligence methodologies.",
+    "funding": "Military and First Responder Tuition Scholarships reducing tuition by up to 25%",
+    "tuition": "$525/credit hour",
+    "fee": "$45",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.national.edu/programs/henley-putnam-school-of-strategic-security/master-of-science-in-intelligence-management/",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Professional resume and statement of intent",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8831,
+    "title": "Master of Business Administration (MBA - Healthcare Administration)",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Equips healthcare executives with operational hospital analytics, regulatory compliance, health informatics, and clinical revenue cycle management.",
+    "funding": "NAU Healthcare Leadership Grants providing $3,500 total award",
+    "tuition": "$525/credit hour",
+    "fee": "$45",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.national.edu/programs/college-of-business-technology-health-management/master-of-business-administration/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8832,
+    "title": "Bachelor of Science in Intelligence Management",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on instruction in threat identification, structured analytic techniques, critical infrastructure defense, and asymmetric warfare analysis.",
+    "funding": "Veterans and Law Enforcement Service Grants up to $4,000/year",
+    "tuition": "$380/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.national.edu/programs/henley-putnam-school-of-strategic-security/bachelor-of-science-in-intelligence-management/",
+    "requirements": {
+      "gpa": "High school diploma or GED with min. 2.0 GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of professional interest",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8833,
+    "title": "Bachelor of Science in Information Technology (Cybersecurity)",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers digital network security, ethical penetration testing, firewall management, relational SQL databases, and incident forensics.",
+    "funding": "NAU STEM Workforce Achievement Scholarships up to $3,500/year",
+    "tuition": "$380/credit hour",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.national.edu/programs/college-of-business-technology-health-management/bachelor-of-science-in-information-technology/",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA or GED",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8834,
+    "title": "NAU National Security Honors Fellowship",
+    "university": "National American University",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Competitive institutional merit award supporting active service members, veterans, and homeland security professionals pursuing strategic degrees.",
+    "funding": "50% tuition reduction across all four years of undergraduate or doctoral study ($18,000 total value)",
+    "tuition": "50% tuition remission",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.national.edu/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.5 or military/law enforcement service honors",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "National Security Leadership essay",
+      "references": "Two supervisory endorsements"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8835,
+    "title": "Doctor of Education (Ed.D.) in Educational Leadership",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Cohort-based executive doctoral program preparing superintendents, school principals, and higher education leaders in data-driven school reform and curriculum justice.",
+    "funding": "Urban Education Leadership Grants providing up to $8,000 per academic year",
+    "tuition": "$890/credit hour",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nl.edu/academics/educationdoctoralprograms/educationalleadershipedd/",
+    "requirements": {
+      "gpa": "Master's degree in education or related field with min. 3.25 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Doctoral leadership prospectus and writing sample",
+      "references": "Three professional references including school supervisor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8836,
+    "title": "Master of Science in Clinical Mental Health Counseling",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CACREP-accredited clinical degree preparing mental health therapists for state licensure, featuring extensive clinical practicum in community mental health centers.",
+    "funding": "Behavioral Health Workforce Traineeships offering up to $10,000 total program award",
+    "tuition": "$765/credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nl.edu/academics/psychologyandbehavioralsciencesmasters/clinicalmentalhealthcounselingms/",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Counseling personal statement and essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8837,
+    "title": "Master of Business Administration (MBA)",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Applied management degree concentrating on corporate strategic planning, financial analytics, human capital management, and global enterprise operations.",
+    "funding": "NLU Business Excellence Fellowships up to $5,000",
+    "tuition": "$725/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nl.edu/academics/businessmasters/mba/",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE not required",
+      "papers": "Statement of intent and resume",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8838,
+    "title": "Bachelor of Arts in Early Childhood Practice",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Built on NLU's historic foundation in kindergarten education, preparing educators in infant and toddler development, neurodivergent learning, and family advocacy.",
+    "funding": "Early Childhood Access Consortium for Equity (ECACE) full tuition scholarships",
+    "tuition": "$450/credit hour",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nl.edu/academics/educationundergraduateprograms/earlychildhoodpracticeba/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.0 or transfer credits",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8839,
+    "title": "Bachelor of Science in Computer Science & Information Systems",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers full-stack programming, cloud architecture, agile software methodologies, network administration, and enterprise IT governance.",
+    "funding": "Pathway to Tech Grants providing up to $4,000/year",
+    "tuition": "$450/credit hour",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nl.edu/academics/businessundergraduateprograms/computerscienceba/",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA or GED",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical interest",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8840,
+    "title": "Harrison Professional Pathways Fellowship",
+    "university": "National Louis University",
+    "country": "United States",
+    "location": "Tampa, Florida, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Awarded to first-generation undergraduate scholars demonstrating community service commitment and determination to complete bachelor's credentials.",
+    "funding": "Full tuition reduction for undergraduate study ($18,000/year value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nl.edu/tuition-aid/scholarships/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 or equivalent academic resilience",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Harrison Fellowship essay and personal interview",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8841,
+    "title": "Doctor of Philosophy in Computer Science",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Doctoral research concentrating on artificial intelligence architectures, machine learning algorithms, quantum computation principles, and autonomous edge security.",
+    "funding": "National University Doctoral Research Grants providing up to $12,000 per year",
+    "tuition": "$895/credit hour",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.nu.edu/degrees/engineering-technology-and-media/programs/phd-computer-science/",
+    "requirements": {
+      "gpa": "Master's degree in CS, IT, or related STEM discipline with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Comprehensive doctoral research concept paper",
+      "references": "Three letters from graduate faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8842,
+    "title": "Master of Science in Cybersecurity",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence curriculum covering network threat management, security architectures, ethical hacking, and disaster recovery.",
+    "funding": "CAE-CD Cyber Defense Scholarships providing $5,000 total award",
+    "tuition": "$516/credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nu.edu/degrees/engineering-technology-and-media/programs/master-of-science-in-cybersecurity/",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.5 GPA in computing or related field",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Technical statement of purpose",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8843,
+    "title": "Doctor of Nurse Practice (DNP)",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited terminal degree preparing advanced practice registered nurses for executive healthcare governance, translational clinical outcomes, and health informatics.",
+    "funding": "Nurse Faculty Loan Program (NFLP) with up to 85% loan forgiveness",
+    "tuition": "$745/credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nu.edu/degrees/health-professions/programs/doctor-of-nursing-practice/",
+    "requirements": {
+      "gpa": "Master of Science in Nursing (MSN) with min. 3.0 GPA and active RN license",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "DNP clinical project proposal",
+      "references": "Three clinical and academic supervisor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8844,
+    "title": "Master of Science in Applied Behavioral Analysis",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "ABAI-verified course sequence preparing students for Board Certified Behavior Analyst (BCBA) examination, addressing autism interventions and developmental disorders.",
+    "funding": "Behavioral Health Impact Grants up to $4,500",
+    "tuition": "$516/credit hour",
+    "fee": "$60",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nu.edu/degrees/social-sciences-and-psychology/programs/ms-applied-behavior-analysis/",
+    "requirements": {
+      "gpa": "2.75 minimum undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of intent",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8845,
+    "title": "Bachelor of Science in Electrical and Computer Engineering",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited program covering digital signal processing, VLSI circuits, embedded IoT systems, microprocessor design, and communications systems.",
+    "funding": "Sanford STEM Undergraduate Scholarships up to $6,000/year",
+    "tuition": "$398/quarter unit",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nu.edu/degrees/engineering-technology-and-media/programs/bachelor-of-science-in-electrical-and-computer-engineering/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with calculus readiness",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8846,
+    "title": "National University Veteran & Community Leadership Fellowship",
+    "university": "National University",
+    "country": "United States",
+    "location": "San Diego, California, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Premier scholarship recognizing outstanding military veterans, active duty members, and adult learners who exhibit exemplary leadership in community service.",
+    "funding": "Full tuition fellowship covering entire master's or bachelor's degree program ($25,000 value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nu.edu/admissions/financial-aid-and-scholarships/scholarships/",
+    "requirements": {
+      "gpa": "3.50 minimum GPA and demonstrated military service or civic leadership",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Veteran leadership competitive essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8847,
+    "title": "Doctor of Nursing Practice (DNP - Family Nurse Practitioner)",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Prepares advanced practice registered nurses to manage complex chronic illnesses, lead clinical healthcare quality initiatives, and provide primary care in Midwest clinics.",
+    "funding": "Methodist Health System Advanced Practice Fellowships up to $12,000",
+    "tuition": "$795/credit hour",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.methodistcollege.edu/academics/nursing/doctor-of-nursing-practice",
+    "requirements": {
+      "gpa": "BSN with min. 3.0 GPA and active Nebraska or multi-state RN license",
+      "ielts": "TOEFL 83+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal statement of clinical practice vision",
+      "references": "Three professional references including nurse leader"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8848,
+    "title": "Master of Science in Healthcare Administration (MHA)",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Focuses on health system economics, regulatory compliance, hospital operations management, medical staff governance, and health informatics.",
+    "funding": "Healthcare Executive Leadership Grants of $4,500 per academic year",
+    "tuition": "$625/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.methodistcollege.edu/academics/healthcare-management/master-of-science-in-healthcare-administration",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Professional goals statement",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8849,
+    "title": "Bachelor of Science in Nursing (Traditional BSN)",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure nursing curriculum combining rigorous classroom pharmacology, anatomy, and acute care clinical rotations.",
+    "funding": "Methodist Health System Nurse Scholars Program providing up to $8,000/year",
+    "tuition": "$18,500/year",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.methodistcollege.edu/academics/nursing/bachelor-of-science-in-nursing",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and biology B or better",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing statement of purpose",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8850,
+    "title": "Bachelor of Science in Diagnostic Medical Sonography",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "CAAHEP-accredited program in abdominal, obstetrical, gynecological, and vascular sonographic imaging with state-of-the-art ultrasound labs.",
+    "funding": "Allied Health Professional Endowment Scholarships of $3,500/year",
+    "tuition": "$18,500/year",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.methodistcollege.edu/academics/allied-health/diagnostic-medical-sonography",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with physics and anatomy prerequisite grades",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8851,
+    "title": "Master of Science in Nursing - Nurse Educator",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Prepares experienced registered nurses to design collegiate nursing curriculum, manage clinical simulation scenarios, and teach in academic institutions.",
+    "funding": "Nurse Faculty Loan Program (NFLP) tuition remission awards",
+    "tuition": "$625/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.methodistcollege.edu/academics/nursing/master-of-science-in-nursing-nurse-educator",
+    "requirements": {
+      "gpa": "BSN with min. 3.0 GPA and active RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Teaching philosophy statement",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8852,
+    "title": "Nebraska Methodist College President's Healthcare Fellowship",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Premier merit award granted to an incoming undergraduate who demonstrates extraordinary dedication to clinical excellence and community compassionate care.",
+    "funding": "Full tuition and mandatory lab fees ($18,500/year value) across four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.methodistcollege.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT >= 27",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "President's Fellowship essay and interview",
+      "references": "Three letters of academic and healthcare recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8853,
+    "title": "Master of Science in Athletic Training (MSAT)",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAATE-accredited graduate program emphasizing sports emergency care, musculoskeletal evaluation, therapeutic rehabilitation, and biomechanical assessment.",
+    "funding": "Departmental Clinical Assistantships providing $6,000 stipend and partial tuition award",
+    "tuition": "$580/credit hour",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nebrwesleyan.edu/majors-programs/master-science-athletic-training",
+    "requirements": {
+      "gpa": "3.00 undergraduate GPA with prerequisite anatomy, physiology, and physics",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Athletic training career goals statement",
+      "references": "Three recommendations including certified athletic trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8854,
+    "title": "Master of Science in Nursing (MSN - Nurse Executive & Leadership)",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Online and executive hybrid program preparing nurse managers in healthcare fiscal budgeting, quality improvement, clinical informatics, and health policy.",
+    "funding": "Prairie Health Foundation Nursing Grants up to $5,000",
+    "tuition": "$525/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nebrwesleyan.edu/majors-programs/master-science-nursing",
+    "requirements": {
+      "gpa": "BSN with min. 2.85 GPA and active RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Professional resume and statement",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8855,
+    "title": "Bachelor of Science in Biochemistry & Molecular Biology",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Intensive bench research program in recombinant DNA methods, macromolecular crystallography, enzymology, and cancer pharmacology at Acklie Hall of Science.",
+    "funding": "Acklie Science Scholars Awards providing up to $8,000/year",
+    "tuition": "$39,500/year",
+    "fee": "$30",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nebrwesleyan.edu/majors-programs/biochemistry-and-molecular-biology",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with chemistry and calculus",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two science/math recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8856,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers software design architectures, algorithm analysis, relational database systems, cybersecurity, and applied machine learning.",
+    "funding": "NWU STEM Achievement Grants up to $6,500/year",
+    "tuition": "$39,500/year",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nebrwesleyan.edu/majors-programs/computer-science",
+    "requirements": {
+      "gpa": "2.75 high school GPA with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8857,
+    "title": "Bachelor of Fine Arts in Theatre Arts (Musical Theatre & Acting)",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally recognized theatre conservatory program offering rigorous training in vocal technique, dance, classical stagecraft, and New York showcase auditions.",
+    "funding": "McDonald Theatre Talent Scholarships up to $10,000/year",
+    "tuition": "$39,500/year",
+    "fee": "$30",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.nebrwesleyan.edu/majors-programs/theatre-arts",
+    "requirements": {
+      "gpa": "2.5 high school GPA and successful in-person or video audition",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Artistic portfolio and resume",
+      "references": "Two artistic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8858,
+    "title": "Nebraska Wesleyan University Board of Governors Scholarship",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The most distinguished competitive merit award given to incoming freshmen exhibiting exceptional intellectual achievement and community leadership.",
+    "funding": "Full tuition scholarship ($39,500/year value) renewable across four undergraduate academic years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nebrwesleyan.edu/admissions/financial-aid/first-year-scholarships",
+    "requirements": {
+      "gpa": "3.85 unweighted high school GPA and ACT >= 29 or SAT >= 1350",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Board of Governors competitive essay and interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8859,
+    "title": "Bachelor of Science in Computer Science (Algorithms & AI)",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "An intensive accelerated three-year degree focusing on data structures, algorithmic complexity, artificial intelligence models, compiler design, and C++ systems programming.",
+    "funding": "Silicon Slopes Tech Merit Grants up to $8,000/year",
+    "tuition": "$26,000/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.neumont.edu/academics/bachelor-of-science-in-computer-science.html",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with strong algebra and problem-solving aptitude",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Code portfolio or technical essay",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8860,
+    "title": "Bachelor of Science in Software and Game Development",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "arts-design"
+    ],
+    "desc": "Combines 3D graphics math, physics engines, game architecture (Unreal/Unity), network multiplayer synchronization, and shader programming.",
+    "funding": "Interactive Entertainment Foundation Scholarships up to $6,000/year",
+    "tuition": "$26,000/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.neumont.edu/academics/bachelor-of-science-in-software-and-game-development.html",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal game project description or essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8861,
+    "title": "Bachelor of Science in Information Systems and Cybersecurity",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers penetration testing, infrastructure hardening, cloud security (AWS/Azure), enterprise identity management, and network defense operations.",
+    "funding": "Cyber Defense Leadership Grants providing up to $5,000/year",
+    "tuition": "$26,000/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.neumont.edu/academics/bachelor-of-science-in-information-systems-and-cybersecurity.html",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of cybersecurity interest",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8862,
+    "title": "Bachelor of Science in Web Design and Development",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "arts-design"
+    ],
+    "desc": "Hands-on mastery of modern JavaScript/TypeScript frameworks (React/Node), responsive UX/UI design, database architecture, and microservices.",
+    "funding": "Full-Stack Development Scholarships of $4,500/year",
+    "tuition": "$26,000/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.neumont.edu/academics/bachelor-of-science-in-web-design-and-development.html",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay or digital portfolio",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8863,
+    "title": "Bachelor of Science in Business Technology Operations",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Bridges corporate management with software product roadmapping, agile scrum methodology, data analytics, and tech enterprise scaling.",
+    "funding": "Tech Entrepreneurship Merit Grants of $4,000/year",
+    "tuition": "$26,000/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.neumont.edu/academics/bachelor-of-science-in-business-technology-operations.html",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of business technology vision",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8864,
+    "title": "Neumont Presidential Technology Innovation Fellowship",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "location": "Salt Lake City, Utah, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Premier scholarship recognizing exceptional incoming software developers who exhibit extraordinary programming proficiency and innovation potential.",
+    "funding": "Full tuition award ($26,000/year value) across all three accelerated academic years ($78,000 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.neumont.edu/admissions/scholarships.html",
+    "requirements": {
+      "gpa": "3.80 high school GPA with demonstrated coding portfolio in GitHub",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Technical project essay and code walkthrough",
+      "references": "Two recommendations including CS instructor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8865,
+    "title": "Bachelor of Arts in Christian Leadership and Pastoral Ministry",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares leaders in homiletics, pastoral care, non-profit financial governance, community outreach, and biblical hermeneutics.",
+    "funding": "Desert Oasis Ministry Scholarships providing up to $3,500/year",
+    "tuition": "$7,800/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nvcc.school/programs/christian-leadership",
+    "requirements": {
+      "gpa": "High school diploma or GED with min. 2.0 GPA",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Christian faith and calling statement",
+      "references": "One pastoral and one character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8866,
+    "title": "Bachelor of Science in Christian Counseling and Family Guidance",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Integrates foundational psychology with pastoral counseling techniques, addressing family conflict, adolescent mentorship, and grief counseling.",
+    "funding": "Silver State Compassion Grants providing $2,800/year",
+    "tuition": "$7,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nvcc.school/programs/counseling",
+    "requirements": {
+      "gpa": "2.25 minimum high school GPA",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal counseling philosophy essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8867,
+    "title": "Associate of Arts in Biblical Studies",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "A two-year foundational curriculum covering Old and New Testament survey, biblical theology, Greek language basics, and church history.",
+    "funding": "Foundational Scripture Study Grants up to $2,000/year",
+    "tuition": "$7,800/year",
+    "fee": "$30",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.nvcc.school/programs/associate-biblical-studies",
+    "requirements": {
+      "gpa": "2.0 high school GPA or GED",
+      "ielts": "TOEFL 55+ or IELTS 5.0",
+      "gre": "Exempt",
+      "papers": "Personal testimony",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8868,
+    "title": "Bachelor of Arts in Worship Arts and Digital Media",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Focuses on contemporary musicianship, live audio production, digital broadcast streaming, and media management for modern community organizations.",
+    "funding": "Creative Arts Ministry Grants of $2,500/year",
+    "tuition": "$7,800/year",
+    "fee": "$35",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.nvcc.school/programs/worship-arts",
+    "requirements": {
+      "gpa": "2.25 high school GPA with musical or media aptitude",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Media portfolio or musical audition",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8869,
+    "title": "Certificate in Urban Community Outreach & Non-Profit Leadership",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "One-year accelerated certificate covering non-profit fundraising, urban addiction recovery outreach, volunteer management, and emergency food bank logistics.",
+    "funding": "Urban Outreach Work-Study Stipends of $1,800",
+    "tuition": "$3,200 total program",
+    "fee": "$25",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.nvcc.school/programs/community-outreach",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Outreach service interest statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8870,
+    "title": "Nevada Christian Servant Leader Fellowship",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit award supporting incoming scholars dedicated to long-term community transformation, urban counseling, and pastoral service in Nevada.",
+    "funding": "Full tuition award ($7,800/year value) across four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nvcc.school/financial-aid",
+    "requirements": {
+      "gpa": "3.50 high school GPA and verified community leadership",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Servant leadership essay",
+      "references": "Pastoral endorsement and two character letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8871,
+    "title": "Master of Science in Speech-Language Pathology (MS SLP)",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited clinical graduate program training speech-language pathologists in neurogenic communication disorders, pediatric speech therapy, and clinical dysphagia management.",
+    "funding": "Western Interstate Commission for Higher Education (WICHE) Fellowships up to $9,000",
+    "tuition": "$380/credit hour (In-state) / $720/credit hour (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nevadastate.edu/academics/speech-pathology/",
+    "requirements": {
+      "gpa": "BS in communication disorders or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Clinical statement of purpose and video essay",
+      "references": "Three letters from clinical supervisors or faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8872,
+    "title": "Master of Education in Leadership & Administration",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares aspiring school principals and instructional leaders in educational law, curriculum equity, school budgeting, and bilingual family engagement.",
+    "funding": "Clark County School District (CCSD) Leadership Grants providing up to $4,500/year",
+    "tuition": "$350/credit hour",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://nevadastate.edu/academics/education/med-leadership/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA and valid teaching license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Leadership philosophy statement",
+      "references": "Two administrator references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8873,
+    "title": "Bachelor of Science in Nursing (Pre-Licensure BSN)",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Renowned nursing program featuring 12,000 square feet of high-fidelity simulation labs and acute care rotations across southern Nevada hospital systems.",
+    "funding": "Nevada State Healthcare Foundation Scholarships up to $6,000/year",
+    "tuition": "$6,100/year (In-state) / $19,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://nevadastate.edu/academics/nursing/",
+    "requirements": {
+      "gpa": "3.0 minimum GPA in prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing application essay and TEAS exam score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8874,
+    "title": "Bachelor of Science in Data Science",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Curriculum combining algorithmic programming, applied statistics, machine learning models, data visualization, and cloud database queries.",
+    "funding": "NSHE STEM Innovator Grants providing up to $4,000/year",
+    "tuition": "$6,100/year (In-state) / $19,200/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://nevadastate.edu/academics/data-science/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8875,
+    "title": "Bachelor of Science in Environmental and Resource Science",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on ecological curriculum investigating Mojave Desert water hydrology, renewable solar infrastructure impact, soil conservation, and GIS mapping.",
+    "funding": "Mojave Desert Ecological Conservation Stipends up to $3,500/year",
+    "tuition": "$6,100/year (In-state) / $19,200/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nevadastate.edu/academics/environmental-science/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One science instructor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8876,
+    "title": "Nevada State University Scorpion Presidential Scholars Award",
+    "university": "Nevada State University",
+    "country": "United States",
+    "location": "Henderson, Nevada, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "NSU's premier scholarship honoring incoming freshmen who embody academic excellence, first-generation achievement, and dedication to Nevada's communities.",
+    "funding": "Full tuition and registration fees ($6,100 in-state / $19,200 out-of-state equivalent value) renewable for four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nevadastate.edu/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.75 unweighted high school GPA and leadership portfolio",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Scholars essay and personal statement",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8877,
+    "title": "Doctor of Philosophy in Computer Science (AI and Systems)",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite Carnegie R1 doctoral curriculum investigating distributed deep learning, federated cybersecurity algorithms, quantum computing models, and high-performance computing architectures.",
+    "funding": "Doctoral Graduate Research Assistantship with $32,000 annual living stipend, full tuition waiver, and subsidized health insurance",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Fall Priority)",
+    "source": "https://cs.njit.edu/phd-computer-science",
+    "requirements": {
+      "gpa": "Bachelor's or Master's degree in CS or related STEM field with min. 3.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative score 160+ recommended",
+      "papers": "Comprehensive research proposal in computing",
+      "references": "Three letters from academic mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8878,
+    "title": "Doctor of Philosophy in Biomedical Engineering",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Translational engineering research in neural prosthetic interfaces, musculoskeletal biomechanics, biomaterials for tissue regeneration, and orthopedic diagnostic devices.",
+    "funding": "NIH/NSF-backed research fellowships with $30,000 annual stipend and 100% tuition remission",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://biomedical.njit.edu/academics/graduate/phd/",
+    "requirements": {
+      "gpa": "BS or MS in biomedical engineering, mechanical engineering, or biophysics with min. 3.4 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 158",
+      "papers": "Statement of biomedical engineering research goals",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8879,
+    "title": "Master of Science in Data Science (Computational Track)",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Rigorous STEM curriculum spanning machine learning theory, high-dimensional statistical inference, big data pipelines (Spark/Hadoop), and neural networks.",
+    "funding": "Ying Wu College Dean's Merit Scholarships providing up to $10,000 per academic year",
+    "tuition": "$1,250/credit hour (In-state) / $1,850/credit hour (Out-of-state)",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://ds.njit.edu/ms-data-science",
+    "requirements": {
+      "gpa": "BS in computer science, mathematics, or engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional for domestic, recommended for international",
+      "papers": "Statement of computational objectives",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8880,
+    "title": "Master of Science in Civil Engineering (Resilient Infrastructure)",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Advanced study in seismic-resistant structural design, intelligent transportation systems, smart concrete composites, and coastal storm surge modeling.",
+    "funding": "Departmental Graduate Teaching Assistantships covering tuition waiver plus $18,000 annual stipend",
+    "tuition": "$1,250/credit hour (In-state) / $1,850/credit hour (Out-of-state)",
+    "fee": "$75",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://civil.njit.edu/academics/graduate/ms/",
+    "requirements": {
+      "gpa": "BS in civil or structural engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Engineering resume and statement of intent",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8881,
+    "title": "Bachelor of Science in Electrical Engineering",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited program covering semiconductor device physics, photonics, wireless communications, RF circuit design, and autonomous robotics.",
+    "funding": "NJIT Highlander Merit Scholarships awarding up to $16,000/year renewable",
+    "tuition": "$18,500/year (In-state) / $35,200/year (Out-of-state)",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://ece.njit.edu/undergraduate",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 with AP calculus and physics",
+      "ielts": "TOEFL 79+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Common Application essay and NJIT supplement",
+      "references": "Two STEM teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8882,
+    "title": "Albert Dorman Honors College Full-Ride Fellowship",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "location": "Newark, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "The premier honors fellowship awarded to top incoming STEM scholars, providing customized research colloquia, executive mentoring, and industry internships.",
+    "funding": "Full in-state or out-of-state tuition, campus housing, and summer research fellowship ($42,000/year total value)",
+    "tuition": "$0 (100% full scholarship)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://honors.njit.edu/admissions",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.85 with ACT >= 32 or SAT >= 1430",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors College competitive essays and interview",
+      "references": "Three letters from STEM instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8883,
+    "title": "Doctor of Philosophy in Hydrology",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "One of the premier hydrology programs in the world, addressing groundwater contaminant transport, karst aquifer hydrogeology, arid basin water budgets, and computational fluid mechanics.",
+    "funding": "Graduate Research Assistantships with $27,000 annual living stipend and 100% tuition coverage",
+    "tuition": "$0 (Fully funded doctoral assistant)",
+    "fee": "$45",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nmt.edu/academics/ees/grad/hydrology.php",
+    "requirements": {
+      "gpa": "BS or MS in geoscience, civil engineering, or environmental science with min. 3.25 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Quantitative >= 158",
+      "papers": "Hydrology research prospectus",
+      "references": "Three letters from science/engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8884,
+    "title": "Master of Science in Mechanical Engineering (Explosives Engineering Track)",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Unique worldwide program utilizing the 40-square-mile field testing range to study detonation shock waves, blast mitigation armor, pyrotechnics, and ballistics.",
+    "funding": "EMRTC DoD research project stipends providing up to $22,000 per year plus tuition remission",
+    "tuition": "$5,200/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$45",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nmt.edu/academics/mecheng/graduate.php",
+    "requirements": {
+      "gpa": "BS in mechanical, mining, or chemical engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of research interests in energetics",
+      "references": "Two letters from engineering mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8885,
+    "title": "Doctor of Philosophy in Physics (Astrophysics at the Magdalena Ridge)",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Doctoral research utilizing the Magdalena Ridge Observatory (MRO) interferometer and Very Large Array (VLA) to study radio astronomy, pulsar timing, and atmospheric lightning physics.",
+    "funding": "Graduate Teaching & Research Assistantships with $26,000 annual stipend and tuition fellowship",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$45",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nmt.edu/academics/physics/grad.php",
+    "requirements": {
+      "gpa": "BS in physics, astrophysics, or mathematics with min. 3.2 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Physics GRE strongly recommended",
+      "papers": "Astrophysical research statement",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8886,
+    "title": "Master of Science in Petroleum Engineering",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Curriculum focused on subsurface carbon dioxide storage, shale reservoir fracture modeling, enhanced oil recovery, and geothermal energy production.",
+    "funding": "Petroleum Recovery Research Center (PRRC) Fellowships up to $18,000/year",
+    "tuition": "$5,200/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$45",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nmt.edu/academics/petroleum/grad.php",
+    "requirements": {
+      "gpa": "BS in petroleum, chemical, or civil engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative >= 155",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8887,
+    "title": "Bachelor of Science in Materials Engineering",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Hands-on instruction in high-temperature refractory alloys, ceramic composites, corrosion science, and nanomaterials synthesis.",
+    "funding": "New Mexico Tech Presidential Merit Scholarships providing up to $8,000/year",
+    "tuition": "$8,600/year (In-state) / $25,400/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nmt.edu/academics/matsci/undergrad.php",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8888,
+    "title": "New Mexico Tech Copper & Gold Presidential Fellowship",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "location": "Socorro, New Mexico, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "NMT's most prestigious merit scholarship recognizing exceptional incoming freshmen possessing elite analytical ability and passion for discovery in the physical sciences.",
+    "funding": "Full in-state or out-of-state tuition plus $4,000 annual research stipend ($29,400/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nmt.edu/finaid/scholarships.php",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.80 and ACT >= 30 or SAT >= 1390",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship competition essay",
+      "references": "Three letters from STEM instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8889,
+    "title": "Doctor of Philosophy in Astronomy (Observational & Theoretical)",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Elite astronomy doctoral program utilizing the Apache Point Observatory 3.5-meter telescope and Sloan Digital Sky Survey (SDSS) to study galactic evolution and planetary atmospheres.",
+    "funding": "Graduate Research & Teaching Assistantships with $26,500 annual stipend and 100% tuition remission",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://astronomy.nmsu.edu/graduate-program/",
+    "requirements": {
+      "gpa": "BS or MS in astronomy, physics, or mathematics with min. 3.2 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Physics GRE optional",
+      "papers": "Statement of astronomical research experience",
+      "references": "Three letters from research astrophysicists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8890,
+    "title": "Doctor of Philosophy in Aerospace Engineering",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Advanced research in hypersonics, unmanned aerial vehicles (UAVs), orbital mechanics, propulsion chemistry, and suborbital flight testing near White Sands Space Harbor.",
+    "funding": "NASA Space Grant and DoD fellowships providing full tuition and $28,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://mae.nmsu.edu/graduate/",
+    "requirements": {
+      "gpa": "BS or MS in aerospace or mechanical engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 156",
+      "papers": "Doctoral research prospectus",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8891,
+    "title": "Master of Science in Plant and Environmental Sciences (Precision Agriculture)",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Studies arid land crop irrigation efficiency, chile pepper genetics, rangeland soil microbiology, and remote sensing UAV crop monitoring in the Mesilla Valley.",
+    "funding": "USDA-NIFA Graduate Research Assistantships with $16,000 stipend and tuition waiver",
+    "tuition": "$380/credit hour (In-state) / $1,050/credit hour (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://pes.nmsu.edu/academics/graduate.html",
+    "requirements": {
+      "gpa": "BS in agronomy, horticulture, or biology with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research statement",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8892,
+    "title": "Master of Science in Computer Science (Artificial Intelligence Track)",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers deep reinforcement learning, natural language processing, computer vision for autonomous rovers, and cloud computing security.",
+    "funding": "Departmental Graduate Teaching Assistantships providing $15,000 stipend and tuition award",
+    "tuition": "$380/credit hour (In-state) / $1,050/credit hour (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://cs.nmsu.edu/graduate/",
+    "requirements": {
+      "gpa": "BS in computer science or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of technical objectives",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8893,
+    "title": "Bachelor of Science in Civil Engineering (Water Resources)",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "ABET-accredited degree addressing Rio Grande water management, hydrology, desert wastewater treatment, and structural hydraulics.",
+    "funding": "NMSU ConocoPhillips and Engineering Excellence Grants up to $6,000/year",
+    "tuition": "$8,500/year (In-state) / $26,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://ce.nmsu.edu/undergraduate/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with precalculus and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8894,
+    "title": "NMSU Conroy Honors Presidential Fellowship",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "location": "Las Cruces, New Mexico, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "The highest institutional honor given to incoming freshmen in the William B. Conroy Honors College, supporting groundbreaking research in STEM and public leadership.",
+    "funding": "Full in-state or out-of-state tuition plus on-campus housing allowance ($28,000/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://honors.nmsu.edu/scholarships/",
+    "requirements": {
+      "gpa": "3.85 high school GPA and ACT score >= 30 or SAT >= 1390",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Conroy Honors competition essay and interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8895,
+    "title": "Juris Doctor (J.D.) in Intellectual Property and Technology Law",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Elite legal curriculum in patent prosecution, artificial intelligence copyright law, digital privacy governance, and venture capital financing in lower Manhattan.",
+    "funding": "Innovation Center Merit Scholarships providing up to $35,000 per academic year",
+    "tuition": "$58,500/year",
+    "fee": "$0 (Fee waiver upon request)",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nyls.edu/academics/jd-program/",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.4 and LSAT score >= 156 (or competitive GRE)",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Accepted in lieu of LSAT",
+      "papers": "Personal statement and legal resume",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8896,
+    "title": "Master of Laws (LL.M.) in Cybersecurity and Data Privacy",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Advanced post-JD specialization covering global regulatory compliance (GDPR/CCPA), incident breach response law, national security surveillance, and blockchain law.",
+    "funding": "Cybersecurity Legal Fellowships awarding up to $15,000 total program reduction",
+    "tuition": "$2,100/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nyls.edu/academics/llm-programs/cybersecurity-and-data-privacy/",
+    "requirements": {
+      "gpa": "First professional degree in law (JD or international LLB)",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Not required",
+      "papers": "Statement of legal research interests",
+      "references": "Two letters from legal scholars or partners"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8897,
+    "title": "Juris Doctor (J.D.) in Financial Services and Corporate Compliance",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Capitalizes on Tribeca's proximity to Wall Street to train attorneys in SEC enforcement, fintech regulations, derivatives transactions, and corporate governance.",
+    "funding": "Wall Street Legal Scholars Awards up to $30,000/year",
+    "tuition": "$58,500/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nyls.edu/academics/centers-and-institutes/center-for-financial-services-law/",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.3 and LSAT score >= 155",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Accepted",
+      "papers": "Statement of corporate law intent",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8898,
+    "title": "Juris Doctor (J.D.) in Social Justice and Public Interest Law",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive clinical practice in criminal defense, immigration asylum, civil rights litigation, and urban housing justice in New York courts.",
+    "funding": "Public Interest Honors Scholarships providing up to full tuition coverage",
+    "tuition": "$58,500/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nyls.edu/academics/clinics-and-experiential-learning/",
+    "requirements": {
+      "gpa": "Demonstrated public service record and competitive LSAT/GRE score",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Accepted",
+      "papers": "Public interest commitment essay",
+      "references": "Two letters from mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8899,
+    "title": "Master of Laws (LL.M.) in Financial Services Law",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Designed for domestic and international legal counsel navigating cross-border banking regulations, anti-money laundering (AML), and cryptocurrency governance.",
+    "funding": "Center for Financial Services Merit Grants up to $12,000",
+    "tuition": "$2,100/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nyls.edu/academics/llm-programs/financial-services-law/",
+    "requirements": {
+      "gpa": "JD or equivalent law degree from an accredited institution",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Not required",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8900,
+    "title": "New York Law School Dean's Scholars Full Tuition Fellowship",
+    "university": "New York Law School",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "NYLS's most prestigious merit award granted to exceptional incoming JD candidates with stellar academic records and demonstrated legal leadership potential.",
+    "funding": "100% full tuition coverage ($58,500/year value) renewable for all three years of legal education ($175,500 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nyls.edu/admissions/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.75 and LSAT >= 163 (or equivalent percentile GRE)",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Dean's Scholars competitive essay and interview",
+      "references": "Three letters of academic and professional recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8901,
+    "title": "Master of Social Work (MSW - Clinical Practice)",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited clinical social work curriculum preparing licensed clinical social workers (LCSWs) in mental health therapy, rural family trauma, and addictions.",
+    "funding": "Health Resources and Services Administration (HRSA) Behavioral Health Grants up to $10,000",
+    "tuition": "$630/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://newmanu.edu/academics/graduate-programs/master-of-social-work",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA in liberal arts or social sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal statement of social work values",
+      "references": "Three professional and academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8902,
+    "title": "Master of Business Administration (MBA - Leadership & Healthcare)",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares organizational leaders in healthcare analytics, corporate finance, strategic human capital management, and ethical business decision-making.",
+    "funding": "School of Business Merit Fellowships providing up to $4,500",
+    "tuition": "$610/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://newmanu.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "2.75 minimum undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional resume and career statement",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8903,
+    "title": "Bachelor of Science in Nursing (Pre-Licensure BSN)",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing degree offering acute clinical rotations across Wichita medical centers and training in the Bishop Gerber Science Center simulation suite.",
+    "funding": "Ascension Via Christi Nursing Scholarships up to $8,000/year",
+    "tuition": "$34,200/year",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://newmanu.edu/academics/undergraduate-programs/nursing",
+    "requirements": {
+      "gpa": "3.0 high school GPA with prerequisite anatomy and chemistry B or better",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing statement of intent",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8904,
+    "title": "Bachelor of Science in Radiologic Technology",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "JRCERT-accredited degree in diagnostic radiography, digital fluoroscopy, radiation biology, and computed tomography (CT) imaging.",
+    "funding": "Allied Health Professional Grants up to $4,000/year",
+    "tuition": "$34,200/year",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://newmanu.edu/academics/undergraduate-programs/radiologic-technology",
+    "requirements": {
+      "gpa": "2.75 high school GPA with physics and biology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8905,
+    "title": "Bachelor of Science in Sonography",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Dual-concentration program covering diagnostic medical sonography (abdomen/OB-GYN) and adult echocardiography (cardiac ultrasound).",
+    "funding": "Healthcare Imaging Endowed Grants of $3,500/year",
+    "tuition": "$34,200/year",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://newmanu.edu/academics/undergraduate-programs/sonography",
+    "requirements": {
+      "gpa": "2.85 high school GPA with anatomy prerequisites",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8906,
+    "title": "St. John Henry Newman Full Tuition Scholars Fellowship",
+    "university": "Newman University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The most distinguished competitive merit award given to incoming freshmen demonstrating academic excellence, moral leadership, and community service.",
+    "funding": "Full tuition scholarship ($34,200/year value) renewable for four undergraduate academic years ($136,800 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://newmanu.edu/admissions/scholarships",
+    "requirements": {
+      "gpa": "3.85 unweighted high school GPA and ACT score >= 29 or SAT >= 1350",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "St. John Henry Newman competitive essay and on-campus interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8907,
+    "title": "Bachelor of Science in Computer Science (Software Engineering)",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Accelerated 3-year degree mastering full-stack web and mobile development, algorithms, cloud computing, and DevOps engineering in downtown Washington, D.C.",
+    "funding": "NewU Tech Innovators Merit Grants up to $6,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://newu.university/programs/computer-science/",
+    "requirements": {
+      "gpa": "2.5 minimum high school GPA or GED",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement on tech ambitions",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8908,
+    "title": "Bachelor of Science in Data Science & Machine Learning",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Hands-on instruction in statistical modeling, machine learning pipelines, predictive analytics, SQL databases, and data visualization.",
+    "funding": "District Data Analytics Scholarships of $5,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://newu.university/programs/data-science/",
+    "requirements": {
+      "gpa": "2.75 high school GPA with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8909,
+    "title": "Bachelor of Science in Entrepreneurship & Innovation",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Intensive business curriculum covering venture capital pitching, growth marketing, digital commerce scaling, and corporate financial accounting.",
+    "funding": "NewU Venture Accelerator Grants providing $4,500/year",
+    "tuition": "$16,500/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://newu.university/programs/entrepreneurship/",
+    "requirements": {
+      "gpa": "2.25 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Startup idea pitch or personal statement",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8910,
+    "title": "Bachelor of Arts in Psychology & Human Behavior",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Studies cognitive psychology, organizational behavior, mental health methodologies, and consumer decision-making analytics.",
+    "funding": "Behavioral Science Leadership Grants of $4,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://newu.university/programs/psychology/",
+    "requirements": {
+      "gpa": "2.25 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8911,
+    "title": "Bachelor of Science in Cybersecurity Operations",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Focuses on network defense, cloud infrastructure hardening, ethical penetration testing, and federal compliance standards.",
+    "funding": "National Capital Cyber Grants providing $5,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://newu.university/programs/cybersecurity/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Technical interest statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8912,
+    "title": "NewU Next-Gen Founder Full Tuition Fellowship",
+    "university": "NewU University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Premier merit fellowship awarded to exceptional young tech builders, innovators, and entrepreneurs committed to solving societal challenges.",
+    "funding": "100% full tuition coverage ($16,500/year value) across all three accelerated degree years ($49,500 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://newu.university/scholarships/",
+    "requirements": {
+      "gpa": "3.75 high school GPA or demonstrated technological portfolio",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Next-Gen Founder competition essay and project pitch",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8913,
+    "title": "Master of Business Administration (MBA - Artificial Intelligence)",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Competency-based MBA focusing on corporate generative AI integration, predictive data analytics, ethical technology governance, and digital enterprise scaling.",
+    "funding": "Nexford Global Leaders Scholarship providing up to 30% monthly tuition discount",
+    "tuition": "$280/month (flat monthly subscription)",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nexford.edu/programs/mba",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5 (or Nexford English Assessment)",
+      "gre": "Exempt",
+      "papers": "Professional goals statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8914,
+    "title": "Master of Science in Digital Transformation",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Equips managers to lead enterprise cloud migrations, omnichannel digital customer journeys, agile workplace transformations, and cybersecurity risk governance.",
+    "funding": "Emerging Markets Tech Grants providing up to 25% tuition reduction",
+    "tuition": "$280/month",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nexford.edu/programs/ms-digital-transformation",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Digital transformation career essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8915,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on virtual lab training in enterprise network protection, cloud threat intelligence, security regulatory auditing, and incident response.",
+    "funding": "Cyber Defense Leadership Grants of $1,500 total program award",
+    "tuition": "$280/month",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nexford.edu/programs/ms-cybersecurity",
+    "requirements": {
+      "gpa": "Bachelor's degree in IT, STEM, or business with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Technical objectives statement",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8916,
+    "title": "Bachelor of Business Administration (BBA - Supply Chain)",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Covers global logistics, maritime freight economics, procurement analytics, ERP systems, and warehouse automation strategies.",
+    "funding": "Future Female Leaders Scholarships providing up to 50% tuition reduction",
+    "tuition": "$180/month (flat monthly subscription)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nexford.edu/programs/bba",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8917,
+    "title": "Bachelor of Science in Data Analytics",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Mastery of Python programming for data analysis, Tableau visualization, statistical hypotheses testing, and SQL relational databases.",
+    "funding": "Global STEM Advancement Scholarships up to 35% tuition discount",
+    "tuition": "$180/month",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nexford.edu/programs/bs-data-analytics",
+    "requirements": {
+      "gpa": "High school diploma with algebra proficiency",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical goals",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8918,
+    "title": "Nexford Global Impact Full Tuition Fellowship",
+    "university": "Nexford University",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Awarded to extraordinary global students and professionals from developing nations who demonstrate community leadership and entrepreneurial vision.",
+    "funding": "100% full tuition coverage for entire degree duration ($8,000–$12,000 program value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nexford.edu/scholarships",
+    "requirements": {
+      "gpa": "Outstanding academic record and proven social impact record",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Global Impact competitive essay and video interview",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8919,
+    "title": "Doctor of Philosophy in Computational Data Science and Engineering",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Interdisciplinary doctoral program focusing on high-performance parallel computing, machine learning algorithms, cybersecurity modeling, and computational bioinformatics.",
+    "funding": "Doctoral Graduate Research Assistantship with $28,000 annual living stipend, full tuition waiver, and healthcare allowance",
+    "tuition": "$0 (Fully funded doctoral fellow)",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ncat.edu/coe/academics/phd-cdse.php",
+    "requirements": {
+      "gpa": "BS or MS in engineering, CS, or mathematics with min. 3.25 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 158",
+      "papers": "Comprehensive doctoral research prospectus",
+      "references": "Three letters from engineering/computing faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8920,
+    "title": "Doctor of Philosophy in Mechanical Engineering (Advanced Autonomous Systems)",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Cutting-edge research in autonomous vehicle guidance, hypersonics, multi-functional composite nanomaterials, and robotics control systems.",
+    "funding": "NSF and DoD Engineering Fellowships providing full tuition and $28,000 annual stipend",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ncat.edu/coe/departments/meen/graduate.php",
+    "requirements": {
+      "gpa": "BS or MS in mechanical or aerospace engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative >= 155",
+      "papers": "Statement of mechanical research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8921,
+    "title": "Master of Science in Agricultural and Environmental Systems",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Conducted at the 492-acre University Farm complex, studying sustainable agroecology, urban food systems, soil microbial biogeochemistry, and climate-smart horticulture.",
+    "funding": "USDA-1890 National Scholars Graduate Fellowships covering full tuition plus monthly stipend",
+    "tuition": "$5,200/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ncat.edu/caes/academics/graduate-programs.php",
+    "requirements": {
+      "gpa": "BS in agriculture, biology, or environmental science with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Agricultural research statement",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8922,
+    "title": "Master of Science in Nanoengineering",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Based at the world-class JSNN facility equipped with cleanrooms and electron microscopes, studying 2D materials, nanobiosensors, and quantum nanoscale devices.",
+    "funding": "Joint School of Nanoscience and Nanoengineering (JSNN) Research Assistantships with $20,000 stipend",
+    "tuition": "$5,200/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://jsnn.ncat.uncg.edu/",
+    "requirements": {
+      "gpa": "BS in engineering, physics, chemistry, or materials science with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Recommended",
+      "papers": "Nanoengineering goals essay",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8923,
+    "title": "Bachelor of Science in Computer Science (Cybersecurity Track)",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense covering software security, cryptography, reverse engineering, and cloud network forensics.",
+    "funding": "NSA/DoD Cyber Scholarship Program (CySP) covering full tuition, books, and $27,000 undergraduate stipend",
+    "tuition": "$6,700/year (In-state) / $20,300/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ncat.edu/coe/departments/cs/undergraduate.php",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with precalculus",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two STEM teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8924,
+    "title": "North Carolina A&T Cheatham-White Scholars Fellowship",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "location": "Greensboro, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "The most prestigious fully funded undergraduate merit fellowship at NC A&T, awarded to high-achieving scholars exhibiting outstanding leadership, scholarship, and community service.",
+    "funding": "Full in-state or out-of-state tuition, room and board, books, laptop, and four summer research/travel stipends ($32,000/year total value)",
+    "tuition": "$0 (100% full scholarship)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ncat.edu/admissions/financial-aid/cheatham-white-scholarship.php",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT >= 28 or SAT >= 1280",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Cheatham-White competitive essay and leadership portfolio",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8925,
+    "title": "Master of Science in Pharmaceutical Sciences (Biomanufacturing)",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Conducted at the state-of-the-art BRITE facility in Research Triangle Park, training researchers in protein purification, bioreactor fermentation, drug design, and analytical biochemistry.",
+    "funding": "BRITE Golden LEAF Graduate Fellowships providing full tuition waiver and $20,000 annual living stipend",
+    "tuition": "$5,100/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nccu.edu/brite/academic-programs/graduate-programs",
+    "requirements": {
+      "gpa": "BS in chemistry, biology, pharmacy, or engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Pharmaceutical research statement",
+      "references": "Three letters from science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8926,
+    "title": "Juris Doctor (J.D.) in Civil Rights and Health Law",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ABA-accredited legal education dedicated to social justice, public interest advocacy, healthcare jurisprudence, and community economic development.",
+    "funding": "School of Law Dean's Merit Scholarships providing up to full tuition remission",
+    "tuition": "$19,500/year (In-state) / $41,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.nccu.edu/admissions/",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.2 and LSAT score >= 152",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Accepted",
+      "papers": "Personal statement and legal resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8927,
+    "title": "Doctor of Philosophy in Integrated Biosciences",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Advanced interdisciplinary doctoral research investigating health disparities in cancer biology, neurodegenerative diseases, cardiovascular pharmacology, and environmental toxicology.",
+    "funding": "NIH-funded research fellowships with $28,000 annual living stipend and 100% tuition remission",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nccu.edu/bbri/academics/phd-integrated-biosciences",
+    "requirements": {
+      "gpa": "BS or MS in biological sciences or biochemistry with min. 3.25 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Quantitative >= 155",
+      "papers": "Detailed research prospectus in biosciences",
+      "references": "Three letters from laboratory mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8928,
+    "title": "Master of Science in Information Science (Cybersecurity & Health Informatics)",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "ALA-accredited curriculum covering electronic medical record systems, network intrusion detection, database systems, and data privacy law.",
+    "funding": "School of Library and Information Sciences Graduate Assistantships of $10,000/year",
+    "tuition": "$5,100/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nccu.edu/slis/academics/master-information-science",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of purpose",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8929,
+    "title": "Bachelor of Science in Biomedical Sciences",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Rigorous undergraduate pre-medical training in human physiology, genetics, organic chemistry, histology, and cellular biochemistry.",
+    "funding": "Chancellor's Science Scholars Grants up to $8,000/year",
+    "tuition": "$6,500/year (In-state) / $19,800/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nccu.edu/college-health-and-sciences/biological-and-biomedical-sciences",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with chemistry and biology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8930,
+    "title": "North Carolina Central University Cheatham-White Scholars Fellowship",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "The most distinguished competitive undergraduate fellowship at NCCU, recognizing exceptional academic scholars dedicated to community leadership and ethical service.",
+    "funding": "Full in-state or out-of-state tuition, housing, meal plan, laptop, and $2,000 study abroad stipend ($28,000/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nccu.edu/admissions/financial-aid/cheatham-white-scholarship",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT >= 28 or SAT >= 1280",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Cheatham-White competitive essay and leadership portfolio",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8931,
+    "title": "Master of Science in Criminal Justice",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced study in forensic behavioral science, police organization leadership, constitutional criminal jurisprudence, and crime policy evaluation.",
+    "funding": "Law Enforcement Foundation Grants providing up to $4,000 total program award",
+    "tuition": "$495/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ncwu.edu/academics/graduate/ms-criminal-justice/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA in criminal justice or social sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Professional resume and statement of intent",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8932,
+    "title": "Master of Science in Strategic Leadership",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares organizational managers in strategic crisis communication, human resource analytics, corporate governance, and change management.",
+    "funding": "Corporate Leadership Fellowships of $3,500 per academic year",
+    "tuition": "$495/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://ncwu.edu/academics/graduate/ms-strategic-leadership/",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Leadership philosophy essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8933,
+    "title": "Bachelor of Science in Biomedical Sciences",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Comprehensive pre-medical curriculum covering mammalian anatomy, organic synthesis, medical genetics, biochemistry, and human pathology.",
+    "funding": "Bishop Science Scholars Awards providing up to $8,000/year",
+    "tuition": "$34,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/biomedical-sciences/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and biology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8934,
+    "title": "Bachelor of Science in Exercise Science",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Instruction in exercise physiology, kinesiology, cardiovascular rehabilitation, and sports nutrition in the Movement Science lab.",
+    "funding": "Battling Bishop Athletic & Academic Grants up to $6,500/year",
+    "tuition": "$34,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/exercise-science/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8935,
+    "title": "Bachelor of Science in Computer Information Systems (Cybersecurity)",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on mastery of relational database design, network perimeter defense, ethical penetration testing, and IT enterprise management.",
+    "funding": "Technology Advancement Grants providing up to $5,000/year",
+    "tuition": "$34,500/year",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/computer-information-systems/",
+    "requirements": {
+      "gpa": "2.5 high school GPA with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8936,
+    "title": "North Carolina Wesleyan University Heritage Full Tuition Scholarship",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious award honoring freshmen who embody intellectual rigor, Christian ethical values, and dynamic leadership in community service.",
+    "funding": "Full tuition scholarship ($34,500/year value) renewable for four undergraduate academic years ($138,000 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ncwu.edu/admissions/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT score >= 27 or SAT >= 1280",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Heritage Scholarship competitive essay and interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8937,
+    "title": "Master of Arts in Strategic Leadership",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares leaders for non-profit organizations, cross-cultural missions, corporate administration, and church networks in organizational ethics and conflict management.",
+    "funding": "Urban Ministry Leadership Grants providing up to $4,500/year",
+    "tuition": "$515/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.northcentral.edu/graduate-programs/strategic-leadership/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Leadership goals statement",
+      "references": "Two recommendations including pastoral reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8938,
+    "title": "Bachelor of Science in Music Performance & Recording Arts",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Comprehensive training in classical and contemporary musicianship, digital audio workstation (DAW) recording, audio mixing, and commercial production.",
+    "funding": "Fine Arts Talent Scholarships awarding up to $8,000/year",
+    "tuition": "$28,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.northcentral.edu/undergraduate-majors/music/",
+    "requirements": {
+      "gpa": "2.5 high school GPA and audition submission (audio/video or on-campus)",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Artistic resume",
+      "references": "One music teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8939,
+    "title": "Bachelor of Science in Pastoral Leadership",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Develops pastoral competencies in Greek and Hebrew exegesis, sermon preparation, counseling intervention, and urban church planting.",
+    "funding": "Assemblies of God Ministry Endowed Grants of $5,000/year",
+    "tuition": "$28,500/year",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.northcentral.edu/undergraduate-majors/pastoral-leadership/",
+    "requirements": {
+      "gpa": "2.25 minimum high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal testimony essay",
+      "references": "Pastoral recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8940,
+    "title": "Bachelor of Science in Business Administration",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Instruction in corporate financial analysis, digital marketing, business law, entrepreneurship, and ethical business decision frameworks.",
+    "funding": "Downtown Business Leadership Scholarships up to $6,000/year",
+    "tuition": "$28,500/year",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.northcentral.edu/undergraduate-majors/business-administration/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8941,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers software development in modern object-oriented languages, data structures, network security, database engineering, and web architecture.",
+    "funding": "Twin Cities Tech Scholars Grants of $4,500/year",
+    "tuition": "$28,500/year",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.northcentral.edu/undergraduate-majors/computer-science/",
+    "requirements": {
+      "gpa": "2.5 high school GPA with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical intent",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8942,
+    "title": "North Central University Presidential Honors Fellowship",
+    "university": "North Central University",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Premier honors award granted to incoming freshmen of exceptional spiritual commitment, artistic or academic excellence, and urban community leadership.",
+    "funding": "Full tuition scholarship ($28,500/year value) renewable across four undergraduate years ($114,000 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.northcentral.edu/admissions-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT >= 27 or SAT >= 1280",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Honors essay and personal interview",
+      "references": "Pastoral reference and two academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8943,
+    "title": "Doctor of Philosophy in Coatings and Polymeric Materials",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "engineering"
+    ],
+    "desc": "A globally celebrated polymer research department investigating bio-based sustainable resins, anti-corrosion protective coatings, nanocomposites, and self-healing polymers.",
+    "funding": "Graduate Research Assistantships with $28,000 annual living stipend and 100% tuition coverage",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ndsu.edu/cpm/graduate_programs/",
+    "requirements": {
+      "gpa": "BS or MS in chemistry, polymer science, or chemical engineering with min. 3.25 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative >= 156 recommended",
+      "papers": "Polymer research prospectus",
+      "references": "Three letters from chemistry faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8944,
+    "title": "Doctor of Philosophy in Agricultural and Biosystems Engineering",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Cutting-edge research in precision autonomous farm robotics, hyperspectral drone crop modeling, grain drying kinetics, and subsurface agricultural tile drainage hydrology.",
+    "funding": "USDA-NIFA and State Agricultural Experiment Station Fellowships with $26,000 annual stipend and tuition remission",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ndsu.edu/aben/graduate_programs/",
+    "requirements": {
+      "gpa": "BS or MS in engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Statement of agricultural engineering research",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8945,
+    "title": "Doctor of Pharmacy (Pharm.D.)",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional doctorate combining pharmaceutical chemistry, clinical pharmacotherapy, pharmacogenomics, and hospital clinical rotations.",
+    "funding": "College of Health and Human Sciences Endowed Pharmacy Fellowships up to $10,000/year",
+    "tuition": "$680/credit hour (In-state) / $1,050/credit hour (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ndsu.edu/pharmacy/",
+    "requirements": {
+      "gpa": "Undergraduate prerequisite GPA >= 3.0 in chemistry and biology",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "PCAT not required",
+      "papers": "PharmCAS personal statement and interview",
+      "references": "Three recommendations including licensed pharmacist"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8946,
+    "title": "Master of Science in Computer Science (Big Data and Cybersecurity)",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced study in distributed cloud computing, machine learning, data mining architectures, and network cyber defense.",
+    "funding": "Departmental Graduate Teaching Assistantships providing full tuition waiver and $16,000 stipend",
+    "tuition": "$450/credit hour (In-state) / $675/credit hour (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ndsu.edu/cs/graduate_programs/",
+    "requirements": {
+      "gpa": "BS in computer science or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative >= 155",
+      "papers": "Statement of technical objectives",
+      "references": "Two letters from faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8947,
+    "title": "Bachelor of Science in Precision Agriculture",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Pioneering interdisciplinary curriculum integrating GPS machine guidance, soil electrical conductivity sensing, drone multispectral imagery, and crop yield analytics.",
+    "funding": "Grand Farm and AgTech Industry Scholarships up to $6,000/year",
+    "tuition": "$9,800/year (In-state) / $14,700/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ndsu.edu/aben/academics/precision_agriculture/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8948,
+    "title": "NDSU Presidential Honors Full Tuition Fellowship",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "location": "Fargo, North Dakota, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "engineering"
+    ],
+    "desc": "NDSU's highest competitive undergraduate scholarship recognizing outstanding scholars with superior academic records, leadership, and research drive.",
+    "funding": "Full in-state or out-of-state tuition plus $2,000 annual research stipend ($16,700/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ndsu.edu/admission/financial_aid/scholarships/",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.85 and ACT >= 31 or SAT >= 1410",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship competition essay",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8949,
+    "title": "Associate of Science in Registered Nursing (ADN)",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program combining clinical simulation with acute care hospital rotations across Kootenai Health facilities.",
+    "funding": "Kootenai Health Nursing Scholarships providing up to $4,500/year",
+    "tuition": "$3,800/year (In-district) / $9,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nic.edu/nursing/",
+    "requirements": {
+      "gpa": "2.5 GPA in prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing application essay and TEAS score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8950,
+    "title": "Associate of Applied Science in Mechatronics & Industrial Automation",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Conducted at the state-of-the-art Rathdrum facility, covering programmable logic controllers (PLCs), industrial robotics, hydraulics, and instrumentation.",
+    "funding": "Parker Technical Education Center Grants up to $3,500/year",
+    "tuition": "$3,800/year (In-district) / $9,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nic.edu/mechatronics/",
+    "requirements": {
+      "gpa": "High school diploma or GED with technical aptitude",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of technical objectives",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8951,
+    "title": "Associate of Science in Environmental Science & Forestry",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Fieldwork-based curriculum along Lake Coeur d'Alene studying silviculture, rangeland watersheds, GIS mapping, and forest wildfire ecology.",
+    "funding": "Idaho Forest Products Commission Grants of $3,000/year",
+    "tuition": "$3,800/year (In-district) / $9,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nic.edu/forestry/",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8952,
+    "title": "Associate of Science in Computer Science (Transfer Track)",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Prepares students for direct university transfer in software engineering, discrete mathematics, data structures, and computer organization.",
+    "funding": "Inland Northwest STEM Grants up to $2,500/year",
+    "tuition": "$3,800/year (In-district) / $9,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nic.edu/cs/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with precalculus readiness",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8953,
+    "title": "Associate of Applied Science in Dental Hygiene",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CODA-accredited program combining clinical dental patient care, periodontics, radiology, and local anesthesia administration.",
+    "funding": "Allied Health Endowed Scholarships of $3,000",
+    "tuition": "$3,800/year (In-district) / $9,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.nic.edu/dentalhygiene/",
+    "requirements": {
+      "gpa": "3.0 GPA in prerequisite anatomy, chemistry, and microbiology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Dental hygiene statement of intent",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8954,
+    "title": "North Idaho College Foundation Excellence Fellowship",
+    "university": "North Idaho College",
+    "country": "United States",
+    "location": "Coeur d'Alene, Idaho, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Premier scholarship awarded to exceptional incoming scholars demonstrating academic merit, leadership, and dedication to North Idaho's communities.",
+    "funding": "Full tuition and book stipend for entire two-year associate degree ($8,500 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nic.edu/foundation/scholarships/",
+    "requirements": {
+      "gpa": "3.50 high school GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "NIC Foundation application essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8955,
+    "title": "Associate of Applied Science in Electrical Technology",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Comprehensive training in commercial wiring, industrial motor controls, programmable logic controllers (PLCs), and national electric code (NEC) compliance.",
+    "funding": "Nebraska Career Scholarships providing up to $4,000 per academic year",
+    "tuition": "$3,450/year (In-state) / $4,350/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mpcc.edu/academics/programs/electrical-technology.php",
+    "requirements": {
+      "gpa": "High school diploma or GED with technical aptitude",
+      "ielts": "TOEFL 55+ or IELTS 5.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical career interest",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8956,
+    "title": "Associate of Applied Science in Diesel Technology",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on instruction in heavy duty agricultural machinery powertrains, locomotive maintenance systems, electronic fuel diagnostics, and hydraulics.",
+    "funding": "Union Pacific and Regional Ag Equipment Industry Sponsorships up to $5,000/year",
+    "tuition": "$3,450/year (In-state) / $4,350/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mpcc.edu/academics/programs/diesel-technology.php",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "TOEFL 55+ or IELTS 5.0",
+      "gre": "Exempt",
+      "papers": "Technical interest statement",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8957,
+    "title": "Associate Degree in Nursing (ADN)",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program with clinical simulation labs and acute care rotations at Great Plains Health Regional Medical Center.",
+    "funding": "Great Plains Health Nursing Grants providing up to $4,500/year",
+    "tuition": "$3,450/year (In-state) / $4,350/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mpcc.edu/academics/programs/nursing.php",
+    "requirements": {
+      "gpa": "2.5 GPA in prerequisite anatomy and physiology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing statement and TEAS exam score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8958,
+    "title": "Associate of Science in Agriculture (Ranch Management)",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Studies Nebraska Sandhills rangeland ecology, beef cattle nutrition, commodities marketing, forage management, and ranch financial accounting.",
+    "funding": "Sandhills Ranching Heritage Scholarships of $3,000/year",
+    "tuition": "$3,450/year (In-state) / $4,350/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mpcc.edu/academics/programs/agriculture.php",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA",
+      "ielts": "TOEFL 55+ or IELTS 5.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8959,
+    "title": "Associate of Science in Computer Information Systems",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Prepares students for network administration, cloud infrastructure, Python programming, and entry-level cybersecurity operations.",
+    "funding": "Mid-Plains Tech Advancement Grants up to $2,500/year",
+    "tuition": "$3,450/year (In-state) / $4,350/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.mpcc.edu/academics/programs/information-technology.php",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "TOEFL 55+ or IELTS 5.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8960,
+    "title": "Mid-Plains Community College President's Honors Fellowship",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "location": "North Platte, Nebraska, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Awarded to top high school graduates residing in the 18-county service area demonstrating academic excellence and leadership in technical fields.",
+    "funding": "Full tuition and fees for two undergraduate academic years ($7,500 value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mpcc.edu/cost-and-aid/scholarships.php",
+    "requirements": {
+      "gpa": "3.50 high school GPA and top 15% class rank",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "President's Fellowship essay",
+      "references": "Two recommendations from instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8961,
+    "title": "Associate of Applied Science in Industrial Systems Technology (Mechatronics)",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Nationally recognized mechatronics program training multi-craft technicians in robotics, industrial automation, PLCs, motor drives, and precision alignment.",
+    "funding": "Alabama FAME Advanced Manufacturing Technician (AMT) full sponsorships with paid industry co-ops",
+    "tuition": "$4,650/year (In-state) / $9,300/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nacc.edu/programs/industrial-systems-technology",
+    "requirements": {
+      "gpa": "High school diploma or GED with math aptitude",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Industrial career interest statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8962,
+    "title": "Associate in Applied Science in Registered Nursing (ADN)",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program recognized for exceptional NCLEX pass rates, acute clinical rotations, and simulation hospital training.",
+    "funding": "DeKalb Regional Healthcare Nursing Scholarships up to $4,000/year",
+    "tuition": "$4,650/year (In-state) / $9,300/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nacc.edu/programs/nursing",
+    "requirements": {
+      "gpa": "2.5 minimum GPA in prerequisite biology and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing statement and ACT score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8963,
+    "title": "Associate of Science in Computer Science (Pre-Engineering Transfer)",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Direct university transfer track articulated with Auburn University and University of Alabama, covering calculus, data structures, and C++ programming.",
+    "funding": "Alabama STEM Council Merit Grants providing up to $3,500/year",
+    "tuition": "$4,650/year (In-state) / $9,300/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nacc.edu/programs/computer-science",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with precalculus",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One math/science teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8964,
+    "title": "Associate of Applied Science in Medical Laboratory Technology (MLT)",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "NAACLS-accredited program in clinical hematology, immunohematology, clinical microbiology, and diagnostic clinical chemistry.",
+    "funding": "Huntsville Hospital Health System MLT Scholarships of $3,500/year",
+    "tuition": "$4,650/year (In-state) / $9,300/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nacc.edu/programs/medical-laboratory-technology",
+    "requirements": {
+      "gpa": "2.5 GPA in science prerequisites",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Clinical laboratory career statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8965,
+    "title": "Associate of Applied Science in Cybersecurity & Computer Information Systems",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Prepares technicians in network defense, enterprise server virtualization, ethical hacking, and cybersecurity incident analysis.",
+    "funding": "National Cyber Workforce Stipends up to $3,000/year",
+    "tuition": "$4,650/year (In-state) / $9,300/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nacc.edu/programs/cybersecurity",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA or GED",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8966,
+    "title": "Northeast Alabama Community College Presidential Honors Fellowship",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "location": "Rainsville, Alabama, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Top institutional honor awarded to incoming scholars demonstrating exceptional academic excellence, civic character, and leadership potential.",
+    "funding": "Full tuition and mandatory institutional fees for two academic years ($9,300 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nacc.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "3.75 high school GPA and ACT score >= 26",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship essay and interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];export const researchers=[
   {
     "id": 1,
@@ -311246,6 +316385,1627 @@ export const opportunities=[
     "source": "https://www.msubillings.edu",
     "bio": "Dr. Matthew Queen conducts research in bioinorganic chemistry, heavy metal remediation in agricultural watersheds, and metalloprotein spectroscopy.",
     "summary": "Dr. Matthew Queen conducts research in bioinorganic chemistry, heavy metal remediation in agricultural watersheds, and metalloprotein spectroscopy.",
+    "reviewed": "2026-10-16"
+  }
+,
+{
+    "id": 3949,
+    "name": "Dr. Les Cook",
+    "role": "Chancellor and Professor",
+    "title": "Chancellor and Professor",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtech.edu",
+    "bio": "Dr. Les Cook serves as the 12th Chancellor of Montana Tech, leading STEM enrollment expansion, historic industrial research partnerships, and workforce modernization.",
+    "summary": "Dr. Les Cook serves as the 12th Chancellor of Montana Tech, leading STEM enrollment expansion, historic industrial research partnerships, and workforce modernization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3950,
+    "name": "Dr. Jerome Downey",
+    "role": "Goldcorp Professor of Extractive Metallurgy",
+    "title": "Goldcorp Professor of Extractive Metallurgy",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "department": "Department of Metallurgical and Materials Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Metallurgical and Materials Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtech.edu",
+    "bio": "Dr. Jerome Downey is an international authority on high-temperature thermal processing, rare earth element recovery, and hazardous slag immobilization.",
+    "summary": "Dr. Jerome Downey is an international authority on high-temperature thermal processing, rare earth element recovery, and hazardous slag immobilization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3951,
+    "name": "Dr. Beverly Hartline",
+    "role": "Professor Emerita of Physics and Geosciences",
+    "title": "Professor Emerita of Physics and Geosciences",
+    "university": "Montana Technological University",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtech.edu",
+    "bio": "Dr. Beverly Hartline is a nuclear physicist whose research addresses particle accelerators, underground scientific laboratory design, and women in STEM advocacy.",
+    "summary": "Dr. Beverly Hartline is a nuclear physicist whose research addresses particle accelerators, underground scientific laboratory design, and women in STEM advocacy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3952,
+    "name": "Dr. Jonathan Koppell",
+    "role": "President and Professor of Public Affairs",
+    "title": "President and Professor of Public Affairs",
+    "university": "Montclair State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montclair.edu",
+    "bio": "Dr. Jonathan Koppell serves as President of Montclair State University, focusing on public administration, civic technology innovation, and educational access transformation.",
+    "summary": "Dr. Jonathan Koppell serves as President of Montclair State University, focusing on public administration, civic technology innovation, and educational access transformation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3953,
+    "name": "Dr. Pankaj Lal",
+    "role": "Professor and Director of the Clean Energy and Sustainability Analytics Center",
+    "title": "Professor and Director of the Clean Energy and Sustainability Analytics Center",
+    "university": "Montclair State University",
+    "country": "United States",
+    "department": "Department of Earth and Environmental Studies",
+    "subject": "environment",
+    "topics": [
+      "Department of Earth and Environmental Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montclair.edu",
+    "bio": "Dr. Pankaj Lal is a globally recognized environmental economist investigating bioenergy lifecycle analysis, forest carbon offsets, and renewable energy adoption models.",
+    "summary": "Dr. Pankaj Lal is a globally recognized environmental economist investigating bioenergy lifecycle analysis, forest carbon offsets, and renewable energy adoption models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3954,
+    "name": "Dr. Aparna Varde",
+    "role": "Professor of Computer Science",
+    "title": "Professor of Computer Science",
+    "university": "Montclair State University",
+    "country": "United States",
+    "department": "School of Computing",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montclair.edu",
+    "bio": "Dr. Aparna Varde directs research in artificial intelligence, knowledge discovery in databases, computational linguistics, and smart urban infrastructure analytics.",
+    "summary": "Dr. Aparna Varde directs research in artificial intelligence, knowledge discovery in databases, computational linguistics, and smart urban infrastructure analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3955,
+    "name": "Dr. Paul J. Maurer",
+    "role": "President of Montreat College",
+    "title": "President of Montreat College",
+    "university": "Montreat College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montreat.edu",
+    "bio": "Dr. Paul J. Maurer has led Montreat College since 2014, establishing the Carolina Cyber Center and expanding undergraduate STEM degrees.",
+    "summary": "Dr. Paul J. Maurer has led Montreat College since 2014, establishing the Carolina Cyber Center and expanding undergraduate STEM degrees.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3956,
+    "name": "Dr. Daron Montgomery",
+    "role": "Dean of the School of Arts and Sciences",
+    "title": "Dean of the School of Arts and Sciences",
+    "university": "Montreat College",
+    "country": "United States",
+    "department": "School of Arts and Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montreat.edu",
+    "bio": "Dr. Daron Montgomery oversees academic curriculum, student experiential learning, and interdisciplinary faculty research in the humanities and sciences.",
+    "summary": "Dr. Daron Montgomery oversees academic curriculum, student experiential learning, and interdisciplinary faculty research in the humanities and sciences.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3957,
+    "name": "Dr. Kelli Burgin",
+    "role": "Associate Professor of Cybersecurity",
+    "title": "Associate Professor of Cybersecurity",
+    "university": "Montreat College",
+    "country": "United States",
+    "department": "Center for Cybersecurity",
+    "subject": "computer-science",
+    "topics": [
+      "Center for Cybersecurity"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montreat.edu",
+    "bio": "Dr. Kelli Burgin specializes in wireless network vulnerability modeling, industrial control systems cybersecurity, and educational pathways in cyber defense.",
+    "summary": "Dr. Kelli Burgin specializes in wireless network vulnerability modeling, industrial control systems cybersecurity, and educational pathways in cyber defense.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3958,
+    "name": "Dr. Jay Morgan",
+    "role": "President of Morehead State University",
+    "title": "President of Morehead State University",
+    "university": "Morehead State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moreheadstate.edu",
+    "bio": "Dr. Jay Morgan serves as the 14th President of Morehead State, championing university aerospace expansions, regional economic growth, and student retention initiatives.",
+    "summary": "Dr. Jay Morgan serves as the 14th President of Morehead State, championing university aerospace expansions, regional economic growth, and student retention initiatives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3959,
+    "name": "Dr. Benjamin K. Malphrus",
+    "role": "Professor of Space Science and Executive Director of the Space Science Center",
+    "title": "Professor of Space Science and Executive Director of the Space Science Center",
+    "university": "Morehead State University",
+    "country": "United States",
+    "department": "Department of Physics, Earth Science, and Space Systems Engineering",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics, Earth Science, and Space Systems Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moreheadstate.edu",
+    "bio": "Dr. Benjamin Malphrus is a pioneering space systems architect who has led the design and mission operations of numerous NASA CubeSat missions to the Moon and deep space.",
+    "summary": "Dr. Benjamin Malphrus is a pioneering space systems architect who has led the design and mission operations of numerous NASA CubeSat missions to the Moon and deep space.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3960,
+    "name": "Dr. Dirk Grupe",
+    "role": "Associate Professor and Chair of Physics",
+    "title": "Associate Professor and Chair of Physics",
+    "university": "Morehead State University",
+    "country": "United States",
+    "department": "Department of Physics, Earth Science, and Space Systems Engineering",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics, Earth Science, and Space Systems Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moreheadstate.edu",
+    "bio": "Dr. Dirk Grupe is an astrophysicist who studies supermassive black holes, active galactic nuclei (AGN), and tidal disruption events using Swift satellite X-ray data.",
+    "summary": "Dr. Dirk Grupe is an astrophysicist who studies supermassive black holes, active galactic nuclei (AGN), and tidal disruption events using Swift satellite X-ray data.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3961,
+    "name": "Dr. Danielle R. Holley",
+    "role": "President and Professor of Politics",
+    "title": "President and Professor of Politics",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtholyoke.edu",
+    "bio": "Dr. Danielle R. Holley serves as the 20th President of Mount Holyoke College, an esteemed legal scholar specializing in constitutional law and educational equity.",
+    "summary": "Dr. Danielle R. Holley serves as the 20th President of Mount Holyoke College, an esteemed legal scholar specializing in constitutional law and educational equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3962,
+    "name": "Dr. Becky Wai-Ling Packard",
+    "role": "Professor of Psychology and Education",
+    "title": "Professor of Psychology and Education",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "department": "Department of Psychology and Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Psychology and Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtholyoke.edu",
+    "bio": "Dr. Becky Wai-Ling Packard conducts groundbreaking research on mentoring, STEM persistence among first-generation and women scholars, and inclusive laboratory climates.",
+    "summary": "Dr. Becky Wai-Ling Packard conducts groundbreaking research on mentoring, STEM persistence among first-generation and women scholars, and inclusive laboratory climates.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3963,
+    "name": "Dr. Craig Woodard",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "Mount Holyoke College",
+    "country": "United States",
+    "department": "Department of Biological Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Biological Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtholyoke.edu",
+    "bio": "Dr. Craig Woodard investigates the molecular genetics of steroid hormone signaling, developmental biology in Drosophila melanogaster, and gene regulation mechanisms.",
+    "summary": "Dr. Craig Woodard investigates the molecular genetics of steroid hormone signaling, developmental biology in Drosophila melanogaster, and gene regulation mechanisms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3964,
+    "name": "Dr. Marc Long",
+    "role": "President of Mount Marty University",
+    "title": "President of Mount Marty University",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mountmarty.edu",
+    "bio": "Dr. Marc Long serves as President of Mount Marty University, overseeing healthcare programmatic expansion, regional hospital clinical partnerships, and rural health access.",
+    "summary": "Dr. Marc Long serves as President of Mount Marty University, overseeing healthcare programmatic expansion, regional hospital clinical partnerships, and rural health access.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3965,
+    "name": "Dr. Andrea B. Sterling",
+    "role": "Director and Associate Professor of Nurse Anesthesia",
+    "title": "Director and Associate Professor of Nurse Anesthesia",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "department": "Graduate Program in Nurse Anesthesia",
+    "subject": "biology",
+    "topics": [
+      "Graduate Program in Nurse Anesthesia"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mountmarty.edu",
+    "bio": "Dr. Andrea Sterling is a certified registered nurse anesthetist (CRNA) investigating ultrasound-guided regional anesthesia, patient safety outcomes, and clinical simulation efficacy.",
+    "summary": "Dr. Andrea Sterling is a certified registered nurse anesthetist (CRNA) investigating ultrasound-guided regional anesthesia, patient safety outcomes, and clinical simulation efficacy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3966,
+    "name": "Dr. Alan Hoesing",
+    "role": "Professor of Exercise Science",
+    "title": "Professor of Exercise Science",
+    "university": "Mount Marty University",
+    "country": "United States",
+    "department": "Division of Nursing and Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing and Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mountmarty.edu",
+    "bio": "Dr. Alan Hoesing conducts research in cardiorespiratory endurance adaptations, rural youth athletic conditioning, and musculoskeletal rehabilitation.",
+    "summary": "Dr. Alan Hoesing conducts research in cardiorespiratory endurance adaptations, rural youth athletic conditioning, and musculoskeletal rehabilitation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3967,
+    "name": "Dr. Robert L. Jackson",
+    "role": "President of Murray State University",
+    "title": "President of Murray State University",
+    "university": "Murray State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.murraystate.edu",
+    "bio": "Dr. Robert L. Jackson serves as the 10th President of Murray State University, leading major capital campus investments, record fundraising, and agricultural center expansions.",
+    "summary": "Dr. Robert L. Jackson serves as the 10th President of Murray State University, leading major capital campus investments, record fundraising, and agricultural center expansions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3968,
+    "name": "Dr. Brian Parr",
+    "role": "Dean of the Hutson School of Agriculture",
+    "title": "Dean of the Hutson School of Agriculture",
+    "university": "Murray State University",
+    "country": "United States",
+    "department": "Hutson School of Agriculture",
+    "subject": "environment",
+    "topics": [
+      "Hutson School of Agriculture"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.murraystate.edu",
+    "bio": "Dr. Brian Parr conducts research in agricultural education pedagogy, precision livestock management, and rural agronomic community development.",
+    "summary": "Dr. Brian Parr conducts research in agricultural education pedagogy, precision livestock management, and rural agronomic community development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3969,
+    "name": "Dr. David Ferguson",
+    "role": "Professor and Chair of Occupational Safety and Health",
+    "title": "Professor and Chair of Occupational Safety and Health",
+    "university": "Murray State University",
+    "country": "United States",
+    "department": "Department of Occupational Safety and Health",
+    "subject": "environment",
+    "topics": [
+      "Department of Occupational Safety and Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.murraystate.edu",
+    "bio": "Dr. David Ferguson is a board-certified safety professional specializing in industrial accident modeling, occupational ergonomics, and corporate hazard mitigation systems.",
+    "summary": "Dr. David Ferguson is a board-certified safety professional specializing in industrial accident modeling, occupational ergonomics, and corporate hazard mitigation systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3970,
+    "name": "Dr. Ronald L. Shape",
+    "role": "President and Chief Executive Officer",
+    "title": "President and Chief Executive Officer",
+    "university": "National American University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.national.edu",
+    "bio": "Dr. Ronald L. Shape serves as President of NAU, guiding institutional modernization, non-traditional student degree accessibility, and military educational alliances.",
+    "summary": "Dr. Ronald L. Shape serves as President of NAU, guiding institutional modernization, non-traditional student degree accessibility, and military educational alliances.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3971,
+    "name": "Dr. Barbara Burke",
+    "role": "Dean of Henley-Putnam School of Strategic Security",
+    "title": "Dean of Henley-Putnam School of Strategic Security",
+    "university": "National American University",
+    "country": "United States",
+    "department": "Henley-Putnam School of Strategic Security",
+    "subject": "social-sciences",
+    "topics": [
+      "Henley-Putnam School of Strategic Security"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.national.edu",
+    "bio": "Dr. Barbara Burke directs national security and intelligence curricula, with research focusing on threat management, counterintelligence doctrine, and military adult learning.",
+    "summary": "Dr. Barbara Burke directs national security and intelligence curricula, with research focusing on threat management, counterintelligence doctrine, and military adult learning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3972,
+    "name": "Dr. Cindy Mathena",
+    "role": "Provost and Chief Academic Officer",
+    "title": "Provost and Chief Academic Officer",
+    "university": "National American University",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.national.edu",
+    "bio": "Dr. Cindy Mathena provides academic governance over collegiate curriculum quality, distance learning pedagogy, and healthcare accreditation standards.",
+    "summary": "Dr. Cindy Mathena provides academic governance over collegiate curriculum quality, distance learning pedagogy, and healthcare accreditation standards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3973,
+    "name": "Dr. Nivine Megahed",
+    "role": "President of National Louis University",
+    "title": "President of National Louis University",
+    "university": "National Louis University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nl.edu",
+    "bio": "Dr. Nivine Megahed is an educational entrepreneur and clinical psychologist who has served as President of NLU since 2010, leading affordable college degree pathways.",
+    "summary": "Dr. Nivine Megahed is an educational entrepreneur and clinical psychologist who has served as President of NLU since 2010, leading affordable college degree pathways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3974,
+    "name": "Dr. Judah Viola",
+    "role": "Dean of the College of Professional Studies and Advancement",
+    "title": "Dean of the College of Professional Studies and Advancement",
+    "university": "National Louis University",
+    "country": "United States",
+    "department": "College of Professional Studies and Advancement",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Professional Studies and Advancement"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nl.edu",
+    "bio": "Dr. Judah Viola is a community psychologist specializing in program evaluation, community revitalization strategies, and housing advocacy research.",
+    "summary": "Dr. Judah Viola is a community psychologist specializing in program evaluation, community revitalization strategies, and housing advocacy research.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3975,
+    "name": "Dr. Terry Smith",
+    "role": "Professor of Education",
+    "title": "Professor of Education",
+    "university": "National Louis University",
+    "country": "United States",
+    "department": "National College of Education",
+    "subject": "social-sciences",
+    "topics": [
+      "National College of Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nl.edu",
+    "bio": "Dr. Terry Smith investigates inclusive pedagogy, trauma-informed classroom management, and socio-emotional learning in urban public schools.",
+    "summary": "Dr. Terry Smith investigates inclusive pedagogy, trauma-informed classroom management, and socio-emotional learning in urban public schools.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3976,
+    "name": "Dr. Mark D. Milliron",
+    "role": "President and Chief Executive Officer",
+    "title": "President and Chief Executive Officer",
+    "university": "National University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nu.edu",
+    "bio": "Dr. Mark D. Milliron is an internationally recognized leader and author in higher education innovation, learning analytics, student success technologies, and workforce equity.",
+    "summary": "Dr. Mark D. Milliron is an internationally recognized leader and author in higher education innovation, learning analytics, student success technologies, and workforce equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3977,
+    "name": "Dr. Ronald Uhlig",
+    "role": "Professor of Computer Science and Engineering",
+    "title": "Professor of Computer Science and Engineering",
+    "university": "National University",
+    "country": "United States",
+    "department": "School of Technology and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "School of Technology and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nu.edu",
+    "bio": "Dr. Ronald Uhlig is a telecommunications pioneer whose research focuses on wireless cellular architectures, quantum computing applications, and electronic messaging standards.",
+    "summary": "Dr. Ronald Uhlig is a telecommunications pioneer whose research focuses on wireless cellular architectures, quantum computing applications, and electronic messaging standards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3978,
+    "name": "Dr. Mudasser Fraz Wyne",
+    "role": "Professor of Computer Science and Information Systems",
+    "title": "Professor of Computer Science and Information Systems",
+    "university": "National University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nu.edu",
+    "bio": "Dr. Mudasser Wyne is an ABET commissioner specializing in data warehousing, business intelligence, database security, and software engineering methodologies.",
+    "summary": "Dr. Mudasser Wyne is an ABET commissioner specializing in data warehousing, business intelligence, database security, and software engineering methodologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3979,
+    "name": "Dr. Deb Carlson",
+    "role": "President and Chief Executive Officer",
+    "title": "President and Chief Executive Officer",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.methodistcollege.edu",
+    "bio": "Dr. Deb Carlson serves as President of Nebraska Methodist College, advancing healthcare simulation training, nursing workforce partnerships, and health equity curricula.",
+    "summary": "Dr. Deb Carlson serves as President of Nebraska Methodist College, advancing healthcare simulation training, nursing workforce partnerships, and health equity curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3980,
+    "name": "Dr. Alice Kindschuh",
+    "role": "Director of Doctoral Studies and Associate Professor of Nursing",
+    "title": "Director of Doctoral Studies and Associate Professor of Nursing",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "department": "Division of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.methodistcollege.edu",
+    "bio": "Dr. Alice Kindschuh investigates evidence-based nursing practice, clinical faculty retention models, and diagnostic simulation efficacy in nurse practitioner training.",
+    "summary": "Dr. Alice Kindschuh investigates evidence-based nursing practice, clinical faculty retention models, and diagnostic simulation efficacy in nurse practitioner training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3981,
+    "name": "Dr. Melissa Snyder",
+    "role": "Dean of Allied Health and Associate Professor",
+    "title": "Dean of Allied Health and Associate Professor",
+    "university": "Nebraska Methodist College",
+    "country": "United States",
+    "department": "Division of Allied Health and Arts & Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Allied Health and Arts & Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.methodistcollege.edu",
+    "bio": "Dr. Melissa Snyder directs research in interprofessional healthcare education, radiographic diagnostic safety protocols, and allied health leadership pipelines.",
+    "summary": "Dr. Melissa Snyder directs research in interprofessional healthcare education, radiographic diagnostic safety protocols, and allied health leadership pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3982,
+    "name": "Dr. Darrin Good",
+    "role": "President of Nebraska Wesleyan University",
+    "title": "President of Nebraska Wesleyan University",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "biology",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nebrwesleyan.edu",
+    "bio": "Dr. Darrin Good is a population geneticist who serves as the 17th President of NWU, leading student research expansions and science facility endowments.",
+    "summary": "Dr. Darrin Good is a population geneticist who serves as the 17th President of NWU, leading student research expansions and science facility endowments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3983,
+    "name": "Dr. Nathanael Fackler",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nebrwesleyan.edu",
+    "bio": "Dr. Nathanael Fackler conducts research in bioinorganic chemistry, synthesis of copper and zinc complexes, and chemical education laboratory design.",
+    "summary": "Dr. Nathanael Fackler conducts research in bioinorganic chemistry, synthesis of copper and zinc complexes, and chemical education laboratory design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3984,
+    "name": "Dr. Kelly Clancy",
+    "role": "Associate Professor of Political Science",
+    "title": "Associate Professor of Political Science",
+    "university": "Nebraska Wesleyan University",
+    "country": "United States",
+    "department": "Department of Political Science",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Political Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nebrwesleyan.edu",
+    "bio": "Dr. Kelly Clancy investigates gender politics, international human rights law, peacebuilding in post-conflict states, and civic participation pedagogies.",
+    "summary": "Dr. Kelly Clancy investigates gender politics, international human rights law, peacebuilding in post-conflict states, and civic participation pedagogies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3985,
+    "name": "Dr. Aaron Reed",
+    "role": "President and Chief Executive Officer",
+    "title": "President and Chief Executive Officer",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "computer-science",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neumont.edu",
+    "bio": "Dr. Aaron Reed serves as President of Neumont College, an expert in computer science pedagogy, software workforce alignment, and project-based STEM learning.",
+    "summary": "Dr. Aaron Reed serves as President of Neumont College, an expert in computer science pedagogy, software workforce alignment, and project-based STEM learning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3986,
+    "name": "Prof. Tim Jones",
+    "role": "Program Chair of Computer Science",
+    "title": "Program Chair of Computer Science",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neumont.edu",
+    "bio": "Prof. Tim Jones directs the computer science core, specializing in compiler theory, algorithm optimization, distributed computing, and enterprise architecture.",
+    "summary": "Prof. Tim Jones directs the computer science core, specializing in compiler theory, algorithm optimization, distributed computing, and enterprise architecture.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3987,
+    "name": "Prof. Ryan Brierley",
+    "role": "Program Chair of Software and Game Development",
+    "title": "Program Chair of Software and Game Development",
+    "university": "Neumont College of Computer Science",
+    "country": "United States",
+    "department": "Department of Game Development",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Game Development"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neumont.edu",
+    "bio": "Prof. Ryan Brierley has directed game development curricula for over a decade, specializing in real-time graphics rendering, physics simulation, and game engine mechanics.",
+    "summary": "Prof. Ryan Brierley has directed game development curricula for over a decade, specializing in real-time graphics rendering, physics simulation, and game engine mechanics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3988,
+    "name": "Dr. Michael Harrison",
+    "role": "President and Director of Pastoral Studies",
+    "title": "President and Director of Pastoral Studies",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nvcc.school",
+    "bio": "Dr. Michael Harrison serves as President of Nevada Christian Institute, specializing in urban church planting, pastoral leadership dynamics, and community non-profit governance.",
+    "summary": "Dr. Michael Harrison serves as President of Nevada Christian Institute, specializing in urban church planting, pastoral leadership dynamics, and community non-profit governance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3989,
+    "name": "Prof. David Vance",
+    "role": "Academic Dean and Professor of Biblical Literature",
+    "title": "Academic Dean and Professor of Biblical Literature",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "department": "Department of Biblical Studies",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Biblical Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nvcc.school",
+    "bio": "Prof. David Vance conducts scholarly research in Ancient Near Eastern historical context, New Testament Greek syntax, and classical expository homiletics.",
+    "summary": "Prof. David Vance conducts scholarly research in Ancient Near Eastern historical context, New Testament Greek syntax, and classical expository homiletics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3990,
+    "name": "Dr. Rachel Morales",
+    "role": "Associate Professor of Family and Community Counseling",
+    "title": "Associate Professor of Family and Community Counseling",
+    "university": "Nevada Christian Institute",
+    "country": "United States",
+    "department": "Department of Counseling",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Counseling"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nvcc.school",
+    "bio": "Dr. Rachel Morales examines addiction recovery protocols in urban communities, faith-integrated cognitive behavioral therapies, and family counseling dynamics.",
+    "summary": "Dr. Rachel Morales examines addiction recovery protocols in urban communities, faith-integrated cognitive behavioral therapies, and family counseling dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3991,
+    "name": "Dr. DeRionne P. Pollard",
+    "role": "President of Nevada State University",
+    "title": "President of Nevada State University",
+    "university": "Nevada State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nevadastate.edu",
+    "bio": "Dr. DeRionne P. Pollard serves as the 8th President of Nevada State University, leading its historic legislative transition to university status and driving equitable college completion.",
+    "summary": "Dr. DeRionne P. Pollard serves as the 8th President of Nevada State University, leading its historic legislative transition to university status and driving equitable college completion.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3992,
+    "name": "Dr. June Eastridge",
+    "role": "Dean of the School of Nursing",
+    "title": "Dean of the School of Nursing",
+    "university": "Nevada State University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nevadastate.edu",
+    "bio": "Dr. June Eastridge directs nursing academic programs with research focusing on clinical healthcare simulation fidelity, nursing student retention, and hospital safety culture.",
+    "summary": "Dr. June Eastridge directs nursing academic programs with research focusing on clinical healthcare simulation fidelity, nursing student retention, and hospital safety culture.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3993,
+    "name": "Dr. Laura Naumann",
+    "role": "Associate Professor of Psychology",
+    "title": "Associate Professor of Psychology",
+    "university": "Nevada State University",
+    "country": "United States",
+    "department": "Department of Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nevadastate.edu",
+    "bio": "Dr. Laura Naumann investigates social and personality psychology, first-generation collegiate belonging, and identity development among diverse student cohorts.",
+    "summary": "Dr. Laura Naumann investigates social and personality psychology, first-generation collegiate belonging, and identity development among diverse student cohorts.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3994,
+    "name": "Dr. Teik C. Lim",
+    "role": "President and Distinguished Professor of Mechanical Engineering",
+    "title": "President and Distinguished Professor of Mechanical Engineering",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.njit.edu",
+    "bio": "Dr. Teik C. Lim serves as President of NJIT, an internationally recognized engineer specializing in structural acoustics, vibro-impact dynamics, and additive manufacturing.",
+    "summary": "Dr. Teik C. Lim serves as President of NJIT, an internationally recognized engineer specializing in structural acoustics, vibro-impact dynamics, and additive manufacturing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3995,
+    "name": "Dr. Haimin Wang",
+    "role": "Distinguished Professor of Physics and Director of Space Weather Research",
+    "title": "Distinguished Professor of Physics and Director of Space Weather Research",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.njit.edu",
+    "bio": "Dr. Haimin Wang directs the Center for Solar-Terrestrial Research and Big Bear Solar Observatory, conducting pioneering investigations into solar flare eruptions and space weather.",
+    "summary": "Dr. Haimin Wang directs the Center for Solar-Terrestrial Research and Big Bear Solar Observatory, conducting pioneering investigations into solar flare eruptions and space weather.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3996,
+    "name": "Dr. Atam P. Dhawan",
+    "role": "Senior Vice Provost for Research and Distinguished Professor of Electrical & Computer Engineering",
+    "title": "Senior Vice Provost for Research and Distinguished Professor of Electrical & Computer Engineering",
+    "university": "New Jersey Institute of Technology",
+    "country": "United States",
+    "department": "Department of Electrical and Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical and Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.njit.edu",
+    "bio": "Dr. Atam Dhawan holds numerous patents in optical medical imaging, point-of-care biophotonics sensors, and artificial intelligence-based pattern recognition for melanoma diagnosis.",
+    "summary": "Dr. Atam Dhawan holds numerous patents in optical medical imaging, point-of-care biophotonics sensors, and artificial intelligence-based pattern recognition for melanoma diagnosis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3997,
+    "name": "Dr. Mahyar Amouzegar",
+    "role": "President of New Mexico Tech",
+    "title": "President of New Mexico Tech",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmt.edu",
+    "bio": "Dr. Mahyar Amouzegar serves as President of New Mexico Tech, an applied operations researcher focusing on energy logistics, national security modeling, and STEM research leadership.",
+    "summary": "Dr. Mahyar Amouzegar serves as President of New Mexico Tech, an applied operations researcher focusing on energy logistics, national security modeling, and STEM research leadership.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3998,
+    "name": "Dr. Van Romero",
+    "role": "Professor of Physics and Vice President of Research",
+    "title": "Professor of Physics and Vice President of Research",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmt.edu",
+    "bio": "Dr. Van Romero is a leading energetic materials physicist who directs advanced blast physics testing, homeland security counter-explosives, and cosmic ray monitoring at EMRTC.",
+    "summary": "Dr. Van Romero is a leading energetic materials physicist who directs advanced blast physics testing, homeland security counter-explosives, and cosmic ray monitoring at EMRTC.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3999,
+    "name": "Dr. Mark Person",
+    "role": "Professor of Hydrology",
+    "title": "Professor of Hydrology",
+    "university": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "department": "Department of Earth and Environmental Science",
+    "subject": "environment",
+    "topics": [
+      "Department of Earth and Environmental Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmt.edu",
+    "bio": "Dr. Mark Person is a renowned hydrogeologist investigating paleohydrology, geothermal fluid flow in deep continental basins, and induced seismicity from wastewater injection.",
+    "summary": "Dr. Mark Person is a renowned hydrogeologist investigating paleohydrology, geothermal fluid flow in deep continental basins, and induced seismicity from wastewater injection.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4000,
+    "name": "Dr. Mónica Torres",
+    "role": "Interim President of New Mexico State University",
+    "title": "Interim President of New Mexico State University",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmsu.edu",
+    "bio": "Dr. Mónica Torres leads NMSU, focusing on land-grant community engagement, Hispanic-Serving Institution educational excellence, and statewide economic development.",
+    "summary": "Dr. Mónica Torres leads NMSU, focusing on land-grant community engagement, Hispanic-Serving Institution educational excellence, and statewide economic development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4001,
+    "name": "Dr. Jason Jackiewicz",
+    "role": "Professor and Department Head of Astronomy",
+    "title": "Professor and Department Head of Astronomy",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "department": "Department of Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Department of Astronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmsu.edu",
+    "bio": "Dr. Jason Jackiewicz is a helioseismologist investigating the internal dynamics of the Sun, solar subsurface flows, asteroseismology, and exoplanet host star magnetic cycles.",
+    "summary": "Dr. Jason Jackiewicz is a helioseismologist investigating the internal dynamics of the Sun, solar subsurface flows, asteroseismology, and exoplanet host star magnetic cycles.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4002,
+    "name": "Dr. Pei Xu",
+    "role": "Professor of Civil Engineering and Water Resources",
+    "title": "Professor of Civil Engineering and Water Resources",
+    "university": "New Mexico State University",
+    "country": "United States",
+    "department": "Department of Civil Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Civil Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmsu.edu",
+    "bio": "Dr. Pei Xu conducts cutting-edge research in membrane separation technologies, desalination of brackish groundwater, and produced water treatment for agricultural reuse.",
+    "summary": "Dr. Pei Xu conducts cutting-edge research in membrane separation technologies, desalination of brackish groundwater, and produced water treatment for agricultural reuse.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4003,
+    "name": "Dr. Anthony W. Crowell",
+    "role": "Dean and President of New York Law School",
+    "title": "Dean and President of New York Law School",
+    "university": "New York Law School",
+    "country": "United States",
+    "department": "Office of the Dean",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Dean"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyls.edu",
+    "bio": "Anthony W. Crowell has served as Dean and President of NYLS since 2012, previously serving as Counselor to New York City Mayor Michael R. Bloomberg.",
+    "summary": "Anthony W. Crowell has served as Dean and President of NYLS since 2012, previously serving as Counselor to New York City Mayor Michael R. Bloomberg.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4004,
+    "name": "Prof. Ari Ezra Waldman",
+    "role": "Professor of Law and Director of the Innovation Center for Law and Technology",
+    "title": "Professor of Law and Director of the Innovation Center for Law and Technology",
+    "university": "New York Law School",
+    "country": "United States",
+    "department": "Innovation Center for Law and Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "Innovation Center for Law and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyls.edu",
+    "bio": "Prof. Ari Ezra Waldman is a nationally acclaimed scholar in technology law, privacy design, algorithmic discrimination, and digital civil liberties.",
+    "summary": "Prof. Ari Ezra Waldman is a nationally acclaimed scholar in technology law, privacy design, algorithmic discrimination, and digital civil liberties.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4005,
+    "name": "Prof. Houman B. Shadab",
+    "role": "Professor of Law and Co-Director of the Center for Business and Financial Law",
+    "title": "Professor of Law and Co-Director of the Center for Business and Financial Law",
+    "university": "New York Law School",
+    "country": "United States",
+    "department": "Center for Financial Services Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Center for Financial Services Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyls.edu",
+    "bio": "Prof. Houman Shadab is a prolific legal scholar specializing in hedge funds, commercial contracts, financial derivatives, and legal technology automation.",
+    "summary": "Prof. Houman Shadab is a prolific legal scholar specializing in hedge funds, commercial contracts, financial derivatives, and legal technology automation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4006,
+    "name": "Dr. Kathleen S. Jagger",
+    "role": "President and Professor of Biology",
+    "title": "President and Professor of Biology",
+    "university": "Newman University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "biology",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newmanu.edu",
+    "bio": "Dr. Kathleen S. Jagger is a microbiologist and public health leader serving as the 12th President of Newman University, championing health sciences workforce development.",
+    "summary": "Dr. Kathleen S. Jagger is a microbiologist and public health leader serving as the 12th President of Newman University, championing health sciences workforce development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4007,
+    "name": "Dr. Lori Steiner",
+    "role": "Dean of the School of Arts and Sciences and Professor of Mathematics",
+    "title": "Dean of the School of Arts and Sciences and Professor of Mathematics",
+    "university": "Newman University",
+    "country": "United States",
+    "department": "School of Arts and Sciences",
+    "subject": "mathematics",
+    "topics": [
+      "School of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newmanu.edu",
+    "bio": "Dr. Lori Steiner directs scientific curriculum innovation, with research addressing statistical modeling, collegiate retention in mathematics, and undergraduate STEM mentorship.",
+    "summary": "Dr. Lori Steiner directs scientific curriculum innovation, with research addressing statistical modeling, collegiate retention in mathematics, and undergraduate STEM mentorship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4008,
+    "name": "Dr. Teresa Wilkerson",
+    "role": "Associate Professor and Director of Adult and Professional Studies",
+    "title": "Associate Professor and Director of Adult and Professional Studies",
+    "university": "Newman University",
+    "country": "United States",
+    "department": "School of Business and Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newmanu.edu",
+    "bio": "Dr. Teresa Wilkerson conducts research in organizational change management, healthcare leadership ethics, and adult degree completion dynamics.",
+    "summary": "Dr. Teresa Wilkerson conducts research in organizational change management, healthcare leadership ethics, and adult degree completion dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4009,
+    "name": "Prof. Strats Mirchev",
+    "role": "President and Founder",
+    "title": "President and Founder",
+    "university": "NewU University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newu.university",
+    "bio": "Prof. Strats Mirchev is an entrepreneur and educational visionary who founded NewU University to address the student debt crisis with accelerated debt-free degree paths.",
+    "summary": "Prof. Strats Mirchev is an entrepreneur and educational visionary who founded NewU University to address the student debt crisis with accelerated debt-free degree paths.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4010,
+    "name": "Prof. Alexander Bozhinov",
+    "role": "Chief Academic Officer and Professor of Computer Science",
+    "title": "Chief Academic Officer and Professor of Computer Science",
+    "university": "NewU University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newu.university",
+    "bio": "Prof. Alexander Bozhinov specializes in cloud microservices, software architecture, and agile pedagogical models for accelerated tech degrees.",
+    "summary": "Prof. Alexander Bozhinov specializes in cloud microservices, software architecture, and agile pedagogical models for accelerated tech degrees.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4011,
+    "name": "Dr. Elena Petrova",
+    "role": "Professor of Applied Data Science",
+    "title": "Professor of Applied Data Science",
+    "university": "NewU University",
+    "country": "United States",
+    "department": "Department of Data Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Data Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newu.university",
+    "bio": "Dr. Elena Petrova conducts research in predictive algorithms, machine learning model evaluation, and computational business analytics.",
+    "summary": "Dr. Elena Petrova conducts research in predictive algorithms, machine learning model evaluation, and computational business analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4012,
+    "name": "Fadl Al Tarzi",
+    "role": "Chief Executive Officer and Founder",
+    "title": "Chief Executive Officer and Founder",
+    "university": "Nexford University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nexford.edu",
+    "bio": "Fadl Al Tarzi is an educational entrepreneur who founded Nexford University to democratize affordable, competency-based American higher education worldwide.",
+    "summary": "Fadl Al Tarzi is an educational entrepreneur who founded Nexford University to democratize affordable, competency-based American higher education worldwide.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4013,
+    "name": "Dr. Sheila Fournier-Bonilla",
+    "role": "Chief Academic Officer",
+    "title": "Chief Academic Officer",
+    "university": "Nexford University",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nexford.edu",
+    "bio": "Dr. Sheila Fournier-Bonilla is an expert in digital pedagogy, competency-based curriculum development, and online higher education accreditation.",
+    "summary": "Dr. Sheila Fournier-Bonilla is an expert in digital pedagogy, competency-based curriculum development, and online higher education accreditation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4014,
+    "name": "Dr. Omid Asgari",
+    "role": "Professor of Business Analytics and Management",
+    "title": "Professor of Business Analytics and Management",
+    "university": "Nexford University",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nexford.edu",
+    "bio": "Dr. Omid Asgari conducts research in organizational agility, artificial intelligence applications in corporate management, and global workforce analytics.",
+    "summary": "Dr. Omid Asgari conducts research in organizational agility, artificial intelligence applications in corporate management, and global workforce analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4015,
+    "name": "Dr. James R. Martin II",
+    "role": "Chancellor of North Carolina A&T State University",
+    "title": "Chancellor of North Carolina A&T State University",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "engineering",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ncat.edu",
+    "bio": "Dr. James R. Martin II serves as the 13th Chancellor of NC A&T, an internationally recognized civil engineer specializing in earthquake engineering and geotechnical infrastructure resilience.",
+    "summary": "Dr. James R. Martin II serves as the 13th Chancellor of NC A&T, an internationally recognized civil engineer specializing in earthquake engineering and geotechnical infrastructure resilience.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4016,
+    "name": "Dr. Jagannathan Sankar",
+    "role": "University Distinguished Professor and Director of the ERC for Revolutionizing Metallic Biomaterials",
+    "title": "University Distinguished Professor and Director of the ERC for Revolutionizing Metallic Biomaterials",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ncat.edu",
+    "bio": "Dr. Jagannathan Sankar is a world-renowned biomaterials pioneer directing the NSF-ERC, inventing biodegradable magnesium alloys and nano-ceramic implants.",
+    "summary": "Dr. Jagannathan Sankar is a world-renowned biomaterials pioneer directing the NSF-ERC, inventing biodegradable magnesium alloys and nano-ceramic implants.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4017,
+    "name": "Dr. Gerry Dozier",
+    "role": "Charles M. Hampton Endowed Professor of Computer Science",
+    "title": "Charles M. Hampton Endowed Professor of Computer Science",
+    "university": "North Carolina A&T State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ncat.edu",
+    "bio": "Dr. Gerry Dozier is an expert in artificial intelligence, evolutionary computation, biometrics security, identity science, and adversarial machine learning.",
+    "summary": "Dr. Gerry Dozier is an expert in artificial intelligence, evolutionary computation, biometrics security, identity science, and adversarial machine learning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4018,
+    "name": "Dr. Karrie G. Dixon",
+    "role": "Chancellor of North Carolina Central University",
+    "title": "Chancellor of North Carolina Central University",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. Karrie G. Dixon serves as the 13th Chancellor of NCCU, bringing extensive leadership in higher education governance, academic program expansion, and student success.",
+    "summary": "Dr. Karrie G. Dixon serves as the 13th Chancellor of NCCU, bringing extensive leadership in higher education governance, academic program expansion, and student success.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4019,
+    "name": "Dr. Deepak Kumar",
+    "role": "Director of BBRI and Professor of Pharmaceutical Sciences",
+    "title": "Director of BBRI and Professor of Pharmaceutical Sciences",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "Julius L. Chambers Biomedical/Biotechnology Research Institute",
+    "subject": "biology",
+    "topics": [
+      "Julius L. Chambers Biomedical/Biotechnology Research Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. Deepak Kumar conducts internationally recognized research in cancer health disparities, prostate cancer molecular genomics, and microRNA diagnostic biomarkers.",
+    "summary": "Dr. Deepak Kumar conducts internationally recognized research in cancer health disparities, prostate cancer molecular genomics, and microRNA diagnostic biomarkers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4020,
+    "name": "Dr. Hernan Navarro",
+    "role": "Director of BRITE and Professor of Medicinal Chemistry",
+    "title": "Director of BRITE and Professor of Medicinal Chemistry",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "Biomanufacturing Research Institute and Technology Enterprise",
+    "subject": "chemistry",
+    "topics": [
+      "Biomanufacturing Research Institute and Technology Enterprise"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. Hernan Navarro is an expert in small-molecule drug discovery, opioid receptor pharmacology, and preclinical high-throughput chemical screening.",
+    "summary": "Dr. Hernan Navarro is an expert in small-molecule drug discovery, opioid receptor pharmacology, and preclinical high-throughput chemical screening.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4021,
+    "name": "Dr. Evan D. Duff",
+    "role": "President of North Carolina Wesleyan University",
+    "title": "President of North Carolina Wesleyan University",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Evan D. Duff has served as President of NC Wesleyan since 2019, overseeing its transition from college to university and expanding healthcare and graduate degrees.",
+    "summary": "Dr. Evan D. Duff has served as President of NC Wesleyan since 2019, overseeing its transition from college to university and expanding healthcare and graduate degrees.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4022,
+    "name": "Dr. Brent Dozier",
+    "role": "Associate Professor of Mathematics and Science",
+    "title": "Associate Professor of Mathematics and Science",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "School of Mathematics and Sciences",
+    "subject": "mathematics",
+    "topics": [
+      "School of Mathematics and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Brent Dozier conducts research in applied statistical modeling, mathematical pedagogy, and undergraduate STEM curriculum design.",
+    "summary": "Dr. Brent Dozier conducts research in applied statistical modeling, mathematical pedagogy, and undergraduate STEM curriculum design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4023,
+    "name": "Dr. Carl R. Lewis",
+    "role": "Professor of Criminal Justice",
+    "title": "Professor of Criminal Justice",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "School of Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Carl Lewis is an expert in juvenile justice reform, criminal law jurisprudence, forensic investigative methodologies, and community policing paradigms.",
+    "summary": "Dr. Carl Lewis is an expert in juvenile justice reform, criminal law jurisprudence, forensic investigative methodologies, and community policing paradigms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4024,
+    "name": "Dr. Scott Hagan",
+    "role": "President of North Central University",
+    "title": "President of North Central University",
+    "university": "North Central University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northcentral.edu",
+    "bio": "Dr. Scott Hagan serves as the 7th President of North Central University, a respected author and speaker addressing organizational leadership and generational ministry.",
+    "summary": "Dr. Scott Hagan serves as the 7th President of North Central University, a respected author and speaker addressing organizational leadership and generational ministry.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4025,
+    "name": "Dr. Allen Tennison",
+    "role": "Dean of the College of Church Leadership and Professor of Theology",
+    "title": "Dean of the College of Church Leadership and Professor of Theology",
+    "university": "North Central University",
+    "country": "United States",
+    "department": "College of Church Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Church Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northcentral.edu",
+    "bio": "Dr. Allen Tennison conducts theological research in Pentecostal history, ecumenical dialogues, historical theology, and biblical pneumatology.",
+    "summary": "Dr. Allen Tennison conducts theological research in Pentecostal history, ecumenical dialogues, historical theology, and biblical pneumatology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4026,
+    "name": "Prof. Larry Bach",
+    "role": "Dean of the College of Fine Arts and Professor of Music",
+    "title": "Dean of the College of Fine Arts and Professor of Music",
+    "university": "North Central University",
+    "country": "United States",
+    "department": "College of Fine Arts",
+    "subject": "arts-design",
+    "topics": [
+      "College of Fine Arts"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northcentral.edu",
+    "bio": "Prof. Larry Bach is an acclaimed choral conductor and music producer who has directed collegiate ensembles across North America and Europe.",
+    "summary": "Prof. Larry Bach is an acclaimed choral conductor and music producer who has directed collegiate ensembles across North America and Europe.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4027,
+    "name": "Dr. David Cook",
+    "role": "President of North Dakota State University",
+    "title": "President of North Dakota State University",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndsu.edu",
+    "bio": "Dr. David Cook serves as the 15th President of NDSU, advancing Carnegie R1 research output, regional agricultural partnerships, and university innovation corridors.",
+    "summary": "Dr. David Cook serves as the 15th President of NDSU, advancing Carnegie R1 research output, regional agricultural partnerships, and university innovation corridors.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4028,
+    "name": "Dr. Dean Webster",
+    "role": "Professor and Department Chair of Coatings and Polymeric Materials",
+    "title": "Professor and Department Chair of Coatings and Polymeric Materials",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "department": "Department of Coatings and Polymeric Materials",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Coatings and Polymeric Materials"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndsu.edu",
+    "bio": "Dr. Dean Webster is a world leader in polymer synthesis, bio-based thermosets, non-toxic marine fouling-release coatings, and high-throughput coating formulation.",
+    "summary": "Dr. Dean Webster is a world leader in polymer synthesis, bio-based thermosets, non-toxic marine fouling-release coatings, and high-throughput coating formulation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4029,
+    "name": "Dr. Leon Schumacher",
+    "role": "Professor and Department Chair of Agricultural and Biosystems Engineering",
+    "title": "Professor and Department Chair of Agricultural and Biosystems Engineering",
+    "university": "North Dakota State University",
+    "country": "United States",
+    "department": "Department of Agricultural and Biosystems Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Agricultural and Biosystems Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndsu.edu",
+    "bio": "Dr. Leon Schumacher is an internationally recognized expert in biofuels engine performance, agricultural equipment safety, and precision ag machine automation.",
+    "summary": "Dr. Leon Schumacher is an internationally recognized expert in biofuels engine performance, agricultural equipment safety, and precision ag machine automation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4030,
+    "name": "Dr. Gregory South",
+    "role": "Interim President of North Idaho College",
+    "title": "Interim President of North Idaho College",
+    "university": "North Idaho College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nic.edu",
+    "bio": "Dr. Gregory South oversees North Idaho College, leading institutional accreditation reaffirmation, regional workforce alignment, and career-technical education.",
+    "summary": "Dr. Gregory South oversees North Idaho College, leading institutional accreditation reaffirmation, regional workforce alignment, and career-technical education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4031,
+    "name": "Dr. Larry Stauffer",
+    "role": "Dean of Instruction and Professor of Technology",
+    "title": "Dean of Instruction and Professor of Technology",
+    "university": "North Idaho College",
+    "country": "United States",
+    "department": "Division of Career and Technical Education",
+    "subject": "engineering",
+    "topics": [
+      "Division of Career and Technical Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nic.edu",
+    "bio": "Dr. Larry Stauffer is an engineering educator specializing in manufacturing engineering, mechatronics curriculum design, and industry apprenticeship pipelines.",
+    "summary": "Dr. Larry Stauffer is an engineering educator specializing in manufacturing engineering, mechatronics curriculum design, and industry apprenticeship pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4032,
+    "name": "Dr. Wendy R. Ruff",
+    "role": "Director of Nursing and Associate Professor",
+    "title": "Director of Nursing and Associate Professor",
+    "university": "North Idaho College",
+    "country": "United States",
+    "department": "Division of Nursing and Health Professions",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing and Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nic.edu",
+    "bio": "Dr. Wendy Ruff leads nursing curriculum quality, with research addressing clinical simulation fidelity, rural hospital clinical rotations, and NCLEX pass rates.",
+    "summary": "Dr. Wendy Ruff leads nursing curriculum quality, with research addressing clinical simulation fidelity, rural hospital clinical rotations, and NCLEX pass rates.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4033,
+    "name": "Dr. Ryan Purdy",
+    "role": "President of Mid-Plains Community College",
+    "title": "President of Mid-Plains Community College",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mpcc.edu",
+    "bio": "Dr. Ryan Purdy serves as President of Mid-Plains Community College, guiding technical education expansions, rail industry partnerships, and rural nursing access.",
+    "summary": "Dr. Ryan Purdy serves as President of Mid-Plains Community College, guiding technical education expansions, rail industry partnerships, and rural nursing access.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4034,
+    "name": "Dr. Jody Tomanek",
+    "role": "Vice President of Academic Affairs",
+    "title": "Vice President of Academic Affairs",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mpcc.edu",
+    "bio": "Dr. Jody Tomanek directs academic curriculum quality, university transfer articulation agreements, and career-technical workforce pathways.",
+    "summary": "Dr. Jody Tomanek directs academic curriculum quality, university transfer articulation agreements, and career-technical workforce pathways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4035,
+    "name": "Prof. Marina Makovicka",
+    "role": "Director of Health Occupations",
+    "title": "Director of Health Occupations",
+    "university": "North Platte Community College",
+    "country": "United States",
+    "department": "Division of Health Occupations",
+    "subject": "biology",
+    "topics": [
+      "Division of Health Occupations"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mpcc.edu",
+    "bio": "Prof. Marina Makovicka oversees nursing and allied health education, focusing on clinical simulation fidelity and rural acute care workforce pipelines.",
+    "summary": "Prof. Marina Makovicka oversees nursing and allied health education, focusing on clinical simulation fidelity and rural acute care workforce pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4036,
+    "name": "Dr. David Campbell",
+    "role": "President of Northeast Alabama Community College",
+    "title": "President of Northeast Alabama Community College",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nacc.edu",
+    "bio": "Dr. David Campbell has served as President of NACC since 2001, guiding the college to multiple top-10 national Aspen Prize rankings for student success and transfer.",
+    "summary": "Dr. David Campbell has served as President of NACC since 2001, guiding the college to multiple top-10 national Aspen Prize rankings for student success and transfer.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4037,
+    "name": "Dr. Myrna Williamson",
+    "role": "Nursing Program Director and Associate Professor",
+    "title": "Nursing Program Director and Associate Professor",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "department": "Division of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nacc.edu",
+    "bio": "Dr. Myrna Williamson leads accredited nursing education with research focusing on clinical simulation competency and NCLEX retention models in rural Alabama.",
+    "summary": "Dr. Myrna Williamson leads accredited nursing education with research focusing on clinical simulation competency and NCLEX retention models in rural Alabama.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4038,
+    "name": "Prof. Mark Kelly",
+    "role": "Dean of Workforce Development and Professor of Technology",
+    "title": "Dean of Workforce Development and Professor of Technology",
+    "university": "Northeast Alabama Community College",
+    "country": "United States",
+    "department": "Division of Workforce Development",
+    "subject": "engineering",
+    "topics": [
+      "Division of Workforce Development"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nacc.edu",
+    "bio": "Prof. Mark Kelly directs regional advanced manufacturing partnerships, the Alabama FAME mechatronics chapter, and industrial automation apprenticeships.",
+    "summary": "Prof. Mark Kelly directs regional advanced manufacturing partnerships, the Alabama FAME mechatronics chapter, and industrial automation apprenticeships.",
     "reviewed": "2026-10-16"
   }
 ];
