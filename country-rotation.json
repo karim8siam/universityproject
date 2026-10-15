@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 35,
+  "cycle": 38,
   "completedInCycle": [
     "canada",
     "australia",
@@ -28,21 +28,21 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "switzerland",
-    "university": "The Royal Academy of Economics and Technology in Switzerland",
-    "sourceRow": 17
+    "university": "FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+    "sourceRow": 1338
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 36,
-    "australia": 35,
-    "germany": 35,
-    "italy": 35,
-    "usa": 35,
-    "uk": 35,
-    "japan": 35,
-    "sweden": 35,
-    "netherlands": 35,
-    "switzerland": 35
+    "canada": 39,
+    "australia": 38,
+    "germany": 38,
+    "italy": 38,
+    "usa": 38,
+    "uk": 38,
+    "japan": 38,
+    "sweden": 38,
+    "netherlands": 38,
+    "switzerland": 38
   },
   "updatedAt": "2026-10-15"
 }
