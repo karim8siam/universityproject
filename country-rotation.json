@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 72,
+  "cycle": 73,
   "completedInCycle": [
     "germany",
     "usa",
@@ -21,18 +21,18 @@
   "nextCountry": "germany",
   "lastPublished": {
     "country": "japan",
-    "university": "Kobe University - Rokkodai Main Campus",
-    "sourceRow": 1801
+    "university": "Sapporo University of Health Sciences",
+    "sourceRow": 1743
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 116,
     "australia": 57,
-    "germany": 166,
+    "germany": 176,
     "italy": 114,
-    "usa": 165,
+    "usa": 175,
     "uk": 100,
-    "japan": 157,
+    "japan": 167,
     "sweden": 56,
     "netherlands": 121,
     "switzerland": 41
