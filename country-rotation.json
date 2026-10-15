@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 60,
+  "cycle": 61,
   "completedInCycle": [
     "canada",
     "germany",
@@ -25,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "University of Groningen (Zernike Campus)",
-    "sourceRow": 1528
+    "university": "Drenthe College (Assen De Haar Campus)",
+    "sourceRow": 1399
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 83,
+    "canada": 87,
     "australia": 57,
-    "germany": 87,
-    "italy": 82,
-    "usa": 88,
-    "uk": 82,
-    "japan": 83,
+    "germany": 92,
+    "italy": 86,
+    "usa": 93,
+    "uk": 86,
+    "japan": 87,
     "sweden": 56,
-    "netherlands": 82,
+    "netherlands": 86,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
