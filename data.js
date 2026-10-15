@@ -201536,6 +201536,5354 @@ export const opportunities=[
     },
     "reviewed": "2026-10-15",
     "status": "Available"
+  },
+{
+    "id": 7516,
+    "title": "Master of Science in Green Energy Systems and Grid Integration",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Advanced technical program focusing on offshore wind power generation, hydrogen synthesis, grid-scale power converters, and high-voltage renewable energy distribution.",
+    "funding": "Tuition-free state education; semester contribution approx €160; BAföG and Deutschlandstipendium eligible",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer Semester) / July 15, 2027 (Winter)",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "Bachelor of Science or Engineering in Electrical, Mechanical, or Energy Engineering (min 2.5 German grade)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Statement of motivation and engineering curriculum vitae",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7517,
+    "title": "Bachelor of Science in Electrical Engineering and Information Technology",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Practice-oriented undergraduate program in automation, embedded microcontrollers, renewable power electronics, and industrial communication systems.",
+    "funding": "No tuition fees; German state social fee approx €150/semester; student public transit semester ticket",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "German Abitur, Fachhochschulreife, or certified international secondary school diploma",
+      "ielts": "TestDaF TDN 4 or DSH-2 for German-taught curriculum",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and pre-study internship documentation",
+      "references": "Secondary school transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7518,
+    "title": "Master of Arts in International Tourism Management",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "English-taught postgraduate curriculum specializing in sustainable coastal tourism development, destination marketing analytics, and ecotourism governance.",
+    "funding": "DAAD study scholarships and Deutschlandstipendium grant support (€300/month)",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "Undergraduate degree in Tourism, Business, or Social Sciences with at least 180 ECTS",
+      "ielts": "IELTS 6.5 or TOEFL iBT 88",
+      "gre": "Not required",
+      "papers": "Letter of intent and career development statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7519,
+    "title": "Bachelor of Science in Business Informatics and Data Analytics",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary degree combining enterprise software architecture, cloud database engineering, cybersecurity compliance, and modern data science.",
+    "funding": "State subsidized study; ERASMUS+ mobility grants for international exchange semesters",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "Higher education entrance qualification (Abitur or equivalent)",
+      "ielts": "German language proficiency B2/C1 level",
+      "gre": "Not required",
+      "papers": "Academic transcript of records and personal statement",
+      "references": "School completion certification"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7520,
+    "title": "FH Westküste Green Hydrogen Transition Graduate Research Fellowship",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary doctoral and master research fellowship exploring electrolysis efficiency, offshore hydrogen pipelines, and regional sector coupling in Dithmarschen.",
+    "funding": "Monthly stipend of €1,450 plus research material allowance funded by state innovation funds",
+    "tuition": "Tuition-free with fellowship support",
+    "fee": "€0 application fee",
+    "deadline": "2026-11-30",
+    "deadlineText": "November 30, 2026",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "Master of Science or high-standing Bachelor thesis in Energy Engineering, Chemistry, or Environmental Sciences",
+      "ielts": "IELTS 6.5 or English B2 certification",
+      "gre": "Not required",
+      "papers": "Research project outline (3-5 pages) and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7521,
+    "title": "Bachelor of Science in Environmental Engineering and Renewable Energies",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Undergraduate specialization in wind energy converter dynamics, solar photovoltaics, climate protection management, and decentralized municipal utilities.",
+    "funding": "Tuition-free German higher education; student welfare contribution only",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "Secondary school leaving qualification with mathematics and science foundation",
+      "ielts": "TestDaF Level 4 or telc Deutsch C1 Hochschule",
+      "gre": "Not required",
+      "papers": "Motivation statement and educational certificates",
+      "references": "Official secondary school transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7522,
+    "title": "FH Westküste Industry Partnership Apprenticeship Grant",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "location": "Heide, Schleswig-Holstein, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Cooperative dual study scholarship sponsored by coastal energy utility firms and wind power developers in Schleswig-Holstein.",
+    "funding": "Corporate monthly salary €1,100 - €1,350 across all semester terms plus guaranteed graduate placement",
+    "tuition": "Fully covered by corporate partner",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.fh-westkueste.de",
+    "requirements": {
+      "gpa": "University entrance qualification with technical aptitude",
+      "ielts": "Fluent German (C1 level) for dual employment",
+      "gre": "Not required",
+      "papers": "Employment application dossier and technical resume",
+      "references": "Academic transcripts and dual training contract"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7523,
+    "title": "Master of Science in Internet Security and Cryptographic Systems",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced technical Master hosted at the renowned Institute for Internet Security, covering penetration testing, secure software architecture, post-quantum cryptography, and network telemetry.",
+    "funding": "Tuition-free state education; NRW public transit ticket included in semester fee",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Bachelor in Computer Science, Business Informatics, or Electrical Engineering (min German grade 2.5)",
+      "ielts": "German DSH-2 or TestDaF 4 for bilingual modules; English B2",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and academic statement of purpose",
+      "references": "Bachelor diploma and transcript of records"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7524,
+    "title": "Master of Science in Biomedical Engineering and Medical Device Technology",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Interdisciplinary graduate curriculum in medical diagnostic sensors, biosignal processing, clinical imaging systems, and international regulatory device compliance.",
+    "funding": "State-funded tuition; eligible for Deutschlandstipendium (€300/mo) and graduate assistantships",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Bachelor of Engineering in Medical Technology, Electrical Engineering, or Mechatronics",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Motivation statement describing engineering background",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7525,
+    "title": "Bachelor of Science in Mechatronics and Autonomous Mobile Systems",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on engineering program focused on industrial robotics, sensor-actuator interfacing, microcomputer programming, and kinematics for autonomous vehicles.",
+    "funding": "Tuition-free German higher education; student social fee covers regional travel and welfare",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "German higher education entrance qualification (Abitur/Fachhochschulreife) or equivalent",
+      "ielts": "Certified German language proficiency (DSH-2 or TestDaF 4)",
+      "gre": "Not required",
+      "papers": "High school graduation transcripts",
+      "references": "School recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7526,
+    "title": "Master of Science in Molecular Biology and Biotechnology",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced research-oriented Master at Campus Recklinghausen exploring cell culture engineering, industrial fermentation, biomolecular diagnostics, and protein biochemistry.",
+    "funding": "State subsidized degree; research lab fellowships funded by regional bio-pharmaceutical partners",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Bachelor of Science in Biology, Biochemistry, or Biotechnology (min 180 ECTS)",
+      "ielts": "IELTS 6.5 or CEFR B2 proof",
+      "gre": "Not required",
+      "papers": "Statement of lab research interest and CV",
+      "references": "One academic reference from undergraduate thesis supervisor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7527,
+    "title": "if(is) Internet Security Doctoral and Graduate Research Fellowship",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied cybersecurity research fellowship investigating AI-driven vulnerability analysis, zero-trust enterprise telecommunications, and darknet threat intelligence.",
+    "funding": "Monthly research grant of €1,600 plus hardware budget and international conference travel stipend",
+    "tuition": "Fully funded fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Master of Science in Computer Science or Cybersecurity with outstanding distinction",
+      "ielts": "Fluent English (IELTS 7.0 or equivalent)",
+      "gre": "Not required",
+      "papers": "Detailed research proposal (up to 5 pages) on secure systems",
+      "references": "Two letters of recommendation from senior cybersecurity academics"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7528,
+    "title": "Bachelor of Arts in International Business and Sustainable Supply Chain Logistics",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Multidisciplinary management program taught at Campus Bocholt focusing on green freight transport, global procurement, circular economy trade, and multinational ERP management.",
+    "funding": "Tuition-free state degree; ERASMUS+ grant support for integrated foreign study semester",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Higher education entrance qualification (Abitur / International Baccalaureate)",
+      "ielts": "English B2 certificate and German language proficiency",
+      "gre": "Not required",
+      "papers": "Motivation letter and secondary school documentation",
+      "references": "Secondary transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7529,
+    "title": "Westphalian Applied Research Excellence Talent Grant",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "location": "Gelsenkirchen, Bocholt & Recklinghausen, North Rhine-Westphalia, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Merit-based university stipend honoring high-achieving engineering, computer science, and life science students demonstrating innovation in industrial transformation.",
+    "funding": "€300 per month for one academic year with option for annual renewal; sponsored by NRW industrial consortium",
+    "tuition": "Tuition-free study",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.w-hs.de",
+    "requirements": {
+      "gpa": "Top 10% academic standing in current semester or exceptional pre-university scores",
+      "ielts": "Proficiency in language of study",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and societal engagement portfolio",
+      "references": "Faculty endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7530,
+    "title": "Bachelor of Creative Technologies in Interactive Media and Game Design",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio-focused curriculum covering real-time 3D asset generation, immersive game engines (Unreal/Unity), interactive storytelling, and spatial computing interfaces.",
+    "funding": "Institutional early-enrolment scholarships and merit tuition fee waivers up to 25%",
+    "tuition": "€9,800 per academic year",
+    "fee": "€50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027 (Winter Intake)",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Secondary school leaving diploma (A-Levels, IB, High School Diploma, or Abitur)",
+      "ielts": "IELTS 6.0 overall with no band below 5.5",
+      "gre": "Not required",
+      "papers": "Design/digital art portfolio (10-15 pieces) and creative intent essay",
+      "references": "One creative or academic mentor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7531,
+    "title": "Master of Fine Arts in Digital Media and Contemporary Visual Practice",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Advanced postgraduate artistic degree in computational generative art, interactive installation design, lens-based digital media, and critical spatial curation.",
+    "funding": "Berlin Creative Innovator Grants and institutional tuition fellowships (€2,000/year)",
+    "tuition": "€11,200 per academic year",
+    "fee": "€50 application fee",
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31, 2027",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Bachelor of Arts or Fine Arts in Design, Visual Arts, or Creative Media",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Comprehensive professional art portfolio and artistic research proposal",
+      "references": "Two letters of recommendation from established arts academics or practitioners"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7532,
+    "title": "Bachelor of Arts in UI/UX Architecture and Human-Computer Interaction",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary program linking product design psychology, accessibility principles, wireframing prototyping, and responsive front-end design systems.",
+    "funding": "Merit-based tuition scholarships for international applicants demonstrating outstanding digital craftsmanship",
+    "tuition": "€9,800 per academic year",
+    "fee": "€50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Recognized secondary school diploma qualifying for university entrance",
+      "ielts": "IELTS 6.0 or equivalent English qualification",
+      "gre": "Not required",
+      "papers": "User experience case study or design portfolio (minimum 5 artifacts)",
+      "references": "School graduation transcript"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7533,
+    "title": "Whitecliffe Berlin Creative Technologist Fellowship",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Residency fellowship for emerging digital artists and creative developers producing experimental installations at the intersection of AI, augmented reality, and sculpture.",
+    "funding": "€1,200 monthly living stipend plus dedicated studio space and equipment fabrication access",
+    "tuition": "Full tuition fee waiver for residency term",
+    "fee": "€0 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Demonstrated professional creative practice or master-level graduation",
+      "ielts": "Fluent English communication",
+      "gre": "Not required",
+      "papers": "Exhibition proposal (3 pages) and digital work portfolio URL",
+      "references": "Two curator or senior creative practitioner recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7534,
+    "title": "Bachelor of Arts in Graphic Design and Digital Brand Communication",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Professional design curriculum preparing creators for global brand identity development, typography systems, dynamic motion graphics, and editorial digital media.",
+    "funding": "Flexible monthly tuition payment plans and corporate agency internship sponsorships",
+    "tuition": "€9,800 per academic year",
+    "fee": "€50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials",
+      "ielts": "IELTS 6.0 or TOEFL iBT 78",
+      "gre": "Not required",
+      "papers": "Curated visual portfolio and motivation essay",
+      "references": "Academic reference letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7535,
+    "title": "Whitecliffe Women in Creative Tech Scholarship",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "type": "Scholarship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Annual scholarship aimed at increasing female and non-binary representation in game engine development, virtual cinematography, and creative software coding.",
+    "funding": "50% tuition reduction across all undergraduate study years",
+    "tuition": "Covers half of annual tuition fees",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://whitecliffe.de",
+    "requirements": {
+      "gpa": "Strong secondary academic performance with demonstrable interest in technology",
+      "ielts": "Meets program entry English standard",
+      "gre": "Not required",
+      "papers": "Essay on diversity in creative technology (750 words) and digital sample works",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7536,
+    "title": "Master of Public Policy (MPP)",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous two-year multidisciplinary graduate program integrating policy analysis, microeconomics, public administration, international conflict resolution, and statistical evaluation.",
+    "funding": "Eligible for DAAD Helmut-Schmidt-Programme (full scholarship with living stipend) and Haniel Foundation grants",
+    "tuition": "€1,600 per semester",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027 (General) / July 31 for EU applicants",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "Bachelor degree in Social Sciences, Humanities, Economics, or Law with above-average grades",
+      "ielts": "IELTS 6.5 (min 6.0 each) or TOEFL iBT 90",
+      "gre": "Optional but recommended for quantitative background evaluation",
+      "papers": "Statement of purpose and public policy essay analyzing a contemporary governance challenge",
+      "references": "Two letters of recommendation (one academic and one professional)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7537,
+    "title": "DAAD Helmut-Schmidt-Programme Public Policy Fellowship",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious full scholarship funded by the German Federal Foreign Office supporting future leaders from developing and emerging countries pursuing the MPP at the Brandt School.",
+    "funding": "Monthly stipend of €934, health insurance, travel allowances, and complete tuition fee coverage",
+    "tuition": "100% tuition coverage",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31, 2027",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "Undergraduate degree with superior academic achievement completed within the last six years",
+      "ielts": "IELTS 6.5 or TOEFL iBT 90",
+      "gre": "Not required",
+      "papers": "Helmut-Schmidt application form, detailed motivation letter, and political/civic engagement record",
+      "references": "Two letters of recommendation from academic supervisors or employers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7538,
+    "title": "Brandt School Certificate in Conflict Management and International Peacebuilding",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced post-baccalaureate credential analyzing peace diplomacy, international criminal tribunals, post-conflict reconciliation, and humanitarian crisis intervention.",
+    "funding": "Institutional fee discounts for professionals working in humanitarian NGOs or public multilateral agencies",
+    "tuition": "€2,400 total certificate tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "Undergraduate degree in Law, Political Science, International Relations, or equivalent",
+      "ielts": "IELTS 6.5 or equivalent English certification",
+      "gre": "Not required",
+      "papers": "Professional resume and personal statement of policy goals",
+      "references": "One professional endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7539,
+    "title": "Haniel Foundation Public Policy and Digital Governance Grant",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Targeted scholarship for students from Central and Eastern Europe demonstrating leadership in open governance, digital public infrastructure, and anti-corruption frameworks.",
+    "funding": "Annual grant of €6,000 contributing towards tuition fees and living expenditures in Erfurt",
+    "tuition": "Direct partial tuition credit",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "Admission to the MPP program with exceptional merit",
+      "ielts": "Meets MPP English standard",
+      "gre": "Not required",
+      "papers": "Dedicated Haniel essay on digital democratic governance",
+      "references": "Academic reference and civic leadership record"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7540,
+    "title": "Doctoral Research Fellowship in Global Public Policy and Sustainable Transition",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "PhD research position embedded in the University of Erfurt Graduate Centre for Social Sciences, investigating democratic resilience and energy policy implementation.",
+    "funding": "TV-L E13 (65% to 75%) German public service research salary approx €2,400/month gross",
+    "tuition": "Tuition-free doctoral education",
+    "fee": "€0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "Master of Public Policy, Political Science, Economics, or related disciplines (min grade 2.0 German equivalent)",
+      "ielts": "IELTS 7.0 or fluent academic English",
+      "gre": "Not required",
+      "papers": "Comprehensive doctoral dissertation research proposal (max 10 pages)",
+      "references": "Two letters of recommendation from university professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7541,
+    "title": "Executive Master of Public Management (EMPM)",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Modular mid-career degree designed for senior civil servants and international development officers, emphasizing evidence-based policymaking, public budget oversight, and strategic crisis management.",
+    "funding": "Sponsorship through employer tuition remissions and German public administration professional development schemes",
+    "tuition": "€3,200 per semester",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.brandtschool.de",
+    "requirements": {
+      "gpa": "University degree and minimum three years of professional leadership experience",
+      "ielts": "Proficiency in English at C1 level",
+      "gre": "Not required",
+      "papers": "Employer endorsement letter and career trajectory statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7542,
+    "title": "Master of Science in Sustainable and Zero-Emission Metallurgy",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "World-leading curriculum in hydrogen-based direct iron reduction, electric arc furnace thermodynamics, secondary slag valorization, and non-ferrous metal recycling.",
+    "funding": "Tuition-free state degree; funded research assistant contracts available directly at ZeHS pilot plants",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Bachelor in Materials Science, Process Engineering, or Metallurgy with minimum 2.5 German grade equivalent",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Statement of motivation highlighting metallurgical interests",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7543,
+    "title": "ZeHS High-Temperature Carbon-Neutral Metallurgy Doctoral Fellowship",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Fully funded 3-year doctoral research position focused on hydrogen plasma smelting, ceramic reactor linings, and molten salt electrochemical reduction.",
+    "funding": "Full TV-L E13 German scientific researcher salary approx €50,000/year gross plus travel funding",
+    "tuition": "Tuition-free doctoral education",
+    "fee": "€0 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Master of Science with high standing in Materials Engineering, Chemistry, or Applied Physics",
+      "ielts": "Fluent English proficiency",
+      "gre": "Not required",
+      "papers": "Master thesis summary and proposed doctoral research focus outline",
+      "references": "Two letters of recommendation from materials science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7544,
+    "title": "Master of Science in Advanced Refractory and High-Performance Ceramics",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Specialized program investigating ultra-high temperature ceramics, thermal shock resistance, carbon-bonded refractories, and composite insulation materials.",
+    "funding": "State-funded university program; industry sponsorships from international refractory manufacturers",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Bachelor degree in Inorganic Chemistry, Materials Science, or Mineralogy",
+      "ielts": "IELTS 6.5 or equivalent",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and academic letter of intent",
+      "references": "Undergraduate transcripts and certificate"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7545,
+    "title": "Master of Science in Circular Economy and Critical Raw Material Recovery",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Multidisciplinary engineering program training specialists to reclaim lithium, cobalt, rare earth elements, and industrial byproducts from discarded batteries and e-waste.",
+    "funding": "State subsidized study; ERASMUS Mundus and DAAD scholarship eligible",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "B.Sc. in Chemical Engineering, Environmental Engineering, or Geosciences",
+      "ielts": "IELTS 6.5 or TOEFL iBT 88",
+      "gre": "Not required",
+      "papers": "Statement of purpose and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7546,
+    "title": "ZeHS Industrial Decarbonization Young Scientist Award",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Competitive annual financial prize and research grant awarded to outstanding master students conducting thesis work on fossil-free chemical processing.",
+    "funding": "€5,000 cash grant and laboratory consumable budget",
+    "tuition": "Applicable alongside tuition-free enrollment",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "Registered student at TU Freiberg with grade average above 1.8 (German scale)",
+      "ielts": "Proficiency in English or German",
+      "gre": "Not required",
+      "papers": "Master thesis synopsis and faculty recommendation",
+      "references": "Letter from ZeHS supervising professor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7547,
+    "title": "Master of Science in Computational Materials Science and Thermodynamics",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced computational degree modeling phase diagrams (CALPHAD), ab initio molecular dynamics, finite element thermal stress, and machine learning alloy design.",
+    "funding": "Tuition-free state higher education; semester fee approx €120 including local transit privileges",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "B.Sc. in Materials Science, Physics, Mathematics, or Computer Science",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Academic transcripts and statement of programming experience",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7548,
+    "title": "ZeHS Postdoctoral Fellowship in High-Temperature Synchrotron Diagnostics",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "location": "Freiberg, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Two-year postdoctoral fellowship conducting in situ X-ray computed tomography and high-temperature phase transition diagnostics of metallic melts.",
+    "funding": "TV-L E14 position (€60,000 - €65,000/year gross) with dedicated synchrotron beamtime access",
+    "tuition": "Fully funded research fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://tu-freiberg.de",
+    "requirements": {
+      "gpa": "PhD in Physics, Materials Science, or Crystallography completed within the last 4 years",
+      "ielts": "Fluent English publication track record",
+      "gre": "Not required",
+      "papers": "List of peer-reviewed publications and 5-page research plan",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7549,
+    "title": "ZSW Perovskite-Silicon Tandem Photovoltaic Doctoral Fellowship",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Three-year doctoral research fellowship in Stuttgart investigating atomic layer deposition, wide-bandgap perovskite top cells, and stability optimization in tandem solar devices.",
+    "funding": "TV-L E13 (75% to 100%) scientific salary (€38,000 - €50,000/year) plus international conference travel",
+    "tuition": "Tuition-free doctoral education via University of Stuttgart",
+    "fee": "€0 application fee",
+    "deadline": "2026-12-31",
+    "deadlineText": "December 31, 2026",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "Master of Science in Physics, Materials Science, or Semiconductor Technology with top grades",
+      "ielts": "IELTS 6.5 or fluent professional English",
+      "gre": "Not required",
+      "papers": "Master thesis abstract, curriculum vitae, and statement of research interests",
+      "references": "Two letters of recommendation from semiconductor physics professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7550,
+    "title": "ZSW Solid-State Lithium Battery Technology Master Thesis Research Fellowship",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Six-month paid master thesis position at the ZSW Laboratory for Battery Technology in Ulm, developing sulfide-based solid electrolytes and scalable roll-to-roll electrode coating.",
+    "funding": "Monthly research stipend of €1,100 plus material and laboratory consumable coverage",
+    "tuition": "Cooperative university thesis program",
+    "fee": "€0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "Enrolled in M.Sc. in Chemistry, Chemical Engineering, or Materials Science",
+      "ielts": "Proficiency in English or German (B2 level)",
+      "gre": "Not required",
+      "papers": "Transcript of records and motivation letter",
+      "references": "Endorsement from home university thesis supervisor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7551,
+    "title": "ZSW Megawatt-Scale Water Electrolysis and Power-to-X Fellowship",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Postgraduate fellowship investigating alkaline and PEM water electrolysis degradation mechanisms, flow field optimization, and direct synthetic fuel synthesis from captured CO2.",
+    "funding": "Full TV-L E13 research salary plus access to ZSW test benches and industrial pilot facilities",
+    "tuition": "Tuition-free fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "Master degree in Chemical Engineering, Mechanical Engineering, or Energy Technology",
+      "ielts": "IELTS 6.5 or equivalent",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and 3-page research vision on green hydrogen systems",
+      "references": "Two academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7552,
+    "title": "ZSW Renewable Energy Systems Analysis and Economics Graduate Grant",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Graduate research award analyzing European grid decarbonization scenarios, renewable energy market designs, and infrastructure transition models for Baden-Württemberg.",
+    "funding": "€1,350 monthly stipend for 12 months with travel support to clean energy symposia",
+    "tuition": "Fully sponsored study grant",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "Degree in Energy Economics, Environmental Engineering, or Applied Mathematics",
+      "ielts": "English B2 or German C1",
+      "gre": "Not required",
+      "papers": "Academic CV, transcripts, and writing sample on energy systems modeling",
+      "references": "One professor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7553,
+    "title": "ZSW Postdoctoral Fellowship in Advanced Operando Battery Characterization",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Two-year postdoctoral appointment in Ulm utilizing operando synchrotron tomography, neutron scattering, and electrochemical impedance spectroscopy to monitor battery degradation.",
+    "funding": "TV-L E14 research fellowship approx €62,000/year gross plus international conference budget",
+    "tuition": "Postdoctoral research position",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "PhD in Electrochemistry, Physical Chemistry, or Materials Physics",
+      "ielts": "Fluent scientific English with high-impact publications",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, complete publication list, and research statement",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7554,
+    "title": "ZSW Clean Mobility Industry Internship and Research Practicum",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "location": "Stuttgart & Ulm, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Cooperative internship grant for engineering students participating in battery pack manufacturing optimization and fuel cell stack benchmarking alongside automotive OEMs.",
+    "funding": "Monthly intern compensation of €1,200 plus corporate housing assistance allowance",
+    "tuition": "Practicum placement",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.zsw-bw.de",
+    "requirements": {
+      "gpa": "Undergraduate or master student in Electrical, Chemical, or Automotive Engineering",
+      "ielts": "Good working knowledge of German or English",
+      "gre": "Not required",
+      "papers": "Cover letter detailing laboratory skills and transcript of grades",
+      "references": "Academic transcript"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7555,
+    "title": "Master of Science in Laser Applications and Optical Engineering",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Advanced engineering program delivered at the world-renowned Laserinstitut Mittweida, covering ultrashort pulsed laser micro-processing, 3D laser metal deposition, and industrial photonics.",
+    "funding": "Tuition-free state higher education; research assistant positions available at Laserinstitut Mittweida",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "Bachelor in Physics, Electrical Engineering, Mechanical Engineering, or Optics (min German grade 2.5)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Statement of motivation and laboratory resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7556,
+    "title": "Master of Science in Blockchain and Distributed Ledger Technologies",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Pioneering German Master taught by the Blockchain Competence Center Mittweida (BCCM), focusing on smart contract security, decentralized finance, zero-knowledge proofs, and sovereign digital identity.",
+    "funding": "State-funded tuition; industry stipends provided by fintech and crypto security partners",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "Bachelor in Computer Science, Mathematics, or Business Informatics",
+      "ielts": "IELTS 6.5 or equivalent English proof",
+      "gre": "Not required",
+      "papers": "Letter of motivation and code repository / project portfolio",
+      "references": "Academic reference letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7557,
+    "title": "Bachelor of Science in IT Forensics and Cybersecurity Investigation",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Specialized program training investigative cyber experts in digital evidence preservation, reverse engineering of malware, criminal network forensics, and legal court compliance.",
+    "funding": "Tuition-free higher education; semester fee approx €95 covering student union welfare",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "Higher education entrance qualification (Abitur or certified equivalent)",
+      "ielts": "German language proficiency (TestDaF 4 or DSH-2)",
+      "gre": "Not required",
+      "papers": "High school graduation certificate and clean police clearance certificate",
+      "references": "Secondary academic transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7558,
+    "title": "Laserinstitut Mittweida High-Power Laser Doctoral Research Fellowship",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Three-year paid doctoral research position investigating femtosecond laser surface functionalization, additive manufacturing of superalloys, and in-situ optical monitoring.",
+    "funding": "Full TV-L E13 research salary (€48,000 - €53,000/year gross) plus laser laboratory consumables",
+    "tuition": "Tuition-free doctoral education",
+    "fee": "€0 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "Master of Science in Optics, Physics, Mechanical Engineering, or Materials Technology",
+      "ielts": "Fluent English or German",
+      "gre": "Not required",
+      "papers": "Research proposal outline and Master thesis executive summary",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7559,
+    "title": "Bachelor of Science in Applied Mathematics and Industrial Data Science",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics"
+    ],
+    "desc": "Applied mathematical degree emphasizing algorithmic optimization, machine learning modeling, scientific simulation, and quantitative finance methods.",
+    "funding": "State subsidized degree; Deutschlandstipendium scholarships (€300/month) awarded annually",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "General or subject-specific higher education entrance qualification with strong mathematics foundation",
+      "ielts": "German proficiency (DSH-2 or TestDaF TDN 4)",
+      "gre": "Not required",
+      "papers": "Educational documentation and CV",
+      "references": "Secondary school transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7560,
+    "title": "Master of Science in Biotechnology and Genomic Diagnostics",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "location": "Mittweida, Saxony, Germany",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Laboratory-intensive degree in molecular genetics, high-throughput sequencing analysis, biosensors, and cell culture technology for pharmaceutical applications.",
+    "funding": "Tuition-free state education; ERASMUS+ exchange semester grants",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.hs-mittweida.de",
+    "requirements": {
+      "gpa": "Bachelor in Biotechnology, Biochemistry, Biology, or Life Sciences (min 180 ECTS)",
+      "ielts": "IELTS 6.0 or German B2/C1 depending on track",
+      "gre": "Not required",
+      "papers": "Motivation letter and laboratory experience portfolio",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7561,
+    "title": "Bachelor of Arts in Sports Science and Physical Education Pedagogy",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive degree preparing educators in motor learning development, sports psychology, sports sociology, and primary/secondary pedagogical instructional design.",
+    "funding": "Tuition-free state higher education; Thuringia student ticket included in semester contribution",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027 (Pre-registration for Sports Aptitude Test: May 15)",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "German Abitur or equivalent and verified passage of the sports aptitude examination",
+      "ielts": "German language proficiency DSH-2 or TestDaF 4",
+      "gre": "Not required",
+      "papers": "Medical fitness certificate for sports participation and personal motivation statement",
+      "references": "Secondary school graduation certificates"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7562,
+    "title": "Master of Education in Sports and Exercise Pedagogy (Regelschule & Gymnasium)",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Postgraduate teacher credential integrating school sports didactic curriculum, movement diagnostics, injury prevention biomechanics, and inclusive physical education.",
+    "funding": "State subsidized teacher education; eligible for federal BAföG stipends",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "Bachelor of Education or Sports Science with verified school practical training (min 180 ECTS)",
+      "ielts": "German C1 level",
+      "gre": "Not required",
+      "papers": "First state examination or Bachelor thesis transcript",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7563,
+    "title": "University Health Management and Preventive Movement Fellowship",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Graduate research fellowship evaluating occupational ergonomic interventions, sedentary workplace mitigation, and cardiovascular biomarkers among university personnel.",
+    "funding": "Monthly stipend of €1,300 supported by Thuringian health insurance consortium",
+    "tuition": "Tuition-free academic fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "Master of Science in Sports Science, Kinesiology, Physiotherapy, or Public Health",
+      "ielts": "German B2/C1 and English B2",
+      "gre": "Not required",
+      "papers": "Research project outline on workplace health interventions",
+      "references": "Faculty supervisor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7564,
+    "title": "Certificate in Kinesiological Movement Analysis and Athletic Rehabilitation",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced postgraduate certificate analyzing 3D motion capture, surface electromyography (EMG), musculoskeletal rehab conditioning, and sports injury recovery.",
+    "funding": "Professional qualification subsidies available via regional sports associations",
+    "tuition": "€1,400 total program tuition",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "Degree in Sports Science, Medicine, Physiotherapy, or related health science",
+      "ielts": "Proficiency in German",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and professional credentials",
+      "references": "Employer or clinical recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7565,
+    "title": "Erfurt Elite Student-Athlete Academic Support Scholarship",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Dual-career scholarship program supporting competitive national and Olympic athletes balancing university degree studies with rigorous training schedules.",
+    "funding": "€300 monthly cash stipend, customized exam scheduling flexibility, and complimentary access to sports medicine facilities",
+    "tuition": "Tuition-free education",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "Enrollment at University of Erfurt and certified national team or federal squad athletic standing (Bundeskader)",
+      "ielts": "Language of enrolled degree program",
+      "gre": "Not required",
+      "papers": "Official federation squad certificate (DOSB/LSB Thüringen) and training plan",
+      "references": "Head coach recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7566,
+    "title": "Bachelor of Arts in Outdoor Education and Health Promotion",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Undergraduate specialization combining environmental pedagogy, adventure recreation management, nature therapy, and ecological sustainability in community sports.",
+    "funding": "Tuition-free state degree; regional excursion equipment and logistics subsidies",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.usv-erfurt.de",
+    "requirements": {
+      "gpa": "Secondary school leaving qualification and university sports fitness exam",
+      "ielts": "German language fluency (TestDaF 4)",
+      "gre": "Not required",
+      "papers": "Motivation statement and first-aid certification",
+      "references": "Secondary transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7567,
+    "title": "Erfurt University Society Doctoral Dissertation Excellence Award",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious annual prize and research subvention honoring outstanding doctoral dissertations completed at the University of Erfurt in the humanities, social sciences, and education.",
+    "funding": "€2,500 prize award plus up to €1,500 open-access publication grant",
+    "tuition": "Cash award",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Completed doctoral thesis evaluated summa cum laude or magna cum laude at University of Erfurt within preceding 18 months",
+      "ielts": "Not required",
+      "gre": "Not required",
+      "papers": "Full doctoral dissertation, external reviewer reports, and curriculum vitae",
+      "references": "Faculty dean or doctoral supervisor nomination letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7568,
+    "title": "Universitätsgesellschaft Erfurt International Student Emergency and Completion Grant",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hardship and graduation completion fund for international bachelor and master students in their final academic semester experiencing unforeseen financial hurdles.",
+    "funding": "One-time stipend up to €1,800 to ensure successful thesis completion and graduation",
+    "tuition": "Direct student financial aid",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027 (Summer) / November 15, 2026 (Winter)",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Enrolled international degree student in final semester of study with good academic standing",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Proof of registered thesis, bank statements demonstrating financial need, and statement of intent",
+      "references": "Academic thesis advisor statement of completion timeline"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7569,
+    "title": "Erfurt Humanities and Cultural Heritage Early-Career Research Fellowship",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "One-year research grant supporting post-master researchers conducting archival investigation into Erfurt’s medieval academic history, humanism, and ecclesiastical reforms.",
+    "funding": "Monthly stipend of €1,400 plus archival travel allowances across central Germany",
+    "tuition": "Fully funded fellowship",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Master of Arts in History, Religious Studies, Philosophy, or Literature with top marks",
+      "ielts": "Proficiency in German and working knowledge of Latin/historical script",
+      "gre": "Not required",
+      "papers": "Detailed research proposal (5 pages) and writing sample",
+      "references": "Two letters of recommendation from university faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7570,
+    "title": "Erfurt Academic Dialogue and Science Communication Grant",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Project funding supporting student and faculty initiatives that communicate university research to civil society, schools, and cultural institutions in Thuringia.",
+    "funding": "Project funding up to €3,000 per approved public science exhibition or conference",
+    "tuition": "Project grant",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Enrolled student group or academic department at University of Erfurt",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Project concept, timeline, and itemized budget calculation",
+      "references": "Faculty endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7571,
+    "title": "Universitätsgesellschaft Erfurt Deutschlandstipendium Co-Sponsorship",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Annual national merit scholarship co-funded by the German Federal Government and Universitätsgesellschaft Erfurt e.V. for high-achieving undergraduate and graduate students.",
+    "funding": "€300 monthly stipend for two semesters (€3,600 total annual support)",
+    "tuition": "Direct non-repayable scholarship",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Top 10% academic performance or high secondary school Abitur grade (1.0 to 1.7)",
+      "ielts": "Language of enrolled program",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, academic transcripts, and record of civic or social volunteer engagement",
+      "references": "High school or university faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7572,
+    "title": "Master Thesis Publication and Open-Access Dissemination Fellowship",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "location": "Erfurt, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Subvention grant helping graduates publish outstanding Master theses as peer-reviewed open-access monographs or academic journal articles.",
+    "funding": "Up to €1,200 towards publisher open-access fees and professional editing services",
+    "tuition": "Dissemination grant",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "requirements": {
+      "gpa": "Master thesis graded 1.3 or higher at University of Erfurt",
+      "ielts": "Proficiency in publication language",
+      "gre": "Not required",
+      "papers": "Publishing contract or acceptance letter from journal, thesis summary, and invoice",
+      "references": "Recommendation by first thesis examiner"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7573,
+    "title": "Master of Science in Communications and Signal Processing",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Internationally accredited English-taught Master at TU Ilmenau specializing in 6G wireless architectures, massive MIMO antenna systems, digital signal processors, and satellite telemetry.",
+    "funding": "Tuition-free state higher education; supported by we4you international scholar onboarding services",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Bachelor of Science in Electrical Engineering, Telecommunications, or Computer Engineering (min 2.5 German grade)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Statement of motivation and academic resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7574,
+    "title": "Master of Science in Micro- and Nanotechnologies",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Advanced curriculum utilizing TU Ilmenau’s cleanroom facilities to investigate semiconductor micro-fabrication, MEMS sensors, quantum nanostructures, and photonic integrated circuits.",
+    "funding": "Tuition-free state education; cleanroom student assistantships available from second semester",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Bachelor in Physics, Materials Science, or Electrical Engineering",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Statement of purpose and complete transcript of records",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7575,
+    "title": "DAAD STIBET International Student Graduation Grant",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Integration and graduation scholarship administered by we4you with DAAD funding for international students successfully finalizing master theses in STEM disciplines.",
+    "funding": "Monthly stipend of €850 for up to five months during the thesis writing phase",
+    "tuition": "Tuition-free education",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "International student registered at TU Ilmenau completing thesis within six months with grade average under 2.3",
+      "ielts": "Language of enrolled program",
+      "gre": "Not required",
+      "papers": "Thesis registration confirmation, bank statements showing financial need, and CV",
+      "references": "Letter of recommendation from thesis supervising professor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7576,
+    "title": "Master of Science in Media Technology and Spatial Audio Engineering",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "World-famous program building on Ilmenau’s legacy as birthplace of the MP3 codec, covering 3D binaural audio reproduction, acoustic virtual reality, psychoacoustics, and real-time audio coding.",
+    "funding": "Tuition-free degree; Fraunhofer IDMT research internship opportunities available locally",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Summer) / July 15, 2027 (Winter)",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Bachelor in Media Technology, Electrical Engineering, or Computer Science",
+      "ielts": "IELTS 6.5 or German DSH-2 depending on chosen tracks",
+      "gre": "Not required",
+      "papers": "Statement of intent and media engineering portfolio",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7577,
+    "title": "TU Ilmenau we4you Peer-Mentorship Leadership Stipend",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Stipend awarded to experienced international master students who serve as peer-mentors, facilitating orientation weeks, intercultural workshops, and academic tutoring for incoming foreign freshmen.",
+    "funding": "€450 monthly allowance for two semesters plus certified intercultural leadership credentials",
+    "tuition": "Tuition-free education",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Enrolled in 2nd semester or higher at TU Ilmenau with strong academic record",
+      "ielts": "Proficiency in English and German (B2 level or higher)",
+      "gre": "Not required",
+      "papers": "Cover letter highlighting intercultural communication experience and resume",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7578,
+    "title": "Master of Science in Research in Computer & Systems Engineering (RCSE)",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Fast-track research-oriented graduate program preparing students for direct doctoral transition in autonomous embedded systems, intelligent robotics, and hardware-software co-design.",
+    "funding": "Tuition-free state higher education; research assistant positions integrated within partner institute laboratories",
+    "tuition": "€0 tuition fee",
+    "fee": "€0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Bachelor of Science in Computer Science, Computer Engineering, or Information Technology with distinction (min 2.0 German scale)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 88",
+      "gre": "Optional but strongly recommended for non-EU applicants",
+      "papers": "Research statement of purpose (2 pages) and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7579,
+    "title": "TU Ilmenau International Doctoral Fellowship in RF Engineering and Wireless Systems",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "location": "Ilmenau, Thuringia, Germany",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Three-year doctoral research fellowship at the Institute for Information Technology investigating millimeter-wave radar, antenna-in-package solutions, and integrated sensing and communication (ISAC).",
+    "funding": "TV-L E13 full-time scientific position (€50,000 - €55,000/year gross) with top-tier RF laboratory access",
+    "tuition": "Tuition-free doctoral education",
+    "fee": "€0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.tu-ilmenau.de",
+    "requirements": {
+      "gpa": "Master of Science in Electrical Engineering, RF Engineering, or Telecommunications",
+      "ielts": "Fluent technical English",
+      "gre": "Not required",
+      "papers": "Master thesis synopsis, peer-reviewed publication list, and research statement",
+      "references": "Two letters of recommendation from senior engineering professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7580,
+    "title": "Master of Science in Nursing (MSN) - Family Nurse Practitioner",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced practice nursing curriculum covering advanced pharmacology, pathophysiological assessment, primary healthcare management, and 500+ supervised clinical practicum hours.",
+    "funding": "Eligible for Federal Direct Graduate PLUS loans, HRSA Nurse Corps loan repayment, and institutional tuition discounts",
+    "tuition": "$650 per credit hour (36 credits total)",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027 (Fall Cohort)",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "BSN degree from an accredited institution with a minimum cumulative GPA of 3.0",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80 for foreign credential holders",
+      "gre": "Not required",
+      "papers": "Professional resume, statement of career goals, and active unencumbered Florida RN license",
+      "references": "Two professional letters of recommendation from nursing supervisors or educators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7581,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Online and on-campus executive management curriculum emphasizing international trade finance, healthcare administration analytics, organizational leadership, and managerial economics.",
+    "funding": "Corporate partnership tuition reductions and private graduate scholarships",
+    "tuition": "$575 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in any field with minimum 2.5 cumulative GPA",
+      "ielts": "TOEFL 70 or IELTS 6.0",
+      "gre": "GMAT/GRE waived based on professional experience",
+      "papers": "Statement of professional purpose and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7582,
+    "title": "Bachelor of Science in Criminal Justice and Forensic Investigation",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive undergraduate degree in constitutional criminal procedure, cybercrime analytics, crime scene evidence handling, and correctional systems administration.",
+    "funding": "Federal Pell Grant, Florida Student Assistance Grant (FSAG), and institutional achievement awards",
+    "tuition": "$525 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "English proficiency evaluation if secondary schooling was outside the US",
+      "gre": "Not required",
+      "papers": "Admissions interview and essay on public safety ethics",
+      "references": "Official academic transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7583,
+    "title": "FNU Hispanic-Serving Community Healthcare Leadership Scholarship",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Endowed institutional scholarship dedicated to bilingual undergraduate and graduate students committed to addressing primary health disparities in South Florida.",
+    "funding": "$3,500 annual tuition credit distributed across academic terms",
+    "tuition": "Direct tuition reduction",
+    "fee": "$0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "Minimum 3.2 GPA in current FNU coursework or incoming high school/transfer GPA",
+      "ielts": "Bilingual proficiency in English and Spanish preferred",
+      "gre": "Not required",
+      "papers": "Essay on community healthcare advocacy in underserved urban communities",
+      "references": "One community leader recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7584,
+    "title": "Bachelor of Science in Information Technology and Network Systems",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied degree covering enterprise cloud architecture, cybersecurity defense fundamentals, database administration, and Cisco network routing protocols.",
+    "funding": "Federal Direct Stafford Loans, FNU military veteran discounts, and institutional grants",
+    "tuition": "$525 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials or Associate of Science degree in technical field",
+      "ielts": "IELTS 6.0 or TOEFL iBT 68",
+      "gre": "Not required",
+      "papers": "Personal statement of technical career goals",
+      "references": "Official high school or collegiate transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7585,
+    "title": "Bachelor of Science in Health Services Administration",
+    "university": "Florida National University",
+    "country": "United States",
+    "location": "Hialeah & Miami, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate professional program in medical billing compliance, healthcare operational management, electronic medical record legalities, and hospital human resources.",
+    "funding": "Eligible for Florida Bright Futures Scholarship and federal student aid packages",
+    "tuition": "$525 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.fnu.edu",
+    "requirements": {
+      "gpa": "Accredited high school diploma or equivalent",
+      "ielts": "English proficiency proof",
+      "gre": "Not required",
+      "papers": "Personal essay and admissions interview",
+      "references": "Academic transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7586,
+    "title": "Bachelor of Science in Marine Biology and Coral Reef Restoration",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Fieldwork-intensive program conducting scientific scuba diving, marine invertebrate physiology, oceanographic water quality analysis, and coral nursery propagation in the Florida Keys.",
+    "funding": "Merit scholarships up to $25,000/year; Florida EASE grant and institutional endowed science awards",
+    "tuition": "$41,900 per academic year",
+    "fee": "$0 application fee (Common App)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Regular Decision) / November 1, 2026 (Early Action)",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "Secondary school GPA minimum 3.2 with solid chemistry and biology coursework",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79 for international students",
+      "gre": "Test-optional (SAT/ACT considered if submitted)",
+      "papers": "Common App personal essay and science interest statement",
+      "references": "One counselor recommendation and one academic teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7587,
+    "title": "Master of Business Administration (MBA) - Healthcare & Supply Chain Management",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited graduate program delivering rigorous training in predictive enterprise analytics, supply chain optimization, strategic healthcare management, and capital budgeting.",
+    "funding": "Graduate assistantships providing partial tuition remission and competitive departmental scholarships",
+    "tuition": "$1,025 per credit hour (33-39 credits total)",
+    "fee": "$40 application fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027 (Fall Intake)",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "Bachelor degree from an accredited institution with cumulative GPA of 3.0 or higher",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "GMAT/GRE optional based on undergraduate GPA or professional experience",
+      "papers": "Personal statement outlining professional goals and current resume",
+      "references": "Two letters of professional or academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7588,
+    "title": "Bachelor of Science in Citrus Science and Agricultural Biotechnology",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Nationally unique specialization in citrus grove management, plant pathology, genetic breeding resistance against Huanglongbing (citrus greening), and post-harvest agribusiness logistics.",
+    "funding": "Florida Citrus Hall of Fame Endowed Scholarships ($5,000/year) and FSC merit tuition awards",
+    "tuition": "$41,900 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "High school graduation with strong performance in biological sciences",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79",
+      "gre": "Not required",
+      "papers": "Personal essay detailing agricultural or life science ambitions",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7589,
+    "title": "Doctor of Physical Therapy (DPT)",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Post-baccalaureate clinical doctorate accredited by CAPTE, focusing on neuromusculoskeletal rehabilitation, cardiopulmonary exercise physiology, clinical anatomy dissection, and 36 weeks of full-time clinical internships.",
+    "funding": "Eligible for Federal Direct Unsubsidized and Graduate PLUS loans; departmental clinical fellowships",
+    "tuition": "$15,500 per semester (8 semesters total)",
+    "fee": "$50 PTCAS application fee",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "Undergraduate degree with minimum 3.0 cumulative and prerequisite science GPA",
+      "ielts": "IELTS 7.0 or TOEFL iBT 90",
+      "gre": "GRE required (verbal, quantitative, and analytical writing)",
+      "papers": "PTCAS personal essay and 50+ hours of verified physical therapy clinical observation",
+      "references": "Three letters of recommendation (including one licensed physical therapist)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7590,
+    "title": "Frank Lloyd Wright Architectural Heritage and Preservation Fellowship",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Research fellowship supporting emerging architectural historians and conservators studying the world’s largest single-site collection of Frank Lloyd Wright structures on the FSC campus.",
+    "funding": "$12,000 research stipend plus on-campus housing and archival access to the FSC Wright Archives",
+    "tuition": "Fellowship research appointment",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "Bachelor or Master of Architecture, Historic Preservation, or Art History",
+      "ielts": "Proficiency in English",
+      "gre": "Not required",
+      "papers": "Curriculum vitae and 4-page research proposal on modern architectural preservation",
+      "references": "Two letters of recommendation from architectural scholars"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7591,
+    "title": "Bachelor of Science in Computer Science and Cybersecurity Architecture",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Undergraduate program covering cryptographic protocols, threat modeling, cloud microservices, operating system kernels, and algorithms.",
+    "funding": "FSC Dean’s and President’s Merit Scholarships ($18,000 - $27,000/year)",
+    "tuition": "$41,900 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "Secondary school GPA 3.3+ with calculus or pre-calculus completion",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Test-optional",
+      "papers": "Common Application personal statement",
+      "references": "Secondary counselor and mathematics teacher evaluations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7592,
+    "title": "FSC George Jenkins Endowed Leadership Scholarship",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "location": "Lakeland, Florida, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious four-year scholarship covering full tuition, room, and board for Florida high school seniors demonstrating entrepreneurial leadership and community service.",
+    "funding": "Full tuition, room, and board valued at over $55,000 annually",
+    "tuition": "100% full scholarship",
+    "fee": "$0 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.flsouthern.edu",
+    "requirements": {
+      "gpa": "High school unweighted GPA of 3.75 or higher",
+      "ielts": "Not applicable (Florida resident requirement)",
+      "gre": "Not required",
+      "papers": "Dedicated Jenkins essay, detailed leadership resume, and on-campus finalist interview",
+      "references": "Two letters of recommendation highlighting character and leadership"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7593,
+    "title": "Ph.D. in High-Energy Experimental and Condensed Matter Physics",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Degree Program",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "World-renowned doctoral training conducting experiments at CERN, the National High Magnetic Field Laboratory (MagLab), and quantum materials synthesis facilities.",
+    "funding": "Full tuition waiver, comprehensive health insurance, and 12-month teaching/research assistantship stipend ($28,000 - $32,000/year)",
+    "tuition": "$0 with graduate assistantship waiver",
+    "fee": "$30 application fee",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027 (Fall Admission)",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "BS or MS in Physics, Materials Science, or Applied Mathematics with GPA 3.3 or higher",
+      "ielts": "IELTS 7.0 or TOEFL iBT 90 for international teaching assistantship certification",
+      "gre": "General and Physics GRE strongly recommended",
+      "papers": "Statement of research interests (2-3 pages) and complete academic CV",
+      "references": "Three letters of recommendation from research physicists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7594,
+    "title": "Master of Fine Arts (MFA) in Film and Television Production",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Ranked among the top film schools globally by The Hollywood Reporter, offering 100% production-funded thesis filmmaking, state-of-the-art sound stages, and Hollywood masterclasses.",
+    "funding": "FSU College of Motion Picture Arts fully finances all student film production budgets; graduate assistantships available",
+    "tuition": "In-state/Out-of-state tuition covered for production fellows",
+    "fee": "$30 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "Undergraduate degree in any discipline with minimum 3.0 GPA",
+      "ielts": "IELTS 7.0 or TOEFL iBT 100",
+      "gre": "Not required",
+      "papers": "Creative writing portfolio, visual sample submission (up to 10 minutes), and personal narrative statement",
+      "references": "Three letters of recommendation evaluating artistic voice and teamwork"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7595,
+    "title": "National High Magnetic Field Laboratory (MagLab) User Research Fellowship",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Prestigious visiting fellowship providing scientists and graduate researchers dedicated magnet time (up to 45 Tesla DC and 100 Tesla pulsed) and technical instrumentation collaboration.",
+    "funding": "Full magnet operating costs covered by NSF grant; travel and lodging subsidies provided for visiting researchers",
+    "tuition": "Research facility award",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027 (Fall Run) / October 15, 2026 (Spring Run)",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "Enrolled doctoral candidate or faculty investigator in physics, chemistry, biology, or engineering",
+      "ielts": "Proficiency in scientific English",
+      "gre": "Not required",
+      "papers": "Formal MagLab peer-reviewed beam/magnet time proposal and safety protocol plan",
+      "references": "Institutional endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7596,
+    "title": "Ph.D. in Criminology and Criminal Justice",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Ranked #1 nationally, the College of Criminology and Criminal Justice delivers advanced training in quantitative crime analysis, penology, juvenile justice policy, and biosocial criminology.",
+    "funding": "Four-year departmental funding package: full tuition waiver plus $24,000 annual research assistantship stipend",
+    "tuition": "$0 with graduate tuition waiver",
+    "fee": "$30 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "Bachelor or Master degree in Criminology, Sociology, Psychology, or Political Science (min 3.3 GPA)",
+      "ielts": "IELTS 7.0 or TOEFL iBT 90",
+      "gre": "GRE required (verbal, quantitative, and analytical writing percentiles assessed)",
+      "papers": "Academic writing sample and statement of research objectives",
+      "references": "Three academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7597,
+    "title": "Master of Science in Oceanography and Marine Geochemistry",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary graduate training in coastal physical oceanography, marine biogeochemical cycles, blue carbon sequestration, and deep-sea benthic exploration in the Gulf of Mexico.",
+    "funding": "Graduate research assistantships funded by NOAA, NSF, and the Gulf of Mexico Research Initiative",
+    "tuition": "$0 with graduate assistantship waiver",
+    "fee": "$30 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "B.Sc. in Chemistry, Geology, Environmental Science, Biology, or Physics",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests identifying prospective faculty research advisors",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7598,
+    "title": "FSU Legacy and Presidential University Fellowship",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Highest graduate fellowship awarded across FSU, providing five years of multi-year financial security for newly matriculating doctoral scholars in cutting-edge computing and engineering.",
+    "funding": "$31,000 annual stipend for five years, 100% tuition waiver, and $1,000 annual research travel grant",
+    "tuition": "Fully funded presidential award",
+    "fee": "$0 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "Nomination by academic department following admission with stellar undergraduate record (top 5%)",
+      "ielts": "IELTS 7.5 or TOEFL iBT 100",
+      "gre": "Competitive GRE scores where required",
+      "papers": "Comprehensive statement of purpose and portfolio of scholarship or technical artifacts",
+      "references": "Three outstanding letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7599,
+    "title": "Juris Doctor (J.D.) in Environmental and International Law",
+    "university": "Florida State University",
+    "country": "United States",
+    "location": "Tallahassee, Florida, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Ranked Florida’s premier public law school, FSU College of Law offers specialized certificates in environmental energy law, constitutional litigation, and appellate advocacy.",
+    "funding": "Merit-based institutional scholarships up to full tuition; Florida Bar Foundation public interest fellowships",
+    "tuition": "$688 per credit hour (in-state) / $1,355 per credit hour (out-of-state)",
+    "fee": "$30 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027 (Priority Deadline)",
+    "source": "https://www.fsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree from an accredited institution (median GPA 3.74)",
+      "ielts": "IELTS 7.5 or TOEFL 100 for foreign-trained students",
+      "gre": "LSAT or GRE accepted (median LSAT 163)",
+      "papers": "LSAC Credential Assembly Service (CAS) report, personal essay, and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7600,
+    "title": "Master of Science in Cybersecurity and Information Assurance",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Designated by the NSA and DHS as a Center of Academic Excellence, this curriculum covers malware reverse engineering, cloud security compliance, incident forensics, and AI-enabled cyber defense.",
+    "funding": "Eligible for DoD Cyber Scholarship Program (CySP) offering full tuition, books, and $27,000 annual stipend",
+    "tuition": "$1,645 per credit hour (30 credits total)",
+    "fee": "$70 application fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027 (Fall Cohort)",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Undergraduate degree in Computer Science, Engineering, Mathematics, or related field (min 3.0 GPA)",
+      "ielts": "IELTS 7.0 or TOEFL iBT 85",
+      "gre": "GRE waived for qualified applicants with technical backgrounds",
+      "papers": "Statement of intent detailing technical objectives and current resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7601,
+    "title": "Master of Science in Quantitative Finance (MSQF)",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Degree Program",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics"
+    ],
+    "desc": "Gabelli School of Business flagship program located at Lincoln Center in Manhattan, training financial engineers in stochastic calculus, algorithmic trading, algorithmic portfolio optimization, and derivatives modeling.",
+    "funding": "Merit-based Dean’s scholarships and Wall Street corporate fellowships covering up to 50% of tuition",
+    "tuition": "$1,875 per credit hour (39 credits total)",
+    "fee": "$100 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027 (International Priority)",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree with heavy quantitative coursework (multivariable calculus, linear algebra, probability)",
+      "ielts": "IELTS 7.0 or TOEFL iBT 100",
+      "gre": "GMAT or GRE required with strong quantitative percentile",
+      "papers": "Professional resume, statement of purpose, and programming portfolio (Python/C++)",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7602,
+    "title": "Juris Doctor (J.D.) in Corporate Law and International Human Rights",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Ranked among the nation’s top law schools, Fordham Law at Lincoln Center offers immersion in corporate restructuring, dispute resolution, public interest advocacy, and international commercial arbitration.",
+    "funding": "Merit scholarships covering up to full tuition; Stein Scholars in Public Interest Law & Ethics fellowships",
+    "tuition": "$71,500 per academic year",
+    "fee": "$0 application fee (fee waiver available via LSAC)",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027 (Regular Decision)",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Bachelor degree from an accredited institution (median GPA 3.75)",
+      "ielts": "IELTS 7.5 or TOEFL 100 for foreign applicants",
+      "gre": "LSAT or GRE accepted (median LSAT 167)",
+      "papers": "LSAC CAS registration, personal statement (2 pages), and optional diversity essay",
+      "references": "Two to three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7603,
+    "title": "Ph.D. in Clinical Psychology and Psychopathology",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "APA-accredited scientist-practitioner doctoral program providing empirical clinical research in affective disorders, cognitive behavior therapy, neuropsychological assessment, and urban community mental health.",
+    "funding": "Five-year funding package guaranteeing full tuition waiver and 9-month graduate assistantship stipend ($25,000/year)",
+    "tuition": "$0 with graduate assistantship waiver",
+    "fee": "$70 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Bachelor or Master in Psychology with minimum 3.5 GPA and undergraduate statistics/experimental psychology",
+      "ielts": "IELTS 7.5 or TOEFL iBT 100",
+      "gre": "GRE General Test optional",
+      "papers": "Statement of research interests aligning with specific faculty lab mentors and CV",
+      "references": "Three letters of recommendation from psychology researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7604,
+    "title": "Fordham Center on Religion and Culture Graduate Fellowship",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Interdisciplinary fellowship supporting graduate researchers examining the role of religious traditions, ethics, and theology in contemporary urban culture, political polarization, and public life.",
+    "funding": "$18,000 annual fellowship stipend plus conference travel funding and research project support",
+    "tuition": "Combined with GSAS tuition waiver",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Matriculated doctoral or master student in Theology, History, Philosophy, or Sociology",
+      "ielts": "Proficiency in academic English",
+      "gre": "Not required",
+      "papers": "3-page research proposal on religion and modern public culture",
+      "references": "Two letters of recommendation from faculty advisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7605,
+    "title": "Master of Science in Applied Health Informatics and Biostatistics",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Interdisciplinary training in electronic health record data mining, epidemiological disease modeling, clinical trial analytics, and healthcare data governance.",
+    "funding": "Departmental tuition merit grants up to $15,000 across program duration",
+    "tuition": "$1,645 per credit hour (30 credits total)",
+    "fee": "$70 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree in Health Sciences, Biology, Computer Science, or Mathematics",
+      "ielts": "IELTS 7.0 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Academic statement of purpose and resume",
+      "references": "Two academic or clinical letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7606,
+    "title": "Fordham Cokie Roberts Fellowship in Women in Media and Journalism",
+    "university": "Fordham University",
+    "country": "United States",
+    "location": "Bronx & Manhattan, New York, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed scholarship supporting female and underrepresented graduate journalists pursuing investigative reporting on American political institutions and social policy.",
+    "funding": "$20,000 tuition grant and professional mentorship network in New York media organizations",
+    "tuition": "Direct tuition grant",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.fordham.edu",
+    "requirements": {
+      "gpa": "Admission to the Master of Arts in Public Media or related communication program",
+      "ielts": "Fluency in English journalism writing",
+      "gre": "Not required",
+      "papers": "Writing clips / published journalistic portfolio and dedicated essay on political reporting",
+      "references": "Two references from editors or media professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7607,
+    "title": "Master of Science in Geosciences - Paleontology and Sedimentology",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Fieldwork-intensive Master utilizing the Sternberg Museum of Natural History fossil collections, focusing on Cretaceous marine reptile systematics, dinosaur biomechanics, and High Plains hydrostratigraphy.",
+    "funding": "Graduate teaching and research assistantships providing full tuition waiver and $10,500 9-month stipend",
+    "tuition": "$315 per credit hour (Kansas in-state / regional Midwest exchange rates available)",
+    "fee": "$40 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Fall Priority)",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "BS in Geosciences, Biology, or Geology with minimum 3.0 GPA in major courses",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests matching Sternberg Museum faculty curatorial focus and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7608,
+    "title": "Master of Science in Cybersecurity and Enterprise Threat Modeling",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense, offering applied instruction in industrial SCADA protection, cloud identity architecture, and zero-day threat analysis.",
+    "funding": "Eligible for DoD Cyber Scholarship Program and FHSU Graduate School academic honors grants",
+    "tuition": "$319 per credit hour (online and on-campus rate)",
+    "fee": "$40 application fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Computing, Networking, Information Assurance, or related field (min 2.75 GPA)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Personal statement outlining cybersecurity career trajectory",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7609,
+    "title": "Bachelor of Science in Agricultural Business and Precision Agronomy",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on curriculum operating on the 3,800-acre FHSU University Farm, teaching drone multispectral crop mapping, dryland soil conservation, cattle feedlot management, and grain commodity marketing.",
+    "funding": "Kansas Farm Bureau scholarships and FHSU Tiger Pride freshman merit awards up to $4,000/year",
+    "tuition": "$5,400 per academic year (Kansas resident) / $15,800 (non-resident)",
+    "fee": "$30 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "High school graduation with 2.25+ GPA or qualifying ACT score",
+      "ielts": "IELTS 6.0 or TOEFL 61 for international students",
+      "gre": "Not required",
+      "papers": "Online application and high school transcripts",
+      "references": "Secondary counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7610,
+    "title": "Sternberg Museum of Natural History Curatorial Research Fellowship",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Graduate fellowship conducting vertebrate fossil preparation, CT scan digital segmentation, and public science curation alongside Sternberg Museum research curators.",
+    "funding": "$12,000 annual research stipend plus full museum laboratory and scanning facilities access",
+    "tuition": "Combined with FHSU graduate tuition waiver",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "Enrolled or admitted to the M.Sc. in Geosciences or Biological Sciences",
+      "ielts": "Proficiency in English",
+      "gre": "Not required",
+      "papers": "Fossil preparation or field experience summary and 2-page research goals statement",
+      "references": "Two letters of recommendation from paleontologists or geoscientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7611,
+    "title": "Master of Business Administration (MBA) - Digital Marketing and Big Data Analytics",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Globally recognized online and on-campus MBA accredited by the Association to Advance Collegiate Schools of Business (AACSB), focusing on strategic decision-making and business analytics.",
+    "funding": "Corporate employer tuition assistance eligible and competitive graduate teaching assistantships",
+    "tuition": "$350 per credit hour (33 credits total)",
+    "fee": "$40 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "Undergraduate degree with cumulative GPA 3.0 or higher",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GMAT/GRE waived for applicants with 3.0+ undergraduate GPA",
+      "papers": "Statement of professional ambitions and professional resume",
+      "references": "Two professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7612,
+    "title": "FHSU President’s Distinguished Scholar Full-Tuition Award",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "location": "Hays, Kansas, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Premier undergraduate scholarship recognizing top incoming freshmen nationwide, providing renewable full tuition support for four consecutive undergraduate years.",
+    "funding": "Full in-state or regional tuition coverage renewed annually with 3.3 GPA maintenance",
+    "tuition": "100% tuition coverage",
+    "fee": "$0 application fee",
+    "deadline": "2026-11-15",
+    "deadlineText": "November 15, 2026",
+    "source": "https://www.fhsu.edu",
+    "requirements": {
+      "gpa": "High school GPA of 3.6 or higher alongside ACT score of 29+ or SAT equivalent",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Scholarship essay on civic leadership in the American Midwest and activity resume",
+      "references": "Two letters of recommendation from high school instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7613,
+    "title": "Master of Science in Animal Science and Small Ruminant Genetics",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Globally recognized graduate training conducted at the Georgia Small Ruminant Research Center, focusing on parasite resistance (Haemonchus contortus), goat milk processing, and reproductive embryology.",
+    "funding": "USDA 1890 Land-Grant graduate research assistantships covering full tuition plus $18,000 annual living stipend",
+    "tuition": "$0 with USDA research fellowship",
+    "fee": "$20 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027 (Fall Priority)",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "BS in Animal Science, Biology, Veterinary Science, or Agriculture with minimum 3.0 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE recommended",
+      "papers": "Statement of research interests focusing on livestock genetics or nutrition",
+      "references": "Three letters of recommendation from animal science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7614,
+    "title": "Master of Science in Biotechnology and Bioenergy Crop Breeding",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced research in molecular genetics, plant tissue culture, CRISPR-Cas9 genome editing in sorghum and canola, and lignocellulosic biofuel feedstock conversion.",
+    "funding": "Full tuition waivers and monthly graduate stipends provided via USDA-NIFA research grants",
+    "tuition": "$0 with funded assistantship",
+    "fee": "$20 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "Bachelor in Biology, Plant Science, Chemistry, or Molecular Biology (min 2.8 GPA)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79",
+      "gre": "Not required",
+      "papers": "Statement of purpose detailing laboratory molecular techniques and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7615,
+    "title": "Bachelor of Science in Veterinary Technology",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "AVMA-accredited four-year degree program providing clinical diagnostic skills, surgical nursing, large and small animal handling, pharmacology, and veterinary hospital management.",
+    "funding": "Georgia HOPE/Zell Miller Scholarships, federal financial aid, and FVSU agriculture endowments",
+    "tuition": "$2,540 per semester (in-state) / $8,940 per semester (out-of-state)",
+    "fee": "$20 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "High school GPA minimum 2.75 with strong foundation in chemistry and biology",
+      "ielts": "Proficiency in English",
+      "gre": "Not required",
+      "papers": "Essay on commitment to veterinary medicine and animal welfare",
+      "references": "Two letters of recommendation (one from a licensed veterinarian preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7616,
+    "title": "USDA 1890 National Scholars Full-Ride Fellowship",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Prestigious federal scholarship supporting students entering agriculture, food sciences, or natural resources, providing full tuition, room, board, and guaranteed summer USDA employment.",
+    "funding": "100% full tuition, fees, room, board, books, and paid summer federal employment with post-graduation career placement",
+    "tuition": "Fully covered four-year scholarship",
+    "fee": "$0 application fee",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "High school senior with minimum 3.0 unweighted GPA or college freshman entering agricultural discipline",
+      "ielts": "US Citizen requirement (USDA federal regulation)",
+      "gre": "Not required",
+      "papers": "Complete USDA 1890 application package, two essays, and leadership resume",
+      "references": "Three letters of recommendation from teachers and community leaders"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7617,
+    "title": "Bachelor of Science in Computer Science and Software Systems",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Undergraduate curriculum covering algorithm analysis, mobile application engineering, cloud database structures, and embedded microcontroller programming.",
+    "funding": "FVSU STEM Achievement Grants and corporate HBCU technology fellowships (Google, Apple, Microsoft partnerships)",
+    "tuition": "$2,540 per semester (in-state)",
+    "fee": "$20 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "High school graduation with 2.5+ GPA and college preparatory mathematics completion",
+      "ielts": "English proficiency evaluation",
+      "gre": "Not required",
+      "papers": "Admissions application and high school transcripts",
+      "references": "High school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7618,
+    "title": "Master of Science in Clinical Rehabilitation Counseling",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "location": "Fort Valley, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-accredited postgraduate degree preparing licensed counselors to support individuals with physical, mental, and developmental disabilities in vocational independence.",
+    "funding": "Rehabilitation Services Administration (RSA) federal long-term training grants providing tuition assistance and monthly stipends",
+    "tuition": "$345 per credit hour",
+    "fee": "$20 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.fvsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Psychology, Education, Social Work, or related field (min 2.7 GPA)",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE optional",
+      "papers": "Personal statement of rehabilitation counseling philosophy and professional resume",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7619,
+    "title": "Master of Science in Family Therapy (COAMFTE-Accredited)",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "COAMFTE-accredited systemic clinical therapy program providing 500 clinical client contact hours, live video supervision, and clinical training in marital conflict, trauma recovery, and family crisis intervention.",
+    "funding": "HRSA Behavioral Health Workforce Education grants and Friends University clinical graduate fellowships",
+    "tuition": "$675 per credit hour (60 credits total)",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Priority Fall Cohort)",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Psychology, Human Services, Sociology, or related discipline with minimum 3.0 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Autobiographical statement analyzing family of origin and relational ethics; group interview",
+      "references": "Three letters of recommendation evaluating psychological maturity and empathy"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7620,
+    "title": "Master of Science in Cyber Security and Threat Mitigation",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous technical program utilizing the cyber defense range, training security architects in penetration testing protocols, enterprise vulnerability management, zero-trust controls, and incident response.",
+    "funding": "Corporate employer tuition reimbursement partnerships and Friends University STEM leadership grants",
+    "tuition": "$655 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Computer Science, Information Technology, or relevant industry experience",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Statement of purpose detailing cybersecurity focus and technical background",
+      "references": "Two professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7621,
+    "title": "Master of Health Care Leadership (MHCL)",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Executive healthcare administration program focusing on healthcare economics, HIPAA regulatory compliance, patient safety metrics, health informatics integration, and ethical clinical governance.",
+    "funding": "Regional hospital network employee discounts and institutional graduate scholarships",
+    "tuition": "$625 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree with minimum 2.75 GPA and healthcare or management experience",
+      "ielts": "Proof of English proficiency",
+      "gre": "Not required",
+      "papers": "Professional resume and leadership philosophy statement",
+      "references": "Two letters of recommendation from healthcare administrators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7622,
+    "title": "Friends University Kansas City Family Therapy Community Clinical Fellowship",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive clinical fellowship providing stipend support for advanced student therapists conducting supervised pro-bono family counseling in underserved Kansas City communities.",
+    "funding": "$6,000 annual clinical stipend plus supervised clinical practicum placement at the Friends Center for Therapy",
+    "tuition": "Direct clinical stipend",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Admitted second-year student in the MS in Family Therapy program",
+      "ielts": "Bilingual Spanish/English preferred",
+      "gre": "Not required",
+      "papers": "Clinical case conceptualization essay and community mental health service proposal",
+      "references": "Two faculty clinical supervisor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7623,
+    "title": "Master of Business Administration (Global Executive Track)",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hybrid executive MBA curriculum combining weekend residencies and online strategy modules in financial engineering, corporate negotiations, supply chain logistics, and business ethics.",
+    "funding": "Executive corporate match programs and Friends University alumni grants",
+    "tuition": "$645 per credit hour",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Business or related area with minimum 2.75 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Resume detailing minimum two years professional work experience and goals essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7624,
+    "title": "Bachelor of Science in Computer Information Systems (Adult Completion)",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "location": "Overland Park, Kansas (Kansas City Metro), United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Accelerated evening and online degree completion program for working professionals transferring associate degrees into enterprise systems engineering and data administration.",
+    "funding": "Pell Grants, employer tuition reimbursement, and Friends adult learner grants ($2,000/year)",
+    "tuition": "$495 per credit hour",
+    "fee": "$0 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.friends.edu",
+    "requirements": {
+      "gpa": "Minimum 24 transferable collegiate credit hours with cumulative GPA 2.0 or higher",
+      "ielts": "English proficiency certification",
+      "gre": "Not required",
+      "papers": "Official transcripts from all prior collegiate institutions and career statement",
+      "references": "One employer or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7625,
+    "title": "Master of Science in Applied Ecology and Conservation Biology",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Field-based graduate degree investigating Appalachian montane biodiversity, freshwater trout stream restoration, wildlife population genetics, and invasive species management.",
+    "funding": "Graduate research and teaching assistantships providing full tuition waiver and $11,000 annual stipend",
+    "tuition": "$485 per credit hour (Maryland in-state) / $615 (out-of-state)",
+    "fee": "$45 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Fall Priority)",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "BS in Biology, Wildlife, Environmental Science, or Ecology with minimum 3.0 GPA",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79",
+      "gre": "GRE recommended for assistantship consideration",
+      "papers": "Statement of research interests identifying prospective faculty advisor",
+      "references": "Three letters of recommendation from science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7626,
+    "title": "Master of Science in Wildlife and Fisheries Management",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Professional curriculum focused on fisheries population dynamics, wildlife habitat GIS spatial modeling, radio telemetry tracking, and state/federal wildlife agency compliance.",
+    "funding": "Funded research assistantships sponsored by Maryland Department of Natural Resources and US Fish and Wildlife Service",
+    "tuition": "$0 with funded research assistantship",
+    "fee": "$45 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "Baccalaureate degree in Wildlife, Forestry, Fisheries, or Zoology with GPA 3.0 or higher",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Personal statement of career goals in wildlife management and curriculum vitae",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7627,
+    "title": "Bachelor of Science in Sustainable Energy and Environmental Engineering",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Collaborative program with University of Maryland College Park, covering wind turbine aerodynamics, photovoltaic system design, geothermal heat pumps, and microgrid power management.",
+    "funding": "Maryland Guaranteed Access Grant, FSU STEM talent scholarships, and regional energy industry stipends",
+    "tuition": "$7,200 per academic year (Maryland resident) / $22,800 (non-resident)",
+    "fee": "$45 application fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "High school GPA minimum 3.0 with solid background in pre-calculus/calculus and physics",
+      "ielts": "English proficiency certification for international applicants",
+      "gre": "Not required",
+      "papers": "Common Application essay and personal statement",
+      "references": "One high school math/science teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7628,
+    "title": "Appalachian Highlands Environmental Research Fellowship",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Summer graduate fellowship conducting ecological field research in Savage River State Forest and Cranesville Swamp, monitoring microclimate changes and endangered bog turtle populations.",
+    "funding": "$5,000 summer stipend, on-site field station lodging, and research equipment allowance",
+    "tuition": "Fellowship award",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "Enrolled in FSU graduate program in Biology, Wildlife, or Environmental Sciences",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "3-page research proposal on Appalachian montane conservation and budget",
+      "references": "Faculty thesis supervisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7629,
+    "title": "Master of Science in Computer Science and Applied Data Analytics",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Graduate program covering distributed cloud architectures, big data mining, parallel computing algorithms, and cyber defense protocols in the Gira Center computing labs.",
+    "funding": "Graduate assistantships providing 100% tuition remission and $9,000 annual stipend",
+    "tuition": "$485 per credit hour",
+    "fee": "$45 application fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "Bachelor in Computer Science, Mathematics, or Engineering (min 3.0 GPA)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7630,
+    "title": "FSU Woodward and Pealer Arts and Sciences Leadership Scholarship",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "location": "Frostburg, Western Maryland, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Endowed scholarship recognizing high-achieving undergraduate students majoring in fine arts, music, theatrical design, or environmental humanities.",
+    "funding": "$4,000 annual scholarship award renewable for up to four undergraduate years",
+    "tuition": "Direct tuition grant",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.frostburg.edu",
+    "requirements": {
+      "gpa": "High school GPA 3.4+ or transfer college GPA 3.2+",
+      "ielts": "Language of enrolled program",
+      "gre": "Not required",
+      "papers": "Artistic portfolio submission (visual arts, recording, or design sketches) and essay",
+      "references": "One creative instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7631,
+    "title": "Bachelor of Science in Pre-Medicine and Biomedical Chemistry",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Rigorous undergraduate curriculum with an 85%+ medical school acceptance rate, featuring synthetic organic chemistry laboratory research, clinical hospital shadowing, and MCAT preparation seminars.",
+    "funding": "Trustee and Presidential Merit Scholarships covering $15,000 to $25,000 annually; Kentucky KEES eligible",
+    "tuition": "$42,500 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Priority Scholarship Deadline)",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "Secondary school unweighted GPA of 3.2 or higher with strong chemistry and biology performance",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79 for international students",
+      "gre": "Test-optional (ACT/SAT optional for scholarship boost)",
+      "papers": "Personal admissions essay detailing healthcare career aspirations",
+      "references": "One high school science teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7632,
+    "title": "Oxford Honors Program Fellowship (Study at University of Oxford)",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Elite undergraduate honors fellowship providing an intensive humanities and science tutorial curriculum at Georgetown College culminating in a funded term of study at the University of Oxford, UK.",
+    "funding": "Full-tuition scholarship covering Georgetown studies plus overseas study airfare and tutorial fees at Oxford",
+    "tuition": "100% full-tuition scholarship",
+    "fee": "$0 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "High school GPA minimum 3.75 and rigorous AP/IB coursework",
+      "ielts": "English proficiency",
+      "gre": "Not required",
+      "papers": "Oxford Honors essay on a classical or philosophical prompt and on-campus interview",
+      "references": "Two academic letters of recommendation from high school instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7633,
+    "title": "Master of Arts in Education - Teacher Leader and Curriculum Design",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Online postgraduate educator degree emphasizing differentiated instructional techniques, trauma-informed classroom pedagogy, educational assessment data analytics, and school leadership.",
+    "funding": "Kentucky teacher tuition discounts and federal TEACH Grant eligibility ($4,000/year)",
+    "tuition": "$435 per credit hour (30 credits total)",
+    "fee": "$0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "Bachelor degree with minimum 2.75 cumulative GPA and active teaching certification",
+      "ielts": "English language fluency",
+      "gre": "Not required",
+      "papers": "Philosophy of education essay and teaching resume",
+      "references": "Two letters of recommendation from school administrators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7634,
+    "title": "Bachelor of Science in Environmental Science and Watershed Stewardship",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary science degree combining field hydrology along the Elkhorn Creek watershed, GIS spatial ecology, environmental policy law, and conservation biology.",
+    "funding": "Endowed Christian environmental stewardship grants and college academic achievement scholarships",
+    "tuition": "$42,500 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "High school diploma with minimum 2.8 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Personal statement on ecological stewardship",
+      "references": "High school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7635,
+    "title": "Georgetown College Christian Leadership and Ministry Endowed Grant",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed grant for undergraduate students demonstrating committed leadership in community ministry, faith-based nonprofit work, and global humanitarian service.",
+    "funding": "$5,000 to $10,000 annual scholarship stackable with academic merit awards",
+    "tuition": "Direct tuition reduction",
+    "fee": "$0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "Secondary school GPA 3.0 or higher",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Christian leadership essay describing personal faith journey and volunteer service",
+      "references": "Letter of recommendation from pastor or community service director"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7636,
+    "title": "Bachelor of Arts in Communication and Digital Media Storytelling",
+    "university": "Georgetown College",
+    "country": "United States",
+    "location": "Georgetown, Kentucky, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Hands-on curriculum in video production, digital podcasting, strategic public relations campaigns, and ethical social media journalism.",
+    "funding": "Departmental talent grants up to $3,500/year plus institutional merit scholarships",
+    "tuition": "$42,500 per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.georgetowncollege.edu",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials with minimum 2.5 GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Personal narrative essay and optional digital media clips",
+      "references": "Academic reference letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7637,
+    "title": "Master of Fine Arts (MFA) in Creative Writing",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Highly competitive and fully funded studio MFA program in fiction, poetry, and creative nonfiction, rooted in the legacy of alumna Flannery O’Connor and home to the renowned journal Arts & Letters.",
+    "funding": "Full tuition waiver and 9-month graduate teaching assistantship stipend ($11,000/year)",
+    "tuition": "$0 with graduate teaching assistantship waiver",
+    "fee": "$40 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Fall Cohort)",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in any discipline with minimum 3.0 GPA",
+      "ielts": "IELTS 7.0 or TOEFL 90 for international applicants",
+      "gre": "Not required",
+      "papers": "Writing portfolio (up to 25 pages of fiction/nonfiction or 10-15 poems) and statement of artistic purpose",
+      "references": "Three letters of recommendation evaluating literary talent and teaching potential"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7638,
+    "title": "Master of Science in Biology - Aquatic Ecology and Limnology",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Field-based graduate program investigating freshwater reservoir limnology, macroinvertebrate bioindicators, microplastic transport in riverine basins, and endemic fish genetics in the Oconee River.",
+    "funding": "Graduate research and teaching assistantships providing full tuition waiver and $10,500 annual stipend",
+    "tuition": "$0 with funded graduate assistantship",
+    "fee": "$40 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "BS in Biology, Environmental Science, or related field with 3.0+ cumulative GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GRE optional",
+      "papers": "Letter of intent detailing specific research interests and prospective faculty mentor agreement",
+      "references": "Three academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7639,
+    "title": "Master of Science in Management Information Systems (MSMIS)",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Ranked among the nation’s top online graduate business computing programs by U.S. News, covering enterprise cloud architecture, cybersecurity management, predictive analytics, and business intelligence.",
+    "funding": "Competitive graduate assistantships and corporate tuition assistance eligibility",
+    "tuition": "$370 per credit hour (30 credits total)",
+    "fee": "$40 application fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree from an accredited institution with minimum 3.0 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GMAT/GRE optional based on undergraduate GPA or work experience",
+      "papers": "Professional resume and statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7640,
+    "title": "Flannery O’Connor Memorial Literary Fellowship",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Prestigious fellowship supporting emerging fiction writers researching Southern Gothic literature and working with original manuscript materials in GCSU’s Special Collections.",
+    "funding": "$14,000 annual living stipend, full tuition remission, and editorial assistantship on Arts & Letters",
+    "tuition": "Full fellowship tuition waiver",
+    "fee": "$0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "Admission to the MFA in Creative Writing program",
+      "ielts": "Flawless English writing proficiency",
+      "gre": "Not required",
+      "papers": "Dedicated essay analyzing the ethical dimensions of Flannery O’Connor’s fiction and creative sample",
+      "references": "Two letters of recommendation from established writers or literature professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7641,
+    "title": "Bachelor of Science in Environmental Science and Coastal Geology",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Undergraduate field science program utilizing the Lake Sinclair Field Station, investigating environmental hydrology, paleoclimatology, wetland restoration, and geological hazard assessment.",
+    "funding": "Georgia HOPE/Zell Miller scholarships for GA residents; GCSU out-of-state tuition fee waivers for high-achieving non-residents",
+    "tuition": "$3,754 per semester (in-state) / $11,100 (out-of-state)",
+    "fee": "$40 application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "High school GPA minimum 3.2 with solid chemistry and mathematics record",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Test-optional",
+      "papers": "Admissions application essay and extracurricular resume",
+      "references": "High school counselor evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7642,
+    "title": "GCSU President’s Scholarship Competition Full-Tuition Award",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Top institutional honor for incoming freshmen, providing four years of full in-state tuition and a $5,000 global study abroad endowment stipend.",
+    "funding": "Full tuition for four years plus $5,000 international study travel grant",
+    "tuition": "100% tuition coverage",
+    "fee": "$0 application fee",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "High school academic unweighted GPA of 3.8 or higher with advanced coursework",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Honors competition essay and participation in on-campus interview weekend",
+      "references": "Two letters of recommendation highlighting scholarship and civic character"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7643,
+    "title": "Master of Arts in Teaching (MAT) - Secondary STEM Education",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "location": "Milledgeville, Georgia, United States",
+    "type": "Degree Program",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics"
+    ],
+    "desc": "Fast-track transition to teaching for STEM graduates, providing pedagogical internships, classroom management seminars, and initial Georgia secondary teacher certification.",
+    "funding": "Georgia HOPE Teacher Scholarship and federal TEACH Grant eligible ($4,000/year)",
+    "tuition": "$325 per credit hour",
+    "fee": "$40 application fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.gcsu.edu",
+    "requirements": {
+      "gpa": "Bachelor degree in Mathematics, Chemistry, Physics, or Biology with minimum 2.75 GPA",
+      "ielts": "English proficiency",
+      "gre": "GACE Program Admission assessment passage",
+      "papers": "Statement of teaching philosophy and criminal background clearance",
+      "references": "Two professional or academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7644,
+    "title": "Doctor of Philosophy in Structural Biology and Supramolecular Medicine",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced doctoral research co-supervised with RIKEN scientists, utilizing 950 MHz NMR and cryo-electron microscopy to resolve atomic structures of membrane receptors and oncogenic protein complexes.",
+    "funding": "MEXT Monbukagakusho University Recommendation Scholarship (¥145,000/month stipend plus full tuition waiver) and YCU Doctoral Research Fellowships",
+    "tuition": "¥535,800 per year (waived for MEXT scholars)",
+    "fee": "¥30,000 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026 (April 2027 Intake) / June 15, 2027 (October Intake)",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Master of Science in Biophysics, Biochemistry, Molecular Biology, or Pharmacy (min 3.2/4.0 GPA)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85",
+      "gre": "Not required",
+      "papers": "Master thesis abstract, curriculum vitae, and 3-page research proposal on macromolecular biophysics",
+      "references": "Two letters of recommendation from research supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7645,
+    "title": "Master of Science in Medical Life Science and Computational Drug Discovery",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "English-taught postgraduate program integrating structural biology, molecular dynamics simulations, AI-driven ligand screening, and peptide chemical synthesis.",
+    "funding": "YCU International Student Tuition Exemption (50% to 100% tuition waiver) and JASSO Honors Scholarships",
+    "tuition": "¥535,800 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor degree in Chemistry, Biology, Physics, or Computer Science",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Statement of purpose and laboratory experience summary",
+      "references": "Undergraduate thesis supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7646,
+    "title": "YCU-RIKEN Joint Structural Biology Research Fellowship",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Competitive visiting fellowship supporting graduate researchers conducting synchrotron beamline experiments and high-throughput fragment screening at the RIKEN-YCU alliance facilities in Tsurumi.",
+    "funding": "Monthly research stipend of ¥180,000 plus dedicated access to cryo-EM instruments and laboratory consumable budget",
+    "tuition": "Fellowship award",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled doctoral candidate in structural chemistry, molecular biophysics, or pharmacology",
+      "ielts": "Fluent scientific English",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, publication record, and joint research plan co-signed by YCU/RIKEN hosts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7647,
+    "title": "Graduate Certificate in Cryo-Electron Microscopy and Biomolecular Modeling",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Specialized technical certificate providing hands-on training in single-particle cryo-EM sample vitrification, high-resolution image processing (RELION/CryoSPARC), and atomic model refinement.",
+    "funding": "Tuition reduction grants for doctoral candidates enrolled in affiliated Japanese medical universities",
+    "tuition": "¥180,000 certificate tuition",
+    "fee": "¥10,000 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor or Master in Life Sciences or Physical Sciences",
+      "ielts": "English or Japanese proficiency",
+      "gre": "Not required",
+      "papers": "Academic transcript and statement of electron microscopy goals",
+      "references": "Faculty recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7648,
+    "title": "YCU Global Medical Innovator Scholarship",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Endowed scholarship for exceptional international postgraduate scholars pursuing cancer immunotherapy and neurodegenerative biomarker discovery at the Tsurumi Campus.",
+    "funding": "¥100,000 monthly living stipend and 100% admission fee waiver",
+    "tuition": "Direct scholarship grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Top 10% academic standing in prior university studies",
+      "ielts": "IELTS 6.5 or TOEFL 85",
+      "gre": "Not required",
+      "papers": "Essay on medical life science contributions to global healthcare and CV",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7649,
+    "title": "Master of Science in Clinical Proteomics and Metabolomics",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Advanced program focused on tandem mass spectrometry, clinical lipidomics, single-cell protein profiling, and disease biomarker validation in human patient cohorts.",
+    "funding": "Japan Student Services Organization (JASSO) grants and Kanagawa Prefecture healthcare research stipends",
+    "tuition": "¥535,800 per year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "B.Sc. in Chemistry, Biochemistry, or Pharmacy",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Statement of purpose detailing analytical chemistry experience",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7650,
+    "title": "YCU Tsurumi Postdoctoral Fellowship in Chemical Epigenetics",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Two-year postdoctoral fellowship investigating histone methyltransferase inhibitors, chromatin remodeling kinetics, and epigenetic drug design targeting leukemia.",
+    "funding": "¥4,800,000 annual research salary plus full institutional lab access and international symposium funding",
+    "tuition": "Postdoctoral research position",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "requirements": {
+      "gpa": "Ph.D. in Chemical Biology, Biochemistry, or Molecular Pharmacology",
+      "ielts": "Fluent scientific English with peer-reviewed publications",
+      "gre": "Not required",
+      "papers": "Publication dossier and 4-page research proposal on epigenetic therapeutics",
+      "references": "Three professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7651,
+    "title": "Bachelor of Commerce in Maritime Logistics and Global Supply Chain Management",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Industry-linked commercial degree covering container terminal operations, maritime insurance, customs clearance law, international freight logistics, and green port decarbonization.",
+    "funding": "Tuition reduction awards (up to 30% reduction for international students) and Port of Yokohama corporate internships",
+    "tuition": "¥1,080,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027 (General Entrance Exam)",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma or certified 12-year primary/secondary education",
+      "ielts": "JLPT N2 or EJU Japanese Language 200+ points",
+      "gre": "Not required",
+      "papers": "Statement of purpose in Japanese (800 characters) and high school transcripts",
+      "references": "Recommendation letter from Japanese language school or secondary principal"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7652,
+    "title": "Bachelor of Commerce in Tourism, Hospitality, and Regional Revitalization",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Practical curriculum analyzing inbound tourism management, destination marketing in Kanagawa, cruise ship hospitality operations, and cultural heritage tourism.",
+    "funding": "Kanagawa Prefecture Inbound Tourism Talent Scholarships and Shodai Founder’s Merit Awards",
+    "tuition": "¥1,080,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "Recognized secondary school diploma",
+      "ielts": "JLPT N2 or equivalent Japanese competence",
+      "gre": "Not required",
+      "papers": "Essay on tourism innovation in the Greater Tokyo Bay area",
+      "references": "Academic transcript and recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7653,
+    "title": "Bachelor of Commerce in Digital Marketing and Information Systems",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied business informatics program teaching e-commerce architecture, consumer behavior data analytics, social media marketing analytics, and web application design.",
+    "funding": "Institutional IT achievement grants and JASSO international student study support",
+    "tuition": "¥1,080,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation with solid mathematics background",
+      "ielts": "JLPT N2 or equivalent",
+      "gre": "Not required",
+      "papers": "Application dossier and personal motivation letter",
+      "references": "School completion certification"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7654,
+    "title": "Shodai International Trade Student Tuition Reduction Scholarship",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Need- and merit-based institutional scholarship offering a 30% reduction in annual tuition fees for privately financed international undergraduate students.",
+    "funding": "30% tuition fee reduction (approx ¥240,000 savings annually) renewable based on academic GPA",
+    "tuition": "Direct tuition waiver",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled undergraduate international student with cumulative GPA 2.5/3.0 or higher",
+      "ielts": "JLPT N2 or higher",
+      "gre": "Not required",
+      "papers": "Financial declaration form and academic progress report",
+      "references": "Faculty advisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7655,
+    "title": "Certificate in Customs Brokerage and International Commercial Trade Law",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized professional certificate preparing students for Japan’s national Customs Broker (Tsūkanshi) examination, covering customs tariffs, quarantine regulations, and bonded warehouse logistics.",
+    "funding": "Cooperative corporate subsidies from Yokohama port warehousing associations",
+    "tuition": "¥150,000 certificate fee",
+    "fee": "¥10,000 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled in or graduated from higher education commerce/law degree",
+      "ielts": "Native or professional Japanese fluency",
+      "gre": "Not required",
+      "papers": "Application form and trade career statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7656,
+    "title": "Bachelor of Commerce in Financial Accounting and Taxation",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "location": "Tsurumi-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Professional curriculum designed for aspiring certified public tax accountants (Zeirishi), covering corporate financial auditing, tax accounting law, and managerial cost accounting.",
+    "funding": "Shodai Accounting Excellence Scholarships covering exam preparatory materials and fees",
+    "tuition": "¥1,080,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.shodai.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma",
+      "ielts": "JLPT N2 for non-native applicants",
+      "gre": "Not required",
+      "papers": "Personal statement on accounting ambitions",
+      "references": "School transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7657,
+    "title": "Bachelor of Science in Nursing and Public Health Care",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Comprehensive four-year clinical curriculum qualifying graduates for both the Japan National Nursing Examination (Kangoshi) and National Public Health Nurse Examination (Hokenshi).",
+    "funding": "Kanagawa Prefecture Nursing Student Loan Funds (tuition loan fully forgiven after five years of designated regional hospital service)",
+    "tuition": "¥1,750,000 per academic year (includes clinical training lab fees)",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation with high achievement in biology and chemistry",
+      "ielts": "Fluent Japanese (JLPT N1 recommended due to national hospital patient care requirements)",
+      "gre": "Not required",
+      "papers": "Medical motivation statement and medical health clearance exam",
+      "references": "High school principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7658,
+    "title": "Bachelor of Arts in Child Education and Developmental Pedagogy",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Dual-credential program certifying students as licensed kindergarten teachers (Yōchiyen Kyōyu) and certified nursery school educators (Hoikushi), focusing on inclusive early childhood care and emotional development.",
+    "funding": "Yokohama City Nursery Teacher Training Grant Programs and Sōei Founder’s Educational Scholarships",
+    "tuition": "¥1,250,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma with 2.8+ GPA equivalent",
+      "ielts": "JLPT N2 or higher for non-native Japanese speakers",
+      "gre": "Not required",
+      "papers": "Essay on child developmental psychology and pedagogical aspirations",
+      "references": "School recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7659,
+    "title": "Graduate Certificate in Pediatric and Neonatal Critical Nursing",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Post-graduate clinical specialization for licensed nurses, focusing on neonatal intensive care unit (NICU) monitoring, pediatric emergency interventions, and family-centered pediatric crisis support.",
+    "funding": "Regional hospital tuition remissions and clinical nurse specialist subventions",
+    "tuition": "¥350,000 certificate fee",
+    "fee": "¥15,000 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "Earned BSN or licensed registered nurse with minimum 2 years pediatric clinical experience",
+      "ielts": "Professional Japanese fluency",
+      "gre": "Not required",
+      "papers": "Clinical case study essay and hospital endorsement letter",
+      "references": "Hospital nursing director recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7660,
+    "title": "Yokohama Sōei Healthcare Leader Merit Scholarship",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Merit scholarship awarded to top-scoring incoming students in the Faculty of Nursing, providing partial tuition relief for academic excellence.",
+    "funding": "¥300,000 annual scholarship award renewable based on clinical and classroom standing",
+    "tuition": "Direct tuition reduction",
+    "fee": "¥0 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "Top 5% score in the general university entrance examination",
+      "ielts": "Native or certified advanced Japanese",
+      "gre": "Not required",
+      "papers": "Application form and academic credentials",
+      "references": "Admissions committee evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7661,
+    "title": "Research Fellowship in Community Geriatric Health and Home-Care Systems",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Applied research fellowship examining integrated community home-care (Chiiki Hōkatsu Care) models for aging urban populations in suburban Kanagawa.",
+    "funding": "¥150,000 monthly research stipend supported by regional municipal healthcare funds",
+    "tuition": "Fellowship appointment",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "Master of Nursing, Public Health, or Medical Sociology",
+      "ielts": "Fluent Japanese for community fieldwork",
+      "gre": "Not required",
+      "papers": "3-page research proposal on community-dwelling elderly health interventions",
+      "references": "Two letters of recommendation from nursing or medical faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7662,
+    "title": "Bachelor of Science in Global Health Care and Intercultural Nursing",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "location": "Midori-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized track examining disaster relief nursing, global infectious disease epidemiology, transcultural medical ethics, and medical English communication for international hospital wards.",
+    "funding": "Institutional study abroad subsidies and global healthcare exchange grants",
+    "tuition": "¥1,750,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.soei.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials",
+      "ielts": "JLPT N2 and English TOEIC 600+ or IELTS 5.5",
+      "gre": "Not required",
+      "papers": "Personal statement on global medical humanitarianism",
+      "references": "High school recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7663,
+    "title": "Bachelor of Fine Arts in Visual Communication Design and Digital Illustration",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio program training professional visual designers in editorial publication design, dynamic typography, digital concept art, brand identity design, and web UI/UX media.",
+    "funding": "Yokohama Art University Merit Scholarships (tuition waiver up to 50%) and Kanagawa art development awards",
+    "tuition": "¥1,690,000 per academic year (includes studio materials fee)",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027 (General Entrance Examination)",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials or equivalent",
+      "ielts": "JLPT N2 or EJU Japanese Language 220+ points for international applicants",
+      "gre": "Not required",
+      "papers": "Artistic portfolio (15-20 original works) and personal artistic statement",
+      "references": "Recommendation letter from art instructor or high school principal"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7664,
+    "title": "Bachelor of Fine Arts in Contemporary Painting and Printmaking",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Rigorous studio curriculum exploring oil painting techniques, contemporary Japanese Nihonga pigment methods, lithography, etching, and large-scale spatial installations.",
+    "funding": "Endowed alumni awards and annual exhibition cash prizes for outstanding graduation pieces",
+    "tuition": "¥1,690,000 per academic year",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma",
+      "ielts": "JLPT N2 or equivalent",
+      "gre": "Not required",
+      "papers": "Portfolio of original drawings, paintings, or prints; on-campus practical drawing exam",
+      "references": "Academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7665,
+    "title": "Bachelor of Arts in Character Modeling, 3D CG, and Animation Media",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Specialized creative technology track teaching 3D character sculpting, digital rigging, stop-motion animation, concept worldbuilding, and video game visual asset production.",
+    "funding": "Industry studio sponsorships (anime and gaming company talent awards) and JASSO scholarships",
+    "tuition": "¥1,690,000 per academic year",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "Recognized secondary school credentials",
+      "ielts": "JLPT N2 for non-native Japanese applicants",
+      "gre": "Not required",
+      "papers": "Digital character sketches, 3D modeling files, or storyboards (10-15 artifacts)",
+      "references": "Teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7666,
+    "title": "Yokohama Emerging Artist Residency and Research Fellowship",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "One-year residency fellowship providing dedicated studio atelier space, material funding, and a solo exhibition at the Yokohama Art University Gallery for emerging artists.",
+    "funding": "¥1,500,000 annual production stipend, free atelier access, and exhibition catalog production budget",
+    "tuition": "Fellowship residency award",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "BFA or MFA in Visual Arts, Fine Arts, Design, or Crafts",
+      "ielts": "Basic working Japanese or English",
+      "gre": "Not required",
+      "papers": "Exhibition proposal (3 pages), artistic statement, and high-resolution portfolio PDF",
+      "references": "Two letters of recommendation from curators or art professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7667,
+    "title": "Bachelor of Fine Arts in Ceramic and Glass Industrial Craft",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio craft program emphasizing traditional Japanese kiln ceramic firing, contemporary vessel design, glassblowing, architectural glass art, and sustainable material fabrication.",
+    "funding": "Craft Guild apprenticeships and institutional material cost subsidization awards",
+    "tuition": "¥1,690,000 per academic year",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school leaving qualification",
+      "ielts": "JLPT N2 for international students",
+      "gre": "Not required",
+      "papers": "Photographic documentation of three-dimensional craft works or ceramic pieces",
+      "references": "Art teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7668,
+    "title": "Yokohama Art University International Student Tuition Relief Grant",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Need-based tuition reduction granting 30% reduction on tuition fees for self-funded international students demonstrating commendable creative dedication.",
+    "funding": "30% tuition fee reduction (approx ¥350,000 annual relief) renewable annually",
+    "tuition": "Direct tuition waiver",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.yokohama-art.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled international degree student with good studio attendance and passing portfolio evaluations",
+      "ielts": "JLPT N2 or higher",
+      "gre": "Not required",
+      "papers": "Income declaration and creative progress report",
+      "references": "Studio faculty advisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7669,
+    "title": "Doctor of Pharmacy (Pharm.D.) - Clinical and Hospital Pharmacy Track (6-Year)",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Accredited six-year professional degree qualifying graduates for the Japan National Pharmacist Examination (Yakuzaishi), featuring clinical hospital rotations, pharmacokinetics, and therapeutics.",
+    "funding": "Hamayaku Special Scholarship Program covering up to ¥1,000,000/year of tuition for top academic performers",
+    "tuition": "¥2,150,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation with high achievement in chemistry, biology, and mathematics",
+      "ielts": "JLPT N1 recommended for clinical hospital practicums",
+      "gre": "Not required",
+      "papers": "Statement of purpose in Japanese and medical fitness certification",
+      "references": "High school principal recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7670,
+    "title": "Bachelor of Pharmaceutical Sciences in Kampo and Natural Medicines (4-Year)",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Japan’s premier academic program in Kampo phytochemistry, isolating bioactive natural products from medicinal herbs, evaluating herbal pharmacognosy, and designing standardized botanical pharmaceuticals.",
+    "funding": "Medicinal Plant Research Grants and Hamayaku Alumni Endowed Scholarships",
+    "tuition": "¥1,550,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma or certified international 12-year education",
+      "ielts": "JLPT N2 or EJU Japanese Language 220+ points",
+      "gre": "Not required",
+      "papers": "Essay on natural medicine and chemical biology",
+      "references": "Science teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7671,
+    "title": "Ph.D. in Pharmaceutical Sciences and Molecular Drug Discovery",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Postgraduate doctoral training in synthetic medicinal chemistry, computer-aided drug design, pharmacokinetic modeling, and biochemical toxicology of novel therapeutics.",
+    "funding": "MEXT Monbukagakusho Scholarships and Hamayaku Graduate Research Fellowships (¥120,000/month)",
+    "tuition": "¥600,000 per academic year (waived for MEXT scholars)",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027 (April Intake)",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "Master of Science in Pharmacy, Chemistry, or Life Sciences (or 6-year Pharm.D. graduate)",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80 or JLPT N2",
+      "gre": "Not required",
+      "papers": "Master thesis summary and 3-page proposed dissertation research plan",
+      "references": "Two letters of recommendation from pharmaceutical science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7672,
+    "title": "Hamayaku Botanical Medicine Research Fellowship",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Visiting research fellowship utilizing the 20,000-square-meter Hamayaku Medicinal Botanical Garden to profile endangered medicinal plant alkaloids and evaluate anti-inflammatory natural extracts.",
+    "funding": "¥1,800,000 annual research stipend plus full access to phytochemistry extraction and chromatography facilities",
+    "tuition": "Fellowship award",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "Doctoral degree or enrolled PhD candidate in Pharmacognosy, Botany, or Natural Product Chemistry",
+      "ielts": "Proficiency in Japanese or English",
+      "gre": "Not required",
+      "papers": "Research proposal on natural plant compound isolation and curriculum vitae",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7673,
+    "title": "Bachelor of Pharmaceutical Sciences in Health Food and Nutritional Pharmacology",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Degree Program",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Four-year program preparing functional food development specialists, analyzing dietary supplement safety, nutraceutical chemistry, gut microbiome pharmacology, and regulatory food law.",
+    "funding": "Nutraceutical industry partner scholarships and JASSO study stipends",
+    "tuition": "¥1,550,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school leaving qualification with biology or chemistry",
+      "ielts": "JLPT N2 or equivalent",
+      "gre": "Not required",
+      "papers": "Personal motivation statement and secondary transcripts",
+      "references": "School principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7674,
+    "title": "Hamayaku International Pharmacist Support Grant",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "location": "Totsuka-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Financial support grant assisting foreign pharmacists preparing for the Japanese Pharmacist Licensure Equivalence evaluation and enrollment into graduate pharmacology programs.",
+    "funding": "¥500,000 one-time educational grant contributing towards entrance and laboratory fees",
+    "tuition": "Direct fee reduction",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.hamayaku.ac.jp",
+    "requirements": {
+      "gpa": "Graduation from foreign accredited pharmacy university",
+      "ielts": "JLPT N1 certification",
+      "gre": "Not required",
+      "papers": "Foreign pharmacist license copy, Ministry of Health evaluation document, and CV",
+      "references": "Two professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7675,
+    "title": "Bachelor of Economics in International Economics and China-Japan Trade",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive four-year dual-degree program covering bilateral tariff policies, cross-border supply chains, Chinese corporate business strategy, and foreign exchange risk management.",
+    "funding": "Shanghai University Overseas Excellence Scholarships (up to 50% tuition reduction) and corporate trade association stipends",
+    "tuition": "¥850,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027 (Spring Intake) / July 31, 2027 (Fall Intake)",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "Secondary school diploma (12-year equivalent) with minimum 2.8 GPA",
+      "ielts": "JLPT N2, HSK Level 4, or English IELTS 6.0",
+      "gre": "Not required",
+      "papers": "Statement of purpose on Sino-Japanese economic cooperation and high school transcripts",
+      "references": "High school teacher or principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7676,
+    "title": "Bachelor of Arts in Chinese Language, Culture, and International Business",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Immersive multilingual degree developing professional trilingual fluency (Mandarin, Japanese, English) alongside diplomatic cross-cultural negotiation and international business ethics.",
+    "funding": "Chinese Government Scholarship (CSC) mobility grants for study terms at the Shanghai Baoshan main campus",
+    "tuition": "¥850,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma",
+      "ielts": "Proof of linguistic aptitude (Japanese, English, or Chinese)",
+      "gre": "Not required",
+      "papers": "Personal narrative essay describing career goals in East Asian diplomacy or commerce",
+      "references": "Academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7677,
+    "title": "Shanghai University Tokyo Belt and Road Cross-Border E-Commerce Fellowship",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Research fellowship for graduate scholars and young professionals investigating cross-border digital platforms (Alibaba, Rakuten), consumer customs clearance, and digital RMB trade settlements.",
+    "funding": "¥1,200,000 annual research grant plus travel funding between Tokyo and Shanghai logistics hubs",
+    "tuition": "Fellowship research grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "Bachelor or Master in Economics, Trade, International Relations, or Data Science",
+      "ielts": "Fluent Mandarin Chinese and Japanese or English",
+      "gre": "Not required",
+      "papers": "4-page research proposal on East Asian digital trade corridors and CV",
+      "references": "Two letters of recommendation from trade scholars"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7678,
+    "title": "Certificate in Sino-Japanese Business Interpretation and Diplomatic Protocol",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Professional post-baccalaureate credential in simultaneous and consecutive interpretation between Mandarin and Japanese for corporate boardrooms and bilateral government delegations.",
+    "funding": "Corporate employee sponsorship tuition discounts from multinational trading corporations",
+    "tuition": "¥280,000 total certificate tuition",
+    "fee": "¥15,000 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "Undergraduate degree in any field with advanced bilingual fluency (HSK 6 and JLPT N1)",
+      "ielts": "Not required",
+      "gre": "Not required",
+      "papers": "Bilingual translation test and admissions oral interview",
+      "references": "One professional recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7679,
+    "title": "Shanghai University Tokyo Campus Global Youth Leadership Award",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit scholarship awarded to top matriculating international students demonstrating exceptional potential in fostering peaceful multilateral relations in the Asia-Pacific region.",
+    "funding": "¥400,000 annual tuition credit distributed across semesters",
+    "tuition": "Direct tuition grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "Secondary school academic average above 85% or 3.4/4.0 GPA",
+      "ielts": "Proficiency in English or Japanese",
+      "gre": "Not required",
+      "papers": "Essay on regional peaceful economic integration and leadership portfolio",
+      "references": "High school teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7680,
+    "title": "Bachelor of Economics in Digital Finance and FinTech in East Asia",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "location": "Shinjuku-ku, Tokyo, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary degree combining algorithmic financial modeling, blockchain settlement in cross-border trade, mobile payments, and regulatory sandbox frameworks in China and Japan.",
+    "funding": "Fintech consortium scholarships and Tokyo campus achievement awards",
+    "tuition": "¥850,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.u-shanghai.jp",
+    "requirements": {
+      "gpa": "Secondary school diploma with high mathematics performance",
+      "ielts": "IELTS 6.0, JLPT N2, or HSK 4",
+      "gre": "Not required",
+      "papers": "Personal statement on digital finance technologies",
+      "references": "Academic transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7681,
+    "title": "Consortium Inter-University Credit Transfer Program in Disaster Reduction and Human Renovation",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary collaborative curriculum co-taught by Kobe University and Hyogo prefectural institutes, analyzing seismic structural engineering, community disaster risk reduction (DRR), and disaster psychology.",
+    "funding": "Tuition-free credit transfer for students matriculated at any of the 45 HKUC member institutions",
+    "tuition": "¥0 inter-university transfer fee",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027 (Spring Term) / September 15, 2027 (Fall Term)",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Enrolled undergraduate or graduate student at an HKUC member university with good academic standing",
+      "ielts": "Japanese or English depending on selected lecture series",
+      "gre": "Not required",
+      "papers": "Consortium registration form approved by home university registrar",
+      "references": "Home university academic advisor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7682,
+    "title": "HKUC Regional Revitalization and Industrial Innovation Fellowship",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Joint graduate research fellowship conducting collaborative projects with Hanshin-Awaji industrial enterprises in robotics, medical devices, biotechnology, and sustainable port transport.",
+    "funding": "¥1,200,000 annual research grant co-funded by Hyogo Prefecture and the Kobe Chamber of Commerce",
+    "tuition": "Fellowship stipend award",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Matriculated master or doctoral student in engineering, economics, or environmental science at a member university",
+      "ielts": "Working proficiency in Japanese",
+      "gre": "Not required",
+      "papers": "Joint industry-academic research proposal (4 pages) endorsed by faculty and corporate partner",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7683,
+    "title": "Consortium Seto Inland Sea Environmental Conservation and Marine Ecology Practicum",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Field marine science course utilizing coastal research vessels, monitoring red tide algal blooms, microplastic distribution, benthic ecosystem biodiversity, and coastal hypoxia in the Seto Inland Sea.",
+    "funding": "Consortium field travel bursaries covering vessel boarding, laboratory sample analysis, and coastal field station lodging",
+    "tuition": "¥0 tuition for member students",
+    "fee": "¥0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Completion of fundamental undergraduate ecology or chemistry courses",
+      "ielts": "Japanese or English proficiency",
+      "gre": "Not required",
+      "papers": "Statement of environmental interest and field safety waiver",
+      "references": "Biology department faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7684,
+    "title": "Hyogo International Student Career Retention and Internship Scholarship",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prefectural scholarship program supporting international students completing internships at leading manufacturing, biomedical, and trading companies based in Hyogo and Kobe.",
+    "funding": "¥60,000 monthly living grant during the internship period plus professional Japanese business etiquette certification",
+    "tuition": "Direct scholarship grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Enrolled international student at an HKUC university entering 3rd/4th year undergraduate or graduate level",
+      "ielts": "JLPT N2 or higher",
+      "gre": "Not required",
+      "papers": "Internship placement application, career statement, and resume",
+      "references": "University career center endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7685,
+    "title": "Consortium Interdisciplinary Biomedical Innovation Seminar and Research Grant",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Collaborative grant enabling graduate medical and engineering students to participate in translational research at the Kobe Biomedical Innovation Cluster (KBIC) on Port Island.",
+    "funding": "¥500,000 laboratory project grant plus seminar residency at the RIKEN Center for Biosystems Dynamics Research in Kobe",
+    "tuition": "Project research grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Enrolled in graduate biomedical, pharmacy, or bioengineering program at an HKUC institution",
+      "ielts": "English or Japanese proficiency",
+      "gre": "Not required",
+      "papers": "Translational biomedical research proposal aligned with KBIC priorities",
+      "references": "Laboratory director recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7686,
+    "title": "Consortium Hanshin Global Peace and Multicultural Coexistence Certificate",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Modular certificate examining immigration policy in Japan, intercultural community mediation, human rights law, and multicultural disaster response coordination.",
+    "funding": "Tuition-free for member students; sponsored by the Hyogo International Association",
+    "tuition": "¥0 fee",
+    "fee": "¥0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://consortium-hyogo.jp",
+    "requirements": {
+      "gpa": "Enrollment at an HKUC member university",
+      "ielts": "Japanese or English proficiency",
+      "gre": "Not required",
+      "papers": "Statement of motivation and course enrollment plan",
+      "references": "Advisor sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7687,
+    "title": "Bachelor of Economics in International Business and Asia-Pacific Trade",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate degree focusing on cross-border logistics in the Kansai region, trade negotiation, foreign exchange risk management, and enterprise marketing in emerging Asian markets.",
+    "funding": "Tsuzuki Educational Foundation International Scholarships offering 20% to 50% tuition reduction",
+    "tuition": "¥980,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027 (General Entrance Examination)",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials (12 years of formal education)",
+      "ielts": "JLPT N2 or EJU Japanese Language 200+ points",
+      "gre": "Not required",
+      "papers": "Statement of purpose in Japanese (800 characters) and high school transcripts",
+      "references": "Recommendation letter from Japanese language institute or high school principal"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7688,
+    "title": "Bachelor of Economics in Fashion Business, Media, and Entertainment Management",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Unique business curriculum exploring apparel merchandising, pop culture intellectual property monetization, digital brand licensing, and entertainment event production in Kobe.",
+    "funding": "Kobe Creative Industry Partner Scholarships and institutional talent awards",
+    "tuition": "¥980,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma",
+      "ielts": "JLPT N2 for non-native Japanese speakers",
+      "gre": "Not required",
+      "papers": "Creative business essay and portfolio of marketing/fashion concepts (optional)",
+      "references": "Academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7689,
+    "title": "Bachelor of Economics in Hotel, Resort, and Luxury Tourism Management",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized program training managers in international luxury hotel operations, inbound cruise ship tourism in Kobe Port, food & beverage cost analytics, and omotenashi hospitality standards.",
+    "funding": "Kansai Hotel Association internships offering paid practical placements alongside degree studies",
+    "tuition": "¥980,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "Recognized secondary school credentials",
+      "ielts": "JLPT N2 or equivalent Japanese competence",
+      "gre": "Not required",
+      "papers": "Personal statement on hospitality leadership",
+      "references": "School principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7690,
+    "title": "JUE Kobe Special Entrepreneurship Incubator Grant",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Seed funding grant and tuition waiver for student founders launching verified e-commerce, trade, or cultural cross-border enterprises during their degree program.",
+    "funding": "Up to ¥500,000 seed venture capital plus 50% tuition reduction during startup incubation year",
+    "tuition": "Direct venture grant and tuition waiver",
+    "fee": "¥0 application fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled student at JUE Kobe Sannomiya with business plan proposal",
+      "ielts": "Japanese or English fluency",
+      "gre": "Not required",
+      "papers": "Complete 10-page business model pitch deck, cash flow projection, and prototype presentation",
+      "references": "Faculty entrepreneurship committee evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7691,
+    "title": "Bachelor of Economics in Digital Commerce and AI-Driven Financial Analytics",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Undergraduate specialization in electronic commerce platforms, mobile payment architectures, algorithmic retail pricing, and business intelligence dashboards.",
+    "funding": "Tsuzuki Foundation IT Talent Scholarships and JASSO Honors Study Grants",
+    "tuition": "¥980,000 per academic year",
+    "fee": "¥20,000 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation with solid mathematical foundation",
+      "ielts": "JLPT N2 or equivalent",
+      "gre": "Not required",
+      "papers": "Application dossier and personal motivation letter",
+      "references": "Academic transcripts"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7692,
+    "title": "JUE International Student Academic Excellence Honor Scholarship",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "location": "Chuo-ku, Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based scholarship rewarding high academic performance among international undergraduate students enrolled at the Kobe Sannomiya Campus.",
+    "funding": "¥300,000 annual scholarship award applied directly against semester tuition fees",
+    "tuition": "Direct tuition waiver",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://shibuya.jue.ac.jp",
+    "requirements": {
+      "gpa": "Cumulative GPA of 3.2/4.0 or top 10% class ranking in prior academic year",
+      "ielts": "JLPT N2 or higher",
+      "gre": "Not required",
+      "papers": "Academic transcript and faculty advisor recommendation form",
+      "references": "Class dean endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7693,
+    "title": "Bachelor of Law in Public Administration and Constitutional Jurisprudence",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive legal education preparing students for national civil service careers, judicial examinations, local government administration, and international public law.",
+    "funding": "TGU Special Honors Entrance Examination Scholarship (full tuition waiver for four years) and Christian Founders Merit Awards",
+    "tuition": "¥1,148,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-22",
+    "deadlineText": "January 22, 2027 (General Entrance Exam)",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "Secondary school graduation credentials with strong social studies performance",
+      "ielts": "JLPT N2 or EJU Japanese Language 220+ points for international applicants",
+      "gre": "Not required",
+      "papers": "Statement of purpose in Japanese and academic transcripts",
+      "references": "High school principal recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7694,
+    "title": "Master of Economics and Regional Data Analytics",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate curriculum combining econometric modeling, geographic information systems (GIS), spatial economics, and demographic policy evaluation for Tohoku regional revitalization.",
+    "funding": "TGU Graduate School Tuition Reduction (50% waiver for international scholars) and Sendai City research stipends",
+    "tuition": "¥680,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027 (Spring Intake)",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor degree in Economics, Business, Mathematics, or Social Sciences (min 2.8 GPA)",
+      "ielts": "JLPT N2 or English IELTS 6.0",
+      "gre": "Not required",
+      "papers": "Undergraduate thesis summary and 3-page research proposal on regional economic analytics",
+      "references": "Two letters of recommendation from university professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7695,
+    "title": "Bachelor of Arts in English Literature and Transcultural Humanities",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Historic humanities program established in 1886, teaching Anglo-American literary history, linguistics, cross-cultural comparative philosophy, and professional translation.",
+    "funding": "TGU International Exchange Scholarships supporting semester study abroad at partner universities in the US, UK, and Canada",
+    "tuition": "¥1,148,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-22",
+    "deadlineText": "January 22, 2027",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "High school graduation diploma",
+      "ielts": "IELTS 6.0, TOEFL iBT 70, or JLPT N2 for non-native applicants",
+      "gre": "Not required",
+      "papers": "English essay on literary analysis or cultural identity",
+      "references": "High school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7696,
+    "title": "Tohoku Gakuin Institute of Christian Culture Research Fellowship",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Visiting research fellowship investigating Meiji-era Christian intellectual history, Protestant educational modernization in Northern Japan, and interfaith humanitarian movements.",
+    "funding": "¥1,400,000 annual research grant plus archival access to the TGU Historical Memorial Archives",
+    "tuition": "Fellowship appointment",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "Master or Doctoral degree in Religious Studies, History, or Philosophy",
+      "ielts": "Proficiency in Japanese and English",
+      "gre": "Not required",
+      "papers": "Archival research proposal (5 pages) and list of academic publications",
+      "references": "Two letters of recommendation from senior humanities scholars"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7697,
+    "title": "Bachelor of Science in Information and Computer Science (Itsutsubashi Campus)",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Degree Program",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Cutting-edge program covering machine learning, computer network protocols, database engineering, and human-computer interface design in the new urban Itsutsubashi campus complex.",
+    "funding": "STEM Innovation Scholarships and corporate internship stipends from Sendai software firms",
+    "tuition": "¥1,580,000 per academic year (includes laboratory fees)",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-22",
+    "deadlineText": "January 22, 2027",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "High school diploma with mathematics and science credentials",
+      "ielts": "JLPT N2 or equivalent",
+      "gre": "Not required",
+      "papers": "Personal statement on computing aspirations",
+      "references": "Mathematics or science teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7698,
+    "title": "TGU Tohoku Recovery and Community Leadership Scholarship",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Special scholarship honoring students actively engaged in post-disaster community rebuilding, regional volunteer leadership, and coastal municipal revitalization in Miyagi Prefecture.",
+    "funding": "¥300,000 annual scholarship award renewable through graduation",
+    "tuition": "Direct tuition grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "Enrolled undergraduate student at TGU with verified community service record",
+      "ielts": "Not applicable",
+      "gre": "Not required",
+      "papers": "Essay describing community rebuilding projects and volunteer leadership verification",
+      "references": "Community organization leader recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7699,
+    "title": "Master of Human Information Engineering and Assistive Technologies",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "location": "Aoba-ku & Wakabayashi-ku, Sendai, Miyagi, Japan",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Interdisciplinary graduate training in sensor-based bioinstrumentation, rehabilitation robotics, acoustic signal processing, and assistive devices for elderly and disabled populations.",
+    "funding": "Tuition reduction waivers and Miyagi industrial collaborative research assistantships",
+    "tuition": "¥750,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor of Engineering, Computer Science, or Physical Sciences",
+      "ielts": "IELTS 6.0 or JLPT N2",
+      "gre": "Not required",
+      "papers": "Statement of research intent and technical resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7700,
+    "title": "Ph.D. in Business Administration and Strategic Global Management (KIMAP in Management)",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "English-taught doctoral program at Japan’s birthplace of business administration, focusing on multinational corporate strategy, behavioral finance, supply chain agility, and organizational sociology.",
+    "funding": "MEXT University Recommendation Scholarships (¥145,000/month stipend plus 100% tuition waiver) and Kobe University Doctoral Research Fellowships",
+    "tuition": "¥535,800 per year (waived for MEXT scholars)",
+    "fee": "¥30,000 application fee",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026 (April 2027 Intake) / June 1, 2027 (October Intake)",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Master of Science, MBA, or Master of Arts in Business, Economics, or related fields with top academic record (min 3.3/4.0 GPA)",
+      "ielts": "IELTS 7.0 or TOEFL iBT 90",
+      "gre": "GMAT or GRE score strongly recommended",
+      "papers": "Master thesis synopsis, comprehensive doctoral research proposal (up to 5 pages), and academic CV",
+      "references": "Two letters of recommendation from business professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7701,
+    "title": "Master of Science in Chemical Science and Advanced Membrane Engineering",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Delivered by the Research Center for Membrane and Film Technology—Japan’s premier membrane research institute—investigating hollow-fiber water desalination, CO2 gas separation polymers, and battery separators.",
+    "funding": "Kobe University Foundation Fellowships and JST CREST research assistantships providing tuition coverage and monthly living stipends",
+    "tuition": "¥535,800 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor of Science or Engineering in Chemical Engineering, Polymer Chemistry, or Materials Science",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "Not required",
+      "papers": "Statement of research interests focusing on membrane separation and CV",
+      "references": "Two letters of recommendation from chemistry or engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7702,
+    "title": "LL.M. in Global Master of Public and International Law (GMAP in Law)",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Flagship English-taught postgraduate law curriculum in international commercial arbitration, WTO trade dispute resolution, law of the sea, and international investment treaty law.",
+    "funding": "Kobe Law School International Scholarships and Japan World Bank Graduate Scholarships",
+    "tuition": "¥535,800 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor of Laws (LL.B.) or equivalent undergraduate degree with high academic standing",
+      "ielts": "IELTS 7.0 or TOEFL iBT 95",
+      "gre": "Not required",
+      "papers": "Legal writing sample and statement of academic purpose",
+      "references": "Two letters of recommendation from law faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7703,
+    "title": "RIKEN-Kobe Supercomputing Computational Science Doctoral Fellowship",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Elite doctoral research fellowship utilizing the world-leading Fugaku supercomputer on Port Island to perform extreme-scale molecular dynamics, climate modeling, and quantum physics simulations.",
+    "funding": "Full government research assistantship (¥200,000/month living stipend) plus dedicated Fugaku compute node allocations and travel grants",
+    "tuition": "Tuition-free doctoral education via MEXT waiver",
+    "fee": "¥0 application fee",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Master of Science in Computer Science, Applied Physics, Computational Chemistry, or Parallel Mathematics",
+      "ielts": "Fluent scientific English",
+      "gre": "Not required",
+      "papers": "Supercomputing research proposal (5 pages) and GitHub/code portfolio demonstration",
+      "references": "Two letters of recommendation from senior computational scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7704,
+    "title": "Master of Arts in International Economics and Development Policy",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Degree Program",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate training in international macroeconomics, development finance, econometric causal inference, and trade policy in developing Southeast Asian economies.",
+    "funding": "Asian Development Bank-Japan Scholarship Program (full tuition, monthly living allowance, and travel costs)",
+    "tuition": "¥535,800 per year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Bachelor degree in Economics or related field with strong quantitative economics foundation",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80",
+      "gre": "GRE recommended for quantitative evaluation",
+      "papers": "Statement of research objectives and academic resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7705,
+    "title": "Kobe University Maritime Sciences and Autonomous Ship Navigation Fellowship",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Graduate fellowship based at the Fukae Campus investigating maritime collision avoidance algorithms, satellite AIS telemetry, and clean hydrogen fuel-cell propulsion for cargo vessels.",
+    "funding": "¥1,500,000 annual research stipend plus full access to the training ship Fukae Maru and navigational simulation suites",
+    "tuition": "Fellowship research grant",
+    "fee": "¥0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "B.Sc. or M.Sc. in Maritime Science, Control Engineering, or Naval Architecture",
+      "ielts": "IELTS 6.5 or equivalent",
+      "gre": "Not required",
+      "papers": "Research outline on autonomous vessel navigation or green marine propulsion",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 7706,
+    "title": "Kobe University President’s Global Pioneer Doctoral Award",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "location": "Nada-ku, Kobe, Hyogo, Japan",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Premier university-wide doctoral honor recognizing incoming PhD scholars in life sciences, offering complete financial freedom for four years of transformative biomedical discovery.",
+    "funding": "¥2,400,000 annual living stipend, 100% tuition remission, and ¥500,000 annual research discretionary fund",
+    "tuition": "Fully funded presidential award",
+    "fee": "¥0 application fee",
+    "deadline": "2026-11-30",
+    "deadlineText": "November 30, 2026",
+    "source": "https://www.kobe-u.ac.jp",
+    "requirements": {
+      "gpa": "Admission to a Kobe University doctoral program with top 3% academic standing",
+      "ielts": "IELTS 7.0 or TOEFL iBT 95",
+      "gre": "Not required",
+      "papers": "Comprehensive dissertation research vision and outstanding master thesis portfolio",
+      "references": "Three letters of recommendation from international research leaders"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];
 export const researchers=[
   {
@@ -252947,4 +258295,1942 @@ export const researchers=[
     "source": "https://www.yashima.ac.jp/univ/faculty/nemoto",
     "recruiting": "Not verified",
     "reviewed": "2026-10-15"
+  },
+{
+    "id": 3307,
+    "name": "Prof. Dr. Oliver Opel",
+    "title": "Professor of Energy Storage and Thermal Process Engineering",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Technology",
+    "subject": "engineering",
+    "topics": [
+      "Aquifer Thermal Energy Storage",
+      "Decarbonized Heating Networks",
+      "Sector Coupling",
+      "Hydrogen Systems"
+    ],
+    "summary": "Prof. Dr. Oliver Opel leads research at the Institute for Green Energy Systems at FH Westküste, specializing in large-scale thermal energy storage, industrial heat decarbonization, and regional multi-energy microgrids.",
+    "source": "https://www.fh-westkueste.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3308,
+    "name": "Prof. Dr. Christian Buchmüller",
+    "title": "Professor of Energy Law and Sustainable Regulatory Frameworks",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "Energy Regulatory Law",
+      "Renewable Energy Siting Policy",
+      "Hydrogen Infrastructure Governance",
+      "European Energy Directives"
+    ],
+    "summary": "Prof. Dr. Christian Buchmüller investigates European and national regulatory instruments governing renewable infrastructure deployment, transmission pipeline permitting, and green hydrogen classification.",
+    "source": "https://www.fh-westkueste.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3309,
+    "name": "Prof. Dr. Anja Wollesen",
+    "title": "Professor of Sustainable Tourism and Destination Management",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Economics & Tourism",
+    "subject": "social-sciences",
+    "topics": [
+      "Coastal Destination Management",
+      "Ecological Tourism Impact",
+      "Visitor Flow Analytics",
+      "Maritime Leisure Economy"
+    ],
+    "summary": "Prof. Dr. Anja Wollesen directs research into sustainable coastal destination strategies, ecological carrying capacity of Wadden Sea heritage sites, and tourism mobility optimization.",
+    "source": "https://www.fh-westkueste.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3310,
+    "name": "Prof. Dr. Reiner Schütt",
+    "title": "Professor of Automation and Wind Power Control Systems",
+    "university": "West Coast University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Technology",
+    "subject": "engineering",
+    "topics": [
+      "Wind Turbine Generator Dynamics",
+      "Power Grid Frequency Stabilization",
+      "Inverter Control Architectures",
+      "Industrial Automation"
+    ],
+    "summary": "Prof. Dr. Reiner Schütt examines advanced pitch and converter control algorithms for multimegawatt wind turbine fleets, focusing on weak-grid ride-through capabilities in the North Sea region.",
+    "source": "https://www.fh-westkueste.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3311,
+    "name": "Prof. Dr. Norbert Pohlmann",
+    "title": "Professor of Distributed Systems and Information Security",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "department": "Department of Computer Science / if(is)",
+    "subject": "computer-science",
+    "topics": [
+      "Zero-Trust Architecture",
+      "Internet Security Analytics",
+      "Blockchain Trust Models",
+      "Identity Management"
+    ],
+    "summary": "Prof. Dr. Norbert Pohlmann is the director of the Institute for Internet Security (if(is)) and member of the German Internet Economy Board, investigating proactive cybersecurity architectures and artificial intelligence in intrusion detection.",
+    "source": "https://www.w-hs.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3312,
+    "name": "Prof. Dr. Marion Halfmann",
+    "title": "Professor of Marketing and Business Strategy",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "department": "Department of Business Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Digital Marketing",
+      "Consumer Behavior Analytics",
+      "Sustainable Business Models",
+      "Cross-Border Commerce"
+    ],
+    "summary": "Prof. Dr. Marion Halfmann conducts empirical investigations into consumer adoption of sustainable products, multichannel retail economics, and brand positioning in digitally disrupted supply markets.",
+    "source": "https://www.w-hs.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3313,
+    "name": "Prof. Dr. Markus Löffler",
+    "title": "Professor of Mechatronics and Drive Systems",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Electric Vehicle Powertrains",
+      "Direct-Drive Motors",
+      "Kinematic Modeling",
+      "Embedded Sensor Systems"
+    ],
+    "summary": "Prof. Dr. Markus Löffler directs research in energy-efficient electric drives, motor control algorithms for industrial automation, and lightweight actuator design for mobile service robotics.",
+    "source": "https://www.w-hs.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3314,
+    "name": "Prof. Dr. Frank Eiden",
+    "title": "Professor of Bioprocess Engineering and Industrial Microbiology",
+    "university": "Westphalian Technical College",
+    "country": "Germany",
+    "department": "Department of Applied Natural Sciences (Campus Recklinghausen)",
+    "subject": "biology",
+    "topics": [
+      "Microbial Bioprocess Engineering",
+      "Industrial Fermentation",
+      "Enzyme Technology",
+      "Bioresource Valorization"
+    ],
+    "summary": "Prof. Dr. Frank Eiden leads the Bioprocess Engineering Laboratory at Campus Recklinghausen, developing recombinant microbial cell factories and scalable bioreactors for value-added biochemical production.",
+    "source": "https://www.w-hs.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3315,
+    "name": "Prof. Markéta Dolejšová",
+    "title": "Professor of Design Research and Interactive Technologies",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "department": "School of Creative Technologies",
+    "subject": "arts-design",
+    "topics": [
+      "More-than-Human Design",
+      "Participatory Digital Arts",
+      "Open-Source Creative Hardware",
+      "Bio-Design"
+    ],
+    "summary": "Prof. Markéta Dolejšová investigates participatory design methodologies, bio-digital artistic interfaces, and post-anthropocentric human-computer interactions in urban environments.",
+    "source": "https://whitecliffe.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3316,
+    "name": "Prof. David O’Reilly",
+    "title": "Head of Animation and Real-Time Media",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Animation and Virtual Production",
+    "subject": "arts-design",
+    "topics": [
+      "Virtual Production",
+      "Real-Time Shader Art",
+      "Indie Game Narrative",
+      "Simulated Ecosystems"
+    ],
+    "summary": "Prof. David O’Reilly leads creative exploration in real-time procedural animations, game architecture, and interactive screen cultures, advising studios on digital aesthetics and narrative worldbuilding.",
+    "source": "https://whitecliffe.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3317,
+    "name": "Dr. Sarah Kenderdine-Vogel",
+    "title": "Senior Lecturer in Computational Typography and UI Design",
+    "university": "Whitecliffe University of Applied Sciences",
+    "country": "Germany",
+    "department": "Department of Visual Communication",
+    "subject": "computer-science",
+    "topics": [
+      "Algorithmic Typography",
+      "Accessible UI Frameworks",
+      "Spatial Screen Interfaces",
+      "Design Systems"
+    ],
+    "summary": "Dr. Sarah Kenderdine-Vogel explores variable font rendering, programmatic layout generation, and cognitive load minimization in mission-critical user interface design.",
+    "source": "https://whitecliffe.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3318,
+    "name": "Prof. Dr. Andreas Goldthau",
+    "title": "Franz Haniel Professor for Public Policy and Director of the Brandt School",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "department": "Willy Brandt School of Public Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Energy Geopolitics",
+      "Global Decarbonization Governance",
+      "Clean Tech Supply Chains",
+      "Climate Finance"
+    ],
+    "summary": "Prof. Dr. Andreas Goldthau is the Director of the Brandt School and renowned scholar of energy transitions, investigating the geopolitical and economic implications of global decarbonization.",
+    "source": "https://www.brandtschool.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3319,
+    "name": "Prof. Dr. Heike Grimm",
+    "title": "Professor of Public Policy and Entrepreneurship",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "department": "Willy Brandt School of Public Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Public Sector Innovation",
+      "SME Entrepreneurship Policy",
+      "Regulatory Impact Assessment",
+      "Regional Development"
+    ],
+    "summary": "Prof. Dr. Heike Grimm conducts comparative policy research on entrepreneurial ecosystems, regional innovation policies, and public-private sector technology transfer mechanisms.",
+    "source": "https://www.brandtschool.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3320,
+    "name": "Prof. Dr. Hasret Dikici Bilgin",
+    "title": "Professor of Comparative Politics and Political Institutions",
+    "university": "Willy Brandt School of Public Policy",
+    "country": "Germany",
+    "department": "Willy Brandt School of Public Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Authoritarian Enclaves",
+      "Electoral Systems",
+      "Middle East Governance",
+      "Democratic Breakdown"
+    ],
+    "summary": "Prof. Dr. Hasret Dikici Bilgin studies party politics, political regimes, electoral behavior, and state transformation processes across Southern Europe and the Middle East.",
+    "source": "https://www.brandtschool.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3321,
+    "name": "Prof. Dr. Christos G. Aneziris",
+    "title": "Director of ZeHS and Professor of Ceramics and Refractories",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Institute of Ceramic, Glass and Construction Materials / ZeHS",
+    "subject": "engineering",
+    "topics": [
+      "Carbon-Bonded Refractory Materials",
+      "High-Temperature Thermal Shock",
+      "Functional Filter Systems",
+      "Continuous Casting Metallurgy"
+    ],
+    "summary": "Prof. Dr. Christos G. Aneziris is founding director of ZeHS and global authority on refractory ceramics, innovating thermal shock-resistant materials for clean metallurgical casting and hydrogen gas filters.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3322,
+    "name": "Prof. Dr. Olena Volkova",
+    "title": "Professor of Ferrous Metallurgy and Steelmaking",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Institute of Iron and Steel Technology / ZeHS",
+    "subject": "engineering",
+    "topics": [
+      "Hydrogen Direct Reduction",
+      "Inclusion Engineering in Steels",
+      "Slag Thermodynamics",
+      "Decarbonized Metallurgy"
+    ],
+    "summary": "Prof. Dr. Olena Volkova leads research on the thermodynamic modeling of molten steel, clean steel cleanliness control, and kinetics of hydrogen direct reduction of iron ores.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3323,
+    "name": "Prof. Dr. David Rafaja",
+    "title": "Professor of Materials Science and Structural Diagnostics",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Institute of Materials Science / ZeHS",
+    "subject": "physics",
+    "topics": [
+      "X-ray Diffraction Diagnostics",
+      "Nanostructured Thin Films",
+      "Residual Stress Analysis",
+      "High-Temperature Phase Stability"
+    ],
+    "summary": "Prof. Dr. David Rafaja investigates crystallographic defects, microstructure-property correlations, and high-temperature phase stability of advanced structural alloys using high-resolution synchrotron radiation.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3324,
+    "name": "Prof. Dr. Martin Bertau",
+    "title": "Professor of Chemical Technology and Resource Chemistry",
+    "university": "ZeHS | TU Bergakademie Freiberg",
+    "country": "Germany",
+    "department": "Institute of Chemical Technology / ZeHS",
+    "subject": "chemistry",
+    "topics": [
+      "Hydrometallurgical Extraction",
+      "Lithium Battery Recycling",
+      "Circular Raw Materials",
+      "CO2 Chemical Valorization"
+    ],
+    "summary": "Prof. Dr. Martin Bertau focuses on sustainable hydrometallurgy, developing closed-loop extraction processes for high-purity lithium from ores and electronic scrap recycling.",
+    "source": "https://tu-freiberg.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3325,
+    "name": "Prof. Dr. Frithjof Staiß",
+    "title": "Managing Director and Professor of Energy Economics",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "department": "Board of Directors / Energy Economics Division",
+    "subject": "social-sciences",
+    "topics": [
+      "Energy Transition Roadmaps",
+      "Power-to-Gas Economics",
+      "Renewable Energy Policy Frameworks",
+      "Industrial Sector Coupling"
+    ],
+    "summary": "Prof. Dr. Frithjof Staiß is Managing Director of ZSW and prominent policy advisor on German and European energy transition pathways, evaluating technology adoption and decarbonization macroeconomics.",
+    "source": "https://www.zsw-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3326,
+    "name": "Prof. Dr. Markus Hölzle",
+    "title": "Member of the Board and Head of Electrochemical Energy Technologies (Ulm)",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "department": "Electrochemical Energy Technologies Division (Ulm)",
+    "subject": "chemistry",
+    "topics": [
+      "Lithium-Ion Battery Manufacturing",
+      "Solid-State Battery Chemistries",
+      "Fuel Cell Stack Durability",
+      "Pilot Line Scaling"
+    ],
+    "summary": "Prof. Dr. Markus Hölzle heads the ZSW Ulm site, directing research into pilot-scale battery manufacturing, post-lithium battery chemistries, and high-efficiency automotive fuel cells.",
+    "source": "https://www.zsw-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3327,
+    "name": "Dr. Michael Powalla",
+    "title": "Head of Photovoltaics Division and Senior Scientist",
+    "university": "Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW)",
+    "country": "Germany",
+    "department": "Photovoltaics Division (Stuttgart)",
+    "subject": "physics",
+    "topics": [
+      "CIGS Thin-Film Solar Cells",
+      "Perovskite Tandem Photovoltaics",
+      "Flexible Solar Modules",
+      "Building-Integrated PV"
+    ],
+    "summary": "Dr. Michael Powalla directs ZSW’s Photovoltaics Division in Stuttgart, holding world records in thin-film solar cell efficiency and industrial manufacturing yield improvements.",
+    "source": "https://www.zsw-bw.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3328,
+    "name": "Prof. Dr. Horst Exner",
+    "title": "Director of the Laserinstitut Mittweida and Professor of Laser Technology",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "department": "Faculty of Applied Computer and Life Sciences / Laserinstitut",
+    "subject": "physics",
+    "topics": [
+      "Micro-Laser Processing",
+      "Femtosecond Pulse Dynamics",
+      "Laser Additive Manufacturing",
+      "Nanoscale Surface Structuring"
+    ],
+    "summary": "Prof. Dr. Horst Exner is a renowned pioneer in industrial laser processing, heading the Laserinstitut Mittweida and leading research in ultrashort pulse laser micro-machining and biomedical surface engineering.",
+    "source": "https://www.hs-mittweida.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3329,
+    "name": "Prof. Dr. Dirk Labudde",
+    "title": "Professor of Bioinformatics and Digital Forensics",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "department": "Faculty of Applied Computer and Life Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Cyber Forensics",
+      "Biomolecular Network Modeling",
+      "Computational Criminology",
+      "Malware Analysis"
+    ],
+    "summary": "Prof. Dr. Dirk Labudde leads the Digital Forensics research group, consulting state criminal investigative offices on cyber homicide forensics, digital evidence chain analysis, and complex network reconstruction.",
+    "source": "https://www.hs-mittweida.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3330,
+    "name": "Prof. Dr. Andreas Ittner",
+    "title": "Professor of Blockchain Technology and Distributed Computing",
+    "university": "Hochschule Mittweida - University of Applied Sciences",
+    "country": "Germany",
+    "department": "Blockchain Competence Center Mittweida (BCCM)",
+    "subject": "computer-science",
+    "topics": [
+      "Smart Contract Security",
+      "Decentralized Identity Frameworks",
+      "Consensus Algorithms",
+      "Enterprise Distributed Ledgers"
+    ],
+    "summary": "Prof. Dr. Andreas Ittner co-founded the Blockchain Competence Center Mittweida, investigating high-throughput consensus protocols, regulatory compliance for tokenized assets, and decentralized authentication architectures.",
+    "source": "https://www.hs-mittweida.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3331,
+    "name": "Prof. Dr. Christoph Bördlein",
+    "title": "Professor of Behavioral Sports Psychology and Movement Analysis",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "department": "Faculty of Education / Sports Science Division",
+    "subject": "social-sciences",
+    "topics": [
+      "Behavioral Sports Psychology",
+      "Motor Learning Acquisition",
+      "Applied Behavior Analysis",
+      "Habit Formation in Exercise"
+    ],
+    "summary": "Prof. Dr. Christoph Bördlein investigates behavioral learning principles in sports coaching, evidence-based physical training adherence, and cognitive-behavioral strategies for athletic performance anxiety.",
+    "source": "https://www.usv-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3332,
+    "name": "Dr. Jens Krumpe",
+    "title": "Director of University Sports and Head of Biomechanics Testing",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "department": "University Sports Centre (USV Erfurt)",
+    "subject": "biology",
+    "topics": [
+      "Kinematic Motion Capture",
+      "Cardiorespiratory Ergometry",
+      "Postural Balance Testing",
+      "Preventive Ergonomics"
+    ],
+    "summary": "Dr. Jens Krumpe leads the physical testing laboratories at USV Erfurt, directing functional biomechanical assessments for youth athletes and evaluating corporate wellness interventions.",
+    "source": "https://www.usv-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3333,
+    "name": "Dr. Susanne Kühn",
+    "title": "Senior Lecturer in Health Pedagogy and Adapted Physical Activity",
+    "university": "University of Erfurt Sports and Health Center",
+    "country": "Germany",
+    "department": "Department of Sports Science and Kinesiology",
+    "subject": "social-sciences",
+    "topics": [
+      "Inclusive Sports Pedagogy",
+      "Adapted Physical Activities",
+      "Childhood Motor Development",
+      "Community Health Promotion"
+    ],
+    "summary": "Dr. Susanne Kühn specializes in inclusive physical education curricula, examining movement development in children with neurological impairments and designing school-based motor intervention programs.",
+    "source": "https://www.usv-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3334,
+    "name": "Prof. Dr. Manfred Weiß",
+    "title": "Honorary Chairman and Professor of Education Economics",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "department": "Board of Universitätsgesellschaft Erfurt",
+    "subject": "social-sciences",
+    "topics": [
+      "Economics of Higher Education",
+      "School Governance Systems",
+      "Educational Resource Allocation",
+      "Academic Philanthropy"
+    ],
+    "summary": "Prof. Dr. Manfred Weiß has led academic governance and educational economics research, playing a central role in strengthening civil society endowments for Thuringian universities.",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3335,
+    "name": "Dr. Michael Scholl",
+    "title": "Managing Director and Academic Liaison",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "department": "Executive Secretariat / Universitätsgesellschaft Erfurt",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Heritage",
+      "Academic Foundation Management",
+      "Civil Society Science Transfer",
+      "Regional Cultural Policy"
+    ],
+    "summary": "Dr. Michael Scholl oversees foundation operations and research grant distributions, fostering long-term partnerships between university scholars, municipal leaders, and regional industry.",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3336,
+    "name": "Prof. Dr. Jörg Seiler",
+    "title": "Professor of Church History and Board Member",
+    "university": "Universitätsgesellschaft Erfurt e.V.",
+    "country": "Germany",
+    "department": "Faculty of Catholic Theology / Universitätsgesellschaft Board",
+    "subject": "social-sciences",
+    "topics": [
+      "Central European Religious History",
+      "Reformation Geopolitics",
+      "University Archival Studies",
+      "Interfaith Dialogue"
+    ],
+    "summary": "Prof. Dr. Jörg Seiler conducts archival research on religious identity, historical theology, and the cultural influence of the historical University of Erfurt across Central Europe.",
+    "source": "https://www.unigesellschaft-erfurt.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3337,
+    "name": "Prof. Dr.-Ing. Martin Haardt",
+    "title": "Professor of Communications Research and Head of Department",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "department": "Communications Research Laboratory / Institute for Information Technology",
+    "subject": "engineering",
+    "topics": [
+      "Tensor-Based Signal Processing",
+      "6G MIMO Architectures",
+      "Cooperative Wireless Relaying",
+      "Array Signal Processing"
+    ],
+    "summary": "Prof. Dr.-Ing. Martin Haardt is an IEEE Fellow and leading authority on multi-user MIMO and tensor-based signal processing algorithms, leading major international projects on next-generation 6G mobile communications.",
+    "source": "https://www.tu-ilmenau.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3338,
+    "name": "Prof. Dr. Jens Müller",
+    "title": "Professor of Electronics Technology and Cleanroom Director",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "department": "Institute of Micro- and Nanotechnologies MacroNano®",
+    "subject": "engineering",
+    "topics": [
+      "Low-Temperature Co-fired Ceramics (LTCC)",
+      "High-Frequency Packaging",
+      "MEMS Sensor Integration",
+      "Harsh-Environment Electronics"
+    ],
+    "summary": "Prof. Dr. Jens Müller heads the MacroNano® research center, specializing in ceramic multilayer packaging, millimeter-wave sensor packaging, and micro-fluidic sensor integration for aerospace and industrial telemetry.",
+    "source": "https://www.tu-ilmenau.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3339,
+    "name": "Prof. Dr. Gerald Schuller",
+    "title": "Professor of Applied Media Systems and Audio Coding",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "department": "Faculty of Electrical Engineering and Information Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Perceptual Audio Coding",
+      "Filter Bank Theory",
+      "Real-Time Neural Audio Synthesis",
+      "Active Noise Control"
+    ],
+    "summary": "Prof. Dr. Gerald Schuller conducts foundational research in psychoacoustic audio codecs, deep learning audio transformation, and multi-channel microphone array algorithms, collaborating closely with Fraunhofer IDMT.",
+    "source": "https://www.tu-ilmenau.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3340,
+    "name": "Dr. Sophia Schneider",
+    "title": "Director of International Relations and Head of we4you",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "department": "International Office / we4you Center",
+    "subject": "social-sciences",
+    "topics": [
+      "International Scholar Mobility",
+      "Intercultural Integration Strategies",
+      "Academic Welcoming Infrastructure",
+      "Diversity in STEM"
+    ],
+    "summary": "Dr. Sophia Schneider leads the we4you International Center, pioneering comprehensive onboarding, crisis counseling, and intercultural career pathways for thousands of international scientists and students in Thuringia.",
+    "source": "https://www.tu-ilmenau.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3341,
+    "name": "Prof. Dr. Kai-Uwe Sattler",
+    "title": "President of TU Ilmenau and Professor of Databases and Information Systems",
+    "university": "we4you - TU Ilmenau International Center",
+    "country": "Germany",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Data Stream Processing",
+      "Hardware-Accelerated Database Systems",
+      "Scientific Data Management",
+      "Big Data Engineering"
+    ],
+    "summary": "Prof. Dr. Kai-Uwe Sattler is President of TU Ilmenau and distinguished computer scientist researching hardware-conscious database algorithms, real-time stream processing, and distributed data analytics.",
+    "source": "https://www.tu-ilmenau.de",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3342,
+    "name": "Prof. Dr. Loreto Almonte",
+    "title": "Dean of the Division of Allied Health and Nursing",
+    "university": "Florida National University",
+    "country": "United States",
+    "department": "Division of Allied Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Clinical Nursing Simulation",
+      "Health Disparities in Urban Populations",
+      "Transcultural Nursing Practice",
+      "Cardiovascular Health Promotion"
+    ],
+    "summary": "Prof. Dr. Loreto Almonte directs clinical nursing instruction and community healthcare curriculum development at FNU, researching simulation pedagogy and patient outcomes in bilingual patient settings.",
+    "source": "https://www.fnu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3343,
+    "name": "Prof. Dr. Ernesto Gonzalez",
+    "title": "Head of Business Administration and Management Studies",
+    "university": "Florida National University",
+    "country": "United States",
+    "department": "Division of Business and Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "Latin American Cross-Border Trade",
+      "Healthcare Financial Modeling",
+      "Entrepreneurship in Immigrant Communities",
+      "Strategic Decision Analytics"
+    ],
+    "summary": "Prof. Dr. Ernesto Gonzalez examines entrepreneurial development, microfinance instruments in South Florida immigrant corridors, and regulatory compliance in healthcare business systems.",
+    "source": "https://www.fnu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3344,
+    "name": "Dr. Michael Hernandez",
+    "title": "Assistant Professor of Criminal Justice and Legal Studies",
+    "university": "Florida National University",
+    "country": "United States",
+    "department": "Division of Humanities and Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Community Policing Dynamics",
+      "Juvenile Diversion Frameworks",
+      "Digital Evidence Forensics",
+      "Criminal Constitutional Law"
+    ],
+    "summary": "Dr. Michael Hernandez investigates judicial diversion efficacy for at-risk youth, constitutional parameters of digital surveillance, and evidence handling standards in state courts.",
+    "source": "https://www.fnu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3345,
+    "name": "Prof. Dr. Gabriel Langford",
+    "title": "Associate Professor of Biology and Chair of Marine Sciences",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "biology",
+    "topics": [
+      "Parasite Ecology in Marine Teleosts",
+      "Freshwater Mollusk Conservation",
+      "Coral Reef Microhabitats",
+      "Wetland Biodiversity"
+    ],
+    "summary": "Prof. Dr. Gabriel Langford conducts field research in marine and aquatic parasite-host dynamics, evaluating anthropogenic stress on coastal marine biodiversity and benthic reef ecosystems.",
+    "source": "https://www.flsouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3346,
+    "name": "Prof. Dr. Justin Heacock",
+    "title": "Director of the Center for Free Enterprise and Entrepreneurship",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "department": "Barney Barnett School of Business and Free Enterprise",
+    "subject": "social-sciences",
+    "topics": [
+      "Venture Capital Incubation",
+      "Lean Startup Pedagogy",
+      "Corporate Innovation Strategies",
+      "Regional Entrepreneurial Ecosystems"
+    ],
+    "summary": "Prof. Dr. Justin Heacock directs venture accelerators and student seed funding programs at FSC, researching founder psychological capital, pitch resilience, and technology commercialization.",
+    "source": "https://www.flsouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3347,
+    "name": "Prof. Dr. Britt M. V. Peterson",
+    "title": "Associate Professor of Biology and Plant Genomics",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "biology",
+    "topics": [
+      "Citrus Greening Pathogen Genomics",
+      "Plant-Insect Vector Interactions",
+      "Bacterial Phage Therapy",
+      "Molecular Crop Protection"
+    ],
+    "summary": "Prof. Dr. Britt Peterson studies the molecular interactions between the Asian citrus psyllid vector and the Candidatus Liberibacter bacterium, designing biotechnology tools to safeguard Florida citrus agriculture.",
+    "source": "https://www.flsouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3348,
+    "name": "Prof. Dr. Mark Miller",
+    "title": "Professor of Architecture History and Wright Scholar",
+    "university": "Florida Southern College",
+    "country": "United States",
+    "department": "Department of Art and Art History",
+    "subject": "arts-design",
+    "topics": [
+      "Frank Lloyd Wright Architecture",
+      "Modern Organic Design",
+      "Concrete Textile Block Restoration",
+      "Mid-Century Campus Planning"
+    ],
+    "summary": "Prof. Dr. Mark Miller is the leading resident scholar on Frank Lloyd Wright’s Child of the Sun campus at FSC, publishing extensively on historic concrete structural conservation and organic architectural philosophy.",
+    "source": "https://www.flsouthern.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3349,
+    "name": "Prof. Dr. Laura Greene",
+    "title": "Chief Scientist of the National High Magnetic Field Laboratory and Professor of Physics",
+    "university": "Florida State University",
+    "country": "United States",
+    "department": "Department of Physics / MagLab",
+    "subject": "physics",
+    "topics": [
+      "Unconventional Superconductivity",
+      "High-Magnetic-Field Spectroscopies",
+      "Point-Contact Andreev Reflection",
+      "Heavy Fermion Systems"
+    ],
+    "summary": "Prof. Dr. Laura Greene is Chief Scientist at MagLab, former President of the American Physical Society, and member of the National Academy of Sciences, investigating topological superconductors and correlated electron states.",
+    "source": "https://www.fsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3350,
+    "name": "Prof. Dr. Kevin M. Beaver",
+    "title": "Judith Rich Harris Professor of Criminology",
+    "university": "Florida State University",
+    "country": "United States",
+    "department": "College of Criminology and Criminal Justice",
+    "subject": "social-sciences",
+    "topics": [
+      "Biosocial Criminology",
+      "Behavioral Genetics",
+      "Neurobiological Correlates of Crime",
+      "Longitudinal Life-Course Research"
+    ],
+    "summary": "Prof. Dr. Kevin M. Beaver is an international authority in biosocial criminology, investigating the interplay between molecular genetic vulnerabilities, environmental socialization, and chronic delinquent trajectories.",
+    "source": "https://www.fsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3351,
+    "name": "Prof. Dr. Markus Huettel",
+    "title": "Professor of Earth, Ocean, and Atmospheric Science",
+    "university": "Florida State University",
+    "country": "United States",
+    "department": "Department of Earth, Ocean and Atmospheric Science (EOAS)",
+    "subject": "environment",
+    "topics": [
+      "Benthic Boundary Layer Dynamics",
+      "Permeable Sediment Biogeochemistry",
+      "Hydrocarbon Degradation in Coastal Waters",
+      "Marine Carbon Sequestration"
+    ],
+    "summary": "Prof. Dr. Markus Huettel investigates pore water advection in permeable sandy marine sediments, microbial nutrient remineralization, and the long-term degradation kinetics of oil spills in coastal shelf ecosystems.",
+    "source": "https://www.fsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3352,
+    "name": "Prof. Dr. Xiuwen Liu",
+    "title": "Professor of Computer Science and Director of Cognitive Robotics Lab",
+    "university": "Florida State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Deep Learning Theory",
+      "Computer Vision and Visual Representation",
+      "Autonomous Robotics",
+      "Adversarial Machine Learning"
+    ],
+    "summary": "Prof. Dr. Xiuwen Liu directs research on mathematical representations of visual textures, deep neural network vulnerability to adversarial perturbations, and real-time robotic navigation systems.",
+    "source": "https://www.fsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3353,
+    "name": "Prof. Dr. Thaier Hayajneh",
+    "title": "University Professor and Director of the Fordham Center for Cybersecurity",
+    "university": "Fordham University",
+    "country": "United States",
+    "department": "Department of Computer and Information Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Applied Cryptography",
+      "Wireless Sensor Network Security",
+      "Blockchain for Healthcare Security",
+      "IoT Vulnerability Mitigation"
+    ],
+    "summary": "Prof. Dr. Thaier Hayajneh leads Fordham’s NSA/DHS designated Center for Cybersecurity, directing federal research on lightweight encryption protocols, vehicular network authentication, and quantum-resistant algorithms.",
+    "source": "https://www.fordham.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3354,
+    "name": "Prof. Dr. Iftekhar Hasan",
+    "title": "E. Gerald Corrigan Chair in International Business and Finance",
+    "university": "Fordham University",
+    "country": "United States",
+    "department": "Gabelli School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Financial Institutions and Banking",
+      "Corporate Governance Mechanisms",
+      "Global Financial Stability",
+      "FinTech Regulation"
+    ],
+    "summary": "Prof. Dr. Iftekhar Hasan serves as scientific advisor to central banks worldwide, investigating bank risk-taking behavior, corporate financial contracts, and systemic financial spillover channels.",
+    "source": "https://www.fordham.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3355,
+    "name": "Prof. Dr. Rachel Annunziato",
+    "title": "Professor of Psychology and Associate Dean of Fordham College at Rose Hill",
+    "university": "Fordham University",
+    "country": "United States",
+    "department": "Department of Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Pediatric Health Psychology",
+      "Post-Transplant Medication Adherence",
+      "Chronic Illness Transition",
+      "Behavioral Health Interventions"
+    ],
+    "summary": "Prof. Dr. Rachel Annunziato conducts clinical research on pediatric organ transplant recipients, designing cognitive-behavioral interventions to enhance treatment adherence during adolescent transitions.",
+    "source": "https://www.fordham.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3356,
+    "name": "Prof. Dr. Matthew Diller",
+    "title": "Dean of Fordham Law School and Paul Fuller Professor of Law",
+    "university": "Fordham University",
+    "country": "United States",
+    "department": "Fordham University School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Social Welfare Law",
+      "Public Interest Jurisprudence",
+      "Administrative Law and Due Process",
+      "Poverty Law and Policy"
+    ],
+    "summary": "Prof. Dr. Matthew Diller is a prominent scholar of social welfare law and administrative policy, examining legal protections for low-income populations and structural reforms in civil justice delivery.",
+    "source": "https://www.fordham.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3357,
+    "name": "Prof. Dr. Laura Wilson",
+    "title": "Professor of Geosciences and Sternberg Museum Curator of Paleontology",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "department": "Department of Geosciences / Sternberg Museum of Natural History",
+    "subject": "environment",
+    "topics": [
+      "Cretaceous Marine Reptile Bone Histology",
+      "Paleoecology of the Western Interior Seaway",
+      "Fossil Avian Evolution",
+      "Museum Science Curation"
+    ],
+    "summary": "Prof. Dr. Laura Wilson is the Chief Curator of Paleontology at the Sternberg Museum, investigating bone microstructures and growth rates of Cretaceous marine fauna to reconstruct paleoclimate conditions.",
+    "source": "https://www.fhsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3358,
+    "name": "Prof. Dr. Jason Zeller",
+    "title": "Chair and Professor of Informatics and Cybersecurity",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "department": "Department of Informatics",
+    "subject": "computer-science",
+    "topics": [
+      "Cybersecurity Threat Intelligence",
+      "Critical Infrastructure Network Defense",
+      "Telecommunications Routing Security",
+      "Cloud Forensics"
+    ],
+    "summary": "Prof. Dr. Jason Zeller directs FHSU’s cybersecurity curricula, consulting rural utilities and regional healthcare networks on incident response preparedness and industrial network hardening.",
+    "source": "https://www.fhsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3359,
+    "name": "Prof. Dr. Iryna Koval",
+    "title": "Associate Professor of Economics and Finance",
+    "university": "Fort Hays State University",
+    "country": "United States",
+    "department": "Robbins College of Business and Entrepreneurship",
+    "subject": "social-sciences",
+    "topics": [
+      "Agricultural Commodity Futures",
+      "Rural Banking Capital Flows",
+      "Regional Economic Resilience",
+      "Labor Market Dynamics"
+    ],
+    "summary": "Prof. Dr. Iryna Koval investigates price volatility transmission in agricultural commodities, community bank credit underwriting in rural economies, and rural labor retention strategies.",
+    "source": "https://www.fhsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3360,
+    "name": "Prof. Dr. Govind Kannan",
+    "title": "Vice President for Research and Professor of Animal Science",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "department": "Agricultural Research Station / Small Ruminant Research Center",
+    "subject": "biology",
+    "topics": [
+      "Goat Meat Quality and Processing",
+      "Stress Physiology in Small Ruminants",
+      "Sustainable Livestock Systems",
+      "Post-Harvest Food Safety"
+    ],
+    "summary": "Prof. Dr. Govind Kannan is an internationally acknowledged pioneer in small ruminant meat science and welfare physiology, publishing extensively on pre-slaughter stress mitigation and lipid oxidation in goat meat products.",
+    "source": "https://www.fvsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3361,
+    "name": "Prof. Dr. Sarwan K. Dhir",
+    "title": "Professor of Plant Biotechnology and Director of Center for Biotechnology",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "department": "Department of Agricultural Sciences",
+    "subject": "biology",
+    "topics": [
+      "Plant Genetic Transformation",
+      "Biofuel Crop Micropropagation",
+      "CRISPR Gene Editing in Sorghum",
+      "Undergraduate STEM Mentorship"
+    ],
+    "summary": "Prof. Dr. Sarwan K. Dhir directs FVSU’s Center for Biotechnology, securing over $15 million in federal research grants for bioenergy crop improvements and mentoring hundreds of underrepresented minority students into STEM PhDs.",
+    "source": "https://www.fvsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3362,
+    "name": "Dr. Brou Kouakou",
+    "title": "Associate Dean of Research and Professor of Livestock Nutrition",
+    "university": "Fort Valley State University",
+    "country": "United States",
+    "department": "College of Agriculture, Family Sciences and Technology",
+    "subject": "biology",
+    "topics": [
+      "Ruminant Nutrient Metabolism",
+      "Forage Evaluation and Byproduct Feeding",
+      "Gastrointestinal Parasite Interaction",
+      "Pasture Agronomy"
+    ],
+    "summary": "Dr. Brou Kouakou conducts research into alternative feeds and bioactive plant forages that suppress internal nematodes in sheep and goats, improving herd productivity in subtropical climates.",
+    "source": "https://www.fvsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3363,
+    "name": "Prof. Dr. Christopher Habben",
+    "title": "Professor of Marriage and Family Therapy and Clinical Director",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "department": "Division of Graduate Family Therapy",
+    "subject": "social-sciences",
+    "topics": [
+      "Systemic Family Therapy",
+      "Healthcare Provider Burnout",
+      "Intergenerational Trauma",
+      "Couples Conflict Resolution"
+    ],
+    "summary": "Prof. Dr. Christopher Habben is past president of the American Association for Marriage and Family Therapy (AAMFT), researching systemic healthcare provider well-being and clinical intervention models for high-conflict couples.",
+    "source": "https://www.friends.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3364,
+    "name": "Prof. Dr. Mark Stanbrough",
+    "title": "Chair of Business and Leadership Studies",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "department": "Division of Business and Healthcare Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Ethical Corporate Leadership",
+      "Nonprofit Board Governance",
+      "Organizational Change Dynamics",
+      "Performance Psychology in Management"
+    ],
+    "summary": "Prof. Dr. Mark Stanbrough conducts empirical investigations into ethical organizational leadership, executive decision-making under acute cognitive load, and human capital retention in healthcare networks.",
+    "source": "https://www.friends.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3365,
+    "name": "Dr. Rebecca Culver-Turner",
+    "title": "Associate Professor of Marriage and Family Therapy",
+    "university": "Friends University - Kansas City Center",
+    "country": "United States",
+    "department": "Division of Graduate Family Therapy",
+    "subject": "social-sciences",
+    "topics": [
+      "Adolescent Depression within Family Systems",
+      "Attachment-Based Family Therapy",
+      "Community Mental Health Disparities",
+      "Telehealth Clinical Ethics"
+    ],
+    "summary": "Dr. Rebecca Culver-Turner examines attachment dynamics in adolescent family crises and evaluates the clinical efficacy of tele-mental health interventions in underserved rural and peri-urban communities.",
+    "source": "https://www.friends.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3366,
+    "name": "Prof. Dr. Thomas Serfass",
+    "title": "Professor of Wildlife Ecology and IUCN Otter Specialist Chair",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "River Otter Reintroduction Ecology",
+      "Carnivore Non-Invasive Genetic Sampling",
+      "Fisher Habitat Restoration",
+      "Wildlife Ecotourism Impact"
+    ],
+    "summary": "Prof. Dr. Thomas Serfass is North American coordinator for the IUCN Otter Specialist Group, pioneering river otter and fisher restoration across eastern North America and evaluating non-invasive hair snaring techniques.",
+    "source": "https://www.frostburg.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3367,
+    "name": "Prof. Dr. Sunshine Brosi",
+    "title": "Professor of Ethnobotany and Forest Ecology",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "department": "Department of Biology / Ethnobotany Program",
+    "subject": "biology",
+    "topics": [
+      "Appalachian Traditional Ecological Knowledge",
+      "Endangered Tree Restoration (American Chestnut)",
+      "Ramps and Medicinal Flora Conservation",
+      "Dendrochronology"
+    ],
+    "summary": "Prof. Dr. Sunshine Brosi investigates Appalachian non-timber forest product harvesting sustainability, partnering with Native American tribal nations on traditional ecological land management and American chestnut blight recovery.",
+    "source": "https://www.frostburg.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3368,
+    "name": "Prof. Dr. Jamil Abdo",
+    "title": "Chair and Professor of Physics and Engineering",
+    "university": "Frostburg State University",
+    "country": "United States",
+    "department": "Department of Physics and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Tribology in Renewable Energy Systems",
+      "Nanomaterial Surface Coatings",
+      "Wind Turbine Gearbox Reliability",
+      "Geothermal Heat Transfer"
+    ],
+    "summary": "Prof. Dr. Jamil Abdo researches advanced tribological surface coatings, wear diagnostics in wind turbine mechanical gear trains, and enhanced thermal conductivity nanofluids for deep geothermal energy recovery.",
+    "source": "https://www.frostburg.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3369,
+    "name": "Prof. Dr. Tracy Livingston",
+    "title": "Professor of Biology and Chair of Natural Sciences",
+    "university": "Georgetown College",
+    "country": "United States",
+    "department": "Department of Biological Sciences",
+    "subject": "biology",
+    "topics": [
+      "Avian Reproductive Physiology",
+      "Developmental Biology",
+      "Endocrine Disruptor Toxicology",
+      "Pre-Medical Mentorship Pedagogy"
+    ],
+    "summary": "Prof. Dr. Tracy Livingston oversees pre-health professions education at Georgetown College, conducting research on environmental endocrine disruptor impacts on avian embryonic development.",
+    "source": "https://www.georgetowncollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3370,
+    "name": "Prof. Dr. John Henkel",
+    "title": "Director of the Oxford Honors Program and Associate Professor of Classics",
+    "university": "Georgetown College",
+    "country": "United States",
+    "department": "Department of Classics and Honors Program",
+    "subject": "social-sciences",
+    "topics": [
+      "Vergilian Poetry",
+      "Augustan Latin Literature",
+      "Classical Rhetoric in Modern Politics",
+      "Humanities Tutorial Pedagogy"
+    ],
+    "summary": "Prof. Dr. John Henkel directs the Oxford Honors Program, publishing scholarship on pastoral motifs in Vergil’s Georgics and directing transatlantic undergraduate research tutorials.",
+    "source": "https://www.georgetowncollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3371,
+    "name": "Prof. Dr. Meghan Knapp",
+    "title": "Professor of Chemistry and Undergraduate Research Coordinator",
+    "university": "Georgetown College",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Inorganic Coordination Complexes",
+      "Spectroscopic Chemical Analysis",
+      "Heavy Metal Water Remediation",
+      "Chemical Education Pedagogy"
+    ],
+    "summary": "Prof. Dr. Meghan Knapp mentors undergraduate researchers in synthesizing transition metal coordination complexes and testing novel macrocyclic ligands for heavy metal sequestration in Kentucky waterways.",
+    "source": "https://www.georgetowncollege.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3372,
+    "name": "Prof. Dr. Kalina Manoylov",
+    "title": "Professor of Environmental Science and Senior Phycologist",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "department": "Department of Biological and Environmental Sciences",
+    "subject": "environment",
+    "topics": [
+      "Diatom Systematics and Bioindicators",
+      "Freshwater Stream Nutrient Imbalance",
+      "Cyanobacterial Harmful Algal Blooms",
+      "Limnology of Piedmont Lakes"
+    ],
+    "summary": "Prof. Dr. Kalina Manoylov is a world authority on algal bioindicators, researching diatom communities as sensitive proxies for watershed agricultural runoff and aquatic climate stress.",
+    "source": "https://www.gcsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3373,
+    "name": "Prof. Peter Selgin",
+    "title": "Professor of Creative Writing and Visual Art",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "department": "Department of English / MFA Program",
+    "subject": "arts-design",
+    "topics": [
+      "Fiction and Memoir Writing",
+      "Narrative Architecture",
+      "Visual Arts in Literary Prose",
+      "Editorial Craft"
+    ],
+    "summary": "Prof. Peter Selgin is an acclaimed author, playwright, and art director of Arts & Letters, mentoring MFA candidates in memoir and narrative fiction and winning multiple national book prizes.",
+    "source": "https://www.gcsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3374,
+    "name": "Prof. Dr. Bryan Marshall",
+    "title": "Professor of Management Information Systems and Cyber Operations",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "department": "J. Whitney Bunting College of Business and Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Enterprise Security Architecture",
+      "Social Engineering Vulnerabilities",
+      "Gamification in Cyber Training",
+      "Health Informatics Systems"
+    ],
+    "summary": "Prof. Dr. Bryan Marshall investigates human factors in corporate information security breaches, evaluating gamified simulation platforms to train enterprise employees against phishing exploits.",
+    "source": "https://www.gcsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3375,
+    "name": "Prof. Dr. Andrei Barkovskii",
+    "title": "Professor of Environmental Microbiology",
+    "university": "Georgia College & State University",
+    "country": "United States",
+    "department": "Department of Biological and Environmental Sciences",
+    "subject": "biology",
+    "topics": [
+      "Microbial Source Tracking",
+      "Antibiotic Resistance in Aquatic Environments",
+      "Anaerobic Biodegradation",
+      "Microbiome Ecology"
+    ],
+    "summary": "Prof. Dr. Andrei Barkovskii conducts research on the prevalence and dissemination of antibiotic resistance genes in watershed soils and river systems exposed to agricultural runoff.",
+    "source": "https://www.gcsu.edu",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3376,
+    "name": "Prof. Dr. Yoshifumi Nishimura",
+    "title": "Specially Appointed Professor of Structural Biology and Former Dean",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Graduate School of Medical Life Science",
+    "subject": "biology",
+    "topics": [
+      "NMR Structure Analysis of Transcription Factors",
+      "Epigenetic Recognition Mechanisms",
+      "Chromatin Remodeling Complexes",
+      "Telomere Biology"
+    ],
+    "summary": "Prof. Dr. Yoshifumi Nishimura is a world-renowned pioneer in biomolecular NMR, elucidating the three-dimensional structures of human transcription factors, DNA-binding homeodomains, and epigenetic histone modifications.",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3377,
+    "name": "Prof. Dr. Jeremy R. H. Tame",
+    "title": "Professor of Protein Engineering and Structural Biophysics",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Graduate School of Medical Life Science",
+    "subject": "biology",
+    "topics": [
+      "Allosteric Protein Regulation",
+      "Artificial Protein Scaffolding",
+      "X-ray Crystallography",
+      "De Novo Enzyme Design"
+    ],
+    "summary": "Prof. Dr. Jeremy R. H. Tame investigates macromolecular allostery and symmetrical protein architectures, designing synthetic repeat proteins and catalytic enzymes for bio-industrial applications.",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3378,
+    "name": "Prof. Dr. Tatsuya Niimi",
+    "title": "Professor of Supramolecular Biochemistry and RNA Therapeutics",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Laboratory of Structural Biology",
+    "subject": "chemistry",
+    "topics": [
+      "RNA-Protein Interactions",
+      "Cryo-EM of Spliceosome Complexes",
+      "Antisense Oligonucleotide Design",
+      "Ribosome Assembly"
+    ],
+    "summary": "Prof. Dr. Tatsuya Niimi leads structural studies into eukaryotic spliceosomes and non-coding RNA complexes, utilizing high-resolution cryo-EM to unravel molecular targets for genetic disorders.",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3379,
+    "name": "Prof. Dr. Masahiko Sato",
+    "title": "Professor of Molecular Pharmacology and Drug Discovery",
+    "university": "Yokohama City University - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Department of Pharmaceutical Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Targeted Protein Degradation (PROTACs)",
+      "Small-Molecule Kinase Inhibitors",
+      "Molecular Dynamics Docking",
+      "Cancer Chemotherapy Resistance"
+    ],
+    "summary": "Prof. Dr. Masahiko Sato designs novel bifunctional degraders and kinase inhibitors, integrating structural biophysics with medicinal chemistry to overcome multidrug-resistant malignancies.",
+    "source": "https://www.yokohama-cu.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3380,
+    "name": "Prof. Dr. Kenji Sugimoto",
+    "title": "Professor of Port Economics and Maritime Logistics",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Faculty of Commerce",
+    "subject": "social-sciences",
+    "topics": [
+      "Port Container Logistics",
+      "Tokyo Bay Maritime Optimization",
+      "International Intermodal Transport",
+      "Green Shipping Governance"
+    ],
+    "summary": "Prof. Dr. Kenji Sugimoto conducts research on container flow dynamics through Tokyo Bay ports, automated container terminal efficiency, and regulatory decarbonization targets for commercial cargo shipping.",
+    "source": "https://www.shodai.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3381,
+    "name": "Prof. Dr. Yuka Takiguchi",
+    "title": "Professor of Tourism Management and Inbound Marketing",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Faculty of Commerce",
+    "subject": "social-sciences",
+    "topics": [
+      "Inbound Tourism Economics",
+      "Cultural Heritage Promotion",
+      "Hospitality Service Design",
+      "Regional Tourism Spillover"
+    ],
+    "summary": "Prof. Dr. Yuka Takiguchi analyzes consumer preferences among international tourists visiting historical and culinary attractions in Kanagawa Prefecture, developing strategies for regional economic diversification.",
+    "source": "https://www.shodai.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3382,
+    "name": "Prof. Dr. Hitoshi Watanabe",
+    "title": "Professor of Management Information Systems and E-Business",
+    "university": "Yokohama College of Commerce - Tsurumi Campus",
+    "country": "Japan",
+    "department": "Faculty of Commerce",
+    "subject": "computer-science",
+    "topics": [
+      "Supply Chain Data Analytics",
+      "E-Commerce Platform Architectures",
+      "Small Enterprise Digital Transformation",
+      "FinTech in Retail"
+    ],
+    "summary": "Prof. Dr. Hitoshi Watanabe examines information technology adoption among small and medium-sized trading firms in the Greater Tokyo area, focusing on cloud ERP integration and cashless retail systems.",
+    "source": "https://www.shodai.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3383,
+    "name": "Prof. Dr. Tomoko Miyake",
+    "title": "Dean of the Faculty of Nursing and Professor of Clinical Nursing",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "department": "Faculty of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Clinical Nursing Simulation",
+      "Patient Safety Culture in Acute Wards",
+      "Post-Surgical Pain Management",
+      "Nursing Ethics Education"
+    ],
+    "summary": "Prof. Dr. Tomoko Miyake leads nursing curriculum innovation at Yokohama Sōei, investigating the efficacy of high-fidelity simulation mannequins in refining emergency decision-making for nursing undergraduates.",
+    "source": "https://www.soei.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3384,
+    "name": "Prof. Dr. Kazuhiko Suzuki",
+    "title": "Professor of Early Childhood Developmental Psychology",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "department": "Faculty of Child Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Childhood Emotional Regulation",
+      "Play-Based Early Learning Pedagogy",
+      "Parent-Child Attachment Dynamics",
+      "Special Needs Inclusive Preschooling"
+    ],
+    "summary": "Prof. Dr. Kazuhiko Suzuki conducts observational research on peer interaction in play-centered early childhood environments, evaluating teacher scaffolding methods for children with sensory processing differences.",
+    "source": "https://www.soei.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3385,
+    "name": "Prof. Dr. Sachiko Endo",
+    "title": "Professor of Community Health Nursing and Gerontology",
+    "university": "Yokohama Sōei University",
+    "country": "Japan",
+    "department": "Faculty of Nursing",
+    "subject": "social-sciences",
+    "topics": [
+      "Community Integrated Care Systems",
+      "Dementia Prevention in Aging Suburbs",
+      "Caregiver Burnout Interventions",
+      "Home Visiting Nursing Models"
+    ],
+    "summary": "Prof. Dr. Sachiko Endo evaluates community-based nursing support systems in Kanagawa, publishing policy frameworks for early dementia detection and informal caregiver respite programs.",
+    "source": "https://www.soei.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3386,
+    "name": "Prof. Kenjiro Okazaki",
+    "title": "Professor of Contemporary Art Theory and Critical Aesthetics",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "department": "Department of Fine Arts",
+    "subject": "arts-design",
+    "topics": [
+      "Post-War Japanese Modernism",
+      "Spatial Installation Aesthetics",
+      "Comparative Art History",
+      "Architectural Curation"
+    ],
+    "summary": "Prof. Kenjiro Okazaki is a seminal Japanese artist, critic, and author who represented Japan at the Venice Biennale, researching relational aesthetics, cognitive theories of art, and cross-cultural modernisms.",
+    "source": "https://www.yokohama-art.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3387,
+    "name": "Prof. Dr. Hiroshi Minamishima",
+    "title": "Professor of Art Curation and Museum Studies",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "department": "Department of Art and Design",
+    "subject": "arts-design",
+    "topics": [
+      "Asian Contemporary Art Curation",
+      "Socially Engaged Art Practices",
+      "Museum Exhibition Design",
+      "Public Art Policy"
+    ],
+    "summary": "Prof. Dr. Hiroshi Minamishima is former director of the Contemporary Art Museum Kumamoto, investigating international biennale curation models and socially engaged public art interventions.",
+    "source": "https://www.yokohama-art.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3388,
+    "name": "Prof. Masako Sato",
+    "title": "Professor of Visual Communication and Typography",
+    "university": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "department": "Department of Design",
+    "subject": "arts-design",
+    "topics": [
+      "Japanese Kana Typography Systems",
+      "Information Graphic Architecture",
+      "Editorial Book Design",
+      "Sustainable Packaging Design"
+    ],
+    "summary": "Prof. Masako Sato directs research in editorial book art and typographic legibility in bilingual Japanese-Latin script design, designing award-winning corporate identities and cultural exhibition publications.",
+    "source": "https://www.yokohama-art.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3389,
+    "name": "Prof. Dr. Yoshihiro Mimaki",
+    "title": "Professor of Pharmacognosy and Natural Products Chemistry",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "department": "Department of Natural Product Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Steroidal Saponins from Liliaceae",
+      "Cytotoxic Natural Products",
+      "Kampo Herbal Quality Control",
+      "Medicinal Plant Chemical Ecology"
+    ],
+    "summary": "Prof. Dr. Yoshihiro Mimaki is a distinguished natural product chemist who has isolated and structurally elucidated hundreds of novel saponins and glycosides with selective cytotoxic activity against human tumor cell lines.",
+    "source": "https://www.hamayaku.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3390,
+    "name": "Prof. Dr. Katsuyoshi Matsunami",
+    "title": "Dean of the Faculty of Pharmaceutical Sciences",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "department": "Faculty of Pharmaceutical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Bioactive Secondary Metabolites",
+      "Traditional Asian Medicines",
+      "Antimalarial Phytochemicals",
+      "Herbal Pharmacogenomics"
+    ],
+    "summary": "Prof. Dr. Katsuyoshi Matsunami investigates therapeutic phytochemicals from tropical and temperate medicinal plants, identifying enzymatic targets for antimalarial, antiviral, and anti-diabetic botanical extracts.",
+    "source": "https://www.hamayaku.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3391,
+    "name": "Prof. Dr. Noriko Takahashi",
+    "title": "Professor of Clinical Pharmacokinetics and Drug Delivery Systems",
+    "university": "Yokohama University of Pharmacy",
+    "country": "Japan",
+    "department": "Department of Clinical Pharmacy",
+    "subject": "biology",
+    "topics": [
+      "Nanoparticle Drug Delivery",
+      "Blood-Brain Barrier Drug Transport",
+      "Individualized Pharmacokinetic Dosing",
+      "Therapeutic Drug Monitoring"
+    ],
+    "summary": "Prof. Dr. Noriko Takahashi designs lipid nanoparticle delivery systems to transport chemotherapeutic agents across biological membranes, optimizing clinical dosing regimens for geriatric cancer patients.",
+    "source": "https://www.hamayaku.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3392,
+    "name": "Prof. Dr. Wei Zhang",
+    "title": "Campus Director and Professor of International Trade Economics",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "department": "Faculty of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "RCEP Regional Integration",
+      "China-Japan Bilateral Trade Tariffs",
+      "Supply Chain Decoupling and Resilience",
+      "Cross-Border FDI Flows"
+    ],
+    "summary": "Prof. Dr. Wei Zhang directs academic operations at Shanghai University Tokyo Campus, publishing empirical analyses on tariff structures under the Regional Comprehensive Economic Partnership (RCEP) and Sino-Japanese foreign direct investment.",
+    "source": "https://www.u-shanghai.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3393,
+    "name": "Prof. Dr. Kenichi Tanaka",
+    "title": "Professor of Comparative East Asian Business Strategy",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "department": "Department of International Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Multinational Corporate Governance",
+      "Cross-Cultural Joint Venture Management",
+      "Supply Chain Risk Mitigation in East Asia",
+      "Automotive Industry Transitions"
+    ],
+    "summary": "Prof. Dr. Kenichi Tanaka consults Japanese and Chinese multinational corporations on joint venture conflict management, technology licensing, and electric vehicle supply chain partnerships.",
+    "source": "https://www.u-shanghai.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3394,
+    "name": "Prof. Dr. Li Chen",
+    "title": "Professor of Applied Linguistics and Cross-Cultural Communication",
+    "university": "Shanghai University Tokyo Campus",
+    "country": "Japan",
+    "department": "Department of Languages and Cultural Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Pragmatics of High-Stakes Business Negotiations",
+      "Trilingual Pedagogical Frameworks",
+      "Diplomatic Discourse Analysis",
+      "Intercultural Semiotics"
+    ],
+    "summary": "Prof. Dr. Li Chen researches pragmatic communication barriers between Chinese and Japanese corporate executives, designing specialized simulation-based negotiation curricula for bilingual graduates.",
+    "source": "https://www.u-shanghai.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3395,
+    "name": "Prof. Dr. Yoshiaki Kawata",
+    "title": "Executive Director of Disaster Reduction and Professor of Civil Engineering",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "department": "Consortium Committee on Disaster Reduction and Safety Management",
+    "subject": "engineering",
+    "topics": [
+      "Catastrophic Disaster Risk Reduction",
+      "Tsunami Run-Up Hydrodynamics",
+      "Crisis Evacuation Simulation",
+      "Urban Seismic Resilience"
+    ],
+    "summary": "Prof. Dr. Yoshiaki Kawata is one of Japan’s most influential disaster reduction authorities, directing national advisory panels on Nankai Trough earthquake preparedness and urban flood defense systems.",
+    "source": "https://consortium-hyogo.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3396,
+    "name": "Prof. Dr. Masahiko Yoshii",
+    "title": "Chair of the International Academic Exchange Committee and Professor of Economics",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "department": "Executive Board of HKUC / Kobe University Faculty of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "European Economic Transition",
+      "Comparative Regional Integration",
+      "International Student Mobility Policy",
+      "Hanshin Economic Dynamism"
+    ],
+    "summary": "Prof. Dr. Masahiko Yoshii guides international academic policies across the 45 HKUC institutions, researching comparative economic regionalism and international graduate workforce integration.",
+    "source": "https://consortium-hyogo.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3397,
+    "name": "Dr. Sayaka Fujii",
+    "title": "Senior Coordinator of the Kobe Biomedical Academic-Industry Alliance",
+    "university": "Hyogo-Kobe University Consortium (HKUC)",
+    "country": "Japan",
+    "department": "Division of Medical and Life Science Collaboration",
+    "subject": "biology",
+    "topics": [
+      "Translational Medical Cluster Governance",
+      "Biotech Startup Incubators",
+      "Regenerative Medicine Regulatory Pathway",
+      "Life Science Talent Retention"
+    ],
+    "summary": "Dr. Sayaka Fujii coordinates clinical translation partnerships between consortium university laboratories and pharmaceutical companies at the Kobe Biomedical Innovation Cluster.",
+    "source": "https://consortium-hyogo.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3398,
+    "name": "Prof. Dr. Yoshihisa Tsuzuki",
+    "title": "Professor of Global Entrepreneurship and Corporate Economics",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "department": "Faculty of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "Asian Cross-Border Venture Strategy",
+      "Private University Innovation Policy",
+      "SME Internationalization",
+      "Digital Business Models"
+    ],
+    "summary": "Prof. Dr. Yoshihisa Tsuzuki conducts research on corporate entrepreneurship within the East Asian economic sphere, evaluating growth dynamics of cross-border retail ventures and private higher education innovation.",
+    "source": "https://shibuya.jue.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3399,
+    "name": "Prof. Dr. Hiroaki Matsubara",
+    "title": "Professor of Marketing and Entertainment Management",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "department": "Faculty of Economics / Kobe Campus",
+    "subject": "social-sciences",
+    "topics": [
+      "Pop Culture Intellectual Property Valuation",
+      "Consumer Behavior in Creative Industries",
+      "Fashion Brand Merchandising",
+      "Digital Content Distribution"
+    ],
+    "summary": "Prof. Dr. Hiroaki Matsubara investigates consumer engagement in Japanese pop culture and fashion, analyzing global licensing strategies for character goods and digital streaming monetization.",
+    "source": "https://shibuya.jue.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3400,
+    "name": "Prof. Dr. Midori Yamashita",
+    "title": "Professor of Hospitality Economics and Tourism Development",
+    "university": "Japan University of Economics - Kobe Sannomiya Campus",
+    "country": "Japan",
+    "department": "Department of Business Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Inbound Tourism in Hanshin Ports",
+      "Service Quality in Luxury Hospitality",
+      "Destination Brand Equity",
+      "Culinary Tourism Marketing"
+    ],
+    "summary": "Prof. Dr. Midori Yamashita investigates hospitality service excellence and destination branding in Kobe, evaluating the economic multiplier effects of cruise ship tourism and regional food culture promotion.",
+    "source": "https://shibuya.jue.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3401,
+    "name": "Prof. Dr. Yoshiaki Shinoda",
+    "title": "Professor of Regional Economics and Urban Revitalization",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "department": "Faculty of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "Tohoku Regional Economic Reconstruction",
+      "Local Public Finance",
+      "Demographic Aging and Municipal Mergers",
+      "Agricultural Supply Chain Integration"
+    ],
+    "summary": "Prof. Dr. Yoshiaki Shinoda investigates fiscal sustainability in depopulating municipalities across northern Japan, advising prefectural governments on post-2011 economic resilience and smart shrinkage models.",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3402,
+    "name": "Prof. Dr. Elizabeth M. Harrison",
+    "title": "Professor of Comparative Literature and Cultural Studies",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "department": "Faculty of Letters",
+    "subject": "social-sciences",
+    "topics": [
+      "Transnational American Literature",
+      "Meiji Christian Intellectual Networks",
+      "Gender in Protestant Mission History",
+      "Intercultural Translation Theory"
+    ],
+    "summary": "Prof. Dr. Elizabeth M. Harrison examines the historical archives of early American Protestant missionaries in Sendai, publishing on the cross-cultural transmission of democratic ideals and women’s education in Tohoku.",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3403,
+    "name": "Prof. Dr. Kenichi Suzuki",
+    "title": "Professor of Electrical and Human Information Systems",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "department": "Faculty of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Assistive Robotics for Elder Care",
+      "Surface EMG Signal Classification",
+      "Wearable Inertial Sensor Networks",
+      "Biomechanical Gait Rehabilitation"
+    ],
+    "summary": "Prof. Dr. Kenichi Suzuki leads development of wearable robotic exoskeletons and biosignal sensors, collaborating with regional rehabilitation hospitals to enhance mobility for stroke survivors.",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3404,
+    "name": "Prof. Dr. Masao Watanabe",
+    "title": "Professor of Constitutional Law and Administrative Jurisprudence",
+    "university": "Tohoku Gakuin University - Tsuchitoi Main Campus",
+    "country": "Japan",
+    "department": "Faculty of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Japanese Constitutional Peace Principles",
+      "Administrative Law in Disaster Recovery",
+      "Privacy Rights in Digital Governance",
+      "Local Autonomy Law"
+    ],
+    "summary": "Prof. Dr. Masao Watanabe analyzes legal frameworks governing administrative emergency powers, municipal zoning during post-disaster relocation, and individual civil liberties under Article 9 of the Japanese Constitution.",
+    "source": "https://www.tohoku-gakuin.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3405,
+    "name": "Prof. Dr. Hideto Matsuyama",
+    "title": "Director of the Center for Membrane and Film Technology and Professor of Chemical Engineering",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "department": "Graduate School of Engineering / Research Center for Membrane and Film Technology",
+    "subject": "engineering",
+    "topics": [
+      "Polymer Membrane Desalination",
+      "Forward Osmosis Water Purification",
+      "Phase Inversion Membrane Morphology",
+      "Carbon Capture Gas Separation"
+    ],
+    "summary": "Prof. Dr. Hideto Matsuyama is an international authority on membrane separation science, directing Japan’s premier membrane research center and holding patents on antifouling hollow-fiber water filtration membranes.",
+    "source": "https://www.kobe-u.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3406,
+    "name": "Prof. Dr. Katsuhiko Kokubu",
+    "title": "Dean of the Graduate School of Business Administration and Professor of Social and Environmental Accounting",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "department": "Graduate School of Business Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Material Flow Cost Accounting (MFCA)",
+      "Corporate Sustainability Governance",
+      "Environmental Management Accounting",
+      "ESG Reporting Disclosure"
+    ],
+    "summary": "Prof. Dr. Katsuhiko Kokubu is a global pioneer in Material Flow Cost Accounting (MFCA), authoring international ISO standards (ISO 14051) and consulting multinational firms on quantifying environmental supply chain waste.",
+    "source": "https://www.kobe-u.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3407,
+    "name": "Prof. Dr. Tomotaka Sakano",
+    "title": "Professor of Public International Law and Maritime Jurisprudence",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "department": "Graduate School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Law of the Sea Conventions (UNCLOS)",
+      "Maritime Boundary Dispute Delimitation",
+      "International Environmental Treaty Law",
+      "State Responsibility in Marine Pollution"
+    ],
+    "summary": "Prof. Dr. Tomotaka Sakano advises national maritime delegations on UNCLOS compliance, deep seabed mining legalities, and dispute settlement mechanisms before international tribunals.",
+    "source": "https://www.kobe-u.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3408,
+    "name": "Prof. Dr. Akihiko Kondo",
+    "title": "Vice President and Professor of Chemical Biology and Metabolic Engineering",
+    "university": "Kobe University - Rokkodai Main Campus",
+    "country": "Japan",
+    "department": "Graduate School of Science, Technology and Innovation",
+    "subject": "biology",
+    "topics": [
+      "Cell Surface Display Technology",
+      "Synthetic Biology for Biofuel Synthesis",
+      "Metabolic Pathway Engineering in Yeast",
+      "CRISPR Functional Genomics"
+    ],
+    "summary": "Prof. Dr. Akihiko Kondo is a pioneer in cell surface display technology and synthetic biology, engineering microbial cell factories to produce carbon-neutral biofuels and biopharmaceuticals from lignocellulosic biomass.",
+    "source": "https://www.kobe-u.ac.jp",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-16"
   }];

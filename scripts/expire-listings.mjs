@@ -18,7 +18,7 @@ for(const o of expired){
   return next;
  });
  const u='https://universityproject-chi.vercel.app'+route;
- edits+=update('sitemap.xml',xml=>xml.replace(new RegExp('<url><loc>'+u.replace(/[.*+?^$\{\}()|[\]\\]/g,'\\$&')+'<\\/loc><lastmod>[^<]+<\\/lastmod><\\/url>\\n?','g'),''));
+ edits+=update('sitemap.xml',xml=>xml.replace(new RegExp('\\s*<url>\\s*<loc>'+u.replace(/[.*+?^$\{\}()|[\]\\]/g,'\\$&')+'<\\/loc>[\\s\\S]*?<\\/url>\\n?','g'),''));
 }
 const universityPages=existsSync(join(root,'universities'))?readdirSync(join(root,'universities'),{withFileTypes:true}).filter(item=>item.isDirectory()&&existsSync(join(root,'universities',item.name,'index.html'))).map(item=>'universities/'+item.name+'/index.html'):[];
 const categories=[...universityPages,...subjects.map(s=>'subjects/'+s.id+'/index.html')];
