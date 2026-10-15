@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 70,
+  "cycle": 71,
   "completedInCycle": [
     "germany",
     "usa",
@@ -21,18 +21,18 @@
   "nextCountry": "germany",
   "lastPublished": {
     "country": "japan",
-    "university": "Tokyo City University",
-    "sourceRow": 1768
+    "university": "Yashimagakuen University",
+    "sourceRow": 1790
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 116,
     "australia": 57,
-    "germany": 146,
+    "germany": 156,
     "italy": 114,
-    "usa": 145,
+    "usa": 155,
     "uk": 100,
-    "japan": 137,
+    "japan": 147,
     "sweden": 56,
     "netherlands": 121,
     "switzerland": 41

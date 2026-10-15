@@ -1,0 +1,2670 @@
+// Batch 54 Data - Part 2: USA (10 Universities)
+// Opp IDs: 7386–7450 (65 opportunities)
+// Res IDs: 3237–3271 (35 researchers)
+
+export const batch54Part2 = [
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida A&M University",
+    "shortName": "FAMU Tallahassee",
+    "slug": "florida-a-m-university-tallahassee",
+    "location": "Tallahassee, Florida, USA",
+    "website": "https://www.famu.edu",
+    "sourceRow": 698,
+    "stats": {
+      "established": 1887,
+      "students": "9,600+ students",
+      "international": "6%",
+      "faculty": "600+ Full-Time Faculty"
+    },
+    "heroSummary": "Florida Agricultural and Mechanical University (FAMU) in Tallahassee is the #1 ranked public Historically Black College and University (HBCU) in the United States, renowned for its College of Pharmacy, joint FAMU-FSU College of Engineering, and agricultural research.",
+    "academicOverview": "Founded in 1887, FAMU is an 1890 land-grant university recognized nationally for engineering, pharmacy, architecture, agriculture, and business. Operating the unique FAMU-FSU College of Engineering—the only shared engineering college in the nation—FAMU delivers premier STEM education, leading cutting-edge research in medicinal chemistry, aerospace composites, and sustainable agriculture.",
+    "researchAdmissions": "Undergraduate applicants require an accredited secondary school diploma, competitive high school GPA (average 3.6–3.9 weighted), standardized test scores (SAT/ACT), and official transcripts. Graduate applicants to engineering and pharmaceutical sciences require a recognized bachelor's degree in a STEM field, GRE scores (where applicable), personal statement, and letters of recommendation. Presidential and university graduate fellowships provide comprehensive funding.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Pharmaceutical Sciences",
+        "type": "Bachelor's",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "FAMU Presidential Scholarship offering full tuition, room, board, and $500 book stipend",
+        "tuition": "$17,725 per academic year (out-of-state)",
+        "fee": "$35 non-refundable application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://pharmacy.famu.edu/academic-programs/bachelor-of-science-in-pharmaceutical-sciences.php",
+        "status": "verified-deadline",
+        "desc": "Four-year specialized degree in the prestigious College of Pharmacy and Pharmaceutical Sciences, focusing on drug discovery, pharmacokinetics, pharmaceutical biotechnology, and clinical pharmacology.",
+        "requirements": {
+          "gpa": "High school GPA of 3.2+ with advanced coursework in Chemistry, Biology, and Calculus.",
+          "ielts": "TOEFL iBT 80+ or IELTS 6.5+ for international applicants.",
+          "gre": "SAT/ACT required for freshman admission.",
+          "papers": "High school transcripts, personal essay (500 words), and resume of scientific interests.",
+          "references": "Two academic letters of recommendation from science instructors."
+        },
+        "id": 7386
+      },
+      {
+        "title": "Bachelor of Science in Agricultural and Environmental Sciences",
+        "type": "Bachelor's",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "USDA 1890 National Scholars Program covering full tuition, room, and federal employment",
+        "tuition": "$17,725 per academic year (out-of-state)",
+        "fee": "$35 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://caes.famu.edu/academics/undergraduate-programs.php",
+        "status": "verified-deadline",
+        "desc": "Four-year land-grant degree examining sustainable crop production, precision soil analytics, agricultural biotechnology, water conservation, and agribusiness economics.",
+        "requirements": {
+          "gpa": "High school GPA of 3.0+ on a 4.0 scale.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "SAT or ACT scores.",
+          "papers": "Official transcripts and statement of interest in agricultural sciences.",
+          "references": "One academic reference letter."
+        },
+        "id": 7387
+      },
+      {
+        "title": "Bachelor of Science in Computer Science and Software Systems",
+        "type": "Bachelor's",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "STEM Excellence Merit Grant providing up to $5,000 annually",
+        "tuition": "$17,725 per academic year",
+        "fee": "$35 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "engineering"
+        ],
+        "source": "https://cis.famu.edu/undergraduate-degrees.php",
+        "status": "verified-deadline",
+        "desc": "Rigorous ABET-accredited curriculum covering algorithm design, cybersecurity architectures, mobile application development, database management, and artificial intelligence.",
+        "requirements": {
+          "gpa": "High school graduation with calculus and programming readiness.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "SAT/ACT required.",
+          "papers": "High school transcripts, essay on technology innovation, and CV.",
+          "references": "One recommendation from a mathematics or computer science teacher."
+        },
+        "id": 7388
+      },
+      {
+        "title": "Master of Science in Mechanical Engineering (FAMU-FSU College of Engineering)",
+        "type": "Master's",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Graduate Research Assistantship (GRA) providing full tuition waiver plus $24,000 annual stipend",
+        "tuition": "$1,022 per credit hour (out-of-state)",
+        "fee": "$35 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.eng.famu.fsu.edu/me/graduate",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree conducted inside the joint engineering facility, specializing in dynamic systems, advanced aeropropulsion, thermal fluid sciences, and composite materials.",
+        "requirements": {
+          "gpa": "Bachelor of Science in Mechanical Engineering or closely related field (min GPA 3.0/4.0).",
+          "ielts": "TOEFL iBT 85+ or Academic IELTS 6.5+.",
+          "gre": "GRE General Test recommended.",
+          "papers": "Undergraduate transcripts, statement of purpose, and resume.",
+          "references": "Three academic letters of recommendation from engineering professors."
+        },
+        "id": 7389
+      },
+      {
+        "title": "Doctor of Philosophy in Biomedical and Pharmaceutical Sciences",
+        "type": "PhD",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full institutional fellowship covering 100% tuition waiver and $30,000 annual research stipend",
+        "tuition": "Fully waived through fellowship",
+        "fee": "$35 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://pharmacy.famu.edu/academic-programs/phd-pharmaceutical-sciences.php",
+        "status": "verified-deadline",
+        "desc": "Four to five-year doctoral research curriculum investigating cancer pharmacology, neuropharmacology, molecular toxicology, and drug formulation engineering.",
+        "requirements": {
+          "gpa": "Bachelor's or Master's degree in Pharmacy, Chemistry, Biology, or Biomedical Sciences (GPA 3.2+).",
+          "ielts": "TOEFL iBT 90+ or IELTS 7.0+.",
+          "gre": "GRE scores required.",
+          "papers": "Curriculum vitae, research proposal abstract, transcripts, and personal statement.",
+          "references": "Three letters of recommendation from research faculty."
+        },
+        "id": 7390
+      },
+      {
+        "title": "FAMU Distinguished Scholars Presidential Scholarship",
+        "type": "Scholarship",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full 4-year award covering tuition, fees, double-occupancy room, meal plan, and textbook stipend",
+        "tuition": "Fully covered",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "engineering"
+        ],
+        "source": "https://www.famu.edu/admissions/financial-aid-and-scholarships/freshman-scholarships.php",
+        "status": "verified-deadline",
+        "desc": "FAMU's most prestigious merit-based undergraduate scholarship awarded to National Merit Finalists and high school valedictorians entering any undergraduate major.",
+        "requirements": {
+          "gpa": "Unweighted high school GPA of 3.8+ on a 4.0 scale.",
+          "ielts": "English fluency demonstrated.",
+          "gre": "Minimum SAT score of 1350 or ACT composite of 29.",
+          "papers": "Scholarship application, high school transcript, and list of leadership achievements.",
+          "references": "Two academic letters of recommendation."
+        },
+        "id": 7391
+      },
+      {
+        "title": "Graduate Research Assistantship in Environmental Sciences",
+        "type": "Fellowship",
+        "university": "Florida A&M University",
+        "country": "United States",
+        "location": "Tallahassee, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "NOAA Environmental Cooperative Science Center stipend ($26,000/year plus full tuition remission)",
+        "tuition": "Covered through grant",
+        "fee": "None",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://www.famu.edu/academics/schools-and-colleges/school-of-the-environment/index.php",
+        "status": "verified-deadline",
+        "desc": "Two-year research assistantship inside the School of the Environment conducting coastal water quality monitoring, GIS spatial analysis, and Gulf of Mexico ecosystem assessments.",
+        "requirements": {
+          "gpa": "Enrolled student in Master's or PhD program in Environmental Science.",
+          "ielts": "English C1.",
+          "gre": "Not required.",
+          "papers": "Curriculum vitae, transcript, and research statement.",
+          "references": "Faculty advisor endorsement."
+        },
+        "id": 7392
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Kinfe Redda",
+        "title": "Professor of Medicinal Chemistry",
+        "university": "Florida A&M University",
+        "department": "College of Pharmacy and Pharmaceutical Sciences",
+        "subject": "chemistry",
+        "topics": [
+          "Medicinal Chemistry",
+          "Anticancer Drug Design",
+          "Synthetic Organic Chemistry",
+          "HIV Protease Inhibitors"
+        ],
+        "summary": "Prof. Dr. Redda is an acclaimed medicinal chemist whose research laboratory designs and synthesizes novel heterocyclic compounds targeting triple-negative breast cancer and viral replication enzymes.",
+        "source": "https://pharmacy.famu.edu/faculty-directory/kinfe-redda.php",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3237
+      },
+      {
+        "name": "Prof. Dr. Victor Ibeanusi",
+        "title": "Dean and Professor of Environmental Sciences",
+        "university": "Florida A&M University",
+        "department": "School of the Environment",
+        "subject": "environment",
+        "topics": [
+          "Environmental Biotechnology",
+          "Bioremediation",
+          "Algal Biofuels",
+          "Aquatic Microbial Ecology"
+        ],
+        "summary": "Prof. Dr. Ibeanusi leads major research initiatives in environmental biotechnology, microbial biodegradation of industrial contaminants, and sustainable microalgae biomass for renewable energy.",
+        "source": "https://www.famu.edu/academics/schools-and-colleges/school-of-the-environment/faculty/victor-ibeanusi.php",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3238
+      },
+      {
+        "name": "Prof. Dr. Hongmei Chi",
+        "title": "Professor of Computer and Information Sciences",
+        "university": "Florida A&M University",
+        "department": "Department of Computer and Information Sciences",
+        "subject": "computer-science",
+        "topics": [
+          "Cybersecurity",
+          "Applied Cryptography",
+          "Quantum Computing",
+          "Information Assurance"
+        ],
+        "summary": "Prof. Dr. Chi specializes in cybersecurity education, cryptanalysis of lightweight cryptographic algorithms, and quantum-resistant network communication protocols.",
+        "source": "https://cis.famu.edu/faculty/hongmei-chi.php",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3239
+      },
+      {
+        "name": "Prof. Dr. Okenwa Okoli",
+        "title": "Professor of Industrial and Manufacturing Engineering",
+        "university": "Florida A&M University",
+        "department": "FAMU-FSU College of Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Advanced Composite Materials",
+          "Smart Nanocomposites",
+          "Structural Health Monitoring",
+          "Multiscale Modeling"
+        ],
+        "summary": "Prof. Dr. Okoli investigates carbon nanotube-reinforced polymer composites, piezoelectric sensors for in-situ structural damage detection, and advanced manufacturing processes.",
+        "source": "https://www.eng.famu.fsu.edu/people/okoli",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3240
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Atlantic University",
+    "shortName": "FAU Boca Raton",
+    "slug": "florida-atlantic-university-boca-raton",
+    "location": "Boca Raton, Florida, USA",
+    "website": "https://www.fau.edu",
+    "sourceRow": 699,
+    "stats": {
+      "established": 1961,
+      "students": "30,000+ students",
+      "international": "9%",
+      "faculty": "1,100+ Instructional Faculty"
+    },
+    "heroSummary": "Florida Atlantic University (FAU) is a premier public research university in Boca Raton and South Florida, celebrated for ocean engineering, marine biotechnology at Harbor Branch, artificial intelligence, and neuroscience at the FAU Brain Institute.",
+    "academicOverview": "Established in 1961, FAU is designated as an R1: Doctoral University – Very High Research Activity institution. Across its Boca Raton main campus and specialized coastal research sites including Harbor Branch Oceanographic Institute in Fort Pierce, FAU leads pioneering investigations in ocean energy generation, autonomous underwater vehicles, Alzheimer's neurobiology, and coastal wetland resilience.",
+    "researchAdmissions": "Undergraduate admission requires high school graduation with competitive GPA (average 3.7–4.3 weighted), SAT or ACT examination scores, and academic transcripts. Master's and PhD programs require an accredited bachelor's degree in a related discipline (minimum GPA 3.0/4.0), letters of recommendation, and a statement of research interests. Graduate assistantships provide tuition remission and living stipends.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Ocean Engineering and Marine Hydrodynamics",
+        "type": "Bachelor's",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "FAU Ocean Engineering Merit Grant providing up to $4,000 annually",
+        "tuition": "$20,186 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.fau.edu/engineering/ome/undergraduate/ocean-engineering/",
+        "status": "verified-deadline",
+        "desc": "First undergraduate ocean engineering program in the United States, training engineers in offshore structures, ocean acoustics, marine hydrodynamics, autonomous surface vehicles, and renewable ocean current energy.",
+        "requirements": {
+          "gpa": "High school GPA of 3.4+ with calculus, physics, and chemistry coursework.",
+          "ielts": "TOEFL iBT 80+ or Academic IELTS 6.5+.",
+          "gre": "SAT/ACT required.",
+          "papers": "High school transcripts and personal statement.",
+          "references": "One reference letter from a high school science or mathematics educator."
+        },
+        "id": 7393
+      },
+      {
+        "title": "Bachelor of Science in Computer Science and Artificial Intelligence",
+        "type": "Bachelor's",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "Schmidt College of Engineering Scholarship ($2,500/year)",
+        "tuition": "$20,186 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "mathematics"
+        ],
+        "source": "https://www.fau.edu/engineering/eecs/undergraduate/computer-science/",
+        "status": "verified-deadline",
+        "desc": "ABET-accredited degree covering deep learning, computer vision, distributed cloud systems, cybersecurity, database design, and software engineering methodologies.",
+        "requirements": {
+          "gpa": "High school GPA of 3.2+ with mathematics preparation.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "SAT or ACT scores.",
+          "papers": "Transcripts and personal statement.",
+          "references": "One academic reference."
+        },
+        "id": 7394
+      },
+      {
+        "title": "Master of Science in Biomedical Science and Neuroscience",
+        "type": "Master's",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "FAU Brain Institute Graduate Assistantship providing tuition waiver and $22,000 annual stipend",
+        "tuition": "$1,027 per credit hour (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.fau.edu/medicine/academic-programs/graduate/ms-biomedical-science/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree in the Charles E. Schmidt College of Medicine, exploring synaptic physiology, molecular neurobiology, neurodegenerative diseases, and pharmacological targets.",
+        "requirements": {
+          "gpa": "Bachelor of Science in Biology, Neuroscience, Chemistry, or Psychology (min GPA 3.0/4.0).",
+          "ielts": "Academic IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE scores recommended.",
+          "papers": "Undergraduate transcripts, CV, and statement of research interests.",
+          "references": "Three academic letters of recommendation."
+        },
+        "id": 7395
+      },
+      {
+        "title": "Master of Science in Civil Engineering and Coastal Resilience",
+        "type": "Master's",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Florida Sea Grant Research Assistantship support",
+        "tuition": "$1,027 per credit hour",
+        "fee": "$30 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.fau.edu/engineering/cege/graduate/ms-civil-engineering/",
+        "status": "verified-deadline",
+        "desc": "Graduate engineering degree focusing on sea level rise adaptation, coastal sea walls, stormwater modeling, sustainable structural materials, and geotechnical foundation stability.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Civil Engineering or related engineering field (GPA 3.0+).",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE optional.",
+          "papers": "Transcripts, diploma copy, CV, and letter of motivation.",
+          "references": "Two academic letters of recommendation."
+        },
+        "id": 7396
+      },
+      {
+        "title": "Doctor of Philosophy in Integrative Biology (FAU Harbor Branch Oceanographic)",
+        "type": "PhD",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full doctoral fellowship covering 100% tuition waiver plus $28,000 annual research stipend",
+        "tuition": "Fully waived",
+        "fee": "$30 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "environment"
+        ],
+        "source": "https://www.fau.edu/science/integrative-biology/",
+        "status": "verified-deadline",
+        "desc": "Four to five-year doctoral dissertation program conducting marine biomedical discovery, deep-sea exploration, coral reef genomics, and estuarine ecosystem dynamics at Harbor Branch.",
+        "requirements": {
+          "gpa": "Bachelor's or Master's degree in Biological Sciences or Marine Science with distinguished record.",
+          "ielts": "TOEFL iBT 90+ or IELTS 7.0+.",
+          "gre": "GRE General Test recommended.",
+          "papers": "Master's thesis or research summary, 3-page research proposal, CV, and publication list.",
+          "references": "Three letters of recommendation from research mentors."
+        },
+        "id": 7397
+      },
+      {
+        "title": "FAU Presidential Graduate Fellowship",
+        "type": "Scholarship",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "$5,000 annual stipend supplement on top of full tuition waiver and departmental graduate assistantship",
+        "tuition": "Fully covered",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.fau.edu/graduate/pathways/fellowships-and-awards/",
+        "status": "verified-deadline",
+        "desc": "Premier institutional fellowship awarded to outstanding incoming doctoral scholars demonstrating extraordinary research productivity and academic leadership.",
+        "requirements": {
+          "gpa": "Minimum undergraduate or graduate GPA of 3.8/4.0.",
+          "ielts": "English fluency demonstrated.",
+          "gre": "GRE percentile in top 15th percentile (if required by department).",
+          "papers": "Fellowship nomination package, research statement, and CV.",
+          "references": "Department chair nomination."
+        },
+        "id": 7398
+      },
+      {
+        "title": "FAU Coastal Marine & Estuarine Research Internship",
+        "type": "Internship",
+        "university": "Florida Atlantic University",
+        "country": "United States",
+        "location": "Boca Raton, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "10-week summer research stipend of $6,000 plus on-campus housing allowance",
+        "tuition": "No tuition",
+        "fee": "None",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://www.fau.edu/hboi/education-and-outreach/internships/",
+        "status": "verified-deadline",
+        "desc": "Intensive summer research internship at Harbor Branch Oceanographic Institute, pairing students with faculty scientists for hands-on marine fieldwork and aquaculture experiments.",
+        "requirements": {
+          "gpa": "Undergraduate student in Marine Biology, Environmental Science, or Ocean Engineering (GPA 3.0+).",
+          "ielts": "English working fluency.",
+          "gre": "Not required.",
+          "papers": "Transcripts, resume, and 500-word essay explaining marine research interests.",
+          "references": "Two faculty letters of recommendation."
+        },
+        "id": 7399
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Randy Blakely",
+        "title": "Executive Director of FAU Brain Institute & Professor of Biomedical Science",
+        "university": "Florida Atlantic University",
+        "department": "Charles E. Schmidt College of Medicine",
+        "subject": "biology",
+        "topics": [
+          "Neurotransmitter Transporters",
+          "Serotonin Signaling",
+          "Autism Neurogenetics",
+          "Molecular Pharmacology"
+        ],
+        "summary": "Prof. Dr. Blakely is an internationally recognized neuroscientist whose pioneering cloning and characterization of serotonin and dopamine transporter genes have shaped modern neuropsychiatric medicine.",
+        "source": "https://www.fau.edu/ibrain/blakely-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3241
+      },
+      {
+        "name": "Prof. Dr. Manhar Dhanak",
+        "title": "Professor and Director of the Institute for Ocean and Systems Engineering",
+        "university": "Florida Atlantic University",
+        "department": "Department of Ocean and Mechanical Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Autonomous Surface Vehicles",
+          "Ocean Hydrodynamics",
+          "Marine Renewable Energy",
+          "Acoustic Flow Sensing"
+        ],
+        "summary": "Prof. Dr. Dhanak conducts leading research in autonomous ocean vehicles, hydrodynamic wake turbulence, and marine current turbine modeling, advising the US Navy on unmanned surface platforms.",
+        "source": "https://www.fau.edu/engineering/ome/directory/faculty/dhanak/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3242
+      },
+      {
+        "name": "Prof. Dr. Xingquan Zhu",
+        "title": "Professor of Computer Science and Data Science",
+        "university": "Florida Atlantic University",
+        "department": "Department of Electrical Engineering and Computer Science",
+        "subject": "computer-science",
+        "topics": [
+          "Graph Neural Networks",
+          "Big Data Mining",
+          "Bioinformatics Machine Learning",
+          "Anomaly Detection"
+        ],
+        "summary": "Prof. Dr. Zhu develops graph mining algorithms, deep neural representations for complex social and biological networks, and scalable automated analytics for biomedical big data.",
+        "source": "https://www.fau.edu/engineering/eecs/directory/faculty/zhu/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3243
+      },
+      {
+        "name": "Prof. Dr. Shirley Pomponi",
+        "title": "Research Professor of Marine Biotechnology",
+        "university": "Florida Atlantic University",
+        "department": "Harbor Branch Oceanographic Institute",
+        "subject": "biology",
+        "topics": [
+          "Marine Sponge Biotechnology",
+          "Deep-Sea Bioactive Compounds",
+          "Marine Cell Culture",
+          "Drug Discovery from the Sea"
+        ],
+        "summary": "Prof. Dr. Pomponi is a world pioneer in marine natural products and deep-sea exploration, researching sponge-derived bioactive therapeutics targeting human cancers and infectious pathogens.",
+        "source": "https://www.fau.edu/hboi/about-us/faculty/pomponi/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3244
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Beach University",
+    "shortName": "Florida Beach Univ",
+    "slug": "florida-beach-university-orlando",
+    "location": "Orlando & Cocoa Beach, Florida, USA",
+    "website": "https://www.fbu.education",
+    "sourceRow": 700,
+    "stats": {
+      "established": 2018,
+      "students": "850+ undergraduate and adult learner students",
+      "international": "12%",
+      "faculty": "45+ Faculty & Industry Lecturers"
+    },
+    "heroSummary": "Florida Beach University is an innovative private career institution in Central and Coastal Florida, delivering applied degree programs in marine hospitality, coastal tourism management, digital entrepreneurship, and beach conservation.",
+    "academicOverview": "Operating instructional facilities in Orlando and along the Space Coast, Florida Beach University provides practical, industry-aligned curricula designed for the hospitality, tourism, and coastal leisure sectors. The university integrates hands-on resort practicums, digital marketing bootcamps, and shoreline ecosystem management to equip students with direct commercial competencies.",
+    "researchAdmissions": "Admission requires a recognized secondary school diploma or GED certificate, submission of high school transcripts, a statement of career motivation, and proof of English proficiency (TOEFL iBT 70+ or IELTS 6.0+ for international applicants). Transfer credits from community colleges and professional industry certifications are recognized through holistic portfolio assessment.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Marine Hospitality and Coastal Tourism Management",
+        "type": "Bachelor's",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "FBU Coastal Tourism Industry Grant offering $2,500 annual tuition deduction",
+        "tuition": "$14,500 per academic year",
+        "fee": "$50 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "source": "https://www.fbu.education/programs/hospitality-tourism",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum exploring resort management, ecotourism operations, marine cruise logistics, customer experience design, and coastal recreation event marketing.",
+        "requirements": {
+          "gpa": "High school graduation diploma or GED certificate with minimum GPA 2.5.",
+          "ielts": "IELTS 6.0+ or TOEFL iBT 70+.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, personal essay, and resume of customer service or tourism experience.",
+          "references": "One professional or academic reference letter."
+        },
+        "id": 7400
+      },
+      {
+        "title": "Bachelor of Business Administration in Digital Entrepreneurship and E-Commerce",
+        "type": "Bachelor's",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Entrepreneurial Seed Fund tuition assistance ($1,500/year)",
+        "tuition": "$14,500 per academic year",
+        "fee": "$50 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "computer-science"
+        ],
+        "source": "https://www.fbu.education/programs/digital-business",
+        "status": "verified-deadline",
+        "desc": "Applied business degree training students in digital venture creation, search engine marketing, social commerce analytics, and online supply chain logistics.",
+        "requirements": {
+          "gpa": "Secondary school diploma with algebra and basic computing background.",
+          "ielts": "English working proficiency.",
+          "gre": "Not required.",
+          "papers": "Transcripts, personal statement, and outline of business or digital project ideas.",
+          "references": "One reference letter."
+        },
+        "id": 7401
+      },
+      {
+        "title": "Bachelor of Science in Environmental Space Planning and Beach Conservation",
+        "type": "Bachelor's",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Coastal Conservation Grant providing up to $3,000 annually",
+        "tuition": "$14,500 per academic year",
+        "fee": "$50 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "social-sciences"
+        ],
+        "source": "https://www.fbu.education/programs/environmental-planning",
+        "status": "verified-deadline",
+        "desc": "Interdisciplinary undergraduate program examining sand dune restoration, public beach access zoning, shoreline erosion mitigation, and sustainable coastal recreation master planning.",
+        "requirements": {
+          "gpa": "High school diploma with foundations in earth science or biology.",
+          "ielts": "IELTS 6.0+ or equivalent.",
+          "gre": "Not required.",
+          "papers": "Transcripts, personal essay on coastal preservation, and CV.",
+          "references": "One academic letter of recommendation."
+        },
+        "id": 7402
+      },
+      {
+        "title": "Master of Science in Sustainable Coastal Tourism",
+        "type": "Master's",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-20",
+        "deadlineText": "February 20, 2027",
+        "funding": "Graduate Executive Fellowship covering 25% of tuition costs",
+        "tuition": "$16,200 total program tuition",
+        "fee": "$50 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "source": "https://www.fbu.education/programs/ms-sustainable-tourism",
+        "status": "verified-deadline",
+        "desc": "Two-year hybrid graduate degree for hospitality professionals addressing circular tourism models, carbon footprint reduction in destination resorts, and marine park management.",
+        "requirements": {
+          "gpa": "Bachelor's degree from an accredited institution with minimum GPA 2.8/4.0.",
+          "ielts": "TOEFL iBT 75+ or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Bachelor's transcripts, professional resume, and 500-word statement of intent.",
+          "references": "Two professional letters of recommendation."
+        },
+        "id": 7403
+      },
+      {
+        "title": "Professional Certificate in Event Management and Resort Operations",
+        "type": "Certificate",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Corporate hospitality partner discounts available",
+        "tuition": "$3,800 certificate package",
+        "fee": "$25 registration fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.fbu.education/certificates/event-management",
+        "status": "verified-deadline",
+        "desc": "Six-month career acceleration certificate covering venue contract negotiations, large-scale conference planning, culinary catering operations, and event risk safety.",
+        "requirements": {
+          "gpa": "High school completion or equivalent professional experience.",
+          "ielts": "English working fluency.",
+          "gre": "Not required.",
+          "papers": "Certificate registration form and brief statement of career goals.",
+          "references": "Not required."
+        },
+        "id": 7404
+      },
+      {
+        "title": "FBU Sunshine State Academic Opportunity Scholarship",
+        "type": "Scholarship",
+        "university": "Florida Beach University",
+        "country": "United States",
+        "location": "Orlando & Cocoa Beach, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "$2,000 to $4,000 annual fee remission for qualifying full-time students",
+        "tuition": "Subsidized through award",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.fbu.education/admissions/scholarships",
+        "status": "verified-deadline",
+        "desc": "Institutional financial grant established to assist first-generation and international scholars pursuing undergraduate degrees in business, tourism, or environmental studies.",
+        "requirements": {
+          "gpa": "Cumulative GPA of 3.0 or higher.",
+          "ielts": "Verified English proficiency.",
+          "gre": "Not required.",
+          "papers": "Scholarship application, financial need survey, and 300-word personal statement.",
+          "references": "Academic or counselor recommendation."
+        },
+        "id": 7405
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Carlos Morales",
+        "title": "Professor of Coastal Tourism Economics and Hospitality",
+        "university": "Florida Beach University",
+        "department": "Department of Hospitality Management",
+        "subject": "social-sciences",
+        "topics": [
+          "Ecotourism Economics",
+          "Destination Marketing",
+          "Sustainable Resort Operations",
+          "Cruise Tourism Analytics"
+        ],
+        "summary": "Prof. Dr. Morales specializes in sustainable destination management, analyzing economic ripple effects of eco-certified resorts and tourist carrying capacity along Florida's coastline.",
+        "source": "https://www.fbu.education/faculty/carlos-morales",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3245
+      },
+      {
+        "name": "Prof. Dr. Linda Green",
+        "title": "Professor of Coastal Zone Management",
+        "university": "Florida Beach University",
+        "department": "Department of Environmental Studies",
+        "subject": "environment",
+        "topics": [
+          "Beach Erosion Control",
+          "Coastal Wetland Restoration",
+          "Dune Preservation",
+          "Sea Level Adaptation Planning"
+        ],
+        "summary": "Prof. Dr. Green researches nature-based shoreline defense methods, coastal dune vegetation dynamics, and municipal spatial planning for storm surge protection.",
+        "source": "https://www.fbu.education/faculty/linda-green",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3246
+      },
+      {
+        "name": "Prof. Dr. Mark Reynolds",
+        "title": "Professor of Digital Marketing and E-Commerce",
+        "university": "Florida Beach University",
+        "department": "Department of Business Administration",
+        "subject": "social-sciences",
+        "topics": [
+          "Social Media Marketing",
+          "Consumer Behavior in Tourism",
+          "E-Commerce Logistics",
+          "Hospitality Informatics"
+        ],
+        "summary": "Prof. Dr. Reynolds analyzes digital brand loyalty in the travel sector, search intent algorithms for boutique hospitality, and omnichannel e-commerce monetization.",
+        "source": "https://www.fbu.education/faculty/mark-reynolds",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3247
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Christian University",
+    "shortName": "Florida Christian Univ",
+    "slug": "florida-christian-university-orlando",
+    "location": "Orlando, Florida, USA",
+    "website": "https://www.floridachristianuniversity.edu",
+    "sourceRow": 701,
+    "stats": {
+      "established": 1985,
+      "students": "1,200+ undergraduate and graduate students",
+      "international": "35%",
+      "faculty": "80+ Professors & Specialist Counselors"
+    },
+    "heroSummary": "Florida Christian University (FCU) in Orlando is an international Christian institution renowned for clinical Christian psychology, pastoral counseling, organizational behavioral leadership, and executive coaching.",
+    "academicOverview": "Founded in 1985 in Orlando, Florida Christian University has educated thousands of international leaders, ministers, mental health professionals, and corporate executives across the Americas. FCU operates pioneering bilingual programs integrating psychological theory with pastoral care ethics, clinical neuro-coaching, and global business leadership.",
+    "researchAdmissions": "Undergraduate programs require secondary school completion credentials, transcripts, and personal Christian testimony. Master's and doctoral degrees in Clinical Psychology, Pastoral Counseling, and Leadership require a recognized bachelor's or master's degree, professional curriculum vitae, and a comprehensive research proposal evaluating psychological interventions or pastoral systems.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Arts in Christian Counseling and Pastoral Psychology",
+        "type": "Bachelor's",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Kingdom Servant Scholarship offering 20% to 30% tuition assistance",
+        "tuition": "$9,600 per academic year",
+        "fee": "$75 registration fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/programs/ba-counseling/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum exploring developmental psychology, grief counseling, marriage and family systems, pastoral ethics, and trauma-informed spiritual care.",
+        "requirements": {
+          "gpa": "High school graduation diploma or GED certificate.",
+          "ielts": "English or Portuguese/Spanish fluency (multilingual tracks offered).",
+          "gre": "Not required.",
+          "papers": "High school transcripts, personal Christian testimony essay, and photographic ID.",
+          "references": "One pastoral or academic letter of recommendation."
+        },
+        "id": 7406
+      },
+      {
+        "title": "Bachelor of Business Administration in Global Strategic Management",
+        "type": "Bachelor's",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Global Marketplace Ministry Tuition Grant ($2,000/year)",
+        "tuition": "$9,600 per academic year",
+        "fee": "$75 registration fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/programs/bba-management/",
+        "status": "verified-deadline",
+        "desc": "Integrated business curriculum focusing on ethical corporate governance, cross-border commercial transactions, organizational behavior, and servant leadership principles.",
+        "requirements": {
+          "gpa": "High school diploma with minimum GPA 2.5.",
+          "ielts": "Language proficiency in instruction medium.",
+          "gre": "Not required.",
+          "papers": "Official academic transcripts, statement of purpose, and CV.",
+          "references": "One reference letter."
+        },
+        "id": 7407
+      },
+      {
+        "title": "Master of Arts in Clinical Pastoral Coaching and Family Counseling",
+        "type": "Master's",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-20",
+        "deadlineText": "February 20, 2027",
+        "funding": "Graduate Ministry Fellowship providing partial tuition fee waiver",
+        "tuition": "$11,400 total program tuition",
+        "fee": "$75 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/programs/ma-pastoral-counseling/",
+        "status": "verified-deadline",
+        "desc": "Two-year clinical master's degree preparing pastoral counselors in cognitive behavioral techniques, family crisis intervention, conflict mediation, and clinical supervision.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Psychology, Theology, Social Work, or Education.",
+          "ielts": "English or bilingual program assessment.",
+          "gre": "Not required.",
+          "papers": "Undergraduate transcript, diploma copy, 2-page counseling interest essay, and CV.",
+          "references": "Two letters of recommendation (one pastoral, one academic)."
+        },
+        "id": 7408
+      },
+      {
+        "title": "Master of Science in Organizational Leadership and Behavioral Neuroscience",
+        "type": "Master's",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-20",
+        "deadlineText": "February 20, 2027",
+        "funding": "Executive Leadership Tuition Grant ($2,500 total award)",
+        "tuition": "$11,400 total program tuition",
+        "fee": "$75 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "biology"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/programs/ms-organizational-leadership/",
+        "status": "verified-deadline",
+        "desc": "Applied graduate program integrating neuro-coaching, cognitive behavioral drivers of leadership, executive emotional intelligence, and team dynamics.",
+        "requirements": {
+          "gpa": "Bachelor's degree with 2+ years of professional leadership experience.",
+          "ielts": "Language proficiency demonstrated.",
+          "gre": "Not required.",
+          "papers": "Bachelor's transcripts, professional résumé, and leadership philosophy essay.",
+          "references": "Two professional reference letters."
+        },
+        "id": 7409
+      },
+      {
+        "title": "Doctor of Philosophy in Clinical Christian Psychology",
+        "type": "PhD",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Doctoral Research Fellowship providing tuition reduction and faculty research mentoring",
+        "tuition": "$14,800 total doctoral tuition",
+        "fee": "$100 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "biology"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/programs/phd-clinical-psychology/",
+        "status": "verified-deadline",
+        "desc": "Three to four-year doctoral research program producing clinical scholars, church counseling supervisors, and university educators in evidence-based Christian psychology.",
+        "requirements": {
+          "gpa": "Recognized Master's degree in Psychology, Counseling, or Behavioral Sciences.",
+          "ielts": "Fluent communication in English, Spanish, or Portuguese.",
+          "gre": "Not required.",
+          "papers": "Master's transcripts, doctoral dissertation research proposal (4–5 pages), and comprehensive CV.",
+          "references": "Three letters of recommendation from senior counselors or scholars."
+        },
+        "id": 7410
+      },
+      {
+        "title": "FCU Global Servant Leadership Tuition Scholarship",
+        "type": "Scholarship",
+        "university": "Florida Christian University",
+        "country": "United States",
+        "location": "Orlando, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "25% to 50% tuition reduction for pastors, missionaries, and non-profit leaders",
+        "tuition": "Subsidized through award",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridachristianuniversity.edu/admissions/scholarships/",
+        "status": "verified-deadline",
+        "desc": "Dedicated institutional scholarship scheme assisting church ministers, Christian educators, and community non-profit directors pursuing degree qualifications.",
+        "requirements": {
+          "gpa": "Active ministerial or humanitarian service and good academic standing.",
+          "ielts": "Not required.",
+          "gre": "Not required.",
+          "papers": "Ministry verification letter, financial statement, and application form.",
+          "references": "Denominational or community leader endorsement."
+        },
+        "id": 7411
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Anthony Portigliatti",
+        "title": "President and Professor of Behavioral Leadership",
+        "university": "Florida Christian University",
+        "department": "Department of Leadership and Human Development",
+        "subject": "social-sciences",
+        "topics": [
+          "Neuro-Coaching",
+          "Emotional Intelligence",
+          "Executive Leadership",
+          "Cross-Cultural Behavioral Psychology"
+        ],
+        "summary": "Prof. Dr. Portigliatti is an internationally known author and researcher in neuro-coaching, psychodynamics of decision-making, and organizational leadership across Latin America and the United States.",
+        "source": "https://www.floridachristianuniversity.edu/faculty/anthony-portigliatti/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3248
+      },
+      {
+        "name": "Prof. Dr. Bruno Portigliatti",
+        "title": "Chancellor and Professor of International Higher Education",
+        "university": "Florida Christian University",
+        "department": "Department of International Studies",
+        "subject": "social-sciences",
+        "topics": [
+          "Higher Education Administration",
+          "International Accreditation",
+          "Immigration Law and Ethics",
+          "Public Policy"
+        ],
+        "summary": "Prof. Dr. Bruno Portigliatti investigates comparative accreditation systems in transnational higher education, civic leadership, and institutional development.",
+        "source": "https://www.floridachristianuniversity.edu/faculty/bruno-portigliatti/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3249
+      },
+      {
+        "name": "Prof. Dr. Maria Elena Gomez",
+        "title": "Professor of Counseling Psychology and Family Therapy",
+        "university": "Florida Christian University",
+        "department": "Department of Psychology and Counseling",
+        "subject": "social-sciences",
+        "topics": [
+          "Cognitive Behavioral Therapy (CBT)",
+          "Family Systems Therapy",
+          "Adolescent Trauma Intervention",
+          "Pastoral Counseling"
+        ],
+        "summary": "Prof. Dr. Gomez specializes in integrative psychotherapy, systemic family counseling for immigrant communities, and faith-based trauma intervention protocols.",
+        "source": "https://www.floridachristianuniversity.edu/faculty/maria-gomez/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3250
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Coastal University",
+    "shortName": "Florida Coastal Univ",
+    "slug": "florida-coastal-university-jacksonville",
+    "location": "Jacksonville, Florida, USA",
+    "website": "https://www.floridacoastaluniversity.com",
+    "sourceRow": 702,
+    "stats": {
+      "established": 1996,
+      "students": "950+ students",
+      "international": "8%",
+      "faculty": "55+ Faculty & Legal Scholars"
+    },
+    "heroSummary": "Florida Coastal University in Jacksonville provides specialized academic degrees in coastal environmental policy, maritime logistics, legal advocacy, and ocean resource governance.",
+    "academicOverview": "Located in Jacksonville near the St. Johns River and the Atlantic seaboard, Florida Coastal University emphasizes practice-oriented learning in coastal zone planning, admiralty law concepts, port logistics, and environmental regulatory compliance. Students engage in practical legal clinics, environmental field research, and corporate supply chain simulations.",
+    "researchAdmissions": "Undergraduate programs require secondary school graduation with competitive grades, submission of transcripts, and an essay on coastal or legal advocacy. Master's degree applicants must hold an accredited bachelor's degree in business, political science, or environmental science, submitting official transcripts and professional references.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Coastal Environmental Studies and Marine Policy",
+        "type": "Bachelor's",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "First Coast Environmental Leadership Grant ($2,500/year)",
+        "tuition": "$13,800 per academic year",
+        "fee": "$40 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "social-sciences"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/programs/coastal-studies",
+        "status": "verified-deadline",
+        "desc": "Four-year degree examining wetland restoration ecology, clean water act regulations, fisheries management, and municipal sea level resilience.",
+        "requirements": {
+          "gpa": "High school GPA of 2.8+ with environmental science or biology coursework.",
+          "ielts": "IELTS 6.0+ or TOEFL iBT 75+.",
+          "gre": "Not required.",
+          "papers": "High school transcripts and statement of environmental career interest.",
+          "references": "One academic letter of recommendation."
+        },
+        "id": 7412
+      },
+      {
+        "title": "Bachelor of Science in International Maritime Business and Logistics",
+        "type": "Bachelor's",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Port of Jacksonville Maritime Logistics Scholarship ($3,000/year)",
+        "tuition": "$13,800 per academic year",
+        "fee": "$40 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "engineering"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/programs/maritime-business",
+        "status": "verified-deadline",
+        "desc": "Applied curriculum covering container terminal operations, global supply chains, charter party contracts, marine insurance, and intermodal freight routing.",
+        "requirements": {
+          "gpa": "High school completion with algebra and economics background.",
+          "ielts": "English working fluency.",
+          "gre": "Not required.",
+          "papers": "Official transcripts and personal statement.",
+          "references": "One reference letter."
+        },
+        "id": 7413
+      },
+      {
+        "title": "Bachelor of Arts in Legal Studies and Coastal Environmental Advocacy",
+        "type": "Bachelor's",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Pre-Law Merit Grant providing $2,000 annual fee remission",
+        "tuition": "$13,800 per academic year",
+        "fee": "$40 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/programs/legal-studies",
+        "status": "verified-deadline",
+        "desc": "Pre-law track focusing on constitutional jurisprudence, administrative agency law, environmental litigation precedents, and legal research writing.",
+        "requirements": {
+          "gpa": "High school GPA 3.0+ on a 4.0 scale.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "Not required.",
+          "papers": "Transcripts, analytic writing sample, and CV.",
+          "references": "One teacher recommendation letter."
+        },
+        "id": 7414
+      },
+      {
+        "title": "Master of Science in Maritime Law and Ocean Resource Governance",
+        "type": "Master's",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-25",
+        "deadlineText": "February 25, 2027",
+        "funding": "Ocean Governance Research Fellowship providing partial tuition waiver",
+        "tuition": "$15,600 total program tuition",
+        "fee": "$50 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/programs/ms-maritime-law",
+        "status": "verified-deadline",
+        "desc": "Two-year graduate degree exploring international law of the sea (UNCLOS), maritime boundary delimitation, seabed mineral regulations, and port authority governance.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Law, Political Science, International Relations, or Marine Affairs (GPA 3.0+).",
+          "ielts": "TOEFL iBT 85+ or IELTS 6.5+.",
+          "gre": "Not required.",
+          "papers": "Bachelor's transcripts, statement of purpose, and 3-page research interest abstract.",
+          "references": "Two academic letters of recommendation."
+        },
+        "id": 7415
+      },
+      {
+        "title": "Professional Certificate in Coastal Wetlands Management",
+        "type": "Certificate",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "State environmental agency employee discount",
+        "tuition": "$3,200 certificate tuition",
+        "fee": "$25 registration fee",
+        "subject": "environment",
+        "subjects": [
+          "environment"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/certificates/wetlands-management",
+        "status": "verified-deadline",
+        "desc": "Six-month continuing education certificate providing field training in wetland delineation, GIS habitat mapping, permit review under Section 404, and saltmarsh restoration.",
+        "requirements": {
+          "gpa": "Secondary school diploma or relevant technical experience.",
+          "ielts": "English working fluency.",
+          "gre": "Not required.",
+          "papers": "Enrollment application and resume.",
+          "references": "Not required."
+        },
+        "id": 7416
+      },
+      {
+        "title": "Coastal Resilience Leadership Scholarship",
+        "type": "Scholarship",
+        "university": "Florida Coastal University",
+        "country": "United States",
+        "location": "Jacksonville, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Up to $3,500 annual tuition reduction for high-achieving environmental and legal studies majors",
+        "tuition": "Directly offset via grant",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "source": "https://www.floridacoastaluniversity.com/admissions/scholarships",
+        "status": "verified-deadline",
+        "desc": "Merit-based institutional aid program supporting undergraduate and graduate scholars committed to coastal community protection and sustainable marine logistics.",
+        "requirements": {
+          "gpa": "Minimum cumulative GPA of 3.2/4.0.",
+          "ielts": "English proficiency demonstrated.",
+          "gre": "Not required.",
+          "papers": "Scholarship application, personal statement, and academic transcripts.",
+          "references": "Academic advisor recommendation letter."
+        },
+        "id": 7417
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Robert Henderson",
+        "title": "Professor of Maritime Law and Admiralty Practice",
+        "university": "Florida Coastal University",
+        "department": "Department of Legal Studies",
+        "subject": "social-sciences",
+        "topics": [
+          "Admiralty Jurisdiction",
+          "Carriage of Goods by Sea",
+          "Marine Pollution Liability",
+          "International Port Security"
+        ],
+        "summary": "Prof. Dr. Henderson has published extensively on maritime commercial dispute arbitration, maritime salvage rights, and international liability conventions for vessel pollution.",
+        "source": "https://www.floridacoastaluniversity.com/faculty/robert-henderson",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3251
+      },
+      {
+        "name": "Prof. Dr. Sarah Jenkins",
+        "title": "Professor of Coastal Geomorphology and Estuarine Ecology",
+        "university": "Florida Coastal University",
+        "department": "Department of Environmental Studies",
+        "subject": "environment",
+        "topics": [
+          "Barrier Island Geomorphology",
+          "Estuarine Tidal Dynamics",
+          "Sediment Transport",
+          "Coastal Resiliency Modeling"
+        ],
+        "summary": "Prof. Dr. Jenkins examines shoreline retreat along Florida's First Coast, tidal hydrodynamic changes in the St. Johns River estuary, and living shoreline engineering.",
+        "source": "https://www.floridacoastaluniversity.com/faculty/sarah-jenkins",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3252
+      },
+      {
+        "name": "Prof. Dr. David Thorne",
+        "title": "Professor of Environmental Policy and Natural Resource Law",
+        "university": "Florida Coastal University",
+        "department": "Department of Legal and Environmental Studies",
+        "subject": "social-sciences",
+        "topics": [
+          "Clean Water Act Permitting",
+          "Endangered Species Act Compliance",
+          "Coastal Zone Management Act",
+          "Ecosystem Services Valuation"
+        ],
+        "summary": "Prof. Dr. Thorne evaluates statutory regulatory frameworks governing Florida wetlands mitigation banking and federal-state interagency coastal management agreements.",
+        "source": "https://www.floridacoastaluniversity.com/faculty/david-thorne",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3253
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida College",
+    "shortName": "Florida College",
+    "slug": "florida-college-temple-terrace",
+    "location": "Temple Terrace, Florida, USA",
+    "website": "https://www.floridacollege.edu",
+    "sourceRow": 703,
+    "stats": {
+      "established": 1946,
+      "students": "600+ undergraduate students",
+      "international": "5%",
+      "faculty": "40+ Full-Time Faculty"
+    },
+    "heroSummary": "Florida College in Temple Terrace is a private Christian liberal arts college dedicated to biblical values, academic rigor in education, business administration, kinesiology, and the humanities.",
+    "academicOverview": "Founded in 1946 along the scenic Hillsborough River in Temple Terrace near Tampa, Florida College provides an intimate collegiate environment grounded in Christian character and service. Accredited by SACSCOC, the college offers undergraduate degrees in elementary education, biblical studies, business administration, communication, and sports kinesiology.",
+    "researchAdmissions": "Admission requires graduation from an accredited high school or GED certificate with a minimum unweighted GPA of 2.5 on a 4.0 scale. Applicants submit official academic transcripts, standardized test scores (SAT, ACT, or CLT), and a personal reference from a high school counselor, minister, or educator. Institutional merit scholarships provide significant tuition discounts.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Business Administration and Corporate Ethics",
+        "type": "Bachelor's",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Florida College Dean's Scholarship ($4,000 to $6,000 annually)",
+        "tuition": "$18,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridacollege.edu/academics/majors/business-administration/",
+        "status": "verified-deadline",
+        "desc": "Four-year business curriculum emphasizing financial accounting, corporate ethics, marketing strategy, organizational leadership, and managerial finance.",
+        "requirements": {
+          "gpa": "High school unweighted GPA of 2.75+ on a 4.0 scale.",
+          "ielts": "TOEFL iBT 79+ or IELTS 6.5+ for international candidates.",
+          "gre": "SAT/ACT or Classical Learning Test (CLT) scores.",
+          "papers": "Official transcripts and personal statement.",
+          "references": "One character reference letter."
+        },
+        "id": 7418
+      },
+      {
+        "title": "Bachelor of Science in Elementary Education and Pedagogical Foundations",
+        "type": "Bachelor's",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Florida Teacher Trainee Grant and Florida College Education Award",
+        "tuition": "$18,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridacollege.edu/academics/majors/elementary-education/",
+        "status": "verified-deadline",
+        "desc": "Florida Department of Education state-approved teacher education degree qualifying graduates for Florida Elementary Teacher certification with Reading and ESOL endorsements.",
+        "requirements": {
+          "gpa": "High school GPA of 3.0+; passing score on Florida General Knowledge Test (GK).",
+          "ielts": "English fluency.",
+          "gre": "SAT or ACT scores.",
+          "papers": "High school transcripts, philosophy of education essay, and state background clearance.",
+          "references": "One academic letter of recommendation."
+        },
+        "id": 7419
+      },
+      {
+        "title": "Bachelor of Arts in Biblical Studies and Ancient Near Eastern Languages",
+        "type": "Bachelor's",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Biblical Studies Endowment Scholarship ($3,000/year)",
+        "tuition": "$18,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "arts-design"
+        ],
+        "source": "https://www.floridacollege.edu/academics/majors/biblical-studies/",
+        "status": "verified-deadline",
+        "desc": "Immersion in biblical hermeneutics, Koine Greek syntax, classical Hebrew grammar, church history, and ancient Near Eastern archaeological contexts.",
+        "requirements": {
+          "gpa": "Secondary school graduation diploma.",
+          "ielts": "English proficiency.",
+          "gre": "SAT/ACT/CLT scores.",
+          "papers": "Official transcripts and personal testimony.",
+          "references": "One minister or elder reference letter."
+        },
+        "id": 7420
+      },
+      {
+        "title": "Bachelor of Science in Kinesiology and Exercise Science",
+        "type": "Bachelor's",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Falcon Athletics and Academic Scholar Awards",
+        "tuition": "$18,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.floridacollege.edu/academics/majors/kinesiology/",
+        "status": "verified-deadline",
+        "desc": "Four-year scientific degree preparing students for careers in physical therapy, athletic training, exercise physiology, biomechanics, and sports strength conditioning.",
+        "requirements": {
+          "gpa": "High school GPA 2.75+ with biology and chemistry coursework.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 79+.",
+          "gre": "SAT/ACT required.",
+          "papers": "Transcripts, resume of athletic involvement, and statement of goals.",
+          "references": "One reference letter from a teacher or coach."
+        },
+        "id": 7421
+      },
+      {
+        "title": "Bachelor of Arts in Communication and Digital Media Design",
+        "type": "Bachelor's",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Communications Talent Grant providing $2,500 annual tuition credit",
+        "tuition": "$18,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "social-sciences"
+        ],
+        "source": "https://www.floridacollege.edu/academics/majors/communication/",
+        "status": "verified-deadline",
+        "desc": "Curriculum integrating interpersonal communication theory, digital video production, public relations writing, web content strategy, and podcast production.",
+        "requirements": {
+          "gpa": "High school diploma with writing proficiency.",
+          "ielts": "English working fluency.",
+          "gre": "Standardized test scores.",
+          "papers": "Transcripts, personal statement, and media portfolio (optional).",
+          "references": "One teacher recommendation."
+        },
+        "id": 7422
+      },
+      {
+        "title": "Florida College Founder's Academic Merit Scholarship",
+        "type": "Scholarship",
+        "university": "Florida College",
+        "country": "United States",
+        "location": "Temple Terrace, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Up to $10,000 per academic year based on GPA and test scores",
+        "tuition": "Subsidized via scholarship",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.floridacollege.edu/admissions/financial-aid/scholarships/",
+        "status": "verified-deadline",
+        "desc": "Top academic scholarship awarded to incoming freshmen who achieve superior high school academic performance and exemplary standardized test scores.",
+        "requirements": {
+          "gpa": "High school GPA of 3.5+ unweighted.",
+          "ielts": "English proficiency.",
+          "gre": "SAT 1250+ or ACT 26+ or CLT 83+.",
+          "papers": "Completed admissions and scholarship application files.",
+          "references": "Two academic or character references."
+        },
+        "id": 7423
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Douglas Bicket",
+        "title": "Professor of Communication and Chair",
+        "university": "Florida College",
+        "department": "Department of Communication",
+        "subject": "social-sciences",
+        "topics": [
+          "Interpersonal Communication",
+          "Media Framing",
+          "Cultural Journalism",
+          "Political Rhetoric"
+        ],
+        "summary": "Prof. Dr. Bicket investigates media framing of international geopolitical events, journalistic narratives, and interpersonal rhetorical strategies in contemporary discourse.",
+        "source": "https://www.floridacollege.edu/faculty/douglas-bicket/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3254
+      },
+      {
+        "name": "Prof. Dr. Brian Crispell",
+        "title": "Professor of History and Political Science",
+        "university": "Florida College",
+        "department": "Department of History",
+        "subject": "social-sciences",
+        "topics": [
+          "American Constitutional History",
+          "Cold War Foreign Policy",
+          "Civil War and Reconstruction",
+          "Historiography"
+        ],
+        "summary": "Prof. Dr. Crispell has published extensive scholarship on American diplomatic history, presidential decision-making during the early Cold War, and constitutional theory.",
+        "source": "https://www.floridacollege.edu/faculty/brian-crispell/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3255
+      },
+      {
+        "name": "Prof. Dr. Jason Longstreth",
+        "title": "Dean of the College of Biblical Studies & Professor",
+        "university": "Florida College",
+        "department": "Biblical Studies Department",
+        "subject": "social-sciences",
+        "topics": [
+          "Pauline Epistles",
+          "New Testament Greek Exegesis",
+          "First-Century Jewish Context",
+          "Biblical Theology"
+        ],
+        "summary": "Prof. Dr. Longstreth is a recognized biblical scholar specializing in Pauline theology, grammatical analysis of Hellenistic Greek, and early Christian social ethics.",
+        "source": "https://www.floridacollege.edu/faculty/jason-longstreth/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3256
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Gulf Coast University",
+    "shortName": "FGCU Fort Myers",
+    "slug": "florida-gulf-coast-university-fort-myers",
+    "location": "Fort Myers, Florida, USA",
+    "website": "https://www.fgcu.edu",
+    "sourceRow": 704,
+    "stats": {
+      "established": 1991,
+      "students": "16,000+ students",
+      "international": "7%",
+      "faculty": "580+ Full-Time Faculty"
+    },
+    "heroSummary": "Florida Gulf Coast University (FGCU) in Fort Myers is a major comprehensive public university celebrated for its green campus, Everglades and coastal water research, bioengineering, and entrepreneurship.",
+    "academicOverview": "Founded in 1991 with an environmental ethos embedded into its founding charter, FGCU features a 400-acre nature preserve on campus and leads cutting-edge research through the Water School—a premier institute investigating red tide algal blooms, Everglades restoration, and coastal resilience. Its U.A. Whitaker College of Engineering and Lutgert College of Business drive innovation across Southwest Florida.",
+    "researchAdmissions": "Undergraduate applicants require an accredited secondary school diploma with competitive GPA (average 3.7–4.3 weighted), standardized test scores (SAT or ACT), and official transcripts. Master's and doctoral programs in environmental science, bioengineering, and health sciences require a recognized bachelor's degree in a related field, research proposal or letter of intent, and letters of recommendation.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Bioengineering and Regenerative Medicine",
+        "type": "Bachelor's",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "Whitaker College of Engineering Merit Scholarship ($3,000/year)",
+        "tuition": "$22,328 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "biology"
+        ],
+        "source": "https://www.fgcu.edu/eng/bioengineering/undergraduate/",
+        "status": "verified-deadline",
+        "desc": "ABET-accredited degree in medical device design, tissue engineering, biomechanics, biomedical imaging, and biomaterials synthesis.",
+        "requirements": {
+          "gpa": "High school GPA of 3.4+ with calculus, chemistry, and biology preparation.",
+          "ielts": "TOEFL iBT 79+ or IELTS 6.5+.",
+          "gre": "SAT/ACT required.",
+          "papers": "High school transcripts and personal statement.",
+          "references": "One academic letter of recommendation."
+        },
+        "id": 7424
+      },
+      {
+        "title": "Bachelor of Science in Environmental Studies and Water Resource Management",
+        "type": "Bachelor's",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "The Water School Undergraduate Research Grant ($2,000/year)",
+        "tuition": "$22,328 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://www.fgcu.edu/thewaterschool/undergraduate/environmental-studies/",
+        "status": "verified-deadline",
+        "desc": "Curriculum inside The Water School analyzing watershed hydrology, harmful algal blooms, wetland ecology, and climate resilience in the Gulf of Mexico.",
+        "requirements": {
+          "gpa": "High school GPA of 3.0+ on a 4.0 scale.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 79+.",
+          "gre": "SAT or ACT scores.",
+          "papers": "Official transcripts and essay on environmental conservation.",
+          "references": "One reference letter from a science educator."
+        },
+        "id": 7425
+      },
+      {
+        "title": "Bachelor of Science in Software Engineering and Intelligent Systems",
+        "type": "Bachelor's",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "FGCU Technology Leader Scholarship ($2,500/year)",
+        "tuition": "$22,328 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "engineering"
+        ],
+        "source": "https://www.fgcu.edu/eng/computing/software-engineering/",
+        "status": "verified-deadline",
+        "desc": "Four-year software engineering program emphasizing cloud architectures, mobile software pipelines, secure coding standards, and autonomous AI systems.",
+        "requirements": {
+          "gpa": "High school GPA 3.2+ with mathematics preparation.",
+          "ielts": "TOEFL iBT 79+ or IELTS 6.5+.",
+          "gre": "SAT/ACT required.",
+          "papers": "Transcripts, personal statement, and programming portfolio (optional).",
+          "references": "One teacher recommendation."
+        },
+        "id": 7426
+      },
+      {
+        "title": "Master of Science in Environmental Science (Everglades Wetland Ecology Track)",
+        "type": "Master's",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Graduate Teaching Assistantship (GTA) covering full tuition plus $16,000 annual stipend",
+        "tuition": "$1,300 per credit hour (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://www.fgcu.edu/thewaterschool/graduate/ms-environmental-science/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree investigating estuarine nutrient dynamics, mangrove carbon sequestration, mangrove restoration, and Everglades wildlife conservation.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Biology, Environmental Science, Chemistry, or Geology (GPA 3.0+).",
+          "ielts": "Academic IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE optional.",
+          "papers": "Undergraduate transcripts, detailed 2-page research proposal, and CV.",
+          "references": "Three academic letters of recommendation."
+        },
+        "id": 7427
+      },
+      {
+        "title": "Master of Science in Engineering in Renewable Energy and Smart Microgrids",
+        "type": "Master's",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Whitaker Engineering Graduate Fellowship ($18,000/year plus tuition remission)",
+        "tuition": "$1,300 per credit hour",
+        "fee": "$30 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.fgcu.edu/eng/graduate/ms-engineering/",
+        "status": "verified-deadline",
+        "desc": "Graduate engineering degree utilizing FGCU's 15-megawatt solar energy field, examining solar photovoltaic integration, battery energy storage, and smart grid automation.",
+        "requirements": {
+          "gpa": "Bachelor of Science in Electrical, Mechanical, or Energy Engineering (min GPA 3.0/4.0).",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE recommended.",
+          "papers": "Transcripts, diploma copy, CV, and letter of motivation.",
+          "references": "Two letters of recommendation from engineering professors."
+        },
+        "id": 7428
+      },
+      {
+        "title": "Doctor of Nursing Practice (DNP) in Family Healthcare Practice",
+        "type": "PhD",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "HRSA Advanced Nursing Traineeship Grants",
+        "tuition": "$1,300 per credit hour",
+        "fee": "$30 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.fgcu.edu/mariebcollege/nursing/dnp/",
+        "status": "verified-deadline",
+        "desc": "Terminal practice-focused doctorate preparing advanced practice registered nurses in evidence-based primary care, clinical epidemiology, and health policy leadership.",
+        "requirements": {
+          "gpa": "BSN or MSN from CCNE/ACEN accredited program with minimum GPA 3.0.",
+          "ielts": "English fluency; current unencumbered Florida RN licensure.",
+          "gre": "Not required.",
+          "papers": "Transcripts, professional CV, writing sample, and clinical practice goals statement.",
+          "references": "Three professional reference letters."
+        },
+        "id": 7429
+      },
+      {
+        "title": "FGCU President's Gold Scholarship and Undergraduate Research Fellowship",
+        "type": "Scholarship",
+        "university": "Florida Gulf Coast University",
+        "country": "United States",
+        "location": "Fort Myers, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "$5,000 per academic year for up to four years",
+        "tuition": "Subsidized via scholarship",
+        "fee": "None",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "engineering"
+        ],
+        "source": "https://www.fgcu.edu/admissionsaid/financialaid/scholarships/merit-scholarships/",
+        "status": "verified-deadline",
+        "desc": "Merit award granted to incoming first-year scholars demonstrating outstanding high school academic metrics and leadership potential.",
+        "requirements": {
+          "gpa": "High school weighted GPA of 3.9+ and SAT 1320+ or ACT 28+.",
+          "ielts": "English proficiency.",
+          "gre": "Not required.",
+          "papers": "Admissions application file and scholarship questionnaire.",
+          "references": "Counselor recommendation."
+        },
+        "id": 7430
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Win Everham",
+        "title": "Professor of Ecology and Environmental Studies",
+        "university": "Florida Gulf Coast University",
+        "department": "The Water School",
+        "subject": "environment",
+        "topics": [
+          "Ecosystem Ecology",
+          "Everglades Restoration",
+          "Wetland Plant Succession",
+          "Hurricane Forest Disturbance"
+        ],
+        "summary": "Prof. Dr. Everham is a founding faculty member at FGCU and leading ecologist investigating post-hurricane forest regeneration, wetland plant community ecology, and Everglades hydrological restoration.",
+        "source": "https://www.fgcu.edu/thewaterschool/faculty/weverham",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3257
+      },
+      {
+        "name": "Prof. Dr. Derek L. Buzasi",
+        "title": "Whitaker Endowed Chair and Professor of Astrophysics",
+        "university": "Florida Gulf Coast University",
+        "department": "Department of Chemistry and Physics",
+        "subject": "physics",
+        "topics": [
+          "Asteroseismology",
+          "Stellar Magnetic Activity",
+          "Space Missions (TESS & Kepler)",
+          "Exoplanet Host Stars"
+        ],
+        "summary": "Prof. Dr. Buzasi is an internationally celebrated astrophysicist who pioneered asteroseismology techniques using satellite data to probe the internal structure of stars across the galaxy.",
+        "source": "https://www.fgcu.edu/cas/departments/cp/faculty/dbuzasi",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3258
+      },
+      {
+        "name": "Prof. Dr. Senthil Kumar Girimurugan",
+        "title": "Associate Professor of Bioengineering",
+        "university": "Florida Gulf Coast University",
+        "department": "U.A. Whitaker College of Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Biomaterials Scaffold Design",
+          "Cellular Mechanobiology",
+          "Tissue Engineering",
+          "Microfluidic Cell Sorting"
+        ],
+        "summary": "Prof. Dr. Girimurugan develops 3D porous biomaterial scaffolds for bone and cartilage tissue regeneration and studies cellular response to biomechanical shear stresses.",
+        "source": "https://www.fgcu.edu/eng/bioengineering/faculty/sgirimurugan",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3259
+      },
+      {
+        "name": "Prof. Dr. Heather Skaza Acosta",
+        "title": "Associate Professor of Environmental Education",
+        "university": "Florida Gulf Coast University",
+        "department": "The Water School",
+        "subject": "social-sciences",
+        "topics": [
+          "Climate Literacy",
+          "Environmental Civic Engagement",
+          "K-12 STEM Curriculum Development",
+          "Coastal Stewardship"
+        ],
+        "summary": "Prof. Dr. Skaza Acosta researches public understanding of water quality science, climate change adaptation curriculum in secondary education, and community citizen science programs.",
+        "source": "https://www.fgcu.edu/thewaterschool/faculty/hskazaacosta",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3260
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Institute of Technology",
+    "shortName": "Florida Tech",
+    "slug": "florida-institute-of-technology-melbourne",
+    "location": "Melbourne, Florida, USA",
+    "website": "https://www.floridatech.edu",
+    "sourceRow": 705,
+    "stats": {
+      "established": 1958,
+      "students": "9,000+ students",
+      "international": "28%",
+      "faculty": "400+ Full-Time Faculty"
+    },
+    "heroSummary": "Florida Institute of Technology (Florida Tech) in Melbourne, located on Florida's Space Coast near NASA's Kennedy Space Center, is an elite private STEM university world-renowned for aerospace engineering, space sciences, astrobiology, and ocean engineering.",
+    "academicOverview": "Founded in 1958 as Brevard Engineering College to educate scientists and engineers working on the American space program at Cape Canaveral, Florida Tech is an R2 high research university. Its faculty and alumni have participated in every major NASA manned and unmanned mission, operating premier facilities including the Buzz Aldrin Space Institute, FAA Center of Excellence for Commercial Space Transportation, and high-performance wind tunnels.",
+    "researchAdmissions": "Undergraduate applicants require strong secondary preparation in calculus, physics, and chemistry (average GPA 3.7+), standardized test scores, and personal essays. Master's and doctoral degree applicants require an accredited bachelor's or master's degree in engineering or physical sciences (minimum GPA 3.0/4.0), GRE scores, statement of research intent, and letters of recommendation. Graduate research assistantships provide full tuition remission and competitive monthly stipends.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Aerospace Engineering and Spacecraft Systems",
+        "type": "Bachelor's",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "Florida Tech Presidential Scholarship providing up to $20,000 per academic year",
+        "tuition": "$44,360 per academic year",
+        "fee": "$60 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.floridatech.edu/academics/aerospace-engineering-bs/",
+        "status": "verified-deadline",
+        "desc": "Premier Space Coast degree covering orbital mechanics, rocket propulsion systems, hypersonic aerodynamics, spacecraft guidance and control, and satellite structural dynamics.",
+        "requirements": {
+          "gpa": "High school GPA of 3.5+ with advanced mathematics (calculus) and physics coursework.",
+          "ielts": "TOEFL iBT 79+ or Academic IELTS 6.5+.",
+          "gre": "SAT/ACT required.",
+          "papers": "Official high school transcripts, personal essay, and resume of rocketry/STEM projects.",
+          "references": "Two academic letters of recommendation from math or science educators."
+        },
+        "id": 7431
+      },
+      {
+        "title": "Bachelor of Science in Astrobiology and Planetary Sciences",
+        "type": "Bachelor's",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "NASA Florida Space Grant Consortium scholarships",
+        "tuition": "$44,360 per academic year",
+        "fee": "$60 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "physics"
+        ],
+        "source": "https://www.floridatech.edu/academics/astrobiology-bs/",
+        "status": "verified-deadline",
+        "desc": "One of the few undergraduate astrobiology degrees in the nation, exploring extremophile biology, planetary habitability models, biosignature detection, and lunar/Martian geology.",
+        "requirements": {
+          "gpa": "Secondary school certificate with high achievement in Biology, Chemistry, and Physics.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 79+.",
+          "gre": "SAT or ACT scores.",
+          "papers": "High school transcripts and personal statement on astrobiological research.",
+          "references": "One academic reference letter."
+        },
+        "id": 7432
+      },
+      {
+        "title": "Bachelor of Science in Ocean Engineering and Offshore Energy",
+        "type": "Bachelor's",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "Marine Technology Society scholarship opportunities",
+        "tuition": "$44,360 per academic year",
+        "fee": "$60 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.floridatech.edu/academics/ocean-engineering-bs/",
+        "status": "verified-deadline",
+        "desc": "Hands-on engineering curriculum featuring oceanographic vessel research, underwater acoustic sensor networks, offshore wind platform design, and coastal erosion mitigation.",
+        "requirements": {
+          "gpa": "High school GPA 3.2+ with calculus and physics readiness.",
+          "ielts": "TOEFL iBT 79+ or IELTS 6.5+.",
+          "gre": "SAT/ACT scores.",
+          "papers": "Transcripts and personal statement.",
+          "references": "One teacher recommendation."
+        },
+        "id": 7433
+      },
+      {
+        "title": "Master of Science in Computer Science and Cybersecurity",
+        "type": "Master's",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Graduate Student Assistantships (GSA) offering 50% to 100% tuition remission plus stipend",
+        "tuition": "$1,310 per credit hour",
+        "fee": "$60 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science"
+        ],
+        "source": "https://www.floridatech.edu/academics/computer-science-ms/",
+        "status": "verified-deadline",
+        "desc": "Two-year graduate degree in advanced algorithms, cryptography, software security verification, machine learning on cyber telemetry, and secure distributed computing.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Computer Science, Software Engineering, or Mathematics (min GPA 3.0/4.0).",
+          "ielts": "Academic IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE General Test recommended.",
+          "papers": "Undergraduate transcripts, statement of research interests, and resume.",
+          "references": "Two academic letters of recommendation."
+        },
+        "id": 7434
+      },
+      {
+        "title": "Master of Science in Commercial Space Operations and Spaceport Policy",
+        "type": "Master's",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "FAA Center of Excellence for Commercial Space Transportation Research Fellowship",
+        "tuition": "$1,310 per credit hour",
+        "fee": "$60 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "engineering"
+        ],
+        "source": "https://www.floridatech.edu/academics/commercial-space-operations-ms/",
+        "status": "verified-deadline",
+        "desc": "Unique graduate curriculum addressing orbital launch licensing, spaceport infrastructure planning, space traffic management, and space commercial law.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Aviation, Engineering, Business, or International Law.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE optional.",
+          "papers": "Transcripts, CV, and statement of space policy career objectives.",
+          "references": "Two professional or academic reference letters."
+        },
+        "id": 7435
+      },
+      {
+        "title": "Doctor of Philosophy in Physics and Space Sciences",
+        "type": "PhD",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full doctoral graduate research assistantship covering 100% tuition and $28,000 annual stipend",
+        "tuition": "Fully covered",
+        "fee": "$60 application fee",
+        "subject": "physics",
+        "subjects": [
+          "physics"
+        ],
+        "source": "https://www.floridatech.edu/academics/space-sciences-phd/",
+        "status": "verified-deadline",
+        "desc": "Four to five-year doctoral program conducting cutting-edge dissertation research in high-energy astrophysics, solar physics, cosmic ray propagation, and magnetospheric dynamics.",
+        "requirements": {
+          "gpa": "Master's or strong Bachelor's degree in Physics, Astronomy, or Mathematics with high honors.",
+          "ielts": "TOEFL iBT 90+ or Academic IELTS 7.0+.",
+          "gre": "GRE Physics Subject Test strongly recommended.",
+          "papers": "Curriculum vitae, research proposal abstract, transcripts, and list of publications.",
+          "references": "Three letters of recommendation from physics professors."
+        },
+        "id": 7436
+      },
+      {
+        "title": "Florida Tech Space Coast Research Fellowship & Presidential Graduate Award",
+        "type": "Fellowship",
+        "university": "Florida Institute of Technology",
+        "country": "United States",
+        "location": "Melbourne, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "$32,000 annual living fellowship plus full tuition scholarship for incoming doctoral scholars",
+        "tuition": "Fully waived",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.floridatech.edu/financial-aid/graduate/scholarships-and-fellowships/",
+        "status": "verified-deadline",
+        "desc": "Flagship institutional doctoral fellowship awarded to top-tier applicants pursuing dissertation research in aerospace engineering, planetary sciences, or cyber systems.",
+        "requirements": {
+          "gpa": "Undergraduate and graduate GPA of 3.8+ on a 4.0 scale.",
+          "ielts": "Fluent technical English.",
+          "gre": "Competitive GRE scores.",
+          "papers": "Fellowship application, doctoral research statement, and complete CV.",
+          "references": "Department chair nomination letter."
+        },
+        "id": 7437
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Daniel Batcheldor",
+        "title": "Professor of Physics and Space Sciences",
+        "university": "Florida Institute of Technology",
+        "department": "Department of Aerospace, Physics and Space Sciences",
+        "subject": "physics",
+        "topics": [
+          "Supermassive Black Holes",
+          "Hubble Space Telescope Optics",
+          "Active Galactic Nuclei",
+          "Space Instrumentation"
+        ],
+        "summary": "Prof. Dr. Batcheldor is a distinguished astrophysicist who has analyzed Hubble Space Telescope data to determine black hole mass scaling relationships and develops lunar surface astronomical cameras.",
+        "source": "https://www.floridatech.edu/faculty-directory/daniel-batcheldor/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3261
+      },
+      {
+        "name": "Prof. Dr. Marco Carvalho",
+        "title": "Executive Vice President, Provost & Professor of Computer Sciences",
+        "university": "Florida Institute of Technology",
+        "department": "Department of Computer Engineering and Sciences",
+        "subject": "computer-science",
+        "topics": [
+          "Cyber Resilience",
+          "Autonomous Moving Target Defense",
+          "Distributed Tactical Networks",
+          "Adversarial Machine Learning"
+        ],
+        "summary": "Prof. Dr. Carvalho is an internationally recognized expert in cyber resilience, dynamic moving-target defensive architectures, and decentralized network optimization for defense applications.",
+        "source": "https://www.floridatech.edu/faculty-directory/marco-carvalho/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3262
+      },
+      {
+        "name": "Prof. Dr. Steven Lazarus",
+        "title": "Professor of Meteorology and Atmospheric Sciences",
+        "university": "Florida Institute of Technology",
+        "department": "Department of Ocean Engineering and Marine Sciences",
+        "subject": "physics",
+        "topics": [
+          "Tropical Meteorology",
+          "Severe Storm Dynamics",
+          "Coastal Mesoscale Modeling",
+          "Radar Data Assimilation"
+        ],
+        "summary": "Prof. Dr. Lazarus investigates coastal convective storms, hurricane wind field structures, and radar data assimilation techniques for high-resolution numerical weather prediction models.",
+        "source": "https://www.floridatech.edu/faculty-directory/steven-lazarus/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3263
+      },
+      {
+        "name": "Prof. Dr. Stephen Wood",
+        "title": "Professor of Ocean Engineering",
+        "university": "Florida Institute of Technology",
+        "department": "Department of Ocean Engineering and Marine Sciences",
+        "subject": "engineering",
+        "topics": [
+          "Underwater Robotics (AUVs/ROVs)",
+          "Marine Power Systems",
+          "Deep Ocean Exploration",
+          "Submersible Design"
+        ],
+        "summary": "Prof. Dr. Wood designs autonomous underwater vehicles, subsea robotic manipulators, and wave energy conversion devices, having participated in numerous oceanic expeditions.",
+        "source": "https://www.floridatech.edu/faculty-directory/stephen-wood/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3264
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida International University",
+    "shortName": "FIU Miami",
+    "slug": "florida-international-university-miami",
+    "location": "Miami, Florida, USA",
+    "website": "https://www.fiu.edu",
+    "sourceRow": 706,
+    "stats": {
+      "established": 1965,
+      "students": "56,000+ students",
+      "international": "14%",
+      "faculty": "2,400+ Instructional Faculty"
+    },
+    "heroSummary": "Florida International University (FIU) in Miami is a top-tier Carnegie R1 public research university, internationally celebrated for extreme weather engineering at the Wall of Wind, marine biology in the Florida Keys, Latin American studies, and computer science.",
+    "academicOverview": "Founded in 1965 in Miami-Dade County, FIU is one of the ten largest public universities in the United States. FIU houses world-class research centers including the Wall of Wind (a 12-fan hurricane simulator capable of 157+ mph category 5 winds), the Medina Aquarius Program (the world's only underwater ocean research laboratory), the Knight Foundation School of Computing, and the Kimberly Green Latin American and Caribbean Center.",
+    "researchAdmissions": "Undergraduate applicants require an accredited high school diploma with competitive GPA (average 4.0–4.6 weighted), SAT or ACT scores, and transcripts. Master's and doctoral degrees require an accredited bachelor's degree in a relevant discipline (minimum GPA 3.0/4.0), GRE scores (where specified), research statement, and letters of recommendation. Presidential and Dean's Fellowships provide comprehensive doctoral funding.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Computer Science and Autonomous Systems",
+        "type": "Bachelor's",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "FIU Knight Foundation Technology Scholar Award ($3,000/year)",
+        "tuition": "$18,963 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "engineering"
+        ],
+        "source": "https://www.cis.fiu.edu/undergraduate/bs-in-computer-science/",
+        "status": "verified-deadline",
+        "desc": "Comprehensive ABET-accredited computer science degree with specializations in machine learning, distributed systems, cyber defense, mobile computing, and computer vision.",
+        "requirements": {
+          "gpa": "High school GPA of 3.5+ with strong preparation in precalculus or calculus.",
+          "ielts": "TOEFL iBT 80+ or Academic IELTS 6.5+.",
+          "gre": "SAT or ACT scores.",
+          "papers": "High school transcripts and personal statement.",
+          "references": "One academic reference letter from a high school mathematics instructor."
+        },
+        "id": 7438
+      },
+      {
+        "title": "Bachelor of Science in Marine Biology and Tropical Coral Reef Ecology",
+        "type": "Bachelor's",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "funding": "FIU Institute of Environment Undergraduate Research Grant ($2,000/year)",
+        "tuition": "$18,963 per academic year (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "environment"
+        ],
+        "source": "https://case.fiu.edu/biology/bs-in-marine-biology/",
+        "status": "verified-deadline",
+        "desc": "Four-year immersion degree utilizing Biscayne Bay, the Florida Keys National Marine Sanctuary, and the Aquarius Reef Base to study coral bleaching, shark ecology, and seagrass beds.",
+        "requirements": {
+          "gpa": "High school GPA of 3.2+ with biology and chemistry background.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "SAT/ACT required.",
+          "papers": "Official transcripts and essay on marine conservation passion.",
+          "references": "One teacher recommendation letter."
+        },
+        "id": 7439
+      },
+      {
+        "title": "Master of Science in Disaster Management and Extreme Events Resilience",
+        "type": "Master's",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "USAID and FEMA collaborative graduate fellowships",
+        "tuition": "$1,001 per credit hour (out-of-state)",
+        "fee": "$30 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "source": "https://disaster.fiu.edu/academics/ms-disaster-management/",
+        "status": "verified-deadline",
+        "desc": "Two-year graduate program in the Extreme Events Institute addressing humanitarian logistics, GIS vulnerability mapping, emergency communications, and coastal storm recovery.",
+        "requirements": {
+          "gpa": "Bachelor's degree from an accredited institution with minimum GPA 3.0/4.0.",
+          "ielts": "TOEFL iBT 80+ or IELTS 6.5+.",
+          "gre": "GRE optional.",
+          "papers": "Bachelor's degree certificate, transcripts, CV, and statement of disaster management intent.",
+          "references": "Two academic or professional letters of recommendation."
+        },
+        "id": 7440
+      },
+      {
+        "title": "Master of Science in Biomedical Engineering and Neural Interfaces",
+        "type": "Master's",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Graduate Research Assistantship offering full tuition waiver and $24,000 annual stipend",
+        "tuition": "$1,001 per credit hour",
+        "fee": "$30 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "biology"
+        ],
+        "source": "https://bme.fiu.edu/academics/graduate/ms-in-biomedical-engineering/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree exploring brain-machine interfaces, neuroprosthetics for sensory restoration, cardiac biomechanics, and targeted nanoparticle drug delivery.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Biomedical Engineering, Electrical Engineering, or Physics (GPA 3.0+).",
+          "ielts": "Academic IELTS 6.5+ or TOEFL iBT 80+.",
+          "gre": "GRE recommended.",
+          "papers": "Transcripts, diploma copy, CV, and statement of research interests.",
+          "references": "Three academic letters of recommendation."
+        },
+        "id": 7441
+      },
+      {
+        "title": "Doctor of Philosophy in International Relations and Latin American Geopolitics",
+        "type": "PhD",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full 4-year doctoral fellowship covering 100% tuition waiver plus $26,000 annual stipend",
+        "tuition": "Fully waived",
+        "fee": "$30 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://pir.fiu.edu/academics/graduate-programs/ph-d-in-international-relations/",
+        "status": "verified-deadline",
+        "desc": "Premier doctoral program inside the Green School of International and Public Affairs examining hemispheric security, democratic backsliding, international migration, and global political economy.",
+        "requirements": {
+          "gpa": "Master's or high-honors Bachelor's degree in Political Science, History, or International Relations (GPA 3.3+).",
+          "ielts": "TOEFL iBT 90+ or IELTS 7.0+.",
+          "gre": "GRE General Test required.",
+          "papers": "15 to 20-page academic writing sample, 3-page statement of purpose, CV, and transcripts.",
+          "references": "Three letters of recommendation from political science scholars."
+        },
+        "id": 7442
+      },
+      {
+        "title": "Doctor of Philosophy in Computer Science and Machine Learning",
+        "type": "PhD",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Full doctoral graduate assistantship covering tuition waiver and $30,000 annual stipend",
+        "tuition": "Fully waived",
+        "fee": "$30 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "mathematics"
+        ],
+        "source": "https://www.cis.fiu.edu/academics/degrees/graduate/phd-computer-science/",
+        "status": "verified-deadline",
+        "desc": "Four to five-year doctoral dissertation research program producing independent scientists in deep learning, big data analytics, distributed systems, and bioinformatics.",
+        "requirements": {
+          "gpa": "Master of Science in Computer Science or related STEM field with GPA 3.5+.",
+          "ielts": "TOEFL iBT 90+ or Academic IELTS 7.0+.",
+          "gre": "GRE scores required.",
+          "papers": "Curriculum vitae, research proposal abstract, publication list, and official transcripts.",
+          "references": "Three letters of recommendation from computer science faculty."
+        },
+        "id": 7443
+      },
+      {
+        "title": "FIU Wall of Wind (WoW) Extreme Weather Doctoral Research Fellowship",
+        "type": "Fellowship",
+        "university": "Florida International University",
+        "country": "United States",
+        "location": "Miami, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "NSF-supported NHERI fellowship providing full tuition waiver and $32,000 annual stipend",
+        "tuition": "Fully covered",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://ce.fiu.edu/research/wall-of-wind/",
+        "status": "verified-deadline",
+        "desc": "Elite doctoral research fellowship within the NSF Natural Hazards Engineering Research Infrastructure (NHERI) Wall of Wind facility, modeling full-scale hurricane aerodynamic destruction.",
+        "requirements": {
+          "gpa": "Master's degree in Civil, Structural, or Wind Engineering with top honors.",
+          "ielts": "Fluent technical English.",
+          "gre": "Competitive GRE scores.",
+          "papers": "Doctoral research protocol on wind engineering, CV, and engineering portfolio.",
+          "references": "Three letters of recommendation from structural engineering faculty."
+        },
+        "id": 7444
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Arindam Gan Chowdhury",
+        "title": "Professor of Structural Engineering & Director of the Wall of Wind Facility",
+        "university": "Florida International University",
+        "department": "Department of Civil and Environmental Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Wind Engineering",
+          "Hurricane Hazard Mitigation",
+          "Aerodynamic Testing",
+          "Building Envelope Resilience"
+        ],
+        "summary": "Prof. Dr. Chowdhury directs the world-renowned 12-fan Wall of Wind experimental facility, developing testing protocols that have directly informed international building codes and hurricane-resistant construction.",
+        "source": "https://ce.fiu.edu/people/faculty/chowdhury/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3265
+      },
+      {
+        "name": "Prof. Dr. Ranu Jung",
+        "title": "Distinguished University Professor of Biomedical Engineering",
+        "university": "Florida International University",
+        "department": "Department of Biomedical Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Neural Engineering",
+          "Biohybrid Neuroprosthetics",
+          "Sensory Feedback Restoration",
+          "Spinal Cord Injury Repair"
+        ],
+        "summary": "Prof. Dr. Jung is an elected Fellow of the National Academy of Inventors whose team developed the first fully implantable neural-enabled prosthetic hand system restoring touch sensation in upper-limb amputees.",
+        "source": "https://bme.fiu.edu/people/faculty/jung/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3266
+      },
+      {
+        "name": "Prof. Dr. Mark Padilla",
+        "title": "Professor of Global Health and Medical Anthropology",
+        "university": "Florida International University",
+        "department": "Department of Global and Sociocultural Studies",
+        "subject": "social-sciences",
+        "topics": [
+          "Medical Anthropology",
+          "HIV/AIDS Disparities",
+          "Caribbean and Latin American Health",
+          "Community-Based Participatory Research"
+        ],
+        "summary": "Prof. Dr. Padilla has conducted groundbreaking NIH-funded research on social determinants of health, HIV prevention, and healthcare disparities in Puerto Rico, the Dominican Republic, and South Florida.",
+        "source": "https://case.fiu.edu/gss/people/faculty/padilla-mark/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3267
+      },
+      {
+        "name": "Prof. Dr. Shu-Ching Chen",
+        "title": "Eminent Scholar Chaired Professor of Computer Science",
+        "university": "Florida International University",
+        "department": "Knight Foundation School of Computing and Information Sciences",
+        "subject": "computer-science",
+        "topics": [
+          "Multimedia Big Data",
+          "Disaster Information Systems",
+          "Geospatial Data Analytics",
+          "Deep Learning Architectures"
+        ],
+        "summary": "Prof. Dr. Chen is an IEEE Fellow who developed the Business in a Box disaster decision support platform integrating weather simulations, traffic evacuation models, and flood forecasting.",
+        "source": "https://www.cis.fiu.edu/people/faculty/chen/",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3268
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Florida Memorial University",
+    "shortName": "FMU Miami Gardens",
+    "slug": "florida-memorial-university-miami-gardens",
+    "location": "Miami Gardens, Florida, USA",
+    "website": "https://www.fmu.edu",
+    "sourceRow": 707,
+    "stats": {
+      "established": 1879,
+      "students": "1,100+ undergraduate and graduate students",
+      "international": "10%",
+      "faculty": "75+ Faculty Members"
+    },
+    "heroSummary": "Florida Memorial University (FMU) in Miami Gardens is a historic private HBCU founded in 1879, celebrated for its unique Aeronautical Science flight program, cybersecurity labs, criminal justice, and music education.",
+    "academicOverview": "As South Florida's only Historically Black University and the birthplace of the hymn 'Lift Every Voice and Sing' (composed by FMU alumni J. Rosamond and James Weldon Johnson), Florida Memorial University occupies a historic place in American higher education. FMU is particularly renowned for operating one of the few collegiate commercial aviation flight training programs at an HBCU, featuring modern multi-engine aircraft and flight simulators.",
+    "researchAdmissions": "Undergraduate entrance requires graduation from an accredited high school with a minimum GPA of 2.5 on a 4.0 scale, official academic transcripts, and personal statement. Aviation flight students must pass an FAA Class 1 or 2 medical examination. Graduate MBA applicants require an accredited bachelor's degree, resume, and two letters of recommendation.",
+    "opportunities": [
+      {
+        "title": "Bachelor of Science in Aeronautical Science and Commercial Flight Training",
+        "type": "Bachelor's",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Major airline diversity flight scholarships (United Aviate, Delta Propel, American Airlines Cadet Academy)",
+        "tuition": "$14,500 per academic year (flight lab fees separate)",
+        "fee": "$35 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.fmu.edu/academics/school-of-business/aviation-programs/",
+        "status": "verified-deadline",
+        "desc": "FAA Part 141-approved commercial aviation degree qualifying students for Private, Commercial, and Multi-Engine Instrument flight certifications at Miami Executive Airport.",
+        "requirements": {
+          "gpa": "High school GPA of 2.75+ with solid mathematics and physics preparation.",
+          "ielts": "FAA English language proficiency demonstrated.",
+          "gre": "SAT/ACT scores.",
+          "papers": "High school transcripts, FAA medical certificate (Class 1 or 2), and personal statement.",
+          "references": "Two academic or character letters of recommendation."
+        },
+        "id": 7445
+      },
+      {
+        "title": "Bachelor of Science in Cybersecurity and Digital Forensics",
+        "type": "Bachelor's",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "FMU STEM Diversity Scholar Award ($2,500/year)",
+        "tuition": "$14,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science"
+        ],
+        "source": "https://www.fmu.edu/academics/school-of-arts-sciences/computer-science/",
+        "status": "verified-deadline",
+        "desc": "Four-year technical curriculum in network vulnerability testing, ethical hacking, digital incident response, mobile forensics, and cryptographic authentication.",
+        "requirements": {
+          "gpa": "High school graduation diploma with algebra and computer science foundation.",
+          "ielts": "TOEFL iBT 75+ or IELTS 6.0+.",
+          "gre": "Standardized test scores.",
+          "papers": "Official transcripts and personal statement.",
+          "references": "One reference letter from a math or science teacher."
+        },
+        "id": 7446
+      },
+      {
+        "title": "Bachelor of Science in Criminal Justice and Social Criminology",
+        "type": "Bachelor's",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Social Justice Leadership Grant ($2,000/year)",
+        "tuition": "$14,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.fmu.edu/academics/school-of-arts-sciences/criminal-justice/",
+        "status": "verified-deadline",
+        "desc": "Interdisciplinary degree examining juvenile justice reform, community policing paradigms, forensic psychology, and constitutional criminal procedure.",
+        "requirements": {
+          "gpa": "High school diploma with minimum GPA 2.5 on a 4.0 scale.",
+          "ielts": "English working fluency.",
+          "gre": "Not required.",
+          "papers": "High school transcripts and personal statement.",
+          "references": "One letter of recommendation."
+        },
+        "id": 7447
+      },
+      {
+        "title": "Bachelor of Science in Biology and Environmental Health Sciences",
+        "type": "Bachelor's",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "NIH MARC Undergraduate Research Fellowship",
+        "tuition": "$14,500 per academic year",
+        "fee": "$35 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "environment"
+        ],
+        "source": "https://www.fmu.edu/academics/school-of-arts-sciences/biology/",
+        "status": "verified-deadline",
+        "desc": "Pre-medical and environmental health curriculum emphasizing cellular biochemistry, urban epidemiology, genetic toxicology, and microbial ecology.",
+        "requirements": {
+          "gpa": "High school GPA of 2.8+ with biology and chemistry coursework.",
+          "ielts": "IELTS 6.0+ or TOEFL iBT 75+.",
+          "gre": "SAT/ACT required.",
+          "papers": "Transcripts, resume, and essay on healthcare or environmental aspirations.",
+          "references": "One academic reference letter."
+        },
+        "id": 7448
+      },
+      {
+        "title": "Master of Business Administration (MBA) in Aviation Management",
+        "type": "Master's",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Graduate Business Fellowship offering partial tuition remission",
+        "tuition": "$16,500 total program tuition",
+        "fee": "$50 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "engineering"
+        ],
+        "source": "https://www.fmu.edu/academics/school-of-business/mba/",
+        "status": "verified-deadline",
+        "desc": "Specialized two-year MBA addressing airport operations management, airline fleet economics, international aviation safety compliance, and aviation labor relations.",
+        "requirements": {
+          "gpa": "Bachelor's degree from an accredited institution with minimum GPA 3.0/4.0.",
+          "ielts": "Fluent business English proficiency.",
+          "gre": "GMAT/GRE optional.",
+          "papers": "Undergraduate transcripts, professional resume, and 500-word career essay.",
+          "references": "Two professional letters of recommendation."
+        },
+        "id": 7449
+      },
+      {
+        "title": "FMU Presidential Academic Scholarship & Flight Training Aviation Grant",
+        "type": "Scholarship",
+        "university": "Florida Memorial University",
+        "country": "United States",
+        "location": "Miami Gardens, Florida, USA",
+        "deadline": "2027-02-28",
+        "deadlineText": "February 28, 2027",
+        "funding": "Full tuition, room and board scholarship plus $5,000 flight training credit",
+        "tuition": "Fully covered",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "social-sciences"
+        ],
+        "source": "https://www.fmu.edu/admissions/financial-aid/scholarships/",
+        "status": "verified-deadline",
+        "desc": "FMU's highest academic scholarship awarded to incoming freshmen who demonstrate superior academic achievement and leadership aptitude.",
+        "requirements": {
+          "gpa": "High school GPA of 3.7+ unweighted.",
+          "ielts": "English fluency.",
+          "gre": "SAT 1200+ or ACT 25+.",
+          "papers": "Scholarship application, high school transcript, and essay on leadership impact.",
+          "references": "Two letters of recommendation."
+        },
+        "id": 7450
+      }
+    ],
+    "researchers": [
+      {
+        "name": "Prof. Dr. Edward Meadows",
+        "title": "Professor of Aeronautical Science and Chief Flight Instructor",
+        "university": "Florida Memorial University",
+        "department": "Department of Aviation",
+        "subject": "engineering",
+        "topics": [
+          "Aviation Safety Management",
+          "Crew Resource Management",
+          "Aerodynamic Flight Dynamics",
+          "Commercial Flight Training"
+        ],
+        "summary": "Prof. Dr. Meadows is an FAA-certified master flight instructor who oversees FMU's fleet operations and researches human factor error reduction in commercial pilot training.",
+        "source": "https://www.fmu.edu/faculty/edward-meadows",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3269
+      },
+      {
+        "name": "Prof. Dr. Ayotunde Adebayo",
+        "title": "Professor of Computer Science and Cybersecurity",
+        "university": "Florida Memorial University",
+        "department": "Department of Computer Science",
+        "subject": "computer-science",
+        "topics": [
+          "Network Security",
+          "Digital Forensics",
+          "Cloud Intrusion Detection",
+          "Information Assurance Education"
+        ],
+        "summary": "Prof. Dr. Adebayo investigates host-based intrusion detection algorithms, digital forensics in cloud computing environments, and cybersecurity pipeline development for underrepresented STEM scholars.",
+        "source": "https://www.fmu.edu/faculty/ayotunde-adebayo",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3270
+      },
+      {
+        "name": "Prof. Dr. William McCormick",
+        "title": "Professor of Criminal Justice and Criminology",
+        "university": "Florida Memorial University",
+        "department": "Department of Social Sciences",
+        "subject": "social-sciences",
+        "topics": [
+          "Urban Criminology",
+          "Community Policing Models",
+          "Juvenile Justice Intervention",
+          "Criminal Justice Policy"
+        ],
+        "summary": "Prof. Dr. McCormick evaluates restorative justice models in urban South Florida, police-community partnership frameworks, and socioeconomic factors in juvenile recidivism.",
+        "source": "https://www.fmu.edu/faculty/william-mccormick",
+        "recruiting": true,
+        "reviewed": "2026-10-15",
+        "id": 3271
+      }
+    ]
+  }
+];
