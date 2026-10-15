@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 59,
+  "cycle": 60,
   "completedInCycle": [
     "canada",
     "germany",
@@ -25,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Twente Pathway College (TPC)",
-    "sourceRow": 1514
+    "university": "University of Groningen (Zernike Campus)",
+    "sourceRow": 1528
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 79,
+    "canada": 83,
     "australia": 57,
-    "germany": 82,
-    "italy": 78,
-    "usa": 83,
-    "uk": 78,
-    "japan": 79,
+    "germany": 87,
+    "italy": 82,
+    "usa": 88,
+    "uk": 82,
+    "japan": 83,
     "sweden": 56,
-    "netherlands": 78,
+    "netherlands": 82,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
