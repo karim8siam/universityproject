@@ -227173,6 +227173,5159 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 8427,
+    "title": "Master of Science in Agricultural and Biosystems Engineering",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Nationally top-ranked program advancing precision agriculture, biorenewable resources, livestock environmental systems, and agricultural water quality modeling.",
+    "funding": "Graduate research assistantships providing full tuition waiver, health insurance, and $24,000 annual stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$60 (Domestic) / $100 (International)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Fall Priority)",
+    "source": "https://www.abe.iastate.edu/academics/graduate-students",
+    "requirements": {
+      "gpa": "B.S. in Engineering or physical sciences with min. 3.0 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79+",
+      "gre": "GRE recommended for assistantship competition",
+      "papers": "Statement of purpose outlining proposed research specialization",
+      "references": "Three letters of recommendation from faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8428,
+    "title": "Doctor of Philosophy (Ph.D.) in Computer Science & Human-Computer Interaction",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Elite doctoral curriculum in virtual reality, artificial intelligence, software reliability, and high-performance scientific data visualization.",
+    "funding": "Full graduate research assistantship covering 100% of tuition and $27,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.cs.iastate.edu/graduate-program",
+    "requirements": {
+      "gpa": "Undergraduate or master’s degree in Computer Science with min. 3.3 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement detailing alignment with departmental labs",
+      "references": "Three academic faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8429,
+    "title": "Ames National Laboratory Condensed Matter Physics Fellowship",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "chemistry"
+    ],
+    "desc": "Prestigious research residency at the U.S. DOE Ames Laboratory investigating rare-earth magnetic materials, topological superconductors, and quantum crystallography.",
+    "funding": "$32,000 annual research stipend funded through U.S. Department of Energy (DOE) grants",
+    "tuition": "$0 (Research fellowship)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ameslab.gov/education",
+    "requirements": {
+      "gpa": "Enrolled doctoral student in Physics or Materials Science",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Research proposal on quantum materials synthesis (max 10 pages)",
+      "references": "Ames Lab scientist and university advisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8430,
+    "title": "Iowa Corn & Soybean Precision Agronomy Research Grant",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Grant",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Grant funded through state agricultural consortia supporting student researchers deploying IoT soil moisture sensors and autonomous drone imaging over experimental farmland.",
+    "funding": "$12,000 project grant for drone hyperspectral crop sensing and nitrogen leaching mitigation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.agron.iastate.edu/research",
+    "requirements": {
+      "gpa": "Graduate student standing in Agronomy or Biosystems Engineering",
+      "ielts": "Not applicable",
+      "gre": "Exempt",
+      "papers": "Project methodology and field budget plan",
+      "references": "Agronomy department chair endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8431,
+    "title": "Virtual Reality Applications Center (VRAC) Prototyping Practicum",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Practicum",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Hands-on engineering practicum developing spatial computing environments, flight simulator graphics, and haptic feedback user interfaces for aerospace clients.",
+    "funding": "$5,500 summer practicum stipend and immersion laboratory workstation access",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.vrac.iastate.edu",
+    "requirements": {
+      "gpa": "Junior or senior undergraduate standing in CS, Software, or Mechanical Engineering",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Technical portfolio link and resume",
+      "references": "VRAC faculty director recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8432,
+    "title": "George Washington Carver Doctoral Fellowship",
+    "university": "Iowa State University",
+    "country": "United States",
+    "location": "Ames, Iowa, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment",
+      "engineering"
+    ],
+    "desc": "Named in honor of Iowa State’s first African American student and faculty member, honoring exceptional doctoral scholars from historically underrepresented backgrounds in STEM.",
+    "funding": "Four-year fellowship providing $30,000 annual stipend, full tuition remission, and travel grant",
+    "tuition": "100% tuition remission",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.grad-college.iastate.edu/carver",
+    "requirements": {
+      "gpa": "Exceptional academic record in undergraduate or master's studies (GPA >= 3.5)",
+      "ielts": "English proficiency if applicable",
+      "gre": "Exempt",
+      "papers": "Carver fellowship personal statement and diversity essay",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8433,
+    "title": "Master of Science in Information Systems - Cybersecurity Track",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-accredited master’s program covering penetration testing, network incident response, enterprise IT governance, and ethical cloud defense architecture.",
+    "funding": "Graduate assistantships offering full tuition waivers and $1,400 monthly living stipends",
+    "tuition": "$512/credit hour (In-state) / $1,050/credit hour (Out-of-state)",
+    "fee": "$55",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Fall Priority)",
+    "source": "https://it.illinoisstate.edu/academics/cybersecurity",
+    "requirements": {
+      "gpa": "B.S. in Computer Science or IT with min. 3.0 cumulative GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Optional for applicants with 3.2+ GPA",
+      "papers": "Statement of purpose outlining cyber defense career vision",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8434,
+    "title": "Bachelor of Science in Actuarial Science (Center of Actuarial Excellence)",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "social-sciences"
+    ],
+    "desc": "Elite mathematics program preparing students for SOA and CAS professional examinations, covering probability modeling, financial derivatives, and loss distributions.",
+    "funding": "State Farm Actuarial Scholarships up to $8,000 annually and exam registration fee reimbursements",
+    "tuition": "$13,200/year (In-state) / $26,100/year (Out-of-state)",
+    "fee": "$55",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://math.illinoisstate.edu/actuary",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with math preparation through pre-calculus",
+      "ielts": "IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Admissions essay submitted through Common App",
+      "references": "One high school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8435,
+    "title": "Doctor of Nursing Practice (DNP - Leadership & Clinical Practice)",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Terminal clinical degree at Mennonite College of Nursing preparing healthcare leaders for systemic clinical quality improvement, epidemiology, and healthcare policy.",
+    "funding": "Nurse Faculty Loan Program (NFLP) cancellation covering up to 85% of degree costs",
+    "tuition": "$630/credit hour (Online hybrid format)",
+    "fee": "$55",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nursing.illinoisstate.edu/dnp",
+    "requirements": {
+      "gpa": "Master of Science in Nursing (MSN) with min. 3.0 GPA and active unencumbered RN license",
+      "ielts": "English fluency verified",
+      "gre": "Exempt",
+      "papers": "Scholarly practice inquiry proposal",
+      "references": "Three letters of recommendation from clinical leaders"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8436,
+    "title": "Center for Collaborative Studies in Mathematical Biology Fellowship",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Fellowship",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "biology"
+    ],
+    "desc": "Graduate fellowship constructing mathematical epidemic transmission models, differential equations of cellular growth, and ecological population stability graphs.",
+    "funding": "$16,500 research stipend funded through National Science Foundation (NSF) grants",
+    "tuition": "$0 (Research fellowship)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://math.illinoisstate.edu/research/biomath",
+    "requirements": {
+      "gpa": "Enrolled graduate student in Mathematics or Biomathematics with min. 3.2 GPA",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Research proposal on mathematical modeling (max 10 pages)",
+      "references": "Two mathematics faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8437,
+    "title": "Carle BroMenn Medical Center Clinical Nursing Practicum",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Intensive hospital clinical practicum executing patient care in critical care units, oncology wards, surgical suites, and maternal-child health departments.",
+    "funding": "$800/month clinical stipend and dedicated acute-care hospital preceptor placement",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://nursing.illinoisstate.edu/clinical",
+    "requirements": {
+      "gpa": "Enrolled in upper-division Mennonite College of Nursing coursework",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Clinical immunization records and background check",
+      "references": "Clinical faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8438,
+    "title": "Presidential Scholarship of Excellence for Incoming Freshmen",
+    "university": "Illinois State University",
+    "country": "United States",
+    "location": "Normal, Illinois, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Competitive academic scholarship awarded to incoming freshmen who demonstrate superior intellectual distinction, leadership potential, and community engagement.",
+    "funding": "$12,000 annual merit award ($48,000 over four years) plus admission to Honors Program",
+    "tuition": "Applied directly toward tuition charges",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026 (Priority Honors Deadline)",
+    "source": "https://financialaid.illinoisstate.edu/scholarships",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.8",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors application essay and extracurricular resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8439,
+    "title": "Doctor of Philosophy (Ph.D.) in Nuclear Science and Engineering",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite doctoral program conducted in partnership with Idaho National Laboratory, focusing on small modular reactors, nuclear materials under irradiation, and reactor kinetics.",
+    "funding": "Full graduate research assistantships providing full tuition waiver and $28,000 annual living stipend",
+    "tuition": "$0 (Fully sponsored doctoral research)",
+    "fee": "$65",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027 (INL Fellowship Priority)",
+    "source": "https://www.isu.edu/ne",
+    "requirements": {
+      "gpa": "B.S. or M.S. in Nuclear Engineering, Physics, or Mechanical Engineering with min. 3.2 GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE General scores evaluated",
+      "papers": "Statement of purpose detailing nuclear research goals",
+      "references": "Three letters of recommendation from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8440,
+    "title": "Doctor of Pharmacy (Pharm.D.) Professional Degree",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional pharmacy curriculum delivering advanced training in pharmacotherapy, clinical pharmacology, oncology therapeutics, and ambulatory care.",
+    "funding": "Endowed pharmacy scholarships up to $10,000/year and clinical teaching assistantships",
+    "tuition": "$21,400/year (In-state) / $41,200/year (Out-of-state)",
+    "fee": "$65 (PharmCAS secondary fee)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (PharmCAS Deadline)",
+    "source": "https://www.isu.edu/pharmacy",
+    "requirements": {
+      "gpa": "Prerequisite pre-pharmacy science GPA >= 2.5",
+      "ielts": "English fluency verified",
+      "gre": "Exempt (PCAT optional)",
+      "papers": "PharmCAS personal statement and ISU supplemental questions",
+      "references": "Two professional/academic recommendation letters and faculty interview"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8441,
+    "title": "Master of Science in Geosciences (Volcanology & Hydrogeology)",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Fieldwork-intensive graduate program investigating Snake River Plain basalt volcanism, geothermal energy exploration, and montane hydrogeological aquifers.",
+    "funding": "Teaching and research assistantships covering full tuition and $16,000 annual stipend",
+    "tuition": "$0 (Assistantship covered)",
+    "fee": "$65",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.isu.edu/geosciences",
+    "requirements": {
+      "gpa": "Bachelor’s degree in Geology, Earth Science, or Geophysics with min. 3.0 GPA",
+      "ielts": "TOEFL 80 or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of research interests aligned with department faculty",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8442,
+    "title": "Idaho National Laboratory (INL) Nuclear Energy Research Fellowship",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Joint doctoral fellowship conducting neutron radiography, molten salt reactor simulations, and advanced fuel cycle experiments at INL facilities.",
+    "funding": "$30,000 annual doctoral stipend plus laboratory clearance and workstation at INL",
+    "tuition": "$0 (Research fellowship)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.isu.edu/research/inl-collaborations",
+    "requirements": {
+      "gpa": "Enrolled PhD student in Nuclear Engineering with min. 3.5 GPA",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Research proposal and security clearance documentation",
+      "references": "Joint ISU-INL advisory committee endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8443,
+    "title": "Portneuf Medical Center Advanced Clinical Pharmacy Practicum",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Fourth-year Advanced Pharmacy Practice Experience (APPE) in acute-care inpatient pharmacotherapy, intensive care drug dosing, and infectious disease antibiotic stewardship.",
+    "funding": "$1,100/month clinical rotation stipend during hospital pharmacotherapy clerkship",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.isu.edu/pharmacy/experiential-education",
+    "requirements": {
+      "gpa": "P4 student in College of Pharmacy in good standing",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Idaho Pharmacy Intern license and immunization records",
+      "references": "Director of Experiential Education approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8444,
+    "title": "Bengals Academic Achievement Full-Tuition Scholarship",
+    "university": "Idaho State University",
+    "country": "United States",
+    "location": "Pocatello, Idaho, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit award honoring high-achieving incoming freshmen who exhibit scholastic excellence, leadership, and community service in Idaho.",
+    "funding": "Full in-state tuition waiver ($8,200/year value) renewable for four years of undergraduate study",
+    "tuition": "100% in-state tuition remission",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Priority Scholarship Deadline)",
+    "source": "https://www.isu.edu/scholarships",
+    "requirements": {
+      "gpa": "Cumulative unweighted high school GPA >= 3.8",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Scholarship application essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8445,
+    "title": "Doctor of Philosophy (Ph.D.) in Bioinformatics and Computational Biology",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Cutting-edge doctoral curriculum at the Luddy School analyzing next-generation genomic sequencing, structural proteomic models, and deep learning biomedical discovery.",
+    "funding": "Full graduate fellowship covering 100% of tuition, health insurance, and $28,500 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$70",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Fall Priority)",
+    "source": "https://luddy.indianapolis.iu.edu/academics/bioinformatics-phd",
+    "requirements": {
+      "gpa": "Undergraduate or master’s degree in Computer Science, Biology, or Mathematics with min. 3.2 GPA",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Optional",
+      "papers": "Statement of purpose outlining research goals",
+      "references": "Three letters of recommendation from scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8446,
+    "title": "Master of Science in Health Informatics (Digital Health & AI Track)",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "CAHIIM-accredited master’s program in clinical decision support systems, electronic health record interoperability, predictive healthcare analytics, and patient privacy.",
+    "funding": "Regenstrief Institute graduate assistantships covering tuition and $16,000 annual stipends",
+    "tuition": "$450/credit hour (In-state) / $1,150/credit hour (Out-of-state)",
+    "fee": "$70",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://luddy.indianapolis.iu.edu/academics/health-informatics-ms",
+    "requirements": {
+      "gpa": "Bachelor’s degree from an accredited institution with min. 3.0 GPA",
+      "ielts": "TOEFL 80 or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement detailing interest in health informatics",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8447,
+    "title": "Master of Public Health (MPH - Epidemiology Concentration)",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CEPH-accredited public health degree focusing on disease surveillance, spatial epidemiological GIS mapping, chronic disease etiology, and biostatistics.",
+    "funding": "Fairbanks School of Public Health merit tuition remissions up to $6,000",
+    "tuition": "$520/credit hour (In-state) / $1,200/credit hour (Out-of-state)",
+    "fee": "$70",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://fsph.indianapolis.iu.edu/academics/mph",
+    "requirements": {
+      "gpa": "Bachelor’s degree with prerequisite college statistics (min. 3.0 GPA)",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Optional",
+      "papers": "SOPHAS personal statement and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8448,
+    "title": "Regenstrief Institute Medical Informatics Doctoral Fellowship",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Postdoctoral and doctoral fellowship conducting applied clinical NLP, medical algorithmic bias auditing, and real-time clinical triage machine learning.",
+    "funding": "$32,000 annual research stipend with direct access to Indiana Network for Patient Care data",
+    "tuition": "$0 (Research fellowship)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.regenstrief.org/fellowships",
+    "requirements": {
+      "gpa": "PhD or MD standing in Health Informatics, Computer Science, or Medicine",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Research proposal on health data systems (max 10 pages)",
+      "references": "Regenstrief research scientist endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8449,
+    "title": "Riley Hospital for Children Clinical Nursing Practicum",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on clinical immersion rotation in pediatric intensive care, neonatal resuscitation, and pediatric oncology at nationally ranked Riley Hospital for Children.",
+    "funding": "$1,000/month clinical training allowance during pediatric intensive care rotation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://nursing.indianapolis.iu.edu/clinical",
+    "requirements": {
+      "gpa": "Enrolled in upper-division IU School of Nursing BSN program",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Clinical health immunizations and CPR certification",
+      "references": "Clinical instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8450,
+    "title": "Bepko Scholars and Fellows Full-Tuition Honors Award",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science",
+      "biology"
+    ],
+    "desc": "IU Indianapolis’s most prestigious undergraduate scholarship honoring exceptional incoming freshmen who demonstrate superior intellectual distinction and civic leadership.",
+    "funding": "Full four-year tuition remission, on-campus housing allowance, and $2,500 study abroad stipend",
+    "tuition": "100% tuition remission",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026 (Priority Honors Deadline)",
+    "source": "https://honors.indianapolis.iu.edu/scholarships",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.8",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors scholarship application essay and on-campus interview",
+      "references": "Two academic recommendations from teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8451,
+    "title": "Associate of Science in Nursing (RN Licensure Track)",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited two-year nursing degree preparing graduates for the NCLEX-RN through rigorous clinical hospital placements and simulation labs across Indiana.",
+    "funding": "Next Level Jobs Indiana workforce tuition grants covering 100% of tuition for qualifying state residents",
+    "tuition": "$170/credit hour (In-state; free textbooks through Ivy+ program)",
+    "fee": "$0 (Completely free application)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027 (Annual Fall Admission)",
+    "source": "https://www.ivytech.edu/programs/all-academic-programs/school-of-nursing/nursing",
+    "requirements": {
+      "gpa": "Prerequisite science GPA >= 2.5 with anatomy, physiology, and microbiology",
+      "ielts": "English fluency verified",
+      "gre": "Exempt; TEAS entrance exam required",
+      "papers": "Nursing departmental application and background clearance",
+      "references": "Two professional/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8452,
+    "title": "Associate of Applied Science in Smart Manufacturing & Digital Automation",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Industry 4.0 curriculum covering FANUC robotics programming, Allen-Bradley PLCs, industrial IoT sensors, predictive maintenance, and CNC machining.",
+    "funding": "Full tuition coverage through Indiana Next Level Jobs tuition grants",
+    "tuition": "$170/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ivytech.edu/programs/all-academic-programs/school-of-advanced-manufacturing-engineering-applied-science/smart-manufacturing-and-digital-integration",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "IELTS 6.0 if applicable",
+      "gre": "Exempt",
+      "papers": "Free online application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8453,
+    "title": "Associate of Science in Cyber Security & Information Assurance",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense covering network security, penetration testing, digital forensics, and CompTIA Security+ certification.",
+    "funding": "Federal Pell Grant packaging and Indiana workforce grants",
+    "tuition": "$170/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/cyber-security-information-assurance",
+    "requirements": {
+      "gpa": "High school graduation with basic algebra proficiency",
+      "ielts": "English proficiency verified",
+      "gre": "Exempt",
+      "papers": "General application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8454,
+    "title": "IU Health Academic Health Center Nursing Practicum",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Intensive hospital clinical rotation delivering patient care in medical-surgical units, emergency triage, and post-operative recovery across IU Health facilities.",
+    "funding": "$800/month practical training stipend and direct hospital preceptor mentoring",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.ivytech.edu/nursing/clinical",
+    "requirements": {
+      "gpa": "Enrolled in Ivy Tech ASN program in good academic standing",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Clinical immunization records and drug panel",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8455,
+    "title": "Indiana Advanced Bio-Manufacturing Workforce Grant",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Grant",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Grant funded through pharmaceutical manufacturing consortia (including Eli Lilly) training technicians in aseptic processing and bioreactor maintenance.",
+    "funding": "$3,500 training grant for sterile cleanroom bioprocessing and pharmaceutical production",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.ivytech.edu/workforce/biomanufacturing",
+    "requirements": {
+      "gpa": "Enrolled in Biotechnology or Manufacturing Technology program",
+      "ielts": "Not applicable",
+      "gre": "Exempt",
+      "papers": "Bio-manufacturing career statement",
+      "references": "Faculty instructor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8456,
+    "title": "Ivy Tech Foundation Chancellor’s Merit Scholarship",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit-based award honoring high-achieving community college students who exhibit academic excellence and dedication to community service in Indiana.",
+    "funding": "$2,500 annual scholarship covering tuition and academic supplies",
+    "tuition": "Tuition credit",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.ivytech.edu/scholarships",
+    "requirements": {
+      "gpa": "Cumulative high school or college GPA >= 3.5",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Foundation scholarship essay and resume",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8457,
+    "title": "Bachelor of Arts in Indigenous Leadership & Arctic Community Studies",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Transformative four-year degree rooted in Iñupiat wisdom, tribal sovereignty law, Arctic geopolitical diplomacy, and subsistence economic resource management.",
+    "funding": "North Slope Borough and Native Corporation higher education scholarships covering 100% of tuition and housing",
+    "tuition": "$180/credit hour ($2,160/semester for full-time Alaskan residents)",
+    "fee": "$0 (No application fee)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Fall Regular Intake)",
+    "source": "https://www.ilisagvik.edu/programs/indigenous-leadership",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "English fluency verified",
+      "gre": "Exempt",
+      "papers": "Personal statement on community leadership vision in the North Slope",
+      "references": "One tribal or educational recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8458,
+    "title": "Associate of Science in Arctic Environmental Science & Climate Ecology",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Unique Arctic field curriculum measuring permafrost thaw dynamics, coastal sea ice erosion, marine mammal migration telemetry, and Arctic tundra biodiversity.",
+    "funding": "National Science Foundation Arctic research bursaries providing up to $5,000/year",
+    "tuition": "$180/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ilisagvik.edu/programs/arctic-science",
+    "requirements": {
+      "gpa": "High school biology and algebra coursework",
+      "ielts": "IELTS 6.0 if non-native speaker",
+      "gre": "Exempt",
+      "papers": "Admissions form and interest statement",
+      "references": "High school teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8459,
+    "title": "Associate of Applied Science in Allied Health & Arctic Community Nursing",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Healthcare degree preparing graduates for rural primary care, emergency medical response, and community health aid roles in isolated Arctic villages.",
+    "funding": "Indian Health Service (IHS) health professions scholarships covering full tuition and living allowances",
+    "tuition": "$180/credit hour",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ilisagvik.edu/programs/allied-health",
+    "requirements": {
+      "gpa": "Cumulative high school GPA >= 2.5 with anatomy prerequisite",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Allied Health departmental packet and immunization record",
+      "references": "Two community references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8460,
+    "title": "Barrow Arctic Research Center (BARC) Permafrost Telemetry Practicum",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Practicum",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Hands-on fieldwork practicum deploying thermistor temperature probes, soil carbon core sampling, and GPS coastal bluff erosion tracking along the Arctic coast.",
+    "funding": "$4,800 summer field research stipend and Arctic cold-weather gear provided",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ilisagvik.edu/research/barc",
+    "requirements": {
+      "gpa": "Enrolled in Arctic Science or related STEM coursework",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Field safety agreement and Arctic wilderness clearance",
+      "references": "Science instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8461,
+    "title": "Samuel Simmonds Memorial Hospital Clinical Healthcare Internship",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Clinical rotation embedded in Utqiaġvik’s modern regional hospital, focusing on telemedicine consultation, emergency stabilization, and pediatric public health.",
+    "funding": "$1,000/month clinical training allowance during Arctic community health rotations",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.ilisagvik.edu/health-careers",
+    "requirements": {
+      "gpa": "Allied health student in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Background check, BLS certification, and drug panel",
+      "references": "Hospital clinical preceptor approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8462,
+    "title": "North Slope Borough Mayor’s Arctic Leadership Merit Scholarship",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "location": "Utqiaġvik, Alaska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Endowed scholarship honoring students who demonstrate exceptional dedication to the preservation of Iñupiat culture, language, and North Slope community flourishing.",
+    "funding": "Full tuition, student housing, and meal plan scholarship ($14,000 annual value)",
+    "tuition": "100% tuition and boarding coverage",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.ilisagvik.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 or equivalent college standing",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Essay on Arctic community service and leadership",
+      "references": "Two recommendations from elders or educators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8463,
+    "title": "Master of Arts in Clinical Mental Health Counseling (CACREP-Accredited)",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-accredited clinical counseling degree preparing licensed professional counselors (LPC) with mastery in psychopathology, trauma therapy, and family systems.",
+    "funding": "Graduate counseling grants providing up to $4,000 annual tuition reduction",
+    "tuition": "$550/credit hour (60-credit clinical curriculum)",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027 (Annual Fall Cohort)",
+    "source": "https://johnsonu.edu/academics/school-of-social-behavioral-sciences/clinical-mental-health-counseling",
+    "requirements": {
+      "gpa": "Undergraduate degree with min. 3.0 GPA in psychology or human services",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Exempt",
+      "papers": "Personal narrative essay and clinical ethics statement",
+      "references": "Three letters of recommendation and faculty interview"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8464,
+    "title": "Bachelor of Arts in Intercultural Studies & Global Development",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary degree covering cultural anthropology, linguistics, community development, micro-finance economics, and an 8-month international field internship.",
+    "funding": "Global Servant scholarships offering up to $10,000 annually for international majors",
+    "tuition": "$18,900/year (Undergraduate standard)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://johnsonu.edu/academics/school-of-intercultural-studies",
+    "requirements": {
+      "gpa": "Cumulative high school GPA >= 2.75",
+      "ielts": "IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Admissions essay and Christian character reflection",
+      "references": "Two recommendations (pastor and academic teacher)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8465,
+    "title": "Doctor of Philosophy (Ph.D.) in Leadership Studies",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hybrid doctoral curriculum developing ethical organizational leadership competencies, qualitative research methods, and strategic governance for nonprofit and educational institutions.",
+    "funding": "Doctoral research fellowships reducing tuition costs by up to $6,000 total",
+    "tuition": "$685/credit hour (60-credit doctoral curriculum)",
+    "fee": "$50",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://johnsonu.edu/academics/phd-in-leadership-studies",
+    "requirements": {
+      "gpa": "Master’s degree from an accredited institution with min. 3.2 GPA",
+      "ielts": "TOEFL 85 or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Scholarly writing sample and statement of research intent",
+      "references": "Three professional/academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8466,
+    "title": "International Cross-Cultural Internship & Immersion Practicum",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Practicum",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Seven-month overseas internship embedded in humanitarian NGOs, community schools, or linguistic translation projects across Africa, Asia, or Latin America.",
+    "funding": "$2,500 travel and field research stipend provided by endowed mission funds",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://johnsonu.edu/academics/internships",
+    "requirements": {
+      "gpa": "Junior standing in Intercultural Studies with min. 2.75 GPA",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Cross-cultural readiness essay and passport verification",
+      "references": "Dean of Intercultural Studies approval"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8467,
+    "title": "East Tennessee Community Mental Health Clinical Practicum",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Practicum",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "700 hours of direct supervised clinical counseling in regional community mental health centers, crisis stabilization units, and private counseling practices.",
+    "funding": "$700/month clinical training stipend during supervised outpatient therapy",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://johnsonu.edu/counseling/clinical",
+    "requirements": {
+      "gpa": "Second-year counseling graduate student in good standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Liability insurance verification and clinical background check",
+      "references": "Counseling faculty supervisor evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8468,
+    "title": "Presidential Honors Full-Tuition Endowed Scholarship",
+    "university": "Johnson University",
+    "country": "United States",
+    "location": "Knoxville, Tennessee, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Highest competitive academic scholarship awarded to incoming freshmen who demonstrate superior intellectual distinction and exemplary Christian leadership.",
+    "funding": "Full tuition coverage ($18,900/year value) renewable for four years of undergraduate study",
+    "tuition": "100% tuition remission",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://johnsonu.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "Unweighted high school GPA >= 3.8",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors scholarship application essay and faculty interview",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8469,
+    "title": "Associate in Applied Science in Mortuary Science (ABFSE-Accredited)",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "One of only a few accredited mortuary science programs in the Midwest, covering embalming chemistry, restorative art, pathology, funeral home management, and bereavement psychology.",
+    "funding": "KCKCC Foundation funeral service scholarships up to $3,000 annually",
+    "tuition": "$93/credit hour (Wyandotte County residents) / $114/credit hour (Other Kansas residents)",
+    "fee": "$0 (Free application)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027 (Annual Fall Admission)",
+    "source": "https://www.kckcc.edu/academics/divisions/math-science-business-technology/mortuary-science",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.5 with anatomy and chemistry completed",
+      "ielts": "English fluency verified",
+      "gre": "Exempt",
+      "papers": "Departmental application and clinical orientation agreement",
+      "references": "Two professional/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8470,
+    "title": "Associate in Applied Science in Nursing (RN Program)",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited two-year nursing degree featuring state-of-the-art simulation labs and clinical rotations across the University of Kansas Health System and regional hospitals.",
+    "funding": "Kansas Nursing Service Scholarship grants up to $4,500/year for students committing to state practice",
+    "tuition": "$93/credit hour (In-district)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kckcc.edu/academics/divisions/health-professions/nursing",
+    "requirements": {
+      "gpa": "Prerequisite science GPA >= 2.75 in anatomy, physiology, and microbiology",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Exempt; TEAS score >= 65%",
+      "papers": "Nursing application and criminal background check",
+      "references": "Two references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8471,
+    "title": "Associate in Applied Science in Biomanufacturing & Laboratory Technology",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on laboratory program training technicians in aseptic cell culturing, chromatography, GLP/GMP quality control, and animal health biomanufacturing in the KC Animal Health Corridor.",
+    "funding": "Kansas Department of Commerce workforce scholarships covering full tuition for STEM tracks",
+    "tuition": "$93/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.kckcc.edu/academics/divisions/math-science-business-technology/biotechnology",
+    "requirements": {
+      "gpa": "High school diploma with biology and chemistry",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Free online application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8472,
+    "title": "University of Kansas Health System Clinical Nursing Practicum",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Intensive hospital clinical practicum delivering bedside patient care in medical-surgical units, trauma observation, pediatric care, and cardiac telemetry.",
+    "funding": "$850/month training allowance and dedicated hospital preceptor assignment",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.kckcc.edu/nursing/clinical",
+    "requirements": {
+      "gpa": "Enrolled in KCKCC nursing program in good academic standing",
+      "ielts": "Fluent English",
+      "gre": "Exempt",
+      "papers": "Clinical health clearance records",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8473,
+    "title": "Kansas City Animal Health Corridor Bioprocessing Practicum",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Practicum",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Direct industry practicum operating bioreactors, sterile filtration units, and quality control assays at leading veterinary vaccine manufacturing plants.",
+    "funding": "$1,400/month internship compensation at animal health vaccine production facilities",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kckcc.edu/biotech/internship",
+    "requirements": {
+      "gpa": "Completed first year of Biotechnology AAS with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Resume and cleanroom compliance pledge",
+      "references": "Biotechnology program coordinator sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8474,
+    "title": "Presidential Merit Scholarship for Wyandotte County Scholars",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "location": "Kansas City, Kansas, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Premier scholarship awarded to top graduating high school seniors from Wyandotte County who demonstrate superior academic achievement and community leadership.",
+    "funding": "Full tuition and textbook waiver ($3,500/year value) renewable for up to two academic years",
+    "tuition": "100% in-district tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.kckcc.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 or top 15% class rank",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay and resume",
+      "references": "Two high school counselor/teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8475,
+    "title": "Master of Science in Biomedical Sciences (Research Track)",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Rigorous laboratory-based thesis degree training students in advanced cell biology, molecular genetics, biochemistry, and biomedical experimental design.",
+    "funding": "Graduate laboratory assistantships with partial tuition coverage and $15,000 research stipend",
+    "tuition": "$21,500/year (Assistantships available)",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kansascity.edu/programs/biomedical-sciences",
+    "requirements": {
+      "gpa": "B.S. in Biology, Chemistry, or allied science with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional / MCAT accepted",
+      "papers": "Statement of biomedical research experience and career goals",
+      "references": "Three letters from undergraduate science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8476,
+    "title": "Doctor of Osteopathic Medicine (DO) Academic Scholars Fellowship",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Competitive academic fellowship year embedded within the medical curriculum, allowing select students to teach gross anatomy and conduct clinical anatomical research.",
+    "funding": "Full medical school tuition waiver plus $20,000 annual living stipend for clinical anatomy fellow",
+    "tuition": "$0 (Fully funded fellowship year)",
+    "fee": "$0 (Internal post-interview fellowship)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.kansascity.edu/programs/osteopathic-medicine",
+    "requirements": {
+      "gpa": "Completion of Year 2 DO curriculum in good standing with top academic ranking",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Academic scholarship plan and curriculum redesign proposal",
+      "references": "Two recommendations from KCU clinical medicine faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8477,
+    "title": "KCU Center for Clinical Research Graduate Traineeship",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Hands-on clinical research practicum managing Phase II-IV pharmaceutical trials, bioethics documentation, and patient outcome monitoring in Kansas City.",
+    "funding": "$18,000 stipend supporting 12-month clinical trials coordination and patient registry analysis",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kansascity.edu/research",
+    "requirements": {
+      "gpa": "Enrolled graduate or medical student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Curriculum vitae and clinical trials ethics certification",
+      "references": "One clinical investigator recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8478,
+    "title": "Master of Science in Clinical Psychology (PsyD Track)",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-aligned clinical psychology graduate program emphasizing integrated behavioral healthcare in medical settings, neuropsychological assessment, and rural mental health.",
+    "funding": "Departmental diversity scholarships and clinical practicum compensation up to $10,000/year",
+    "tuition": "$24,000/year",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.kansascity.edu/programs/clinical-psychology",
+    "requirements": {
+      "gpa": "Bachelor's degree in Psychology or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "GRE General optional",
+      "papers": "Statement of clinical intent and autobiographical sketch",
+      "references": "Three letters of academic and clinical recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8479,
+    "title": "KCU Rural Health Scholars Tuition Award",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Substantial financial award designed to recruit and support future physicians and dentists committed to practicing in rural Missouri and Kansas communities.",
+    "funding": "$25,000 annual tuition credit committed to students pledging service in medically underserved communities",
+    "tuition": "Partial tuition credit applied directly",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kansascity.edu/admissions/financial-aid",
+    "requirements": {
+      "gpa": "Accepted DO or DMD candidate with rural background or dedicated service track record",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Essay on addressing rural healthcare access disparities",
+      "references": "Two community leadership endorsements"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8480,
+    "title": "Summer Undergraduate Biomedical Research Fellowship (SURF)",
+    "university": "Kansas City University",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive summer laboratory research experience for undergraduate STEM students pairing with KCU biomedical scientists on cancer signaling, Alzheimer's models, and antibiotic resistance.",
+    "funding": "$4,500 stipend plus campus housing for 10-week summer laboratory immersion",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kansascity.edu/research/summer-fellowship",
+    "requirements": {
+      "gpa": "Completed sophomore or junior year in biology/biochem with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Personal statement indicating laboratory preferences",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8481,
+    "title": "Bachelor of Science in Nursing (BSN) Clinical Excellence Program",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing program featuring high-fidelity simulation laboratories, community health placements, and clinical rotations at Salina Regional Health Center.",
+    "funding": "Salina Regional Health Foundation hospital partner scholarships covering up to 50% of tuition",
+    "tuition": "$32,500/year (Significant institutional aid available)",
+    "fee": "$20",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kwu.edu/academics/academic-departments/nursing",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 or college transfer GPA >= 2.75 in anatomy and physiology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining motivation for clinical nursing",
+      "references": "Two letters from instructors or healthcare professionals"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8482,
+    "title": "Bachelor of Arts in Emergency Management and Homeland Security",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "One of the longest-running emergency management degrees in the country, preparing leaders in disaster mitigation, crisis communication, and hazard vulnerability mapping.",
+    "funding": "FEMA-partnered training stipends and KWU Trustee Leadership Grants up to $16,000/year",
+    "tuition": "$32,500/year",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kwu.edu/academics/academic-departments/emergency-management",
+    "requirements": {
+      "gpa": "High school diploma with min. 2.5 GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Essay on community disaster resilience",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8483,
+    "title": "Master of Business Administration (MBA) in Sports Management",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Accelerated hybrid MBA program focusing on executive sports analytics, athletic facility management, financial modeling, and strategic marketing.",
+    "funding": "Graduate athletic administration assistantships with full tuition waiver and stipend",
+    "tuition": "$14,400 total program cost",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kwu.edu/academics/graduate-programs",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE waived with 3.0+ GPA",
+      "papers": "Professional resume and statement of executive goals",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8484,
+    "title": "Eisenhower Presidential Leadership Merit Fellowship",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious leadership fellowship pairing undergraduate history, political science, and business scholars with archival research projects in Kansas.",
+    "funding": "$18,000 annual scholarship plus funded archival research residency at Eisenhower Presidential Library",
+    "tuition": "Substantial tuition deduction",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kwu.edu/admissions/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 or transfer GPA >= 3.5",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "500-word essay on civic ethics and democratic governance",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8485,
+    "title": "Undergraduate Environmental Chemistry Research Practicum",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Internship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "environment"
+    ],
+    "desc": "Field and laboratory research analyzing nitrate runoff, pesticide residues, and soil carbon sequestration across the Smoky Hill River basin.",
+    "funding": "$3,000 summer research stipend sponsored by Kansas agricultural watershed conservation grants",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kwu.edu/academics/undergraduate-research",
+    "requirements": {
+      "gpa": "Enrolled KWU student in chemistry, biology, or environmental science with min. 3.0 GPA",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Project proposal on local water quality analysis",
+      "references": "Endorsement from KWU chemistry faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8486,
+    "title": "KWU Community Outreach and Interfaith Service Scholarship",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "location": "Salina, Kansas, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Merit and service-based scholarship recognizing incoming freshmen who have organized impactful youth service projects, food security pantries, or interfaith dialogues.",
+    "funding": "$10,000 annual renewable scholarship for students demonstrating community volunteerism",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.kwu.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with documented 50+ hours of community service",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Reflective essay on community service and ethical citizenship",
+      "references": "Letter from volunteer organization coordinator"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8487,
+    "title": "Master of Science in Biotechnology (Molecular Biology Track)",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on graduate training in recombinant DNA technology, cell culture, bioreactor operation, and bioinformatics, partnered with New Jersey pharmaceutical corridors.",
+    "funding": "Graduate research assistantships providing full in-state tuition waiver and $18,000 academic stipend",
+    "tuition": "$0 (Assistantship funded) or $850/credit",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kean.edu/academics/programs/biotechnology-ms",
+    "requirements": {
+      "gpa": "B.S. in Biology, Biochemistry, or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of research interests in pharmaceutical biotechnology",
+      "references": "Two academic or industry science letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8488,
+    "title": "Master of Architecture (M.Arch) - Michael Graves College",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "NAAB-accredited professional architecture degree rooted in design drawing, urban context analysis, digital fabrication, and sustainable metropolitan architecture.",
+    "funding": "Michael Graves Design Excellence Fellowships covering up to 75% tuition and studio materials allowance",
+    "tuition": "$19,500/year (Fellowships available)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.kean.edu/michael-graves-college",
+    "requirements": {
+      "gpa": "Undergraduate degree in Architecture or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Comprehensive creative design portfolio and statement of architectural intent",
+      "references": "Three letters from design faculty or licensed architects"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8489,
+    "title": "Doctor of Philosophy (Ph.D.) in Nursing Educational Leadership",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Doctoral program preparing nurse scientists, academic administrators, and healthcare policy leaders to address national nurse educator shortages.",
+    "funding": "Doctoral research fellowships with full tuition support and $22,000 teaching stipend",
+    "tuition": "$0 (Fully supported doctoral fellows)",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kean.edu/academics/programs/nursing-educational-leadership-phd",
+    "requirements": {
+      "gpa": "Master of Science in Nursing (MSN) with min. 3.5 GPA and active RN license",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research proposal addressing nursing education pedagogy or workforce models",
+      "references": "Three professional and academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8490,
+    "title": "New Jersey Urban Research Institute Fellowship",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Interdisciplinary fellowship conducting empirical data analysis on housing equity, urban heat islands, and municipal infrastructure sustainability across New Jersey cities.",
+    "funding": "$12,000 research grant and project funding for urban policy and environmental justice fieldwork",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kean.edu/research",
+    "requirements": {
+      "gpa": "Enrolled graduate student in public administration, urban studies, or environmental science",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Research outline on New Jersey urban policy challenges",
+      "references": "One Kean faculty mentor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8491,
+    "title": "Kean Global Scholars International Exchange Award",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Competitive travel award supporting full semester study abroad at Kean's international campus in Wenzhou, China, or global partner institutions in Rome and Seoul.",
+    "funding": "$6,000 travel and semester stipend for study at Wenzhou-Kean University in China or European partners",
+    "tuition": "Standard Kean tuition applies with full scholarship offset",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.kean.edu/academics/study-abroad",
+    "requirements": {
+      "gpa": "Undergraduate student with min. 3.2 cumulative GPA and sophomore standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Global study essay and cross-cultural learning plan",
+      "references": "One faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8492,
+    "title": "Dorothy and George Hennings STEM Undergraduate Research Stipend",
+    "university": "Kean University",
+    "country": "United States",
+    "location": "Union, New Jersey, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Hands-on summer undergraduate research internship pairing students with computer science and data analytics faculty on machine learning and cybersecurity projects.",
+    "funding": "$4,000 summer research stipend plus access to high-performance computing clusters",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kean.edu/hennings-college",
+    "requirements": {
+      "gpa": "Declared major in Computer Science, Math, or IT with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Coding portfolio link and personal statement of research interest",
+      "references": "Computer science instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8493,
+    "title": "Master of Science in Safety and Occupational Health Applied Sciences",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Nationally acclaimed program preparing safety directors and industrial hygienists in ergonomics, process safety, toxicology, and regulatory compliance.",
+    "funding": "National Institute for Occupational Safety and Health (NIOSH) training grants covering full tuition and $16,000 stipend",
+    "tuition": "$0 (NIOSH grant funded) or $720/credit",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.keene.edu/academics/programs/safety",
+    "requirements": {
+      "gpa": "Bachelor's degree in engineering, science, or safety with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Professional statement detailing industrial safety objectives",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8494,
+    "title": "Bachelor of Science in Sustainable Product Design and Innovation",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "Hands-on engineering design program integrating circular manufacturing, CAD/CAM prototyping, lifecycle environmental analysis, and industrial materials testing.",
+    "funding": "Presidential STEM scholarships up to $14,000/year renewable for four years",
+    "tuition": "$26,500/year (Out-of-state) / $15,800/year (In-state)",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.keene.edu/academics/programs/spdi",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with strong math and science coursework",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Design portfolio or essay on sustainable product manufacturing",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8495,
+    "title": "Cohen Center Holocaust and Genocide Studies Research Fellowship",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Archival and educational research fellowship examining Holocaust survivor testimony, historical genocide prevention pedagogies, and human rights curriculum development.",
+    "funding": "$5,000 research stipend and funded travel to national archives for undergraduate or visiting scholars",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.keene.edu/academics/ah/cchgs",
+    "requirements": {
+      "gpa": "Undergraduate or graduate scholar in history, education, or sociology with min. 3.3 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Research proposal utilizing Cohen Center archival collections",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8496,
+    "title": "Undergraduate Environmental Field Research Practicum (White Mountains)",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field ecology practicum conducting forest canopy carbon monitoring, stream macroinvertebrate sampling, and climate change vulnerability studies in New Hampshire forests.",
+    "funding": "$3,500 summer field research stipend plus backcountry research station accommodations",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.keene.edu/academics/programs/envs",
+    "requirements": {
+      "gpa": "Enrolled Keene State student in Environmental Studies or Biology with min. 2.8 GPA",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Fieldwork preparedness statement and resume",
+      "references": "One environmental science faculty sponsor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8497,
+    "title": "Redfern Arts Center Performance and Production Grant",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Creative arts scholarship awarded to outstanding incoming students majoring in film, theater design, musical performance, or dance at the Redfern Arts Center.",
+    "funding": "$8,000 annual scholarship plus subsidized theater and film production equipment access",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.keene.edu/arts/redfern",
+    "requirements": {
+      "gpa": "High school GPA >= 2.8 with audition or technical design portfolio review",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Artistic statement of purpose",
+      "references": "Two arts instructor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8498,
+    "title": "Monadnock Regional Community Leadership Scholarship",
+    "university": "Keene State College",
+    "country": "United States",
+    "location": "Keene, New Hampshire, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Community leadership grant recognizing first-year students who have demonstrated exemplary service in community food pantries, environmental conservation, or youth mentorship.",
+    "funding": "$10,000 annual tuition award for students leading New England civic and environmental initiatives",
+    "tuition": "Tuition reduction applied directly each semester",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.keene.edu/admissions/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "500-word essay on leadership in the Monadnock region or home community",
+      "references": "Community supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8499,
+    "title": "Bachelor of Science in Nursing (BSN) Appalachian Healthcare Track",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited professional nursing curriculum pairing intensive clinical simulation with hospital rotations across eastern Kentucky and southern Ohio.",
+    "funding": "Appalachian Regional Healthcare partnership grants providing up to $12,000 annual tuition assistance",
+    "tuition": "$23,500/year (Scholarships available)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kcu.edu/academics/yancey-school-of-nursing",
+    "requirements": {
+      "gpa": "Cumulative high school or college GPA >= 3.0 with 'B' or higher in sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay on commitment to rural patient advocacy",
+      "references": "Two character and academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8500,
+    "title": "Master of Arts in Christian Leadership and Pastoral Care",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Advanced ministerial degree developing competence in organizational leadership, pastoral counseling, cross-cultural missions, and non-profit governance.",
+    "funding": "Ministry Endowment Scholarships covering 50% of graduate course tuition",
+    "tuition": "$450/credit hour",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kcu.edu/academics/keeran-school-of-bible-ministry",
+    "requirements": {
+      "gpa": "Bachelor's degree from accredited institution with min. 2.75 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Spiritual biography and vocational ministry goals essay",
+      "references": "Three letters including church leader endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8501,
+    "title": "Bachelor of Science in Business Administration & Digital Marketing",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Career-focused business degree combining financial accounting, digital media marketing analytics, supply chain concepts, and ethical enterprise management.",
+    "funding": "Sack School Business Leadership Awards up to $10,000/year",
+    "tuition": "$23,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kcu.edu/academics/sack-school-of-business",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement describing entrepreneurial ambitions",
+      "references": "One high school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8502,
+    "title": "Appalachian Rural Community Health Practicum",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Community-based clinical nursing internship providing preventive screening, diabetes management clinics, and pediatric immunization tracking in rural Kentucky counties.",
+    "funding": "$2,500 semester living stipend supporting clinical rotations in rural health clinics",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kcu.edu/academics/yancey-school-of-nursing",
+    "requirements": {
+      "gpa": "Enrolled junior or senior BSN student in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Clinical objectives essay",
+      "references": "Nursing faculty endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8503,
+    "title": "KCU Founders Presidential Honors Scholarship",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest merit distinction for incoming first-year students who have attained exceptional academic standing and demonstrated servant leadership in school or community.",
+    "funding": "$14,000 annual scholarship renewable for four consecutive undergraduate years",
+    "tuition": "Direct tuition offset",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kcu.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 or ACT score 28+ / SAT 1310+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors scholarship application essay and resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8504,
+    "title": "Appalachian Cultural Heritage and Hymnology Archival Project",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "location": "Grayson, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Undergraduate humanities research project digitizing historical Appalachian folk hymns, early regional sermons, and oral histories of eastern Kentucky communities.",
+    "funding": "$3,000 archival research grant and digitization equipment grant",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.kcu.edu/academics",
+    "requirements": {
+      "gpa": "Undergraduate student in Humanities, History, or Music with min. 3.0 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Archival preservation proposal",
+      "references": "Humanities faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8505,
+    "title": "Master of Science in Aquaculture and Aquatic Sciences",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Internationally recognized graduate program specializing in fish nutrition, aquatic recirculating systems, pond aquaculture management, and paddlefish reproduction.",
+    "funding": "USDA-NIFA funded graduate research assistantships providing full tuition waiver and $22,000 annual stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$30",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kysu.edu/academics/college-of-agriculture-community-and-the-sciences/aquaculture",
+    "requirements": {
+      "gpa": "B.S. in Biology, Fisheries, Agriculture, or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE recommended for assistantships",
+      "papers": "Statement of purpose outlining aquaculture research interests",
+      "references": "Three letters from academic or professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8506,
+    "title": "Master of Science in Environmental Studies (Watershed Management Track)",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Interdisciplinary environmental sciences degree investigating Kentucky River watershed dynamics, agricultural pesticide runoff, soil microbiome ecology, and remediation.",
+    "funding": "Research assistantships with full tuition remission and $19,000 living stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$30",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kysu.edu/academics/college-of-agriculture-community-and-the-sciences",
+    "requirements": {
+      "gpa": "Bachelor's degree in environmental science, chemistry, or biology with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research statement and resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8507,
+    "title": "Master of Public Administration (MPA) in State and Local Governance",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "NASPAA-oriented public administration degree based in Kentucky's state capital, preparing executives in public finance, civil rights policy, and urban management.",
+    "funding": "Kentucky Commonwealth Capitol Fellowships covering partial tuition and legislative internship stipend",
+    "tuition": "$525/credit hour",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kysu.edu/academics/school-of-business",
+    "requirements": {
+      "gpa": "Bachelor's degree from an accredited institution with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE optional",
+      "papers": "Statement of public service intent",
+      "references": "Two letters from professional or academic supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8508,
+    "title": "USDA-1890 National Scholars Full Undergraduate Fellowship",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Elite federal scholarship program awarded to outstanding incoming students majoring in agriculture, aquaculture, computer science, or biological sciences at HBCU land-grant universities.",
+    "funding": "Full tuition, fees, room and board, laptop allowance, plus paid summer USDA internship",
+    "tuition": "$0 (100% covered by federal fellowship)",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.kysu.edu/academics/college-of-agriculture-community-and-the-sciences/usda-scholars",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 or college GPA >= 3.0",
+      "ielts": "US Citizen requirement",
+      "gre": "Exempt",
+      "papers": "USDA scholars essay and leadership resume",
+      "references": "Two teacher/counselor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8509,
+    "title": "National Pawpaw Germplasm Conservation Research Practicum",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Unique botanical research practicum at the USDA National Clonal Germplasm Repository for Asimina triloba (pawpaw) investigating fruit genetics, graft compatibility, and postharvest storage.",
+    "funding": "$4,000 summer research stipend plus on-campus agricultural research housing",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kysu.edu/academics/college-of-agriculture-community-and-the-sciences",
+    "requirements": {
+      "gpa": "Undergraduate student in horticulture, plant biology, or chemistry with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Letter of intent describing plant science interests",
+      "references": "One biology or horticulture instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8510,
+    "title": "Presidential Green and Gold HBCU Merit Scholarship",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "location": "Frankfort, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Premier academic scholarship awarded to incoming freshmen who embody academic excellence, civic service, and dedication to the HBCU land-grant legacy.",
+    "funding": "Full in-state tuition and campus housing waiver renewable for four years",
+    "tuition": "Full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kysu.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and ACT score 25+ or SAT 1200+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential essay on HBCU leadership and community empowerment",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8511,
+    "title": "Bachelor of Science in Zoology and Pre-Veterinary Medicine",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Elite pre-veterinary curriculum offering vertebrate anatomy, animal physiology, parasitology, and clinical shadowing partnerships with regional veterinary surgical clinics.",
+    "funding": "James Graham Brown STEM Scholarships providing up to $15,000/year",
+    "tuition": "$30,400/year (Over 98% of students receive institutional aid)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kwc.edu/academics/programs/zoology",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with biology and chemistry coursework",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining animal medicine commitment",
+      "references": "Two academic recommendations from science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8512,
+    "title": "Bachelor of Science in Criminal Justice and Criminology",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive criminal justice program integrating forensic science basics, judicial process, constitutional criminal procedure, and crime data analytics.",
+    "funding": "Kentucky Law Enforcement and Justice Grants up to $8,000/year",
+    "tuition": "$30,400/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kwc.edu/academics/programs/criminal-justice",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay on justice and community rehabilitation",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8513,
+    "title": "Bachelor of Arts in Graphic Design and Digital Media",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Studio-intensive curriculum teaching UI/UX interface design, typography, branding identities, motion graphics, and interactive digital storytelling.",
+    "funding": "Ralph Center Creative Arts Fellowships up to $10,000/year",
+    "tuition": "$30,400/year",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kwc.edu/academics/programs/graphic-design",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Digital visual art or design portfolio (10-15 images)",
+      "references": "One art teacher or mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8514,
+    "title": "Owensboro Health Clinical Pre-Med Summer Fellowship",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Summer hospital fellowship offering pre-med and nursing students rotations through emergency medicine, cardiology, surgery, and rural outpatient clinics.",
+    "funding": "$3,000 stipend plus hospital clinical rotation rotations at Owensboro Health Regional Hospital",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kwc.edu/academics/pre-professional",
+    "requirements": {
+      "gpa": "Enrolled sophomore or junior pre-med student with min. 3.4 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Statement of medical career intentions",
+      "references": "Two KWC natural science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8515,
+    "title": "Green River Basin Aquatic Ecology Field Practicum",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field ecology practicum sampling freshwater mussel populations, stream macroinvertebrates, and water chemistry in Kentucky's bio-diverse Green River ecosystem.",
+    "funding": "$2,500 summer research stipend sponsored by Kentucky fish and wildlife conservation grants",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kwc.edu/academics/undergraduate-research",
+    "requirements": {
+      "gpa": "Biology, zoology, or environmental science major with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Fieldwork interest statement",
+      "references": "Biology faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8516,
+    "title": "Presidential Wesleyan Scholarship for Academic Distinction",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "location": "Owensboro, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The college's premier academic scholarship awarded to incoming freshmen demonstrating exceptional scholastic achievement, intellectual curiosity, and character.",
+    "funding": "$20,000 annual scholarship renewable for four undergraduate academic years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kwc.edu/admissions/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 and ACT 27+ or SAT 1280+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two letters of recommendation from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8517,
+    "title": "Master of Science in Autonomous Vehicles and Electric Mobility",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Pioneering engineering master's program focusing on sensor fusion, connected vehicle architectures, advanced battery management, and machine vision on proving grounds.",
+    "funding": "Industry-partnered graduate research fellowships covering full tuition and $24,000 research stipend",
+    "tuition": "$0 (Fellowship funded) or $995/credit",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.kettering.edu/academics/programs/autonomous-vehicles",
+    "requirements": {
+      "gpa": "B.S. in Electrical, Computer, or Mechanical Engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of technical focus in automotive autonomy",
+      "references": "Two engineering faculty or industry supervisor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8518,
+    "title": "Bachelor of Science in Mechanical Engineering (Co-op Track)",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited mechanical engineering degree alternating 3-month academic terms with 3-month paid professional engineering co-op terms at major OEMs and aerospace leaders.",
+    "funding": "Paid rotational cooperative employment ($45,000-$65,000 cumulative earnings) plus Kettering merit scholarships up to $22,000/year",
+    "tuition": "$45,300/year (Significantly offset by co-op wages and merit aid)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Priority Co-op Matching)",
+    "source": "https://www.kettering.edu/academics/programs/mechanical-engineering",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 with trigonometry and pre-calculus/calculus",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay on engineering innovation and problem-solving",
+      "references": "One math or science teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8519,
+    "title": "Kettering Mobility Research Center (MRC) Autonomous Proving Ground Fellowship",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Hands-on research residency deploying and validating automated driving algorithms, LiDAR calibrations, and V2X wireless protocols on Kettering's outdoor test track.",
+    "funding": "$15,000 research grant and test track vehicle allocation for graduate thesis candidates",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kettering.edu/mrc",
+    "requirements": {
+      "gpa": "Enrolled graduate student in automotive or computer engineering with min. 3.3 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Proving ground experimental design proposal",
+      "references": "Faculty research advisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8520,
+    "title": "Master of Business Administration (MBA) in Technology and Innovation Leadership",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Executive tech MBA tailored for engineers and scientists transitioning into technology commercialization, operations management, and global enterprise leadership.",
+    "funding": "Corporate engineering leader grants up to $8,000 total program award",
+    "tuition": "$875/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kettering.edu/academics/programs/mba",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE waived with 3.0+ undergraduate GPA",
+      "papers": "Resume and statement of corporate management objectives",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8521,
+    "title": "FIRST Robotics Alumni Collegiate Presidential Scholarship",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Prestigious scholarship awarded to incoming freshmen who actively competed on a FIRST Robotics Competition (FRC) or FIRST Tech Challenge (FTC) team in high school.",
+    "funding": "$25,000 annual scholarship renewable for four undergraduate years ($100,000 total value)",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.kettering.edu/first",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and verified FIRST team participation",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Essay on FIRST robotics engineering experience and teamwork",
+      "references": "Letter from FIRST team mentor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8522,
+    "title": "Kettering Crash Safety and Biomechanics Research Internship",
+    "university": "Kettering University",
+    "country": "United States",
+    "location": "Flint, Michigan, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Laboratory research internship analyzing occupant restraint kinematics, deceleration impact dynamics, and child safety seat optimization using high-speed photography.",
+    "funding": "$4,000 summer research stipend plus access to anthropomorphic test dummies and crash simulation sleds",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.kettering.edu/research/crash-safety",
+    "requirements": {
+      "gpa": "Junior or senior undergraduate engineering major with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Resume and technical statement on biomechanics",
+      "references": "Mechanical engineering faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8523,
+    "title": "Associate of Applied Science (AAS) in Aviation Maintenance Technology",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "FAA Part 147 certified curriculum training students on airframe and powerplant (A&P) systems, turbine engines, avionics troubleshooting, and composite aircraft repairs.",
+    "funding": "Build Dakota Full-Ride Scholarships covering 100% of tuition, tools, and fees",
+    "tuition": "$0 (Build Dakota Scholarship) or $124/credit",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lakeareatech.edu/academics/aviation-maintenance-technology",
+    "requirements": {
+      "gpa": "High school diploma or GED with acceptable ACCUPLACER score",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Personal statement and mechanical aptitude review",
+      "references": "One character or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8524,
+    "title": "Associate of Applied Science in Robotics and Precision Machining",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Comprehensive technical degree preparing technicians to program FANUC industrial robotic arms, operate multi-axis CNC machines, and design automated manufacturing cells.",
+    "funding": "Build Dakota corporate sponsorships with guaranteed post-graduation industrial employment",
+    "tuition": "$0 (Sponsored) or $124/credit",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lakeareatech.edu/academics/robotics",
+    "requirements": {
+      "gpa": "High school diploma with algebra foundation",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Application form and tool purchase agreement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8525,
+    "title": "Associate of Applied Science in Precision Agriculture and Agronomy",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Innovative agricultural degree combining drone geospatial mapping, variable-rate fertilizer technologies, crop scouting, and computerized farm management software.",
+    "funding": "South Dakota Corn Growers and Agribusiness Association grants up to $5,000/year",
+    "tuition": "$124/credit hour",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lakeareatech.edu/academics/precision-ag",
+    "requirements": {
+      "gpa": "High school diploma or equivalent",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Agronomy career statement",
+      "references": "One agricultural or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8526,
+    "title": "Build Dakota Full-Ride Technical Fellowship",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "South Dakota's flagship workforce fellowship funding high-demand technical degrees in exchange for a three-year commitment to work in South Dakota in the field.",
+    "funding": "100% full-ride funding for tuition, mandatory fees, books, and professional industrial tool sets (up to $25,000 value)",
+    "tuition": "$0 (Full-ride state endowment)",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.lakeareatech.edu/financial-aid/build-dakota",
+    "requirements": {
+      "gpa": "Accepted into an eligible high-need program at Lake Area Tech",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Build Dakota workforce commitment agreement and essays",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8527,
+    "title": "Diesel Technology Heavy Equipment Industry Internship",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Paid corporate dealership internship diagnosing electronic fuel injection, hydrostatic transmissions, and computerized hydraulics on heavy industrial equipment.",
+    "funding": "Paid summer internship paying $18-$24/hour with heavy machinery dealerships (Caterpillar, John Deere, Case IH)",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.lakeareatech.edu/academics/diesel-technology",
+    "requirements": {
+      "gpa": "Completed Year 1 of Diesel Technology with min. 2.75 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Dealership co-op application and valid driver's license",
+      "references": "Diesel department instructor evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8528,
+    "title": "Lake Area Tech Foundation Presidential Merit Scholarship",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "location": "Watertown, South Dakota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit award supporting first-year and second-year technical college students who demonstrate academic promise, leadership, and community volunteer service.",
+    "funding": "$2,500 direct tuition scholarship awarded by the LATC Foundation",
+    "tuition": "Direct tuition award",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.lakeareatech.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school or LATC GPA >= 3.0",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Foundation scholarship questionnaire",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8529,
+    "title": "Bachelor of Arts in Computer Science (Cooperative Education Track)",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Hands-on software development degree integrating full-time professional IT co-op placements, database architecture, cloud infrastructure, and cybersecurity.",
+    "funding": "Paid corporate co-op earnings ($15,000-$30,000 annually) plus Lakeland Co-op Tuition Grants up to $14,000/year",
+    "tuition": "$31,400/year (Significantly reduced via co-op wages and institutional scholarships)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lakeland.edu/academics/programs/computer-science",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra and geometry",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining professional co-op motivation",
+      "references": "One teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8530,
+    "title": "Master of Business Administration (MBA) in Healthcare Management",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Dynamic graduate program teaching healthcare financial systems, medical ethics, health informatics compliance, and strategic hospital operations leadership.",
+    "funding": "Corporate healthcare partner tuition discounts and graduate assistantships up to $6,000",
+    "tuition": "$630/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lakeland.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Current resume and professional goals essay",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8531,
+    "title": "Bachelor of Science in Chemistry with Forensic Science Concentration",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Rigorous laboratory curriculum in chromatographic analysis, forensic toxicology, trace evidence identification, and crime scene chemical reconstruction.",
+    "funding": "Kohler Foundation STEM Research Scholarships up to $10,000/year",
+    "tuition": "$31,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lakeland.edu/academics/programs/chemistry",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and mathematics",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Essay on forensic investigation or chemistry career goals",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8532,
+    "title": "Lakeland University Japan (LUJ) Tokyo Exchange Fellowship",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Immersive academic exchange program allowing Lakeland students to spend a semester studying Japanese language, Asian international business, and cultural diplomacy at LUJ Tokyo.",
+    "funding": "$5,000 study abroad stipend plus housing allowance in Tokyo, Japan",
+    "tuition": "Home campus tuition applies directly with exchange scholarship",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lakeland.edu/academics/study-abroad/tokyo",
+    "requirements": {
+      "gpa": "Full-time Lakeland student with min. 3.0 GPA and sophomore standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Cross-cultural study proposal and Japanese cultural statement",
+      "references": "One faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8533,
+    "title": "Great Lakes Environmental Watershed Research Practicum",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on water quality monitoring along Lake Michigan tributaries, studying microplastic density, invasive quagga mussel distribution, and agricultural runoff.",
+    "funding": "$3,200 summer stipend funded by Wisconsin coastal management and lake conservation grants",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lakeland.edu/academics/undergraduate-research",
+    "requirements": {
+      "gpa": "Enrolled student in biology, chemistry, or environmental studies with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Fieldwork resume and interest statement",
+      "references": "Natural sciences faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8534,
+    "title": "Herman Muehlmeier Presidential Honors Scholarship",
+    "university": "Lakeland University",
+    "country": "United States",
+    "location": "Plymouth, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Lakeland's premier competitive academic scholarship awarded to incoming freshmen who embody top scholastic achievement, ethical vision, and campus community engagement.",
+    "funding": "Full tuition scholarship ($31,400/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.lakeland.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 or ACT 28+ / SAT 1310+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors essay and on-campus interview",
+      "references": "Two letters of recommendation from high school instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8535,
+    "title": "Doctor of Philosophy (Ph.D.) in Chemical Engineering",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Elite doctoral research investigating Gulf Coast industrial decarbonization, flare minimization, advanced polymer kinetics, and carbon capture technologies.",
+    "funding": "Doctoral research assistantships providing full tuition coverage, health insurance, and $26,000 annual stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$50 (Domestic) / $80 (International)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lamar.edu/engineering/chemical/degrees/phd.html",
+    "requirements": {
+      "gpa": "B.S. or M.S. in Chemical Engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Research statement detailing alignment with chemical faculty laboratories",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8536,
+    "title": "Master of Science in Port and Terminal Management",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Unique multidisciplinary degree teaching maritime supply chain economics, marine terminal automation, port security compliance, and dredging hydrodynamics.",
+    "funding": "Center for Advances in Port Management industry fellowships up to $10,000/year",
+    "tuition": "$9,500/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lamar.edu/business/degrees/ms-port-terminal-management.html",
+    "requirements": {
+      "gpa": "Bachelor's degree in business, engineering, or logistics with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Professional resume and statement on maritime logistics interests",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8537,
+    "title": "Doctor of Education (Ed.D.) in Deaf Studies and Deaf Education",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally acclaimed doctoral program training bilingual ASL/English teacher educators, researchers, and educational administrators in deaf pedagogy and literacy.",
+    "funding": "U.S. Department of Education personnel preparation grants covering full tuition and living stipend",
+    "tuition": "$0 (Grant funded) or $550/credit",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lamar.edu/education/degrees/doctoral/deaf-studies.html",
+    "requirements": {
+      "gpa": "Master's degree in education or related field with min. 3.3 GPA and ASL proficiency",
+      "ielts": "English/ASL fluency",
+      "gre": "Optional",
+      "papers": "Scholarly writing sample and statement on deaf education research goals",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8538,
+    "title": "Texas Hazardous Waste Research Center Graduate Fellowship",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "State-sponsored environmental engineering fellowship evaluating industrial effluent recycling, soil remediation, and chemical emission mitigation in Southeast Texas.",
+    "funding": "$20,000 annual research stipend plus laboratory funding for hazardous waste remediation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lamar.edu/research",
+    "requirements": {
+      "gpa": "Enrolled graduate student in civil, environmental, or chemical engineering with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Environmental engineering thesis proposal",
+      "references": "Lamar engineering faculty advisor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8539,
+    "title": "Southeast Texas Coastal Wetlands Ecological Field Practicum",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Field biology practicum assessing coastal salt marsh restoration, hurricane barrier erosion protection, and migratory avian nesting ecology along the Sabine Lake estuary.",
+    "funding": "$3,500 summer research stipend sponsored by the Texas General Land Office",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lamar.edu/arts-sciences/biology",
+    "requirements": {
+      "gpa": "Biology or environmental science major with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Coastal research interest statement",
+      "references": "One biology professor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8540,
+    "title": "Mirabeau B. Lamar Presidential Honors Scholarship",
+    "university": "Lamar University",
+    "country": "United States",
+    "location": "Beaumont, Texas, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Lamar University's most prestigious merit scholarship awarded to top graduating high school seniors exhibiting stellar academic performance and intellectual vigor.",
+    "funding": "Full tuition, fees, on-campus housing, and book allowance ($12,000-$15,000/year value) renewable for four years",
+    "tuition": "100% full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lamar.edu/admissions/scholarships/mirabeau-scholarship.html",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 or top 10% class rank, and SAT 1350+ or ACT 29+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Mirabeau Scholar essay and on-campus interview",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8541,
+    "title": "Bachelor of Applied Science (BAS) in Applied Management & Healthcare Operations",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Applied bachelor's program designed for technical associate degree holders advancing into healthcare clinic administration, operations leadership, and organizational budgeting.",
+    "funding": "Wyoming Works state grants covering up to $3,200/semester for workforce retraining",
+    "tuition": "$154/credit hour (In-state) / $374/credit hour (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lccc.wy.edu/programs/appliedManagement",
+    "requirements": {
+      "gpa": "Completed associate degree (AAS/AS/AA) with min. 2.5 GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Professional career progression essay",
+      "references": "One supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8542,
+    "title": "Associate of Applied Science in Wind Energy and Renewable Power",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Industry-certified program training technicians in wind turbine mechanical drives, hydraulic pitch systems, high-voltage electrical safety, and tower climbing rescue.",
+    "funding": "Hathaway Scholarship and Wyoming clean energy corporate tool sponsorships up to $4,000",
+    "tuition": "$105/credit (In-district) / $154/credit (In-state)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lccc.wy.edu/programs/windEnergy",
+    "requirements": {
+      "gpa": "High school diploma or GED with basic algebra competency",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Climb training physical readiness acknowledgment",
+      "references": "One academic or vocational reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8543,
+    "title": "Associate of Applied Science in Equine Sciences and Breeding Management",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on equine reproduction, nutrition, herd health management, training biomechanics, and facility operation using LCCC's expansive indoor arena and breeding barn.",
+    "funding": "LCCC Rodeo and Equine Foundation performance awards up to $3,000/year",
+    "tuition": "$154/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lccc.wy.edu/programs/equineScience",
+    "requirements": {
+      "gpa": "High school diploma or GED with horse handling experience",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Equine experience resume and safety pledge",
+      "references": "One equine industry or 4-H advisor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8544,
+    "title": "Wyoming Hathaway Honors Collegiate Scholarship",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Wyoming's premier state-endowed merit scholarship rewarding academic excellence among high school graduates who complete the rigorous success curriculum.",
+    "funding": "Up to $3,360 per academic year for Wyoming high school graduates attending college",
+    "tuition": "Tuition reduction applied per semester credit",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.lccc.wy.edu/financialAid/hathaway",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and ACT score 25+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Hathaway eligibility form and transcript",
+      "references": "High school counselor certification"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8545,
+    "title": "Cheyenne Regional Medical Center Clinical Nursing Fellowship",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hospital-funded fellowship for nursing students rotating through intensive care, pediatrics, and surgical units at Cheyenne Regional Medical Center.",
+    "funding": "$5,000 hospital tuition fellowship with guaranteed RN employment commitment",
+    "tuition": "$0 (Direct hospital sponsorship)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lccc.wy.edu/programs/nursing",
+    "requirements": {
+      "gpa": "Enrolled in LCCC Nursing Associate Degree Program in good standing",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Clinical commitment contract and drug screening",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8546,
+    "title": "Cybersecurity & Network Defense Laboratory Internship",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "location": "Cheyenne, Wyoming, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Practical cybersecurity internship monitoring network intrusion logs, conducting vulnerability assessments, and configuring enterprise firewall appliances.",
+    "funding": "$3,000 semester internship stipend with Wyoming state government enterprise IT teams",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.lccc.wy.edu/programs/informationTechnology",
+    "requirements": {
+      "gpa": "Completed 24 credits in IT or Cybersecurity with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Technical resume and security clearance background check",
+      "references": "LCCC computer science instructor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8547,
+    "title": "Bachelor of Arts in Fashion Design and Production",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Hands-on studio degree featuring garment construction, sustainable textile sourcing, 3D digital apparel CAD, and showcasing in the annual student-run RUNWAY fashion show.",
+    "funding": "Lasell Runway Design Excellence Awards up to $16,000/year",
+    "tuition": "$42,600/year (Significant institutional merit scholarships awarded)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lasell.edu/academics/academic-programs/undergraduate/fashion-design-and-production.html",
+    "requirements": {
+      "gpa": "High school GPA >= 2.8 with creative portfolio (8-12 design pieces)",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Design statement of purpose and sketches",
+      "references": "One art or fashion instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8548,
+    "title": "Master of Science in Athletic Training (MSAT)",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAATE-accredited graduate program training certified athletic trainers in emergency sports trauma, musculoskeletal biomechanics, and clinical injury rehabilitation in Boston.",
+    "funding": "Sports medicine graduate assistantships with collegiate athletic training staff",
+    "tuition": "$725/credit hour",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lasell.edu/academics/academic-programs/graduate/athletic-training.html",
+    "requirements": {
+      "gpa": "Bachelor's degree with 3.0 GPA and prerequisites in anatomy, physiology, and physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement explaining athletic training philosophy",
+      "references": "Three letters including one certified athletic trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8549,
+    "title": "Bachelor of Science in Hospitality Management and Event Leadership",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Connected learning degree partnering with premier Boston luxury hotels, convention centers, and sports entertainment venues for required professional internships.",
+    "funding": "Boston Hotel and Tourism Association grants up to $10,000/year",
+    "tuition": "$42,600/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lasell.edu/academics/academic-programs/undergraduate/hospitality-management.html",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Hospitality career aspirations essay",
+      "references": "One high school counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8550,
+    "title": "Boston Urban Media and Communication Fellowship",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Fellowship supporting students in producing investigative multimedia journalism, documentary short films, and social impact digital campaigns on urban New England topics.",
+    "funding": "$4,000 project grant and production studio access at Boston media production houses",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lasell.edu/academics/connected-learning",
+    "requirements": {
+      "gpa": "Communication or journalism major with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Multimedia portfolio and documentary pitch deck",
+      "references": "Two communication faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8551,
+    "title": "Lasell Connected Learning Summer Boston Internship Stipend",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "University-funded stipend ensuring that Lasell students can accept prestigious summer internships at Boston museums, healthcare clinics, or civic government offices without financial hardship.",
+    "funding": "$3,000 living stipend supporting unpaid or low-paid summer internships in Boston non-profits or cultural organizations",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lasell.edu/career-services",
+    "requirements": {
+      "gpa": "Full-time Lasell student with secured summer Boston internship",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Internship offer letter and budget proposal",
+      "references": "Academic advisor sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8552,
+    "title": "Presidential Scholarship for Academic and Creative Distinction",
+    "university": "Lasell University",
+    "country": "United States",
+    "location": "Newton, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Lasell's highest merit award for incoming freshmen who show superior scholastic performance, creative enterprise, and leadership potential.",
+    "funding": "$24,000 annual scholarship renewable for four undergraduate years ($96,000 total value)",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lasell.edu/admissions-and-aid/scholarships-and-aid.html",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 with rigorous college preparatory curriculum",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential honors essay",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8553,
+    "title": "Doctor of Philosophy (Ph.D.) in Materials Science and Engineering",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite doctoral program utilizing world-class electron microscopy facilities to research nanostructured alloys, 2D quantum materials, photonic crystals, and battery degradation.",
+    "funding": "Full graduate research assistantship covering 100% of tuition, university health insurance, and $34,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.lehigh.edu/matsci/academics/phd-materials-science-engineering",
+    "requirements": {
+      "gpa": "B.S. or M.S. in Materials Science, Physics, Chemistry, or Engineering with min. 3.4 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement detailing laboratory focus in microscopy or materials synthesis",
+      "references": "Three letters from academic researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8554,
+    "title": "Master of Science in Structural Engineering (ATLSS Center)",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "World-famous structural research program conducting full-scale experimental testing on earthquake-resistant bridge structures, fatigue failure, and smart infrastructure sensors at ATLSS Center.",
+    "funding": "Graduate research assistantships funded through NSF and federal infrastructure grants covering tuition and $28,000 stipend",
+    "tuition": "$0 (Assistantship funded) or $1,650/credit",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.lehigh.edu/cee/academics/ms-civil-engineering",
+    "requirements": {
+      "gpa": "B.S. in Civil or Structural Engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose outlining structural research interests",
+      "references": "Three faculty recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8555,
+    "title": "Mountaintop Summer Interdisciplinary Research Fellowship",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "Open-ended summer innovation incubator where interdisciplinary teams of students take intellectual ownership of real-world challenges in the high-bay Mountaintop campus spaces.",
+    "funding": "$5,000 summer research stipend plus $3,000 project materials budget for high-impact innovation projects",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://mountaintop.lehigh.edu",
+    "requirements": {
+      "gpa": "Enrolled Lehigh undergraduate or graduate student in any discipline with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Project pitch outlining technological or societal impact",
+      "references": "One Lehigh faculty sponsor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8556,
+    "title": "Master of Science in Financial Engineering (MSFE)",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "social-sciences"
+    ],
+    "desc": "Joint engineering and business curriculum integrating stochastic calculus, algorithmic trading strategies, credit risk quantitative modeling, and machine learning in finance.",
+    "funding": "Rossin and Lehigh Business merit scholarships up to $20,000 total award",
+    "tuition": "$1,650/credit hour",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://business.lehigh.edu/academics/graduate/financial-engineering",
+    "requirements": {
+      "gpa": "Bachelor's degree with rigorous math preparation (multivariable calculus, linear algebra, programming) and min. 3.3 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "GRE quantitative score >= 162",
+      "papers": "Statement of financial engineering career objectives",
+      "references": "Two quantitative faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8557,
+    "title": "Asa Packer Presidential Scholar Full-Tuition Scholarship",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Lehigh's premier merit recognition awarded to a select cohort of incoming freshmen who represent the pinnacle of academic excellence, intellectual curiosity, and creative enterprise.",
+    "funding": "Full tuition scholarship ($62,000/year value) plus a $5,000 undergraduate research stipend",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://www.lehigh.edu/financialaid/scholarships",
+    "requirements": {
+      "gpa": "Top 5% high school class rank with exceptional course rigor and leadership",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Lehigh admissions supplemental essay",
+      "references": "Three letters from school counselors and teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8558,
+    "title": "Center for Advanced Materials and Nanotechnology (CAMN) Internship",
+    "university": "Lehigh University",
+    "country": "United States",
+    "location": "Bethlehem, Pennsylvania, United States",
+    "type": "Internship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "chemistry"
+    ],
+    "desc": "Undergraduate research internship training students in high-resolution transmission electron microscopy, focused ion beam milling, and atomic-scale spectroscopy.",
+    "funding": "$4,500 summer research stipend plus full access to state-of-the-art TEM, SEM, and FIB cleanroom instrumentation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://camn.lehigh.edu",
+    "requirements": {
+      "gpa": "Undergraduate student in materials science, physics, or chemistry with min. 3.3 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Microscopy research statement",
+      "references": "One physics or materials science faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8559,
+    "title": "Master of Arts in Clinical Mental Health Counseling: Art Therapy",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Pioneering clinical mental health degree integrating psychoanalytic theory, cognitive-behavioral art interventions, trauma recovery, and supervised clinical field placements in Boston.",
+    "funding": "Lesley mental health clinical grants up to $12,000/year plus supervised hospital clinical internship placements",
+    "tuition": "$1,100/credit hour",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lesley.edu/academics/graduate-programs/expressive-therapies",
+    "requirements": {
+      "gpa": "Bachelor's degree with 3.0 GPA, 12 psychology credits, and 15 studio art credits",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Not required",
+      "papers": "Visual art portfolio (15 works) and personal statement on therapeutic philosophy",
+      "references": "Three letters of academic or clinical recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8560,
+    "title": "Master of Fine Arts (MFA) in Creative Writing (Low-Residency)",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally acclaimed low-residency creative writing degree mentored by award-winning authors in fiction, poetry, creative nonfiction, writing for stage and screen, and young adult literature.",
+    "funding": "MFA Writer's Merit Fellowships up to $8,000 total program award",
+    "tuition": "$10,500/semester",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lesley.edu/academics/graduate-programs/creative-writing-mfa",
+    "requirements": {
+      "gpa": "Bachelor's degree from an accredited institution",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Substantial writing sample (20-30 pages prose or 10 poems) and critical essay",
+      "references": "Two recommendations from writers or literature faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8561,
+    "title": "Master of Education (M.Ed.) in Curriculum and Instruction (Literacy Focus)",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized education degree based on the pioneering literacy work of Irene Fountas and Gay Su Pinnell, focusing on guided reading interventions and equitable classroom pedagogy.",
+    "funding": "Massachusetts Teacher Diversity Fellowships covering up to 50% tuition",
+    "tuition": "$850/credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lesley.edu/academics/graduate-programs/education",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA and teaching license or educational background",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of literacy teaching philosophy",
+      "references": "Two professional educational letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8562,
+    "title": "Cambridge Social Justice and Arts Activism Fellowship",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Fellowship supporting visual artists and activists engaging with community housing justice, climate resilience, and public art murals across Greater Boston.",
+    "funding": "$6,000 creative research grant and community exhibition sponsorship in Cambridge/Boston",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lesley.edu/college-art-and-design",
+    "requirements": {
+      "gpa": "Enrolled graduate or senior undergraduate art student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Community art project proposal and budget",
+      "references": "One art faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8563,
+    "title": "Center for Reading Recovery Clinical Practicum",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Clinical educational internship delivering intensive early literacy interventions to primary school students struggling with phonological awareness and comprehension.",
+    "funding": "$3,500 semester stipend for diagnostic reading intervention in Boston public schools",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lesley.edu/research/reading-recovery",
+    "requirements": {
+      "gpa": "Enrolled in M.Ed. literacy program with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Literacy intervention plan and resume",
+      "references": "Reading specialist faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8564,
+    "title": "Edith Lesley Wolfard Founders Presidential Scholarship",
+    "university": "Lesley University",
+    "country": "United States",
+    "location": "Cambridge, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Honoring the university's founder, this scholarship recognizes incoming undergraduate students demonstrating academic rigor, social responsibility, and community advocacy.",
+    "funding": "$22,000 annual scholarship renewable for four undergraduate years ($88,000 total value)",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lesley.edu/admissions-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 with demonstrated community commitment",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Founders essay on community advocacy and education",
+      "references": "Two letters from instructors or counselors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8565,
+    "title": "Bachelor of Science in Aviation Flight Technology (Commercial Pilot)",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Premier FAA Part 141 collegiate aviation curriculum training commercial multi-engine pilots on modern glass-cockpit Cirrus and Piper aircraft at the on-campus airport.",
+    "funding": "Major airline pathway hiring bonuses and Lewis Aviation Flight Scholarships up to $15,000/year",
+    "tuition": "$38,400/year (Flight fees billed per flight hour)",
+    "fee": "$40",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lewisu.edu/academics/aviation-flight/index.htm",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 and FAA Class 1 or 2 Medical Certificate",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Aviation career statement and pilot safety pledge",
+      "references": "Two letters from high school teachers or flight instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8566,
+    "title": "Master of Science in Cybersecurity (CAE-CD Accredited)",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA/DHS-designated cybersecurity graduate program training specialists in ethical hacking, digital forensics, cloud security architecture, and incident response.",
+    "funding": "Department of Defense Cyber Scholarship Program (DoD CySP) full tuition and $27,000 stipend",
+    "tuition": "$850/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lewisu.edu/academics/ms-cybersecurity/index.htm",
+    "requirements": {
+      "gpa": "Bachelor's degree in CS, IT, or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of technical intent and professional resume",
+      "references": "Two professional or academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8567,
+    "title": "Master of Science in Nursing (MSN) Family Nurse Practitioner",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited graduate nursing program preparing advanced practice registered nurses (APRNs) to deliver primary care across the lifespan in Chicago clinics.",
+    "funding": "Health Resources and Services Administration (HRSA) nurse traineeship grants up to $10,000",
+    "tuition": "$870/credit hour",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lewisu.edu/academics/ms-nursing/index.htm",
+    "requirements": {
+      "gpa": "BSN degree with min. 3.0 GPA and active unencumbered Illinois RN license",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement describing family nurse practitioner practice goals",
+      "references": "Three letters from healthcare supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8568,
+    "title": "Air Traffic Control Collegiate Training Initiative (AT-CTI) Practicum",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Hands-on air traffic simulation practicum managing tower radar, terminal radar approach control (TRACON), and en route separation in high-fidelity 360-degree simulators.",
+    "funding": "FAA-partnered fast-track hiring eligibility and $3,500 simulation lab stipend",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lewisu.edu/academics/air-traffic-control",
+    "requirements": {
+      "gpa": "Enrolled in Air Traffic Control program with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "AT-CTI compliance form and medical clearance",
+      "references": "Aviation faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8569,
+    "title": "Father Aquinas Colgan Lasallian Community Fellowship",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Fellowship supporting students in developing innovative community outreach initiatives for low-income Chicago neighborhoods, addressing food security and youth tutoring.",
+    "funding": "$5,000 service fellowship grant plus funded immersion trip to Lasallian ministries",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lewisu.edu/mission",
+    "requirements": {
+      "gpa": "Undergraduate student with min. 3.0 GPA and active campus ministry service",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Lasallian mission project proposal",
+      "references": "Campus ministry or volunteer coordinator letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8570,
+    "title": "Presidential Merit Scholarship for Scholastic Achievement",
+    "university": "Lewis University",
+    "country": "United States",
+    "location": "Romeoville, Illinois, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "The university's top competitive merit scholarship awarded to incoming freshmen who exhibit outstanding high school scholastic achievement and leadership.",
+    "funding": "$20,000 annual scholarship renewable for four undergraduate years ($80,000 total value)",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lewisu.edu/admissions/financialaid/scholarships.htm",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 with college prep curriculum",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Scholarship essay",
+      "references": "Two high school counselor/teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8571,
+    "title": "Master of Science in Natural Sciences (Applied Environmental Track)",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Interdisciplinary master's degree investigating agroforestry ecosystems, heavy metal soil contamination, water catchment hydrology, and ecological biodiversity in Missouri.",
+    "funding": "USDA-NIFA graduate research assistantships providing full tuition waiver and $20,000 annual stipend",
+    "tuition": "$0 (Assistantship funded) or $385/credit",
+    "fee": "$30",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lincolnu.edu/academics/college-of-agriculture-environmental-and-human-sciences",
+    "requirements": {
+      "gpa": "B.S. in Biology, Chemistry, or Environmental Science with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of research goals and alignment with land-grant research labs",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8572,
+    "title": "Bachelor of Science in Nursing (BSN) Healthcare Leadership Track",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program featuring simulation hospital suites, geriatric health rotations, and clinical hospital partnerships in mid-Missouri.",
+    "funding": "Missouri Department of Health nursing stipends up to $8,000/year",
+    "tuition": "$8,500/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lincolnu.edu/academics/school-of-nursing",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.75 in anatomy, physiology, and chemistry, and TEAS composite >= 65%",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing philosophy essay",
+      "references": "Two science or clinical instructor references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8573,
+    "title": "Bachelor of Science in Agriculture (Animal and Plant Science Focus)",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Comprehensive agricultural curriculum with field training at the George Washington Carver Farm in small ruminant breeding, aquaponics, and hydroponic greenhouse crop production.",
+    "funding": "USDA 1890 Land-Grant Full Scholarships covering tuition, fees, room, and board",
+    "tuition": "$0 (USDA 1890 Scholars) or $8,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lincolnu.edu/academics/college-of-agriculture-environmental-and-human-sciences",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining agricultural career goals",
+      "references": "One high school counselor or agriculture teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8574,
+    "title": "George Washington Carver Agricultural Research Internship",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on summer agricultural research practicum evaluating specialty heirloom vegetables, soil nitrogen fixation, and integrated pest management strategies in organic farming.",
+    "funding": "$4,000 summer research stipend plus on-farm researcher housing",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.lincolnu.edu/research",
+    "requirements": {
+      "gpa": "Undergraduate student in agriculture, biology, or chemistry with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Agricultural research statement",
+      "references": "One Lincoln agriculture faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8575,
+    "title": "Soldiers of the 62nd and 65th Infantries Memorial Fellowship",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Scholarly fellowship conducting historical research on the African American Civil War soldiers who founded Lincoln Institute in 1866 and early Missouri civil rights struggles.",
+    "funding": "$5,000 research grant supporting historical civil rights and HBCU history documentation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lincolnu.edu/library",
+    "requirements": {
+      "gpa": "History, journalism, or political science major with min. 3.2 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Historical research outline utilizing Inman E. Page Library archives",
+      "references": "History faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8576,
+    "title": "Lincoln University Presidential Blue Tiger Merit Scholarship",
+    "university": "Lincoln University",
+    "country": "United States",
+    "location": "Jefferson City, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The university's premier academic scholarship honoring incoming high school seniors who embody academic excellence, self-discipline, and community engagement.",
+    "funding": "Full in-state tuition and campus meal plan waiver renewable for four years",
+    "tuition": "Full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lincolnu.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and ACT 24+ or SAT 1180+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8577,
+    "title": "Doctor of Osteopathic Medicine (DO) - DeBusk College of Osteopathic Medicine",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Elite osteopathic medical degree dedicated to training primary care physicians serving rural Appalachia, featuring cutting-edge simulation hospitals and comprehensive anatomical dissection.",
+    "funding": "DeBusk Family Appalachian Healthcare Scholarships up to $25,000/year for rural practitioners",
+    "tuition": "$58,400/year (Extensive loan repayment and rural scholarship programs)",
+    "fee": "$60 (Supplemental fee)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lmunet.edu/debusk-college-of-osteopathic-medicine",
+    "requirements": {
+      "gpa": "Undergraduate science and overall GPA >= 3.2 and competitive MCAT score (500+)",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "AACOMAS personal statement and DCOM secondary essays",
+      "references": "Pre-med committee letter or two science faculty plus one physician (DO preferred) letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8578,
+    "title": "Doctor of Veterinary Medicine (DVM) - College of Veterinary Medicine",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "AVMA-accredited veterinary medicine degree utilizing a hybrid distributed clinical model, the DeBusk Veterinary Teaching Center (DVTC), and hands-on large animal mobile clinics.",
+    "funding": "Appalachian Large Animal Veterinary Fellowships providing up to $15,000/year",
+    "tuition": "$53,800/year",
+    "fee": "$65 (Supplemental)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lmunet.edu/college-of-veterinary-medicine",
+    "requirements": {
+      "gpa": "Science prerequisite GPA >= 3.0 and min. 400 hours veterinary clinical experience",
+      "ielts": "English fluency",
+      "gre": "Not required",
+      "papers": "VMCAS essays on veterinary ethics and career vision",
+      "references": "Three letters including at least one licensed veterinarian"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8579,
+    "title": "Juris Doctor (J.D.) - Duncan School of Law",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ABA-accredited legal degree located in downtown Knoxville, Tennessee, emphasizing courtroom litigation skills, practical legal writing, and public interest advocacy.",
+    "funding": "Duncan Law Merit Scholarships covering up to 100% of law school tuition",
+    "tuition": "$1,080/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lmunet.edu/duncan-school-of-law",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive undergraduate GPA and LSAT score",
+      "ielts": "English fluency",
+      "gre": "LSAT score required",
+      "papers": "Law school personal statement and resume",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8580,
+    "title": "Appalachian Rural Health Research Fellowship",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Interprofessional healthcare fellowship pairing medical, nursing, and veterinary students to study zoonotic disease risks, chronic illness prevention, and mobile clinic efficacy in Appalachia.",
+    "funding": "$10,000 stipend supporting clinical field studies on opioid addiction treatment and rural diabetes interventions",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lmunet.edu/research",
+    "requirements": {
+      "gpa": "Enrolled graduate or professional health student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Rural health intervention research proposal",
+      "references": "DCOM or CVM faculty mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8581,
+    "title": "DeBusk Veterinary Teaching Center Summer Clinical Practicum",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Equine and bovine clinical practicum managing herd reproduction, lameness diagnostics, and surgical anesthesia at LMU's 700-acre DeBusk Veterinary Teaching Center in Ewing, Virginia.",
+    "funding": "$3,500 summer stipend plus veterinary dormitory accommodations at DVTC",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lmunet.edu/college-of-veterinary-medicine/dvtc",
+    "requirements": {
+      "gpa": "Undergraduate pre-vet or enrolled DVM student in good standing",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Veterinary clinical skills resume",
+      "references": "Veterinary clinician recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8582,
+    "title": "Abraham Lincoln Honors Presidential Scholarship",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "location": "Harrogate, Tennessee, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "LMU's premier undergraduate scholarship recognizing incoming first-year students who show exceptional scholastic distinction, moral integrity, and commitment to civic service.",
+    "funding": "Full tuition scholarship ($26,500/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lmunet.edu/admissions/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.8 and ACT score 29+ or SAT 1350+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors essay exploring Lincoln's legacy of service",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8583,
+    "title": "Bachelor of Science in Nursing (BSN) Clinical Compassion Track",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing program featuring modern patient simulation labs, faith-integrated compassionate care instruction, and clinical rotations at regional medical centers.",
+    "funding": "Christus St. Frances Cabrini Hospital nursing forgivable loans up to $10,000/year",
+    "tuition": "$20,600/year (Over 95% of students receive institutional financial aid)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lcuniversity.edu/academics/school-of-nursing-allied-health",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.6 in anatomy, physiology, and chemistry, and TEAS score >= 65%",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing vocational statement of purpose",
+      "references": "Two letters from instructors or clinical professionals"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8584,
+    "title": "Bachelor of Science in Pre-Medical Biology",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous undergraduate curriculum with exceptional medical and dental school placement rates, offering advanced biochemistry, cell biology, genetics, and pre-health mentoring.",
+    "funding": "LCU Trustee Science Scholarships up to $12,000/year",
+    "tuition": "$20,600/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lcuniversity.edu/academics/undergraduate-programs/biology",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and mathematics",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay on scientific inquiry and healthcare motivation",
+      "references": "One high school science teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8585,
+    "title": "Master of Business Administration (MBA) in Ethical Leadership",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Accelerated online and hybrid MBA curriculum focusing on corporate ethics, forensic accounting, organizational change management, and executive data analytics.",
+    "funding": "Graduate business leadership grants up to $4,500 total award",
+    "tuition": "$525/credit hour",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.lcuniversity.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE waived with 3.0+ undergraduate GPA",
+      "papers": "Resume and statement of executive leadership goals",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8586,
+    "title": "Christus Health Rural Clinical Nursing Internship",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on hospital internship rotating through intensive care, pediatrics, and surgical oncology, developing patient triage and electronic health record documentation skills.",
+    "funding": "$2,500 semester stipend for clinical shifts at Rapides Regional and Cabrini hospitals",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lcuniversity.edu/academics/school-of-nursing-allied-health",
+    "requirements": {
+      "gpa": "Enrolled junior or senior BSN student in good standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Clinical objectives resume",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8587,
+    "title": "C.S. Lewis Honors Program Academic Research Fellowship",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary humanities fellowship analyzing Christian intellectual traditions, bioethics, literary criticism, and moral philosophy across European and American culture.",
+    "funding": "$4,000 research award plus funded study trip to Oxford and Cambridge, England",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lcuniversity.edu/academics/honors-program",
+    "requirements": {
+      "gpa": "Accepted C.S. Lewis Honors student with min. 3.5 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors thesis proposal and critical writing sample",
+      "references": "Honors program director nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8588,
+    "title": "Presidential Board of Trustees Scholarship for Academic Excellence",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "location": "Pineville, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest academic honor for incoming freshmen who have demonstrated outstanding intellectual ability, spiritual integrity, and high school leadership.",
+    "funding": "Full tuition scholarship ($20,600/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lcuniversity.edu/admissions/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 and ACT 28+ or SAT 1310+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay and on-campus interview",
+      "references": "Two academic recommendations from teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8589,
+    "title": "Associate of Applied Science in Process Technology (PTEC)",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "NAPTA-endorsed degree preparing high-earning operations technicians for petrochemical plants, paper mills, refineries, and chemical processing facilities across the Gulf Coast.",
+    "funding": "Louisiana Reboot and MJ Foster Promise Program grants covering up to 100% of tuition and fees",
+    "tuition": "$0 (MJ Foster Promise) or $145/credit hour",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ladelta.edu/academics/programs/process-technology",
+    "requirements": {
+      "gpa": "High school diploma or GED with acceptable Accuplacer math placement",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "PTEC industrial safety acknowledgment",
+      "references": "One character or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8590,
+    "title": "Associate of Science in Nursing (RN Registered Nurse Program)",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program with extensive simulation lab training and clinical rotations at St. Francis Medical Center and Glenwood Regional Medical Center.",
+    "funding": "Delta Healthcare Workforce stipends and Louisiana hospital tuition sponsorships",
+    "tuition": "$145/credit hour",
+    "fee": "$20",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ladelta.edu/academics/programs/registered-nursing",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.8 in anatomy, physiology, and microbiology, with TEAS exam",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Nursing application essay and background check",
+      "references": "Two letters from healthcare or academic instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8591,
+    "title": "Associate of Applied Science in Industrial Instrumentation and Electrical Technology",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on technical curriculum in programmable logic controllers (PLCs), distributed control systems (DCS), pneumatic valves, and electronic calibration.",
+    "funding": "Corporate instrumentation apprenticeships paying $18-$25/hour plus tool allowances",
+    "tuition": "$145/credit hour",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ladelta.edu/academics/programs/industrial-instrumentation",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Technical trade career statement",
+      "references": "One instructor or employer reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8592,
+    "title": "Louisiana M.J. Foster Promise Workforce Technical Fellowship",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Louisiana's flagship workforce financial aid program funding students training in manufacturing, healthcare, information technology, and transportation sectors.",
+    "funding": "Up to $3,200 per year ($6,400 lifetime award) covering tuition and mandatory fees for high-demand careers",
+    "tuition": "$0 (Direct state grant applied to account)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ladelta.edu/admissions/financial-aid/mj-foster",
+    "requirements": {
+      "gpa": "Louisiana resident aged 21+ with high school diploma or equivalent, enrolled in eligible high-priority program",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "M.J. Foster Promise application",
+      "references": "FAFSA completion certification"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8593,
+    "title": "Graphic Packaging International Plant Operations Internship",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Plant floor internship troubleshooting automated packaging machinery, statistical quality monitoring, and mechanical maintenance systems in West Monroe.",
+    "funding": "Paid summer industrial co-op earning $20/hour at paper manufacturing and carton conversion facilities",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ladelta.edu/workforce",
+    "requirements": {
+      "gpa": "Enrolled in PTEC or Industrial Maintenance with min. 2.75 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Plant safety and drug test clearance",
+      "references": "PTEC program director recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8594,
+    "title": "LDCC Foundation Chancellor's Merit Scholarship",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "location": "Monroe, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit award supporting full-time technical and academic students who demonstrate scholastic promise, leadership, and service to the northeast Louisiana community.",
+    "funding": "$1,500 semester scholarship awarded by the LDCC Foundation",
+    "tuition": "Direct tuition credit",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.ladelta.edu/foundation/scholarships",
+    "requirements": {
+      "gpa": "High school or LDCC GPA >= 3.0",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Scholarship essay explaining career ambitions",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8595,
+    "title": "Master of Business Administration (MBA) in Data Analytics",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Top-ranked online MBA program featuring predictive data analytics, financial strategy, business intelligence visualization, and corporate executive decision modeling.",
+    "funding": "AACSB Merit Scholarships and corporate employer partner discounts up to $3,000",
+    "tuition": "$12,474 total program cost (One of the most affordable AACSB-accredited MBAs in the US)",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lsus.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "Bachelor's degree from an accredited institution with min. 3.0 GPA (or 2.75 with 3+ years professional experience)",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE not required",
+      "papers": "Professional resume and statement of business intent",
+      "references": "Two professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8596,
+    "title": "Master of Science in Computer Systems Technology (Cybersecurity Track)",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Applied computing degree utilizing the Cyber Collaboratory to train students in penetration testing, threat hunting, machine learning network security, and cryptographic protocols.",
+    "funding": "Cyber Collaboratory Graduate Assistantships providing full tuition waiver and $16,000 annual stipend",
+    "tuition": "$0 (Assistantship funded) or $480/credit",
+    "fee": "$20",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lsus.edu/academics/graduate-programs/computer-systems-technology",
+    "requirements": {
+      "gpa": "B.S. in Computer Science or related STEM discipline with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of computing and cybersecurity focus",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8597,
+    "title": "Bachelor of Science in Cellular and Molecular Biology",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "High-impact pre-medical curriculum partnering with LSU Health Shreveport on oncology research, recombinant genetics, immunology, and pharmacology.",
+    "funding": "LSU System STEM Scholarships up to $8,000/year",
+    "tuition": "$7,327/year (In-state) / $7,327/year (Online rate)",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lsus.edu/academics/undergraduate-programs/biological-sciences",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with biology and chemistry coursework",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay on biological science research interests",
+      "references": "One high school science instructor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8598,
+    "title": "Cyber Collaboratory Artificial Intelligence & Robotics Fellowship",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Competitive fellowship supporting graduate and undergraduate researchers working on computer vision for drone navigation, natural language processing, and medical image segmentation.",
+    "funding": "$8,000 research grant and access to high-performance GPU clusters and autonomous robotics platforms",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lsus.edu/cyber-collaboratory",
+    "requirements": {
+      "gpa": "Enrolled student in computer science or math with min. 3.3 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "AI research proposal and GitHub repository link",
+      "references": "One computer science faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8599,
+    "title": "LSU Health Shreveport Translational Biomedical Internship",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Summer biomedical research internship conducting lab experiments in neurodegenerative disease models, viral immunology, and cardiovascular molecular pathways at LSU Health.",
+    "funding": "$3,500 summer research stipend sponsored by NIH-INBRE biomedical grants",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.lsus.edu/academics/undergraduate-programs/biological-sciences",
+    "requirements": {
+      "gpa": "Undergraduate biology or biochemistry major with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Biomedical research statement and transcript",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8600,
+    "title": "Chancellor’s Premier Scholars Full-Tuition Award",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "location": "Shreveport, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest competitive undergraduate scholarship at LSUS awarded to incoming high school seniors who demonstrate outstanding scholastic achievement and community service.",
+    "funding": "Full tuition and fee waiver plus $1,000 annual book stipend renewable for four years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.lsus.edu/admissions-and-financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 and ACT composite >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor's scholar application essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8601,
+    "title": "Bachelor of Science in Nursing (BSN) Healthcare Excellence Track",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Highly regarded nursing curriculum achieving consistently top-tier NCLEX-RN first-time pass rates, equipped with modern simulation hospitals and clinical partnerships in Central Louisiana.",
+    "funding": "Rapides Healthcare Foundation nursing scholarships up to $8,000/year",
+    "tuition": "$7,122/year (In-state) / $7,122/year (Online 100% rate)",
+    "fee": "$20",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lsua.edu/academics/programs/nursing",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.6 in anatomy, physiology, and chemistry, and TEAS test",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining nursing clinical dedication",
+      "references": "Two recommendations from science instructors or healthcare supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8602,
+    "title": "Bachelor of Science in Business Administration (Agribusiness Focus)",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Applied business degree blending financial accounting, commodity marketing, supply chain management, and agricultural economics in Louisiana's farming and forestry regions.",
+    "funding": "Louisiana Farm Bureau and Agribusiness Association grants up to $4,000/year",
+    "tuition": "$7,122/year",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lsua.edu/academics/programs/business",
+    "requirements": {
+      "gpa": "High school GPA >= 2.0 with college prep math",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of business ambitions",
+      "references": "One high school counselor or business teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8603,
+    "title": "Bachelor of Science in Medical Laboratory Science (MLS)",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "NAACLS-accredited program training diagnostic laboratory scientists in clinical chemistry, hematology, blood banking, and molecular pathology.",
+    "funding": "Central Louisiana Healthcare Coalition tuition subsidies and hospital signing bonuses",
+    "tuition": "$7,122/year",
+    "fee": "$20",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lsua.edu/academics/programs/medical-laboratory-science",
+    "requirements": {
+      "gpa": "Overall college GPA >= 2.5 and science GPA >= 2.7 in organic chemistry and biology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Laboratory science career goals essay",
+      "references": "Two letters from chemistry or biology faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8604,
+    "title": "Central Louisiana Regional Economic Development Practicum",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on regional economic development internship conducting workforce trend analysis, business retention surveys, and rural entrepreneurship incubation.",
+    "funding": "$2,500 semester stipend with the Central Louisiana Regional Chamber of Commerce",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.lsua.edu/academics/programs/business",
+    "requirements": {
+      "gpa": "Junior or senior business major with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Business resume and cover letter",
+      "references": "College of Business faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8605,
+    "title": "Rapides Regional Medical Center Clinical Simulation Fellowship",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Specialized fellowship for upper-division nursing scholars conducting advanced patient simulation modeling, sepsis response drills, and telemetry cardiac monitoring.",
+    "funding": "$4,000 healthcare fellowship grant plus priority clinical preceptor placement",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lsua.edu/academics/programs/nursing",
+    "requirements": {
+      "gpa": "Enrolled senior nursing student with min. 3.2 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Simulation clinical project proposal",
+      "references": "Nursing faculty sponsor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8606,
+    "title": "LSUA Chancellor's Top 100 Freshman Honors Scholarship",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "location": "Alexandria, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious academic merit award for top incoming freshmen who have demonstrated superior scholastic achievement, high character, and civic service.",
+    "funding": "$6,000 annual scholarship ($24,000 four-year value) covering nearly 85% of total tuition",
+    "tuition": "Substantial tuition reduction applied directly each semester",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.lsua.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school core GPA >= 3.5 and ACT 26+ or SAT 1240+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor's scholarship essay",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];export const researchers=[
   {
     "id": 1,
@@ -297693,5 +302846,1626 @@ export const opportunities=[
     "topics": [
       "Division of Natural Sciences"
     ]
+  }
+,
+{
+    "id": 3769,
+    "name": "Prof. Dr. Wendy Wintersteen",
+    "role": "President and Professor of Entomology",
+    "title": "President and Professor of Entomology",
+    "university": "Iowa State University",
+    "country": "United States",
+    "department": "Office of the President and Department of Plant Pathology, Entomology, and Microbiology",
+    "subject": "biology",
+    "topics": [
+      "Office of the President and Department of Plant Pathology, Entomology, and Microbiology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iastate.edu",
+    "bio": "Prof. Dr. Wendy Wintersteen has led Iowa State as President since 2017, advancing university-wide innovation hubs, agricultural biotechnology, and regional economic revitalization.",
+    "summary": "Prof. Dr. Wendy Wintersteen has led Iowa State as President since 2017, advancing university-wide innovation hubs, agricultural biotechnology, and regional economic revitalization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3770,
+    "name": "Prof. Dr. Paul Canfield",
+    "role": "Distinguished Professor of Physics and Ames Laboratory Senior Physicist",
+    "title": "Distinguished Professor of Physics and Ames Laboratory Senior Physicist",
+    "university": "Iowa State University",
+    "country": "United States",
+    "department": "Department of Physics and Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics and Astronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iastate.edu",
+    "bio": "Prof. Dr. Paul Canfield is a member of the American Academy of Arts and Sciences, pioneering single-crystal growth techniques, heavy fermion materials, and novel superconductors.",
+    "summary": "Prof. Dr. Paul Canfield is a member of the American Academy of Arts and Sciences, pioneering single-crystal growth techniques, heavy fermion materials, and novel superconductors.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3771,
+    "name": "Prof. Dr. Amy Kaleita",
+    "role": "Chair and Professor of Agricultural and Biosystems Engineering",
+    "title": "Chair and Professor of Agricultural and Biosystems Engineering",
+    "university": "Iowa State University",
+    "country": "United States",
+    "department": "Department of Agricultural and Biosystems Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Agricultural and Biosystems Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iastate.edu",
+    "bio": "Prof. Dr. Amy Kaleita specializes in precision conservation, remote sensing telemetry of soil moisture, and hydrological modeling of agricultural watersheds.",
+    "summary": "Prof. Dr. Amy Kaleita specializes in precision conservation, remote sensing telemetry of soil moisture, and hydrological modeling of agricultural watersheds.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3772,
+    "name": "Dr. Aondover Tarhule",
+    "role": "President and Professor of Geography and Hydrology",
+    "title": "President and Professor of Geography and Hydrology",
+    "university": "Illinois State University",
+    "country": "United States",
+    "department": "Office of the President and Department of Geography, Geology, and the Environment",
+    "subject": "environment",
+    "topics": [
+      "Office of the President and Department of Geography, Geology, and the Environment"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://illinoisstate.edu",
+    "bio": "Dr. Aondover Tarhule is a climate scientist and hydrologist researching water resources in semi-arid regions, climate change vulnerability, and higher education administrative policy.",
+    "summary": "Dr. Aondover Tarhule is a climate scientist and hydrologist researching water resources in semi-arid regions, climate change vulnerability, and higher education administrative policy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3773,
+    "name": "Prof. Dr. Olcay Akman",
+    "role": "Professor of Biomathematics and Director of Biomathematics Program",
+    "title": "Professor of Biomathematics and Director of Biomathematics Program",
+    "university": "Illinois State University",
+    "country": "United States",
+    "department": "Department of Mathematics",
+    "subject": "mathematics",
+    "topics": [
+      "Department of Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://illinoisstate.edu",
+    "bio": "Prof. Dr. Olcay Akman conducts research in mathematical biology, statistical modeling of ecological systems, and stochastic differential equations in population dynamics.",
+    "summary": "Prof. Dr. Olcay Akman conducts research in mathematical biology, statistical modeling of ecological systems, and stochastic differential equations in population dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3774,
+    "name": "Dr. Judy Neubrander",
+    "role": "Dean of the Mennonite College of Nursing",
+    "title": "Dean of the Mennonite College of Nursing",
+    "university": "Illinois State University",
+    "country": "United States",
+    "department": "Mennonite College of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Mennonite College of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://illinoisstate.edu",
+    "bio": "Dr. Judy Neubrander investigates primary healthcare access in rural communities, clinical simulation innovations, and academic nursing workforce retention.",
+    "summary": "Dr. Judy Neubrander investigates primary healthcare access in rural communities, clinical simulation innovations, and academic nursing workforce retention.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3775,
+    "name": "Dr. Robert W. Wagner",
+    "role": "President and Professor of Educational Leadership",
+    "title": "President and Professor of Educational Leadership",
+    "university": "Idaho State University",
+    "country": "United States",
+    "department": "Office of the President and Academic Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President and Academic Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.isu.edu",
+    "bio": "Dr. Robert W. Wagner has served as President of Idaho State since 2024, focusing on health sciences expansion, rural outreach, and national laboratory partnerships.",
+    "summary": "Dr. Robert W. Wagner has served as President of Idaho State since 2024, focusing on health sciences expansion, rural outreach, and national laboratory partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3776,
+    "name": "Prof. Dr. Chad Pope",
+    "role": "Chair and Associate Professor of Nuclear Engineering",
+    "title": "Chair and Associate Professor of Nuclear Engineering",
+    "university": "Idaho State University",
+    "country": "United States",
+    "department": "Department of Nuclear Engineering and Industrial Technology",
+    "subject": "engineering",
+    "topics": [
+      "Department of Nuclear Engineering and Industrial Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.isu.edu",
+    "bio": "Prof. Dr. Chad Pope brings extensive commercial nuclear utility experience, researching probabilistic risk assessment, thermal hydraulics, and reactor safety systems.",
+    "summary": "Prof. Dr. Chad Pope brings extensive commercial nuclear utility experience, researching probabilistic risk assessment, thermal hydraulics, and reactor safety systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3777,
+    "name": "Prof. Dr. Walter L. Schroeder",
+    "role": "Professor of Pharmacy Practice and Clinical Specialist",
+    "title": "Professor of Pharmacy Practice and Clinical Specialist",
+    "university": "Idaho State University",
+    "country": "United States",
+    "department": "Department of Pharmacy Practice and Administrative Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Pharmacy Practice and Administrative Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.isu.edu",
+    "bio": "Dr. Walter L. Schroeder investigates clinical pharmacokinetics in critically ill patients, therapeutic drug monitoring, and pharmacy experiential education.",
+    "summary": "Dr. Walter L. Schroeder investigates clinical pharmacokinetics in critically ill patients, therapeutic drug monitoring, and pharmacy experiential education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3778,
+    "name": "Prof. Dr. Latha Ramchand",
+    "role": "Inaugural Chancellor and Professor of Finance",
+    "title": "Inaugural Chancellor and Professor of Finance",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "department": "Office of the Chancellor and Kelley School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor and Kelley School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://indianapolis.iu.edu",
+    "bio": "Dr. Latha Ramchand became the inaugural Chancellor of IU Indianapolis in 2024, steering its historic transition into an independent urban research powerhouse.",
+    "summary": "Dr. Latha Ramchand became the inaugural Chancellor of IU Indianapolis in 2024, steering its historic transition into an independent urban research powerhouse.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3779,
+    "name": "Prof. Dr. Kun Huang",
+    "role": "Chair of Biostatistics and Health Data Science",
+    "title": "Chair of Biostatistics and Health Data Science",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "department": "School of Medicine and Luddy School of Informatics",
+    "subject": "computer-science",
+    "topics": [
+      "School of Medicine and Luddy School of Informatics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://indianapolis.iu.edu",
+    "bio": "Prof. Dr. Kun Huang is an AIMBE Fellow developing machine learning algorithms for computational pathology, cancer multi-omics data integration, and medical computer vision.",
+    "summary": "Prof. Dr. Kun Huang is an AIMBE Fellow developing machine learning algorithms for computational pathology, cancer multi-omics data integration, and medical computer vision.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3780,
+    "name": "Prof. Dr. Titus Schleyer",
+    "role": "Professor of Biomedical Informatics and Regenstrief Research Scientist",
+    "title": "Professor of Biomedical Informatics and Regenstrief Research Scientist",
+    "university": "Indiana University Indianapolis",
+    "country": "United States",
+    "department": "Luddy School of Informatics, Computing, and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Luddy School of Informatics, Computing, and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://indianapolis.iu.edu",
+    "bio": "Prof. Dr. Titus Schleyer investigates electronic health record usability, clinical workflow optimization, and health data interoperability across hospital networks.",
+    "summary": "Prof. Dr. Titus Schleyer investigates electronic health record usability, clinical workflow optimization, and health data interoperability across hospital networks.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3781,
+    "name": "Dr. Sue Ellspermann",
+    "role": "President and Former Lieutenant Governor of Indiana",
+    "title": "President and Former Lieutenant Governor of Indiana",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "department": "Office of the President and Statewide Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President and Statewide Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ivytech.edu",
+    "bio": "Dr. Sue Ellspermann holds a PhD in Industrial Engineering and has served as President of Ivy Tech since 2016, driving the Ivy+ textbook transformation and statewide apprenticeship expansions.",
+    "summary": "Dr. Sue Ellspermann holds a PhD in Industrial Engineering and has served as President of Ivy Tech since 2016, driving the Ivy+ textbook transformation and statewide apprenticeship expansions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3782,
+    "name": "Prof. Dr. Mia D. Johnson",
+    "role": "Chancellor of Ivy Tech Anderson and Higher Education Scholar",
+    "title": "Chancellor of Ivy Tech Anderson and Higher Education Scholar",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "department": "Campus Executive Leadership and Faculty of Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Campus Executive Leadership and Faculty of Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ivytech.edu",
+    "bio": "Dr. Mia D. Johnson conducts research on community college student retention, career pathways for adult learners, and urban higher education equity.",
+    "summary": "Dr. Mia D. Johnson conducts research on community college student retention, career pathways for adult learners, and urban higher education equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3783,
+    "name": "Prof. Ronald E. Williams",
+    "role": "Dean of the School of Advanced Manufacturing, Engineering & Applied Science",
+    "title": "Dean of the School of Advanced Manufacturing, Engineering & Applied Science",
+    "university": "Ivy Tech Community College",
+    "country": "United States",
+    "department": "School of Advanced Manufacturing",
+    "subject": "engineering",
+    "topics": [
+      "School of Advanced Manufacturing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ivytech.edu",
+    "bio": "Prof. Ronald E. Williams leads statewide curriculum alignment with Smart Automation Certification Alliance (SACA) standards and industrial robotics credentials.",
+    "summary": "Prof. Ronald E. Williams leads statewide curriculum alignment with Smart Automation Certification Alliance (SACA) standards and industrial robotics credentials.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3784,
+    "name": "Dr. Justina Wilhelm",
+    "role": "President and Tribal Leadership Scholar",
+    "title": "President and Tribal Leadership Scholar",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "department": "Office of the President and Indigenous Governance",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President and Indigenous Governance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ilisagvik.edu",
+    "bio": "Dr. Justina Wilhelm is an Iñupiaq educator and administrator dedicated to expanding indigenous higher education, Arctic community resilience, and cultural curriculum integration.",
+    "summary": "Dr. Justina Wilhelm is an Iñupiaq educator and administrator dedicated to expanding indigenous higher education, Arctic community resilience, and cultural curriculum integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3785,
+    "name": "Prof. Dr. Todd Sformo",
+    "role": "Wildlife Biologist and Adjunct Professor of Arctic Ecology",
+    "title": "Wildlife Biologist and Adjunct Professor of Arctic Ecology",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "department": "Department of Arctic Environmental Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Arctic Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ilisagvik.edu",
+    "bio": "Dr. Todd Sformo conducts physiological research on freeze tolerance in Arctic insects, marine mammal energetics, and subsistence harvest sustainability on the North Slope.",
+    "summary": "Dr. Todd Sformo conducts physiological research on freeze tolerance in Arctic insects, marine mammal energetics, and subsistence harvest sustainability on the North Slope.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3786,
+    "name": "Prof. Jerica Leavitt",
+    "role": "Associate Professor of Iñupiaq Studies and Indigenous Languages",
+    "title": "Associate Professor of Iñupiaq Studies and Indigenous Languages",
+    "university": "Iḷisaġvik College",
+    "country": "United States",
+    "department": "Division of Iñupiaq Language and Cultural Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Iñupiaq Language and Cultural Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ilisagvik.edu",
+    "bio": "Prof. Jerica Leavitt leads linguistic revitalization efforts, digital audio archival preservation of elder narratives, and traditional indigenous pedagogical practices.",
+    "summary": "Prof. Jerica Leavitt leads linguistic revitalization efforts, digital audio archival preservation of elder narratives, and traditional indigenous pedagogical practices.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3787,
+    "name": "Dr. Daniel Overdorf",
+    "role": "President and Professor of Pastoral Leadership",
+    "title": "President and Professor of Pastoral Leadership",
+    "university": "Johnson University",
+    "country": "United States",
+    "department": "Office of the President and School of Ministry",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President and School of Ministry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://johnsonu.edu",
+    "bio": "Dr. Daniel Overdorf became President of Johnson University in 2024, authoring books on homiletics, pastoral ministry development, and Christian higher education leadership.",
+    "summary": "Dr. Daniel Overdorf became President of Johnson University in 2024, authoring books on homiletics, pastoral ministry development, and Christian higher education leadership.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3788,
+    "name": "Prof. Dr. Christopher Shannon",
+    "role": "Dean of the School of Social and Behavioral Sciences",
+    "title": "Dean of the School of Social and Behavioral Sciences",
+    "university": "Johnson University",
+    "country": "United States",
+    "department": "School of Social and Behavioral Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Social and Behavioral Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://johnsonu.edu",
+    "bio": "Prof. Dr. Christopher Shannon is a licensed professional counselor researching attachment dynamics, integrative psychotherapy models, and counseling ethics.",
+    "summary": "Prof. Dr. Christopher Shannon is a licensed professional counselor researching attachment dynamics, integrative psychotherapy models, and counseling ethics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3789,
+    "name": "Prof. Dr. Matthew Johnson",
+    "role": "Dean of the School of Intercultural Studies",
+    "title": "Dean of the School of Intercultural Studies",
+    "university": "Johnson University",
+    "country": "United States",
+    "department": "School of Intercultural Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Intercultural Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://johnsonu.edu",
+    "bio": "Prof. Dr. Matthew Johnson investigates ethnography in urban mission contexts, language acquisition methodologies, and indigenous leadership development.",
+    "summary": "Prof. Dr. Matthew Johnson investigates ethnography in urban mission contexts, language acquisition methodologies, and indigenous leadership development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3790,
+    "name": "Dr. Greg Mosier",
+    "role": "President and Higher Education Workforce Strategist",
+    "title": "President and Higher Education Workforce Strategist",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "department": "Office of the President and Institutional Governance",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President and Institutional Governance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kckcc.edu",
+    "bio": "Dr. Greg Mosier has led KCKCC since 2018, overseeing the construction of the downtown Community Education Center, workforce apprenticeships, and regional economic revitalization.",
+    "summary": "Dr. Greg Mosier has led KCKCC since 2018, overseeing the construction of the downtown Community Education Center, workforce apprenticeships, and regional economic revitalization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3791,
+    "name": "Prof. Kim Wilcox",
+    "role": "Dean of Math, Science, Business & Technology",
+    "title": "Dean of Math, Science, Business & Technology",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "department": "Division of Mathematics, Science, Business and Technology",
+    "subject": "engineering",
+    "topics": [
+      "Division of Mathematics, Science, Business and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kckcc.edu",
+    "bio": "Prof. Kim Wilcox directs STEM curriculum alignment, expanding industry partnerships across the Kansas City Animal Health Corridor and modernizing biomanufacturing laboratories.",
+    "summary": "Prof. Kim Wilcox directs STEM curriculum alignment, expanding industry partnerships across the Kansas City Animal Health Corridor and modernizing biomanufacturing laboratories.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3792,
+    "name": "Prof. Lori Wright",
+    "role": "Dean of Health Professions and Director of Nursing",
+    "title": "Dean of Health Professions and Director of Nursing",
+    "university": "Kansas City Kansas Community College",
+    "country": "United States",
+    "department": "Division of Health Professions",
+    "subject": "biology",
+    "topics": [
+      "Division of Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kckcc.edu",
+    "bio": "Prof. Lori Wright leads clinical healthcare education standards, simulation hospital teaching methodologies, and NCLEX-RN pass rate initiatives in Kansas.",
+    "summary": "Prof. Lori Wright leads clinical healthcare education standards, simulation hospital teaching methodologies, and NCLEX-RN pass rate initiatives in Kansas.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3793,
+    "name": "Dr. Marc B. Hahn",
+    "role": "President and Professor of Anesthesiology",
+    "title": "President and Professor of Anesthesiology",
+    "university": "Kansas City University",
+    "country": "United States",
+    "department": "Office of the President and Department of Clinical Medicine",
+    "subject": "biology",
+    "topics": [
+      "Office of the President and Department of Clinical Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kansascity.edu",
+    "bio": "Dr. Marc B. Hahn is a board-certified anesthesiologist and national leader in osteopathic medical education, directing medical workforce expansion and community health partnerships across the Midwest.",
+    "summary": "Dr. Marc B. Hahn is a board-certified anesthesiologist and national leader in osteopathic medical education, directing medical workforce expansion and community health partnerships across the Midwest.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3794,
+    "name": "Dr. Robert White",
+    "role": "Dean of the College of Biosciences and Professor of Molecular Biology",
+    "title": "Dean of the College of Biosciences and Professor of Molecular Biology",
+    "university": "Kansas City University",
+    "country": "United States",
+    "department": "College of Biosciences",
+    "subject": "biology",
+    "topics": [
+      "College of Biosciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kansascity.edu",
+    "bio": "Dr. Robert White investigates eukaryotic gene transcription, chromatin remodeling, and transcriptional regulation of non-coding RNA in oncogenesis and cellular differentiation.",
+    "summary": "Dr. Robert White investigates eukaryotic gene transcription, chromatin remodeling, and transcriptional regulation of non-coding RNA in oncogenesis and cellular differentiation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3795,
+    "name": "Dr. Linda C. Niessen",
+    "role": "Dean of the College of Dental Medicine and Professor of Public Health",
+    "title": "Dean of the College of Dental Medicine and Professor of Public Health",
+    "university": "Kansas City University",
+    "country": "United States",
+    "department": "College of Dental Medicine",
+    "subject": "biology",
+    "topics": [
+      "College of Dental Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kansascity.edu",
+    "bio": "Dr. Linda C. Niessen is an internationally recognized expert in geriatric dentistry, oral health policy, and epidemiology of oral systemic disease correlations in elderly populations.",
+    "summary": "Dr. Linda C. Niessen is an internationally recognized expert in geriatric dentistry, oral health policy, and epidemiology of oral systemic disease correlations in elderly populations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3796,
+    "name": "Dr. Matt Thompson",
+    "role": "President and Professor of Educational Leadership",
+    "title": "President and Professor of Educational Leadership",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwu.edu",
+    "bio": "Dr. Matt Thompson has served as President of Kansas Wesleyan since 2013, championing campus expansion, endowment growth, community partnerships, and innovative student success pipelines.",
+    "summary": "Dr. Matt Thompson has served as President of Kansas Wesleyan since 2013, championing campus expansion, endowment growth, community partnerships, and innovative student success pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3797,
+    "name": "Dr. Stephanie Welter",
+    "role": "Associate Professor of Biology and Department Chair",
+    "title": "Associate Professor of Biology and Department Chair",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwu.edu",
+    "bio": "Dr. Stephanie Welter specializes in prairie ecology, botanical diversity in the Great Plains, and the ecological impacts of grazing patterns on Kansas native grassland ecosystems.",
+    "summary": "Dr. Stephanie Welter specializes in prairie ecology, botanical diversity in the Great Plains, and the ecological impacts of grazing patterns on Kansas native grassland ecosystems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3798,
+    "name": "Prof. Lonnie Booker Jr.",
+    "role": "Director of Emergency Management and Assistant Professor",
+    "title": "Director of Emergency Management and Assistant Professor",
+    "university": "Kansas Wesleyan University",
+    "country": "United States",
+    "department": "Department of Emergency Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Emergency Management"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwu.edu",
+    "bio": "Prof. Lonnie Booker Jr. leads the Emergency Management program, focusing on tactical disaster incident response, regional hazard mitigation frameworks, and critical infrastructure resilience.",
+    "summary": "Prof. Lonnie Booker Jr. leads the Emergency Management program, focusing on tactical disaster incident response, regional hazard mitigation frameworks, and critical infrastructure resilience.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3799,
+    "name": "Dr. Lamont O. Repollet",
+    "role": "President and Professor of Educational Leadership",
+    "title": "President and Professor of Educational Leadership",
+    "university": "Kean University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kean.edu",
+    "bio": "Dr. Lamont O. Repollet, former New Jersey Commissioner of Education, leads Kean's strategic growth as New Jersey's urban research university, advancing equity, innovation, and global student mobility.",
+    "summary": "Dr. Lamont O. Repollet, former New Jersey Commissioner of Education, leads Kean's strategic growth as New Jersey's urban research university, advancing equity, innovation, and global student mobility.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3800,
+    "name": "Dr. George Hennings",
+    "role": "Professor Emeritus of Biology and Philanthropic Research Patron",
+    "title": "Professor Emeritus of Biology and Philanthropic Research Patron",
+    "university": "Kean University",
+    "country": "United States",
+    "department": "The Dorothy and George Hennings College of Science, Mathematics and Technology",
+    "subject": "biology",
+    "topics": [
+      "The Dorothy and George Hennings College of Science, Mathematics and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kean.edu",
+    "bio": "Dr. George Hennings has dedicated over five decades to advancing science education, student research scholarships, and state-of-the-art laboratory facilities at Kean.",
+    "summary": "Dr. George Hennings has dedicated over five decades to advancing science education, student research scholarships, and state-of-the-art laboratory facilities at Kean.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3801,
+    "name": "Prof. David Mohney",
+    "role": "Dean of the Michael Graves College and Professor of Architecture",
+    "title": "Dean of the Michael Graves College and Professor of Architecture",
+    "university": "Kean University",
+    "country": "United States",
+    "department": "Michael Graves College of Architecture and Design",
+    "subject": "arts-design",
+    "topics": [
+      "Michael Graves College of Architecture and Design"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kean.edu",
+    "bio": "Prof. David Mohney is a distinguished architectural educator and urban designer who leads Kean's architecture programs both in New Jersey and at Wenzhou-Kean University in China.",
+    "summary": "Prof. David Mohney is a distinguished architectural educator and urban designer who leads Kean's architecture programs both in New Jersey and at Wenzhou-Kean University in China.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3802,
+    "name": "Dr. Melinda Treadwell",
+    "role": "President and Professor of Toxicology",
+    "title": "President and Professor of Toxicology",
+    "university": "Keene State College",
+    "country": "United States",
+    "department": "Office of the President and Department of Safety Sciences",
+    "subject": "biology",
+    "topics": [
+      "Office of the President and Department of Safety Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.keene.edu",
+    "bio": "Dr. Melinda Treadwell, an alumna and president since 2017, is a toxicologist whose research focuses on environmental inhalation exposures, airborne particulate toxicity, and occupational health governance.",
+    "summary": "Dr. Melinda Treadwell, an alumna and president since 2017, is a toxicologist whose research focuses on environmental inhalation exposures, airborne particulate toxicity, and occupational health governance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3803,
+    "name": "Dr. Wayne Hartz",
+    "role": "Professor of Safety and Occupational Health Applied Sciences",
+    "title": "Professor of Safety and Occupational Health Applied Sciences",
+    "university": "Keene State College",
+    "country": "United States",
+    "department": "Department of Safety and Occupational Health",
+    "subject": "engineering",
+    "topics": [
+      "Department of Safety and Occupational Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.keene.edu",
+    "bio": "Dr. Wayne Hartz investigates workplace organizational safety culture, human factors engineering, industrial catastrophe prevention, and OSHA safety management compliance.",
+    "summary": "Dr. Wayne Hartz investigates workplace organizational safety culture, human factors engineering, industrial catastrophe prevention, and OSHA safety management compliance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3804,
+    "name": "Dr. Hank Knight",
+    "role": "Director Emeritus of the Cohen Center for Holocaust and Genocide Studies",
+    "title": "Director Emeritus of the Cohen Center for Holocaust and Genocide Studies",
+    "university": "Keene State College",
+    "country": "United States",
+    "department": "Cohen Center for Holocaust and Genocide Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Cohen Center for Holocaust and Genocide Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.keene.edu",
+    "bio": "Dr. Hank Knight is a scholar in Holocaust education, post-Holocaust Christian-Jewish relations, and pedagogical methods for teaching contemporary human rights awareness.",
+    "summary": "Dr. Hank Knight is a scholar in Holocaust education, post-Holocaust Christian-Jewish relations, and pedagogical methods for teaching contemporary human rights awareness.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3805,
+    "name": "Dr. Terry Allcorn",
+    "role": "President and Professor of Higher Education Leadership",
+    "title": "President and Professor of Higher Education Leadership",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kcu.edu",
+    "bio": "Dr. Terry Allcorn serves as President of Kentucky Christian University, leading institutional growth, clinical healthcare program expansion, and spiritual formation initiatives across Appalachia.",
+    "summary": "Dr. Terry Allcorn serves as President of Kentucky Christian University, leading institutional growth, clinical healthcare program expansion, and spiritual formation initiatives across Appalachia.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3806,
+    "name": "Dr. Carol J. Vance",
+    "role": "Dean of the Yancey School of Nursing and Professor",
+    "title": "Dean of the Yancey School of Nursing and Professor",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "department": "Yancey School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Yancey School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kcu.edu",
+    "bio": "Dr. Carol J. Vance oversees nursing accreditation, simulation clinical labs, and community health interventions addressing chronic cardiovascular and metabolic diseases in eastern Kentucky.",
+    "summary": "Dr. Carol J. Vance oversees nursing accreditation, simulation clinical labs, and community health interventions addressing chronic cardiovascular and metabolic diseases in eastern Kentucky.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3807,
+    "name": "Dr. Brian R. Powell",
+    "role": "Dean of the Keeran School of Bible and Ministry",
+    "title": "Dean of the Keeran School of Bible and Ministry",
+    "university": "Kentucky Christian University",
+    "country": "United States",
+    "department": "Keeran School of Bible and Ministry",
+    "subject": "social-sciences",
+    "topics": [
+      "Keeran School of Bible and Ministry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kcu.edu",
+    "bio": "Dr. Brian R. Powell researches biblical literature, pastoral hermeneutics, and community ministry models that support underserved rural communities.",
+    "summary": "Dr. Brian R. Powell researches biblical literature, pastoral hermeneutics, and community ministry models that support underserved rural communities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3808,
+    "name": "Dr. Koffi C. Akakpo",
+    "role": "President and Professor of Educational Leadership",
+    "title": "President and Professor of Educational Leadership",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kysu.edu",
+    "bio": "Dr. Koffi C. Akakpo serves as President of Kentucky State University, guiding financial revitalization, agricultural research prominence, and STEM workforce pipelines for Kentucky.",
+    "summary": "Dr. Koffi C. Akakpo serves as President of Kentucky State University, guiding financial revitalization, agricultural research prominence, and STEM workforce pipelines for Kentucky.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3809,
+    "name": "Dr. James H. Tidwell",
+    "role": "Chair and Professor of Aquaculture",
+    "title": "Chair and Professor of Aquaculture",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "department": "Division of Aquaculture, School of Agriculture, Food Science, and Sustainable Systems",
+    "subject": "biology",
+    "topics": [
+      "Division of Aquaculture, School of Agriculture, Food Science, and Sustainable Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kysu.edu",
+    "bio": "Dr. James H. Tidwell is an internationally acclaimed aquaculture scientist whose research centers on crustacean aquaculture, alternative fishmeal diets, and inland shrimp production systems.",
+    "summary": "Dr. James H. Tidwell is an internationally acclaimed aquaculture scientist whose research centers on crustacean aquaculture, alternative fishmeal diets, and inland shrimp production systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3810,
+    "name": "Dr. Kirk W. Pomper",
+    "role": "Dean of the College of Agriculture, Community, and the Sciences and Director of Land Grant Programs",
+    "title": "Dean of the College of Agriculture, Community, and the Sciences and Director of Land Grant Programs",
+    "university": "Kentucky State University",
+    "country": "United States",
+    "department": "College of Agriculture, Community, and the Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Agriculture, Community, and the Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kysu.edu",
+    "bio": "Dr. Kirk W. Pomper directs the USDA National Clonal Germplasm Repository for pawpaw, studying pomological genetics, annonaceous acetogenins, and sustainable organic orchard management.",
+    "summary": "Dr. Kirk W. Pomper directs the USDA National Clonal Germplasm Repository for pawpaw, studying pomological genetics, annonaceous acetogenins, and sustainable organic orchard management.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3811,
+    "name": "Dr. James P. Cousins",
+    "role": "President and Historian",
+    "title": "President and Historian",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwc.edu",
+    "bio": "Dr. James P. Cousins serves as President of Kentucky Wesleyan College, with academic expertise in early American history, higher education governance, and regional liberal arts innovation.",
+    "summary": "Dr. James P. Cousins serves as President of Kentucky Wesleyan College, with academic expertise in early American history, higher education governance, and regional liberal arts innovation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3812,
+    "name": "Dr. David O. O'Bryan",
+    "role": "Professor of Zoology and Chair of Natural Sciences",
+    "title": "Professor of Zoology and Chair of Natural Sciences",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "department": "Department of Natural Sciences and Mathematics",
+    "subject": "biology",
+    "topics": [
+      "Department of Natural Sciences and Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwc.edu",
+    "bio": "Dr. David O. O'Bryan specializes in vertebrate morphology, mammalian anatomy, and mentoring undergraduate students entering top veterinary and medical doctoral programs.",
+    "summary": "Dr. David O. O'Bryan specializes in vertebrate morphology, mammalian anatomy, and mentoring undergraduate students entering top veterinary and medical doctoral programs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3813,
+    "name": "Prof. Heather Logsdon",
+    "role": "Associate Professor of Art and Design and Ralph Center Director",
+    "title": "Associate Professor of Art and Design and Ralph Center Director",
+    "university": "Kentucky Wesleyan College",
+    "country": "United States",
+    "department": "Department of Art and Design, Ralph Center for the Arts",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Art and Design, Ralph Center for the Arts"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kwc.edu",
+    "bio": "Prof. Heather Logsdon is an award-winning graphic designer and educator whose work explores typography, digital branding, community arts engagement, and visual communications.",
+    "summary": "Prof. Heather Logsdon is an award-winning graphic designer and educator whose work explores typography, digital branding, community arts engagement, and visual communications.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3814,
+    "name": "Dr. Robert K. McMahan",
+    "role": "President and Professor of Physics",
+    "title": "President and Professor of Physics",
+    "university": "Kettering University",
+    "country": "United States",
+    "department": "Office of the President and Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Office of the President and Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kettering.edu",
+    "bio": "Dr. Robert K. McMahan is a physicist, former senior advisor to the Governor of North Carolina for science and technology, and has served as President of Kettering University since 2011.",
+    "summary": "Dr. Robert K. McMahan is a physicist, former senior advisor to the Governor of North Carolina for science and technology, and has served as President of Kettering University since 2011.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3815,
+    "name": "Dr. Diane Peters",
+    "role": "Associate Professor of Mechanical Engineering and Co-op Director",
+    "title": "Associate Professor of Mechanical Engineering and Co-op Director",
+    "university": "Kettering University",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kettering.edu",
+    "bio": "Dr. Diane Peters specializes in hybrid vehicle powertrain modeling, optimal control of energy storage systems, and the educational optimization of cooperative engineering curricula.",
+    "summary": "Dr. Diane Peters specializes in hybrid vehicle powertrain modeling, optimal control of energy storage systems, and the educational optimization of cooperative engineering curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3816,
+    "name": "Dr. Craig Hoff",
+    "role": "Dean of the College of Engineering and Professor of Mechanical Engineering",
+    "title": "Dean of the College of Engineering and Professor of Mechanical Engineering",
+    "university": "Kettering University",
+    "country": "United States",
+    "department": "College of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "College of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kettering.edu",
+    "bio": "Dr. Craig Hoff conducts research in internal combustion engines, alternative fuel systems, hybrid electric vehicle architecture, and automotive thermodynamic heat recovery.",
+    "summary": "Dr. Craig Hoff conducts research in internal combustion engines, alternative fuel systems, hybrid electric vehicle architecture, and automotive thermodynamic heat recovery.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3817,
+    "name": "Tiffany Sanderson",
+    "role": "President and Technical Education Executive",
+    "title": "President and Technical Education Executive",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeareatech.edu",
+    "bio": "Tiffany Sanderson, former South Dakota Secretary of Education, leads Lake Area Technical College, expanding high-tech workforce partnerships, campus facilities, and dual-credit career academies.",
+    "summary": "Tiffany Sanderson, former South Dakota Secretary of Education, leads Lake Area Technical College, expanding high-tech workforce partnerships, campus facilities, and dual-credit career academies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3818,
+    "name": "Prof. Greg Klein",
+    "role": "Aviation Maintenance Technology Department Supervisor",
+    "title": "Aviation Maintenance Technology Department Supervisor",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "department": "Department of Aviation Maintenance",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aviation Maintenance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeareatech.edu",
+    "bio": "Prof. Greg Klein is an FAA-certificated Airframe & Powerplant mechanic and educator who directs FAA regulatory compliance, turbine engine test cell operations, and aviation composite labs.",
+    "summary": "Prof. Greg Klein is an FAA-certificated Airframe & Powerplant mechanic and educator who directs FAA regulatory compliance, turbine engine test cell operations, and aviation composite labs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3819,
+    "name": "Prof. Corey Mushitz",
+    "role": "Robotics and Electronic Systems Technology Lead Instructor",
+    "title": "Robotics and Electronic Systems Technology Lead Instructor",
+    "university": "Lake Area Technical College",
+    "country": "United States",
+    "department": "Department of Robotics and Industrial Automation",
+    "subject": "engineering",
+    "topics": [
+      "Department of Robotics and Industrial Automation"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeareatech.edu",
+    "bio": "Prof. Corey Mushitz specializes in programmable logic controllers (PLCs), FANUC robotics integration, industrial automated vision systems, and SCADA architectures.",
+    "summary": "Prof. Corey Mushitz specializes in programmable logic controllers (PLCs), FANUC robotics integration, industrial automated vision systems, and SCADA architectures.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3820,
+    "name": "Dr. Beth Borgen",
+    "role": "President and Educational Leadership Scholar",
+    "title": "President and Educational Leadership Scholar",
+    "university": "Lakeland University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeland.edu",
+    "bio": "Dr. Beth Borgen is the first female president of Lakeland University, spearheading the nation-leading expansion of Cooperative Education, corporate apprenticeships, and global campus connectivity.",
+    "summary": "Dr. Beth Borgen is the first female president of Lakeland University, spearheading the nation-leading expansion of Cooperative Education, corporate apprenticeships, and global campus connectivity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3821,
+    "name": "Dr. Brian Frink",
+    "role": "Professor of Chemistry and Natural Sciences Division Chair",
+    "title": "Professor of Chemistry and Natural Sciences Division Chair",
+    "university": "Lakeland University",
+    "country": "United States",
+    "department": "Department of Chemistry and Physics",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry and Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeland.edu",
+    "bio": "Dr. Brian Frink investigates analytical chemistry instrumentation, forensic chemical markers, and the pedagogical integration of undergraduate laboratory research.",
+    "summary": "Dr. Brian Frink investigates analytical chemistry instrumentation, forensic chemical markers, and the pedagogical integration of undergraduate laboratory research.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3822,
+    "name": "Prof. Cynthia Lindstrom",
+    "role": "Associate Professor of Computer Science and Co-op Advisor",
+    "title": "Associate Professor of Computer Science and Co-op Advisor",
+    "university": "Lakeland University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lakeland.edu",
+    "bio": "Prof. Cynthia Lindstrom specializes in curriculum alignment between software industry needs and undergraduate education, database security architectures, and tech internship mentorship.",
+    "summary": "Prof. Cynthia Lindstrom specializes in curriculum alignment between software industry needs and undergraduate education, database security architectures, and tech internship mentorship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3823,
+    "name": "Dr. Jaime R. Taylor",
+    "role": "President and Professor of Physics",
+    "title": "President and Professor of Physics",
+    "university": "Lamar University",
+    "country": "United States",
+    "department": "Office of the President and Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Office of the President and Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lamar.edu",
+    "bio": "Dr. Jaime R. Taylor is an applied physicist who has served as President of Lamar University since 2021, driving significant growth in engineering research, doctoral degrees, and industry alliances.",
+    "summary": "Dr. Jaime R. Taylor is an applied physicist who has served as President of Lamar University since 2021, driving significant growth in engineering research, doctoral degrees, and industry alliances.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3824,
+    "name": "Dr. Brian Craig",
+    "role": "Dean of the College of Engineering and Professor of Industrial Engineering",
+    "title": "Dean of the College of Engineering and Professor of Industrial Engineering",
+    "university": "Lamar University",
+    "country": "United States",
+    "department": "College of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "College of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lamar.edu",
+    "bio": "Dr. Brian Craig specializes in industrial ergonomics, human factors engineering in petrochemical refineries, port worker safety optimization, and injury reduction modeling.",
+    "summary": "Dr. Brian Craig specializes in industrial ergonomics, human factors engineering in petrochemical refineries, port worker safety optimization, and injury reduction modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3825,
+    "name": "Dr. M. Diane Clark",
+    "role": "Professor and Chair of Deaf Studies and Deaf Education",
+    "title": "Professor and Chair of Deaf Studies and Deaf Education",
+    "university": "Lamar University",
+    "country": "United States",
+    "department": "Department of Deaf Studies and Deaf Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Deaf Studies and Deaf Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lamar.edu",
+    "bio": "Dr. M. Diane Clark is a renowned researcher in cognitive development of deaf children, visual language acquisition, and literacy pedagogy for deaf and hard-of-hearing scholars.",
+    "summary": "Dr. M. Diane Clark is a renowned researcher in cognitive development of deaf children, visual language acquisition, and literacy pedagogy for deaf and hard-of-hearing scholars.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3826,
+    "name": "Dr. Joe Schaffer",
+    "role": "President and Higher Education Strategist",
+    "title": "President and Higher Education Strategist",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lccc.wy.edu",
+    "bio": "Dr. Joe Schaffer has served as President of LCCC since 2012, driving regional workforce alignment, securing applied bachelor's degree authorization, and expanding technical facilities.",
+    "summary": "Dr. Joe Schaffer has served as President of LCCC since 2012, driving regional workforce alignment, securing applied bachelor's degree authorization, and expanding technical facilities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3827,
+    "name": "Prof. Starla Mason",
+    "role": "Dean of the School of Health Sciences and Wellness",
+    "title": "Dean of the School of Health Sciences and Wellness",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "department": "School of Health Sciences and Wellness",
+    "subject": "biology",
+    "topics": [
+      "School of Health Sciences and Wellness"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lccc.wy.edu",
+    "bio": "Prof. Starla Mason oversees accredited programs in nursing, radiologic technology, dental hygiene, and emergency medical services, advancing simulation learning methodologies.",
+    "summary": "Prof. Starla Mason oversees accredited programs in nursing, radiologic technology, dental hygiene, and emergency medical services, advancing simulation learning methodologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3828,
+    "name": "Prof. Kari Brown-Herbst",
+    "role": "Vice President of Academic Affairs",
+    "title": "Vice President of Academic Affairs",
+    "university": "Laramie County Community College",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lccc.wy.edu",
+    "bio": "Prof. Kari Brown-Herbst directs academic innovation, transfer articulation agreements with the University of Wyoming, and curriculum development across STEM and business.",
+    "summary": "Prof. Kari Brown-Herbst directs academic innovation, transfer articulation agreements with the University of Wyoming, and curriculum development across STEM and business.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3829,
+    "name": "Dr. Richard S. Lapidus",
+    "role": "President and Professor of Marketing",
+    "title": "President and Professor of Marketing",
+    "university": "Lasell University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lasell.edu",
+    "bio": "Dr. Richard S. Lapidus took office as President of Lasell University in 2023, championing Connected Learning, campus sustainability, and career-connected experiential curricula.",
+    "summary": "Dr. Richard S. Lapidus took office as President of Lasell University in 2023, championing Connected Learning, campus sustainability, and career-connected experiential curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3830,
+    "name": "Prof. Catharine Weiss",
+    "role": "Professor of Fashion Design and Director of the RUNWAY Production",
+    "title": "Professor of Fashion Design and Director of the RUNWAY Production",
+    "university": "Lasell University",
+    "country": "United States",
+    "department": "School of Fashion",
+    "subject": "arts-design",
+    "topics": [
+      "School of Fashion"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lasell.edu",
+    "bio": "Prof. Catharine Weiss is a textile artist and designer specializing in zero-waste pattern drafting, sustainable garment lifecycle analysis, and high-concept fashion showcase production.",
+    "summary": "Prof. Catharine Weiss is a textile artist and designer specializing in zero-waste pattern drafting, sustainable garment lifecycle analysis, and high-concept fashion showcase production.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3831,
+    "name": "Dr. Cristina Haverty",
+    "role": "Dean of the School of Health Sciences and Professor of Athletic Training",
+    "title": "Dean of the School of Health Sciences and Professor of Athletic Training",
+    "university": "Lasell University",
+    "country": "United States",
+    "department": "School of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lasell.edu",
+    "bio": "Dr. Cristina Haverty is a certified athletic trainer whose research focuses on concussion assessment protocols, clinical orthopedic education standards, and emergency sideline care.",
+    "summary": "Dr. Cristina Haverty is a certified athletic trainer whose research focuses on concussion assessment protocols, clinical orthopedic education standards, and emergency sideline care.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3832,
+    "name": "Dr. Joseph J. Helble",
+    "role": "President and Professor of Chemical Engineering",
+    "title": "President and Professor of Chemical Engineering",
+    "university": "Lehigh University",
+    "country": "United States",
+    "department": "Office of the President and Department of Chemical and Biomolecular Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President and Department of Chemical and Biomolecular Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lehigh.edu",
+    "bio": "Dr. Joseph J. Helble, an alumnus and chemical engineer who previously served as Provost of Dartmouth College, has led Lehigh since 2021, focusing on interdisciplinary research, campus growth, and the College of Health.",
+    "summary": "Dr. Joseph J. Helble, an alumnus and chemical engineer who previously served as Provost of Dartmouth College, has led Lehigh since 2021, focusing on interdisciplinary research, campus growth, and the College of Health.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3833,
+    "name": "Dr. Martin P. Harmer",
+    "role": "Senior Research Scientist and Professor Emeritus of Materials Science",
+    "title": "Senior Research Scientist and Professor Emeritus of Materials Science",
+    "university": "Lehigh University",
+    "country": "United States",
+    "department": "Department of Materials Science and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Materials Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lehigh.edu",
+    "bio": "Dr. Martin P. Harmer is an internationally renowned materials scientist who discovered 'complexions' (interfacial phases) in materials, transforming the understanding of ceramic sintering and grain boundary physics.",
+    "summary": "Dr. Martin P. Harmer is an internationally renowned materials scientist who discovered 'complexions' (interfacial phases) in materials, transforming the understanding of ceramic sintering and grain boundary physics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3834,
+    "name": "Dr. James M. Ricles",
+    "role": "Director of ATLSS Engineering Research Center and Professor of Civil Engineering",
+    "title": "Director of ATLSS Engineering Research Center and Professor of Civil Engineering",
+    "university": "Lehigh University",
+    "country": "United States",
+    "department": "Department of Civil and Environmental Engineering, ATLSS Center",
+    "subject": "engineering",
+    "topics": [
+      "Department of Civil and Environmental Engineering, ATLSS Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lehigh.edu",
+    "bio": "Dr. James M. Ricles is a global authority in earthquake engineering, real-time hybrid testing of structures, resilient bridge design, and large-scale structural dynamics.",
+    "summary": "Dr. James M. Ricles is a global authority in earthquake engineering, real-time hybrid testing of structures, resilient bridge design, and large-scale structural dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3835,
+    "name": "Dr. Janet L. Steinmayer",
+    "role": "President and Legal Scholar",
+    "title": "President and Legal Scholar",
+    "university": "Lesley University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lesley.edu",
+    "bio": "Dr. Janet L. Steinmayer has served as President of Lesley University since 2019, leading campus revitalization in Cambridge, expanding mental health counseling, and championing creative education.",
+    "summary": "Dr. Janet L. Steinmayer has served as President of Lesley University since 2019, leading campus revitalization in Cambridge, expanding mental health counseling, and championing creative education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3836,
+    "name": "Dr. Shaun McNiff",
+    "role": "University Professor Emeritus and Pioneer of Expressive Arts Therapy",
+    "title": "University Professor Emeritus and Pioneer of Expressive Arts Therapy",
+    "university": "Lesley University",
+    "country": "United States",
+    "department": "Division of Expressive Therapies",
+    "subject": "arts-design",
+    "topics": [
+      "Division of Expressive Therapies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lesley.edu",
+    "bio": "Dr. Shaun McNiff is an internationally recognized authority who established the world's first integrated expressive arts therapy graduate program at Lesley in 1974, authoring foundational texts on art as healing.",
+    "summary": "Dr. Shaun McNiff is an internationally recognized authority who established the world's first integrated expressive arts therapy graduate program at Lesley in 1974, authoring foundational texts on art as healing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3837,
+    "name": "Dr. Irene C. Fountas",
+    "role": "Professor of Education and Director of the Center for Reading Recovery",
+    "title": "Professor of Education and Director of the Center for Reading Recovery",
+    "university": "Lesley University",
+    "country": "United States",
+    "department": "Graduate School of Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Graduate School of Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lesley.edu",
+    "bio": "Dr. Irene C. Fountas is a globally recognized literacy educator and co-creator of the Fountas & Pinnell Benchmark Assessment System, revolutionizing classroom reading instruction across North America.",
+    "summary": "Dr. Irene C. Fountas is a globally recognized literacy educator and co-creator of the Fountas & Pinnell Benchmark Assessment System, revolutionizing classroom reading instruction across North America.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3838,
+    "name": "Dr. David J. Livingston",
+    "role": "President and Religious Studies Scholar",
+    "title": "President and Religious Studies Scholar",
+    "university": "Lewis University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lewisu.edu",
+    "bio": "Dr. David J. Livingston has served as President of Lewis University since 2016, championing Lasallian values, expanding cybersecurity laboratories, and elevating collegiate aviation excellence.",
+    "summary": "Dr. David J. Livingston has served as President of Lewis University since 2016, championing Lasallian values, expanding cybersecurity laboratories, and elevating collegiate aviation excellence.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3839,
+    "name": "Prof. R. Eric Jones",
+    "role": "Chair and Associate Professor of Aviation and Transportation",
+    "title": "Chair and Associate Professor of Aviation and Transportation",
+    "university": "Lewis University",
+    "country": "United States",
+    "department": "Department of Aviation and Transportation",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aviation and Transportation"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lewisu.edu",
+    "bio": "Prof. R. Eric Jones is an FAA-certified flight instructor and aviation safety researcher specializing in airline crew resource management, flight simulator fidelity, and UAS integration.",
+    "summary": "Prof. R. Eric Jones is an FAA-certified flight instructor and aviation safety researcher specializing in airline crew resource management, flight simulator fidelity, and UAS integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3840,
+    "name": "Dr. Ray Klump",
+    "role": "Professor of Computer and Mathematical Sciences and Cyber Center Director",
+    "title": "Professor of Computer and Mathematical Sciences and Cyber Center Director",
+    "university": "Lewis University",
+    "country": "United States",
+    "department": "Department of Computer and Mathematical Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer and Mathematical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lewisu.edu",
+    "bio": "Dr. Ray Klump conducts research in critical infrastructure cyber protection, smart electric grid vulnerabilities, data analytics, and digital forensics pedagogy.",
+    "summary": "Dr. Ray Klump conducts research in critical infrastructure cyber protection, smart electric grid vulnerabilities, data analytics, and digital forensics pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3841,
+    "name": "Dr. John B. Moseley",
+    "role": "President and Educational Leader",
+    "title": "President and Educational Leader",
+    "university": "Lincoln University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lincolnu.edu",
+    "bio": "Dr. John B. Moseley has served as President of Lincoln University since 2022, leading historic campus capital improvements, land-grant agricultural revitalization, and student success initiatives.",
+    "summary": "Dr. John B. Moseley has served as President of Lincoln University since 2022, leading historic campus capital improvements, land-grant agricultural revitalization, and student success initiatives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3842,
+    "name": "Dr. Majed Dweik",
+    "role": "Dean of the College of Agriculture, Environmental and Human Sciences",
+    "title": "Dean of the College of Agriculture, Environmental and Human Sciences",
+    "university": "Lincoln University",
+    "country": "United States",
+    "department": "College of Agriculture, Environmental and Human Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Agriculture, Environmental and Human Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lincolnu.edu",
+    "bio": "Dr. Majed Dweik is a biomedical engineer and agricultural scientist researching food biosafety, pathogen detection biosensors, and sustainable agricultural nanotechnology.",
+    "summary": "Dr. Majed Dweik is a biomedical engineer and agricultural scientist researching food biosafety, pathogen detection biosensors, and sustainable agricultural nanotechnology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3843,
+    "name": "Dr. Babu Valliyodan",
+    "role": "Assistant Professor of Molecular Biology and Genetics",
+    "title": "Assistant Professor of Molecular Biology and Genetics",
+    "university": "Lincoln University",
+    "country": "United States",
+    "department": "Department of Agriculture and Environmental Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Agriculture and Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lincolnu.edu",
+    "bio": "Dr. Babu Valliyodan investigates crop functional genomics, soybean drought tolerance mechanisms, and molecular breeding to enhance climate resilience in Midwestern agriculture.",
+    "summary": "Dr. Babu Valliyodan investigates crop functional genomics, soybean drought tolerance mechanisms, and molecular breeding to enhance climate resilience in Midwestern agriculture.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3844,
+    "name": "Dr. Jason McConnell",
+    "role": "President and Healthcare Executive",
+    "title": "President and Healthcare Executive",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lmunet.edu",
+    "bio": "Dr. Jason McConnell leads Lincoln Memorial University as President, advancing multi-campus healthcare professional degree programs, clinical accreditations, and community outreach across Appalachia.",
+    "summary": "Dr. Jason McConnell leads Lincoln Memorial University as President, advancing multi-campus healthcare professional degree programs, clinical accreditations, and community outreach across Appalachia.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3845,
+    "name": "Dr. Christopher J. Loyke",
+    "role": "Dean of the DeBusk College of Osteopathic Medicine",
+    "title": "Dean of the DeBusk College of Osteopathic Medicine",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "department": "DeBusk College of Osteopathic Medicine (DCOM)",
+    "subject": "biology",
+    "topics": [
+      "DeBusk College of Osteopathic Medicine (DCOM)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lmunet.edu",
+    "bio": "Dr. Christopher J. Loyke is an osteopathic family physician who directs clinical medical curricula, rural residency matching programs, and primary care research in the Cumberland Gap region.",
+    "summary": "Dr. Christopher J. Loyke is an osteopathic family physician who directs clinical medical curricula, rural residency matching programs, and primary care research in the Cumberland Gap region.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3846,
+    "name": "Dr. Stacy Anderson",
+    "role": "Dean of the College of Veterinary Medicine and Professor of Large Animal Surgery",
+    "title": "Dean of the College of Veterinary Medicine and Professor of Large Animal Surgery",
+    "university": "Lincoln Memorial University",
+    "country": "United States",
+    "department": "College of Veterinary Medicine",
+    "subject": "biology",
+    "topics": [
+      "College of Veterinary Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lmunet.edu",
+    "bio": "Dr. Stacy Anderson is a board-certified large animal veterinary surgeon specializing in equine orthopedic surgery, surgical simulation training methods, and educational outcome analytics.",
+    "summary": "Dr. Stacy Anderson is a board-certified large animal veterinary surgeon specializing in equine orthopedic surgery, surgical simulation training methods, and educational outcome analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3847,
+    "name": "Dr. Mark H. Lovell",
+    "role": "President and Higher Education Executive",
+    "title": "President and Higher Education Executive",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lcuniversity.edu",
+    "bio": "Dr. Mark H. Lovell serves as President of Louisiana Christian University, guiding academic accreditation, campus facility modernization, and faith-integrated vocational education.",
+    "summary": "Dr. Mark H. Lovell serves as President of Louisiana Christian University, guiding academic accreditation, campus facility modernization, and faith-integrated vocational education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3848,
+    "name": "Dr. Marilyn Cooksey",
+    "role": "Dean of the School of Nursing and Allied Health",
+    "title": "Dean of the School of Nursing and Allied Health",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "department": "School of Nursing and Allied Health",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing and Allied Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lcuniversity.edu",
+    "bio": "Dr. Marilyn Cooksey is an experienced nurse educator specializing in clinical simulation pedagogy, community nursing interventions, and NCLEX pass rate excellence in Louisiana.",
+    "summary": "Dr. Marilyn Cooksey is an experienced nurse educator specializing in clinical simulation pedagogy, community nursing interventions, and NCLEX pass rate excellence in Louisiana.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3849,
+    "name": "Dr. David C. Elliott",
+    "role": "Professor of Chemistry and Pre-Health Professions Advisor",
+    "title": "Professor of Chemistry and Pre-Health Professions Advisor",
+    "university": "Louisiana Christian University",
+    "country": "United States",
+    "department": "Department of Chemistry and Mathematics",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry and Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lcuniversity.edu",
+    "bio": "Dr. David C. Elliott conducts research in organic synthesis, environmental chemical assays, and mentors pre-medical undergraduate scholars preparing for medical doctoral entrance.",
+    "summary": "Dr. David C. Elliott conducts research in organic synthesis, environmental chemical assays, and mentors pre-medical undergraduate scholars preparing for medical doctoral entrance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3850,
+    "name": "Dr. Randy Esters",
+    "role": "Chancellor and Workforce Education Scholar",
+    "title": "Chancellor and Workforce Education Scholar",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ladelta.edu",
+    "bio": "Dr. Randy Esters serves as Chancellor of Louisiana Delta Community College, leading regional campus expansions, technical training partnerships with major industry, and dual-enrollment high school pathways.",
+    "summary": "Dr. Randy Esters serves as Chancellor of Louisiana Delta Community College, leading regional campus expansions, technical training partnerships with major industry, and dual-enrollment high school pathways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3851,
+    "name": "Prof. Scott Rule",
+    "role": "Dean of the School of Industrial Technology",
+    "title": "Dean of the School of Industrial Technology",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "department": "School of Industrial Technology",
+    "subject": "engineering",
+    "topics": [
+      "School of Industrial Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ladelta.edu",
+    "bio": "Prof. Scott Rule directs PTEC and industrial maintenance education, aligning curriculum with NAPTA standards and regional petrochemical and manufacturing hiring requirements.",
+    "summary": "Prof. Scott Rule directs PTEC and industrial maintenance education, aligning curriculum with NAPTA standards and regional petrochemical and manufacturing hiring requirements.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3852,
+    "name": "Prof. Shannon Freeman",
+    "role": "Dean of Nursing and Allied Health",
+    "title": "Dean of Nursing and Allied Health",
+    "university": "Louisiana Delta Community College",
+    "country": "United States",
+    "department": "Division of Nursing and Allied Health",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing and Allied Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ladelta.edu",
+    "bio": "Prof. Shannon Freeman is an experienced registered nurse educator who oversees clinical nursing standards, hospital partnerships, and rural healthcare training in Louisiana.",
+    "summary": "Prof. Shannon Freeman is an experienced registered nurse educator who oversees clinical nursing standards, hospital partnerships, and rural healthcare training in Louisiana.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3853,
+    "name": "Dr. Robert T. Smith",
+    "role": "Chancellor and Mathematician",
+    "title": "Chancellor and Mathematician",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "mathematics",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsus.edu",
+    "bio": "Dr. Robert T. Smith serves as Chancellor of LSU Shreveport, driving strategic online degree expansion, championing the Cyber Collaboratory, and fostering regional bioscience partnerships.",
+    "summary": "Dr. Robert T. Smith serves as Chancellor of LSU Shreveport, driving strategic online degree expansion, championing the Cyber Collaboratory, and fostering regional bioscience partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3854,
+    "name": "Dr. Sanjay Menon",
+    "role": "Dean of Graduate Studies and Professor of Management",
+    "title": "Dean of Graduate Studies and Professor of Management",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "department": "Office of Graduate Studies and College of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Graduate Studies and College of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsus.edu",
+    "bio": "Dr. Sanjay Menon specializes in organizational behavior, leadership empowerment models, and scaling high-quality, accessible AACSB-accredited online graduate business education.",
+    "summary": "Dr. Sanjay Menon specializes in organizational behavior, leadership empowerment models, and scaling high-quality, accessible AACSB-accredited online graduate business education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3855,
+    "name": "Dr. Urska Cvek",
+    "role": "Professor of Computer Science and Co-Director of the Laboratory for Advanced Biomedical Informatics",
+    "title": "Professor of Computer Science and Co-Director of the Laboratory for Advanced Biomedical Informatics",
+    "university": "Louisiana State University in Shreveport",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsus.edu",
+    "bio": "Dr. Urska Cvek conducts research in biomedical data visualization, clinical data mining, bioinformatics algorithms, and high-dimensional health datasets in collaboration with medical centers.",
+    "summary": "Dr. Urska Cvek conducts research in biomedical data visualization, clinical data mining, bioinformatics algorithms, and high-dimensional health datasets in collaboration with medical centers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3856,
+    "name": "Dr. Paul Coreil",
+    "role": "Chancellor and Natural Resources Scholar",
+    "title": "Chancellor and Natural Resources Scholar",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsua.edu",
+    "bio": "Dr. Paul Coreil serves as Chancellor of LSU Alexandria, overseeing unprecedented enrollment growth, new student housing construction, and the modern Martin Family Student Success Center.",
+    "summary": "Dr. Paul Coreil serves as Chancellor of LSU Alexandria, overseeing unprecedented enrollment growth, new student housing construction, and the modern Martin Family Student Success Center.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3857,
+    "name": "Dr. Catherine Cormier",
+    "role": "Director of the School of Nursing and Professor",
+    "title": "Director of the School of Nursing and Professor",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsua.edu",
+    "bio": "Dr. Catherine Cormier is a recognized leader in nursing education who directs curriculum accreditation, hospital clinical partnerships, and healthcare workforce initiatives in Central Louisiana.",
+    "summary": "Dr. Catherine Cormier is a recognized leader in nursing education who directs curriculum accreditation, hospital clinical partnerships, and healthcare workforce initiatives in Central Louisiana.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3858,
+    "name": "Dr. Randall Dupont",
+    "role": "Dean of the College of Business and Professor of Management",
+    "title": "Dean of the College of Business and Professor of Management",
+    "university": "Louisiana State University of Alexandria",
+    "country": "United States",
+    "department": "College of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsua.edu",
+    "bio": "Dr. Randall Dupont researches regional economic indices, consumer confidence metrics, small business development, and agricultural business modeling.",
+    "summary": "Dr. Randall Dupont researches regional economic indices, consumer confidence metrics, small business development, and agricultural business modeling.",
+    "reviewed": "2026-10-16"
   }
 ];

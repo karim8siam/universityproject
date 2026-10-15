@@ -12,16 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 76,
+  "cycle": 77,
   "completedInCycle": [
-    "germany",
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Indiana Wesleyan University",
-    "sourceRow": 760
+    "university": "Louisiana State University of Alexandria",
+    "sourceRow": 797
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -29,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 215,
+    "usa": 245,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
