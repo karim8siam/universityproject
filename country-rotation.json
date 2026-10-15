@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 66,
+  "cycle": 67,
   "completedInCycle": [
     "canada",
     "germany",
@@ -24,20 +24,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Vechtdal College Ommen - Pre-University Science & Ecological Center",
-    "sourceRow": 1538
+    "university": "Alfa-college - Campus Hardenberg",
+    "sourceRow": 1550
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 109,
+    "canada": 114,
     "australia": 57,
-    "germany": 116,
-    "italy": 108,
-    "usa": 117,
+    "germany": 121,
+    "italy": 113,
+    "usa": 122,
     "uk": 100,
-    "japan": 109,
+    "japan": 114,
     "sweden": 56,
-    "netherlands": 107,
+    "netherlands": 112,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"

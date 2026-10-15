@@ -170982,6 +170982,6096 @@ export const opportunities=[
     },
     "reviewed": "2026-10-15",
     "status": "Available"
+  },
+{
+    "id": 6458,
+    "title": "Ontario Colleges Premier's Award for Applied Excellence Scholarship",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Annual provincial academic scholarship recognizing outstanding prospective students entering accredited two-year or four-year diploma and applied degree programs across Ontario.",
+    "funding": "CAD $5,000 merit award distributed towards full-time tuition across participating Ontario colleges",
+    "tuition": "CAD $4,200 (domestic) / CAD $16,800 (international) per academic year",
+    "fee": "CAD $125 application processing fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.ontariocolleges.ca/en/apply",
+    "requirements": {
+      "gpa": "Minimum 80% cumulative average on senior secondary coursework.",
+      "ielts": "IELTS 6.5 overall or TOEFL iBT 88 for international applicants.",
+      "gre": "Not required.",
+      "papers": "High school transcript, statement of academic goals, and documentation of community impact.",
+      "references": "Two academic or professional reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6459,
+    "title": "Advanced Diploma in Cybersecurity and Cloud Infrastructure Architecture",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Bachelor's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Three-year advanced polytechnic diploma covering enterprise threat analysis, multi-cloud container orchestration, cryptographic network protocols, and ethical hacking.",
+    "funding": "Ontario Learn and Stay Grant eligibility providing up to CAD $10,000 for qualifying STEM enrollments",
+    "tuition": "CAD $4,850 (domestic) / CAD $17,400 (international) per academic year",
+    "fee": "CAD $125 centralized application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ontariocolleges.ca/en/programs",
+    "requirements": {
+      "gpa": "Grade 12 English and Grade 12 Advanced Functions or Calculus with minimum 70%.",
+      "ielts": "IELTS 6.0 overall with no band score below 5.5.",
+      "gre": "Not required.",
+      "papers": "Official secondary school transcripts and resume of technical projects.",
+      "references": "One academic reference recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6460,
+    "title": "Post-Graduate Certificate in Artificial Intelligence Applied Solutions",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Master's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "One-year intensive graduate certificate focusing on machine learning pipeline deployment, PyTorch deep neural models, generative AI APIs, and enterprise data ethics.",
+    "funding": "Mitacs Business Strategy Internships offering CAD $10,000 co-op stipends",
+    "tuition": "CAD $7,200 (domestic) / CAD $18,900 (international) full program tuition",
+    "fee": "CAD $125 centralized application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.ontariocolleges.ca/en/programs/information-technology",
+    "requirements": {
+      "gpa": "Recognized two-year college diploma or university degree in computer science, mathematics, or software engineering.",
+      "ielts": "IELTS 6.5 overall with no individual band below 6.0.",
+      "gre": "Not required.",
+      "papers": "Postsecondary transcripts, curriculum vitae, and GitHub portfolio link.",
+      "references": "Two academic or supervisor letters of reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6461,
+    "title": "Advanced Diploma in Environmental Technology and Water Resources Management",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Bachelor's",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Three-year applied laboratory curriculum emphasizing watershed assessment, GIS hydrological modeling, municipal wastewater remediation, and environmental auditing.",
+    "funding": "ECO Canada student bursary awards up to CAD $4,000 for field practicum studies",
+    "tuition": "CAD $4,600 (domestic) / CAD $16,900 (international) per academic year",
+    "fee": "CAD $125 centralized application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.ontariocolleges.ca/en/programs/agriculture-animal-and-related-practices",
+    "requirements": {
+      "gpa": "Secondary school diploma with Grade 12 Chemistry and Biology.",
+      "ielts": "IELTS 6.0 overall.",
+      "gre": "Not required.",
+      "papers": "High school transcripts and personal statement on environmental stewardship.",
+      "references": "One science educator reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6462,
+    "title": "Ontario Global College Student Exchange and Mobility Fellowship",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Competitive semester fellowship supporting Ontario polytechnic scholars undertaking collaborative engineering, design, or business research at partner colleges in Europe and Asia.",
+    "funding": "CAD $7,500 travel allowance and academic stipend for semester abroad research",
+    "tuition": "Waived under bilateral consortium exchange agreements",
+    "fee": "CAD $125 consortium processing fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.ontariocolleges.ca/en/apply/international-students",
+    "requirements": {
+      "gpa": "Minimum 3.5/4.0 GPA in an enrolled Ontario college diploma or degree program.",
+      "ielts": "IELTS 6.5 or equivalent official language proof.",
+      "gre": "Not required.",
+      "papers": "College academic transcript, host institution study plan, and essay.",
+      "references": "Academic dean or program coordinator endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6463,
+    "title": "Applied Clean Energy and Battery Storage Systems Practicum",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Four-month co-op placement at leading Ontario clean energy utilities, focusing on commercial battery energy storage installation, microgrid simulation, and solar PV telemetry.",
+    "funding": "Paid 16-week industrial work term with monthly compensation of CAD $3,400",
+    "tuition": "CAD $950 co-op administration fee",
+    "fee": "CAD $125 centralized application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ontariocolleges.ca/en/programs/energy-and-natural-resources",
+    "requirements": {
+      "gpa": "Good standing in second or third year of electrical or mechanical engineering technology.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, technical laboratory portfolio, and driver's license.",
+      "references": "Co-op advisor verification letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6464,
+    "title": "Certificate in Digital Health Informatics and Clinical Systems Integration",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "location": "Guelph, Ontario, Canada",
+    "type": "Course",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Accelerated professional credential preparing healthcare practitioners in HL7 FHIR standards, electronic medical record architectures, and health data governance.",
+    "funding": "Ontario micro-credentials funding subsidy covering up to 75% of tuition",
+    "tuition": "CAD $1,850 total course tuition",
+    "fee": "CAD $50 registration fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.ontariocolleges.ca/en/programs/health-food-and-medical",
+    "requirements": {
+      "gpa": "Postsecondary credential in nursing, healthcare administration, or computer science.",
+      "ielts": "IELTS 6.5 for non-native English speakers.",
+      "gre": "Not required.",
+      "papers": "Proof of relevant professional or educational qualification.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6465,
+    "title": "UAlberta Career Discovery Graduate Internship Fellowship",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Competitive fellowship matching master's and doctoral scholars with governmental ministries, cleantech incubators, and corporate research hubs throughout Edmonton and Calgary.",
+    "funding": "CAD $12,000 stipend covering an eight-month industrial or public policy placement",
+    "tuition": "Standard continuing graduate enrollment fees apply",
+    "fee": "CAD $0 for active UAlberta students",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ualberta.ca/career-centre/internships/index.html",
+    "requirements": {
+      "gpa": "Minimum 3.3/4.0 cumulative GPA in graduate coursework.",
+      "ielts": "IELTS 7.0 for international graduate scholars.",
+      "gre": "Not required.",
+      "papers": "Academic transcript, professional resume, and 500-word statement of intent.",
+      "references": "Thesis supervisor written approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6466,
+    "title": "Arts Work Experience (AWE) Humanities and Communications Internship",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Structured 4 to 12-month undergraduate professional placement in public relations, policy analysis, museum curation, and international trade agencies.",
+    "funding": "Paid full-time work terms with average earnings of CAD $3,200 to CAD $3,800 monthly",
+    "tuition": "CAD $850 co-op course registration fee per term",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ualberta.ca/career-centre/job-postings/index.html",
+    "requirements": {
+      "gpa": "Minimum 2.7 GPA with at least 24 completed undergraduate credits in the Faculty of Arts.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "Undergraduate transcript and tailored cover letter.",
+      "references": "Faculty academic advisor endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6467,
+    "title": "Science Internship Program (SIP) Computational & Biopharma Practicum",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "8 to 16-month practical industry immersion for science students exploring machine learning at Amii, genomics research at DynaLIFEDx, or environmental remediation.",
+    "funding": "Salaried positions averaging CAD $4,200 monthly across AI and clinical biomanufacturing firms",
+    "tuition": "CAD $900 SIP course fee per work term",
+    "fee": "CAD $0 internal application fee",
+    "deadline": "2027-01-30",
+    "deadlineText": "January 30, 2027",
+    "source": "https://www.ualberta.ca/career-centre/employers/index.html",
+    "requirements": {
+      "gpa": "Minimum 2.3 GPA with completion of second year science curriculum.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "Science transcript, resume, and declaration of prerequisite completion.",
+      "references": "Departmental undergraduate coordinator authorization."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6468,
+    "title": "Postdoctoral Career Pathways and Innovation Commercialization Award",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Seed grant empowering postdoctoral fellows in nanotechnology, biomedical engineering, and artificial intelligence to commercialize lab discoveries.",
+    "funding": "CAD $8,000 research translation grant and seed funding for commercial ventures",
+    "tuition": "Full tuition waiver",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-05-30",
+    "deadlineText": "May 30, 2027",
+    "source": "https://www.ualberta.ca/career-centre/resources/index.html",
+    "requirements": {
+      "gpa": "Completed PhD within the preceding 36 months.",
+      "ielts": "Fluent English proficiency.",
+      "gre": "Not required.",
+      "papers": "Commercialization prospectus, intellectual property disclosure, and budget breakdown.",
+      "references": "Faculty mentor recommendation and industry sponsor endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6469,
+    "title": "Master of Arts in Work-Integrated Learning and Workplace Pedagogies",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-year academic thesis program investigating workforce dynamics, cooperative education outcomes, equity in workplace onboarding, and remote labor markets.",
+    "funding": "Departmental graduate teaching assistantships up to CAD $18,500 annually",
+    "tuition": "CAD $6,100 (domestic) / CAD $15,800 (international) per academic year",
+    "fee": "CAD $135 graduate application fee",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ualberta.ca/career-centre/about-us/index.html",
+    "requirements": {
+      "gpa": "Four-year bachelor's degree with minimum 3.0/4.0 GPA on the last 60 credits.",
+      "ielts": "IELTS 7.0 overall with no band below 6.5.",
+      "gre": "Not required.",
+      "papers": "Statement of research interests, sample of academic writing, and CV.",
+      "references": "Three academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6470,
+    "title": "Doctor of Philosophy in Human Resources Management and Labor Economics",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Four-year doctoral program providing rigorous quantitative training in occupational mobility, labor market econometrics, and human capital formation.",
+    "funding": "Guaranteed minimum funding package of CAD $26,000 per year for four years",
+    "tuition": "CAD $6,400 (domestic) / CAD $16,400 (international) per year",
+    "fee": "CAD $135 graduate application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ualberta.ca/career-centre/about-us/index.html",
+    "requirements": {
+      "gpa": "Master's degree in economics, business administration, or sociology with minimum 3.5 GPA.",
+      "ielts": "IELTS 7.5 overall.",
+      "gre": "GRE or GMAT score within the 80th percentile recommended.",
+      "papers": "Doctoral dissertation proposal, writing sample, and curriculum vitae.",
+      "references": "Three letters of academic recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6471,
+    "title": "Certificate in Professional Career Mentorship and Career Coaching",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Continuing education course in active listening, vocational psychometric profiling, career narrative framing, and inclusive workplace transition methodologies.",
+    "funding": "University staff and alumni discount covering 30% of registration fees",
+    "tuition": "CAD $1,450 total certificate tuition",
+    "fee": "CAD $50 registration fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.ualberta.ca/career-centre/programs/index.html",
+    "requirements": {
+      "gpa": "Undergraduate degree or equivalent professional HR experience.",
+      "ielts": "Fluent English communication skills.",
+      "gre": "Not required.",
+      "papers": "Resume and brief statement of career goals.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6472,
+    "title": "Clinical Fellowship in Advanced Resuscitation & Critical Care Emergency Medicine",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "One-year intensive subspecialty fellowship mastering venoarterial ECMO cannulation, traumatic shock resuscitation, advanced airway salvage, and clinical ultrasound protocols.",
+    "funding": "CAD $92,000 annual clinical fellowship salary with comprehensive medical benefits",
+    "tuition": "CAD $0 clinical tuition",
+    "fee": "CAD $150 postgraduate application fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/index.html",
+    "requirements": {
+      "gpa": "Medical Degree (MD) with completion of recognized Emergency Medicine or Critical Care residency.",
+      "ielts": "IELTS 7.5 overall with minimum 7.0 in each component.",
+      "gre": "Not required.",
+      "papers": "Medical school transcripts, procedure log, research proposal, and CV.",
+      "references": "Three clinical supervisor letters of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6473,
+    "title": "FRCPC Emergency Medicine Specialist Residency Program",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "PhD",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Five-year Royal College of Physicians and Surgeons of Canada accredited residency training emergency physicians in acute trauma, toxicology, EMS medical direction, and clinical research.",
+    "funding": "Alberta Medical Association resident salary scale starting at CAD $68,000 to CAD $89,000 annually",
+    "tuition": "Full clinical tuition waiver",
+    "fee": "CaRMS registration fee",
+    "deadline": "2027-11-20",
+    "deadlineText": "November 20, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/programs/residency.html",
+    "requirements": {
+      "gpa": "MD degree from an LCME/CACMS accredited medical school.",
+      "ielts": "Not required for Canadian graduates; IELTS 7.5 for IMG pathway.",
+      "gre": "MCCQE Part 1 pass required.",
+      "papers": "Medical school performance record (MSPR), CV, and personal letter.",
+      "references": "Three structured reference letters via CaRMS."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6474,
+    "title": "Graduate Research Assistantship in Traumatic Brain Injury and Neuroprotection",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Two-year MSc research scholarship evaluating serum biomarkers (GFAP, UCH-L1), cerebral microdialysis, and targeted temperature management in acute trauma patients.",
+    "funding": "CAD $25,000 annual research stipend from the Neuroscience & Mental Health Institute (NMHI)",
+    "tuition": "CAD $6,200 (domestic) / CAD $16,000 (international) per year",
+    "fee": "CAD $135 graduate application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/research/index.html",
+    "requirements": {
+      "gpa": "BSc in neuroscience, physiology, or biochemistry with minimum 3.4 GPA.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Academic transcripts, research CV, and 1,000-word proposed thesis outline.",
+      "references": "Two academic faculty letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6475,
+    "title": "Emergency Medical Services (EMS) Pre-Hospital Research Fellowship",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "One-year clinical fellowship exploring out-of-hospital cardiac arrest algorithms, rural paramedic telemedicine dispatch, and STARS air ambulance flight physician protocols.",
+    "funding": "CAD $85,000 annual clinical fellowship salary",
+    "tuition": "Waived",
+    "fee": "CAD $150 application processing fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/programs/fellowships.html",
+    "requirements": {
+      "gpa": "Completion of CCFP-EM or FRCPC Emergency Medicine certification.",
+      "ielts": "IELTS 7.5.",
+      "gre": "Not required.",
+      "papers": "Proof of specialist medical license, flight clearance, and research bibliography.",
+      "references": "Emergency medicine program director letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6476,
+    "title": "Clinical Elective in Level 1 Trauma Resuscitation and Disaster Medicine",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Four-week clinical rotation for fourth-year medical clerks participating in high-acuity trauma codes, bedside procedural sedation, and point-of-care ultrasound scans.",
+    "funding": "AFMC student travel bursary of CAD $1,500 available for eligible traveling clerks",
+    "tuition": "CAD $500 elective administrative fee",
+    "fee": "CAD $100 AFMC portal fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/programs/undergraduate.html",
+    "requirements": {
+      "gpa": "Active standing in year 4 of an LCME/CACMS accredited medical degree.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Immunization record, criminal record check, and medical school Dean's letter.",
+      "references": "Internal clerkship director letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6477,
+    "title": "Master of Science in Clinical Epidemiology & Acute Care Outcomes",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Two-year quantitative thesis investigating population-level triage algorithms, crowded ED throughput optimization, and rural telehealth intervention analytics.",
+    "funding": "Alberta Innovates Graduate Studentship up to CAD $26,000 annually",
+    "tuition": "CAD $6,200 (domestic) / CAD $15,900 (international) per academic year",
+    "fee": "CAD $135 graduate application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/research/graduate-studies.html",
+    "requirements": {
+      "gpa": "Bachelor's degree or professional health credential with minimum 3.3 GPA.",
+      "ielts": "IELTS 7.0 overall.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, transcript, and statement of methodological focus.",
+      "references": "Three academic or clinical references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6478,
+    "title": "Certificate in Emergency Point-of-Care Ultrasound (POCUS) Mastery",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Course",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Comprehensive 40-hour hands-on certification in eFAST, focused cardiac echocardiography, deep vein thrombosis detection, and ultrasound-guided vascular access.",
+    "funding": "Continuing medical education (CME) credit reimbursement eligible",
+    "tuition": "CAD $2,200 full course fee",
+    "fee": "CAD $75 registration fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.ualberta.ca/emergency-medicine/programs/cme.html",
+    "requirements": {
+      "gpa": "MD, nurse practitioner, or physician assistant clinical license.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Proof of clinical practice and medical license.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6479,
+    "title": "Scholarly Publishing Editorial Residency and Book Production Fellowship",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Twelve-month residential fellowship in scholarly acquisitions, structural peer review curation, developmental editing, and InDesign book typography.",
+    "funding": "CAD $38,000 annual editorial fellowship stipend plus book travel allowance",
+    "tuition": "Full fellowship waiver",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.ualberta.ca/press/about-us/careers.html",
+    "requirements": {
+      "gpa": "Master's degree in literature, history, publishing, or library science with minimum 3.3 GPA.",
+      "ielts": "IELTS 7.5 overall.",
+      "gre": "Not required.",
+      "papers": "Substantive editorial portfolio, writing sample, and statement of publishing philosophy.",
+      "references": "Two academic or senior publishing editor references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6480,
+    "title": "Governor General's Literary Monograph Peer-Review Grant",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Competitive monograph subsidy awarded to early-career Canadian faculty publishing peer-reviewed manuscripts in Canadian history, Indigenous sovereignty, or polar geography.",
+    "funding": "CAD $6,000 author subvention grant supporting indexation, maps, and open-access licensing",
+    "tuition": "Waived",
+    "fee": "CAD $0 submission fee",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.ualberta.ca/press/submissions/index.html",
+    "requirements": {
+      "gpa": "Completed doctorate and tenure-track or postdoctoral academic appointment.",
+      "ielts": "Native or fluent English/French.",
+      "gre": "Not required.",
+      "papers": "Book prospectus, chapter outline, sample introduction, and CV.",
+      "references": "External peer reader endorsements."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6481,
+    "title": "Master of Library and Information Studies (MLIS) Publishing Practicum",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Two-year ALA-accredited master's curriculum combining information retrieval, open metadata schema, digital repository curation, and scholarly book dissemination.",
+    "funding": "Graduate assistantships offering CAD $14,000 per academic year",
+    "tuition": "CAD $6,500 (domestic) / CAD $16,200 (international) per academic year",
+    "fee": "CAD $135 graduate application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ualberta.ca/press/about-us/index.html",
+    "requirements": {
+      "gpa": "Four-year bachelor's degree with minimum 3.0/4.0 GPA.",
+      "ielts": "IELTS 7.5 overall with minimum 7.0 per skill.",
+      "gre": "Not required.",
+      "papers": "Statement of intent, resume, and academic writing sample.",
+      "references": "Three academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6482,
+    "title": "Indigenous Languages and Oral Histories Preservation Grant",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Research grant supporting bilingual Cree, Dene, and Blackfoot scholarly texts, audio preservation projects, and Indigenous editorial sovereignty protocols.",
+    "funding": "CAD $15,000 publication stipend funded by the Canada Council for the Arts",
+    "tuition": "Full grant funding",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.ualberta.ca/press/books/series/indigenous-studies.html",
+    "requirements": {
+      "gpa": "Demonstrated linguistic proficiency and community elder consultation credentials.",
+      "ielts": "Not required.",
+      "gre": "Not required.",
+      "papers": "Community support letter, linguistic sample, and preservation methodology.",
+      "references": "Two community elder or tribal council recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6483,
+    "title": "Digital Humanities Open-Access Scholarly Curation Internship",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Practical digital curation internship converting backlist academic monographs into TEI-XML, EPUB3, and open searchable knowledge graphs for Canadian researchers.",
+    "funding": "Paid 16-week summer work term at CAD $24.50 per hour",
+    "tuition": "CAD $0",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ualberta.ca/press/about-us/open-access.html",
+    "requirements": {
+      "gpa": "Undergraduate or graduate standing in computing science, digital humanities, or linguistics.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "Resume, transcript, and sample code repository or XML project.",
+      "references": "One faculty mentor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6484,
+    "title": "Book Typography and Fine Print Book Design Residency",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Studio-based design curriculum emphasizing fine letterpress printing, editorial layout grids, binding architecture, and digital typography for scholarly volumes.",
+    "funding": "Alcuin Society Book Design bursary of CAD $3,500",
+    "tuition": "CAD $5,800 (domestic) / CAD $16,500 (international) per academic year",
+    "fee": "CAD $125 university application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ualberta.ca/press/books/index.html",
+    "requirements": {
+      "gpa": "Senior secondary diploma with visual arts portfolio submission.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "12-piece design portfolio, sketchbook samples, and personal statement.",
+      "references": "One art or design instructor reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6485,
+    "title": "Certificate in Scholarly Editing and Peer Review Ethics",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "location": "Edmonton, Alberta, Canada",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Eight-week intensive professional course in Chicago Manual of Style (CMOS) standards, ethics of peer review, author contracts, and copyright licensing.",
+    "funding": "Editors Canada professional member discount of 25%",
+    "tuition": "CAD $1,250 total course tuition",
+    "fee": "CAD $40 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.ualberta.ca/press/about-us/contact-us.html",
+    "requirements": {
+      "gpa": "Bachelor's degree in any discipline or equivalent professional editorial experience.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Resume and 300-word statement of intent.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6486,
+    "title": "Queen Elizabeth Scholars (QES) Advanced International Research Fellowship",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Prestigious national fellowship funding Canadian doctoral candidates and postdoctoral fellows conducting collaborative research across Commonwealth nations in global health, climate resilience, and sustainable development.",
+    "funding": "CAD $15,000 to CAD $30,000 stipend covering travel, accommodation, and research expenses abroad",
+    "tuition": "Full fellowship subvention",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://univcan.ca/programs-and-scholarships/queen-elizabeth-scholars/",
+    "requirements": {
+      "gpa": "Minimum 3.7/4.0 GPA in an accredited Canadian doctoral or postdoctoral program.",
+      "ielts": "Fluent English or French proficiency.",
+      "gre": "Not required.",
+      "papers": "Institutional nomination letter, 1,500-word international research project proposal, and CV.",
+      "references": "Dean of Graduate Studies endorsement and two academic references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6487,
+    "title": "Canada-ASEAN Scholarships and Educational Exchanges for Development (SEED)",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Federal scholarship program for Southeast Asian scholars to undertake short-term study or collaborative research in Canada aligned with the UN 2030 Agenda for Sustainable Development.",
+    "funding": "CAD $10,200 for undergraduate exchange or CAD $15,900 for graduate research terms",
+    "tuition": "Covered under bilateral inter-university agreements",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-03-20",
+    "deadlineText": "March 20, 2027",
+    "source": "https://univcan.ca/programs-and-scholarships/",
+    "requirements": {
+      "gpa": "Enrolled in an eligible Southeast Asian higher education institution with minimum 80% equivalent grade average.",
+      "ielts": "IELTS 6.5 or TOEFL iBT 88.",
+      "gre": "Not required.",
+      "papers": "Passport, transcript, letter of intent, and institutional exchange agreement.",
+      "references": "Home university dean nomination."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6488,
+    "title": "Mattinson Scholarship Program for Students with Disabilities",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Annual national scholarship empowering undergraduate students with documented permanent physical or learning disabilities pursuing full-time degrees across Canadian universities.",
+    "funding": "CAD $4,000 renewable annual scholarship applied towards undergraduate tuition",
+    "tuition": "Subsidized directly to member university",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://univcan.ca/programs-and-scholarships/scholarship-programs/",
+    "requirements": {
+      "gpa": "Minimum 80% cumulative average on high school or university coursework.",
+      "ielts": "Not required for Canadian citizens/permanent residents.",
+      "gre": "Not required.",
+      "papers": "Medical or educational accommodation verification, transcript, and personal essay.",
+      "references": "Two letters of reference from educators or community advocates."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6489,
+    "title": "National Higher Education Policy & Research Diplomacy Practicum",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Four-month policy internship tracking federal research investments, analyzing international student visa metrics, and preparing parliamentary committee briefings.",
+    "funding": "Paid 16-week public policy fellowship at CAD $26.00 per hour in Ottawa",
+    "tuition": "CAD $0",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://univcan.ca/about-us/careers/",
+    "requirements": {
+      "gpa": "Graduate standing in public policy, political science, economics, or higher education administration.",
+      "ielts": "Bilingual English and French proficiency preferred.",
+      "gre": "Not required.",
+      "papers": "Resume, university transcript, and two-page policy brief sample.",
+      "references": "One academic referee letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6490,
+    "title": "Mitacs-Universities Canada Global Research Commercialization Fellowship",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Competitive postdoctoral fellowship pairing engineering and computer science researchers with high-growth Canadian tech firms to advance patent commercialization.",
+    "funding": "CAD $20,000 co-funded industrial research grant",
+    "tuition": "Full fellowship waiver",
+    "fee": "CAD $0 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://univcan.ca/media-room/news-and-commentary/",
+    "requirements": {
+      "gpa": "PhD in engineering, physical sciences, or computing science within 5 years.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Industrial research translation plan, intellectual property strategy, and CV.",
+      "references": "Industry partner support letter and faculty supervisor reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6491,
+    "title": "Master of Public Policy in Higher Education Governance & Innovation",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-year interdisciplinary master's degree investigating tri-council funding architectures, indigenous postsecondary reconciliation, and international academic mobility.",
+    "funding": "Fellowships and policy research assistantships up to CAD $16,000 annually",
+    "tuition": "CAD $7,500 (domestic) / CAD $18,200 (international) per academic year",
+    "fee": "CAD $120 university application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://univcan.ca/universities/facts-and-stats/",
+    "requirements": {
+      "gpa": "Four-year bachelor's degree with minimum 75% or 3.2 GPA.",
+      "ielts": "IELTS 7.0 overall.",
+      "gre": "Not required.",
+      "papers": "Statement of academic purpose, policy writing sample, and resume.",
+      "references": "Three academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6492,
+    "title": "Executive Seminar on Postsecondary Leadership and Indigenous Reconciliation",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "location": "Ottawa, Ontario, Canada",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Executive continuing education intensive for university deans, provosts, and board governors examining the implementation of the Truth and Reconciliation Commission (TRC) Calls to Action.",
+    "funding": "Institutional sponsorship eligible",
+    "tuition": "CAD $2,400 full seminar fee",
+    "fee": "CAD $50 registration fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://univcan.ca/programs-and-scholarships/indigenous-higher-education/",
+    "requirements": {
+      "gpa": "Current postsecondary administrative appointment or senior faculty rank.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Institutional endorsement and CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6493,
+    "title": "Diplom-Betriebswirt (BAA) in International Trade and Export Management",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Two-year professional diploma covering European customs regulations, international trade financing (letters of credit, Incoterms 2020), export risk management, and foreign market entry strategies.",
+    "funding": "Bavarian Master-Craftsman Grant (Aufstiegs-BAföG) covering up to 75% of tuition costs",
+    "tuition": "€4,800 per academic year",
+    "fee": "€150 examination and registration fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.bayerischeakademie.de/lehrgaenge/aussenwirtschaft/",
+    "requirements": {
+      "gpa": "German Abitur, Fachhochschulreife, or completed commercial vocational training.",
+      "ielts": "English B2 certificate (IELTS 6.0) and German B2.",
+      "gre": "Not required.",
+      "papers": "High school or vocational certificate, CV, and employment verification.",
+      "references": "Employer recommendation letter if sponsored."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6494,
+    "title": "Executive Master in Global Supply Chain Governance and Customs Law",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Fourteen-month executive postgraduate diploma examining dual-use export controls, European Supply Chain Due Diligence Act (LkSG) compliance, and automated customs clearance architectures.",
+    "funding": "IHK München Export Scholarship providing €2,500 tuition subsidies",
+    "tuition": "€6,200 total program tuition",
+    "fee": "€200 enrollment fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.bayerischeakademie.de/master-programme/",
+    "requirements": {
+      "gpa": "Bachelor's degree in business, economics, law, or logistics with at least 180 ECTS.",
+      "ielts": "English B2/C1.",
+      "gre": "Not required.",
+      "papers": "University diploma, transcript, statement of motivation, and professional CV.",
+      "references": "Two professional reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6495,
+    "title": "Bavarian Foreign Trade Merit Scholarship for International Scholars",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Merit-based scholarship supporting outstanding international scholars from Central and Eastern Europe pursuing foreign trade specializations in Bavaria.",
+    "funding": "Full €4,800 tuition waiver and €600 monthly living stipend for one academic year",
+    "tuition": "Fully waived",
+    "fee": "€0 scholarship applicant fee",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.bayerischeakademie.de/stipendien/",
+    "requirements": {
+      "gpa": "Top 10% academic standing in prior secondary or postsecondary studies.",
+      "ielts": "German B2 and English B2.",
+      "gre": "Not required.",
+      "papers": "Academic transcripts, motivation essay, and financial disclosure.",
+      "references": "Two academic recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6496,
+    "title": "Transatlantic Trade Policy & Sanctions Compliance Research Fellowship",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Nine-month research fellowship investigating EU-US trade agreements, transatlantic digital tariffs, and international sanctions compliance for German Mittelstand exporters.",
+    "funding": "€18,000 annual research grant and visiting scholar desk at the Munich Trade Center",
+    "tuition": "Waived",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-30",
+    "deadlineText": "May 30, 2027",
+    "source": "https://www.bayerischeakademie.de/forschung/",
+    "requirements": {
+      "gpa": "Master's degree or PhD in international economics, trade law, or political science.",
+      "ielts": "Fluent English and German.",
+      "gre": "Not required.",
+      "papers": "Research proposal (max 2,500 words), curriculum vitae, and publication list.",
+      "references": "Two professorial references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6497,
+    "title": "Bavarian Industrial Export Management Internship",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Six-month practicum at Bavarian automotive, machinery, or aerospace exporters in Munich, managing export licensing, certificate of origin filings, and foreign client logistics.",
+    "funding": "Paid corporate placement with monthly salary of €1,400 to €1,800",
+    "tuition": "€0 placement fee",
+    "fee": "€50 academy registration",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.bayerischeakademie.de/karriere-netzwerk/",
+    "requirements": {
+      "gpa": "Enrolled in BAA Munich diploma or partnering European business university.",
+      "ielts": "German B2 and English B2.",
+      "gre": "Not required.",
+      "papers": "Resume, academic grade report, and cover letter.",
+      "references": "Academic advisor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6498,
+    "title": "Doctoral Research Assistantship in European Customs Law and Geoeconomics",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Three-year collaborative doctorate in partnership with Ludwig-Maximilians-Universität München examining multilateral WTO dispute settlement and carbon border adjustment mechanisms (CBAM).",
+    "funding": "TV-L E13 65% doctoral salary approximately €32,000 annually",
+    "tuition": "€0 tuition (Bavarian state higher education framework)",
+    "fee": "€140 semester solidarity fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.bayerischeakademie.de/promotion/",
+    "requirements": {
+      "gpa": "Master's degree in economics, law, or business administration with grade of at least 'gut' (2.0 or better).",
+      "ielts": "German C1 and English C1.",
+      "gre": "Not required.",
+      "papers": "Master's thesis, doctoral research outline, and academic CV.",
+      "references": "Two university professor recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6499,
+    "title": "Certificate in Incoterms 2020 & International Contract Drafting",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "location": "Munich, Bavaria, Germany",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Intensive 3-day executive masterclass in International Commercial Terms (Incoterms 2020), carrier liability limitations, and CISG international sales contracts.",
+    "funding": "Company group discounts and Bildungsurlaub tax deduction eligible",
+    "tuition": "€980 complete seminar tuition",
+    "fee": "€50 registration fee",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://www.bayerischeakademie.de/seminare/",
+    "requirements": {
+      "gpa": "Professional background in purchasing, logistics, sales, or law.",
+      "ielts": "German B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and proof of vocational standing.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6500,
+    "title": "Master of Science in Wirtschaftspsychologie und Change Management (Distance Learning)",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-year state-accredited distance learning master's degree focusing on organizational diagnosis, neuroleadership, behavioral economics, and agile transformation methodologies.",
+    "funding": "Tax deductible tuition and Baden-Württemberg education loan support (Aufstiegs-Stipendium)",
+    "tuition": "€2,950 per semester (4 semesters total)",
+    "fee": "€180 semester administrative fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hfwu-wpx.de/studienangebot/master-wirtschaftspsychologie/",
+    "requirements": {
+      "gpa": "Bachelor's degree with grade 2.5 or better in business, psychology, or related fields.",
+      "ielts": "German C1 (DSH-2 or TestDaF 4) and English B2.",
+      "gre": "Not required.",
+      "papers": "Undergraduate degree certificate, transcript, resume, and 1-year work experience proof.",
+      "references": "Professional supervisor reference letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6501,
+    "title": "Doctoral Research Fellowship in Behavioral Economics and Digital Nudging",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Three-year doctoral dissertation investigating cognitive biases in digital consumer choice architectures, AI decision support systems, and organizational nudge interventions.",
+    "funding": "€28,000 annual research scholarship through the Baden-Württemberg Cooperative Doctoral College",
+    "tuition": "€0 tuition fee",
+    "fee": "€180 semester administrative contribution",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.hfwu-wpx.de/forschung/",
+    "requirements": {
+      "gpa": "Master's degree in psychology, economics, or cognitive science with grade 2.0 or better.",
+      "ielts": "German C1 and English C1.",
+      "gre": "Not required.",
+      "papers": "Doctoral research synopsis, master's thesis copy, and academic CV.",
+      "references": "Two professorial recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6502,
+    "title": "Baden-Württemberg Distance Learning Excellence Scholarship",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "State-funded merit scholarship supporting distance learning scholars demonstrating academic excellence alongside parenting or family care responsibilities.",
+    "funding": "€3,000 grant reducing semester tuition fees for working parents and career changers",
+    "tuition": "Subsidized through merit scholarship",
+    "fee": "€0 scholarship application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.hfwu-wpx.de/stipendien/",
+    "requirements": {
+      "gpa": "Prior academic GPA equivalent to German 2.2 or higher.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "Academic transcript, proof of caregiving responsibilities, and motivation essay.",
+      "references": "One professional reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6503,
+    "title": "Research Fellowship in Human-AI Interaction & Cognitive Workload",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Twelve-month residential research fellowship assessing cognitive fatigue and trust calibrated in automated robotic manufacturing environments.",
+    "funding": "€22,000 annual research fellowship plus eye-tracking and EEG laboratory access",
+    "tuition": "Waived",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.hfwu-wpx.de/forschung/projekte/",
+    "requirements": {
+      "gpa": "Master's degree in human factors, cognitive psychology, or computer science.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Research proposal, publication record, and CV.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6504,
+    "title": "Industrial Psychology Practicum in Automotive Talent Analytics",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Six-month practicum conducting psychometric validation of leadership assessment centers and digital employee engagement surveys for automotive engineering firms.",
+    "funding": "Paid work term in Stuttgart automotive sector at €1,600 monthly",
+    "tuition": "Included in distance degree enrollment",
+    "fee": "€0 application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.hfwu-wpx.de/netzwerk/",
+    "requirements": {
+      "gpa": "Enrolled in HfWU Wirtschaftspsychologie master's program.",
+      "ielts": "German B2/C1.",
+      "gre": "Not required.",
+      "papers": "Resume and academic grade report.",
+      "references": "Faculty advisor approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6505,
+    "title": "Bachelor of Arts in Applied Business Psychology and Personnel Development",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Three-year undergraduate program in social psychology, market research methodology, cognitive ergonomics, and organizational personnel selection.",
+    "funding": "BAföG state student support eligible up to €934 monthly",
+    "tuition": "€1,500 state international student tuition per semester (free for EU citizens)",
+    "fee": "€180 semester administrative fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hfwu-wpx.de/studienangebot/",
+    "requirements": {
+      "gpa": "German Abitur or recognized international university entrance qualification.",
+      "ielts": "German C1 and English B2.",
+      "gre": "Not required.",
+      "papers": "School leaving certificate and statement of motivation.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6506,
+    "title": "Certificate in Agile Coaching and Neuroleadership Assessment",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "location": "Nürtingen, Baden-Württemberg, Germany",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Six-month modular certificate program training executive coaches in psychological safety, scrum team dynamics, and neuroscience-informed leadership development.",
+    "funding": "Corporate education grant and educational leave (Bildungszeit) eligible",
+    "tuition": "€1,850 total course tuition",
+    "fee": "€50 registration fee",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.hfwu-wpx.de/weiterbildung/",
+    "requirements": {
+      "gpa": "Completed university degree or at least three years of professional leadership experience.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "CV and short reflection on professional coaching objectives.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6507,
+    "title": "Bachelor of Engineering in Materials Engineering - Glass and Ceramics",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Seven-semester accredited engineering degree exploring powder metallurgy, sintering kinetics, silicate glass technology, and high-performance technical ceramics.",
+    "funding": "Rhineland-Palatinate state tuition-free policy; Deutschlandstipendium eligible (€300/month)",
+    "tuition": "€0 tuition fees for EU and non-EU scholars",
+    "fee": "€260 semester contribution including regional transit ticket",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-koblenz.de/westerwaldcampus/werkstofftechnik-glas-und-keramik",
+    "requirements": {
+      "gpa": "German Fachhochschulreife or international secondary school credential.",
+      "ielts": "German C1 (TestDaF 4x4 or DSH-2).",
+      "gre": "Not required.",
+      "papers": "High school transcripts and 8-week pre-study technical internship verification.",
+      "references": "Not required for undergraduate admission."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6508,
+    "title": "Master of Engineering in Ceramic Science and Advanced Materials",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Master's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Three-semester advanced degree covering fracture mechanics of brittle materials, 3D additive manufacturing of technical ceramics, and thermoelectric energy converters.",
+    "funding": "Research assistantships (HiWi) funded by the FGK Ceramic Research Institute",
+    "tuition": "€0 tuition fees",
+    "fee": "€260 semester fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.hs-koblenz.de/westerwaldcampus/master-ceramic-science",
+    "requirements": {
+      "gpa": "BSc/BEng in materials science, chemistry, physics, or mechanical engineering with grade 2.5 or better.",
+      "ielts": "German B2 and English B2.",
+      "gre": "Not required.",
+      "papers": "Bachelor's diploma, transcript of records, curriculum vitae, and motivation letter.",
+      "references": "Two academic letters of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6509,
+    "title": "Master of Fine Arts in Ceramic Art and Experimental Glass (IKKG)",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "chemistry"
+    ],
+    "desc": "Four-semester studio MFA program at the Institute for Ceramic Art and Design, investigating experimental kiln firing, sculptural clay installations, and architectural glass casting.",
+    "funding": "Rhineland-Palatinate Graduate Art Fellowship providing €8,000 project funding",
+    "tuition": "€0 tuition fees",
+    "fee": "€260 semester contribution",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.hs-koblenz.de/ikkg/",
+    "requirements": {
+      "gpa": "BFA or equivalent fine arts degree.",
+      "ielts": "German B2 or English B2.",
+      "gre": "Not required.",
+      "papers": "Digital portfolio of 20 ceramic/glass artworks, artist statement, and CV.",
+      "references": "Two artistic faculty recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6510,
+    "title": "Doctoral Research Scholarship in Solid-State Electrolytes for Ceramic Batteries",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "PhD",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "engineering"
+    ],
+    "desc": "Three-year doctoral thesis in joint supervision with TU Darmstadt investigating lithium-conducting garnet-type oxide ceramics and solid-state electrolyte interfaces.",
+    "funding": "Full TV-L E13 research salary (€48,000 gross annually) funded through Federal BMBF projects",
+    "tuition": "€0 tuition fee",
+    "fee": "€260 semester fee",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.hs-koblenz.de/forschung/",
+    "requirements": {
+      "gpa": "Master's degree in chemistry, materials science, or physics with grade 2.0 or higher.",
+      "ielts": "English C1 (IELTS 7.0).",
+      "gre": "Not required.",
+      "papers": "Master's thesis, statement of research experience, and comprehensive CV.",
+      "references": "Two professorial references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6511,
+    "title": "European Ceramic Technology Center (FGK) Industrial R&D Internship",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Five-month industrial internship utilizing scanning electron microscopy (SEM), X-ray diffraction (XRD), and high-temperature dilatometry to characterize refractory composites.",
+    "funding": "Paid 20-week research work term at €1,200 monthly plus laboratory supplies allowance",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.hs-koblenz.de/westerwaldcampus/kooperationen/",
+    "requirements": {
+      "gpa": "Enrolled in engineering bachelor's or master's program.",
+      "ielts": "German B2 or English B2.",
+      "gre": "Not required.",
+      "papers": "Resume, university transcript, and statement of lab interest.",
+      "references": "Department chair recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6512,
+    "title": "Deutschlandstipendium in Refractory Engineering and Sustainable Kiln Technologies",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Merit-based national scholarship supported by the German Refractories Association (VDFFI) recognizing top engineering scholars developing hydrogen-fired ceramic kilns.",
+    "funding": "€3,600 annual merit award (€300 monthly for 12 months) co-funded by ceramic industry sponsors",
+    "tuition": "Tuition is free",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.hs-koblenz.de/studium/foerderung-finanzierung/deutschlandstipendium",
+    "requirements": {
+      "gpa": "Outstanding academic performance (grade 1.9 or better).",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "University transcript, curriculum vitae, and documentation of civic engagement.",
+      "references": "One academic referee letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6513,
+    "title": "Certificate in Additive Manufacturing of Advanced Technical Ceramics",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "location": "Höhr-Grenzhausen, Rhineland-Palatinate, Germany",
+    "type": "Course",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Four-week hands-on professional certificate in lithography-based ceramic manufacturing (LCM), binder jetting, and thermal debinding protocols.",
+    "funding": "Federal qualification funding (Qualifizierungschancengesetz) eligible",
+    "tuition": "€1,600 total course fee",
+    "fee": "€50 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://www.hs-koblenz.de/weiterbildung/",
+    "requirements": {
+      "gpa": "Technical degree or vocational experience in mechanical or materials engineering.",
+      "ielts": "German B2 or English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and professional CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6514,
+    "title": "Bachelor of Arts in Intermedia Design & Digital Experience Prototyping",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Seven-semester undergraduate curriculum exploring interactive media installations, UI/UX spatial computing, generative animation, and experimental game design.",
+    "funding": "Rhineland-Palatinate state tuition-free framework; Deutschlandstipendium eligible",
+    "tuition": "€0 tuition fees for domestic and international students",
+    "fee": "€310 semester fee including regional train pass across Rhineland-Palatinate and Saarland",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.hochschule-trier.de/gestaltung/intermedia-design",
+    "requirements": {
+      "gpa": "German Fachhochschulreife or international equivalent.",
+      "ielts": "German C1 (DSH-2 or TestDaF 4).",
+      "gre": "Not required.",
+      "papers": "Artistic portfolio of 15 to 20 media works, sketchbook, and statement of creative intent.",
+      "references": "Passing the artistic aptitude examination."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6515,
+    "title": "Master of Arts in Architecture and Adaptive Urban Heritage",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "Three-semester accredited master's program examining historic building conservation, timber construction systems, circular architectural materiality, and sustainable urban density.",
+    "funding": "DAAD Study Scholarships for Foreign Graduates in Architecture (€934 monthly)",
+    "tuition": "€0 tuition fees",
+    "fee": "€310 semester contribution",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hochschule-trier.de/gestaltung/architektur",
+    "requirements": {
+      "gpa": "Bachelor's degree in architecture with minimum grade 2.3 and at least 240 ECTS.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "Comprehensive architectural design portfolio, bachelor's thesis, and CV.",
+      "references": "Two letters of recommendation from architecture faculty or licensed architects."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6516,
+    "title": "Master of Fine Arts in Gemstones and Jewellery Art (Campus Idar-Oberstein)",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "chemistry"
+    ],
+    "desc": "Four-semester internationally unique studio MFA in lapidary carving, contemporary metalwork, experimental gemmology, and conceptual body ornamentation.",
+    "funding": "Wilhelm-Müller Foundation jewellery scholarship of €5,000 for materials",
+    "tuition": "€0 tuition fees",
+    "fee": "€310 semester fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.hochschule-trier.de/gestaltung/edelstein-und-schmuck",
+    "requirements": {
+      "gpa": "BFA or Bachelor of Arts in Jewellery, Metal, or Product Design.",
+      "ielts": "English B2 or German B2.",
+      "gre": "Not required.",
+      "papers": "High-resolution photographic portfolio of jewellery collections, artist manifesto, and CV.",
+      "references": "Two artistic references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6517,
+    "title": "Doctoral Fellowship in Sustainable Textiles and Bio-Fabrication",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "PhD",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "environment"
+    ],
+    "desc": "Three-year doctoral project investigating circular fungal mycelium textiles, natural plant dyeing kinetics, and closed-loop garment lifecycle architectures.",
+    "funding": "€27,000 annual doctoral stipend supported by the Rhineland-Palatinate Research Initiative",
+    "tuition": "€0 tuition fee",
+    "fee": "€310 semester contribution",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.hochschule-trier.de/forschung/",
+    "requirements": {
+      "gpa": "Master's degree in fashion design, textile engineering, or biomaterials with grade 2.0 or better.",
+      "ielts": "German C1 or English C1.",
+      "gre": "Not required.",
+      "papers": "Doctoral research expose, master's thesis, and portfolio of textile innovations.",
+      "references": "Two academic recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6518,
+    "title": "Moselle Valley Spatial Media & Heritage Tourism Internship",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Five-month cultural design practicum developing augmented reality reconstructions of UNESCO World Heritage Roman monuments (Porta Nigra, Imperial Baths).",
+    "funding": "Paid work term with the City of Trier Cultural Heritage Bureau at €1,100 monthly",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-05-30",
+    "deadlineText": "May 30, 2027",
+    "source": "https://www.hochschule-trier.de/gestaltung/projekte/",
+    "requirements": {
+      "gpa": "Enrolled in third or fourth year of Intermedia Design or Architecture.",
+      "ielts": "German B2.",
+      "gre": "Not required.",
+      "papers": "CV, design portfolio, and cover letter.",
+      "references": "Faculty studio director approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6519,
+    "title": "Deutschlandstipendium in Circular Fashion & Eco-Design Innovation",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "environment"
+    ],
+    "desc": "Merit scholarship co-sponsored by European textile companies recognizing undergraduate fashion students pioneering zero-waste pattern drafting.",
+    "funding": "€3,600 annual merit award (€300 monthly for 12 months)",
+    "tuition": "Tuition is free",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://www.hochschule-trier.de/studium/finanzierung/deutschlandstipendium/",
+    "requirements": {
+      "gpa": "Grade 2.0 or higher in design coursework.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "Design portfolio, transcript, and motivational letter detailing sustainable design ethics.",
+      "references": "One design professor letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6520,
+    "title": "Certificate in Virtual Reality Spatial Design & Unreal Engine ArchViz",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "location": "Trier, Rhineland-Palatinate, Germany",
+    "type": "Course",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Six-week intensive hybrid course for practicing architects and interior designers in real-time ray-tracing, parametric BIM integration, and VR headset walkthroughs.",
+    "funding": "Chamber of Architects (Architektenkammer) continuing education accreditation",
+    "tuition": "€1,350 total seminar tuition",
+    "fee": "€40 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.hochschule-trier.de/weiterbildung/",
+    "requirements": {
+      "gpa": "Professional degree in architecture, interior architecture, or media design.",
+      "ielts": "German B2 or English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and portfolio sample.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6521,
+    "title": "Bachelor of Science in Nautical Studies & Maritime Transport Management",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Eight-semester professional maritime curriculum at Campus Warnemünde providing STCW certification, radar navigation simulation, vessel stability, and global maritime logistics.",
+    "funding": "German Federal Maritime Agency training subsidies and maritime company sponsorship",
+    "tuition": "€0 tuition fees",
+    "fee": "€155 semester contribution",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-wismar.de/studium/studiengaenge/nautik-seeverkehr/",
+    "requirements": {
+      "gpa": "Fachhochschulreife or international secondary diploma with strong mathematics and physics.",
+      "ielts": "German B2/C1 and English B2.",
+      "gre": "Not required.",
+      "papers": "Medical fitness certificate for sea service (See-Tauglichkeit), high school transcripts, and CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6522,
+    "title": "Master of Arts in Architectural Lighting Design (International)",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "physics"
+    ],
+    "desc": "Four-semester English-taught master's exploring human-centric circadian illumination, daylight simulation modeling (DIALux, Radiance), and sustainable urban lighting architecture.",
+    "funding": "DAAD scholarships and European lighting industry design prize sponsorships",
+    "tuition": "€0 tuition fees for regular on-campus program",
+    "fee": "€155 semester fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.hs-wismar.de/studium/studiengaenge/architectural-lighting-design/",
+    "requirements": {
+      "gpa": "Bachelor's degree in architecture, interior design, industrial design, or electrical engineering.",
+      "ielts": "IELTS 6.5 overall or TOEFL iBT 80.",
+      "gre": "Not required.",
+      "papers": "Design portfolio showing spatial sensitivity, statement of intent, and bachelor's diploma.",
+      "references": "Two academic or professional reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6523,
+    "title": "Bachelor of Engineering in Naval Architecture and Ocean Engineering",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Seven-semester engineering degree focused on computational ship hull hydrodynamics, offshore wind turbine foundation design, propulsion kinetics, and shipyard production.",
+    "funding": "Mecklenburg-Vorpommern maritime engineering trainee grant (€600/month)",
+    "tuition": "€0 tuition fees",
+    "fee": "€155 semester contribution",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.hs-wismar.de/studium/studiengaenge/schiffbau-und-meerestechnik/",
+    "requirements": {
+      "gpa": "German university entrance qualification with emphasis in physics and mathematics.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "High school transcripts and 8-week pre-study metalworking or shipyard internship verification.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6524,
+    "title": "Doctoral Research Fellowship in Green Ship Propulsion & Baltic Hydrogen Bunkering",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "PhD",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Three-year doctoral project in collaboration with the University of Rostock developing fuel cell electric propulsion systems and zero-emission ferry logistics in the Baltic Sea.",
+    "funding": "Full TV-L E13 research salary (€46,000 gross per year) funded by EU Interreg Baltic Sea Region",
+    "tuition": "€0 tuition fee",
+    "fee": "€155 semester contribution",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.hs-wismar.de/forschung/",
+    "requirements": {
+      "gpa": "Master's degree in marine engineering, mechanical engineering, or chemical engineering with grade 2.0 or better.",
+      "ielts": "English C1 or German C1.",
+      "gre": "Not required.",
+      "papers": "Master's thesis, doctoral research proposal, and publication list.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6525,
+    "title": "Warnemünde Maritime Simulator Operations Internship",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Six-month practicum programming real-time hydrographic hydrodynamic ship models and bridge team maneuvering scenarios for international merchant marine captains.",
+    "funding": "Paid technical assistantship at €1,150 monthly at the Maritime Simulation Centre Warnemünde (MSCW)",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.hs-wismar.de/studium/bereiche/bereich-seefahrt-anlagentechnik-und-logistik/",
+    "requirements": {
+      "gpa": "Enrolled in computer science, simulation engineering, or nautical studies.",
+      "ielts": "English B2 and German B2.",
+      "gre": "Not required.",
+      "papers": "Resume, transcript, and statement of simulation interest.",
+      "references": "Faculty advisor approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6526,
+    "title": "Hanseatic Coastal Engineering Merit Scholarship",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Deutschlandstipendium co-funded by Baltic offshore engineering contractors recognizing top civil and naval engineering students specializing in coastal flood resilience.",
+    "funding": "€3,600 annual stipend (€300 per month for one academic year)",
+    "tuition": "Tuition is free",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.hs-wismar.de/studium/beratung-unterstuetzung/deutschlandstipendium/",
+    "requirements": {
+      "gpa": "Top 15% academic standing in undergraduate engineering.",
+      "ielts": "German C1.",
+      "gre": "Not required.",
+      "papers": "University transcript, CV, and letter of motivation.",
+      "references": "One academic faculty recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6527,
+    "title": "Certificate in Maritime Cybersecurity and Automated Vessel Telemetry",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "location": "Wismar, Mecklenburg-Vorpommern, Germany",
+    "type": "Course",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Eight-week online modular certificate covering IMO Resolution MSC.428(98) cyber risk management on ships, ECDIS vulnerability assessment, and satellite link encryption.",
+    "funding": "IMO/BSI cyber compliance professional development funding eligible",
+    "tuition": "€1,450 complete certificate fee",
+    "fee": "€50 registration fee",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.wings.hs-wismar.de/",
+    "requirements": {
+      "gpa": "Degree or professional experience in maritime operations, IT, or logistics.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration application and CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6528,
+    "title": "Laurea Triennale in Scienze dell'Educazione e della Formazione",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-year Italian state-recognized undergraduate degree (L-19) preparing early childhood educators, pedagogical consultants, and social rehabilitation professionals.",
+    "funding": "ER.GO Emilia-Romagna regional student welfare bursaries up to €6,200 annually for eligible family incomes",
+    "tuition": "€2,100 per academic year",
+    "fee": "€140 regional student welfare tax",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://www.uniscuole.eu/corsi-di-laurea/scienze-educazione/",
+    "requirements": {
+      "gpa": "Italian Diploma di Maturità or international secondary diploma.",
+      "ielts": "Italian B2 proficiency.",
+      "gre": "Not required.",
+      "papers": "High school diploma, tax code (Codice Fiscale), and identity card.",
+      "references": "Not required for undergraduate admission."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6529,
+    "title": "Laurea Magistrale in Management delle Imprese e Transizione Digitale",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Two-year postgraduate degree (LM-77) focusing on supply chain management in the Emilia industrial corridor, enterprise resource planning, and ESG corporate governance.",
+    "funding": "Emilia-Romagna Chamber of Commerce tuition rebates up to 35% for regional manufacturing employees",
+    "tuition": "€2,400 per academic year",
+    "fee": "€140 regional tax",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://www.uniscuole.eu/corsi-di-laurea/economia-management/",
+    "requirements": {
+      "gpa": "Bachelor's degree in economics, business administration, or engineering with minimum 180 ECTS.",
+      "ielts": "Italian B2 and English B1.",
+      "gre": "Not required.",
+      "papers": "University transcript of exams, degree certificate, and CV.",
+      "references": "Two academic or employer recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6530,
+    "title": "Premio di Laurea per la Sostenibilità Territoriale e Inclusione Sociale",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Merit award funded by regional cooperative enterprises recognizing exceptional theses on rural social cooperatives, sustainable mobility, or inclusive pedagogies in the Bolognese plains.",
+    "funding": "€2,500 cash graduation award and full tuition refund for the final academic year",
+    "tuition": "Covered by award",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.uniscuole.eu/borse-di-studio/",
+    "requirements": {
+      "gpa": "Graduating with final degree score of 105/110 or higher.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Complete thesis manuscript, abstract in Italian and English, and supervisor report.",
+      "references": "Thesis supervisor endorsement letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6531,
+    "title": "Master Universitario di I Livello in Criminologia Investigativa e Cyber Forensics",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "One-year professional university master (60 ECTS) examining digital forensics, electronic crime scene reconstruction, cyberstalking law, and security auditing.",
+    "funding": "INPS executive scholarships covering 100% of enrollment fees for public administration officers",
+    "tuition": "€1,800 full master fee",
+    "fee": "€100 registration fee",
+    "deadline": "2027-11-30",
+    "deadlineText": "November 30, 2027",
+    "source": "https://www.uniscuole.eu/master/criminologia/",
+    "requirements": {
+      "gpa": "Undergraduate degree (Laurea Triennale) in law, psychology, sociology, or computer engineering.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, undergraduate diploma, and letter of motivation.",
+      "references": "One professional reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6532,
+    "title": "Tirocinio Curriculare in Pedagogia Speciale e Neurosviluppo Infantile",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Structured clinical and educational internship in partner schools and neurodevelopmental clinics across Bologna, supporting neurodivergent pupils and IEP implementations.",
+    "funding": "Regional meal voucher allowance and academic ECTS accreditation (250 hours)",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.uniscuole.eu/tirocini/",
+    "requirements": {
+      "gpa": "Completed at least 120 ECTS in the L-19 degree program.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "University transcript, CV, and clean criminal background check for youth work.",
+      "references": "Faculty internship coordinator sign-off."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6533,
+    "title": "Borsa di Ricerca Post-Laurea in Diritto Agroalimentare e Tutela DOP/IGP",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Twelve-month postgraduate research fellowship examining geographical indication counterfeiting, European agricultural trademark litigation, and food traceability blockchain protocols.",
+    "funding": "€14,000 annual research grant funded by Emilia-Romagna Agri-Food Consortia",
+    "tuition": "Waived",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uniscuole.eu/ricerca/",
+    "requirements": {
+      "gpa": "Laurea Magistrale in Giurisprudenza (LMG-01) or Agrarian Economics.",
+      "ielts": "Italian C1 and English B2.",
+      "gre": "Not required.",
+      "papers": "Master's thesis copy, detailed research project (max 3,000 words), and CV.",
+      "references": "Two professorial references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6534,
+    "title": "Corso di Perfezionamento Universitario in Metodologie Didattiche Innovative e BES",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "location": "San Giovanni in Persiceto, Bologna, Emilia-Romagna, Italy",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Specialized 1,500-hour post-degree qualification (60 ECTS) awarded by MUR for certified school teachers, focusing on special educational needs (BES), dyslexia, and multimedia didactic tools.",
+    "funding": "MIUR Carta del Docente (€500 annual voucher) fully applicable",
+    "tuition": "€500 total course tuition",
+    "fee": "€0 registration fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.uniscuole.eu/perfezionamento-scuola/",
+    "requirements": {
+      "gpa": "Undergraduate degree or equivalent qualification recognized by the Italian Ministry of Education.",
+      "ielts": "Italian mother tongue or B2.",
+      "gre": "Not required.",
+      "papers": "Degree parchment and identity card.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6535,
+    "title": "Diploma Accademico in Filologia Leopardiana e Letteratura Italiana dell'Ottocento",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Two-year academic diploma exploring the poetic syntax of the 'Canti', philosophical nihilism in the 'Operette morali', and historical linguistics of early 19th-century Italian literature.",
+    "funding": "Regione Marche cultural heritage student subsidies covering up to 60% of registration fees",
+    "tuition": "€850 per academic year",
+    "fee": "€50 annual enrollment fee",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://www.uniperecanati.org/corsi/letteratura-leopardiana/",
+    "requirements": {
+      "gpa": "Diploma di Maturità or international secondary school leaving diploma.",
+      "ielts": "Italian B2 proficiency.",
+      "gre": "Not required.",
+      "papers": "High school transcript, identity card, and brief essay on romantic literature.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6536,
+    "title": "Borsa di Ricerca 'Giacomo Leopardi' per Giovani Studiosi di Lettere e Filosofia",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Six-month research fellowship for doctoral candidates examining unedited correspondence, manuscripts, and philosophical fragments from the Leopardi family archive.",
+    "funding": "€8,000 research stipend and archive residency at the Centro Nazionale di Studi Leopardiani",
+    "tuition": "Waived",
+    "fee": "€0 application fee",
+    "deadline": "2027-05-30",
+    "deadlineText": "May 30, 2027",
+    "source": "https://www.uniperecanati.org/borse-di-studio/",
+    "requirements": {
+      "gpa": "Enrolled in a PhD or holding a master's degree in Italian philology or philosophy.",
+      "ielts": "Italian C1.",
+      "gre": "Not required.",
+      "papers": "Detailed research project proposal, sample article or thesis excerpt, and CV.",
+      "references": "Two academic recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6537,
+    "title": "Corso Biennale in Storia dell'Arte Rinascimentale e Conservazione dei Beni Culturali",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Two-year curriculum examining Lorenzo Lotto's masterpieces in Recanati, Renaissance fresco conservation, iconological cataloging, and museum curation in central Italy.",
+    "funding": "Municipal scholarship covering full course costs for local residents under 30",
+    "tuition": "€950 per academic year",
+    "fee": "€50 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://www.uniperecanati.org/corsi/storia-arte/",
+    "requirements": {
+      "gpa": "Secondary school graduation certificate.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Diploma copy, identity document, and statement of interest.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6538,
+    "title": "Tirocinio di Catalogazione Archivistica e Digitalizzazione Museale",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Four-month practical training internship in high-resolution archival digitization, Dublin Core metadata tagging, and optical character recognition (OCR) of historical civic documents.",
+    "funding": "Monthly expense allowance of €500 provided by the Museo Civico Villa Colloredo Mels",
+    "tuition": "€0",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.uniperecanati.org/tirocini/",
+    "requirements": {
+      "gpa": "University student or recent graduate in humanities, cultural heritage, or archival science.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae and academic transcript.",
+      "references": "One professor reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6539,
+    "title": "Premio per la Ricerca Storico-Territoriale nelle Marche",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Annual scholarly competition awarding unpublished historical monographs on communal governance, monastic scriptoria, or agrarian revolts in the Macerata territory.",
+    "funding": "€2,000 publication grant and monograph print subvention",
+    "tuition": "Covered by prize",
+    "fee": "€0",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.uniperecanati.org/premi/",
+    "requirements": {
+      "gpa": "Master's or doctoral degree in history or related discipline.",
+      "ielts": "Italian C1.",
+      "gre": "Not required.",
+      "papers": "Complete monograph manuscript (minimum 80,000 words), abstract, and CV.",
+      "references": "Two academic referee evaluations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6540,
+    "title": "Master Breve in Archeologia Medievale e Paesaggi Fortificati dell'Adriatico",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "One-year specialized course investigating feudal castles, maritime coastal watchtowers, stratigraphy analysis, and GIS landscape archaeology across the Marche seaboard.",
+    "funding": "Fieldwork bursary of €1,200 for topographic archaeological surveys",
+    "tuition": "€1,200 total program tuition",
+    "fee": "€80 enrollment fee",
+    "deadline": "2027-11-15",
+    "deadlineText": "November 15, 2027",
+    "source": "https://www.uniperecanati.org/master/archeologia/",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in archaeology, cultural heritage, or architecture.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae and university transcript.",
+      "references": "One academic reference letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6541,
+    "title": "Corso Monografico di Paleografia Latina e Decifrazione Diplomatica",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "location": "Recanati, Macerata, Marche, Italy",
+    "type": "Course",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Ten-week hands-on paleography workshop transcribing Carolingian minuscule, Gothic cursives, and Renaissance notarial instruments from central Italian archives.",
+    "funding": "Subsidized through Marche regional cultural education funds",
+    "tuition": "€450 total course tuition",
+    "fee": "€30 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.uniperecanati.org/corsi/paleografia/",
+    "requirements": {
+      "gpa": "Basic reading knowledge of classical or medieval Latin.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and proof of secondary diploma.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6542,
+    "title": "Corso di Laurea Magistrale in Scienze e Tecnologie Alimentari (Food Science & Tech)",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Master's",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Two-year advanced scientific degree focusing on Mediterranean food processing, olive oil and wine biotechnology, food safety microbial genetics, and functional ingredient formulation.",
+    "funding": "ADISU Puglia regional scholarships providing up to €6,500 plus free canteen meals and housing",
+    "tuition": "€1,850 maximum annual tuition (sliding scale based on ISEE indicator)",
+    "fee": "€140 regional student tax",
+    "deadline": "2027-10-31",
+    "deadlineText": "October 31, 2027",
+    "source": "https://www.unifg.it/it/studiare/corsi-di-laurea/scienze-e-tecnologie-alimentari",
+    "requirements": {
+      "gpa": "Bachelor's degree in food science, biology, chemistry, or agricultural sciences with minimum 180 ECTS.",
+      "ielts": "Italian B2 and English B1.",
+      "gre": "Not required.",
+      "papers": "Undergraduate degree certificate, transcript of records, curriculum vitae, and passport.",
+      "references": "Two academic letters of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6543,
+    "title": "Dottorato di Ricerca in Biotecnologie Applicate all'Agricoltura e all'Ambiente",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "PhD",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Three-year doctoral curriculum researching drought-resilient cereal genetics, soil microbiome engineering, and sustainable biocontrol of Mediterranean crop pathogens.",
+    "funding": "Full Italian Ministry (MUR) doctoral scholarship of €16,243 per year for three years",
+    "tuition": "€0 tuition fees",
+    "fee": "€140 regional tax",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.unifg.it/it/ricerca/dottorati-di-ricerca",
+    "requirements": {
+      "gpa": "Laurea Magistrale or international Master of Science degree with high standing.",
+      "ielts": "English B2/C1.",
+      "gre": "Not required.",
+      "papers": "Doctoral research project (max 5 pages), master's thesis abstract, CV, and publication record.",
+      "references": "Two academic referee evaluations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6544,
+    "title": "Laurea Magistrale a Ciclo Unico in Medicina e Chirurgia (Policlinico Riuniti)",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Six-year unified qualifying medical degree combining preclinical biomedical foundations with clinical hospital clerkships at Policlinico Riuniti di Foggia.",
+    "funding": "ADISU Puglia need-based bursaries and complete tuition waiver for ISEE < €23,000",
+    "tuition": "€2,200 standard annual maximum fee",
+    "fee": "€140 regional welfare tax",
+    "deadline": "2027-07-20",
+    "deadlineText": "July 20, 2027",
+    "source": "https://www.unifg.it/it/studiare/corsi-di-laurea/medicina-e-chirurgia",
+    "requirements": {
+      "gpa": "High school diploma and passing the national MUR medical entrance exam (TOLC-MED).",
+      "ielts": "Italian C1.",
+      "gre": "National TOLC-MED score.",
+      "papers": "Secondary school certificate, tax code, and admission ranking registration.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6545,
+    "title": "Borsa di Studio di Eccellenza ADISU Puglia per Studenti Internazionali",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Regional welfare scholarship allocated to talented international and non-resident students admitted to degree programs at UniFg based on economic status and academic merit.",
+    "funding": "€6,500 annual living grant, free university accommodation, and complete tuition exemption",
+    "tuition": "100% exempted",
+    "fee": "€0",
+    "deadline": "2027-08-25",
+    "deadlineText": "August 25, 2027",
+    "source": "https://www.adisu.puglia.it/borse-di-studio/",
+    "requirements": {
+      "gpa": "Equivalent ISEE Parificato under €25,000 and good academic standing.",
+      "ielts": "Language certificate corresponding to degree program requirements.",
+      "gre": "Not required.",
+      "papers": "Family income documentation apostilled by Italian consulate, transcript, and enrollment proof.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6546,
+    "title": "Tirocinio Ospedaliero in Chirurgia Mininvasiva e Robotica",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Six-month clinical surgical rotation assisting senior surgeons in da Vinci robotic laparoscopic procedures, oncological resections, and perioperative intensive care.",
+    "funding": "Hospital medical scrub allowance and academic credit accreditation",
+    "tuition": "Included in medical enrollment",
+    "fee": "€0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.unifg.it/it/dipartimenti/dipartimento-di-scienze-mediche-e-chirurgiche",
+    "requirements": {
+      "gpa": "Fifth or sixth year medical student in good clinical standing.",
+      "ielts": "Italian C1.",
+      "gre": "Not required.",
+      "papers": "Medical school transcript, clinical elective agreement, and occupational health clearance.",
+      "references": "Department chair recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6547,
+    "title": "Postdoctoral Fellowship in Precision Smart Agriculture and IoT Sensor Telemetry",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Two-year postdoctoral research appointment developing multispectral drone imaging pipelines, soil moisture sensor arrays, and AI yield prediction models for Apulian durum wheat farms.",
+    "funding": "€26,000 gross annual research fellowship funded by European NextGenerationEU (PNRR)",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.unifg.it/it/ricerca/assegni-di-ricerca",
+    "requirements": {
+      "gpa": "PhD in agricultural engineering, remote sensing, computer engineering, or agronomy.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Doctoral degree certificate, research portfolio, code repositories, and publication list.",
+      "references": "Two international academic references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6548,
+    "title": "Master Universitario di II Livello in Giustizia Penale e Sicurezza Pubblica",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "location": "Foggia, Apulia, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "One-year post-master specialization (60 ECTS) in anti-mafia penal procedure, asset confiscation law, public contract transparency, and judicial ethics.",
+    "funding": "Italian Ministry of Justice training bursaries up to €1,500 for magistracy candidates",
+    "tuition": "€2,000 total master tuition",
+    "fee": "€100 registration fee",
+    "deadline": "2027-11-15",
+    "deadlineText": "November 15, 2027",
+    "source": "https://www.unifg.it/it/dipartimenti/dipartimento-di-giurisprudenza",
+    "requirements": {
+      "gpa": "Laurea Magistrale in Giurisprudenza (LMG-01) with minimum score 100/110.",
+      "ielts": "Italian C1.",
+      "gre": "Not required.",
+      "papers": "Law degree parchment, transcript, CV, and letter of motivation.",
+      "references": "Two letters from law professors or judges."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6549,
+    "title": "Master of Arts in Human Rights and Multi-level Governance (English-Taught)",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-year international master's degree exploring international humanitarian law, transitional justice mechanisms, multi-level human rights accountability, and global civil society mobilization.",
+    "funding": "Padua International Excellence Scholarship providing €8,000 fee waiver plus living allowance",
+    "tuition": "€2,600 per academic year for non-EU scholars (sliding scale for EU)",
+    "fee": "€30 application pre-evaluation fee",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/educational-offer/master-degree-human-rights-multi-level-governance",
+    "requirements": {
+      "gpa": "Bachelor's degree in law, political science, or international studies with minimum 80% equivalent grade.",
+      "ielts": "IELTS 7.0 overall or Cambridge C1 Advanced.",
+      "gre": "Not required.",
+      "papers": "Undergraduate diploma, academic transcript, detailed CV, and 1,000-word statement of purpose.",
+      "references": "Two academic recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6550,
+    "title": "PhD Scholarship in Human Rights, Society, and Multi-level Governance",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-year doctoral fellowship investigating international criminal jurisdiction, climate justice litigation before the ECHR and ICJ, and digital algorithmic surveillance ethics.",
+    "funding": "Full Italian Ministry (MUR) doctoral scholarship of €16,243 per year plus 50% increase for research abroad",
+    "tuition": "€0 tuition fees",
+    "fee": "€140 regional student tax",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/research/phd-programme",
+    "requirements": {
+      "gpa": "Master's degree in law, political science, or philosophy with distinction.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Doctoral research project (max 10 pages), master's thesis abstract, CV, and list of publications.",
+      "references": "Two confidential academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6551,
+    "title": "Antonio Papisca Memorial Fellowship in International Peace Research",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Twelve-month residential research fellowship examining the democratization of the United Nations, human security paradigms, and city-level human rights charters.",
+    "funding": "€20,000 annual postdoctoral research grant plus office space in Padua",
+    "tuition": "Waived",
+    "fee": "€0 application fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/research/postdoc-fellowships",
+    "requirements": {
+      "gpa": "Completed PhD within the preceding 48 months in international law or peace studies.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Research proposal, writing sample, and curriculum vitae.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6552,
+    "title": "UNESCO Chair Human Rights and Democratic Citizenship Summer School Grant",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-week intensive summer academy gathering international legal practitioners, civil society leaders, and graduate students to examine migration corridors and refugee rights.",
+    "funding": "Full €1,500 tuition waiver and university residential college accommodation in Padua",
+    "tuition": "Covered by scholarship",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/educational-offer/summer-school",
+    "requirements": {
+      "gpa": "Enrolled in an undergraduate or master's program in humanities or law.",
+      "ielts": "English B2/C1.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, academic transcript, and 500-word motivation essay.",
+      "references": "One professor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6553,
+    "title": "United Nations Treaty Bodies Practicum and Human Rights Reporting Internship",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Six-month research practicum compiling shadow reports for the UN Universal Periodic Review (UPR), drafting entries for the Italian Human Rights Yearbook, and monitoring ECHR judgments.",
+    "funding": "Erasmus+ Traineeship travel and subsistence grant of €750 monthly",
+    "tuition": "€0",
+    "fee": "€0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/internships/",
+    "requirements": {
+      "gpa": "Current graduate student in Padua Human Rights master's program.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Resume, sample legal research memo, and academic grade report.",
+      "references": "Centre faculty director approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6554,
+    "title": "Laurea Triennale in Scienze Politiche, Relazioni Internazionali e Diritti Umani",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-year undergraduate program providing foundational training in public international law, political theory, European Union constitutional institutions, and universal human rights.",
+    "funding": "Veneto regional ESU student bursary up to €6,000 for qualifying family incomes",
+    "tuition": "€2,400 standard maximum annual tuition (sliding scale based on ISEE)",
+    "fee": "€140 regional welfare tax",
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/educational-offer/bachelor-degree",
+    "requirements": {
+      "gpa": "Secondary school graduation diploma.",
+      "ielts": "Italian B2 and English B1.",
+      "gre": "TOLC-E or TOLC-SPS aptitude test.",
+      "papers": "High school certificate and identification document.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6555,
+    "title": "Certificate in International Humanitarian Law & Armed Conflict Protection",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "location": "Padua, Veneto, Italy",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Eight-week executive training course for diplomats, military legal advisors, and humanitarian workers covering the Geneva Conventions, customary IHL, and rules of engagement.",
+    "funding": "Red Cross (CRI) and military personnel professional development subsidies",
+    "tuition": "€850 total course tuition",
+    "fee": "€30 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://unipd-centrodirittiumani.it/en/courses/",
+    "requirements": {
+      "gpa": "Bachelor's degree or professional background in international affairs or law enforcement.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and professional biography.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6556,
+    "title": "Laurea Magistrale a Ciclo Unico in Giurisprudenza (LMG-01)",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Five-year unified master's curriculum in civil law, penal procedure, administrative jurisprudence, and European Union commercial litigation.",
+    "funding": "Corporate partnerships offering up to 30% reduction on annual tuition fees",
+    "tuition": "€2,200 per academic year",
+    "fee": "€140 regional welfare tax",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://uni.puglia.it/corsi-di-laurea/giurisprudenza/",
+    "requirements": {
+      "gpa": "High school graduation diploma (Maturità) or international equivalent.",
+      "ielts": "Italian B2 proficiency.",
+      "gre": "Not required.",
+      "papers": "High school transcript, tax code, and personal identification.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6557,
+    "title": "Laurea Triennale in Scienze delle Attività Motorie e Sportive (L-22)",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Three-year undergraduate program in kinesiology, biomechanics, exercise physiology, sports nutrition, and athletic training methodology.",
+    "funding": "CONI athletic excellence bursary of €1,000 for competitive sports participants",
+    "tuition": "€2,000 per academic year",
+    "fee": "€140 regional tax",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://uni.puglia.it/corsi-di-laurea/scienze-motorie/",
+    "requirements": {
+      "gpa": "Diploma di Maturità or equivalent secondary school diploma.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Medical certificate of fitness for non-competitive athletic activity and diploma copy.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6558,
+    "title": "Master Universitario di I Livello in Management Sanitario e Direzione di Strutture Complesse",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "One-year professional university master (60 ECTS) training head nurses, clinic coordinators, and hospital administrators in health economics, clinical risk management, and privacy law.",
+    "funding": "Healthcare worker continuing medical education (ECM) tax deduction eligible",
+    "tuition": "€1,600 total master tuition",
+    "fee": "€100 registration fee",
+    "deadline": "2027-11-30",
+    "deadlineText": "November 30, 2027",
+    "source": "https://uni.puglia.it/master/management-sanitario/",
+    "requirements": {
+      "gpa": "Undergraduate degree in nursing, medicine, economics, or jurisprudence.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Degree parchment, curriculum vitae, and professional license.",
+      "references": "One professional reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6559,
+    "title": "Borsa di Studio 'Futuro Giovani' per Merito Accademico in Puglia",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Competitive merit scholarship co-funded by regional enterprises recognizing students entering economics or law with outstanding secondary school graduation scores.",
+    "funding": "€2,000 grant reducing annual enrollment tuition fees for high-achieving undergraduates",
+    "tuition": "Subsidized through merit award",
+    "fee": "€0 scholarship fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://uni.puglia.it/borse-di-studio/",
+    "requirements": {
+      "gpa": "Secondary school graduation grade of at least 95/100.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "High school diploma with grade certificate, CV, and statement of goals.",
+      "references": "One high school teacher recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6560,
+    "title": "Tirocinio Pratico in Consulenza Aziendale e Diritto del Lavoro",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Six-month practicum at chartered labor law and accountancy practices in Bari, auditing payroll architectures, collective bargaining agreements, and corporate tax compliance.",
+    "funding": "Monthly stipend of €600 funded by regional labor consultancy chambers",
+    "tuition": "€0",
+    "fee": "€0",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://uni.puglia.it/tirocini/",
+    "requirements": {
+      "gpa": "Enrolled in fourth or fifth year of Law or third year of Economics.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Academic transcript and curriculum vitae.",
+      "references": "Faculty advisor approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6561,
+    "title": "Borsa di Ricerca in Diritto del Lavoro e Nuove Forme di Lavoro Digitale",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "One-year postgraduate fellowship examining gig economy platform labor contracts, algorithmic workplace management, and collective representation of remote workers.",
+    "funding": "€12,000 annual research fellowship",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://uni.puglia.it/ricerca/",
+    "requirements": {
+      "gpa": "Master's degree in Law or Political Science with grade 108/110 or higher.",
+      "ielts": "Italian C1 and English B2.",
+      "gre": "Not required.",
+      "papers": "Research project proposal (max 2,000 words), CV, and thesis abstract.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6562,
+    "title": "Corso di Perfezionamento in Mediazione Familiare e Tutela dei Minori",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "location": "Bari, Apulia, Italy",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Six-month professional certificate recognized by the Italian National Association of Family Mediators (A.I.Me.F.) covering parental conflict resolution and court custody mediation.",
+    "funding": "Order of Social Workers (Ordine degli Assistenti Sociali) continuous credits",
+    "tuition": "€750 total course tuition",
+    "fee": "€40 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://uni.puglia.it/corsi-perfezionamento/",
+    "requirements": {
+      "gpa": "Degree in law, psychology, social work, or educational sciences.",
+      "ielts": "Italian B2.",
+      "gre": "Not required.",
+      "papers": "Application form, degree certificate, and CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6563,
+    "title": "Associate of Science in Cybersecurity and Network Administration",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Bachelor's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Two-year NSA-designated curriculum preparing technicians in ethical penetration testing, Cisco network architectures, Linux firewall defense, and digital incident response.",
+    "funding": "Idaho Opportunity Scholarship providing up to $3,500 per year for Idaho residents",
+    "tuition": "$143 per credit (in-district) / $314 per credit (out-of-state/international)",
+    "fee": "$25 one-time application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://cwi.edu/program/cybersecurity",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent.",
+      "ielts": "IELTS 6.0 or TOEFL iBT 68 for international applicants.",
+      "gre": "Not required.",
+      "papers": "High school transcripts and college placement assessment scores.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6564,
+    "title": "Associate of Science in Registered Nursing (ADN Healthcare Pathway)",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "ACEN-accredited two-year associate degree combining clinical hospital simulations with direct patient care rotations at St. Luke's Health System and Saint Alphonsus.",
+    "funding": "Idaho Nursing Workforce Scholarship offering up to $4,000 annually",
+    "tuition": "$4,200 per academic year (in-district)",
+    "fee": "$50 nursing testing and application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://cwi.edu/program/registered-nursing",
+    "requirements": {
+      "gpa": "Minimum 2.5 prerequisite GPA in Anatomy, Physiology, and Microbiology.",
+      "ielts": "IELTS 6.5 for international students.",
+      "gre": "TEAS exam score above 65%.",
+      "papers": "Official transcripts, background check, and proof of required immunizations.",
+      "references": "Two professional reference evaluations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6565,
+    "title": "CWI Presidential Honors Academic Scholarship",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit-based award recognizing incoming freshman scholars who demonstrate exceptional high school scholastic excellence, leadership, and community service.",
+    "funding": "$2,500 annual tuition credit and membership in the CWI Honors College",
+    "tuition": "Applied directly to tuition account",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://cwi.edu/scholarships",
+    "requirements": {
+      "gpa": "Minimum 3.5 cumulative high school GPA.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "High school transcript, resume of leadership activities, and 500-word essay.",
+      "references": "Two letters of recommendation from educators."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6566,
+    "title": "Micron Technology Advanced Mechatronics and Semiconductor Practicum",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Sixteen-week industrial internship at Micron's Boise semiconductor research and fabrication complex, maintaining automated wafer robotics and programmable logic controllers (PLCs).",
+    "funding": "Paid semiconductor cleanroom work term at $22.50 per hour with tuition reimbursement",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://cwi.edu/program/advanced-mechatronics-engineering-technology",
+    "requirements": {
+      "gpa": "Enrolled in CWI Mechatronics or Electrical Engineering program with minimum 3.0 GPA.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "Resume, unofficial transcript, and clean drug screening.",
+      "references": "Faculty department lead recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6567,
+    "title": "Associate of Science in Biotechnology and Laboratory Techniques",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Applied two-year laboratory degree training technicians in recombinant DNA cloning, protein purification chromatography, PCR diagnostics, and aseptic cell culture.",
+    "funding": "NSF S-STEM Biomanufacturing scholarship grants up to $5,000 annually",
+    "tuition": "$3,432 per academic year (in-district)",
+    "fee": "$25 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://cwi.edu/program/biotechnology",
+    "requirements": {
+      "gpa": "High school biology and chemistry with grade 'C' or higher.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "High school transcripts and placement scores.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6568,
+    "title": "Idaho INBRE Undergraduate Biomedical Research Fellowship",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Competitive summer research fellowship placing CWI science students in NIH-funded biomedical laboratories at Boise State University or University of Idaho.",
+    "funding": "$6,000 ten-week summer research stipend funded by the National Institutes of Health (NIH)",
+    "tuition": "Full fellowship waiver",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://cwi.edu/academics/undergraduate-research",
+    "requirements": {
+      "gpa": "Minimum 3.0 GPA in college science coursework.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "College transcript, 750-word personal statement, and CV.",
+      "references": "Two science faculty reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6569,
+    "title": "Certificate in Cloud Architecture & AWS Solutions Architecture",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "location": "Nampa, Idaho, United States",
+    "type": "Course",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Twelve-week intensive certificate preparing cloud technicians for the AWS Certified Solutions Architect Associate exam, covering EC2, S3, IAM, and VPC infrastructure.",
+    "funding": "Idaho Launch workforce voucher covering up to 80% of program cost",
+    "tuition": "$1,250 total course cost",
+    "fee": "$20 registration fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://cwi.edu/workforce-development",
+    "requirements": {
+      "gpa": "Basic networking or computing proficiency.",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Registration application.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6570,
+    "title": "Bachelor of Science in Nursing (BSN - CCNE Accredited)",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Four-year comprehensive nursing degree featuring cutting-edge simulation laboratories, pediatric clinicals at Children's Hospital Colorado, and NCLEX-RN preparation.",
+    "funding": "CCU Nursing Merit Scholarship up to $16,000 annually across four years",
+    "tuition": "$37,980 per academic year",
+    "fee": "$50 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ccu.edu/undergraduate/programs/nursing/",
+    "requirements": {
+      "gpa": "Minimum 3.0 cumulative high school GPA with strong chemistry and biology.",
+      "ielts": "IELTS 6.5 or TOEFL iBT 80.",
+      "gre": "TEAS exam composite score 70% or higher.",
+      "papers": "High school transcript, spiritual testimony essay, and immunization records.",
+      "references": "Two letters of recommendation (one academic, one pastor/mentor)."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6571,
+    "title": "Master of Business Administration in Healthcare Administration",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Accelerated online or hybrid MBA investigating healthcare financial management, health law compliance, medical staff leadership, and faith-integrated executive ethics.",
+    "funding": "Graduate Dean's Scholarship offering up to $4,000 total tuition discount",
+    "tuition": "$650 per credit hour (36 credit hours total)",
+    "fee": "$50 graduate application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.ccu.edu/cags/programs/mba/",
+    "requirements": {
+      "gpa": "Undergraduate degree from an accredited institution with minimum 2.8 GPA.",
+      "ielts": "IELTS 6.5 or TOEFL 79.",
+      "gre": "Not required.",
+      "papers": "Official undergraduate transcripts, resume, and statement of educational objectives.",
+      "references": "Two professional reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6572,
+    "title": "CCU Trustee and President's Full-Tuition Scholarship",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Premier competitive scholarship awarded to top prospective high school graduates demonstrating academic excellence, spiritual character, and campus leadership.",
+    "funding": "Full tuition coverage valued at approximately $152,000 over four undergraduate years",
+    "tuition": "100% covered",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ccu.edu/financialaid/scholarships/",
+    "requirements": {
+      "gpa": "Minimum 3.8 unweighted high school GPA.",
+      "ielts": "Fluent English.",
+      "gre": "SAT 1300+ or ACT 28+ recommended.",
+      "papers": "Scholarship essay, resume of leadership and ministry service, and transcript.",
+      "references": "Two academic letters and one pastoral recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6573,
+    "title": "Centennial Institute Public Policy & Constitutional Law Fellowship",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "One-year residential policy fellowship researching originalist constitutional interpretation, religious freedom jurisprudence, and federalism at CCU's Centennial Institute think tank.",
+    "funding": "$10,000 annual academic stipend plus VIP participation in the Western Conservative Summit",
+    "tuition": "Full fellowship waiver",
+    "fee": "$0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://centennial.ccu.edu/fellows/",
+    "requirements": {
+      "gpa": "Undergraduate or graduate degree in political science, history, or law with minimum 3.5 GPA.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, 1,500-word policy writing sample, and statement of constitutional worldview.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6574,
+    "title": "Denver Health & Medical Systems Clinical Psychology Practicum",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Nine-month CACREP-aligned supervised clinical internship conducting individual psychotherapy, psychiatric diagnostic assessment, and cognitive behavioral trauma therapy in Denver.",
+    "funding": "Paid graduate clinical placement with stipend of $2,000 monthly",
+    "tuition": "Credit included in graduate tuition",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ccu.edu/cags/programs/master-clinical-mental-health-counseling/",
+    "requirements": {
+      "gpa": "Enrolled in CCU Master of Arts in Clinical Mental Health Counseling with 30+ completed credits.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Clinical readiness evaluation, transcript, and Colorado background clearance.",
+      "references": "Practicum director authorization."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6575,
+    "title": "Doctor of Ministry in Strategic Leadership and Church Multiplication",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-year cohort-based doctoral curriculum emphasizing organizational theology, missional leadership structures, cross-cultural church planting, and major dissertation research.",
+    "funding": "Ministry partner grants providing up to $5,000 in doctoral tuition assistance",
+    "tuition": "$595 per credit hour (30 credit hours total)",
+    "fee": "$75 application fee",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.ccu.edu/cags/programs/doctor-of-ministry/",
+    "requirements": {
+      "gpa": "Master of Divinity (M.Div.) or equivalent theological master's degree with minimum 3.0 GPA.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Major theological writing sample, ministry resume with at least 3 years ministry experience.",
+      "references": "Three reference letters (two pastoral, one academic)."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6576,
+    "title": "Certificate in Cyber Warfare Defense and Threat Intelligence",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "location": "Lakewood, Colorado, United States",
+    "type": "Course",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Fourteen-week professional certificate covering MITRE ATT&CK frameworks, SIEM log monitoring, malware reverse engineering, and defensive cloud hardening.",
+    "funding": "Military tuition assistance (GI Bill) and corporate education discount eligible",
+    "tuition": "$2,100 total certificate cost",
+    "fee": "$30 application fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.ccu.edu/cags/programs/certificate-cybersecurity/",
+    "requirements": {
+      "gpa": "High school diploma or bachelor's degree with IT background.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Application form and resume.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6577,
+    "title": "Bachelor of Science in Ecosystem Science and Ecological Restoration",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Four-year field-intensive degree examining mine site revegetation, subalpine hydrology, wildfire recovery ecology, and wildlife conservation in the Upper Arkansas River watershed.",
+    "funding": "CMC Mountain Scholar Grant offering up to $4,000 annually for STEM field research",
+    "tuition": "$2,640 (in-district) / $11,520 (non-resident/international) per academic year",
+    "fee": "$0 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://coloradomtn.edu/programs/ecosystem-science-stewardship/",
+    "requirements": {
+      "gpa": "High school diploma with minimum 2.5 GPA and preparatory science coursework.",
+      "ielts": "IELTS 6.0 or TOEFL iBT 61.",
+      "gre": "Not required.",
+      "papers": "Transcripts and brief statement of environmental commitment.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6578,
+    "title": "Associate of Applied Science in Ski Area Operations (SAO)",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Industry-leading two-year polytechnic program training mountain resort directors in ropeway lift mechanics, snowmaking thermodynamic automation, trail design, and slope safety.",
+    "funding": "National Ski Areas Association (NSAA) industry scholarships up to $2,500",
+    "tuition": "$3,120 (in-district) / $10,800 (non-resident) per year",
+    "fee": "$0 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://coloradomtn.edu/programs/ski-area-operations/",
+    "requirements": {
+      "gpa": "High school graduation or GED equivalent.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "High school transcript, driver's license, and ski/snowboard experience summary.",
+      "references": "One reference letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6579,
+    "title": "High-Altitude Physiology & Alpine Extreme Medicine Fellowship",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Four-month research fellowship at 10,152 ft investigating acute mountain sickness (AMS) etiology, hypoxic pulmonary vasoconstriction, and cold weather field resuscitation.",
+    "funding": "$15,000 summer research grant funded by the Wilderness Medical Society",
+    "tuition": "Full fellowship waiver",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://coloradomtn.edu/campuses/leadville/academics/",
+    "requirements": {
+      "gpa": "Graduate standing in physiology, sports science, or medical degree.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Research prospectus, wilderness medicine certification, and CV.",
+      "references": "Two academic referee recommendations."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6580,
+    "title": "Leadville 100 Legacy Foundation Mountain Scholarship",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Endowed community scholarship awarded to Leadville campus students dedicated to Lake County civic volunteerism, trail conservation, and academic persistence.",
+    "funding": "$5,000 annual scholarship funded by the Life Time Foundation Leadville Trail 100",
+    "tuition": "Applied towards campus housing and tuition",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://coloradomtn.edu/scholarships/",
+    "requirements": {
+      "gpa": "Minimum 2.75 cumulative GPA.",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Transcript, resume of Lake County community engagement, and personal essay.",
+      "references": "One community leader recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6581,
+    "title": "Rocky Mountain Avalanche Forecasting & Snowpack Mechanics Practicum",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Five-month winter fieldwork observing snow pit crystal metamorphosis, Rutschblock shear stability testing, and regional backcountry hazard bulletin modeling.",
+    "funding": "Paid winter work term with the Colorado Avalanche Information Center (CAIC) at $20/hour",
+    "tuition": "Course credit included in semester fee",
+    "fee": "$0",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://coloradomtn.edu/programs/avalanche-science/",
+    "requirements": {
+      "gpa": "Enrolled in Avalanche Science or Ecosystem Science program; AIARE Level 1 pass.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Resume, avalanche course logs, and backcountry ski touring resume.",
+      "references": "Faculty avalanche program coordinator letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6582,
+    "title": "Associate of Science in Outdoor Education and Backcountry Wilderness Leadership",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Two-year wilderness leadership program providing Wilderness First Responder (WFR), Leave No Trace Master Educator, alpine mountaineering, and swiftwater rescue certifications.",
+    "funding": "Wilderness Education Association (WEA) grant subsidies up to $1,800",
+    "tuition": "$2,640 (in-district) / $9,900 (non-resident) per year",
+    "fee": "$0",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://coloradomtn.edu/programs/outdoor-education/",
+    "requirements": {
+      "gpa": "High school diploma or equivalent.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "Physical readiness medical clearance and high school transcript.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6583,
+    "title": "Certificate in High-Altitude Solar PV Microgrids & Remote Battery Energy",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "location": "Leadville, Colorado, United States",
+    "type": "Course",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Eight-week technical training course in off-grid solar installation, extreme cold temperature battery chemistry (LiFePO4), and mountain microgrid power telemetry.",
+    "funding": "Colorado Energy Office clean workforce grant subsidies up to 50%",
+    "tuition": "$1,450 total certificate tuition",
+    "fee": "$25 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://coloradomtn.edu/programs/sustainability-studies/",
+    "requirements": {
+      "gpa": "High school completion or trade experience in electrical/mechanical fields.",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Registration form.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6584,
+    "title": "Bachelor of Science in Computer Science and Software Engineering (Online)",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "120-credit asynchronous online bachelor's degree covering full-stack software development, relational database architectures, algorithms in Java and C++, and cloud security.",
+    "funding": "CSU Global Tuition Freeze Guarantee ensuring rates never increase while enrolled",
+    "tuition": "$375 per credit hour ($1,125 per 3-credit course)",
+    "fee": "$25 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://csuglobal.edu/undergraduate/bachelors-degrees/computer-science",
+    "requirements": {
+      "gpa": "High school completion or 12+ transfer credits with minimum 2.0 GPA.",
+      "ielts": "IELTS 6.0 or TOEFL iBT 70.",
+      "gre": "Not required.",
+      "papers": "Official transcripts and completion of online application.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6585,
+    "title": "Master of Science in Cybersecurity and Enterprise Risk Governance",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Master's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "36-credit master's program focused on advanced threat detection, cloud security compliance, ethical hacking, digital incident response, and executive security policy.",
+    "funding": "NSA Center of Academic Excellence in Cyber Defense designation scholarship eligible",
+    "tuition": "$500 per credit hour ($1,500 per 3-credit course)",
+    "fee": "$25 application fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://csuglobal.edu/graduate/masters-degrees/cybersecurity",
+    "requirements": {
+      "gpa": "Bachelor's degree from an accredited institution with minimum 2.8 GPA.",
+      "ielts": "IELTS 6.0 or TOEFL 70.",
+      "gre": "Not required.",
+      "papers": "Official undergraduate transcripts, resume, and statement of purpose.",
+      "references": "Two professional reference contacts."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6586,
+    "title": "Master of Science in Project Management (PMI-GAC Accredited)",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Globally accredited graduate degree preparing senior project leaders in agile scrum frameworks, risk mitigation, global portfolio scheduling, and PMP exam mastery.",
+    "funding": "Project Management Institute (PMI) educational foundation tuition vouchers",
+    "tuition": "$500 per credit hour",
+    "fee": "$25 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://csuglobal.edu/graduate/masters-degrees/project-management",
+    "requirements": {
+      "gpa": "Bachelor's degree with minimum 2.8 cumulative GPA.",
+      "ielts": "IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "Transcripts, professional resume, and 500-word statement of intent.",
+      "references": "Two professional references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6587,
+    "title": "CSU Global Resiliency & First-Generation Scholar Grant",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Needs-informed merit scholarship supporting adult first-generation university students pursuing undergraduate or graduate degrees to elevate socioeconomic mobility.",
+    "funding": "$2,000 tuition grant awarded directly towards online coursework credits",
+    "tuition": "Applied against course tuition",
+    "fee": "$0 scholarship fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://csuglobal.edu/cost-financial-aid/scholarships",
+    "requirements": {
+      "gpa": "Minimum 3.0 GPA in completed CSU Global coursework or previous college transcripts.",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Scholarship essay detailing personal overcoming narrative and career goals.",
+      "references": "One professional or academic recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6588,
+    "title": "Virtual Cybersecurity Security Operations Center (SOC) Practicum",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Twelve-week virtual work-integrated learning placement triaging enterprise SIEM alerts, vulnerability scans, and security incident ticketing for partner public agencies.",
+    "funding": "Paid virtual apprenticeship stipend of $1,800 monthly with enterprise cloud partners",
+    "tuition": "Course credit tuition applies",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://csuglobal.edu/student-life/career-center",
+    "requirements": {
+      "gpa": "Completion of at least 15 credits in the MS Cybersecurity program.",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Resume and faculty SOC supervisor endorsement.",
+      "references": "Program director reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6589,
+    "title": "Doctoral Research Fellowship in Digital Pedagogy & Adult Distance Learning",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Three-year collaborative doctoral program investigating generative AI in asynchronous grading, student engagement metrics, and adaptive learning courseware.",
+    "funding": "$24,000 annual research assistantship in collaboration with Colorado State University Fort Collins",
+    "tuition": "Full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://csuglobal.edu/about/academics",
+    "requirements": {
+      "gpa": "Master's degree in education, computer science, or psychology with minimum 3.5 GPA.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Doctoral research prospectus, master's thesis or writing sample, and CV.",
+      "references": "Three academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6590,
+    "title": "Certificate in Strategic Human Resource and Organizational Analytics",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "location": "Aurora, Colorado, United States",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Fifteen-credit graduate certificate in human capital metrics, workforce turnover predictive analytics, compensation design, and executive talent pipelining.",
+    "funding": "SHRM professional recertification credits and employer tuition assistance",
+    "tuition": "$2,500 total certificate cost",
+    "fee": "$25 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://csuglobal.edu/graduate/certificates/human-resource-performance",
+    "requirements": {
+      "gpa": "Bachelor's degree in business, psychology, or related field.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Application form and undergraduate transcript.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6591,
+    "title": "Bachelor of Science in Computer Engineering (ABET-Accredited)",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited program in embedded systems design, VLSI digital logic, microcontroller architecture, robotic hardware interfaces, and real-time firmware development.",
+    "funding": "CTU Patriot Scholarship and Corporate Partner educational grants up to $10,000",
+    "tuition": "$340 per credit hour ($12,240 estimated per academic year)",
+    "fee": "$50 application fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.coloradotech.edu/degrees/bachelors/computer-engineering",
+    "requirements": {
+      "gpa": "High school diploma or GED with strong performance in mathematics (algebra, trigonometry).",
+      "ielts": "IELTS 6.5 or TOEFL iBT 79.",
+      "gre": "Not required.",
+      "papers": "High school transcripts and proof of identification.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6592,
+    "title": "Master of Science in Cybersecurity - Computer Systems Security",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "Master's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-recognized master's degree focusing on software vulnerability exploitation, cryptographic system design, network intrusion telemetry, and enterprise incident mitigation.",
+    "funding": "DoD Cyber Scholarship Program (CySP) full-ride eligible for qualifying scholars",
+    "tuition": "$510 per credit hour (48 credit hours total)",
+    "fee": "$50 graduate application fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.coloradotech.edu/degrees/masters/cybersecurity",
+    "requirements": {
+      "gpa": "Bachelor's degree in computer science, engineering, or related discipline with minimum 2.5 GPA.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "Official undergraduate transcripts, technical resume, and statement of goals.",
+      "references": "Two professional reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6593,
+    "title": "Doctor of Computer Science in Enterprise Information Systems",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "PhD",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Three-year applied terminal doctorate emphasizing big data analytics architectures, enterprise AI integration, cloud database scalability, and doctoral dissertation defense.",
+    "funding": "Doctoral research assistantships and CTU Faculty Development Scholarships up to $6,000",
+    "tuition": "$610 per credit hour (96 quarter credit hours total)",
+    "fee": "$75 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.coloradotech.edu/degrees/doctoral/computer-science",
+    "requirements": {
+      "gpa": "Master's degree in computer science, software engineering, or information systems with minimum 3.0 GPA.",
+      "ielts": "IELTS 7.0 or TOEFL 85.",
+      "gre": "Not required.",
+      "papers": "Master's transcripts, comprehensive resume, and 1,000-word proposed dissertation research outline.",
+      "references": "Two professional or academic recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6594,
+    "title": "CTU Patriot Military and Veteran Full-Tuition Scholarship",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Nationally recognized full-ride scholarship honoring active-duty service members, wounded veterans, and their spouses across any degree discipline.",
+    "funding": "50 full-tuition scholarships awarded annually covering complete degree tuition and laptop",
+    "tuition": "100% covered",
+    "fee": "$0",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.coloradotech.edu/military/patriot-scholarship",
+    "requirements": {
+      "gpa": "Verified military service record (DD-214 or active duty orders).",
+      "ielts": "English proficiency.",
+      "gre": "Not required.",
+      "papers": "Military service documentation, essay, and transcripts.",
+      "references": "Commanding officer or supervisor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6595,
+    "title": "Aerospace Defense Contractor Software Engineering Practicum",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Six-month practicum at aerospace defense facilities developing flight telemetry software, satellite communication links, and secure embedded Linux device drivers.",
+    "funding": "Paid technical practicum at $26.00 to $32.00 per hour with defense contractors in Colorado Springs",
+    "tuition": "Curricular credit applies",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.coloradotech.edu/student-life/career-services",
+    "requirements": {
+      "gpa": "Enrolled in BS or MS in Computer Science or Computer Engineering with 3.0+ GPA.",
+      "ielts": "US citizenship required for security clearance positions.",
+      "gre": "Not required.",
+      "papers": "Resume, transcript, and background security questionnaire.",
+      "references": "Faculty advisor approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6596,
+    "title": "Doctor of Management in Healthcare Management & Leadership",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Applied executive doctorate training senior healthcare leaders in clinical operations optimization, healthcare informatics policy, regulatory compliance, and health equity.",
+    "funding": "Executive health leadership grant of $4,500 towards dissertation credit completion",
+    "tuition": "$610 per credit hour",
+    "fee": "$75 application fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.coloradotech.edu/degrees/doctoral/management/healthcare",
+    "requirements": {
+      "gpa": "Master's degree in health administration, business, or nursing with minimum 3.0 GPA.",
+      "ielts": "IELTS 7.0.",
+      "gre": "Not required.",
+      "papers": "Official master's transcripts, professional CV, and research statement.",
+      "references": "Two professional references from healthcare executives."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6597,
+    "title": "Certificate in Cloud Native DevOps and Kubernetes Automation",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "Course",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Ten-week technical course in CI/CD pipeline automation (GitLab, Jenkins), Docker containerization, Kubernetes cluster orchestration, and infrastructure as code (Terraform).",
+    "funding": "Corporate education reimbursement eligible",
+    "tuition": "$1,850 total course fee",
+    "fee": "$25 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://www.coloradotech.edu/degrees/certificates",
+    "requirements": {
+      "gpa": "Background in Linux systems administration or programming.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Online registration form and resume.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6598,
+    "title": "School of Global Japanese Studies (SGJS) English-Taught Bachelor Degree",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Four-year English-taught bachelor's curriculum investigating contemporary Japanese pop culture, manga and anime media economics, traditional social structures, and international relations.",
+    "funding": "Meiji University International Student Tuition Reduction (30% to 50% tuition waiver)",
+    "tuition": "¥1,320,000 per academic year",
+    "fee": "¥35,000 application fee",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.meiji.ac.jp/cip/english/prospective/sgjs.html",
+    "requirements": {
+      "gpa": "High school graduation certificate with strong humanities GPA.",
+      "ielts": "IELTS 6.5 overall or TOEFL iBT 80.",
+      "gre": "Not required.",
+      "papers": "High school transcripts, 800-word statement of purpose, and passport copy.",
+      "references": "Two academic evaluation letters from high school instructors."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6599,
+    "title": "MEXT Japanese Government University Recommendation Scholarship",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Premier Monbukagakusho (MEXT) scholarship awarded to outstanding international graduate researchers admitted to master's or doctoral programs at Meiji University.",
+    "funding": "Full tuition waiver, round-trip Tokyo airfare, and monthly stipend of ¥144,000 to ¥145,000",
+    "tuition": "100% exempted by Japanese Government",
+    "fee": "¥0 application fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.meiji.ac.jp/cip/english/prospective/financial.html",
+    "requirements": {
+      "gpa": "Minimum 3.2/4.0 GPA in prior university degree studies.",
+      "ielts": "IELTS 6.5 or JLPT N1.",
+      "gre": "Not required.",
+      "papers": "Detailed academic research plan in Japan, certified degree transcripts, and CV.",
+      "references": "Dean or provost formal institutional recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6600,
+    "title": "Master of Arts in Comparative Literature and Cultural Philosophy",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Two-year graduate thesis curriculum in the Graduate School of Letters exploring modern East-West comparative aesthetics, post-war Japanese literary theory, and translation philosophy.",
+    "funding": "Meiji University Graduate School Scholarship providing ¥400,000 annual research grant",
+    "tuition": "¥890,000 per academic year",
+    "fee": "¥35,000 examination fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.meiji.ac.jp/cip/english/graduate/letters/",
+    "requirements": {
+      "gpa": "Bachelor's degree in literature, philosophy, or cultural studies.",
+      "ielts": "Japanese JLPT N1 (score 140+) or English C1.",
+      "gre": "Not required.",
+      "papers": "Undergraduate thesis, 2,000-word proposed master's research plan, and transcript.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6601,
+    "title": "Doctor of Philosophy in Political Science and Constitutional Governance",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-year doctoral curriculum examining Article 9 constitutional jurisprudence, Indo-Pacific security architecture, comparative electoral systems, and parliamentary governance.",
+    "funding": "JSPS Research Fellowship (DC1/DC2) providing ¥200,000 monthly stipend plus research grant",
+    "tuition": "¥750,000 per academic year (offset by doctoral fee waivers)",
+    "fee": "¥35,000 entrance examination fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.meiji.ac.jp/cip/english/graduate/law/",
+    "requirements": {
+      "gpa": "Master's degree in political science, law, or public administration.",
+      "ielts": "JLPT N1 and English B2/C1.",
+      "gre": "Not required.",
+      "papers": "Master's thesis copy, three-year dissertation research project, and academic CV.",
+      "references": "Two professorial recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6602,
+    "title": "Izumi Media Library Digital Humanities Curation Internship",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "arts-design"
+    ],
+    "desc": "Six-month digital archival practicum digitizing rare Edo period woodblock prints, creating IIIF image manifests, and organizing interactive learning exhibits for the Izumi Library.",
+    "funding": "Paid university student assistantship at ¥1,250 per hour",
+    "tuition": "Curricular credit eligible",
+    "fee": "¥0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.meiji.ac.jp/library/izumi/",
+    "requirements": {
+      "gpa": "Enrolled in sophomore year or higher at Meiji University.",
+      "ielts": "Japanese B2 or English B2.",
+      "gre": "Not required.",
+      "papers": "Student ID, resume, and statement of digital archiving interest.",
+      "references": "Faculty advisor approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6603,
+    "title": "Manga, Anime, and Digital Content Industry Research Fellowship",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Twelve-month visiting researcher fellowship investigating global anime distribution platforms, intellectual property licensing in Japanese creative media, and fan ethnography.",
+    "funding": "¥1,800,000 annual research fellowship through the Tokyo Manga and Subculture Research Institute",
+    "tuition": "Waived",
+    "fee": "¥0 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.meiji.ac.jp/manga/",
+    "requirements": {
+      "gpa": "PhD or active doctoral candidacy in media studies, sociology, or Japanese studies.",
+      "ielts": "Fluent English and conversational Japanese.",
+      "gre": "Not required.",
+      "papers": "Research proposal (max 3,000 words), writing sample, and CV.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6604,
+    "title": "Certificate in Japanese Legal Terminology and Administrative Translation",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "location": "Suginami-ku, Tokyo, Japan",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Ten-week evening intensive program for legal translators and foreign paralegals covering the Japanese Civil Code (Minpo), commercial contract terms, and immigration administrative filings.",
+    "funding": "Corporate employee continuing legal education eligible",
+    "tuition": "¥160,000 total course fee",
+    "fee": "¥10,000 registration fee",
+    "deadline": "2027-09-10",
+    "deadlineText": "September 10, 2027",
+    "source": "https://www.meiji.ac.jp/shikaku/",
+    "requirements": {
+      "gpa": "JLPT N1 or equivalent advanced Japanese reading proficiency.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and JLPT certificate.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6605,
+    "title": "Bachelor of Science in Food and Nutritional Sciences (Registered Dietitian Track)",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Four-year comprehensive curriculum training registered national dietitians (Kanri Eiyoshi) in clinical medical nutrition, biochemical metabolism, community health promotion, and food safety.",
+    "funding": "Miyagi Gakuin Margaretta Foundation Scholarship offering ¥300,000 annual tuition reduction",
+    "tuition": "¥1,380,000 per academic year (including laboratory fees)",
+    "fee": "¥30,000 entrance examination fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.mgu.ac.jp/dept/fns/",
+    "requirements": {
+      "gpa": "High school graduation diploma with strong biology and chemistry grades.",
+      "ielts": "Japanese JLPT N2 or EJU Japanese score 220+.",
+      "gre": "Not required.",
+      "papers": "High school transcripts, graduation certificate, and personal motivation essay.",
+      "references": "One high school principal or science teacher recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6606,
+    "title": "Bachelor of Arts in Music Performance and Musicology",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Four-year performance degree in piano, vocal arts, orchestral strings, or pipe organ, featuring regular masterclasses, chamber music recitals, and music therapy certification.",
+    "funding": "MGWU Musical Talent Scholarship awarding up to ¥500,000 towards private studio lessons",
+    "tuition": "¥1,580,000 per academic year",
+    "fee": "¥35,000 audition and application fee",
+    "deadline": "2027-02-10",
+    "deadlineText": "February 10, 2027",
+    "source": "https://www.mgu.ac.jp/dept/music/",
+    "requirements": {
+      "gpa": "High school diploma and passing practical music audition.",
+      "ielts": "Japanese JLPT N2.",
+      "gre": "Not required.",
+      "papers": "Repertoire list, audition recording (for preliminary screening), and transcripts.",
+      "references": "Studio music instructor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6607,
+    "title": "Master of Arts in Human Life Sciences & Community Nutrition",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Master's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Two-year graduate thesis investigating functional food phytochemicals, elderly dysphagia meal design, and post-disaster food supply resilience in the Tohoku region.",
+    "funding": "Tohoku Regional Nutrition Research Grant providing ¥400,000 annual research allowance",
+    "tuition": "¥790,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mgu.ac.jp/graduate/",
+    "requirements": {
+      "gpa": "Bachelor's degree in nutrition, food science, nursing, or biological sciences.",
+      "ielts": "JLPT N1 or English B2.",
+      "gre": "Not required.",
+      "papers": "Undergraduate transcript, graduation certificate, and 2,000-character research outline.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6608,
+    "title": "Miyagi Gakuin International Women Leaders Peace Scholarship",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Merit scholarship awarded to international female scholars from Southeast Asia and East Asia committed to peace education, gender equity, and intercultural dialogue.",
+    "funding": "Full tuition waiver and free campus residence hall accommodation in Sendai",
+    "tuition": "100% exempted",
+    "fee": "¥0 application fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.mgu.ac.jp/international/scholarship/",
+    "requirements": {
+      "gpa": "Minimum 3.3/4.0 GPA in high school or university studies.",
+      "ielts": "JLPT N2 or IELTS 6.0.",
+      "gre": "Not required.",
+      "papers": "Academic transcripts, essay on women's leadership in Asia, and financial disclosure.",
+      "references": "Two recommendation letters from school principals or civic leaders."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6609,
+    "title": "Tohoku Medical University Hospital Clinical Dietetic Practicum",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Four-week clinical hospital residency evaluating inpatient enteral nutrition regimens, diabetic glycemic management, and renal diet counseling alongside hospital physicians.",
+    "funding": "Hospital meal and transportation allowance provided (160 clinical hours)",
+    "tuition": "Curricular credit included",
+    "fee": "¥0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mgu.ac.jp/dept/fns/curriculum/",
+    "requirements": {
+      "gpa": "Junior or senior standing in Department of Food and Nutritional Sciences.",
+      "ielts": "Fluent Japanese.",
+      "gre": "Not required.",
+      "papers": "Clinical readiness assessment and antibody titer health clearance.",
+      "references": "Department chair approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6610,
+    "title": "Postdoctoral Fellowship in Tohoku Fermented Foods and Microbiology",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Twelve-month laboratory research fellowship isolating novel lactic acid bacteria and koji molds from traditional Miyagi miso and sake breweries to develop probiotic health supplements.",
+    "funding": "¥3,200,000 annual research salary supported by the Miyagi Industrial Technology Center",
+    "tuition": "Waived",
+    "fee": "¥0",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://www.mgu.ac.jp/research/",
+    "requirements": {
+      "gpa": "PhD in food science, microbiology, or applied biochemistry within 5 years.",
+      "ielts": "English B2 or Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, research proposal, and three major peer-reviewed publication reprints.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6611,
+    "title": "Certificate in Kodály Method Music Pedagogy & Early Childhood Dalcroze",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "location": "Sendai, Miyagi, Japan",
+    "type": "Course",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Six-week professional certification workshop for music teachers in solfege ear training, Kodály hand signs, Dalcroze eurhythmics, and children's choir conducting.",
+    "funding": "Kindergarten teacher license renewal credit eligible",
+    "tuition": "¥90,000 total course tuition",
+    "fee": "¥5,000 registration fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.mgu.ac.jp/lifelong/",
+    "requirements": {
+      "gpa": "Music degree or active teaching license in nursery or elementary school.",
+      "ielts": "Japanese proficiency.",
+      "gre": "Not required.",
+      "papers": "Registration form and copy of teaching certificate.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6612,
+    "title": "Bachelor of Arts in Media Arts - Digital Animation & 3D Computer Graphics",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Bachelor's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Four-year studio curriculum in Maya 3D modeling, commercial anime directing, motion capture choreography, and visual effects (VFX) pipeline production.",
+    "funding": "NUAS Creative Media Talent Scholarship providing ¥400,000 annual tuition reduction",
+    "tuition": "¥1,650,000 per academic year (including studio equipment access)",
+    "fee": "¥30,000 entrance examination fee",
+    "deadline": "2027-01-20",
+    "deadlineText": "January 20, 2027",
+    "source": "https://www.nuas.ac.jp/faculty/media/",
+    "requirements": {
+      "gpa": "High school graduation certificate.",
+      "ielts": "Japanese JLPT N2 or EJU Japanese 200+.",
+      "gre": "Not required.",
+      "papers": "Artistic/digital portfolio of 10 to 15 works, high school transcripts, and statement of creative intent.",
+      "references": "One art or media educator recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6613,
+    "title": "Bachelor of Science in Management Nutrition and Medical Dietetics",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Four-year degree qualifying graduates for the National Registered Dietitian examination, exploring metabolic biochemistry, food allergen immunology, and clinical hospital meal design.",
+    "funding": "Aichi Prefecture Healthcare Professional Scholarship eligible (up to ¥40,000/month)",
+    "tuition": "¥1,450,000 per academic year",
+    "fee": "¥30,000 entrance fee",
+    "deadline": "2027-02-05",
+    "deadlineText": "February 5, 2027",
+    "source": "https://www.nuas.ac.jp/faculty/nutrition/",
+    "requirements": {
+      "gpa": "High school graduation with chemistry and biology.",
+      "ielts": "Japanese JLPT N2.",
+      "gre": "Not required.",
+      "papers": "Transcripts, motivation essay, and medical fitness form.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6614,
+    "title": "Master of Media Arts and Interactive Digital Production",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Master's",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Two-year master's program investigating interactive spatial projection mapping, algorithmic sound synthesis, generative AI filmmaking, and experimental virtual reality exhibitions.",
+    "funding": "NUAS Graduate Research Grant offering ¥350,000 project funding",
+    "tuition": "¥920,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.nuas.ac.jp/graduate/media/",
+    "requirements": {
+      "gpa": "Bachelor's degree in media, fine arts, computer science, or architecture.",
+      "ielts": "Japanese JLPT N1 or English B2.",
+      "gre": "Not required.",
+      "papers": "Digital media portfolio on USB/web, 1,500-word master's project thesis proposal, and CV.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6615,
+    "title": "Chubu Industrial Design Excellence Scholarship",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "Merit award recognizing outstanding fashion and spatial design undergraduates developing ergonomic automotive interior concepts and sustainable materials.",
+    "funding": "¥500,000 annual scholarship funded by Aichi automotive and industrial design partners",
+    "tuition": "Applied against undergraduate tuition",
+    "fee": "¥0",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.nuas.ac.jp/campuslife/scholarship/",
+    "requirements": {
+      "gpa": "Top 10% GPA in freshman design studio courses.",
+      "ielts": "Japanese proficiency.",
+      "gre": "Not required.",
+      "papers": "Design studio portfolio, university transcript, and essay on industrial design future.",
+      "references": "Department studio head endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6616,
+    "title": "Nagoya Television (Chukyo TV) Commercial Broadcasting & Sound Practicum",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Sixteen-week media industry practicum operating multi-camera live broadcast switchers, Foley sound effect recording, and non-linear Avid video editing for commercial television programs.",
+    "funding": "Paid broadcast technical assistantship at ¥1,200 hourly (200 hours)",
+    "tuition": "Credit included in degree",
+    "fee": "¥0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nuas.ac.jp/career/",
+    "requirements": {
+      "gpa": "Junior standing in Faculty of Media Studies with 60+ completed credits.",
+      "ielts": "Japanese B2/C1.",
+      "gre": "Not required.",
+      "papers": "Resume, portfolio reel of film/audio edits, and faculty internship approval.",
+      "references": "Broadcasting course coordinator reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6617,
+    "title": "Research Fellowship in Generative AI Virtual Characters and VTuber Avatars",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "arts-design"
+    ],
+    "desc": "One-year visiting fellowship researching real-time facial expression tracking, neural motion synthesis for VTuber performers, and virtual human interaction ethics.",
+    "funding": "¥2,400,000 annual research grant funded by Aichi digital contents consortium",
+    "tuition": "Waived",
+    "fee": "¥0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.nuas.ac.jp/research/",
+    "requirements": {
+      "gpa": "Master's degree or PhD in computer graphics, human-computer interaction, or digital media.",
+      "ielts": "English B2 or Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Research project proposal, GitHub repository links, and CV.",
+      "references": "Two academic or industry referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6618,
+    "title": "Certificate in 3D Fashion Prototyping and CLO3D Digital Garment Construction",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "location": "Nisshin, Aichi, Japan",
+    "type": "Course",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Eight-week intensive professional course in CLO3D virtual pattern drafting, fabric drape physics simulation, digital avatar fitting, and metaverse fashion asset production.",
+    "funding": "Aichi Apparel Federation training subsidy eligible",
+    "tuition": "¥120,000 total course fee",
+    "fee": "¥10,000 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.nuas.ac.jp/faculty/design/fashion.html",
+    "requirements": {
+      "gpa": "Background in apparel design, pattern making, or 3D computer graphics.",
+      "ielts": "Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and portfolio sample.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6619,
+    "title": "Global MBA - Master of Business Administration (English Track, AACSB/AMBA/EQUIS)",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Triple-accredited intensive executive MBA using 100% Harvard case study discussions, focusing on strategic innovation, Asian supply chain diplomacy, digital finance, and corporate sustainability.",
+    "funding": "NUCB International Leader Housing Scholarship providing ¥600,000 annual accommodation stipend",
+    "tuition": "¥2,840,000 full program tuition (one-year or two-year track)",
+    "fee": "¥30,000 application screening fee",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://mba.nucba.ac.jp/en/programs/gmba/",
+    "requirements": {
+      "gpa": "Bachelor's degree with minimum 3.0/4.0 GPA and at least 3 years of professional work experience.",
+      "ielts": "IELTS 6.5 or TOEFL iBT 85.",
+      "gre": "GMAT 600+ or GRE equivalent recommended.",
+      "papers": "Undergraduate transcripts, professional CV, two admissions essays, and interview.",
+      "references": "Two professional reference letters from senior executives."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6620,
+    "title": "Bachelor of Business Administration (BBA - 100% English Global Track)",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Four-year international business degree accredited by AACSB, covering corporate finance, Japanese management philosophy (Monozukuri), global marketing, and enterprise fintech.",
+    "funding": "Kurimoto Educational Scholarship offering up to 50% tuition reduction for top academic applicants",
+    "tuition": "¥1,380,000 per academic year",
+    "fee": "¥30,000 international application fee",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.nucba.ac.jp/en/programs/undergraduate/bba/",
+    "requirements": {
+      "gpa": "High school graduation certificate with strong mathematics and English performance.",
+      "ielts": "IELTS 6.0 or TOEFL iBT 75.",
+      "gre": "SAT/ACT optional.",
+      "papers": "High school transcripts, 500-word statement of intent, and passport copy.",
+      "references": "Two academic teacher recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6621,
+    "title": "Master of Science in Management and Global Supply Chain Analytics",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "One-year specialized master's exploring automotive lean manufacturing logistics (Toyota Production System), supply chain machine learning, ERP systems, and ESG compliance.",
+    "funding": "Tohoku-Chubu Manufacturing Leadership Fellowship granting ¥1,000,000 tuition subsidy",
+    "tuition": "¥2,450,000 total program tuition",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://mba.nucba.ac.jp/en/programs/msc/",
+    "requirements": {
+      "gpa": "Undergraduate degree in business, economics, engineering, or quantitative sciences.",
+      "ielts": "IELTS 6.5.",
+      "gre": "Not required.",
+      "papers": "University transcript, resume, statement of purpose, and online video interview.",
+      "references": "Two letters of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6622,
+    "title": "MEXT Japanese Government Embassy & University Recommendation Fellowship",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Prestigious Monbukagakusho fellowship supporting international executives and future ministers from emerging economies to complete the Global MBA at NUCB in Nagoya.",
+    "funding": "Full 100% MBA tuition waiver, monthly living allowance of ¥144,000, and roundtrip Tokyo/Nagoya airfare",
+    "tuition": "Fully funded",
+    "fee": "¥0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://mba.nucba.ac.jp/en/admissions/scholarships.html",
+    "requirements": {
+      "gpa": "Minimum 3.3/4.0 undergraduate GPA with 3+ years managerial experience.",
+      "ielts": "IELTS 7.0 or TOEFL 90.",
+      "gre": "GMAT 650+ recommended.",
+      "papers": "Comprehensive MBA research study plan, official transcripts, and government endorsement.",
+      "references": "Two executive letters of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6623,
+    "title": "Toyota Group Automotive Supply Chain & Lean Operations Practicum",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Twelve-week summer consulting internship conducting Kaizen process engineering audits, inventory buffer optimization, and EV supply chain risk modeling in Aichi prefecture.",
+    "funding": "Paid corporate internship with monthly salary of ¥250,000 at Tier-1 automotive suppliers",
+    "tuition": "Credit included in MBA enrollment",
+    "fee": "¥0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://mba.nucba.ac.jp/en/career/",
+    "requirements": {
+      "gpa": "Enrolled in NUCB Global MBA or MSc program with good standing.",
+      "ielts": "English fluent; conversational Japanese (JLPT N3) preferred.",
+      "gre": "Not required.",
+      "papers": "Resume, MBA academic grade report, and consulting cover letter.",
+      "references": "MBA career center director approval."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6624,
+    "title": "Doctor of Business Administration (DBA - Executive Research Track)",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Three-year executive terminal doctorate for senior managing directors, investigating family business longevity, multinational M&A integration, and cross-border corporate governance.",
+    "funding": "NUCB Executive Research Fellowship granting ¥800,000 annual dissertation grant",
+    "tuition": "¥1,800,000 per academic year",
+    "fee": "¥50,000 doctoral screening fee",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://mba.nucba.ac.jp/en/programs/dba/",
+    "requirements": {
+      "gpa": "Master's degree (MBA, MSc, or MA) with at least 8 to 10 years of senior management experience.",
+      "ielts": "Fluent English (IELTS 7.5 or equivalent).",
+      "gre": "Not required.",
+      "papers": "3,000-word applied doctoral research proposal, executive CV, and sample publications.",
+      "references": "Three executive and academic reference letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6625,
+    "title": "Executive Certificate in Monozukuri Management and Japanese Business Strategy",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "location": "Nagoya, Aichi, Japan",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Two-week intensive executive certificate exploring the philosophy of Monozukuri craftsmanship, Just-In-Time (JIT) manufacturing, and long-term Japanese corporate stewardship.",
+    "funding": "Corporate executive education sponsorship eligible",
+    "tuition": "¥450,000 total course tuition",
+    "fee": "¥20,000 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://mba.nucba.ac.jp/en/executive-education/",
+    "requirements": {
+      "gpa": "Senior managerial role in manufacturing, supply chain, or operations.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and executive CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6626,
+    "title": "Bachelor of Science in Sports Science & Biomechanical Performance Analysis",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Four-year specialized degree in high-speed motion capture kinesiology, muscle electromyography (EMG), athletic conditioning periodization, and sports biomechanics.",
+    "funding": "Nittaidai Olympic Hope Athletic Scholarship offering up to ¥600,000 annual tuition reduction",
+    "tuition": "¥1,490,000 per academic year (including athletic training facility access)",
+    "fee": "¥35,000 entrance examination fee",
+    "deadline": "2027-01-25",
+    "deadlineText": "January 25, 2027",
+    "source": "https://www.nittai.ac.jp/academics/sports_science.html",
+    "requirements": {
+      "gpa": "High school graduation certificate with verified athletic competition record.",
+      "ielts": "Japanese JLPT N2.",
+      "gre": "Not required.",
+      "papers": "High school transcripts, official sports competition record certificate, and physical fitness test report.",
+      "references": "Athletic coach or school principal letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6627,
+    "title": "Master of Science in Exercise Physiology & Sports Nutrition",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Master's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Two-year thesis curriculum evaluating mitochondrial biogenesis during hypoxic training, glycogen supercompensation kinetics, and heat stress hydration in elite marathoners.",
+    "funding": "Japan Sports Agency (JSA) Research Fellowship providing ¥500,000 annual stipend",
+    "tuition": "¥890,000 per academic year",
+    "fee": "¥30,000 application fee",
+    "deadline": "2027-01-10",
+    "deadlineText": "January 10, 2027",
+    "source": "https://www.nittai.ac.jp/graduate/health_sport.html",
+    "requirements": {
+      "gpa": "Bachelor's degree in sports science, medicine, physical education, or physiology.",
+      "ielts": "Japanese JLPT N1 or English B2.",
+      "gre": "Not required.",
+      "papers": "Undergraduate degree certificate, transcript, and 2,000-character master's research outline.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6628,
+    "title": "Doctor of Philosophy in Elite Athletic Coaching and Human Performance Optimization",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "PhD",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Three-year terminal research doctorate analyzing neuro-muscular fatigue monitoring, Olympic sports coaching pedagogy, injury prevention algorithms, and mental resilience training.",
+    "funding": "JSPS Research Fellowship (DC1/DC2) full funding of ¥2,400,000 annually plus research funds",
+    "tuition": "¥750,000 per academic year",
+    "fee": "¥30,000 entrance screening fee",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nittai.ac.jp/graduate/phd.html",
+    "requirements": {
+      "gpa": "Master's degree in physical education or related sports medicine discipline.",
+      "ielts": "JLPT N1 and English B2.",
+      "gre": "Not required.",
+      "papers": "Master's thesis, comprehensive doctoral research proposal, and publication bibliography.",
+      "references": "Two professorial recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6629,
+    "title": "Japanese Olympic Committee (JOC) High Performance Training Fellowship",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Twelve-month postdoctoral research fellowship collaborating with national team coaches preparing athletes for the Olympic and Paralympic Games.",
+    "funding": "¥2,000,000 fellowship grant and access to the Nittaidai High Performance Center",
+    "tuition": "Waived",
+    "fee": "¥0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.nittai.ac.jp/research/fellowship/",
+    "requirements": {
+      "gpa": "PhD in sports medicine, biomechanics, or exercise science.",
+      "ielts": "English B2 or Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Research proposal (max 2,500 words), curriculum vitae, and three key publication reprints.",
+      "references": "National Olympic Committee or university referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6630,
+    "title": "Japan Institute of Sports Sciences (JISS) Biomechanics Internship",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Internship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "biology"
+    ],
+    "desc": "Sixteen-week practical laboratory placement operating 3D optical motion capture systems (Vicon) and wireless EMG telemetry to measure rotational power in elite gymnasts and sprinters.",
+    "funding": "Paid technical assistantship at ¥1,300 per hour with housing support in Tokyo/Yokohama",
+    "tuition": "Credit included in graduate degree",
+    "fee": "¥0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.nittai.ac.jp/career/internships/",
+    "requirements": {
+      "gpa": "Graduate standing in biomechanics or senior undergraduate sports science student with 3.2+ GPA.",
+      "ielts": "Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Resume, academic grade report, and statement of lab proficiency.",
+      "references": "Laboratory director endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6631,
+    "title": "Budo (Traditional Martial Arts) Culture and Heritage Scholarship",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Merit award dedicated to undergraduate scholars practicing Judo, Kendo, Kyudo, or Naginata, fostering the international philosophical transmission of Japanese Budo.",
+    "funding": "¥300,000 annual scholarship funded by the All Japan Judo and Kendo Federations",
+    "tuition": "Subsidized directly towards tuition",
+    "fee": "¥0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.nittai.ac.jp/campuslife/budo/",
+    "requirements": {
+      "gpa": "Hold at least Shodan (1st dan black belt) in a recognized Japanese martial art.",
+      "ielts": "Japanese B2.",
+      "gre": "Not required.",
+      "papers": "Dan ranking certificate, competition record, and essay on Budo philosophy.",
+      "references": "Dojo master or federated sensei recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6632,
+    "title": "Certificate in Athletic Training & Sports First Responder Emergency Care",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "location": "Aoba-ku, Yokohama, Kanagawa, Japan",
+    "type": "Course",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Eight-week hands-on clinical certification in acute athletic taping techniques, on-field concussion assessment (SCAT6), spine boarding protocols, and AED emergency management.",
+    "funding": "Japan Athletic Trainers' Organization (JSPO-AT) certification recognized",
+    "tuition": "¥140,000 total course fee",
+    "fee": "¥10,000 registration fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://www.nittai.ac.jp/lifelong/trainer.html",
+    "requirements": {
+      "gpa": "Background in physical education, physiotherapy, or sports coaching.",
+      "ielts": "Japanese proficiency.",
+      "gre": "Not required.",
+      "papers": "Registration form and CPR certification copy.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6633,
+    "title": "Post-HBO Diploma in Intensive Care Nursing and Mechanical Ventilation",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Twelve-month specialized post-bachelor program covering arterial blood gas interpretation, invasive hemodynamics, ventilator waveforms, and acute sepsis resuscitation.",
+    "funding": "Dutch Healthcare Sector Fund (Stagefonds Zorg) employer reimbursement up to €3,500",
+    "tuition": "€2,450 complete diploma tuition",
+    "fee": "€75 enrollment fee",
+    "deadline": "2027-08-31",
+    "deadlineText": "August 31, 2027",
+    "source": "https://www.e-nursing.nl/cursussen/intensive-care/",
+    "requirements": {
+      "gpa": "HBO-V Bachelor of Nursing degree with valid BIG registration.",
+      "ielts": "Dutch B2 proficiency.",
+      "gre": "Not required.",
+      "papers": "Copy of BIG registration, nursing degree diploma, and proof of employment in an ICU/CCU ward.",
+      "references": "Hospital nursing director endorsement."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6634,
+    "title": "Masterclass in Clinical Pharmacotherapy and Medication Safety",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Master's",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Six-month advanced curriculum for prescribing nurse practitioners investigating pharmacokinetics, polypharmacy interactions in geriatric care, and therapeutic drug monitoring.",
+    "funding": "V&VN Kwaliteitsregister accredited (60 continuous professional education points)",
+    "tuition": "€1,850 total tuition",
+    "fee": "€50 registration fee",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.e-nursing.nl/cursussen/farmacotherapie/",
+    "requirements": {
+      "gpa": "Bachelor of Nursing or active standing in Master of Advanced Nursing Practice (MANP).",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "Nursing diploma, resume, and clinical practice description.",
+      "references": "Supervising physician recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6635,
+    "title": "Dutch National Nurse Leadership & Clinical Innovation Scholarship",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Annual merit award recognizing nurses who implement innovative digital care pathways, remote patient telemetry, or bed-side delirium prevention protocols.",
+    "funding": "Full €2,500 course fee waiver and €500 travel allowance for international nursing conferences",
+    "tuition": "100% waived",
+    "fee": "€0",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.e-nursing.nl/stipendien/",
+    "requirements": {
+      "gpa": "Demonstrated clinical excellence and quality improvement initiative.",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "1,500-word clinical innovation case study, resume, and letter of support.",
+      "references": "Clinical nurse supervisor recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6636,
+    "title": "Pediatric Oncology and Chemotherapy Administration Fellowship",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Nine-month specialized fellowship training oncology nurses in extravasation management, central venous access line maintenance, and pediatric palliative comfort care.",
+    "funding": "€10,000 clinical fellowship stipend in collaboration with Princess Máxima Center",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.e-nursing.nl/cursussen/oncologie/",
+    "requirements": {
+      "gpa": "Registered nurse with minimum 2 years of hospital pediatric experience.",
+      "ielts": "Dutch C1 and English B2.",
+      "gre": "Not required.",
+      "papers": "BIG registration proof, CV, and statement of pediatric oncology motivation.",
+      "references": "Two clinical supervisor references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6637,
+    "title": "University Medical Center Utrecht (UMCU) Clinical Nursing Practicum",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Twenty-week hospital internship rotating through emergency triage, stroke units, and postoperative surgical wards at UMC Utrecht.",
+    "funding": "Hospital collective labor agreement (CAO UMC) monthly compensation of €1,400",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.e-nursing.nl/stages/",
+    "requirements": {
+      "gpa": "Final year student in an accredited HBO-V nursing degree.",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "Certificate of good conduct (VOG), transcript, and vaccination records.",
+      "references": "Nursing school faculty coordinator letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6638,
+    "title": "Doctoral Research Fellowship in Digital Nursing Informatics and Telehealth",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "PhD",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Four-year joint doctoral research program in partnership with Utrecht University evaluating clinical decision support algorithms and remote biometric sensor telemetry in home care.",
+    "funding": "NWO Healthcare Innovation Doctoral Grant providing €38,000 annually for four years",
+    "tuition": "€0 tuition fee",
+    "fee": "€0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.e-nursing.nl/onderzoek/",
+    "requirements": {
+      "gpa": "Master of Science in Nursing Science, Health Informatics, or Public Health.",
+      "ielts": "English C1 and Dutch B2.",
+      "gre": "Not required.",
+      "papers": "Doctoral research outline (max 3,000 words), master's thesis, and CV.",
+      "references": "Two professorial recommendation letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6639,
+    "title": "Certificate in Complex Wound Care Management & Negative Pressure Therapy",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "location": "Utrecht, Netherlands",
+    "type": "Course",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Six-week professional certification in TIME wound assessment, diabetic foot ulcer debridement, compression bandage kinetics, and vacuum-assisted wound closure (VAC).",
+    "funding": "Accredited with 24 V&VN Continuous Professional Development (PE) points",
+    "tuition": "€650 total certificate tuition",
+    "fee": "€25 registration fee",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.e-nursing.nl/cursussen/wondzorg/",
+    "requirements": {
+      "gpa": "Registered nurse (Level 4 or Level 5/HBO-V).",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and BIG registration number.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6640,
+    "title": "Pre-University European STEM and Artificial Intelligence Summer Academy",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Bachelor's",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Three-week intensive residential academy featuring university-level Python algorithms, neural network design, laboratory robotics at Amsterdam Science Park, and guest lectures from Dutch researchers.",
+    "funding": "Indigo Global Young Scientist Grant providing €1,200 tuition subsidy for promising STEM scholars",
+    "tuition": "€2,950 full residential program fee (including room and board)",
+    "fee": "€75 application fee",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.indigocamps.com/pre-study-camp",
+    "requirements": {
+      "gpa": "High school student aged 15 to 19 with minimum 3.0/4.0 GPA.",
+      "ielts": "IELTS 6.0 or verified English-medium high school attendance.",
+      "gre": "Not required.",
+      "papers": "High school transcript, 500-word statement of academic goals, and parental consent form.",
+      "references": "One STEM teacher recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6641,
+    "title": "Dutch University System Transition & Academic English Mastery Program",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Four-week bridging curriculum preparing students for the Problem-Based Learning (PBL) methodology utilized across Dutch universities, scientific essay formatting, and academic presentation rhetoric.",
+    "funding": "Early-bird enrollment rebate of €400 available before March 31",
+    "tuition": "€1,850 tuition fee",
+    "fee": "€50 registration fee",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.indigocamps.com/curriculum",
+    "requirements": {
+      "gpa": "Completed secondary education or current high school senior.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Secondary transcript and sample essay.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6642,
+    "title": "Indigo European Young Diplomat Scholarship",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Merit scholarship awarded to international high school delegates demonstrating excellence in Model United Nations (MUN), public policy debate, and international conflict resolution.",
+    "funding": "Full €2,950 scholarship covering complete summer tuition, room, and Hague institutional excursion costs",
+    "tuition": "100% covered",
+    "fee": "€0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.indigocamps.com/scholarships",
+    "requirements": {
+      "gpa": "Minimum 3.5 cumulative GPA.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Resume of MUN/civic leadership, 750-word essay on multilateral peace, and academic transcript.",
+      "references": "Two letters of recommendation from high school educators or debate coaches."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6643,
+    "title": "Pre-University Bio-Sciences & Environmental Sustainability Practicum",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Two-week field practicum collecting water samples across Utrecht polders, testing microplastic contamination, and presenting research posters at Utrecht University science facilities.",
+    "funding": "Field laboratory supplies and guided ecological research mentorship included",
+    "tuition": "Covered within program registration",
+    "fee": "€0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.indigocamps.com/fieldwork",
+    "requirements": {
+      "gpa": "Secondary school science student with biology or chemistry.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Application form and letter of motivation.",
+      "references": "Science teacher reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6644,
+    "title": "Junior Academic Research Fellowship in Urban Planning & Dutch Cycling Mobility",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Six-week mentored research fellowship for graduating high school scholars mapping urban bicycle infrastructure, canal drainage civil systems, and transit-oriented development.",
+    "funding": "€1,500 research stipend and Dutch railway pass for fieldwork across Amsterdam and Utrecht",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.indigocamps.com/research",
+    "requirements": {
+      "gpa": "Secondary diploma graduate intending to enroll in architecture, civil engineering, or urban studies.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Research project outline (1,000 words), CV, and high school transcript.",
+      "references": "One academic letter of recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6645,
+    "title": "European Higher Education Admissions & Portfolio Guidance Masterclass",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Two-week intensive advisory curriculum mastering Dutch Studielink navigation, Numerus Fixus decentralized selection exam strategies, CV optimization, and motivation video production.",
+    "funding": "Admissions counseling package included with personalized Studielink registration support",
+    "tuition": "€1,400 total course tuition",
+    "fee": "€40 registration fee",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.indigocamps.com/admissions-masterclass",
+    "requirements": {
+      "gpa": "High school senior or gap-year student applying to European universities.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Draft university applications, CV, and academic transcripts.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6646,
+    "title": "Certificate in Dutch Language & Cultural Integration (A1/A2 Foundations)",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "location": "Amsterdam / Doorn, Utrecht, Netherlands",
+    "type": "Course",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Four-week intensive language immersion in everyday Dutch communicative competence, conversational etiquette, civic history, and higher education academic vocabulary.",
+    "funding": "Subsidized cultural integration course materials",
+    "tuition": "€650 total certificate fee",
+    "fee": "€25 registration fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://www.indigocamps.com/dutch-language",
+    "requirements": {
+      "gpa": "Open to international students planning study in the Netherlands.",
+      "ielts": "No prior Dutch language knowledge required.",
+      "gre": "Not required.",
+      "papers": "Registration form.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6647,
+    "title": "Executive Master in Complex Infrastructure Project Finance & PPP Structuring",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Master's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Ten-month executive program covering concession contract design, non-recourse project debt modeling, public-private partnership risk allocation, and green bond issuance.",
+    "funding": "Port of Rotterdam Energy Transition Scholarship offering up to €4,000 corporate tuition subsidy",
+    "tuition": "€5,800 total program tuition",
+    "fee": "€150 application processing fee",
+    "deadline": "2027-09-01",
+    "deadlineText": "September 1, 2027",
+    "source": "https://rebeluniversity.nl/courses/infrastructure-finance",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in finance, economics, civil engineering, or law.",
+      "ielts": "English C1 (IELTS 7.0 or equivalent).",
+      "gre": "Not required.",
+      "papers": "Curriculum vitae, transcript, and statement on a complex infrastructure challenge.",
+      "references": "Two professional reference letters from senior executives."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6648,
+    "title": "Post-Graduate Certificate in Circular Economy Financial Modeling & Material Flow Analytics",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Bachelor's",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Six-month certificate program analyzing circular supply chain residual value models, raw material taxation, product-as-a-service (PaaS) accounting, and urban metabolism.",
+    "funding": "Dutch Circular Economy Innovation Voucher eligible (covering 50% of cost)",
+    "tuition": "€2,850 total course tuition",
+    "fee": "€50 registration fee",
+    "deadline": "2027-08-15",
+    "deadlineText": "August 15, 2027",
+    "source": "https://rebeluniversity.nl/courses/circular-economy",
+    "requirements": {
+      "gpa": "Degree in business, environmental science, or industrial ecology.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Undergraduate transcript, resume, and statement of intent.",
+      "references": "One professional reference."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6649,
+    "title": "Rebel Global Infrastructure Impact Fellowship for Emerging Markets",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Six-month visiting fellowship for public finance economists from Africa, Latin America, or Southeast Asia designing blended finance vehicles for renewable mini-grids and clean water.",
+    "funding": "€18,000 research stipend plus travel and residence in Rotterdam",
+    "tuition": "Fully waived",
+    "fee": "€0",
+    "deadline": "2027-05-31",
+    "deadlineText": "May 31, 2027",
+    "source": "https://rebeluniversity.nl/fellowships",
+    "requirements": {
+      "gpa": "Master's degree in economics or finance with 5+ years in public utility or finance ministry roles.",
+      "ielts": "Fluent English.",
+      "gre": "Not required.",
+      "papers": "Project prospectus on municipal infrastructure debt, CV, and government nomination.",
+      "references": "Ministry or multilateral development bank (MDB) recommendation letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6650,
+    "title": "Rotterdam Maritime Harbor Energy Transition Practicum",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Five-month immersion in port green hydrogen import terminal financial modeling, carbon capture pipeline tariffs, and shore power economic feasibility studies.",
+    "funding": "Paid consulting internship at €1,600 monthly at Rebel's Wijnhaven Rotterdam headquarters",
+    "tuition": "€0",
+    "fee": "€0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://rebeluniversity.nl/careers",
+    "requirements": {
+      "gpa": "Final-year master's student in economics, engineering, or maritime economics.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Resume, university grade transcript, and financial modeling sample (Excel).",
+      "references": "Faculty thesis advisor letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6651,
+    "title": "North Sea Offshore Wind & Green Hydrogen Valuation Scholarship",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Merit award supporting young engineers and economists specializing in Levelized Cost of Hydrogen (LCOH), grid curtailment economics, and offshore electrolyzer clustering.",
+    "funding": "€3,500 merit award co-funded by Dutch offshore engineering consortia",
+    "tuition": "Applied directly to executive masterclass fees",
+    "fee": "€0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://rebeluniversity.nl/scholarships",
+    "requirements": {
+      "gpa": "Master's degree or graduate enrollment with top 15% academic standing.",
+      "ielts": "English B2/C1.",
+      "gre": "Not required.",
+      "papers": "Academic transcript, detailed resume, and 800-word essay on North Sea energy hub.",
+      "references": "One academic or corporate recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6652,
+    "title": "Doctoral Research Fellowship in Municipal Climate Adaptation Finance",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "PhD",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Three-year collaborative PhD dissertation analyzing municipal green resilience bonds, flood defense insurance underwriting, and urban sponge city capital allocations.",
+    "funding": "€34,000 annual doctoral stipend in partnership with Erasmus University Rotterdam (EUR)",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://rebeluniversity.nl/research",
+    "requirements": {
+      "gpa": "Master's degree in public economics, urban governance, or financial mathematics with distinction.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Master's thesis, doctoral research outline, and CV.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6653,
+    "title": "Executive Seminar on Public-Private Concessions & Contract Dispute Negotiation",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Three-day executive masterclass in renegotiating distressed infrastructure concessions, inflation indexation clauses, force majeure claims, and dispute board mediation.",
+    "funding": "Corporate and government training budget eligible",
+    "tuition": "€1,950 total seminar fee",
+    "fee": "€50 registration fee",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://rebeluniversity.nl/courses/ppp-negotiation",
+    "requirements": {
+      "gpa": "Professional background in infrastructure development, legal advisory, or public finance.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and professional biography.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6654,
+    "title": "Master of Medicine in Clinical Medicine and Cross-Border Clerkships",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Master's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Three-year qualifying medical master's combining clinical ward rotations at Antwerp University Hospital (UZA) and Amphia Hospital in Breda across cardiology, oncology, and pediatrics.",
+    "funding": "Benelux Cross-Border Mobility Grant providing €1,200 travel allowance per hospital rotation",
+    "tuition": "€1,116 per academic year for EEA students / €6,000 for non-EEA",
+    "fee": "€0 application fee",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uantwerpen.be/en/programmes/master-of-medicine/",
+    "requirements": {
+      "gpa": "Bachelor of Medicine (Geneeskunde) from an accredited university in the EEA.",
+      "ielts": "Dutch C1 (ITNA score B2/C1).",
+      "gre": "Not required.",
+      "papers": "Medical bachelor degree diploma, transcript of clerkship competencies, and clinical health clearance.",
+      "references": "Faculty clinical dean recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6655,
+    "title": "Doctor of Philosophy in Translational Infectious Disease Epidemiology (Benelux Hub)",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "PhD",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Four-year doctoral research fellowship at the Vaccine & Infectious Disease Institute (VAXINFECTIO) investigating cross-border pathogen genomic surveillance and vaccine efficacy.",
+    "funding": "Full FWO/NWO cross-border doctoral salary of €2,450 net monthly for four years",
+    "tuition": "€0 tuition fee",
+    "fee": "€0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uantwerpen.be/en/research/phd/",
+    "requirements": {
+      "gpa": "Master's degree in medicine, biomedical sciences, or epidemiology with high distinction.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Master's thesis, doctoral research proposal (max 10 pages), and CV.",
+      "references": "Two academic referee letters."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6656,
+    "title": "Benelux Cross-Border Hospital Clinical Rotation Elective",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Eight-week clinical immersion for senior medical clerks in acute trauma surgery and interventional cardiology rotating between Antwerp and Breda.",
+    "funding": "Erasmus+ clinical mobility grant of €450 monthly plus hospital accommodations",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uantwerpen.be/en/study/international-students/exchange-students/",
+    "requirements": {
+      "gpa": "Final-year medical student in good clinical standing.",
+      "ielts": "Dutch B2/C1.",
+      "gre": "Not required.",
+      "papers": "Dean's letter of good standing, proof of Hepatitis B vaccination, and CV.",
+      "references": "Clinical department head letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6657,
+    "title": "Queen Elisabeth Medical Research Foundation Fellowship in Neuro-Oncology",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Two-year postdoctoral fellowship at the Center for Oncological Research (CORE) investigating glioblastoma blood-brain barrier permeability and nanoparticle drug targeting.",
+    "funding": "€32,000 annual postdoctoral research fellowship plus laboratory consumable funds",
+    "tuition": "Waived",
+    "fee": "€0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.uantwerpen.be/en/research/postdoc-fellowships/",
+    "requirements": {
+      "gpa": "PhD in oncology, neurobiology, or biomedical sciences obtained within the past 4 years.",
+      "ielts": "English C1.",
+      "gre": "Not required.",
+      "papers": "Research project prospectus, publication bibliography, and detailed CV.",
+      "references": "Two international academic references."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6658,
+    "title": "Master of Science in Pharmaceutical Sciences - Drug Development & Clinical Trials",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Master's",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Two-year comprehensive master's in high-throughput drug screening, clinical trial biostatistics, pharmacovigilance, and European Medicines Agency (EMA) regulatory affairs.",
+    "funding": "Flemish Master Mind Scholarship providing €10,000 grant plus tuition waiver",
+    "tuition": "€1,116 (EEA) / €5,800 (non-EEA) per academic year",
+    "fee": "€0",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.uantwerpen.be/en/programmes/master-pharmaceutical-sciences/",
+    "requirements": {
+      "gpa": "Bachelor's degree in pharmaceutical sciences, chemistry, or biochemistry.",
+      "ielts": "English B2/C1 or Dutch C1.",
+      "gre": "Not required.",
+      "papers": "Undergraduate transcript, curriculum vitae, and motivation statement.",
+      "references": "Two letters of recommendation from science professors."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6659,
+    "title": "Breda-Antwerp Cross-Border Public Health Merit Scholarship",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Merit award supporting medical and health science scholars investigating cross-border patient mobility, emergency ambulance dispatch protocols, and Benelux health disparities.",
+    "funding": "€4,000 annual scholarship funded by cross-border health insurance funds (CZ and CM)",
+    "tuition": "Applied towards annual tuition and clinical equipment",
+    "fee": "€0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.uantwerpen.be/en/study/fees-and-funding/scholarships/",
+    "requirements": {
+      "gpa": "Top 15% academic standing in medicine or public health.",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "Academic transcript, resume, and 800-word essay on cross-border healthcare integration.",
+      "references": "One academic faculty recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6660,
+    "title": "Certificate in Good Clinical Practice (ICH-GCP) & Clinical Trial Auditing",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "location": "Breda / Antwerp Cross-Border Region, Netherlands",
+    "type": "Course",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Four-week intensive online certification covering ICH-GCP E6(R2) compliance, investigator brochure preparation, serious adverse event (SAE) reporting, and clinical trial ethics.",
+    "funding": "TransCelerate BioPharma internationally recognized certification",
+    "tuition": "€850 total course tuition",
+    "fee": "€25 registration fee",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.uantwerpen.be/en/research/training/ich-gcp/",
+    "requirements": {
+      "gpa": "Degree in life sciences, nursing, or medicine.",
+      "ielts": "English B2.",
+      "gre": "Not required.",
+      "papers": "Registration form and professional biography.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6661,
+    "title": "MBO Level 4 Diploma in Smart Mechatronics and Industrial Robotics",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Bachelor's",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Four-year polytechnic engineering diploma exploring programmable logic controllers (Siemens S7), collaborative robotic arms, industrial pneumatic circuitry, and sensor telematics.",
+    "funding": "DUO Dutch student finance (studiefinanciering) and public transport pass (studenten-OV) eligible",
+    "tuition": "€1,419 statutory annual tuition fee set by the Dutch Ministry of Education",
+    "fee": "€0 application fee",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://www.alfa-college.nl/opleidingen/mechatronica-niveau-4",
+    "requirements": {
+      "gpa": "Dutch VMBO-TL diploma with mathematics and physics, or international secondary certificate.",
+      "ielts": "Dutch B1/B2.",
+      "gre": "Not required.",
+      "papers": "Secondary school certificate and identity document.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6662,
+    "title": "MBO Level 4 Nursing Specialist Diploma (MBO-Verpleegkundige BIG Pathway)",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Bachelor's",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Four-year registered nursing diploma preparing students for direct BIG registration, acute clinical hospital care, medical pharmacotherapy, and seamless articulation into HBO-V.",
+    "funding": "Stagevergoeding hospital practicum allowance of €450 monthly",
+    "tuition": "€1,419 statutory tuition fee",
+    "fee": "€0",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.alfa-college.nl/opleidingen/mbo-verpleegkundige",
+    "requirements": {
+      "gpa": "VMBO-TL, HAVO certificate, or equivalent.",
+      "ielts": "Dutch B2.",
+      "gre": "Not required.",
+      "papers": "School leaving diploma, certificate of good conduct (VOG), and health immunization clearance.",
+      "references": "Intake interview pass."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6663,
+    "title": "Overijssel Clean Tech & Sustainable Circular Construction Apprenticeship",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Structured dual work-study apprenticeship in sustainable timber frame construction, heat pump HVAC installation, and net-zero energy building retrofit across the Vechtdal region.",
+    "funding": "Paid BBL vocational work term with monthly collective labor wages of €1,200 to €1,600",
+    "tuition": "Subsidized by employer training fund",
+    "fee": "€0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.alfa-college.nl/werken-en-leren-bbl",
+    "requirements": {
+      "gpa": "Signed BBL apprenticeship training agreement with an accredited Dutch construction firm.",
+      "ielts": "Dutch B1.",
+      "gre": "Not required.",
+      "papers": "Employment apprenticeship contract and secondary transcripts.",
+      "references": "Employer mentor verification."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6664,
+    "title": "Alfa-college Regional Vocational Excellence Scholarship",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Annual vocational scholarship awarded by regional industrial partners to top-performing students entering technical mechatronics, renewable energy, and digital ICT programs.",
+    "funding": "€1,500 grant covering professional tool kits, laptop, and technical work safety attire",
+    "tuition": "Applied directly to educational expenses",
+    "fee": "€0",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.alfa-college.nl/over-alfa-college/beurzen",
+    "requirements": {
+      "gpa": "Top academic and practical marks in secondary vocational education.",
+      "ielts": "Dutch B1/B2.",
+      "gre": "Not required.",
+      "papers": "Transcript, recommendation from previous school tutor, and brief essay on career ambitions.",
+      "references": "Secondary school teacher letter."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6665,
+    "title": "HBO Bridging Propedeuse Fellowship in Applied Computer Science",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Accelerated academic bridging pathway allowing top Level 4 Software Developer students to take HBO-level modules in database design, algorithms, and agile software development.",
+    "funding": "€2,000 university transition scholarship co-sponsored by Windesheim University of Applied Sciences",
+    "tuition": "€1,419 statutory tuition",
+    "fee": "€0",
+    "deadline": "2027-04-30",
+    "deadlineText": "April 30, 2027",
+    "source": "https://www.alfa-college.nl/opleidingen/software-developer-niveau-4",
+    "requirements": {
+      "gpa": "Average grade 7.5 or higher across first two years of MBO Level 4 Software Development.",
+      "ielts": "Dutch B2 and English B2.",
+      "gre": "Not required.",
+      "papers": "Academic transcript, GitHub code repository link, and teacher evaluation.",
+      "references": "Program lead recommendation."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6666,
+    "title": "Agro-Technological Automation & Precision Livestock Sensing Practicum",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Sixteen-week practical placement maintaining robotic milking systems, automated barn ventilation telemetry, and agricultural nitrogen sensor arrays in Overijssel.",
+    "funding": "Monthly student internship allowance of €400 funded by agricultural tech cooperatives",
+    "tuition": "€0 placement fee",
+    "fee": "€0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.alfa-college.nl/stages",
+    "requirements": {
+      "gpa": "Enrolled in third or fourth year of Mechatronics or Electrical Engineering.",
+      "ielts": "Dutch B1.",
+      "gre": "Not required.",
+      "papers": "Resume, school evaluation form, and driver's license.",
+      "references": "Practicum coordinator sign-off."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
+  },
+  {
+    "id": 6667,
+    "title": "Certificate in Programmable Logic Controllers (PLC) & Industrial SCADA Systems",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "location": "Hardenberg, Overijssel, Netherlands",
+    "type": "Course",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Eight-week hands-on evening course in Siemens TIA Portal programming, ladder logic design, HMI touchscreen interfacing, and industrial Ethernet fieldbus telemetry.",
+    "funding": "Regional training fund (OOM/WiNA) voucher eligible",
+    "tuition": "€1,150 total course tuition",
+    "fee": "€25 registration fee",
+    "deadline": "2027-09-30",
+    "deadlineText": "September 30, 2027",
+    "source": "https://www.alfa-college.nl/cursussen/plc-techniek",
+    "requirements": {
+      "gpa": "Technical background in electrical engineering, automation, or maintenance.",
+      "ielts": "Dutch B1.",
+      "gre": "Not required.",
+      "papers": "Registration form and vocational background CV.",
+      "references": "Not required."
+    },
+    "reviewed": "2026-10-15",
+    "status": "Available"
   }];
 export const researchers=[
   {
@@ -212734,6 +218824,1626 @@ export const researchers=[
     ],
     "summary": "Drs. Danielle Timmerman mentors pre-university physics students in sustainable energy engineering, thermodynamics simulations, and technical bridge competitions.",
     "source": "https://www.vechtdalcollege.nl/docenten/timmerman",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+{
+    "id": 2787,
+    "name": "Dr. Karen Creditor",
+    "title": "President and Chief Executive Officer",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "department": "Admissions Policy & Institutional Research Directorate",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Administration",
+      "Credit Transfer Systems",
+      "Postsecondary Policy"
+    ],
+    "summary": "Dr. Karen Creditor is President and Chief Executive Officer in the Admissions Policy & Institutional Research Directorate at Ontario Colleges Higher Education Consortium, conducting advanced research in Higher Education Administration, Credit Transfer Systems, Postsecondary Policy.",
+    "source": "https://www.ontariocolleges.ca/en/about-us",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2788,
+    "name": "Marc Valois",
+    "title": "Director of Digital Strategy & Enterprise Architecture",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "department": "Information Technology and Cyberinfrastructure",
+    "subject": "computer-science",
+    "topics": [
+      "Cloud Architecture",
+      "Identity Federation",
+      "Data Security Governance"
+    ],
+    "summary": "Marc Valois is Director of Digital Strategy & Enterprise Architecture in the Information Technology and Cyberinfrastructure at Ontario Colleges Higher Education Consortium, conducting advanced research in Cloud Architecture, Identity Federation, Data Security Governance.",
+    "source": "https://www.ontariocolleges.ca/en/about-us",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2789,
+    "name": "Sonia Del Missier",
+    "title": "Advisory Chair of Academic Pathways Committee",
+    "university": "Ontario Colleges Higher Education Consortium",
+    "country": "Canada",
+    "department": "Articulation and Polytechnic Credentials",
+    "subject": "social-sciences",
+    "topics": [
+      "Curriculum Articulation",
+      "Vocational Education",
+      "Work-Integrated Learning"
+    ],
+    "summary": "Sonia Del Missier is Advisory Chair of Academic Pathways Committee in the Articulation and Polytechnic Credentials at Ontario Colleges Higher Education Consortium, conducting advanced research in Curriculum Articulation, Vocational Education, Work-Integrated Learning.",
+    "source": "https://www.ontariocolleges.ca/en/about-us",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2790,
+    "name": "Dr. Amy Dambrowitz",
+    "title": "Director of Career & Workplace Learning",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "department": "Career and Placement Research Directorate",
+    "subject": "social-sciences",
+    "topics": [
+      "Workplace Learning",
+      "Experiential Education",
+      "Graduate Employability"
+    ],
+    "summary": "Dr. Amy Dambrowitz is Director of Career & Workplace Learning in the Career and Placement Research Directorate at University of Alberta - Career and Professional Development Centre, conducting advanced research in Workplace Learning, Experiential Education, Graduate Employability.",
+    "source": "https://www.ualberta.ca/career-centre/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2791,
+    "name": "Dr. Paul Sorenson",
+    "title": "Professor Emeritus of Computing Science & Internship Director",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "department": "Science Internship & Technology Transfer",
+    "subject": "computer-science",
+    "topics": [
+      "Software Engineering Education",
+      "Co-operative Learning",
+      "Tech Workforce Analytics"
+    ],
+    "summary": "Dr. Paul Sorenson is Professor Emeritus of Computing Science & Internship Director in the Science Internship & Technology Transfer at University of Alberta - Career and Professional Development Centre, conducting advanced research in Software Engineering Education, Co-operative Learning, Tech Workforce Analytics.",
+    "source": "https://www.ualberta.ca/career-centre/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2792,
+    "name": "Dr. Brenda Leskiw",
+    "title": "Senior Academic Coordinator of Work-Integrated Studies",
+    "university": "University of Alberta - Career and Professional Development Centre",
+    "country": "Canada",
+    "department": "Faculty of Science & Academic Support",
+    "subject": "biology",
+    "topics": [
+      "Biotechnology Careers",
+      "Microbiology Workforce Development",
+      "STEM Pedagogy"
+    ],
+    "summary": "Dr. Brenda Leskiw is Senior Academic Coordinator of Work-Integrated Studies in the Faculty of Science & Academic Support at University of Alberta - Career and Professional Development Centre, conducting advanced research in Biotechnology Careers, Microbiology Workforce Development, STEM Pedagogy.",
+    "source": "https://www.ualberta.ca/career-centre/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2793,
+    "name": "Dr. Brian H. Rowe",
+    "title": "Professor & Past Director of Emergency Medicine Research",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "department": "Division of Emergency Medicine & School of Public Health",
+    "subject": "biology",
+    "topics": [
+      "Resuscitation Science",
+      "Asthma & Airway Emergencies",
+      "Clinical Epidemiology"
+    ],
+    "summary": "Dr. Brian H. Rowe is Professor & Past Director of Emergency Medicine Research in the Division of Emergency Medicine & School of Public Health at University of Alberta Hospital - Division of Emergency Medicine, conducting advanced research in Resuscitation Science, Asthma & Airway Emergencies, Clinical Epidemiology.",
+    "source": "https://www.ualberta.ca/emergency-medicine/faculty/brian-rowe.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2794,
+    "name": "Dr. Michael D. Bullard",
+    "title": "Professor of Emergency Medicine & CTAS Co-Founder",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "department": "Triage Systems & Acute Care Analytics",
+    "subject": "social-sciences",
+    "topics": [
+      "Canadian Triage and Acuity Scale (CTAS)",
+      "ED Crowding",
+      "Health Informatics"
+    ],
+    "summary": "Dr. Michael D. Bullard is Professor of Emergency Medicine & CTAS Co-Founder in the Triage Systems & Acute Care Analytics at University of Alberta Hospital - Division of Emergency Medicine, conducting advanced research in Canadian Triage and Acuity Scale (CTAS), ED Crowding, Health Informatics.",
+    "source": "https://www.ualberta.ca/emergency-medicine/faculty/michael-bullard.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2795,
+    "name": "Dr. Kathryn Dong",
+    "title": "Clinical Professor & Director of Inner City Health and Wellness",
+    "university": "University of Alberta Hospital - Division of Emergency Medicine",
+    "country": "Canada",
+    "department": "Inner City Health & Addiction Medicine",
+    "subject": "social-sciences",
+    "topics": [
+      "Addiction Medicine",
+      "Harm Reduction in Emergency Care",
+      "Social Determinants of Health"
+    ],
+    "summary": "Dr. Kathryn Dong is Clinical Professor & Director of Inner City Health and Wellness in the Inner City Health & Addiction Medicine at University of Alberta Hospital - Division of Emergency Medicine, conducting advanced research in Addiction Medicine, Harm Reduction in Emergency Care, Social Determinants of Health.",
+    "source": "https://www.ualberta.ca/emergency-medicine/faculty/kathryn-dong.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2796,
+    "name": "Douglas Hildebrand",
+    "title": "Director and Publisher",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "department": "Scholarly Publishing Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Scholarly Publishing",
+      "Open Access Economics",
+      "Monograph Sustainability"
+    ],
+    "summary": "Douglas Hildebrand is Director and Publisher in the Scholarly Publishing Management at University of Alberta Press - Scholarly Publishing Institute, conducting advanced research in Scholarly Publishing, Open Access Economics, Monograph Sustainability.",
+    "source": "https://www.ualberta.ca/press/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2797,
+    "name": "Cathie Crooks",
+    "title": "Associate Director & Editorial Board Secretary",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "department": "Editorial Governance & Academic Peer Review",
+    "subject": "arts-design",
+    "topics": [
+      "Book Production",
+      "Editorial Policy",
+      "Literary Nonfiction"
+    ],
+    "summary": "Cathie Crooks is Associate Director & Editorial Board Secretary in the Editorial Governance & Academic Peer Review at University of Alberta Press - Scholarly Publishing Institute, conducting advanced research in Book Production, Editorial Policy, Literary Nonfiction.",
+    "source": "https://www.ualberta.ca/press/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2798,
+    "name": "Alan Brownoff",
+    "title": "Senior Book Designer & Typographer",
+    "university": "University of Alberta Press - Scholarly Publishing Institute",
+    "country": "Canada",
+    "department": "Design, Production and Print Technology",
+    "subject": "arts-design",
+    "topics": [
+      "Book Typography",
+      "Editorial Design Grids",
+      "Publication Aesthetics"
+    ],
+    "summary": "Alan Brownoff is Senior Book Designer & Typographer in the Design, Production and Print Technology at University of Alberta Press - Scholarly Publishing Institute, conducting advanced research in Book Typography, Editorial Design Grids, Publication Aesthetics.",
+    "source": "https://www.ualberta.ca/press/about-us/staff.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2799,
+    "name": "Gabriel Miller",
+    "title": "President and Chief Executive Officer",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "department": "Executive Leadership & National Advocacy",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Advocacy",
+      "National Research Strategy",
+      "Public Policy Governance"
+    ],
+    "summary": "Gabriel Miller is President and Chief Executive Officer in the Executive Leadership & National Advocacy at Universities Canada / Universités Canada, conducting advanced research in Higher Education Advocacy, National Research Strategy, Public Policy Governance.",
+    "source": "https://univcan.ca/about-us/our-team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2800,
+    "name": "Dr. Paul Davidson",
+    "title": "Senior Policy Fellow & Former President",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "department": "International Higher Education & Research Diplomacy",
+    "subject": "social-sciences",
+    "topics": [
+      "International Education Mobility",
+      "Tri-Council Research Investment",
+      "Global University Partnerships"
+    ],
+    "summary": "Dr. Paul Davidson is Senior Policy Fellow & Former President in the International Higher Education & Research Diplomacy at Universities Canada / Universités Canada, conducting advanced research in International Education Mobility, Tri-Council Research Investment, Global University Partnerships.",
+    "source": "https://univcan.ca/about-us/our-team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2801,
+    "name": "Wendy Therrien",
+    "title": "Director of Research and Public Policy",
+    "university": "Universities Canada / Universités Canada",
+    "country": "Canada",
+    "department": "Research, Policy and International Relations",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Statistics",
+      "Innovation Policy",
+      "Equity in Academic Funding"
+    ],
+    "summary": "Wendy Therrien is Director of Research and Public Policy in the Research, Policy and International Relations at Universities Canada / Universités Canada, conducting advanced research in Higher Education Statistics, Innovation Policy, Equity in Academic Funding.",
+    "source": "https://univcan.ca/about-us/our-team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2802,
+    "name": "Prof. Dr. Michael Heise",
+    "title": "Scientific Director & Chief Economist",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "department": "International Macroeconomics and Trade Analysis",
+    "subject": "social-sciences",
+    "topics": [
+      "International Trade Flows",
+      "Geoeconomics",
+      "European Monetary Policy"
+    ],
+    "summary": "Prof. Dr. Michael Heise is Scientific Director & Chief Economist in the International Macroeconomics and Trade Analysis at Bayerische Akademie für Außenwirtschaft (BAA München), conducting advanced research in International Trade Flows, Geoeconomics, European Monetary Policy.",
+    "source": "https://www.bayerischeakademie.de/ueber-uns/dozenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2803,
+    "name": "Dr. jur. Hans-Jürgen Müller",
+    "title": "Head of Customs Law & International Trade Regulation",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "department": "Customs and Commercial Law",
+    "subject": "social-sciences",
+    "topics": [
+      "European Customs Law",
+      "Export Control Regulations",
+      "WTO Jurisprudence"
+    ],
+    "summary": "Dr. jur. Hans-Jürgen Müller is Head of Customs Law & International Trade Regulation in the Customs and Commercial Law at Bayerische Akademie für Außenwirtschaft (BAA München), conducting advanced research in European Customs Law, Export Control Regulations, WTO Jurisprudence.",
+    "source": "https://www.bayerischeakademie.de/ueber-uns/dozenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2804,
+    "name": "Claudia Weinzierl",
+    "title": "Director of International Supply Chain Practicums",
+    "university": "Bayerische Akademie für Außenwirtschaft (BAA München)",
+    "country": "Germany",
+    "department": "Logistics and Global Freight Governance",
+    "subject": "social-sciences",
+    "topics": [
+      "Maritime Logistics",
+      "Supply Chain Due Diligence",
+      "Incoterms Risk Structuring"
+    ],
+    "summary": "Claudia Weinzierl is Director of International Supply Chain Practicums in the Logistics and Global Freight Governance at Bayerische Akademie für Außenwirtschaft (BAA München), conducting advanced research in Maritime Logistics, Supply Chain Due Diligence, Incoterms Risk Structuring.",
+    "source": "https://www.bayerischeakademie.de/ueber-uns/dozenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2805,
+    "name": "Prof. Dr. Rüdiger Reinhardt",
+    "title": "Scientific Director & Professor of Business Psychology",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "department": "Department of Organizational Behavior & Change",
+    "subject": "social-sciences",
+    "topics": [
+      "Organizational Psychology",
+      "Knowledge Management",
+      "Agile Leadership"
+    ],
+    "summary": "Prof. Dr. Rüdiger Reinhardt is Scientific Director & Professor of Business Psychology in the Department of Organizational Behavior & Change at HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie, conducting advanced research in Organizational Psychology, Knowledge Management, Agile Leadership.",
+    "source": "https://www.hfwu-wpx.de/ueber-uns/team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2806,
+    "name": "Prof. Dr. Carsten Schermuly",
+    "title": "Guest Professor of Psychological Empowerment",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "department": "Leadership & Work Psychology Research Group",
+    "subject": "social-sciences",
+    "topics": [
+      "Psychological Empowerment",
+      "New Work Dynamics",
+      "Team Coaching"
+    ],
+    "summary": "Prof. Dr. Carsten Schermuly is Guest Professor of Psychological Empowerment in the Leadership & Work Psychology Research Group at HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie, conducting advanced research in Psychological Empowerment, New Work Dynamics, Team Coaching.",
+    "source": "https://www.hfwu-wpx.de/ueber-uns/team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2807,
+    "name": "Dr. Julia Scharnhorst",
+    "title": "Senior Lecturer in Health Psychology & Workplace Ergonomics",
+    "university": "HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie",
+    "country": "Germany",
+    "department": "Occupational Health and Psychometrics",
+    "subject": "social-sciences",
+    "topics": [
+      "Occupational Stress Prevention",
+      "Mental Health in Hybrid Work",
+      "Psychometric Testing"
+    ],
+    "summary": "Dr. Julia Scharnhorst is Senior Lecturer in Health Psychology & Workplace Ergonomics in the Occupational Health and Psychometrics at HfWU Nürtingen-Geislingen - Fernstudienzentrum Wirtschaftspsychologie, conducting advanced research in Occupational Stress Prevention, Mental Health in Hybrid Work, Psychometric Testing.",
+    "source": "https://www.hfwu-wpx.de/ueber-uns/team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2808,
+    "name": "Prof. Dr. rer. nat. Olaf Krause",
+    "title": "Professor of Refractory Materials & High Temperature Technology",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "department": "Department of Materials Engineering, Glass and Ceramics",
+    "subject": "engineering",
+    "topics": [
+      "Refractory Materials",
+      "Thermomechanics",
+      "High-Temperature Corrosion"
+    ],
+    "summary": "Prof. Dr. rer. nat. Olaf Krause is Professor of Refractory Materials & High Temperature Technology in the Department of Materials Engineering, Glass and Ceramics at Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen, conducting advanced research in Refractory Materials, Thermomechanics, High-Temperature Corrosion.",
+    "source": "https://www.hs-koblenz.de/westerwaldcampus/ansprechpersonen/prof-dr-olaf-krause",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2809,
+    "name": "Prof. Dr. rer. nat. Peter Quirmbach",
+    "title": "Honorary Professor & Chairman of the Board of FGK",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "department": "Ceramic Raw Materials & Technical Sintering",
+    "subject": "chemistry",
+    "topics": [
+      "Ceramic Raw Materials",
+      "Sintering Kinetics",
+      "Sustainable Mineral Processing"
+    ],
+    "summary": "Prof. Dr. rer. nat. Peter Quirmbach is Honorary Professor & Chairman of the Board of FGK in the Ceramic Raw Materials & Technical Sintering at Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen, conducting advanced research in Ceramic Raw Materials, Sintering Kinetics, Sustainable Mineral Processing.",
+    "source": "https://www.hs-koblenz.de/westerwaldcampus/ansprechpersonen/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2810,
+    "name": "Prof. Jens Gussek",
+    "title": "Professor of Artistic Glass & Head of IKKG",
+    "university": "Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen",
+    "country": "Germany",
+    "department": "Institute for Ceramic Art and Design (IKKG)",
+    "subject": "arts-design",
+    "topics": [
+      "Contemporary Glass Sculpture",
+      "Kiln Cast Glass",
+      "Material Aesthetics"
+    ],
+    "summary": "Prof. Jens Gussek is Professor of Artistic Glass & Head of IKKG in the Institute for Ceramic Art and Design (IKKG) at Hochschule Koblenz - WesterwaldCampus Höhr-Grenzhausen, conducting advanced research in Contemporary Glass Sculpture, Kiln Cast Glass, Material Aesthetics.",
+    "source": "https://www.hs-koblenz.de/ikkg/team/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2811,
+    "name": "Prof. Dr. Linda Breitlauch",
+    "title": "Professor of Game Design & Interactive Media",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "department": "Department of Intermedia Design",
+    "subject": "arts-design",
+    "topics": [
+      "Game Design Theory",
+      "Interactive Storytelling",
+      "Spatial Media Aesthetics"
+    ],
+    "summary": "Prof. Dr. Linda Breitlauch is Professor of Game Design & Interactive Media in the Department of Intermedia Design at Hochschule Trier - Campus Gestaltung (Gebäude L), conducting advanced research in Game Design Theory, Interactive Storytelling, Spatial Media Aesthetics.",
+    "source": "https://www.hochschule-trier.de/gestaltung/personen/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2812,
+    "name": "Prof. Robert Göhringer",
+    "title": "Dean of Campus Gestaltung & Professor of Architecture",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "department": "Department of Architecture & Construction Technology",
+    "subject": "arts-design",
+    "topics": [
+      "Architectural Construction",
+      "Sustainable Timber Engineering",
+      "Heritage Conservation"
+    ],
+    "summary": "Prof. Robert Göhringer is Dean of Campus Gestaltung & Professor of Architecture in the Department of Architecture & Construction Technology at Hochschule Trier - Campus Gestaltung (Gebäude L), conducting advanced research in Architectural Construction, Sustainable Timber Engineering, Heritage Conservation.",
+    "source": "https://www.hochschule-trier.de/gestaltung/personen/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2813,
+    "name": "Prof. Theo Smeets",
+    "title": "Professor of Gemstones and Jewellery Art",
+    "university": "Hochschule Trier - Campus Gestaltung (Gebäude L)",
+    "country": "Germany",
+    "department": "Campus Idar-Oberstein (Gemstones & Jewellery)",
+    "subject": "arts-design",
+    "topics": [
+      "Contemporary Jewellery Art",
+      "Conceptual Metalwork",
+      "Gemstone Lapidary Innovation"
+    ],
+    "summary": "Prof. Theo Smeets is Professor of Gemstones and Jewellery Art in the Campus Idar-Oberstein (Gemstones & Jewellery) at Hochschule Trier - Campus Gestaltung (Gebäude L), conducting advanced research in Contemporary Jewellery Art, Conceptual Metalwork, Gemstone Lapidary Innovation.",
+    "source": "https://www.hochschule-trier.de/gestaltung/personen/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2814,
+    "name": "Prof. Dr.-Ing. Karsten Wehner",
+    "title": "Professor of Marine Engineering & Ship Propulsion",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "department": "Department of Maritime Studies (Campus Warnemünde)",
+    "subject": "engineering",
+    "topics": [
+      "Marine Propulsion Systems",
+      "Ship Auxiliary Engines",
+      "Alternative Marine Fuels"
+    ],
+    "summary": "Prof. Dr.-Ing. Karsten Wehner is Professor of Marine Engineering & Ship Propulsion in the Department of Maritime Studies (Campus Warnemünde) at Hochschule Wismar - University of Applied Sciences: Technology, Business and Design, conducting advanced research in Marine Propulsion Systems, Ship Auxiliary Engines, Alternative Marine Fuels.",
+    "source": "https://www.hs-wismar.de/ansprechpersonen/prof-dr-ing-karsten-wehner/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2815,
+    "name": "Prof. Michael F. Rohde",
+    "title": "Professor of Architectural Lighting Design",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "department": "Faculty of Design",
+    "subject": "arts-design",
+    "topics": [
+      "Architectural Lighting",
+      "Daylight Integration",
+      "Circadian Urban Lighting"
+    ],
+    "summary": "Prof. Michael F. Rohde is Professor of Architectural Lighting Design in the Faculty of Design at Hochschule Wismar - University of Applied Sciences: Technology, Business and Design, conducting advanced research in Architectural Lighting, Daylight Integration, Circadian Urban Lighting.",
+    "source": "https://www.hs-wismar.de/ansprechpersonen/prof-michael-f-rohde/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2816,
+    "name": "Prof. Dr.-Ing. Carlos Jahn",
+    "title": "Senior Professor of Maritime Logistics & Port Operations",
+    "university": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "country": "Germany",
+    "department": "Faculty of Engineering & Maritime Transport",
+    "subject": "engineering",
+    "topics": [
+      "Port Automation",
+      "Intermodal Freight Simulation",
+      "Maritime Telematics"
+    ],
+    "summary": "Prof. Dr.-Ing. Carlos Jahn is Senior Professor of Maritime Logistics & Port Operations in the Faculty of Engineering & Maritime Transport at Hochschule Wismar - University of Applied Sciences: Technology, Business and Design, conducting advanced research in Port Automation, Intermodal Freight Simulation, Maritime Telematics.",
+    "source": "https://www.hs-wismar.de/ansprechpersonen/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2817,
+    "name": "Prof. Dott. Franco De Magistris",
+    "title": "Polo Academic Director & Professor of Educational Pedagogy",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "department": "Department of Pedagogical and Didactic Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Didactic Innovation",
+      "Special Educational Needs (BES)",
+      "Pedagogical Sociology"
+    ],
+    "summary": "Prof. Dott. Franco De Magistris is Polo Academic Director & Professor of Educational Pedagogy in the Department of Pedagogical and Didactic Sciences at Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto, conducting advanced research in Didactic Innovation, Special Educational Needs (BES), Pedagogical Sociology.",
+    "source": "https://www.uniscuole.eu/chi-siamo/docenti/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2818,
+    "name": "Prof.ssa Dott.ssa Silvia Marchesi",
+    "title": "Senior Lecturer in Business Law and Industrial Intellectual Property",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "department": "Department of Jurisprudence and Corporate Governance",
+    "subject": "social-sciences",
+    "topics": [
+      "Agri-Food Law",
+      "Corporate Compliance",
+      "Digital IP Protection"
+    ],
+    "summary": "Prof.ssa Dott.ssa Silvia Marchesi is Senior Lecturer in Business Law and Industrial Intellectual Property in the Department of Jurisprudence and Corporate Governance at Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto, conducting advanced research in Agri-Food Law, Corporate Compliance, Digital IP Protection.",
+    "source": "https://www.uniscuole.eu/chi-siamo/docenti/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2819,
+    "name": "Dott. Alessandro Berselli",
+    "title": "Coordinator of Criminological Studies & Behavioral Forensics",
+    "university": "Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto",
+    "country": "Italy",
+    "department": "Institute of Criminology and Forensic Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Investigative Criminology",
+      "Cyber Forensics",
+      "Victimology"
+    ],
+    "summary": "Dott. Alessandro Berselli is Coordinator of Criminological Studies & Behavioral Forensics in the Institute of Criminology and Forensic Psychology at Uniscuole Pegaso - Polo di Studio San Giovanni in Persiceto, conducting advanced research in Investigative Criminology, Cyber Forensics, Victimology.",
+    "source": "https://www.uniscuole.eu/chi-siamo/docenti/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2820,
+    "name": "Prof. Dott. Ermanno Carini",
+    "title": "President & Professor of Italian Literature",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "department": "Department of Philology and Leopardian Studies",
+    "subject": "arts-design",
+    "topics": [
+      "Leopardian Philology",
+      "19th-Century Italian Poetry",
+      "Textual Criticism"
+    ],
+    "summary": "Prof. Dott. Ermanno Carini is President & Professor of Italian Literature in the Department of Philology and Leopardian Studies at Università d'Istruzione Permanente Uniper Recanati, conducting advanced research in Leopardian Philology, 19th-Century Italian Poetry, Textual Criticism.",
+    "source": "https://www.uniperecanati.org/docenti/ermanno-carini",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2821,
+    "name": "Prof.ssa Maria Teresa Piermattei",
+    "title": "Head of Art History & Renaissance Studies",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "department": "Department of Visual Arts and Museology",
+    "subject": "arts-design",
+    "topics": [
+      "Renaissance Painting in the Marche",
+      "Lorenzo Lotto",
+      "Iconography"
+    ],
+    "summary": "Prof.ssa Maria Teresa Piermattei is Head of Art History & Renaissance Studies in the Department of Visual Arts and Museology at Università d'Istruzione Permanente Uniper Recanati, conducting advanced research in Renaissance Painting in the Marche, Lorenzo Lotto, Iconography.",
+    "source": "https://www.uniperecanati.org/docenti/maria-teresa-piermattei",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2822,
+    "name": "Dott. Marco Moroni",
+    "title": "Director of Historical and Economic Archives",
+    "university": "Università d'Istruzione Permanente Uniper Recanati",
+    "country": "Italy",
+    "department": "Department of Economic History and Territorial Demographics",
+    "subject": "social-sciences",
+    "topics": [
+      "Adriatic Economic History",
+      "Mezzadria Sharecropping Systems",
+      "Demographic Archives"
+    ],
+    "summary": "Dott. Marco Moroni is Director of Historical and Economic Archives in the Department of Economic History and Territorial Demographics at Università d'Istruzione Permanente Uniper Recanati, conducting advanced research in Adriatic Economic History, Mezzadria Sharecropping Systems, Demographic Archives.",
+    "source": "https://www.uniperecanati.org/docenti/marco-moroni",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2823,
+    "name": "Prof. Dott. Lorenzo Lo Muzio",
+    "title": "Rector of the University & Full Professor of Oral Pathology",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "department": "Department of Clinical and Experimental Medicine",
+    "subject": "biology",
+    "topics": [
+      "Oral Pathology",
+      "Clinical Oncology",
+      "Biomedical Higher Education"
+    ],
+    "summary": "Prof. Dott. Lorenzo Lo Muzio is Rector of the University & Full Professor of Oral Pathology in the Department of Clinical and Experimental Medicine at Università degli Studi di Foggia, conducting advanced research in Oral Pathology, Clinical Oncology, Biomedical Higher Education.",
+    "source": "https://www.unifg.it/it/ateneo/governance/rettore",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2824,
+    "name": "Prof.ssa Dott.ssa Maria Rosaria Corbo",
+    "title": "Full Professor of Food Microbiology & Biotechnology",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "department": "Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)",
+    "subject": "biology",
+    "topics": [
+      "Food Microbiology",
+      "Probiotics",
+      "Active Antimicrobial Packaging"
+    ],
+    "summary": "Prof.ssa Dott.ssa Maria Rosaria Corbo is Full Professor of Food Microbiology & Biotechnology in the Department of Agriculture, Food, Natural Resources and Engineering (DAFNE) at Università degli Studi di Foggia, conducting advanced research in Food Microbiology, Probiotics, Active Antimicrobial Packaging.",
+    "source": "https://www.unifg.it/it/rubrica/maria-rosaria-corbo",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2825,
+    "name": "Prof. Dott. Giancarlo Venditti",
+    "title": "Full Professor of Commercial and Banking Law",
+    "university": "Università degli Studi di Foggia",
+    "country": "Italy",
+    "department": "Department of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Commercial Law",
+      "Banking Regulation",
+      "Corporate Reorganization"
+    ],
+    "summary": "Prof. Dott. Giancarlo Venditti is Full Professor of Commercial and Banking Law in the Department of Law at Università degli Studi di Foggia, conducting advanced research in Commercial Law, Banking Regulation, Corporate Reorganization.",
+    "source": "https://www.unifg.it/it/rubrica/giancarlo-venditti",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2826,
+    "name": "Prof. Marco Mascia",
+    "title": "Director of the Human Rights Centre & UNESCO Chairholder",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "department": "Department of Political Science, Law, and International Studies (SPGI)",
+    "subject": "social-sciences",
+    "topics": [
+      "International Relations",
+      "European Union External Action",
+      "Democratic Governance"
+    ],
+    "summary": "Prof. Marco Mascia is Director of the Human Rights Centre & UNESCO Chairholder in the Department of Political Science, Law, and International Studies (SPGI) at Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca', conducting advanced research in International Relations, European Union External Action, Democratic Governance.",
+    "source": "https://unipd-centrodirittiumani.it/en/staff/marco-mascia",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2827,
+    "name": "Prof. Paolo De Stefani",
+    "title": "Professor of International Human Rights Law",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "department": "Department of Political Science, Law, and International Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "International Criminal Law",
+      "European Court of Human Rights",
+      "Children's Rights"
+    ],
+    "summary": "Prof. Paolo De Stefani is Professor of International Human Rights Law in the Department of Political Science, Law, and International Studies at Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca', conducting advanced research in International Criminal Law, European Court of Human Rights, Children's Rights.",
+    "source": "https://unipd-centrodirittiumani.it/en/staff/paolo-de-stefani",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2828,
+    "name": "Prof.ssa Paola Degani",
+    "title": "Associate Professor of Human Rights & Gender Politics",
+    "university": "Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca'",
+    "country": "Italy",
+    "department": "Department of Political Science, Law, and International Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Human Trafficking",
+      "Gender-Based Violence",
+      "Human Rights of Women"
+    ],
+    "summary": "Prof.ssa Paola Degani is Associate Professor of Human Rights & Gender Politics in the Department of Political Science, Law, and International Studies at Università degli Studi di Padova - Centro di Ateneo per i Diritti Umani 'Antonio Papisca', conducting advanced research in Human Trafficking, Gender-Based Violence, Human Rights of Women.",
+    "source": "https://unipd-centrodirittiumani.it/en/staff/paola-degani",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2829,
+    "name": "Avv. Dott. Nicola Giannattasio",
+    "title": "Director of Uni Puglia & Senior Lecturer in Labor Law",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "department": "Department of Legal and Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Labor Law",
+      "Industrial Relations",
+      "Digital Platform Regulation"
+    ],
+    "summary": "Avv. Dott. Nicola Giannattasio is Director of Uni Puglia & Senior Lecturer in Labor Law in the Department of Legal and Social Sciences at Università Privata Bari - Uni Puglia Polo di Alta Formazione, conducting advanced research in Labor Law, Industrial Relations, Digital Platform Regulation.",
+    "source": "https://uni.puglia.it/docenti/nicola-giannattasio",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2830,
+    "name": "Dott.ssa Valeria Petruzzelli",
+    "title": "Head of Pedagogical Studies and Special Education",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "department": "Department of Education and Human Development",
+    "subject": "social-sciences",
+    "topics": [
+      "Developmental Psychology",
+      "Special Educational Needs",
+      "Family Mediation"
+    ],
+    "summary": "Dott.ssa Valeria Petruzzelli is Head of Pedagogical Studies and Special Education in the Department of Education and Human Development at Università Privata Bari - Uni Puglia Polo di Alta Formazione, conducting advanced research in Developmental Psychology, Special Educational Needs, Family Mediation.",
+    "source": "https://uni.puglia.it/docenti/valeria-petruzzelli",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2831,
+    "name": "Dott. Michele Camporeale",
+    "title": "Coordinator of Health Management Programs",
+    "university": "Università Privata Bari - Uni Puglia Polo di Alta Formazione",
+    "country": "Italy",
+    "department": "Department of Health Administration and Kinesiology",
+    "subject": "social-sciences",
+    "topics": [
+      "Healthcare Economics",
+      "Clinical Risk Management",
+      "Sports Biomechanics"
+    ],
+    "summary": "Dott. Michele Camporeale is Coordinator of Health Management Programs in the Department of Health Administration and Kinesiology at Università Privata Bari - Uni Puglia Polo di Alta Formazione, conducting advanced research in Healthcare Economics, Clinical Risk Management, Sports Biomechanics.",
+    "source": "https://uni.puglia.it/docenti/michele-camporeale",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2832,
+    "name": "Dr. Gordon Jones",
+    "title": "President",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "department": "Executive Administration & Strategic Higher Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Community College Leadership",
+      "Workforce Development Innovation",
+      "Polytechnic Education"
+    ],
+    "summary": "Dr. Gordon Jones is President in the Executive Administration & Strategic Higher Education at College of Western Idaho, conducting advanced research in Community College Leadership, Workforce Development Innovation, Polytechnic Education.",
+    "source": "https://cwi.edu/about-cwi/presidents-office",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2833,
+    "name": "Dr. Denise Aberle-Cannata",
+    "title": "Provost and Vice President of Academic Affairs",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "department": "Office of the Provost & Curriculum Innovation",
+    "subject": "social-sciences",
+    "topics": [
+      "Academic Articulation",
+      "Accreditation Governance",
+      "Curriculum Design"
+    ],
+    "summary": "Dr. Denise Aberle-Cannata is Provost and Vice President of Academic Affairs in the Office of the Provost & Curriculum Innovation at College of Western Idaho, conducting advanced research in Academic Articulation, Accreditation Governance, Curriculum Design.",
+    "source": "https://cwi.edu/about-cwi/leadership",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2834,
+    "name": "Dr. Nicole Frank",
+    "title": "Department Chair of Physical and Life Sciences",
+    "university": "College of Western Idaho",
+    "country": "United States",
+    "department": "Department of Life Sciences & INBRE Research",
+    "subject": "biology",
+    "topics": [
+      "Undergraduate Biomedical Research",
+      "Cellular Biology Education",
+      "Biotechnology Curriculum"
+    ],
+    "summary": "Dr. Nicole Frank is Department Chair of Physical and Life Sciences in the Department of Life Sciences & INBRE Research at College of Western Idaho, conducting advanced research in Undergraduate Biomedical Research, Cellular Biology Education, Biotechnology Curriculum.",
+    "source": "https://cwi.edu/staff/nicole-frank",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2835,
+    "name": "Dr. Donald W. Sweeting",
+    "title": "Chancellor and Past President",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "department": "Office of the Chancellor & Historical Theology",
+    "subject": "social-sciences",
+    "topics": [
+      "Reformation History",
+      "Higher Education Leadership",
+      "Civic Theology"
+    ],
+    "summary": "Dr. Donald W. Sweeting is Chancellor and Past President in the Office of the Chancellor & Historical Theology at Colorado Christian University, conducting advanced research in Reformation History, Higher Education Leadership, Civic Theology.",
+    "source": "https://www.ccu.edu/about/leadership/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2836,
+    "name": "Dr. Allison Burkhart",
+    "title": "Dean of the School of Nursing and Health Sciences",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "department": "School of Nursing and Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Nursing Education",
+      "Clinical Simulation Pedagogy",
+      "Healthcare Ethics"
+    ],
+    "summary": "Dr. Allison Burkhart is Dean of the School of Nursing and Health Sciences in the School of Nursing and Health Sciences at Colorado Christian University, conducting advanced research in Nursing Education, Clinical Simulation Pedagogy, Healthcare Ethics.",
+    "source": "https://www.ccu.edu/faculty/allison-burkhart",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2837,
+    "name": "Jeff Hunt",
+    "title": "Director of the Centennial Institute",
+    "university": "Colorado Christian University",
+    "country": "United States",
+    "department": "The Centennial Institute & Public Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Constitutional Law",
+      "Public Policy Analysis",
+      "Western Political Economy"
+    ],
+    "summary": "Jeff Hunt is Director of the Centennial Institute in the The Centennial Institute & Public Policy at Colorado Christian University, conducting advanced research in Constitutional Law, Public Policy Analysis, Western Political Economy.",
+    "source": "https://centennial.ccu.edu/about/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2838,
+    "name": "Dr. Matthew Gianneschi",
+    "title": "Chief Operating Officer and President of Colorado Mountain College",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "department": "Executive Leadership & Mountain Education Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Rural Higher Education Access",
+      "Alpine Campus Economics",
+      "Workforce Dual Enrollment"
+    ],
+    "summary": "Dr. Matthew Gianneschi is Chief Operating Officer and President of Colorado Mountain College in the Executive Leadership & Mountain Education Policy at Colorado Mountain College - Leadville Campus, conducting advanced research in Rural Higher Education Access, Alpine Campus Economics, Workforce Dual Enrollment.",
+    "source": "https://coloradomtn.edu/about-cmc/leadership/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2839,
+    "name": "Kelly L. Erb",
+    "title": "Associate Professor of Avalanche Science and Ski Operations",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "department": "Department of Ski Area Operations & Mountain Safety",
+    "subject": "engineering",
+    "topics": [
+      "Snowpack Metamorphism",
+      "Avalanche Hazard Modeling",
+      "Ski Area Ropeway Systems"
+    ],
+    "summary": "Kelly L. Erb is Associate Professor of Avalanche Science and Ski Operations in the Department of Ski Area Operations & Mountain Safety at Colorado Mountain College - Leadville Campus, conducting advanced research in Snowpack Metamorphism, Avalanche Hazard Modeling, Ski Area Ropeway Systems.",
+    "source": "https://coloradomtn.edu/faculty/kelly-erb",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2840,
+    "name": "Dr. Nathan Stewart",
+    "title": "Professor of Ecosystem Science & High-Altitude Restoration",
+    "university": "Colorado Mountain College - Leadville Campus",
+    "country": "United States",
+    "department": "Department of Natural Resource Management & Ecosystem Science",
+    "subject": "environment",
+    "topics": [
+      "High-Altitude Forest Ecology",
+      "Mine Waste Phytoremediation",
+      "Alpine Hydrology"
+    ],
+    "summary": "Dr. Nathan Stewart is Professor of Ecosystem Science & High-Altitude Restoration in the Department of Natural Resource Management & Ecosystem Science at Colorado Mountain College - Leadville Campus, conducting advanced research in High-Altitude Forest Ecology, Mine Waste Phytoremediation, Alpine Hydrology.",
+    "source": "https://coloradomtn.edu/faculty/nathan-stewart",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2841,
+    "name": "Dr. Becky Takeda-Tinker",
+    "title": "President and CEO",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "department": "Executive Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Online Higher Education Policy",
+      "Adult Learning Economies",
+      "Workforce Degree Alignment"
+    ],
+    "summary": "Dr. Becky Takeda-Tinker is President and CEO in the Executive Office of the President at Colorado State University Global, conducting advanced research in Online Higher Education Policy, Adult Learning Economies, Workforce Degree Alignment.",
+    "source": "https://csuglobal.edu/about/leadership",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2842,
+    "name": "Dr. Audra Spicer",
+    "title": "Provost and Chief Academic Officer",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "department": "Office of Academic Affairs & Accreditation",
+    "subject": "social-sciences",
+    "topics": [
+      "Digital Learning Pedagogy",
+      "Higher Learning Commission Governance",
+      "Curriculum Assessment"
+    ],
+    "summary": "Dr. Audra Spicer is Provost and Chief Academic Officer in the Office of Academic Affairs & Accreditation at Colorado State University Global, conducting advanced research in Digital Learning Pedagogy, Higher Learning Commission Governance, Curriculum Assessment.",
+    "source": "https://csuglobal.edu/about/leadership",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2843,
+    "name": "Dr. Lorie Liebrock",
+    "title": "Program Director of Cybersecurity and Information Technology",
+    "university": "Colorado State University Global",
+    "country": "United States",
+    "department": "School of Science, Technology, and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Cyber Threat Intelligence",
+      "High-Performance Computing Security",
+      "Information Assurance"
+    ],
+    "summary": "Dr. Lorie Liebrock is Program Director of Cybersecurity and Information Technology in the School of Science, Technology, and Engineering at Colorado State University Global, conducting advanced research in Cyber Threat Intelligence, High-Performance Computing Security, Information Assurance.",
+    "source": "https://csuglobal.edu/faculty/lorie-liebrock",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2844,
+    "name": "Dr. Elise Baskel",
+    "title": "President",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "department": "Executive Leadership & Academic Innovation",
+    "subject": "social-sciences",
+    "topics": [
+      "Higher Education Administration",
+      "Adaptive Learning Systems",
+      "Career Mobility Outcomes"
+    ],
+    "summary": "Dr. Elise Baskel is President in the Executive Leadership & Academic Innovation at Colorado Technical University, conducting advanced research in Higher Education Administration, Adaptive Learning Systems, Career Mobility Outcomes.",
+    "source": "https://www.coloradotech.edu/about/leadership",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2845,
+    "name": "Dr. Connie Johnson",
+    "title": "Chancellor and Chief Academic Officer",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "department": "Office of the Chancellor & Academic Curriculum",
+    "subject": "social-sciences",
+    "topics": [
+      "Adaptive Learning Analytics (intellipath®)",
+      "Curriculum Alignment",
+      "Distance Learning Quality"
+    ],
+    "summary": "Dr. Connie Johnson is Chancellor and Chief Academic Officer in the Office of the Chancellor & Academic Curriculum at Colorado Technical University, conducting advanced research in Adaptive Learning Analytics (intellipath®), Curriculum Alignment, Distance Learning Quality.",
+    "source": "https://www.coloradotech.edu/about/leadership",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2846,
+    "name": "Dr. Bopper Dey",
+    "title": "Dean of the College of Computer Science and Technology",
+    "university": "Colorado Technical University",
+    "country": "United States",
+    "department": "College of Computer Science and Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Software Engineering Education",
+      "Cyber Defense Architectures",
+      "Cloud Scalability"
+    ],
+    "summary": "Dr. Bopper Dey is Dean of the College of Computer Science and Technology in the College of Computer Science and Technology at Colorado Technical University, conducting advanced research in Software Engineering Education, Cyber Defense Architectures, Cloud Scalability.",
+    "source": "https://www.coloradotech.edu/faculty/bopper-dey",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2847,
+    "name": "Prof. Kosaku Dairokuno",
+    "title": "President of Meiji University & Professor of Political Science",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "department": "School of Political Science and Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "Comparative Politics",
+      "Electoral Systems",
+      "Higher Education Administration"
+    ],
+    "summary": "Prof. Kosaku Dairokuno is President of Meiji University & Professor of Political Science in the School of Political Science and Economics at Meiji University - Izumi Campus, conducting advanced research in Comparative Politics, Electoral Systems, Higher Education Administration.",
+    "source": "https://www.meiji.ac.jp/cip/english/about/president/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2848,
+    "name": "Prof. Kaichiro Morikawa",
+    "title": "Associate Professor of Global Japanese Studies",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "department": "School of Global Japanese Studies",
+    "subject": "arts-design",
+    "topics": [
+      "Otaku Culture Architecture",
+      "Subcultural Geography",
+      "Contemporary Japanese Media"
+    ],
+    "summary": "Prof. Kaichiro Morikawa is Associate Professor of Global Japanese Studies in the School of Global Japanese Studies at Meiji University - Izumi Campus, conducting advanced research in Otaku Culture Architecture, Subcultural Geography, Contemporary Japanese Media.",
+    "source": "https://www.meiji.ac.jp/cip/english/faculty/morikawa.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2849,
+    "name": "Prof. Mariko Inoue",
+    "title": "Professor of Modern Japanese Literature & Women's Writing",
+    "university": "Meiji University - Izumi Campus",
+    "country": "Japan",
+    "department": "School of Arts and Letters (Izumi Campus)",
+    "subject": "arts-design",
+    "topics": [
+      "Modern Japanese Literature",
+      "Feminist Literary Criticism",
+      "Meiji Era Narrative Theory"
+    ],
+    "summary": "Prof. Mariko Inoue is Professor of Modern Japanese Literature & Women's Writing in the School of Arts and Letters (Izumi Campus) at Meiji University - Izumi Campus, conducting advanced research in Modern Japanese Literature, Feminist Literary Criticism, Meiji Era Narrative Theory.",
+    "source": "https://www.meiji.ac.jp/cip/english/faculty/inoue.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2850,
+    "name": "Prof. Yasushi Suenaga",
+    "title": "President & Professor of Christian Theology",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "department": "Office of the President & Institute for Christian Culture",
+    "subject": "social-sciences",
+    "topics": [
+      "Christian Ethics",
+      "Women's Higher Education History",
+      "Peace Pedagogy"
+    ],
+    "summary": "Prof. Yasushi Suenaga is President & Professor of Christian Theology in the Office of the President & Institute for Christian Culture at Miyagi Gakuin Women's University, conducting advanced research in Christian Ethics, Women's Higher Education History, Peace Pedagogy.",
+    "source": "https://www.mgu.ac.jp/about/president/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2851,
+    "name": "Prof. Dr. Hiroshi Hirahara",
+    "title": "Professor of Food Chemistry and Lipid Nutrition",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "department": "Department of Food and Nutritional Sciences",
+    "subject": "chemistry",
+    "topics": [
+      "Lipid Biochemistry",
+      "Functional Food Chemistry",
+      "Antioxidant Mechanisms"
+    ],
+    "summary": "Prof. Dr. Hiroshi Hirahara is Professor of Food Chemistry and Lipid Nutrition in the Department of Food and Nutritional Sciences at Miyagi Gakuin Women's University, conducting advanced research in Lipid Biochemistry, Functional Food Chemistry, Antioxidant Mechanisms.",
+    "source": "https://www.mgu.ac.jp/faculty/hirahara.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2852,
+    "name": "Prof. Chieko Seno",
+    "title": "Professor of Vocal Performance and Choral Direction",
+    "university": "Miyagi Gakuin Women's University",
+    "country": "Japan",
+    "department": "Department of Music",
+    "subject": "arts-design",
+    "topics": [
+      "Vocal Pedagogy",
+      "Choral Literature",
+      "Sacred Music Performance"
+    ],
+    "summary": "Prof. Chieko Seno is Professor of Vocal Performance and Choral Direction in the Department of Music at Miyagi Gakuin Women's University, conducting advanced research in Vocal Pedagogy, Choral Literature, Sacred Music Performance.",
+    "source": "https://www.mgu.ac.jp/faculty/seno.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2853,
+    "name": "Prof. Masayuki Ito",
+    "title": "President & Professor of Media Art and Cinema",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "department": "Faculty of Media Studies",
+    "subject": "arts-design",
+    "topics": [
+      "Film Production Theory",
+      "Visual Narrative Structures",
+      "Digital Media Aesthetics"
+    ],
+    "summary": "Prof. Masayuki Ito is President & Professor of Media Art and Cinema in the Faculty of Media Studies at Nagoya University of Arts and Sciences, conducting advanced research in Film Production Theory, Visual Narrative Structures, Digital Media Aesthetics.",
+    "source": "https://www.nuas.ac.jp/about/president/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2854,
+    "name": "Prof. Dr. Michiko Hayashi",
+    "title": "Professor of Nutritional Biochemistry and Clinical Metabolism",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "department": "Faculty of Nutritional Sciences",
+    "subject": "biology",
+    "topics": [
+      "Nutritional Biochemistry",
+      "Metabolic Syndrome Prevention",
+      "Functional Food Lipids"
+    ],
+    "summary": "Prof. Dr. Michiko Hayashi is Professor of Nutritional Biochemistry and Clinical Metabolism in the Faculty of Nutritional Sciences at Nagoya University of Arts and Sciences, conducting advanced research in Nutritional Biochemistry, Metabolic Syndrome Prevention, Functional Food Lipids.",
+    "source": "https://www.nuas.ac.jp/faculty/nutrition/professors.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2855,
+    "name": "Prof. Shuji Yamada",
+    "title": "Professor of Visual Communication & Spatial Graphic Systems",
+    "university": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "department": "Faculty of Design",
+    "subject": "arts-design",
+    "topics": [
+      "Environmental Graphic Design",
+      "Visual Branding",
+      "Signage Systems Architecture"
+    ],
+    "summary": "Prof. Shuji Yamada is Professor of Visual Communication & Spatial Graphic Systems in the Faculty of Design at Nagoya University of Arts and Sciences, conducting advanced research in Environmental Graphic Design, Visual Branding, Signage Systems Architecture.",
+    "source": "https://www.nuas.ac.jp/faculty/design/professors.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2856,
+    "name": "Dr. Hiroyuki Kurimoto",
+    "title": "President & Professor of Business Economics",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "department": "Executive Board of Trustees",
+    "subject": "social-sciences",
+    "topics": [
+      "Business School Accreditation",
+      "Case Method Pedagogy",
+      "Asian Economic Integration"
+    ],
+    "summary": "Dr. Hiroyuki Kurimoto is President & Professor of Business Economics in the Executive Board of Trustees at Nagoya University of Commerce and Business - Nagoya Campus (NUCB), conducting advanced research in Business School Accreditation, Case Method Pedagogy, Asian Economic Integration.",
+    "source": "https://www.nucba.ac.jp/en/about/president/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2857,
+    "name": "Prof. Furen Lin",
+    "title": "Dean of NUCB Business School & Professor of Strategic Management",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "department": "Graduate School of Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Strategic Management",
+      "Supply Chain Innovation",
+      "Technology Commercialization"
+    ],
+    "summary": "Prof. Furen Lin is Dean of NUCB Business School & Professor of Strategic Management in the Graduate School of Management at Nagoya University of Commerce and Business - Nagoya Campus (NUCB), conducting advanced research in Strategic Management, Supply Chain Innovation, Technology Commercialization.",
+    "source": "https://mba.nucba.ac.jp/en/faculty/lin.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2858,
+    "name": "Prof. Dr. Jiro Usugami",
+    "title": "Professor of Organizational Behavior & Human Resource Strategy",
+    "university": "Nagoya University of Commerce and Business - Nagoya Campus (NUCB)",
+    "country": "Japan",
+    "department": "Department of Organizational Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Japanese Management Systems",
+      "Cross-Cultural Leadership",
+      "Organizational Longevity"
+    ],
+    "summary": "Prof. Dr. Jiro Usugami is Professor of Organizational Behavior & Human Resource Strategy in the Department of Organizational Leadership at Nagoya University of Commerce and Business - Nagoya Campus (NUCB), conducting advanced research in Japanese Management Systems, Cross-Cultural Leadership, Organizational Longevity.",
+    "source": "https://mba.nucba.ac.jp/en/faculty/usugami.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2859,
+    "name": "Prof. Kenshiro Matsunami",
+    "title": "Chairman of the Board of Trustees & Professor of Physical Education",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "department": "Executive Board of Trustees",
+    "subject": "social-sciences",
+    "topics": [
+      "Olympic Sports Diplomacy",
+      "Martial Arts Philosophy",
+      "Sports Governance"
+    ],
+    "summary": "Prof. Kenshiro Matsunami is Chairman of the Board of Trustees & Professor of Physical Education in the Executive Board of Trustees at Nippon Sport Science University - Yokohama Kenshidai Campus, conducting advanced research in Olympic Sports Diplomacy, Martial Arts Philosophy, Sports Governance.",
+    "source": "https://www.nittai.ac.jp/about/board.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2860,
+    "name": "Prof. Dr. Yoshihiko Ishikawa",
+    "title": "Professor of Exercise Physiology and Hypoxic Training",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "department": "Department of Sports Science",
+    "subject": "biology",
+    "topics": [
+      "Hypoxic Exercise Physiology",
+      "Muscle Metabolism",
+      "Endurance Training Adaptation"
+    ],
+    "summary": "Prof. Dr. Yoshihiko Ishikawa is Professor of Exercise Physiology and Hypoxic Training in the Department of Sports Science at Nippon Sport Science University - Yokohama Kenshidai Campus, conducting advanced research in Hypoxic Exercise Physiology, Muscle Metabolism, Endurance Training Adaptation.",
+    "source": "https://www.nittai.ac.jp/faculty/ishikawa.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2861,
+    "name": "Prof. Dr. Mitsuo Sugimoto",
+    "title": "Head of Biomechanics and Motion Analysis Center",
+    "university": "Nippon Sport Science University - Yokohama Kenshidai Campus",
+    "country": "Japan",
+    "department": "Kenshidai Biomechanics Laboratory",
+    "subject": "physics",
+    "topics": [
+      "Sports Biomechanics",
+      "Force Plate Kinetic Analysis",
+      "Motion Capture Kinematics"
+    ],
+    "summary": "Prof. Dr. Mitsuo Sugimoto is Head of Biomechanics and Motion Analysis Center in the Kenshidai Biomechanics Laboratory at Nippon Sport Science University - Yokohama Kenshidai Campus, conducting advanced research in Sports Biomechanics, Force Plate Kinetic Analysis, Motion Capture Kinematics.",
+    "source": "https://www.nittai.ac.jp/faculty/sugimoto.html",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2862,
+    "name": "Dr. Marianne van der Heijden",
+    "title": "Academic Director & Head of Nurse Practitioner Curriculum",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "department": "Department of Clinical Education and Pharmacotherapy",
+    "subject": "biology",
+    "topics": [
+      "Nursing Education Pedagogy",
+      "Clinical Pharmacotherapy",
+      "Medication Safety Systems"
+    ],
+    "summary": "Dr. Marianne van der Heijden is Academic Director & Head of Nurse Practitioner Curriculum in the Department of Clinical Education and Pharmacotherapy at E-nursing Netherlands - Academy of Healthcare Education, conducting advanced research in Nursing Education Pedagogy, Clinical Pharmacotherapy, Medication Safety Systems.",
+    "source": "https://www.e-nursing.nl/over-ons/docenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2863,
+    "name": "Drs. Bart Meijer",
+    "title": "Senior Lecturer in Intensive Care & Respiratory Hemodynamics",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "department": "Acute and Critical Care Nursing Institute",
+    "subject": "biology",
+    "topics": [
+      "Mechanical Ventilation",
+      "Arterial Hemodynamics",
+      "ICU Clinical Competencies"
+    ],
+    "summary": "Drs. Bart Meijer is Senior Lecturer in Intensive Care & Respiratory Hemodynamics in the Acute and Critical Care Nursing Institute at E-nursing Netherlands - Academy of Healthcare Education, conducting advanced research in Mechanical Ventilation, Arterial Hemodynamics, ICU Clinical Competencies.",
+    "source": "https://www.e-nursing.nl/over-ons/docenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2864,
+    "name": "Ingrid de Ruiter",
+    "title": "Director of Digital Nursing Informatics & E-Health Innovation",
+    "university": "E-nursing Netherlands - Academy of Healthcare Education",
+    "country": "Netherlands",
+    "department": "Healthcare Telematics and Simulation",
+    "subject": "computer-science",
+    "topics": [
+      "Nursing Informatics",
+      "Telehealth Care Pathways",
+      "Clinical Decision Support"
+    ],
+    "summary": "Ingrid de Ruiter is Director of Digital Nursing Informatics & E-Health Innovation in the Healthcare Telematics and Simulation at E-nursing Netherlands - Academy of Healthcare Education, conducting advanced research in Nursing Informatics, Telehealth Care Pathways, Clinical Decision Support.",
+    "source": "https://www.e-nursing.nl/over-ons/docenten/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2865,
+    "name": "Drs. Wouter van Leeuwen",
+    "title": "Director of Academic Bridge Programs",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "department": "Department of Pre-University Transition Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Problem-Based Learning (PBL)",
+      "International Student Transitions",
+      "Comparative European Higher Education"
+    ],
+    "summary": "Drs. Wouter van Leeuwen is Director of Academic Bridge Programs in the Department of Pre-University Transition Studies at Indigo University Experience Netherlands, conducting advanced research in Problem-Based Learning (PBL), International Student Transitions, Comparative European Higher Education.",
+    "source": "https://www.indigocamps.com/team",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2866,
+    "name": "Dr. Sophie Brouwer",
+    "title": "Senior Tutor in STEM Research & Environmental Science",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "department": "Division of Natural Sciences and Artificial Intelligence",
+    "subject": "environment",
+    "topics": [
+      "Polder Hydrology",
+      "Environmental Citizen Science",
+      "Secondary STEM Curriculum"
+    ],
+    "summary": "Dr. Sophie Brouwer is Senior Tutor in STEM Research & Environmental Science in the Division of Natural Sciences and Artificial Intelligence at Indigo University Experience Netherlands, conducting advanced research in Polder Hydrology, Environmental Citizen Science, Secondary STEM Curriculum.",
+    "source": "https://www.indigocamps.com/team",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2867,
+    "name": "Elena Visser",
+    "title": "Head of International Admissions Mentorship",
+    "university": "Indigo University Experience Netherlands",
+    "country": "Netherlands",
+    "department": "Admissions Advisory and Career Exploration",
+    "subject": "social-sciences",
+    "topics": [
+      "Studielink Decentralized Selection",
+      "Numerus Fixus Strategies",
+      "Cross-Cultural Student Orientation"
+    ],
+    "summary": "Elena Visser is Head of International Admissions Mentorship in the Admissions Advisory and Career Exploration at Indigo University Experience Netherlands, conducting advanced research in Studielink Decentralized Selection, Numerus Fixus Strategies, Cross-Cultural Student Orientation.",
+    "source": "https://www.indigocamps.com/team",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2868,
+    "name": "Dr. Marcel Ham",
+    "title": "Managing Director of Rebel & Professor of Public-Private Partnerships",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "department": "Infrastructure Finance and Concession Governance",
+    "subject": "social-sciences",
+    "topics": [
+      "Public-Private Partnerships (PPP)",
+      "Infrastructure Concessions",
+      "Project Finance"
+    ],
+    "summary": "Dr. Marcel Ham is Managing Director of Rebel & Professor of Public-Private Partnerships in the Infrastructure Finance and Concession Governance at Rebel University Rotterdam - Executive Transition Academy, conducting advanced research in Public-Private Partnerships (PPP), Infrastructure Concessions, Project Finance.",
+    "source": "https://rebelgroup.com/en/people/marcel-ham/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2869,
+    "name": "Wouter Vos",
+    "title": "Lead Energy Transition Strategist & Academic Director",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "department": "Port Energy Transition and Maritime Economics",
+    "subject": "engineering",
+    "topics": [
+      "Hydrogen Supply Chains",
+      "Port Decarbonization",
+      "Renewable Energy Economics"
+    ],
+    "summary": "Wouter Vos is Lead Energy Transition Strategist & Academic Director in the Port Energy Transition and Maritime Economics at Rebel University Rotterdam - Executive Transition Academy, conducting advanced research in Hydrogen Supply Chains, Port Decarbonization, Renewable Energy Economics.",
+    "source": "https://rebelgroup.com/en/people/wouter-vos/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2870,
+    "name": "Anouk van der Lee",
+    "title": "Director of Circular Economy Analytics & Urban Metabolism",
+    "university": "Rebel University Rotterdam - Executive Transition Academy",
+    "country": "Netherlands",
+    "department": "Circular Economy and Sustainable Finance",
+    "subject": "social-sciences",
+    "topics": [
+      "Circular Economy Finance",
+      "Material Flow Modeling",
+      "Sustainable Urban Governance"
+    ],
+    "summary": "Anouk van der Lee is Director of Circular Economy Analytics & Urban Metabolism in the Circular Economy and Sustainable Finance at Rebel University Rotterdam - Executive Transition Academy, conducting advanced research in Circular Economy Finance, Material Flow Modeling, Sustainable Urban Governance.",
+    "source": "https://rebelgroup.com/en/people/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2871,
+    "name": "Prof. Dr. Herman Goossens",
+    "title": "Professor of Medical Microbiology & VAXINFECTIO Director",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "department": "Department of Medical Microbiology & Laboratory Medicine",
+    "subject": "biology",
+    "topics": [
+      "Antibiotic Resistance",
+      "Emerging Infectious Diseases",
+      "Clinical Trial Diagnostics"
+    ],
+    "summary": "Prof. Dr. Herman Goossens is Professor of Medical Microbiology & VAXINFECTIO Director in the Department of Medical Microbiology & Laboratory Medicine at University of Antwerp - Netherlands Academic Cross-Border Training Center, conducting advanced research in Antibiotic Resistance, Emerging Infectious Diseases, Clinical Trial Diagnostics.",
+    "source": "https://www.uantwerpen.be/en/staff/herman-goossens/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2872,
+    "name": "Prof. Dr. Guy Van Camp",
+    "title": "Full Professor of Medical Genetics & Molecular Neurosciences",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "department": "Center for Medical Genetics",
+    "subject": "biology",
+    "topics": [
+      "Hereditary Hearing Loss",
+      "Molecular Genetics",
+      "Genomic Medicine"
+    ],
+    "summary": "Prof. Dr. Guy Van Camp is Full Professor of Medical Genetics & Molecular Neurosciences in the Center for Medical Genetics at University of Antwerp - Netherlands Academic Cross-Border Training Center, conducting advanced research in Hereditary Hearing Loss, Molecular Genetics, Genomic Medicine.",
+    "source": "https://www.uantwerpen.be/en/staff/guy-vancamp/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2873,
+    "name": "Prof. Dr. Filip Lardon",
+    "title": "Vice-Rector & Head of the Center for Oncological Research (CORE)",
+    "university": "University of Antwerp - Netherlands Academic Cross-Border Training Center",
+    "country": "Netherlands",
+    "department": "Center for Oncological Research",
+    "subject": "biology",
+    "topics": [
+      "Tumor Biology",
+      "Head and Neck Cancers",
+      "Novel Antitumor Therapies"
+    ],
+    "summary": "Prof. Dr. Filip Lardon is Vice-Rector & Head of the Center for Oncological Research (CORE) in the Center for Oncological Research at University of Antwerp - Netherlands Academic Cross-Border Training Center, conducting advanced research in Tumor Biology, Head and Neck Cancers, Novel Antitumor Therapies.",
+    "source": "https://www.uantwerpen.be/en/staff/filip-lardon/",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2874,
+    "name": "Drs. Wim van de Pol",
+    "title": "Chairman of the Executive Board",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "department": "Executive Board of Trustees",
+    "subject": "social-sciences",
+    "topics": [
+      "Regional Vocational Education Policy",
+      "Apprenticeship Networks",
+      "Polytechnic Higher Education Articulation"
+    ],
+    "summary": "Drs. Wim van de Pol is Chairman of the Executive Board in the Executive Board of Trustees at Alfa-college - Campus Hardenberg, conducting advanced research in Regional Vocational Education Policy, Apprenticeship Networks, Polytechnic Higher Education Articulation.",
+    "source": "https://www.alfa-college.nl/over-alfa-college/college-van-bestuur",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2875,
+    "name": "Ing. Jan Hendrik van der Veen",
+    "title": "Head of Mechatronics and Robotics Engineering",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "department": "Department of Technology and Industrial Automation",
+    "subject": "engineering",
+    "topics": [
+      "Industrial Robotics",
+      "PLC Automation Systems",
+      "Agricultural Sensor Telematics"
+    ],
+    "summary": "Ing. Jan Hendrik van der Veen is Head of Mechatronics and Robotics Engineering in the Department of Technology and Industrial Automation at Alfa-college - Campus Hardenberg, conducting advanced research in Industrial Robotics, PLC Automation Systems, Agricultural Sensor Telematics.",
+    "source": "https://www.alfa-college.nl/locaties/hardenberg-parkweg",
+    "recruiting": "Not verified",
+    "reviewed": "2026-10-15"
+  },
+  {
+    "id": 2876,
+    "name": "Drs. Annelies Bouwman",
+    "title": "Director of Health Sciences and Nursing Education",
+    "university": "Alfa-college - Campus Hardenberg",
+    "country": "Netherlands",
+    "department": "Department of Health Care and Social Welfare",
+    "subject": "biology",
+    "topics": [
+      "Nursing Simulation Pedagogy",
+      "Clinical Competency Assessment",
+      "Healthcare Workforce Development"
+    ],
+    "summary": "Drs. Annelies Bouwman is Director of Health Sciences and Nursing Education in the Department of Health Care and Social Welfare at Alfa-college - Campus Hardenberg, conducting advanced research in Nursing Simulation Pedagogy, Clinical Competency Assessment, Healthcare Workforce Development.",
+    "source": "https://www.alfa-college.nl/locaties/hardenberg-parkweg",
     "recruiting": "Not verified",
     "reviewed": "2026-10-15"
   }];
