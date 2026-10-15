@@ -1,0 +1,2659 @@
+// Batch 53 Data - Part 3: Japan (10 Universities)
+// Opp IDs: 7256–7320 (65 opportunities)
+// Res IDs: 3168–3201 (34 researchers)
+
+export const batch53Part3 = [
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "The University of Tokyo - Komaba",
+    "shortName": "UTokyo Komaba",
+    "slug": "the-university-of-tokyo-komaba",
+    "location": "Meguro, Tokyo, Japan",
+    "website": "https://www.c.u-tokyo.ac.jp",
+    "sourceRow": 1759,
+    "stats": {
+      "established": 1949,
+      "students": "10,000+ undergraduate and graduate students",
+      "international": "15%",
+      "faculty": "400+ Professors & Lecturers"
+    },
+    "heroSummary": "The Komaba Campus of The University of Tokyo houses the College of Arts and Sciences, the Graduate School of Arts and Sciences, and the Graduate School of Mathematical Sciences, serving as Todai's epicenter for liberal arts, international English programs, and interdisciplinary frontiers.",
+    "academicOverview": "At Komaba, all University of Tokyo undergraduates spend their first two years in Junior Division liberal arts before advancing to specialized Senior Division faculties. Komaba also hosts celebrated full-degree English-medium programs including the PEAK undergraduate tracks (Programs in English at Komaba in Environmental Sciences and Japan in East Asia) and GPES (Graduate Program on Environmental Sciences). Its parkland campus in Meguro blends high-performance computational facilities, mathematical modeling laboratories, and humanities research institutes.",
+    "researchAdmissions": "Admission to PEAK programs requires secondary school completion, standardized test scores (SAT/ACT/IB/A-Levels), official academic transcripts, essays, and English proficiency (TOEFL iBT 100+ or IELTS 7.5+). Graduate programs (GPES and Mathematical Sciences) require a recognized bachelor's or master's degree, comprehensive research proposal, academic transcripts, and letters of recommendation. MEXT University Recommendation and Todai Komaba Merit Fellowships provide full funding.",
+    "opportunities": [
+      {
+        "id": 7256,
+        "title": "PEAK Bachelor of Science in Environmental Sciences",
+        "type": "Bachelor's",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2026-12-05",
+        "deadlineText": "December 5, 2026",
+        "funding": "University of Tokyo Foundation Scholarship covering full 4-year tuition plus ¥126,000 monthly stipend",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥5,000 application fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://peak.c.u-tokyo.ac.jp/apply/environmental-sciences/",
+        "status": "verified-deadline",
+        "desc": "Four-year English-taught undergraduate degree combining environmental chemistry, global biodiversity, climate dynamics, energy policy, and field observation across Japan.",
+        "requirements": {
+          "gpa": "High school graduation diploma with exceptional achievement in Mathematics, Chemistry, and Biology.",
+          "ielts": "TOEFL iBT 100+ or Academic IELTS 7.5+ (native English speakers exempt).",
+          "gre": "Standardized test scores: SAT, ACT, IB Diploma, or GCE A-Levels required.",
+          "papers": "High school transcripts, standardized test reports, personal statement (500–600 words), and essay on environmental challenges.",
+          "references": "Two academic evaluation letters from high school instructors."
+        }
+      },
+      {
+        "id": 7257,
+        "title": "PEAK Bachelor of Arts in Japan in East Asia",
+        "type": "Bachelor's",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2026-12-05",
+        "deadlineText": "December 5, 2026",
+        "funding": "Todai PEAK Merit Award covering 100% tuition waiver and residential allowance",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥5,000 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "arts-design"
+        ],
+        "source": "https://peak.c.u-tokyo.ac.jp/apply/japan-in-east-asia/",
+        "status": "verified-deadline",
+        "desc": "Rigorous four-year English-medium interdisciplinary humanities and social sciences degree examining Japanese history, diplomacy, modern culture, literature, and East Asian security.",
+        "requirements": {
+          "gpa": "Strong high school academic profile with coursework in History, Literature, and Social Studies.",
+          "ielts": "Academic IELTS 7.5+ or TOEFL iBT 100+.",
+          "gre": "SAT / ACT / IB / A-Level results strongly recommended.",
+          "papers": "High school transcript, secondary school leaving diploma, personal statement, and analytical essay.",
+          "references": "Two recommendation letters from academic mentors."
+        }
+      },
+      {
+        "id": 7258,
+        "title": "GPES Master of Science in Environmental Sciences",
+        "type": "Master's",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2026-11-20",
+        "deadlineText": "November 20, 2026",
+        "funding": "MEXT University Recommendation (Full tuition waiver + ¥144,000/month living stipend)",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "engineering"
+        ],
+        "source": "https://gpes.c.u-tokyo.ac.jp/admissions/master/",
+        "status": "verified-deadline",
+        "desc": "Two-year English-medium research master's investigating global ecosystem dynamics, atmospheric modeling, green technologies, carbon neutrality, and environmental governance.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Natural Sciences, Engineering, Agriculture, or Environmental Studies with GPA 3.3/4.0+.",
+          "ielts": "TOEFL iBT 90+ or Academic IELTS 7.0+.",
+          "gre": "GRE General Test scores accepted and strongly advised.",
+          "papers": "Detailed 3-page research proposal, undergraduate transcripts, bachelor's graduation certificate, and statement of intent.",
+          "references": "Two formal academic recommendation letters."
+        }
+      },
+      {
+        "id": 7259,
+        "title": "GPES Doctor of Philosophy in Environmental Sciences and Sustainability",
+        "type": "PhD",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2026-11-20",
+        "deadlineText": "November 20, 2026",
+        "funding": "Todai Graduate School Fellowship covering full tuition and ¥200,000 monthly research stipend",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "social-sciences"
+        ],
+        "source": "https://gpes.c.u-tokyo.ac.jp/admissions/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Three-year doctoral dissertation program conducting advanced scientific and policy research in environmental sustainability, renewable systems, and socio-ecological resilience.",
+        "requirements": {
+          "gpa": "Master's degree in Environmental Science, Geoscience, Engineering, or relevant discipline.",
+          "ielts": "Academic IELTS 7.0+ or TOEFL iBT 90+.",
+          "gre": "Not required.",
+          "papers": "Master's thesis abstract, peer-reviewed publications (if any), 5-page doctoral research proposal, and CV.",
+          "references": "Two confidential letters of recommendation from graduate advisors."
+        }
+      },
+      {
+        "id": 7260,
+        "title": "Graduate School of Mathematical Sciences PhD Program",
+        "type": "PhD",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "JSPS Research Fellowship for Young Scientists (DC1/DC2) providing ¥200,000/month plus research grant",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "mathematics",
+        "subjects": [
+          "mathematics",
+          "physics"
+        ],
+        "source": "https://www.ms.u-tokyo.ac.jp/admission/index.html",
+        "status": "verified-deadline",
+        "desc": "Renowned international doctoral program in pure and applied mathematics, encompassing algebraic geometry, differential topology, representation theory, PDE analysis, and mathematical physics.",
+        "requirements": {
+          "gpa": "Master of Science in Mathematics or Mathematical Physics with distinguished record.",
+          "ielts": "English proficiency demonstrated via TOEFL, IELTS, or international thesis presentation.",
+          "gre": "GRE Mathematics Subject Test recommended for international applicants.",
+          "papers": "Master's thesis copy, summary of research accomplishments, and doctoral research project outline.",
+          "references": "Two letters of recommendation from mathematics professors."
+        }
+      },
+      {
+        "id": 7261,
+        "title": "Komaba Master of Arts in Global Studies and International Relations",
+        "type": "Master's",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2026-11-20",
+        "deadlineText": "November 20, 2026",
+        "funding": "JASSO Honors Scholarship (¥48,000/month) and Todai tuition exemption options",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/graduate/admissions/",
+        "status": "verified-deadline",
+        "desc": "Interdisciplinary graduate curriculum exploring East Asian regionalism, international security, multilateral diplomacy, cross-border migration, and developmental economics.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Political Science, International Relations, Economics, or Area Studies (min GPA 3.2/4.0).",
+          "ielts": "Academic IELTS 7.0+ or TOEFL iBT 95+.",
+          "gre": "Optional.",
+          "papers": "Bachelor's diploma, transcript, statement of purpose, and 2,500-word academic writing sample.",
+          "references": "Two letters of academic reference."
+        }
+      },
+      {
+        "id": 7262,
+        "title": "Todai Komaba Advanced Interdisciplinary Research Fellowship",
+        "type": "Fellowship",
+        "university": "The University of Tokyo - Komaba",
+        "country": "Japan",
+        "location": "Meguro, Tokyo, Japan",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Full living allowance of ¥250,000/month plus travel grant and shared laboratory office",
+        "tuition": "Fully waived",
+        "fee": "None",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "social-sciences"
+        ],
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/research/",
+        "status": "verified-deadline",
+        "desc": "Twelve-month postdoctoral and visiting fellow appointment supporting boundary-crossing investigations linking environmental science, digital humanities, and mathematical sociology.",
+        "requirements": {
+          "gpa": "Completed PhD within the past 5 years in a relevant science or humanities field.",
+          "ielts": "Fluent working proficiency in English or Japanese.",
+          "gre": "Not required.",
+          "papers": "Curriculum vitae, list of publications, research project proposal (up to 4 pages), and host professor endorsement.",
+          "references": "Three letters of recommendation from senior scholars."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3168,
+        "name": "Prof. Dr. Kensuke Okada",
+        "title": "Professor of Mathematical and Cognitive Sciences",
+        "university": "The University of Tokyo - Komaba",
+        "department": "Graduate School of Arts and Sciences",
+        "subject": "mathematics",
+        "topics": [
+          "Bayesian Psychometrics",
+          "Statistical Modeling",
+          "Cognitive Measurement",
+          "Item Response Theory"
+        ],
+        "summary": "Prof. Dr. Okada specializes in Bayesian statistical methodologies applied to psychometric measurement, cognitive evaluation models, and latent trait estimation algorithms at Komaba.",
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3169,
+        "name": "Prof. Dr. Yuko Fujigaki",
+        "title": "Professor of Science and Technology Studies",
+        "university": "The University of Tokyo - Komaba",
+        "department": "Department of Multi-Disciplinary Sciences",
+        "subject": "social-sciences",
+        "topics": [
+          "Science and Technology Studies",
+          "Scientometrics",
+          "Public Understanding of Science",
+          "Research Ethics"
+        ],
+        "summary": "Prof. Dr. Fujigaki is a pioneer in science and technology studies (STS) in East Asia, researching institutional evaluation metrics, scientific citizen engagement, and the philosophy of interdisciplinary knowledge.",
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3170,
+        "name": "Prof. Dr. Tomoki Ozawa",
+        "title": "Associate Professor of Physics and Quantum Sciences",
+        "university": "The University of Tokyo - Komaba",
+        "department": "Department of Basic Science",
+        "subject": "physics",
+        "topics": [
+          "Topological Photonics",
+          "Ultracold Atomic Gases",
+          "Quantum Hall Physics",
+          "Condensed Matter Theory"
+        ],
+        "summary": "Prof. Dr. Ozawa investigates topological phases in photonics and ultracold atomic systems, advancing non-equilibrium quantum physics and novel synthetic gauge fields at the Komaba Physics institute.",
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3171,
+        "name": "Prof. Dr. Akiko Fukushima",
+        "title": "Professor of International Relations and Human Security",
+        "university": "The University of Tokyo - Komaba",
+        "department": "Graduate School of Arts and Sciences",
+        "subject": "social-sciences",
+        "topics": [
+          "Multilateral Diplomacy",
+          "East Asian Security Architecture",
+          "UN Peacekeeping",
+          "Human Security"
+        ],
+        "summary": "Prof. Dr. Fukushima analyzes Asia-Pacific regional security mechanisms, international peace operations, and multilateral institution-building, advising global policy forums on human security.",
+        "source": "https://www.c.u-tokyo.ac.jp/eng_site/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tohoku Bunka Gakuen University",
+    "shortName": "TBGU Sendai",
+    "slug": "tohoku-bunka-gakuen-university-sendai",
+    "location": "Sendai, Miyagi, Japan",
+    "website": "https://www.tbgu.ac.jp",
+    "sourceRow": 1760,
+    "stats": {
+      "established": 1999,
+      "students": "3,200+ students",
+      "international": "4%",
+      "faculty": "180+ Academic Staff"
+    },
+    "heroSummary": "Tohoku Bunka Gakuen University in Sendai is a comprehensive private institution renowned for its faculties of Medical and Health Sciences, Science and Engineering, and Business Policy, delivering cutting-edge practical education in allied healthcare and technology.",
+    "academicOverview": "Located on a leafy hillside campus in Kunimi, Aoba Ward, Sendai, TBGU was founded with the mission of harmonizing professional healthcare sciences with technical innovation. Its Faculty of Medical Sciences operates premier clinical training facilities in physical therapy, occupational therapy, and radiological technology, while the Faculty of Science and Technology leads regional research in sustainable architecture and information processing systems.",
+    "researchAdmissions": "Undergraduate admissions require high school graduation credentials, Japanese proficiency (JLPT N2 or N1 for Japanese-track programs), academic transcripts, and personal interviews. Transfer and graduate applicants to Health Sciences must hold recognized diplomas in allied healthcare disciplines and present an approved clinical research plan.",
+    "opportunities": [
+      {
+        "id": 7263,
+        "title": "Bachelor of Science in Physical Therapy and Rehabilitation Science",
+        "type": "Bachelor's",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-18",
+        "deadlineText": "December 18, 2026",
+        "funding": "TBGU Medical Specialist Scholarship offering 30% to 50% tuition reduction",
+        "tuition": "¥1,450,000 per academic year (including lab fees)",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "engineering"
+        ],
+        "source": "https://www.tbgu.ac.jp/faculty/medical/rehabilitation/",
+        "status": "verified-deadline",
+        "desc": "Four-year professional degree leading to the Japanese National Physical Therapist licensure, covering musculoskeletal biomechanics, neurological rehabilitation, and clinical hospital rotations.",
+        "requirements": {
+          "gpa": "High school diploma with coursework in Biology, Chemistry, and Health Sciences.",
+          "ielts": "JLPT N2 or higher; basic English proficiency (TOEFL iBT 60+ or IELTS 5.5+).",
+          "gre": "Not required.",
+          "papers": "High school graduation certificate, academic transcripts, medical health evaluation form, and statement of vocational purpose.",
+          "references": "One academic or vocational recommendation letter."
+        }
+      },
+      {
+        "id": 7264,
+        "title": "Bachelor of Science in Radiological Technology and Medical Imaging",
+        "type": "Bachelor's",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-18",
+        "deadlineText": "December 18, 2026",
+        "funding": "Miyagi Healthcare Talent Scholarship providing partial tuition assistance",
+        "tuition": "¥1,450,000 per academic year",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "physics",
+        "subjects": [
+          "physics",
+          "engineering"
+        ],
+        "source": "https://www.tbgu.ac.jp/faculty/medical/radiology/",
+        "status": "verified-deadline",
+        "desc": "Comprehensive undergraduate program preparing students for radiological technologist licensure, training on modern MRI, CT, PET, and radiation therapy equipment in affiliated medical centers.",
+        "requirements": {
+          "gpa": "Secondary school diploma with strong grades in Physics and Mathematics.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "Transcripts, proof of high school graduation, motivation letter, and personal essay.",
+          "references": "One recommendation letter from secondary school teacher."
+        }
+      },
+      {
+        "id": 7265,
+        "title": "Bachelor of Engineering in Architecture and Environmental Space Planning",
+        "type": "Bachelor's",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-20",
+        "deadlineText": "January 20, 2027",
+        "funding": "TBGU Innovation Scholarship offering up to ¥300,000 annual fee discount",
+        "tuition": "¥1,250,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "arts-design"
+        ],
+        "source": "https://www.tbgu.ac.jp/faculty/engineering/architecture/",
+        "status": "verified-deadline",
+        "desc": "Studio-based architectural engineering program emphasizing seismic resilience, wooden architectural heritage, green building envelopes, and regional community revitalization in the Tohoku region.",
+        "requirements": {
+          "gpa": "High school completion with foundations in Mathematics and Spatial Design.",
+          "ielts": "JLPT N2 recommended; portfolio review for design candidates.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, portfolio of creative or drafting works (optional but recommended), and statement of purpose.",
+          "references": "One reference letter."
+        }
+      },
+      {
+        "id": 7266,
+        "title": "Bachelor of Science in Applied Information Informatics and Software Systems",
+        "type": "Bachelor's",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-20",
+        "deadlineText": "January 20, 2027",
+        "funding": "IT Talent Development Grant providing ¥200,000 annual subsidy",
+        "tuition": "¥1,250,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "engineering"
+        ],
+        "source": "https://www.tbgu.ac.jp/faculty/engineering/informatics/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum addressing software development, IoT sensor networks, cloud computing, intelligent robotics, and data analytics for regional enterprises.",
+        "requirements": {
+          "gpa": "High school diploma with proficiency in Mathematics.",
+          "ielts": "JLPT N2 or documented English proficiency (IELTS 5.5+).",
+          "gre": "Not required.",
+          "papers": "High school transcripts, personal statement, and computer science project summary (if applicable).",
+          "references": "One teacher recommendation letter."
+        }
+      },
+      {
+        "id": 7267,
+        "title": "Master of Health and Social Services Sciences",
+        "type": "Master's",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-05",
+        "deadlineText": "February 5, 2027",
+        "funding": "TBGU Graduate Research Fellowship providing 50% tuition reduction and teaching assistantships",
+        "tuition": "¥800,000 per academic year",
+        "fee": "¥30,000 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.tbgu.ac.jp/graduate/health-sciences/",
+        "status": "verified-deadline",
+        "desc": "Two-year graduate degree for rehabilitation specialists, investigating neurological motion restoration, assistive robotics, community healthcare networks, and healthcare management.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Rehabilitation, Nursing, Allied Health, or Engineering with minimum GPA 2.8/4.0.",
+          "ielts": "JLPT N2 (or English proficiency for approved laboratory placements).",
+          "gre": "Not required.",
+          "papers": "Undergraduate transcript, diploma certificate, 2-page clinical research plan, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7268,
+        "title": "TBGU Academic Excellence Tuition Reduction Scholarship",
+        "type": "Scholarship",
+        "university": "Tohoku Bunka Gakuen University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Waiver of 30% to 100% of institutional tuition fees for high-achieving international scholars",
+        "tuition": "Subsidized through award",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.tbgu.ac.jp/international/scholarships/",
+        "status": "verified-deadline",
+        "desc": "Institutional merit grant supporting talented privately financed international students enrolling in undergraduate or graduate programs in science, technology, or health sciences.",
+        "requirements": {
+          "gpa": "Minimum entrance exam score in the top 20th percentile or high school GPA 3.2/4.0+.",
+          "ielts": "JLPT N2 or verified English competence.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, financial statement of self-support, and academic records.",
+          "references": "Faculty advisor endorsement."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3172,
+        "name": "Prof. Dr. Hiroshi Sato",
+        "title": "Professor of Rehabilitation and Physical Therapy",
+        "university": "Tohoku Bunka Gakuen University",
+        "department": "Faculty of Medical Sciences",
+        "subject": "biology",
+        "topics": [
+          "Musculoskeletal Physical Therapy",
+          "Locomotive Syndrome",
+          "Biomechanics of Gait",
+          "Rehabilitation Robotics"
+        ],
+        "summary": "Prof. Dr. Sato researches kinetic gait patterns, preventive physical therapy for elderly locomotive syndrome, and clinical biomechanics at the TBGU Rehabilitation Laboratory.",
+        "source": "https://www.tbgu.ac.jp/faculty/medical/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3173,
+        "name": "Prof. Dr. Kenji Takahashi",
+        "title": "Professor of Architectural Environmental Engineering",
+        "university": "Tohoku Bunka Gakuen University",
+        "department": "Faculty of Science and Technology",
+        "subject": "engineering",
+        "topics": [
+          "Seismic Retrofitting",
+          "Thermal Comfort",
+          "Zero-Energy Housing (ZEH)",
+          "Timber Structure Resilience"
+        ],
+        "summary": "Prof. Dr. Takahashi explores energy-efficient building envelope designs, passive solar architecture, and seismic performance of traditional and modern wooden structures in northern Japan.",
+        "source": "https://www.tbgu.ac.jp/faculty/engineering/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3174,
+        "name": "Prof. Dr. Masayuki Watanabe",
+        "title": "Professor of Information Systems and Network Engineering",
+        "university": "Tohoku Bunka Gakuen University",
+        "department": "Department of Applied Information",
+        "subject": "computer-science",
+        "topics": [
+          "Intelligent Sensor Networks",
+          "IoT Edge Computing",
+          "Healthcare Data Informatics",
+          "Embedded Systems"
+        ],
+        "summary": "Prof. Dr. Watanabe investigates low-power distributed sensor nodes, wireless telemetry for telehealth monitoring, and real-time data filtering for clinical and environmental monitoring.",
+        "source": "https://www.tbgu.ac.jp/faculty/engineering/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tohoku Fukushi University",
+    "shortName": "Tohoku Fukushi",
+    "slug": "tohoku-fukushi-university-sendai",
+    "location": "Sendai, Miyagi, Japan",
+    "website": "https://www.tfu.ac.jp",
+    "sourceRow": 1761,
+    "stats": {
+      "established": 1875,
+      "students": "4,500+ students",
+      "international": "5%",
+      "faculty": "250+ Professors & Instructors"
+    },
+    "heroSummary": "Tohoku Fukushi University in Sendai is Japan's premier university for social welfare, gerontological care, clinical psychology, and health sciences, grounded in Buddhist humanitarian ethics and pioneering elderly care robotics.",
+    "academicOverview": "Founded in 1875 as a Soto Zen Buddhist academy, Tohoku Fukushi University is celebrated nationwide for establishing Japan's modern welfare and caregiving paradigms. Across its Kunimi and Sendai Station campuses, TFU operates specialized research centers including the Research Institute of Social Welfare, the Kansei Fukushi Research Institute, and affiliated healthcare clinics, cultivating professionals dedicated to human well-being and social equity.",
+    "researchAdmissions": "Applicants to undergraduate programs must hold a secondary school diploma and demonstrate Japanese proficiency (JLPT N2 or N1). Graduate degree programs in Comprehensive Welfare and Clinical Psychology require a bachelor's degree, submission of an academic research proposal, entrance examinations in specialized welfare theory, and an oral interview. Scholarships include TFU international tuition exemptions and Soto Buddhist scholarship awards.",
+    "opportunities": [
+      {
+        "id": 7269,
+        "title": "Bachelor of Social Welfare in Clinical Social Work and Care Systems",
+        "type": "Bachelor's",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "funding": "TFU International Student Tuition Reduction Award covering 30% to 50% of annual tuition",
+        "tuition": "¥1,150,000 per academic year",
+        "fee": "¥30,000 application fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tfu.ac.jp/faculty/welfare/socialwork/",
+        "status": "verified-deadline",
+        "desc": "Four-year specialized degree preparing students for Certified Social Worker and Care Worker qualifications, focusing on community-based welfare, disaster recovery care, and elderly assistance.",
+        "requirements": {
+          "gpa": "High school graduation certificate with demonstrated commitment to humanitarian and social service.",
+          "ielts": "JLPT N2 or higher (all primary instruction conducted in Japanese).",
+          "gre": "Not required.",
+          "papers": "High school academic transcripts, personal statement, and record of volunteer/social activities.",
+          "references": "One letter of recommendation from school principal or mentor."
+        }
+      },
+      {
+        "id": 7270,
+        "title": "Bachelor of Science in Nursing and Community Healthcare",
+        "type": "Bachelor's",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "funding": "Miyagi Prefecture Nursing Scholarship with conditional loan-to-grant conversion",
+        "tuition": "¥1,550,000 per academic year (including clinical training fees)",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.tfu.ac.jp/faculty/health/nursing/",
+        "status": "verified-deadline",
+        "desc": "Comprehensive four-year nursing curriculum qualifying graduates for the National Registered Nurse and Public Health Nurse examinations, with intensive practical training in Sendai regional hospitals.",
+        "requirements": {
+          "gpa": "High school graduation with rigorous science and biology preparation.",
+          "ielts": "JLPT N1 or strong N2 with interview demonstration.",
+          "gre": "Not required.",
+          "papers": "Transcripts, health examination certificate, statement of purpose, and identity verification.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7271,
+        "title": "Master of Comprehensive Welfare in Social Policy and Gerontology",
+        "type": "Master's",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-16",
+        "deadlineText": "January 16, 2027",
+        "funding": "TFU Graduate Research Fellowship providing ¥300,000 annual research grant and tuition discount",
+        "tuition": "¥750,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tfu.ac.jp/graduate/welfare/",
+        "status": "verified-deadline",
+        "desc": "Two-year master's examining comparative welfare policy, long-term care insurance systems, social gerontology, and welfare robotics implementation in aging societies.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Social Work, Sociology, Public Administration, or related discipline (min GPA 2.8/4.0).",
+          "ielts": "JLPT N1 or documented academic research capacity in Japanese.",
+          "gre": "Not required.",
+          "papers": "Undergraduate degree certificate, transcript, 3-page research proposal, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7272,
+        "title": "Master of Arts in Clinical Psychology and Mental Health Consultation",
+        "type": "Master's",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-16",
+        "deadlineText": "January 16, 2027",
+        "funding": "Kan-sei Fukushi Psychology Research Subsidy covering 40% of tuition",
+        "tuition": "¥850,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tfu.ac.jp/graduate/psychology/",
+        "status": "verified-deadline",
+        "desc": "Type 1 accredited graduate program qualifying students for the Certified Clinical Psychologist and National Certified Public Psychologist credentials, featuring on-site clinic counseling practicums.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Psychology or related behavioral sciences with strong academic record.",
+          "ielts": "JLPT N1 required for clinical client interactions.",
+          "gre": "Not required.",
+          "papers": "Graduation diploma, official transcripts, clinical research plan (2,000 characters), and self-assessment.",
+          "references": "Two academic recommendations from psychology faculty."
+        }
+      },
+      {
+        "id": 7273,
+        "title": "Doctor of Philosophy in Social Welfare and Applied Human Care Studies",
+        "type": "PhD",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-05",
+        "deadlineText": "February 5, 2027",
+        "funding": "TFU Doctoral Research Assistantship providing tuition fee remission plus monthly research stipend",
+        "tuition": "¥600,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "biology"
+        ],
+        "source": "https://www.tfu.ac.jp/graduate/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Advanced three-year doctoral program producing researchers and university educators in social welfare jurisprudence, community rehabilitation systems, and gerontological service design.",
+        "requirements": {
+          "gpa": "Master's degree in Social Welfare, Public Health, Nursing, or Human Services.",
+          "ielts": "Fluency in Japanese or approved bilingual dissertation track in English.",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy, 4-page doctoral research proposal, published academic articles, and curriculum vitae.",
+          "references": "Two formal academic recommendations from thesis supervisors."
+        }
+      },
+      {
+        "id": 7274,
+        "title": "Tohoku Fukushi International Student Tuition Reduction and Caregiver Scholarship",
+        "type": "Scholarship",
+        "university": "Tohoku Fukushi University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "30% to 50% tuition reduction plus ¥40,000 monthly living support for prospective care workers",
+        "tuition": "Subsidized via award",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tfu.ac.jp/international/support/",
+        "status": "verified-deadline",
+        "desc": "Institutional scholarship scheme designated for international students pursuing qualifications in social work, nursing, or clinical psychology committed to community healthcare.",
+        "requirements": {
+          "gpa": "Maintained GPA of 2.7+ during secondary or prior university studies.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, economic situation survey, and study commitment essay.",
+          "references": "Academic advisor recommendation."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3175,
+        "name": "Prof. Dr. Noriko Abe",
+        "title": "Professor of Social Welfare and Gerontology",
+        "university": "Tohoku Fukushi University",
+        "department": "Faculty of Comprehensive Welfare",
+        "subject": "social-sciences",
+        "topics": [
+          "Gerontological Social Work",
+          "Community Long-Term Care",
+          "Dementia Care Models",
+          "Disaster Welfare Assistance"
+        ],
+        "summary": "Prof. Dr. Abe investigates regional integrated care systems, social isolation interventions for vulnerable older adults, and post-disaster community welfare resilience in Miyagi Prefecture.",
+        "source": "https://www.tfu.ac.jp/research/researchers/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3176,
+        "name": "Prof. Dr. Takayuki Suzuki",
+        "title": "Professor of Clinical Psychology and Psychopathology",
+        "university": "Tohoku Fukushi University",
+        "department": "Department of Clinical Psychology",
+        "subject": "social-sciences",
+        "topics": [
+          "Cognitive Behavioral Therapy (CBT)",
+          "Adolescent Depression",
+          "Psychological Trauma Recovery",
+          "School Counseling"
+        ],
+        "summary": "Prof. Dr. Suzuki specializes in evidence-based cognitive behavioral therapy, post-traumatic stress interventions following natural disasters, and school-based mental health counseling programs.",
+        "source": "https://www.tfu.ac.jp/research/researchers/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3177,
+        "name": "Prof. Dr. Keiko Sasaki",
+        "title": "Professor of Community Health Nursing",
+        "university": "Tohoku Fukushi University",
+        "department": "Faculty of Health Sciences",
+        "subject": "biology",
+        "topics": [
+          "Home Healthcare Nursing",
+          "Public Health Epidemiology",
+          "Caregiver Burden Mitigation",
+          "Interprofessional Healthcare"
+        ],
+        "summary": "Prof. Dr. Sasaki researches home visit nursing systems for bedridden elderly patients, family caregiver psychosocial burden mitigation, and multi-agency health service collaboration.",
+        "source": "https://www.tfu.ac.jp/research/researchers/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tohoku Institute of Technology",
+    "shortName": "Tohtech Sendai",
+    "slug": "tohoku-institute-of-technology-sendai",
+    "location": "Sendai, Miyagi, Japan",
+    "website": "https://www.tohtech.ac.jp",
+    "sourceRow": 1762,
+    "stats": {
+      "established": 1964,
+      "students": "3,800+ students",
+      "international": "6%",
+      "faculty": "210+ Faculty Members"
+    },
+    "heroSummary": "Tohoku Institute of Technology (Tohtech) in Sendai is an elite private engineering university dedicated to seismic architecture, electrical power systems, smart robotics, and sustainable environmental infrastructure.",
+    "academicOverview": "Operating two prominent campuses in Sendai—Yagiyama (Faculty of Engineering and Graduate School) and Nagamachi (Faculty of Architecture and Faculty of Life and Environmental Sciences)—Tohtech has served as a driving technological powerhouse in northern Japan since 1964. Its specialized laboratories lead breakthrough research in earthquake disaster mitigation, renewable energy microgrids, high-frequency telecommunications, and industrial user interface design.",
+    "researchAdmissions": "Undergraduate entrance requires certified high school credentials with rigorous math and physics coursework, JLPT N2 or equivalent (for Japanese-taught programs), and an entrance exam. Master's and doctoral degree admissions require a recognized engineering bachelor's or master's degree, a specialized research proposal, transcript submission, and faculty supervisor matching prior to formal application.",
+    "opportunities": [
+      {
+        "id": 7275,
+        "title": "Bachelor of Engineering in Electrical and Electronic Engineering",
+        "type": "Bachelor's",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-10",
+        "deadlineText": "December 10, 2026",
+        "funding": "Tohtech Science & Technology Scholarship providing 30% to 50% tuition waiver",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.tohtech.ac.jp/faculty/engineering/electrical/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum focusing on power electronics, renewable solar/wind generation, semiconductor device fabrication, and embedded electronic control systems.",
+        "requirements": {
+          "gpa": "High school diploma with advanced mathematics (calculus) and physics coursework.",
+          "ielts": "JLPT N2 (or IELTS 6.0+ for select international laboratory tracks).",
+          "gre": "Not required.",
+          "papers": "High school transcripts, graduation certificate, and personal engineering motivation essay.",
+          "references": "One recommendation letter from a high school mathematics or science instructor."
+        }
+      },
+      {
+        "id": 7276,
+        "title": "Bachelor of Engineering in Information and Communication Engineering",
+        "type": "Bachelor's",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-10",
+        "deadlineText": "December 10, 2026",
+        "funding": "Digital Transformation Future Leader Grant (¥250,000 annual tuition reduction)",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "engineering"
+        ],
+        "source": "https://www.tohtech.ac.jp/faculty/engineering/communication/",
+        "status": "verified-deadline",
+        "desc": "Rigorous undergraduate program examining 5G/6G wireless networks, artificial intelligence algorithms, computer vision, data security, and distributed edge computing.",
+        "requirements": {
+          "gpa": "Secondary school certificate with superior performance in Mathematics and Computing.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Official transcripts, high school diploma, and personal statement of programming experience.",
+          "references": "One academic reference letter."
+        }
+      },
+      {
+        "id": 7277,
+        "title": "Bachelor of Engineering in Architecture and Seismic Structural Engineering",
+        "type": "Bachelor's",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-08",
+        "deadlineText": "January 8, 2027",
+        "funding": "Tohoku Architectural Heritage Scholarship offering partial fee waiver",
+        "tuition": "¥1,420,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "arts-design"
+        ],
+        "source": "https://www.tohtech.ac.jp/faculty/architecture/",
+        "status": "verified-deadline",
+        "desc": "JABEE-accredited program training professional architects and structural engineers in earthquake-resistant design, building information modeling (BIM), and timber structural engineering.",
+        "requirements": {
+          "gpa": "High school graduation certificate with mathematics and spatial design aptitude.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcript, portfolio of sketches or drafting projects (optional), and statement of purpose.",
+          "references": "One academic reference."
+        }
+      },
+      {
+        "id": 7278,
+        "title": "Bachelor of Engineering in Civil and Environmental Urban Planning",
+        "type": "Bachelor's",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-08",
+        "deadlineText": "January 8, 2027",
+        "funding": "Disaster Resilient City Grant providing ¥200,000 annual subsidy",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.tohtech.ac.jp/faculty/engineering/civil/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum addressing coastal tsunami defenses, geotechnical foundation safety, smart transportation grids, and ecological river basin preservation.",
+        "requirements": {
+          "gpa": "Secondary school diploma with physics and mathematics competence.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "Transcripts, graduation diploma, and motivation letter explaining interest in civil infrastructure.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7279,
+        "title": "Master of Engineering in Environmental Information and Applied Technology",
+        "type": "Master's",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-25",
+        "deadlineText": "January 25, 2027",
+        "funding": "Tohtech Graduate Research Fellowship (50% tuition exemption plus paid research assistantship)",
+        "tuition": "¥750,000 per academic year",
+        "fee": "¥30,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.tohtech.ac.jp/graduate/engineering/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree investigating intelligent power grids, autonomous robotic navigation, structural health monitoring, and geospatial data modeling.",
+        "requirements": {
+          "gpa": "Bachelor of Science or Engineering from an accredited university (min GPA 2.8/4.0).",
+          "ielts": "Academic IELTS 6.0+ or JLPT N2.",
+          "gre": "Not required.",
+          "papers": "Undergraduate degree certificate, transcript, 3-page research proposal, and CV.",
+          "references": "Two letters of recommendation from undergraduate engineering professors."
+        }
+      },
+      {
+        "id": 7280,
+        "title": "Doctor of Philosophy in Engineering and Advanced Technological Innovation",
+        "type": "PhD",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Full tuition exemption plus ¥150,000 monthly living stipend via institutional doctoral fellowship",
+        "tuition": "¥600,000 per academic year (fully waivable)",
+        "fee": "¥30,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.tohtech.ac.jp/graduate/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Three-year doctoral research program producing independent scholars and industrial R&D leaders in advanced electronic materials, structural disaster mitigation, and cyber-physical systems.",
+        "requirements": {
+          "gpa": "Master's degree in Engineering, Computer Science, or Applied Physics.",
+          "ielts": "Fluent technical English (IELTS 6.5+ or TOEFL iBT 80+) or JLPT N1.",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy, publication list, detailed doctoral research proposal (4–5 pages), and CV.",
+          "references": "Two academic recommendations from graduate research supervisors."
+        }
+      },
+      {
+        "id": 7281,
+        "title": "Tohtech Global Engineer Scholarship and Research Assistantship",
+        "type": "Scholarship",
+        "university": "Tohoku Institute of Technology",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Waiver of 30% to 100% of tuition and fees for selected international science and engineering candidates",
+        "tuition": "Subsidized via scholarship",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.tohtech.ac.jp/international/scholarship/",
+        "status": "verified-deadline",
+        "desc": "Merit-based institutional aid program to support outstanding international students conducting experimental thesis research in electrical, architectural, and software engineering.",
+        "requirements": {
+          "gpa": "Academic grade average within the top 25th percentile of cohort.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, letter of financial statement, and research statement.",
+          "references": "Supervising professor recommendation letter."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3178,
+        "name": "Prof. Dr. Yasuyuki Endo",
+        "title": "Professor of Electrical and Power Systems Engineering",
+        "university": "Tohoku Institute of Technology",
+        "department": "Department of Electrical and Electronic Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Power Electronics",
+          "Smart Grid Integration",
+          "Renewable Energy Inverters",
+          "Electric Motor Drives"
+        ],
+        "summary": "Prof. Dr. Endo focuses on high-efficiency power converter topologies, bidirectional battery charging systems, and distributed energy stability for islanded microgrid networks.",
+        "source": "https://www.tohtech.ac.jp/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3179,
+        "name": "Prof. Dr. Koji Tanaka",
+        "title": "Professor of Earthquake and Structural Engineering",
+        "university": "Tohoku Institute of Technology",
+        "department": "Department of Architecture",
+        "subject": "engineering",
+        "topics": [
+          "Seismic Isolation Systems",
+          "Earthquake Disaster Mitigation",
+          "Dynamic Response Analysis",
+          "Base-Isolation Bearings"
+        ],
+        "summary": "Prof. Dr. Tanaka investigates structural vibration control under extreme seismic excitation, friction damper dynamics, and post-earthquake structural safety evaluations of high-rise buildings.",
+        "source": "https://www.tohtech.ac.jp/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3180,
+        "name": "Prof. Dr. Shinichi Ito",
+        "title": "Professor of Information and Signal Processing",
+        "university": "Tohoku Institute of Technology",
+        "department": "Department of Information Communication Engineering",
+        "subject": "computer-science",
+        "topics": [
+          "Intelligent Sensing Systems",
+          "Computer Vision",
+          "Acoustic Signal Processing",
+          "Machine Learning on Edge Devices"
+        ],
+        "summary": "Prof. Dr. Ito develops computer vision algorithms for non-destructive structural inspection, acoustic event recognition, and embedded edge computing architectures for industrial monitoring.",
+        "source": "https://www.tohtech.ac.jp/research/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tohoku Seikatsu Bunka University",
+    "shortName": "TSBU Sendai",
+    "slug": "tohoku-seikatsu-bunka-university-sendai",
+    "location": "Sendai, Miyagi, Japan",
+    "website": "https://www.mishima.ac.jp",
+    "sourceRow": 1763,
+    "stats": {
+      "established": 1958,
+      "students": "1,200+ students",
+      "international": "3%",
+      "faculty": "85+ Professors & Lecturers"
+    },
+    "heroSummary": "Tohoku Seikatsu Bunka University in Sendai is a distinguished specialized private institution dedicated to clinical dietetics, nutritional sciences, visual arts, and living space design, established by the Mishima Gakuen educational foundation.",
+    "academicOverview": "Perched in the Nijinooka district of Izumi Ward, Sendai, TSBU operates two primary faculties: the Faculty of Home Economics (featuring the Department of Food and Nutrition and the Department of Living Culture Design) and the Faculty of Fine Arts (Department of Fine Arts). TSBU is acclaimed for its high pass rates on the Japanese National Registered Dietitian examination and its active contributions to Tohoku's regional culinary industries, contemporary art exhibitions, and community craft design.",
+    "researchAdmissions": "Undergraduate admissions require high school graduation, submission of academic transcripts, a statement of purpose, and Japanese language ability (JLPT N2 or equivalent). Applicants to the Faculty of Fine Arts must submit a comprehensive portfolio of studio works (paintings, digital media, or craft objects) and undertake an on-site practical drawing evaluation.",
+    "opportunities": [
+      {
+        "id": 7282,
+        "title": "Bachelor of Science in Food and Clinical Nutrition (Registered Dietitian Track)",
+        "type": "Bachelor's",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-20",
+        "deadlineText": "December 20, 2026",
+        "funding": "Mishima Gakuen Nutrition Scholar Award providing ¥200,000 annual tuition reduction",
+        "tuition": "¥1,390,000 per academic year (including culinary and laboratory fees)",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/faculty/nutrition/",
+        "status": "verified-deadline",
+        "desc": "Four-year specialized degree qualifying students for the National Registered Dietitian examination, with coursework in clinical dietetics, pediatric nutrition, food biochemistry, and hospital culinary management.",
+        "requirements": {
+          "gpa": "High school diploma with foundational coursework in Chemistry and Biology.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, graduation certificate, and personal essay detailing commitment to healthcare nutrition.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7283,
+        "title": "Bachelor of Arts in Living Culture Design and Interior Architecture",
+        "type": "Bachelor's",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-12",
+        "deadlineText": "January 12, 2027",
+        "funding": "Design Talent Entrance Subsidy offering 25% tuition waiver",
+        "tuition": "¥1,280,000 per academic year",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "engineering"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/faculty/living-design/",
+        "status": "verified-deadline",
+        "desc": "Creative studio degree integrating interior architecture, furniture design, ergonomic product development, textile design, and regional traditional craft preservation.",
+        "requirements": {
+          "gpa": "Secondary school diploma with spatial awareness and creative interest.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "High school academic transcripts, portfolio of creative artwork or sketches (optional), and statement of purpose.",
+          "references": "One recommendation letter from a teacher."
+        }
+      },
+      {
+        "id": 7284,
+        "title": "Bachelor of Fine Arts in Painting and Contemporary Fine Art",
+        "type": "Bachelor's",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-12",
+        "deadlineText": "January 12, 2027",
+        "funding": "Mishima Gakuen Art Excellence Scholarship providing up to ¥300,000 fee waiver",
+        "tuition": "¥1,380,000 per academic year (including studio materials fee)",
+        "fee": "¥30,000 examination fee",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/faculty/fine-arts/painting/",
+        "status": "verified-deadline",
+        "desc": "Four-year studio curriculum in Japanese painting (Nihonga), Western oil painting, printmaking, and mixed-media contemporary installation, culminating in the annual Sendai Museum graduation exhibition.",
+        "requirements": {
+          "gpa": "High school graduation certificate with demonstrated artistic practice.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "Transcripts, portfolio of 5–10 original art pieces (slides/PDF), and artistic statement.",
+          "references": "One letter of reference from an art instructor."
+        }
+      },
+      {
+        "id": 7285,
+        "title": "Bachelor of Fine Arts in Visual Communication Design and Digital Media",
+        "type": "Bachelor's",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-12",
+        "deadlineText": "January 12, 2027",
+        "funding": "Digital Arts Media Grant offering ¥200,000 annual fee deduction",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "computer-science"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/faculty/fine-arts/visual-design/",
+        "status": "verified-deadline",
+        "desc": "Applied design degree focusing on graphic design, brand identity, digital UI/UX, motion illustration, packaging design, and public interest advertising campaigns.",
+        "requirements": {
+          "gpa": "High school diploma with creative portfolio submission.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, portfolio of graphic design or multimedia work, and statement of intent.",
+          "references": "One academic reference letter."
+        }
+      },
+      {
+        "id": 7286,
+        "title": "Mishima Gakuen Academic Merit Scholarship and International Tuition Waiver",
+        "type": "Scholarship",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "30% to 50% tuition reduction for international scholars across all four undergraduate academic years",
+        "tuition": "Directly reduced via grant",
+        "fee": "None",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "biology"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/international/scholarship/",
+        "status": "verified-deadline",
+        "desc": "Need-and-merit based financial scholarship created by Mishima Gakuen to empower talented international students pursuing degrees in nutrition, lifestyle design, and fine arts.",
+        "requirements": {
+          "gpa": "Minimum high school grade average of 3.0/4.0 and strong interview score.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "Scholarship application, family financial survey, and study motivation letter.",
+          "references": "Faculty mentor recommendation."
+        }
+      },
+      {
+        "id": 7287,
+        "title": "Advanced Dietetics and Community Nutrition Practicum Certification",
+        "type": "Certificate",
+        "university": "Tohoku Seikatsu Bunka University",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-20",
+        "deadlineText": "February 20, 2027",
+        "funding": "Partial subsidy from Miyagi Prefectural Dietitian Association",
+        "tuition": "¥180,000 certification course fee",
+        "fee": "¥10,000 registration fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.mishima.ac.jp/univ/faculty/nutrition/certificate/",
+        "status": "verified-deadline",
+        "desc": "Intensive postgraduate and continuing professional certification providing hands-on hospital dietetics clinical rotations, metabolic assessment, and community elderly nutrition management.",
+        "requirements": {
+          "gpa": "Graduation from a certified dietetics or nutrition degree program.",
+          "ielts": "Fluent Japanese language proficiency (JLPT N1 or native equivalent).",
+          "gre": "Not required.",
+          "papers": "University transcript, Registered Dietitian license (or candidate status), and application form.",
+          "references": "Professional supervisor letter."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3181,
+        "name": "Prof. Dr. Michiko Sugawara",
+        "title": "Professor of Food and Clinical Nutrition",
+        "university": "Tohoku Seikatsu Bunka University",
+        "department": "Department of Food and Nutrition",
+        "subject": "biology",
+        "topics": [
+          "Clinical Dietetics",
+          "Metabolic Syndrome Prevention",
+          "Functional Food Bioactives",
+          "Geriatric Nutritional Assessment"
+        ],
+        "summary": "Prof. Dr. Sugawara investigates antioxidant bioactive compounds in regional Tohoku agriculture, clinical dietary therapy for diabetic nephropathy, and nutritional frailty prevention.",
+        "source": "https://www.mishima.ac.jp/univ/faculty/nutrition/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3182,
+        "name": "Prof. Dr. Kazuhiko Sato",
+        "title": "Professor of Contemporary Japanese Painting",
+        "university": "Tohoku Seikatsu Bunka University",
+        "department": "Department of Fine Arts",
+        "subject": "arts-design",
+        "topics": [
+          "Contemporary Nihonga",
+          "Mineral Pigment Chemistry",
+          "Traditional Japanese Aesthetics",
+          "Visual Art Education"
+        ],
+        "summary": "Prof. Dr. Sato is an acclaimed painter specializing in modern expressions of classical Nihonga mineral pigments (iwa-enogu), exhibiting in premier Japanese national art salons.",
+        "source": "https://www.mishima.ac.jp/univ/faculty/fine-arts/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3183,
+        "name": "Prof. Dr. Tomoko Miura",
+        "title": "Professor of Living Environment and Ergonomics",
+        "university": "Tohoku Seikatsu Bunka University",
+        "department": "Department of Living Culture Design",
+        "subject": "arts-design",
+        "topics": [
+          "Universal Design",
+          "Ergonomics of Everyday Objects",
+          "Barrier-Free Living Spaces",
+          "Textile Heritage Preservation"
+        ],
+        "summary": "Prof. Dr. Miura focuses on universal design principles in residential spaces, ergonomic seating for aging populations, and the sustainability of traditional dyed textiles in northern Japan.",
+        "source": "https://www.mishima.ac.jp/univ/faculty/living-design/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tohoku University School of Medicine",
+    "shortName": "Tohoku Med Sendai",
+    "slug": "tohoku-university-school-of-medicine-sendai",
+    "location": "Sendai, Miyagi, Japan",
+    "website": "https://www.med.tohoku.ac.jp",
+    "sourceRow": 1764,
+    "stats": {
+      "established": 1817,
+      "students": "1,800+ medical and graduate students",
+      "international": "22%",
+      "faculty": "350+ Medical Professors & Clinicians"
+    },
+    "heroSummary": "The School of Medicine and Graduate School of Medicine at Tohoku University in Sendai is one of the world's elite biomedical research centers, home to the Tohoku Medical Megabank, pioneering genomic medicine, neuroscience, oncology, and immunology.",
+    "academicOverview": "Tracing its origins back to the Sendai Han Medical School founded in 1817, Tohoku University School of Medicine on the Seiryo Campus is world-renowned for translating frontier biological discoveries into clinical treatments. Home to the Tohoku Medical Megabank Project (TMM) containing Japan's most comprehensive 150,000-person biobank and whole-genome database, the institution leads global research in oxidative stress biology (Keap1-Nrf2 pathway), neurodevelopment, infectious epidemiology, and cryo-EM structural biology.",
+    "researchAdmissions": "Admission to the Master of Medical Sciences (English Track) requires a bachelor's degree in biology, biochemistry, pharmacology, or related science, academic transcripts, and TOEFL/IELTS scores. Doctoral programs (PhD in Medical Sciences) require a recognized MD, DDS, DVM, or master's degree, comprehensive research proposal, and supervisor pre-acceptance. MEXT University Recommendation scholarships and Tohoku University International Doctoral Fellowships offer generous stipends.",
+    "opportunities": [
+      {
+        "id": 7288,
+        "title": "Tohoku University Master of Medical Sciences for International Students (English Track)",
+        "type": "Master's",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-11-25",
+        "deadlineText": "November 25, 2026",
+        "funding": "MEXT University Recommendation Fellowship (Tuition exemption + ¥144,000 monthly living stipend)",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/admissions/master/",
+        "status": "verified-deadline",
+        "desc": "Two-year English-medium research master's providing immersive laboratory training in molecular genetics, cancer biology, immunology, neuroscience, and translational pharmacology.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Biological Sciences, Pharmacy, Chemistry, or allied biomedical disciplines (min GPA 3.3/4.0).",
+          "ielts": "Academic IELTS 7.0+ or TOEFL iBT 90+.",
+          "gre": "Optional but strongly recommended.",
+          "papers": "Undergraduate degree certificate, official transcripts, 3-page research proposal, CV, and prospective supervisor confirmation.",
+          "references": "Two academic letters of recommendation from undergraduate research professors."
+        }
+      },
+      {
+        "id": 7289,
+        "title": "Tohoku University Doctor of Philosophy in Medical Sciences",
+        "type": "PhD",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-11-25",
+        "deadlineText": "November 25, 2026",
+        "funding": "Tohoku University Doctoral Fellowship providing full tuition exemption plus ¥200,000 monthly stipend",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/admissions/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Four-year flagship doctoral research curriculum conducting cutting-edge dissertation research in genomic medicine, structural biology, immunology, neurobiology, and clinical therapeutics.",
+        "requirements": {
+          "gpa": "Recognized MD, Master of Science in Medical Sciences, or 6-year professional medical/veterinary/pharmacy degree.",
+          "ielts": "TOEFL iBT 88+ or Academic IELTS 6.5+.",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy or published first-author papers, 5-page research plan, transcripts, and prospective laboratory acceptance letter.",
+          "references": "Two letters of recommendation from senior biomedical scholars."
+        }
+      },
+      {
+        "id": 7290,
+        "title": "Tohoku University PhD in Disability Sciences and Rehabilitation Medicine",
+        "type": "PhD",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-12-10",
+        "deadlineText": "December 10, 2026",
+        "funding": "JSPS Research Fellowship for Young Scientists (DC1) providing ¥200,000/month plus research grant",
+        "tuition": "¥535,800 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/admissions/disability/",
+        "status": "verified-deadline",
+        "desc": "Advanced doctoral program exploring neurological rehabilitation, motor neuroprosthetics, assistive biomechanical engineering, and clinical epidemiology of chronic impairment.",
+        "requirements": {
+          "gpa": "Master's degree in Rehabilitation, Medicine, Biomedical Engineering, or Health Sciences.",
+          "ielts": "Academic IELTS 6.5+ or TOEFL iBT 85+.",
+          "gre": "Not required.",
+          "papers": "Master's thesis summary, CV, 4-page doctoral research protocol, and official academic records.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7291,
+        "title": "Tohoku University Global Health Sciences (HSS) Doctoral Fellowship",
+        "type": "Fellowship",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "¥2,400,000 annual living grant, complete tuition waiver, and ¥500,000 project research allowance",
+        "tuition": "Fully waived",
+        "fee": "None",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/funding/hss-fellowship/",
+        "status": "verified-deadline",
+        "desc": "Elite interdisciplinary fellowship for incoming doctoral scholars in medical sciences addressing planetary health, infectious disease surveillance, and international epidemiological frontiers.",
+        "requirements": {
+          "gpa": "Enrolled or accepted candidate in Tohoku Graduate School of Medicine doctoral program.",
+          "ielts": "Fluent academic English.",
+          "gre": "Not required.",
+          "papers": "Doctoral research protocol, peer-reviewed publication list, CV, and mentor statement.",
+          "references": "Two academic endorsements."
+        }
+      },
+      {
+        "id": 7292,
+        "title": "Tohoku Medical Megabank Genome Informatics Doctoral Internship",
+        "type": "Internship",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-01-20",
+        "deadlineText": "January 20, 2027",
+        "funding": "Fully funded research internship including ¥180,000 monthly living stipend and supercomputer access",
+        "tuition": "No tuition",
+        "fee": "None",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "biology"
+        ],
+        "source": "https://www.megabank.tohoku.ac.jp/english/education/",
+        "status": "verified-deadline",
+        "desc": "Six-month research internship at the Tohoku Medical Megabank Organization (ToMMo), working directly with high-performance supercomputing clusters analyzing 150k whole-genome sequence datasets.",
+        "requirements": {
+          "gpa": "Current graduate student in Bioinformatics, Computer Science, Computational Biology, or Human Genetics.",
+          "ielts": "English working proficiency (IELTS 6.5+ or equivalent).",
+          "gre": "Not required.",
+          "papers": "Curriculum vitae, coding project repository links (GitHub), statement of research interests, and supervisor permission.",
+          "references": "One academic advisor recommendation letter."
+        }
+      },
+      {
+        "id": 7293,
+        "title": "Tohoku University MEXT Scholarship in Biomedical Sciences and Translational Medicine",
+        "type": "Scholarship",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2026-11-25",
+        "deadlineText": "November 25, 2026",
+        "funding": "100% tuition and admission fee exemption, roundtrip airfare, and ¥147,000 monthly stipend for duration of PhD",
+        "tuition": "Fully covered",
+        "fee": "None",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/admissions/mext/",
+        "status": "verified-deadline",
+        "desc": "Japanese Government MEXT scholarship awarded via direct university recommendation to top-tier international graduates entering doctoral studies in medical sciences.",
+        "requirements": {
+          "gpa": "Minimum cumulative GPA of 3.4/4.0 in master's or medical degree.",
+          "ielts": "TOEFL iBT 90+ or IELTS 7.0+.",
+          "gre": "Not required.",
+          "papers": "Formal MEXT application documents, research proposal, medical certificate, certified transcripts, and degree certificates.",
+          "references": "Two official recommendation letters from dean or thesis advisor."
+        }
+      },
+      {
+        "id": 7294,
+        "title": "Tohoku University Postdoctoral Fellowship in Advanced Medical Research",
+        "type": "Fellowship",
+        "university": "Tohoku University School of Medicine",
+        "country": "Japan",
+        "location": "Sendai, Miyagi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Annual salary of ¥4,800,000 to ¥6,000,000 plus relocation allowance and medical insurance",
+        "tuition": "Not applicable (paid research position)",
+        "fee": "None",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.med.tohoku.ac.jp/english/research/postdoc/",
+        "status": "verified-deadline",
+        "desc": "Two-year postdoctoral research appointment in world-renowned laboratories specializing in Keap1-Nrf2 signaling, neurodevelopmental genetics, or viral immunology.",
+        "requirements": {
+          "gpa": "PhD or MD/PhD completed within the past 4 years.",
+          "ielts": "Demonstrated record of first-author publications in international peer-reviewed journals.",
+          "gre": "Not required.",
+          "papers": "Curriculum vitae, summary of research accomplishments (2 pages), future research plan (3 pages), and 3 representative reprints.",
+          "references": "Three professional reference letters from principal investigators."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3184,
+        "name": "Prof. Dr. Masayuki Yamamoto",
+        "title": "Executive Director of Tohoku Medical Megabank & Professor of Medical Biochemistry",
+        "university": "Tohoku University School of Medicine",
+        "department": "Department of Medical Biochemistry",
+        "subject": "biology",
+        "topics": [
+          "Keap1-Nrf2 Stress Response System",
+          "Genomic Medicine",
+          "Biobanking",
+          "Oxidative Stress Biology"
+        ],
+        "summary": "Prof. Dr. Yamamoto is a world-renowned biomedical scientist who discovered and elucidated the Keap1-Nrf2 molecular pathway governing oxidative stress and cytoprotective gene expression, and leads the 150,000-person Tohoku Medical Megabank.",
+        "source": "https://www.med.tohoku.ac.jp/english/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3185,
+        "name": "Prof. Dr. Hitoshi Oshitani",
+        "title": "Professor of Virology and Emerging Infectious Diseases",
+        "university": "Tohoku University School of Medicine",
+        "department": "Department of Virology",
+        "subject": "biology",
+        "topics": [
+          "Emerging Viral Pathogens",
+          "Molecular Epidemiology",
+          "Respiratory Viruses",
+          "Public Health Preparedness"
+        ],
+        "summary": "Prof. Dr. Oshitani is a globally distinguished virologist and public health advisor who developed Japan's contact-tracing cluster strategy and investigates respiratory virus transmission dynamics.",
+        "source": "https://www.med.tohoku.ac.jp/english/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3186,
+        "name": "Prof. Dr. Noriko Osumi",
+        "title": "Vice President & Professor of Developmental Neuroscience",
+        "university": "Tohoku University School of Medicine",
+        "department": "Department of Developmental Neuroscience",
+        "subject": "biology",
+        "topics": [
+          "Neural Stem Cells",
+          "Pax6 Transcription Factor",
+          "Brain Development Genetics",
+          "Epigenetic Inheritance"
+        ],
+        "summary": "Prof. Dr. Osumi investigates the genetic and epigenetic regulation of neurogenesis, the essential role of Pax6 in brain development, and the impact of parental age and stress on offspring neural health.",
+        "source": "https://www.med.tohoku.ac.jp/english/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3187,
+        "name": "Prof. Dr. Kazuhiko Igarashi",
+        "title": "Professor of Biochemistry and Epigenetics",
+        "university": "Tohoku University School of Medicine",
+        "department": "Department of Biochemistry",
+        "subject": "biology",
+        "topics": [
+          "Bach Transcription Factors",
+          "Epigenetics",
+          "Heme Biology",
+          "Immune Cell Differentiation"
+        ],
+        "summary": "Prof. Dr. Igarashi discovered the Bach family of transcription factors and investigates how iron and heme metabolism modulate chromatin structure and gene regulation in immune cells and cancer.",
+        "source": "https://www.med.tohoku.ac.jp/english/faculty/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Toin University of Yokohama",
+    "shortName": "Toin Yokohama",
+    "slug": "toin-university-of-yokohama",
+    "location": "Yokohama, Kanagawa, Japan",
+    "website": "https://toin.ac.jp",
+    "sourceRow": 1765,
+    "stats": {
+      "established": 1988,
+      "students": "3,100+ students",
+      "international": "7%",
+      "faculty": "160+ Faculty Members"
+    },
+    "heroSummary": "Toin University of Yokohama is a pioneering private institution world-famous as the birthplace of perovskite solar cells, delivering frontier programs in biomedical engineering, clean energy chemistry, and practical legal studies.",
+    "academicOverview": "Situated in the green hills of Aoba Ward, Yokohama, Toin University of Yokohama comprises the Faculty of Biomedical Engineering, Faculty of Law, Faculty of Modern Society, and the Graduate School of Engineering. Under the leadership of Distinguished Professor Tsutomu Miyasaka—frequently cited as a top contender for the Nobel Prize in Chemistry—Toin is an international epicenter for printable perovskite photovoltaics, medical ultrasound systems, and regenerative tissue engineering.",
+    "researchAdmissions": "Undergraduate programs require high school graduation, submission of academic transcripts, and Japanese proficiency (JLPT N2). Graduate applicants to the Graduate School of Engineering (Materials Science, Biomedical Engineering) must hold an accredited bachelor's degree in engineering, physics, or chemistry, and provide a formal research plan aligned with an identified laboratory principal investigator.",
+    "opportunities": [
+      {
+        "id": 7295,
+        "title": "Bachelor of Engineering in Biomedical and Clinical Engineering",
+        "type": "Bachelor's",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2026-12-18",
+        "deadlineText": "December 18, 2026",
+        "funding": "Toin Yokohama Biomedical Excellence Scholarship covering 30% to 50% tuition",
+        "tuition": "¥1,460,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "biology"
+        ],
+        "source": "https://toin.ac.jp/bme/clinical/",
+        "status": "verified-deadline",
+        "desc": "Four-year specialized degree qualifying students for the National Clinical Engineer examination, focusing on artificial heart-lung machines, dialysis systems, medical imaging, and biosensors.",
+        "requirements": {
+          "gpa": "High school diploma with rigorous foundations in Mathematics, Physics, and Biology.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, graduation certificate, and personal essay on healthcare technology.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7296,
+        "title": "Bachelor of Science in Renewable Energy Systems and Materials Chemistry",
+        "type": "Bachelor's",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "Clean Energy Pioneer Grant providing ¥300,000 annual fee remission",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "chemistry",
+        "subjects": [
+          "chemistry",
+          "engineering"
+        ],
+        "source": "https://toin.ac.jp/bme/energy/",
+        "status": "verified-deadline",
+        "desc": "Undergraduate chemistry and materials degree directly connected with Miyasaka Laboratory, studying next-generation thin-film photovoltaics, dye-sensitized solar cells, and energy storage batteries.",
+        "requirements": {
+          "gpa": "Secondary school certificate with high marks in Chemistry and Mathematics.",
+          "ielts": "JLPT N2 (or IELTS 6.0+ for designated research tracks).",
+          "gre": "Not required.",
+          "papers": "Official transcripts, high school leaving diploma, and statement of interest in solar energy.",
+          "references": "One reference letter from a science educator."
+        }
+      },
+      {
+        "id": 7297,
+        "title": "Bachelor of Laws (LLB) in Modern Legal Practice and International Business Law",
+        "type": "Bachelor's",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "Toin Jurisprudence Scholarship offering 30% tuition discount",
+        "tuition": "¥1,180,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://toin.ac.jp/law/",
+        "status": "verified-deadline",
+        "desc": "Four-year legal curriculum training students in intellectual property law, corporate governance, administrative compliance, and cross-border commercial transactions.",
+        "requirements": {
+          "gpa": "High school graduation diploma with strong humanities profile.",
+          "ielts": "JLPT N1 or strong N2.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, graduation certificate, and personal statement.",
+          "references": "One letter of recommendation."
+        }
+      },
+      {
+        "id": 7298,
+        "title": "Master of Engineering in Advanced Biomedical and Materials Engineering",
+        "type": "Master's",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-25",
+        "deadlineText": "January 25, 2027",
+        "funding": "Toin Graduate Fellowship providing 50% tuition reduction plus paid laboratory assistantships",
+        "tuition": "¥820,000 per academic year",
+        "fee": "¥30,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "chemistry"
+        ],
+        "source": "https://toin.ac.jp/graduate/engineering/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree focusing on biomaterials, diagnostic ultrasound acoustics, microfluidics, and thin-film solar cell engineering.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Engineering, Chemistry, Physics, or Materials Science (min GPA 2.8/4.0).",
+          "ielts": "Academic IELTS 6.0+ or JLPT N2.",
+          "gre": "Not required.",
+          "papers": "Bachelor's transcript, degree certificate, 2 to 3-page research proposal, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7299,
+        "title": "Doctor of Philosophy in Materials Science and Perovskite Photovoltaic Energy Technology",
+        "type": "PhD",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Miyasaka Laboratory Doctoral Fellowship providing full tuition exemption plus ¥180,000 monthly research stipend",
+        "tuition": "¥600,000 per academic year (fully waivable)",
+        "fee": "¥30,000 application fee",
+        "subject": "chemistry",
+        "subjects": [
+          "chemistry",
+          "physics"
+        ],
+        "source": "https://toin.ac.jp/graduate/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Three-year world-leading doctoral program investigating halide perovskite crystallization, flexible solar modules, lead-free tandem photovoltaics, and photoelectrochemical cells.",
+        "requirements": {
+          "gpa": "Master of Science or Engineering in Chemistry, Physics, or Materials Science.",
+          "ielts": "Fluency in English (IELTS 6.5+ or TOEFL iBT 80+).",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy, publication list, 4-page doctoral research proposal on photovoltaic materials, and CV.",
+          "references": "Two academic recommendations from materials science researchers."
+        }
+      },
+      {
+        "id": 7300,
+        "title": "Toin Yokohama Fellowship for Energy and Photovoltaic Innovation",
+        "type": "Fellowship",
+        "university": "Toin University of Yokohama",
+        "country": "Japan",
+        "location": "Yokohama, Kanagawa, Japan",
+        "deadline": "2027-02-20",
+        "deadlineText": "February 20, 2027",
+        "funding": "Postdoctoral stipend of ¥350,000/month plus research bench fee and laboratory access",
+        "tuition": "Fully waived",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "chemistry"
+        ],
+        "source": "https://toin.ac.jp/research/fellowship/",
+        "status": "verified-deadline",
+        "desc": "Twelve-month competitive research fellowship for early-career researchers conducting experimental research in printable solar cells and advanced biomedical instrumentation.",
+        "requirements": {
+          "gpa": "PhD in Chemistry, Materials Science, Applied Physics, or Biomedical Engineering earned within past 3 years.",
+          "ielts": "Fluent academic English communication.",
+          "gre": "Not required.",
+          "papers": "Curriculum vitae, research proposal (3 pages), two representative reprints, and host lab acceptance.",
+          "references": "Three professional reference letters."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3188,
+        "name": "Prof. Dr. Tsutomu Miyasaka",
+        "title": "Distinguished Professor & Pioneer of Perovskite Photovoltaics",
+        "university": "Toin University of Yokohama",
+        "department": "Faculty of Biomedical Engineering",
+        "subject": "chemistry",
+        "topics": [
+          "Perovskite Solar Cells",
+          "Photoelectrochemistry",
+          "Flexible Photovoltaics",
+          "Dye-Sensitized Solar Cells"
+        ],
+        "summary": "Prof. Dr. Miyasaka is the globally recognized inventor of organometal halide perovskite solar cells (published in 2009), revolutionizing global renewable energy research with numerous international awards and Clarivate Citation Laureate honors.",
+        "source": "https://toin.ac.jp/research/miyasaka-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3189,
+        "name": "Prof. Dr. Makoto Ogasawara",
+        "title": "Professor of Biomedical Acoustic Instrumentation",
+        "university": "Toin University of Yokohama",
+        "department": "Department of Clinical Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Medical Ultrasound Imaging",
+          "Acoustic Radiation Force",
+          "Microbubble Contrast Agents",
+          "Non-Invasive Diagnostics"
+        ],
+        "summary": "Prof. Dr. Ogasawara investigates high-frequency ultrasound transducer design, shear wave elastography for tissue characterization, and acoustic cavitation for targeted drug delivery.",
+        "source": "https://toin.ac.jp/faculty/bme/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3190,
+        "name": "Prof. Dr. Hiroshi Kageyama",
+        "title": "Professor of Comparative Constitutional and Administrative Law",
+        "university": "Toin University of Yokohama",
+        "department": "Faculty of Law",
+        "subject": "social-sciences",
+        "topics": [
+          "Comparative Constitutional Law",
+          "Administrative Regulation",
+          "Judicial Review",
+          "Information Privacy Law"
+        ],
+        "summary": "Prof. Dr. Kageyama specializes in constitutional rights protections, public administrative procedure, and the legal regulation of emerging digital data technologies in Japan and East Asia.",
+        "source": "https://toin.ac.jp/faculty/law/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tokai University",
+    "shortName": "Tokai University",
+    "slug": "tokai-university-shonan-tokyo",
+    "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+    "website": "https://www.u-tokai.ac.jp",
+    "sourceRow": 1766,
+    "stats": {
+      "established": 1942,
+      "students": "27,000+ undergraduate and graduate students",
+      "international": "8%",
+      "faculty": "1,600+ Full-Time Faculty"
+    },
+    "heroSummary": "Tokai University is one of Japan's largest and most prestigious private research universities, celebrated for its aerospace innovations, championship solar car team, oceanographic research fleet, and comprehensive medical school.",
+    "academicOverview": "Founded by Dr. Shigeyoshi Matsumae in 1942, Tokai University operates flagship campuses in Shonan (Hiratsuka, Kanagawa), Tokyo (Yoyogi and Takanawa), and Shizuoka (School of Marine Science and Technology). Tokai is internationally famed for its Tokai Challenger solar vehicle victories at the World Solar Challenge in Australia, its university-owned research vessel Bosei Maru, and cutting-edge engineering laboratories in robotics, semiconductors, and aeronautics.",
+    "researchAdmissions": "International applicants to undergraduate programs must hold a secondary school diploma, JLPT N2 or N1 (or IELTS 6.0+ for select English-medium courses), academic transcripts, and personal statement. Graduate programs in Science and Technology require a recognized bachelor's or master's degree, a detailed research plan, and supervisor agreement. Tokai University General Scholarship and MEXT allocations provide extensive financial support.",
+    "opportunities": [
+      {
+        "id": 7301,
+        "title": "Bachelor of Engineering in Aerospace and Aeronautics Engineering",
+        "type": "Bachelor's",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2026-12-12",
+        "deadlineText": "December 12, 2026",
+        "funding": "Tokai Matsumae International Scholarship providing 30% to 50% tuition reduction",
+        "tuition": "¥1,520,000 per academic year",
+        "fee": "¥35,000 entrance examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/undergraduate/engineering/aerospace/",
+        "status": "verified-deadline",
+        "desc": "Four-year prestigious aerospace curriculum covering aerodynamics, spacecraft propulsion, orbital mechanics, flight control avionics, and composite materials design at the Shonan campus.",
+        "requirements": {
+          "gpa": "High school completion with advanced coursework in Physics and Mathematics (Calculus).",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "High school academic transcripts, graduation certificate, and statement of passion for aerospace.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7302,
+        "title": "Bachelor of Engineering in Electrical and Electronic Engineering",
+        "type": "Bachelor's",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2026-12-12",
+        "deadlineText": "December 12, 2026",
+        "funding": "Tokai Science and Technology Future Talent Award (¥300,000 annual fee discount)",
+        "tuition": "¥1,480,000 per academic year",
+        "fee": "¥35,000 entrance examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/undergraduate/engineering/electrical/",
+        "status": "verified-deadline",
+        "desc": "Comprehensive engineering degree with hands-on labs in solar cell engineering, electric vehicle motor drives, semiconductor electronics, and high-voltage power transmission.",
+        "requirements": {
+          "gpa": "High school diploma with strong mathematics and physics marks.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Official transcripts, graduation diploma, and personal statement.",
+          "references": "One teacher recommendation."
+        }
+      },
+      {
+        "id": 7303,
+        "title": "Bachelor of Marine Science in Oceanography and Marine Resources",
+        "type": "Bachelor's",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2027-01-10",
+        "deadlineText": "January 10, 2027",
+        "funding": "Ocean Research Trainee Subsidy covering shipboard training fees",
+        "tuition": "¥1,450,000 per academic year",
+        "fee": "¥35,000 examination fee",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/undergraduate/marine/",
+        "status": "verified-deadline",
+        "desc": "Pioneering marine science program conducted at Shimizu campus and aboard the university research vessel Bosei Maru, studying deep-sea ecosystems, physical oceanography, and marine conservation.",
+        "requirements": {
+          "gpa": "High school diploma with biology, earth sciences, or chemistry background.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, physical fitness/seafaring health certificate, and statement of purpose.",
+          "references": "One academic recommendation."
+        }
+      },
+      {
+        "id": 7304,
+        "title": "Bachelor of Science in Computer Science and Artificial Intelligence",
+        "type": "Bachelor's",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2027-01-10",
+        "deadlineText": "January 10, 2027",
+        "funding": "Tokai Global AI Scholarship providing ¥350,000 annual fee deduction",
+        "tuition": "¥1,480,000 per academic year",
+        "fee": "¥35,000 examination fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "mathematics"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/undergraduate/information/",
+        "status": "verified-deadline",
+        "desc": "Cutting-edge curriculum located at the Takanawa (Tokyo) campus covering deep learning, autonomous driving systems, computer vision, data science, and cloud software engineering.",
+        "requirements": {
+          "gpa": "High school diploma with mathematics and algorithmic thinking skills.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Transcripts, graduation diploma, programming portfolio (optional), and statement of purpose.",
+          "references": "One teacher reference letter."
+        }
+      },
+      {
+        "id": 7305,
+        "title": "Master of Science in Engineering and Applied Science",
+        "type": "Master's",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2027-01-20",
+        "deadlineText": "January 20, 2027",
+        "funding": "Tokai Graduate Research Fellowship providing 50% tuition waiver and teaching assistantship",
+        "tuition": "¥850,000 per academic year",
+        "fee": "¥35,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/graduate/science_technology/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree investigating solar vehicle powertrains, nano-micro electromechanical systems (MEMS), advanced composites, and optical communication.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Engineering, Physics, or Computer Science (min GPA 3.0/4.0).",
+          "ielts": "Academic IELTS 6.0+ or TOEFL iBT 80+ or JLPT N2.",
+          "gre": "Not required.",
+          "papers": "Undergraduate transcript, bachelor's degree certificate, 3-page research proposal, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7306,
+        "title": "Doctor of Philosophy in Science and Technology",
+        "type": "PhD",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Doctoral Research Fellowship covering full tuition exemption plus ¥160,000 monthly living allowance",
+        "tuition": "¥680,000 per academic year (fully waivable)",
+        "fee": "¥35,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.u-tokai.ac.jp/academics/graduate/science_technology/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Three-year doctoral curriculum fostering independent scientific innovators in aeronautics, power electronics, ocean technology, and intelligent autonomous robotics.",
+        "requirements": {
+          "gpa": "Master's degree in Engineering, Science, or Information Technology.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 85+ (English dissertation track available).",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy, publication list, 4-page doctoral research project proposal, and CV.",
+          "references": "Two letters of recommendation from professors."
+        }
+      },
+      {
+        "id": 7307,
+        "title": "Tokai University Global Exchange Tuition Reduction Scholarship & Research Assistantship",
+        "type": "Scholarship",
+        "university": "Tokai University",
+        "country": "Japan",
+        "location": "Hiratsuka, Kanagawa & Tokyo, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "30% to 100% tuition waiver plus paid student research assistantship for international scholars",
+        "tuition": "Subsidized via scholarship",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.u-tokai.ac.jp/international/scholarship/",
+        "status": "verified-deadline",
+        "desc": "Established by the Tokai University Educational System to support high-achieving international undergraduate and graduate scholars pursuing engineering and science degrees.",
+        "requirements": {
+          "gpa": "Academic record in top 20th percentile of class.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, family economic summary, and study plan.",
+          "references": "Faculty advisor recommendation."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3191,
+        "name": "Prof. Dr. Hideki Kimura",
+        "title": "Professor of Electrical Engineering & Director of Tokai Solar Car Project",
+        "university": "Tokai University",
+        "department": "Department of Electrical and Electronic Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Solar Electric Vehicles",
+          "High-Efficiency Photovoltaics",
+          "Lithium-Ion Battery Systems",
+          "Aerodynamic Rolling Resistance"
+        ],
+        "summary": "Prof. Dr. Kimura is the renowned director of Tokai University's world-champion solar car team, pioneering ultra-efficient silicon and gallium arsenide solar cell arrays and high-capacity battery telemetry.",
+        "source": "https://www.u-tokai.ac.jp/faculty/kimura-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3192,
+        "name": "Prof. Dr. Kazuo Sano",
+        "title": "Professor of Aeronautics and Spacecraft Propulsion",
+        "university": "Tokai University",
+        "department": "Department of Aeronautics and Astronautics",
+        "subject": "engineering",
+        "topics": [
+          "Spacecraft Electric Propulsion",
+          "Ion Thrusters",
+          "Plasma Diagnostics",
+          "Hypersonic Aerodynamics"
+        ],
+        "summary": "Prof. Dr. Sano investigates microwave discharge ion thrusters, Hall effect thrusters for small satellites, and plasma plume interaction dynamics for deep space exploration.",
+        "source": "https://www.u-tokai.ac.jp/faculty/sano-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3193,
+        "name": "Prof. Dr. Koji Tsuchiya",
+        "title": "Professor of Mechanical Engineering and MEMS",
+        "university": "Tokai University",
+        "department": "Department of Mechanical Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Micro-Electro-Mechanical Systems (MEMS)",
+          "Microfluidic Lab-on-a-Chip",
+          "Nanofabrication",
+          "Biomedical Microdevices"
+        ],
+        "summary": "Prof. Dr. Tsuchiya develops microfluidic diagnostic chips, piezoelectric micro-actuators, and biocompatible micro-sensors for non-invasive medical monitoring and cellular analysis.",
+        "source": "https://www.u-tokai.ac.jp/faculty/tsuchiya-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3194,
+        "name": "Prof. Dr. Yoshihiro Tanaka",
+        "title": "Professor of Information Science and Intelligent Systems",
+        "university": "Tokai University",
+        "department": "Department of Information Science",
+        "subject": "computer-science",
+        "topics": [
+          "Human-Computer Interaction",
+          "Haptic Sensory Feedback",
+          "Virtual Reality Simulation",
+          "Assistive Robotics"
+        ],
+        "summary": "Prof. Dr. Tanaka explores tactile sensing displays, vibrotactile feedback for teleoperated surgical robotics, and immersive virtual reality training interfaces for medical professionals.",
+        "source": "https://www.u-tokai.ac.jp/faculty/tanaka-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tokaigakuen University",
+    "shortName": "Tokaigakuen Nagoya",
+    "slug": "tokaigakuen-university-nagoya",
+    "location": "Nagoya & Miyoshi, Aichi, Japan",
+    "website": "https://www.tokaigakuen-u.ac.jp",
+    "sourceRow": 1767,
+    "stats": {
+      "established": 1888,
+      "students": "3,600+ students",
+      "international": "4%",
+      "faculty": "170+ Academic Staff"
+    },
+    "heroSummary": "Tokaigakuen University is an established private institution in the Greater Nagoya area renowned for its faculties of Human Health, Management, Psychology, and Education, fostering practical community leadership and nutritional science.",
+    "academicOverview": "Tracing its heritage back to 1888 when it was founded by the Jodo Pure Land Buddhist denomination in Nagoya, Tokaigakuen University operates campuses in Nagoya (Tenpaku Ward) and Miyoshi City. Its Faculty of Human Health is recognized throughout central Japan for training elite registered dietitians and sports wellness specialists, while the Faculty of Management leads research in automotive supply chain business, digital marketing, and regional entrepreneurship.",
+    "researchAdmissions": "Admission to undergraduate degree programs requires a certified high school completion certificate, Japanese language competence (JLPT N2 or higher), submission of academic records, and an interview. Graduate admissions to the Graduate School of Management or Health require a recognized bachelor's degree, comprehensive research proposal, and interview with prospective faculty supervisors.",
+    "opportunities": [
+      {
+        "id": 7308,
+        "title": "Bachelor of Business Administration in Management and Global Marketing",
+        "type": "Bachelor's",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "funding": "Tokaigakuen International Business Grant offering 30% tuition discount",
+        "tuition": "¥1,190,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/academics/management/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum exploring corporate strategy, automotive industry logistics, brand marketing, e-commerce, and human resource management in the Chubu economic region.",
+        "requirements": {
+          "gpa": "High school diploma with solid academic foundation in Social Studies and Mathematics.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, graduation certificate, and statement of business career ambition.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7309,
+        "title": "Bachelor of Science in Food and Nutritional Sciences (Registered Dietitian Pathway)",
+        "type": "Bachelor's",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "funding": "Health Science Merit Award providing ¥250,000 annual tuition reduction",
+        "tuition": "¥1,420,000 per academic year",
+        "fee": "¥30,000 entrance examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/academics/human_health/nutrition/",
+        "status": "verified-deadline",
+        "desc": "Intensive four-year degree qualifying graduates for the National Registered Dietitian license, featuring clinical hospital practicums, food biochemistry, and sports meal planning.",
+        "requirements": {
+          "gpa": "High school graduation certificate with strong achievement in Chemistry and Biology.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, health survey, and statement of vocational purpose.",
+          "references": "One reference letter from a high school instructor."
+        }
+      },
+      {
+        "id": 7310,
+        "title": "Bachelor of Health Science in Sports Science and Athletic Performance",
+        "type": "Bachelor's",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "Athletic Excellence Scholarship offering up to 50% tuition waiver",
+        "tuition": "¥1,380,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "social-sciences"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/academics/human_health/sports/",
+        "status": "verified-deadline",
+        "desc": "Applied sports science degree covering exercise physiology, athletic training, conditioning biomechanics, sports psychology, and community physical fitness management.",
+        "requirements": {
+          "gpa": "Secondary school diploma with athletic involvement and health science aptitude.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "Transcripts, graduation diploma, athletic achievement record (if applicable), and personal essay.",
+          "references": "One coach or academic recommendation letter."
+        }
+      },
+      {
+        "id": 7311,
+        "title": "Bachelor of Psychology in Applied Clinical and Cognitive Psychology",
+        "type": "Bachelor's",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "funding": "Tokaigakuen Human Studies Grant providing ¥200,000 annual subsidy",
+        "tuition": "¥1,220,000 per academic year",
+        "fee": "¥30,000 examination fee",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/academics/psychology/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum addressing cognitive neuroscience, developmental psychology, counseling methodologies, and industrial organizational psychology.",
+        "requirements": {
+          "gpa": "High school completion with strong interest in human behavior.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, diploma, and personal statement.",
+          "references": "One teacher recommendation."
+        }
+      },
+      {
+        "id": 7312,
+        "title": "Master of Human Health and Nutritional Sciences",
+        "type": "Master's",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2027-01-25",
+        "deadlineText": "January 25, 2027",
+        "funding": "Tokaigakuen Graduate Research Fellowship providing 50% tuition reduction and assistantships",
+        "tuition": "¥760,000 per academic year",
+        "fee": "¥30,000 application fee",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/graduate/health/",
+        "status": "verified-deadline",
+        "desc": "Two-year graduate research program investigating functional nutrient metabolism, sports conditioning nutrition, dietary therapy for lifestyle diseases, and food safety biochemistry.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Nutritional Science, Biology, Food Science, or Sports Health (min GPA 2.8/4.0).",
+          "ielts": "JLPT N2 or documented English research capability.",
+          "gre": "Not required.",
+          "papers": "Undergraduate transcript, graduation certificate, 2-page research proposal, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7313,
+        "title": "Tokaigakuen International Student Tuition Exemption and Leadership Scholarship",
+        "type": "Scholarship",
+        "university": "Tokaigakuen University",
+        "country": "Japan",
+        "location": "Nagoya & Miyoshi, Aichi, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "30% to 50% tuition fee waiver across all academic years for qualifying international candidates",
+        "tuition": "Directly deducted via award",
+        "fee": "None",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "biology"
+        ],
+        "source": "https://www.tokaigakuen-u.ac.jp/international/scholarship/",
+        "status": "verified-deadline",
+        "desc": "Institutional financial grant established to foster international friendship and support talented foreign students enrolled in undergraduate and graduate courses at Tokaigakuen.",
+        "requirements": {
+          "gpa": "Maintained GPA of 2.8/4.0 or higher.",
+          "ielts": "JLPT N2 or higher.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, financial survey of self-support, and recommendation letter.",
+          "references": "Academic faculty endorsement."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3195,
+        "name": "Prof. Dr. Masahiko Ando",
+        "title": "Professor of Nutritional Biochemistry and Metabolic Science",
+        "university": "Tokaigakuen University",
+        "department": "Faculty of Human Health",
+        "subject": "biology",
+        "topics": [
+          "Nutritional Biochemistry",
+          "Lipid Metabolism",
+          "Functional Polyphenols",
+          "Clinical Diet Therapy"
+        ],
+        "summary": "Prof. Dr. Ando investigates dietary polyphenol absorption mechanisms, lipid peroxidation prevention, and nutritional interventions for metabolic syndrome in regional cohort studies.",
+        "source": "https://www.tokaigakuen-u.ac.jp/research/ando-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3196,
+        "name": "Prof. Dr. Takashi Ishikawa",
+        "title": "Professor of Strategic Management and Supply Chain Logistics",
+        "university": "Tokaigakuen University",
+        "department": "Faculty of Management",
+        "subject": "social-sciences",
+        "topics": [
+          "Automotive Supply Chains",
+          "Just-In-Time Production",
+          "Strategic Innovation",
+          "Chubu Regional Economics"
+        ],
+        "summary": "Prof. Dr. Ishikawa specializes in lean automotive supply chain management, tier-supplier supplier relationship management, and digital transformation in the Greater Nagoya industrial belt.",
+        "source": "https://www.tokaigakuen-u.ac.jp/research/ishikawa-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3197,
+        "name": "Prof. Dr. Yuka Shibata",
+        "title": "Professor of Developmental and Educational Psychology",
+        "university": "Tokaigakuen University",
+        "department": "Faculty of Psychology",
+        "subject": "social-sciences",
+        "topics": [
+          "Child Developmental Psychology",
+          "Parent-Child Attachment",
+          "Early Childhood Education",
+          "Parental Support Systems"
+        ],
+        "summary": "Prof. Dr. Shibata researches socio-emotional development in early childhood, parental psychological resilience, and evidence-based interventions in preschool education environments.",
+        "source": "https://www.tokaigakuen-u.ac.jp/research/shibata-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "countryId": "japan",
+    "countryLabel": "Japan",
+    "institution": "Tokyo City University",
+    "shortName": "Tokyo City University",
+    "slug": "tokyo-city-university-setagaya",
+    "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+    "website": "https://www.tcu.ac.jp",
+    "sourceRow": 1768,
+    "stats": {
+      "established": 1929,
+      "students": "7,500+ students",
+      "international": "7%",
+      "faculty": "420+ Full-Time Faculty"
+    },
+    "heroSummary": "Tokyo City University (TCU) is a prestigious private technical university in Tokyo and Yokohama, renowned for its hydrogen engine mobility laboratories, nuclear energy research institute, environmental design, and smart city urban informatics.",
+    "academicOverview": "Formerly known as Musashi Institute of Technology (Musashi Tech) and part of the Tokyu Group, Tokyo City University operates prominent campuses at Setagaya (Tokyo), Yokohama (Kanagawa), and Todoroki. TCU is celebrated for producing Japan's first hydrogen-fueled internal combustion engine truck, its Atomic Energy Research Laboratory, and cutting-edge degrees in urban civil infrastructure, electric vehicles, and computer science.",
+    "researchAdmissions": "Undergraduate entrance requires high school graduation credentials, math/physics competency, JLPT N2 or N1 (or IELTS 6.0+ for designated English coursework), and entrance examination. Graduate degree programs in Integrative Science and Engineering require a recognized bachelor's or master's degree, comprehensive research proposal, and laboratory supervisor endorsement prior to application.",
+    "opportunities": [
+      {
+        "id": 7314,
+        "title": "Bachelor of Engineering in Mechanical Systems and Hydrogen Mobility Engineering",
+        "type": "Bachelor's",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2026-12-10",
+        "deadlineText": "December 10, 2026",
+        "funding": "Tokyu Foundation Engineering Scholarship providing 30% to 50% tuition waiver",
+        "tuition": "¥1,510,000 per academic year",
+        "fee": "¥35,000 entrance examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "chemistry"
+        ],
+        "source": "https://www.tcu.ac.jp/academics/engineering/mechanical/",
+        "status": "verified-deadline",
+        "desc": "Four-year curriculum at the Setagaya campus renowned for hydrogen combustion engine R&D, fuel cell vehicle dynamics, precision thermodynamics, and advanced robotic control.",
+        "requirements": {
+          "gpa": "High school graduation certificate with advanced physics and mathematics (calculus).",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "High school academic transcripts, graduation diploma, and personal statement on future mobility engineering.",
+          "references": "One academic letter of recommendation."
+        }
+      },
+      {
+        "id": 7315,
+        "title": "Bachelor of Engineering in Electrical, Electronic and Communication Engineering",
+        "type": "Bachelor's",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2026-12-10",
+        "deadlineText": "December 10, 2026",
+        "funding": "TCU Future Technology Award (¥300,000 annual fee discount)",
+        "tuition": "¥1,510,000 per academic year",
+        "fee": "¥35,000 entrance examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.tcu.ac.jp/academics/engineering/electrical/",
+        "status": "verified-deadline",
+        "desc": "Comprehensive engineering curriculum addressing semiconductor devices, optical communication, power grid intelligence, and wireless IoT sensor network protocols.",
+        "requirements": {
+          "gpa": "Secondary school diploma with high marks in Mathematics and Physics.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Official transcripts, high school leaving certificate, and personal essay.",
+          "references": "One teacher recommendation letter."
+        }
+      },
+      {
+        "id": 7316,
+        "title": "Bachelor of Engineering in Architecture and Urban Environment Engineering",
+        "type": "Bachelor's",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-08",
+        "deadlineText": "January 8, 2027",
+        "funding": "Tokyu Urban Design Scholarship offering partial tuition remission",
+        "tuition": "¥1,530,000 per academic year",
+        "fee": "¥35,000 examination fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.tcu.ac.jp/academics/engineering/architecture/",
+        "status": "verified-deadline",
+        "desc": "JABEE-accredited architectural program focused on sustainable transit-oriented urban development (TOD), seismic structural resilience, and zero-carbon building environmental systems.",
+        "requirements": {
+          "gpa": "High school completion with mathematics and spatial design background.",
+          "ielts": "JLPT N2 or equivalent.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, portfolio of creative/technical drafting work (optional), and statement of purpose.",
+          "references": "One academic reference."
+        }
+      },
+      {
+        "id": 7317,
+        "title": "Bachelor of Information Science in Artificial Intelligence and Data Science",
+        "type": "Bachelor's",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-08",
+        "deadlineText": "January 8, 2027",
+        "funding": "Information Informatics Scholarship providing ¥350,000 annual subsidy",
+        "tuition": "¥1,490,000 per academic year",
+        "fee": "¥35,000 examination fee",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "mathematics"
+        ],
+        "source": "https://www.tcu.ac.jp/academics/informatics/ai-datascience/",
+        "status": "verified-deadline",
+        "desc": "Curriculum at the Yokohama campus investigating machine learning algorithms, big data informatics, natural language processing, autonomous systems, and cybersecurity.",
+        "requirements": {
+          "gpa": "High school diploma with superior mathematics and computational aptitude.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "High school transcripts, diploma, statement of intent, and programming repository (optional).",
+          "references": "One recommendation letter from a teacher."
+        }
+      },
+      {
+        "id": 7318,
+        "title": "Master of Engineering in Advanced Energy and Urban Engineering",
+        "type": "Master's",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2027-01-22",
+        "deadlineText": "January 22, 2027",
+        "funding": "TCU Graduate Research Fellowship providing 50% tuition reduction and research assistantships",
+        "tuition": "¥840,000 per academic year",
+        "fee": "¥35,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment"
+        ],
+        "source": "https://www.tcu.ac.jp/graduate/engineering/",
+        "status": "verified-deadline",
+        "desc": "Two-year research master's degree investigating hydrogen energy distribution, atomic energy safety, smart city urban modeling, and earthquake-resistant civil infrastructure.",
+        "requirements": {
+          "gpa": "Bachelor's degree in Engineering, Physical Sciences, or Architecture (min GPA 3.0/4.0).",
+          "ielts": "Academic IELTS 6.0+ or TOEFL iBT 80+ or JLPT N2.",
+          "gre": "Not required.",
+          "papers": "Bachelor's transcript, graduation certificate, 3-page research proposal, and CV.",
+          "references": "Two academic letters of recommendation from engineering professors."
+        }
+      },
+      {
+        "id": 7319,
+        "title": "Doctor of Philosophy in Integrative Science and Engineering",
+        "type": "PhD",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2027-02-10",
+        "deadlineText": "February 10, 2027",
+        "funding": "Doctoral Fellowship covering 100% tuition waiver plus ¥160,000 monthly living stipend",
+        "tuition": "¥650,000 per academic year (fully waivable)",
+        "fee": "¥35,000 application fee",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "source": "https://www.tcu.ac.jp/graduate/doctoral/",
+        "status": "verified-deadline",
+        "desc": "Three-year doctoral dissertation curriculum training elite researchers and corporate R&D specialists in hydrogen powertrain engineering, advanced wireless informatics, and sustainable civil materials.",
+        "requirements": {
+          "gpa": "Master of Science or Master of Engineering degree with distinguished academic record.",
+          "ielts": "IELTS 6.5+ or TOEFL iBT 85+ (English dissertation track available).",
+          "gre": "Not required.",
+          "papers": "Master's thesis copy, publication list, 4-page doctoral research project proposal, and CV.",
+          "references": "Two academic letters of recommendation."
+        }
+      },
+      {
+        "id": 7320,
+        "title": "Tokyo City University Gotoh Educational Corporation International Scholarship",
+        "type": "Scholarship",
+        "university": "Tokyo City University",
+        "country": "Japan",
+        "location": "Setagaya, Tokyo & Yokohama, Kanagawa, Japan",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "funding": "Waiver of 30% to 100% of tuition and fees for selected international science and engineering scholars",
+        "tuition": "Subsidized via grant",
+        "fee": "None",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "social-sciences"
+        ],
+        "source": "https://www.tcu.ac.jp/international/scholarship/",
+        "status": "verified-deadline",
+        "desc": "Established by the Gotoh Educational Corporation (Tokyu Group) to reward high-achieving international undergraduate and graduate engineering students demonstrating exceptional innovation potential.",
+        "requirements": {
+          "gpa": "Cumulative GPA in top 20th percentile of cohort.",
+          "ielts": "JLPT N2 or IELTS 6.0+.",
+          "gre": "Not required.",
+          "papers": "Scholarship application form, economic situation survey, and research outline.",
+          "references": "Faculty advisor recommendation letter."
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 3198,
+        "name": "Prof. Dr. Jiro Senda",
+        "title": "Professor of Mechanical Engineering and Hydrogen Power Systems",
+        "university": "Tokyo City University",
+        "department": "Faculty of Engineering",
+        "subject": "engineering",
+        "topics": [
+          "Hydrogen Internal Combustion Engines",
+          "Zero-Emission Mobility",
+          "Fuel Spray Combustion",
+          "Direct Injection Technology"
+        ],
+        "summary": "Prof. Dr. Senda leads TCU's celebrated Hydrogen Energy Research Center, developing direct-injection hydrogen internal combustion engines, zero-emission heavy trucks, and advanced spray combustion diagnostics.",
+        "source": "https://www.tcu.ac.jp/faculty/senda-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3199,
+        "name": "Prof. Dr. Norihiko Shinomiya",
+        "title": "Professor of Information and Network Engineering",
+        "university": "Tokyo City University",
+        "department": "Faculty of Information Science",
+        "subject": "computer-science",
+        "topics": [
+          "Distributed Network Systems",
+          "Graph Theory & Complex Networks",
+          "IoT Edge Computing",
+          "Fault-Tolerant Routing"
+        ],
+        "summary": "Prof. Dr. Shinomiya investigates topological graph algorithms for distributed communication networks, disaster-tolerant wireless ad hoc routing, and decentralized IoT edge data routing.",
+        "source": "https://www.tcu.ac.jp/faculty/shinomiya-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3200,
+        "name": "Prof. Dr. Yoshihiro Takahashi",
+        "title": "Professor of Structural Engineering and Seismic Design",
+        "university": "Tokyo City University",
+        "department": "Department of Architecture",
+        "subject": "engineering",
+        "topics": [
+          "Earthquake Resistant Structures",
+          "Steel-Concrete Composite Systems",
+          "Structural Health Monitoring",
+          "Dynamic Collapse Analysis"
+        ],
+        "summary": "Prof. Dr. Takahashi researches non-linear seismic collapse behavior of high-rise structures, hysteretic damping dampers, and real-time sensor-based structural health assessment following major earthquakes.",
+        "source": "https://www.tcu.ac.jp/faculty/takahashi-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      },
+      {
+        "id": 3201,
+        "name": "Prof. Dr. Mariko Iijima",
+        "title": "Professor of Environmental Planning and Ecological Design",
+        "university": "Tokyo City University",
+        "department": "Faculty of Environmental Studies",
+        "subject": "environment",
+        "topics": [
+          "Urban Ecological Planning",
+          "Green Infrastructure",
+          "Biodiversity Conservation",
+          "Urban Heat Island Mitigation"
+        ],
+        "summary": "Prof. Dr. Iijima explores urban green corridors, ecological network planning in metropolitan Tokyo and Yokohama, and quantitative microclimate cooling benefits of urban vegetative canopy cover.",
+        "source": "https://www.tcu.ac.jp/faculty/iijima-lab/",
+        "recruiting": true,
+        "reviewed": "2026-10-15"
+      }
+    ]
+  }
+];
