@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 47,
+  "cycle": 50,
   "completedInCycle": [
     "canada",
     "australia",
@@ -27,20 +27,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Fontys School of the Arts",
-    "sourceRow": 1411
+    "university": "Drenthe College (Assen Campus)",
+    "sourceRow": 1399
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 48,
-    "australia": 47,
-    "germany": 49,
-    "italy": 47,
-    "usa": 49,
-    "uk": 47,
-    "japan": 49,
-    "sweden": 47,
-    "netherlands": 47,
+    "canada": 51,
+    "australia": 50,
+    "germany": 53,
+    "italy": 50,
+    "usa": 53,
+    "uk": 50,
+    "japan": 53,
+    "sweden": 50,
+    "netherlands": 50,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
