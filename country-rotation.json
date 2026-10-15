@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 53,
+  "cycle": 54,
   "completedInCycle": [
     "canada",
     "australia",
@@ -27,20 +27,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Saxion University of Applied Sciences (Deventer Campus)",
-    "sourceRow": 1427
+    "university": "Hogeschool Viaa (Zwolle)",
+    "sourceRow": 1539
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 55,
-    "australia": 53,
-    "germany": 56,
-    "italy": 53,
-    "usa": 56,
-    "uk": 54,
-    "japan": 56,
-    "sweden": 53,
-    "netherlands": 54,
+    "canada": 58,
+    "australia": 56,
+    "germany": 59,
+    "italy": 57,
+    "usa": 59,
+    "uk": 58,
+    "japan": 59,
+    "sweden": 56,
+    "netherlands": 58,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
