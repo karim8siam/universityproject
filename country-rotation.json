@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 54,
+  "cycle": 55,
   "completedInCycle": [
     "canada",
     "australia",
@@ -21,26 +21,25 @@
     "usa",
     "uk",
     "japan",
-    "sweden",
     "netherlands"
   ],
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Hogeschool Viaa (Zwolle)",
-    "sourceRow": 1539
+    "university": "Wageningen Bioveterinary Research",
+    "sourceRow": 1544
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 58,
-    "australia": 56,
-    "germany": 59,
-    "italy": 57,
-    "usa": 59,
-    "uk": 58,
-    "japan": 59,
+    "canada": 62,
+    "australia": 57,
+    "germany": 63,
+    "italy": 61,
+    "usa": 64,
+    "uk": 62,
+    "japan": 63,
     "sweden": 56,
-    "netherlands": 58,
+    "netherlands": 62,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
