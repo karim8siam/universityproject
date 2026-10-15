@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 81,
+  "cycle": 82,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "SEU Carolina Regional Campus",
-    "sourceRow": 937
+    "university": "St. John's University Manhattan Campus",
+    "sourceRow": 968
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 365,
+    "usa": 395,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
