@@ -1,9 +1,9 @@
 name: OpenField 24/7 Autonomous Publisher
 
 on:
-  schedule:
-    # Runs every 2 hours (12 times per day around the clock, even when laptop is turned off)
-    - cron: '0 */2 * * *'
+  # schedule:
+  #   # Runs every 2 hours (12 times per day around the clock, even when laptop is turned off)
+  #   - cron: '0 */2 * * *'
   workflow_dispatch:
     inputs:
       forceCountry:
