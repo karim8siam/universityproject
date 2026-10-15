@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 56,
+  "cycle": 57,
   "completedInCycle": [
     "canada",
     "germany",
@@ -25,20 +25,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "University Medical Center Groningen (UMCG)",
-    "sourceRow": 1522
+    "university": "VLAG Graduate School",
+    "sourceRow": 1540
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 66,
+    "canada": 70,
     "australia": 57,
-    "germany": 68,
-    "italy": 65,
-    "usa": 69,
-    "uk": 66,
-    "japan": 67,
+    "germany": 73,
+    "italy": 69,
+    "usa": 74,
+    "uk": 70,
+    "japan": 71,
     "sweden": 56,
-    "netherlands": 66,
+    "netherlands": 70,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
