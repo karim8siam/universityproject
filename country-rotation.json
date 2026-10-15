@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 67,
+  "cycle": 68,
   "completedInCycle": [
     "canada",
     "germany",
@@ -21,23 +21,23 @@
     "japan",
     "netherlands"
   ],
-  "nextCountry": "canada",
+  "nextCountry": "germany",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Alfa-college - Campus Hardenberg",
-    "sourceRow": 1550
+    "university": "University of Excellence Netherlands",
+    "sourceRow": 1527
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 114,
+    "canada": 116,
     "australia": 57,
-    "germany": 121,
-    "italy": 113,
-    "usa": 122,
+    "germany": 126,
+    "italy": 114,
+    "usa": 127,
     "uk": 100,
-    "japan": 114,
+    "japan": 119,
     "sweden": 56,
-    "netherlands": 112,
+    "netherlands": 117,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
