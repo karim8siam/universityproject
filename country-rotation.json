@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 41,
+  "cycle": 44,
   "completedInCycle": [
     "canada",
     "australia",
@@ -22,26 +22,25 @@
     "uk",
     "japan",
     "sweden",
-    "netherlands",
-    "switzerland"
+    "netherlands"
   ],
   "nextCountry": "canada",
   "lastPublished": {
-    "country": "switzerland",
-    "university": "Bern University of Applied Sciences",
-    "sourceRow": 1341
+    "country": "netherlands",
+    "university": "Stenden University Groningen / NHL Stenden",
+    "sourceRow": 1494
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 42,
-    "australia": 41,
-    "germany": 41,
-    "italy": 41,
-    "usa": 41,
-    "uk": 41,
-    "japan": 41,
-    "sweden": 41,
-    "netherlands": 41,
+    "canada": 45,
+    "australia": 44,
+    "germany": 45,
+    "italy": 44,
+    "usa": 45,
+    "uk": 44,
+    "japan": 45,
+    "sweden": 44,
+    "netherlands": 44,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
