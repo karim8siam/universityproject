@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 50,
+  "cycle": 53,
   "completedInCycle": [
     "canada",
     "australia",
@@ -27,20 +27,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Drenthe College (Assen Campus)",
-    "sourceRow": 1399
+    "university": "Saxion University of Applied Sciences (Deventer Campus)",
+    "sourceRow": 1427
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 51,
-    "australia": 50,
-    "germany": 53,
-    "italy": 50,
-    "usa": 53,
-    "uk": 50,
-    "japan": 53,
-    "sweden": 50,
-    "netherlands": 50,
+    "canada": 55,
+    "australia": 53,
+    "germany": 56,
+    "italy": 53,
+    "usa": 56,
+    "uk": 54,
+    "japan": 56,
+    "sweden": 53,
+    "netherlands": 54,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
