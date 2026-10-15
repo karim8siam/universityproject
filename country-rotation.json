@@ -12,32 +12,30 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 68,
+  "cycle": 69,
   "completedInCycle": [
-    "canada",
+    "netherlands",
     "germany",
-    "italy",
     "usa",
-    "japan",
-    "netherlands"
+    "japan"
   ],
   "nextCountry": "germany",
   "lastPublished": {
-    "country": "netherlands",
-    "university": "University of Excellence Netherlands",
-    "sourceRow": 1527
+    "country": "japan",
+    "university": "Temple University, Japan Campus",
+    "sourceRow": 1758
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 116,
     "australia": 57,
-    "germany": 126,
+    "germany": 136,
     "italy": 114,
-    "usa": 127,
+    "usa": 135,
     "uk": 100,
-    "japan": 119,
+    "japan": 127,
     "sweden": 56,
-    "netherlands": 117,
+    "netherlands": 121,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
