@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 77,
+  "cycle": 78,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Louisiana State University of Alexandria",
-    "sourceRow": 797
+    "university": "Montana State University Billings",
+    "sourceRow": 830
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 245,
+    "usa": 275,
     "uk": 100,
     "japan": 180,
     "sweden": 56,

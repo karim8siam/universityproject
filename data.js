@@ -232326,6 +232326,5165 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 8607,
+    "title": "Master of Science in Petroleum Engineering (CCUS & Energy Transition)",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Elite graduate program utilizing the PERTT (Petroleum Engineering Research & Technology Transfer) full-scale training well facility to study subsurface carbon storage and offshore well control.",
+    "funding": "Graduate research assistantships providing full tuition waiver and $26,000 annual living stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$50 (Domestic) / $70 (International)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027 (Fall Priority)",
+    "source": "https://www.lsu.edu/eng/pete/academics/graduate.php",
+    "requirements": {
+      "gpa": "B.S. in Petroleum, Chemical, or Mechanical Engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Statement of purpose outlining energy transition or drilling research",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8608,
+    "title": "Doctor of Philosophy (Ph.D.) in Oceanography & Coastal Sciences",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "World-leading marine research program investigating coastal wetland loss, Mississippi River sediment diversions, hypoxic dead zones, and estuary biogeochemistry.",
+    "funding": "Doctoral research fellowships with full tuition waiver, subsidized health insurance, and $28,000 annual stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lsu.edu/oceanography/graduate/index.php",
+    "requirements": {
+      "gpa": "Undergraduate or master’s degree in marine science, biology, or geology with min. 3.2 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research proposal focusing on coastal and marine systems",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8609,
+    "title": "LSU Center for River Studies Hydraulic Modeling Fellowship",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Interdisciplinary research fellowship working on the 10,000-square-foot movable-bed physical river model to predict sediment transport and coastal restoration outcomes.",
+    "funding": "$15,000 annual research stipend plus full access to the lower Mississippi River physical model",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.lsu.edu/river",
+    "requirements": {
+      "gpa": "Enrolled graduate student in civil engineering or coastal sciences with min. 3.3 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "River hydraulics thesis proposal",
+      "references": "River Studies faculty sponsor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8610,
+    "title": "Master of Science in Biological and Agricultural Engineering",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Engineering curriculum applied to sugarcane biofuels, precision aquaculture robotics, food process engineering, and water resources engineering.",
+    "funding": "LSU AgCenter research assistantships providing full tuition remission and $22,000 stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.lsu.edu/eng/bae",
+    "requirements": {
+      "gpa": "B.S. in engineering or related biological science with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE optional",
+      "papers": "Statement of agricultural engineering research goals",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8611,
+    "title": "LSU Flagship Scholars Undergraduate Full-Tuition Award",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Prestigious merit scholarship awarded to top Louisiana high school seniors demonstrating stellar scholastic achievement and leadership potential.",
+    "funding": "Full resident tuition ($11,950/year value) plus a $2,000 study abroad stipend",
+    "tuition": "100% in-state tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.lsu.edu/financialaid/types_of_scholarships/entering_freshman_scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.7 and ACT score >= 33 or SAT >= 1450",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "LSU admissions honors essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8612,
+    "title": "LIGO Science Education Center Gravitational-Wave Internship",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "location": "Baton Rouge, Louisiana, United States",
+    "type": "Internship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Summer undergraduate research internship analyzing laser interferometry data, vibration isolation mechanics, and gravitational wave astrophysical events.",
+    "funding": "$4,500 summer research stipend plus access to the LIGO Livingston gravitational-wave detector",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.lsu.edu/physics/research/ligo.php",
+    "requirements": {
+      "gpa": "Undergraduate student in physics, math, or electrical engineering with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Statement of astrophysics and instrumentation interests",
+      "references": "Physics faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8613,
+    "title": "Doctor of Philosophy (Ph.D.) in Micro and Nanoscale Systems",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Interdisciplinary doctoral program utilizing the 41,000-square-foot Institute for Micromanufacturing cleanroom to develop MEMS/NEMS sensors, nano-biotechnology, and microfluidics.",
+    "funding": "Doctoral research assistantships providing full tuition waiver and $24,000 annual stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$40",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.latech.edu/coes/graduate-programs/phd-micro-nanoscale-systems",
+    "requirements": {
+      "gpa": "B.S. or M.S. in engineering, physics, or chemistry with min. 3.2 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Research statement outlining nanomanufacturing interests",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8614,
+    "title": "Master of Science in Cyber Engineering and Defense",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Comprehensive engineering degree focused on embedded hardware security, cyber-physical systems resilience, SCADA protection, and cryptanalytic architectures.",
+    "funding": "Department of Defense Cyber Scholarship Program (DoD CySP) full funding and $27,000 stipend",
+    "tuition": "$0 (Grant funded) or $540/credit",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.latech.edu/coes/graduate-programs/ms-computer-science",
+    "requirements": {
+      "gpa": "B.S. in Cyber Engineering, Computer Science, or Electrical Engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Technical statement of purpose and resume",
+      "references": "Two letters from computing or engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8615,
+    "title": "Trenchless Technology Center (TTC) Subsurface Infrastructure Fellowship",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Applied civil engineering fellowship advancing horizontal directional drilling, pipe bursting, robotic sewer inspection, and underground asset management.",
+    "funding": "$12,000 research award plus funded field testing on municipal pipeline renewal technologies",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://ttc.latech.edu",
+    "requirements": {
+      "gpa": "Enrolled graduate student in civil engineering with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Underground infrastructure research proposal",
+      "references": "TTC faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8616,
+    "title": "Master of Science in Biomedical Engineering",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Interdisciplinary program developing neural interfaces, drug delivery nanoparticles, orthopedic biomechanics, and artificial tissue scaffolds.",
+    "funding": "Biomedical research assistantships covering tuition and $18,000 stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.latech.edu/coes/graduate-programs/ms-biomedical-engineering",
+    "requirements": {
+      "gpa": "B.S. in engineering or life sciences with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of biomedical research experience",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8617,
+    "title": "Presidential Bulldogs Academic Merit Scholarship",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Merit award for outstanding incoming freshmen who have achieved superior academic standing in high school and demonstrated STEM or community leadership.",
+    "funding": "$9,500 annual scholarship ($38,000 four-year value) plus campus honors housing subsidy",
+    "tuition": "Renewable tuition credit",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.latech.edu/admissions/scholarships",
+    "requirements": {
+      "gpa": "High school core GPA >= 3.5 and ACT >= 30 or SAT >= 1360",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8618,
+    "title": "Institute for Micromanufacturing Cleanroom Fabrication Practicum",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "location": "Ruston, Louisiana, United States",
+    "type": "Internship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "Hands-on microfabrication practicum training students in cleanroom protocols, thin film deposition, optical lithography, and nanoscale surface metrology.",
+    "funding": "$3,500 summer research stipend plus full access to photolithography, electron beam, and AFM cleanrooms",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.latech.edu/ifm",
+    "requirements": {
+      "gpa": "Junior or senior undergraduate in engineering or physics with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Cleanroom safety pledge and statement of fabrication interests",
+      "references": "IfM faculty mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8619,
+    "title": "Doctor of Philosophy (Ph.D.) in Computer Science - CACS",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Elite computer science program at the Center for Advanced Computer Studies (CACS) specializing in high-performance computing, VLSI design, wireless sensor networks, and deep learning algorithms.",
+    "funding": "Full graduate research assistantship covering 100% of tuition and $25,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$40",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://cacs.louisiana.edu/academics/phd-computer-science",
+    "requirements": {
+      "gpa": "B.S. or M.S. in Computer Science or Computer Engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 81+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Research statement detailing laboratory alignment",
+      "references": "Three letters from computer science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8620,
+    "title": "Master of Science in Environmental and Chemical Sciences",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "environment"
+    ],
+    "desc": "Interdisciplinary laboratory degree investigating coastal wetlands remediation, green organic synthesis, and analytical toxicology in Gulf of Mexico coastal watersheds.",
+    "funding": "Research assistantships with full tuition remission and $20,000 annual stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://chemistry.louisiana.edu/academics/graduate-programs",
+    "requirements": {
+      "gpa": "B.S. in Chemistry, Environmental Science, or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 81+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of environmental chemistry research goals",
+      "references": "Two letters of recommendation from science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8621,
+    "title": "NIMSAT Homeland Security and Disaster Resilience Fellowship",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Applied informatics fellowship studying supply chain resilience during hurricanes, spatial GIS disaster mapping, and emergency communication network survival.",
+    "funding": "$10,000 research award plus participation in federal disaster simulations",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://nimsat.louisiana.edu",
+    "requirements": {
+      "gpa": "Enrolled graduate student in informatics, public policy, or engineering with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Disaster mitigation research proposal",
+      "references": "NIMSAT faculty mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8622,
+    "title": "Master of Science in Informatics (Data Analytics Concentration)",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Industry-partnered degree focusing on enterprise data warehousing, machine learning pipelines, health informatics, and human-centered design in Lafayette's tech corridor.",
+    "funding": "Corporate analytics fellowships with CGI and Perficient technology centers up to $8,000",
+    "tuition": "$515/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://computing.louisiana.edu/academics/informatics",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA and programming prerequisites",
+      "ielts": "TOEFL 81+ or IELTS 6.5",
+      "gre": "GRE optional",
+      "papers": "Professional goals statement",
+      "references": "Two academic or employer recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8623,
+    "title": "Louisiana Ragin' Cajun Distinguished Freshman Scholarship",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Prestigious academic merit scholarship recognizing top graduating high school seniors with outstanding scholastic records, ACT/SAT scores, and civic engagement.",
+    "funding": "Full tuition and housing award ($10,000/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://scholarships.louisiana.edu",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 and ACT score >= 30 or SAT >= 1360",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Scholarship application essay",
+      "references": "Two high school counselor/teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8624,
+    "title": "Atchafalaya Basin Freshwater Ecology Field Internship",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "location": "Lafayette, Louisiana, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field biology practicum in America's largest river swamp, conducting water quality sampling, cypress-tupelo regeneration studies, and fisheries biodiversity assessments.",
+    "funding": "$3,200 summer field stipend supported by the Louisiana Department of Wildlife and Fisheries",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://biology.louisiana.edu",
+    "requirements": {
+      "gpa": "Undergraduate major in biology or environmental science with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Fieldwork interest statement",
+      "references": "Biology faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8625,
+    "title": "Master of Science in Speech-Language Pathology (MS SLP)",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited professional graduate program training speech-language pathologists in pediatric dysphagia, neurogenic communication disorders, and diagnostic audiometry.",
+    "funding": "Graduate clinical traineeships at the Loyola Clinical Centers and Baltimore hospital partner stipends",
+    "tuition": "$1,050/credit hour",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.loyola.edu/academics/speech-language-pathology",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA and prerequisite coursework in speech and hearing sciences",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Personal statement explaining motivation for clinical speech-language pathology",
+      "references": "Three letters of recommendation from faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8626,
+    "title": "Doctor of Psychology (Psy.D.) in Clinical Psychology",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited doctoral degree training scholar-practitioners in psychodynamic, cognitive-behavioral, and community-based mental health interventions in urban Baltimore.",
+    "funding": "Doctoral graduate assistantships providing partial tuition waivers and $14,000 clinical stipends",
+    "tuition": "$1,150/credit hour",
+    "fee": "$60",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://www.loyola.edu/academics/clinical-psychology",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in psychology with min. 3.3 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Personal essay and autobiographical statement",
+      "references": "Three letters of academic or clinical recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8627,
+    "title": "Master of Science in Data Science (Sellinger School of Business)",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary analytics degree combining machine learning, Python/R programming, database engineering, and ethical business decision modeling.",
+    "funding": "Sellinger School STEM Merit Scholarships up to $10,000",
+    "tuition": "$995/credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.loyola.edu/sellinger-business/academics/graduate/data-science",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA and calculus/linear algebra background",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of technical career goals and resume",
+      "references": "Two academic or employer recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8628,
+    "title": "Loyola Clinical Centers Community Health Fellowship",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Interprofessional clinical fellowship pairing psychology, literacy, and speech-language pathology students to deliver comprehensive holistic care in Baltimore city neighborhoods.",
+    "funding": "$8,000 clinical stipend providing free therapy and speech services to underserved Baltimore residents",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.loyola.edu/department/clinical-centers",
+    "requirements": {
+      "gpa": "Enrolled graduate student in clinical psychology or speech pathology in good standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Community clinical service statement",
+      "references": "Clinical supervisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8629,
+    "title": "Presidential Ignatian Honors Full-Tuition Scholarship",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest competitive scholarship awarded to incoming freshmen who embody Jesuit values of academic excellence, leadership in service of others, and ethical integrity.",
+    "funding": "Full tuition scholarship ($54,000/year value) renewable for four undergraduate academic years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.loyola.edu/admission/undergraduate/tuition-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.8 with rigorous honors/AP/IB coursework",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Ignatian honors essay and on-campus interview",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8630,
+    "title": "Chesapeake Bay Environmental Restoration Practicum",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Undergraduate research practicum studying blue crab population dynamics, oyster reef recovery, and agricultural nutrient runoff in Maryland tributaries.",
+    "funding": "$3,500 summer research stipend plus access to biological field stations along the Chesapeake Bay",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.loyola.edu/academics/biology",
+    "requirements": {
+      "gpa": "Enrolled biology or environmental studies major with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Field ecology statement of purpose",
+      "references": "Biology faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8631,
+    "title": "Bachelor of Music in Music Industry Studies (MIS)",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Grammy-recognized music business degree featuring on-campus multi-track recording studios, live concert production, music publishing, and copyright law.",
+    "funding": "College of Music and Media Talent Scholarships up to $18,000/year",
+    "tuition": "$45,200/year (Significant institutional merit scholarships awarded)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://cmm.loyno.edu/music-industry-studies",
+    "requirements": {
+      "gpa": "High school GPA >= 2.8 with musical portfolio or audition",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Creative portfolio and personal essay on music industry vision",
+      "references": "Two recommendations from music instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8632,
+    "title": "Juris Doctor (J.D.) in Environmental Law & Coastal Advocacy",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Top-tier environmental law curriculum offering hands-on litigation in the Environmental Law Clinic, studying Clean Water Act litigation, coastal restoration, and environmental justice.",
+    "funding": "Gillis Long Poverty Law and Environmental Fellowships up to 100% tuition waiver",
+    "tuition": "$1,450/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.loyno.edu/academics/certificates/environmental-law-certificate",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive undergraduate GPA and LSAT score",
+      "ielts": "English fluency",
+      "gre": "LSAT or GRE accepted",
+      "papers": "Personal statement describing legal advocacy commitment",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8633,
+    "title": "Master of Science in Nursing (Family Nurse Practitioner Track)",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited graduate nursing degree preparing advanced practice registered nurses to deliver primary care in urban clinics and community hospitals in southern Louisiana.",
+    "funding": "HRSA Advanced Nursing Education Workforce grants providing up to $10,000 in clinical support",
+    "tuition": "$818/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://cnh.loyno.edu/nursing/msn",
+    "requirements": {
+      "gpa": "BSN degree with min. 3.0 GPA and active RN license in Louisiana or compact state",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of nursing goals and philosophy",
+      "references": "Two professional healthcare references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8634,
+    "title": "Center for Environmental Communications Journalism Fellowship",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Investigative multimedia journalism fellowship investigating petrochemical refinery pollution, wetland erosion, and community climate displacement along the Mississippi River corridor.",
+    "funding": "$6,000 stipend plus travel support for investigative reporting across coastal Louisiana",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://cmm.loyno.edu/center-environmental-communication",
+    "requirements": {
+      "gpa": "Enrolled journalism or communication major with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Writing portfolio of published news articles and documentary pitch",
+      "references": "One journalism faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8635,
+    "title": "Presidential Scholar Jesuit Leadership Award",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Loyola's highest merit scholarship awarded to incoming freshmen who exhibit scholastic distinction, social justice advocacy, and commitment to the Jesuit ideal of 'cura personalis'.",
+    "funding": "$25,000 annual scholarship ($100,000 four-year value) renewable for four undergraduate years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.loyno.edu/admissions/undergraduate/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 with rigorous college prep curriculum",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential honors essay",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8636,
+    "title": "New Orleans Jazz and Heritage Foundation Music Internship",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Hands-on music business internship assisting in artist booking, stage management, festival sound engineering, and cultural archival management.",
+    "funding": "$3,000 semester stipend with the New Orleans Jazz & Heritage Festival production office",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://cmm.loyno.edu",
+    "requirements": {
+      "gpa": "Music Industry or Music major in good standing with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Music industry resume and cover letter",
+      "references": "Music faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8637,
+    "title": "Bachelor of Science in Naval Architecture and Marine Engineering (NAME)",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "One of only five ABET-accredited naval architecture programs in the United States, utilizing an on-campus 125-foot towing tank to design offshore vessels, high-speed patrol craft, and submarines.",
+    "funding": "Shipbuilding industry partner scholarships (Ingalls, Bollinger, Textron) up to $12,000/year",
+    "tuition": "$9,350/year (In-state) / $14,190/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.uno.edu/academics/name",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra, trigonometry, and physics",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining marine engineering ambitions",
+      "references": "Two recommendations from math and science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8638,
+    "title": "Master of Science in Engineering (Coastal and Marine Focus)",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Advanced engineering curriculum in hydrodynamics, wave-structure interactions, computational fluid dynamics, and coastal hurricane surge barrier design.",
+    "funding": "Graduate research assistantships funded through coastal protection grants covering tuition and $22,000 stipend",
+    "tuition": "$0 (Assistantship funded)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uno.edu/academics/coastal-engineering",
+    "requirements": {
+      "gpa": "B.S. in engineering or naval architecture with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE optional",
+      "papers": "Statement of marine hydrodynamics research goals",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8639,
+    "title": "Pontchartrain Institute for Environmental Sciences Research Fellowship",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Estuarine science fellowship evaluating coastal wetland restoration, lake water clarity modeling, and fisheries responses to Mississippi River spillway openings.",
+    "funding": "$10,000 research award plus laboratory access at the Lake Pontchartrain basin research facilities",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.uno.edu/pies",
+    "requirements": {
+      "gpa": "Enrolled graduate student in earth and environmental sciences with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Lake Pontchartrain research proposal",
+      "references": "PIES faculty member nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8640,
+    "title": "Master of Science in Hospitality and Tourism Management (Kabacoff School)",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Executive hospitality degree based in the epicenter of American tourism, teaching destination branding, convention sales management, and hospitality revenue analytics.",
+    "funding": "New Orleans Hotel Association merit scholarships up to $6,000",
+    "tuition": "$7,800/year (In-state) / $11,500/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.uno.edu/academics/hrta",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE waived with professional experience",
+      "papers": "Hospitality career resume and essay",
+      "references": "Two letters from professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8641,
+    "title": "Presidential Blue and Silver Full-Tuition Scholarship",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "UNO's premier merit recognition for incoming first-year students who have demonstrated top scholastic achievement, community involvement, and leadership.",
+    "funding": "Full in-state tuition waiver plus $2,000 campus housing stipend renewable for four years",
+    "tuition": "100% full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.uno.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and ACT score >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8642,
+    "title": "School of Naval Architecture Towing Tank Testing Internship",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Hands-on hydrodynamics internship running model hulls through the towing tank carriage to determine wave resistance, wake profiles, and propulsion efficiency.",
+    "funding": "$3,500 summer research stipend conducting physical model drag and resistance testing",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.uno.edu/academics/name",
+    "requirements": {
+      "gpa": "Undergraduate student in NAME or mechanical engineering with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Towing tank technical proposal",
+      "references": "NAME faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8643,
+    "title": "Bachelor of Fine Arts (BFA) in Metalsmithing and Jewelry Design",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio-intensive curriculum teaching fabrication, casting, enameling, stone setting, and digital 3D jewelry modeling with individual dedicated studio spaces.",
+    "funding": "Presidential Art Merit Scholarships covering up to $22,000/year",
+    "tuition": "$41,050/year (Over 90% of students receive institutional merit aid)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://meca.edu/academics/undergraduate/metalsmithing-jewelry",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with portfolio review (10-15 creative artworks)",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Artist statement describing creative influences and material interests",
+      "references": "One art teacher or mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8644,
+    "title": "Master of Fine Arts (MFA) in Studio Art (Low-Residency)",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Interdisciplinary, low-residency graduate degree combining intensive summer studio residencies in Portland with independent off-campus studio mentorship across painting, sculpture, and video.",
+    "funding": "MFA Dean’s Fellowships providing up to $10,000/year",
+    "tuition": "$21,500/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://meca.edu/academics/graduate/mfa-in-studio-art",
+    "requirements": {
+      "gpa": "Bachelor's degree (BFA or BA) from an accredited institution",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Comprehensive creative portfolio (20 images) and critical artist statement",
+      "references": "Three professional artistic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8645,
+    "title": "Bachelor of Fine Arts in Woodworking and Furniture Design",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Distinctive craft degree integrating traditional hand-tool joinery, steam bending, CNC routing, sustainable lumber harvesting, and contemporary functional furniture design.",
+    "funding": "Windgate Craft Excellence Grants up to $12,000/year",
+    "tuition": "$41,050/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://meca.edu/academics/undergraduate/woodworking-furniture-design",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with visual portfolio",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Artist statement explaining woodworking interest",
+      "references": "One letter from art or design instructor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8646,
+    "title": "Institute of Contemporary Art (ICA) Curatorial Fellowship",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Hands-on curatorial fellowship organizing contemporary gallery exhibitions, writing critical catalog essays, and coordinating public artist lectures.",
+    "funding": "$5,000 curatorial research grant plus exhibition budget at the ICA at MECA&D",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://meca.edu/ica",
+    "requirements": {
+      "gpa": "Enrolled graduate or upper-level BFA student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Curatorial exhibition proposal and critical essay",
+      "references": "Art history faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8647,
+    "title": "Presidential Portfolio Excellence Full-Tuition Scholarship",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "The college's premier competitive award recognizing an incoming freshman whose creative portfolio displays exceptional conceptual depth, technical skill, and originality.",
+    "funding": "Full tuition scholarship ($41,050/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://meca.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "Outstanding visual arts portfolio and high school GPA >= 3.5",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Artist statement and personal essay",
+      "references": "Two recommendations from visual arts instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8648,
+    "title": "Artists at Work (AAW) Creative Community Residency Internship",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "location": "Portland, Maine, United States",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Community-based social practice internship designing public murals, running youth printmaking workshops, and organizing accessibility initiatives in the Portland arts community.",
+    "funding": "$3,000 semester project grant pairing artists with Portland cultural non-profits and public schools",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://meca.edu/career-services/artists-at-work",
+    "requirements": {
+      "gpa": "Full-time MECA&D student in sophomore standing or higher",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Social practice project proposal and budget",
+      "references": "Studio faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8649,
+    "title": "Master of Science in Pharmacogenomics (MS in PGx)",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Nationally pioneering graduate program training scientists in the genetic basis of drug response, DNA sequencing technologies, clinical genetics data analysis, and personalized medicine.",
+    "funding": "Precision Medicine Graduate Fellowships providing up to $8,000 tuition assistance",
+    "tuition": "$850/credit hour",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.manchester.edu/academics/colleges/college-of-pharmacy-natural-health-sciences/academic-programs/pharmacogenomics",
+    "requirements": {
+      "gpa": "B.S. in biology, chemistry, or related health science with min. 2.7 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal statement explaining interest in precision pharmacogenomics",
+      "references": "Two letters from science faculty or healthcare professionals"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8650,
+    "title": "Doctor of Pharmacy (Pharm.D.) Professional Program",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional pharmacy program based at the Fort Wayne campus, emphasizing pharmacogenomics integration, institutional hospital rounds, and rural clinical practice.",
+    "funding": "College of Pharmacy Dean’s Merit Scholarships up to $15,000/year",
+    "tuition": "$42,500/year (Scholarships available)",
+    "fee": "$0 (PharmCAS application)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.manchester.edu/pharmacy",
+    "requirements": {
+      "gpa": "Minimum 2.5 prerequisite science GPA with organic chemistry, biochemistry, and anatomy",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "PCAT not required",
+      "papers": "PharmCAS personal statement and interview",
+      "references": "Two letters of recommendation (at least one science faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8651,
+    "title": "Gladdys Muir Peace Studies Fellowship",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed research fellowship at the world's first undergraduate Peace Studies institute, investigating non-violent conflict transformation, prison reform, and refugee mediation.",
+    "funding": "$5,000 research stipend supporting restorative justice and international conflict resolution field studies",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.manchester.edu/academics/colleges/college-of-arts-humanities/academic-programs/peace-studies",
+    "requirements": {
+      "gpa": "Enrolled student in peace studies, political science, or sociology with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Research proposal on conflict resolution or restorative justice",
+      "references": "Peace Studies faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8652,
+    "title": "Master of Athletic Training (MAT)",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAATE-accredited graduate program combining musculoskeletal evaluation, emergency sports trauma, therapeutic modalities, and clinical rotations across northern Indiana.",
+    "funding": "Sports medicine clinical assistantships with collegiate and orthopedic clinics",
+    "tuition": "$725/credit hour",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.manchester.edu/academics/colleges/college-of-pharmacy-natural-health-sciences/academic-programs/athletic-training",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA and anatomy and physiology prerequisites",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal essay and clinical shadowing verification",
+      "references": "Two recommendations including one certified athletic trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8653,
+    "title": "Manchester University Presidential Honors Scholarship",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The university's top competitive merit award honoring incoming freshmen who demonstrate superior scholastic achievement, intellectual vitality, and service.",
+    "funding": "$24,000 annual scholarship ($96,000 four-year value) renewable for four undergraduate years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.manchester.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.7 with college preparatory coursework",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8654,
+    "title": "Precision Medicine DNA Sequencing Laboratory Internship",
+    "university": "Manchester University",
+    "country": "United States",
+    "location": "North Manchester, Indiana, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on genetic research internship conducting real-time PCR, capillary electrophoresis, and next-generation sequencing assays to detect cytochrome P450 polymorphisms.",
+    "funding": "$3,500 summer research stipend at the Fort Wayne Pharmacogenomics research labs",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.manchester.edu/pharmacogenomics",
+    "requirements": {
+      "gpa": "Undergraduate biology or chemistry major with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Laboratory experience resume and letter of intent",
+      "references": "Science faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8655,
+    "title": "Master of Arts in Christian Counseling and Family Therapy",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Clinical counseling program integrating psychological theory with Christian worldview principles, addressing marital conflict, military family PTSD, and addiction counseling.",
+    "funding": "Pastoral counseling ministry grants covering up to $4,500 total program award",
+    "tuition": "$425/credit hour",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://manna.edu/programs/master-of-arts-in-christian-counseling",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.7 GPA from an accredited institution",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal faith and counseling philosophy essay",
+      "references": "Three letters including one pastoral reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8656,
+    "title": "Master of Divinity (M.Div.) in Military Chaplaincy and Pastoral Care",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous 72-credit graduate divinity curriculum preparing leaders for military chaplaincy endorsements, crisis intervention, pastoral ethics, and multi-faith leadership.",
+    "funding": "Military Chaplain Candidate scholarships and GI Bill educational tuition coverage",
+    "tuition": "$425/credit hour",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://manna.edu/programs/master-of-divinity",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.5 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Spiritual biography and military chaplaincy statement",
+      "references": "Three character and ecclesiastical endorsements"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8657,
+    "title": "Bachelor of Arts in Organizational Leadership & Non-Profit Management",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Practical degree combining team dynamics, non-profit financial governance, grant proposal writing, and ethical organizational communication.",
+    "funding": "Manna Emerging Leader Grants up to $6,000/year",
+    "tuition": "$350/credit hour",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://manna.edu/programs/bachelor-of-arts-in-organizational-leadership",
+    "requirements": {
+      "gpa": "High school GPA >= 2.0 or transfer GPA >= 2.5",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining leadership ambitions",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8658,
+    "title": "Military Family Trauma and Resilience Research Fellowship",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Community-based research fellowship evaluating faith-based peer support groups, moral injury recovery, and marriage resilience among active-duty service members.",
+    "funding": "$4,000 research award studying deployment stress interventions near Fort Liberty",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://manna.edu/research",
+    "requirements": {
+      "gpa": "Enrolled graduate counseling or divinity student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Research outline on military trauma support",
+      "references": "Faculty advisor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8659,
+    "title": "Fayetteville Urban Community Outreach Practicum",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on non-profit internship coordinating emergency food distributions, homeless shelter counseling, and juvenile diversion tutoring in Cumberland County.",
+    "funding": "$2,500 semester living stipend supporting urban ministry and homeless assistance programs",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://manna.edu/internships",
+    "requirements": {
+      "gpa": "Undergraduate student in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Community outreach interest statement",
+      "references": "One ministry or non-profit supervisor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8660,
+    "title": "Manna Founders Presidential Leadership Scholarship",
+    "university": "Manna University",
+    "country": "United States",
+    "location": "Fayetteville, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest competitive scholarship awarded to incoming freshmen who demonstrate academic dedication, moral character, and a heart for Christian service.",
+    "funding": "$8,000 annual tuition scholarship renewable for four undergraduate years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://manna.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 with demonstrated community involvement",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Founders scholarship essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8661,
+    "title": "Bachelor of Science in Nursing (BSN) Clinical Compassion Program",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited nursing program featuring extensive simulation hospital practice and clinical rotations at St. Agnes Hospital and Aurora Health Care.",
+    "funding": "Agnesian HealthCare hospital partner scholarships covering up to $10,000/year",
+    "tuition": "$30,500/year (Significant institutional merit aid available)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.marianuniversity.edu/academics/undergraduate-majors/nursing",
+    "requirements": {
+      "gpa": "Cumulative high school GPA >= 3.0 with chemistry and biology grades >= 'B'",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining nursing clinical dedication",
+      "references": "Two academic recommendations from science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8662,
+    "title": "Bachelor of Science in Forensic Science & Criminalistics",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Hands-on crime laboratory curriculum teaching chromatographic drug analysis, forensic serology, ballistics trajectory analysis, and expert witness courtroom testimony.",
+    "funding": "Wisconsin Law Enforcement Forensic Grants up to $8,000/year",
+    "tuition": "$30,500/year",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.marianuniversity.edu/academics/undergraduate-majors/forensic-science",
+    "requirements": {
+      "gpa": "High school GPA >= 2.8 with chemistry and biology preparation",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Forensic science statement of interest",
+      "references": "One science instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8663,
+    "title": "Doctor of Philosophy (Ph.D.) in Educational Leadership",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Doctoral program preparing superintendents, educational policymakers, and university administrators in organizational theory, data-driven school reform, and educational equity.",
+    "funding": "Doctoral research fellowships and Wisconsin school administrator tuition discounts up to $6,000",
+    "tuition": "$695/credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.marianuniversity.edu/academics/graduate-programs/ph-d-in-educational-leadership",
+    "requirements": {
+      "gpa": "Master's degree from an accredited institution with min. 3.5 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Doctoral research statement and scholarly writing sample",
+      "references": "Three professional and academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8664,
+    "title": "Fond du Lac Community Restorative Justice Fellowship",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Criminal justice fellowship analyzing the efficacy of restorative justice conferences, juvenile diversion programs, and recidivism prevention in eastern Wisconsin.",
+    "funding": "$4,000 research award evaluating youth court diversion and victim-offender mediation",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.marianuniversity.edu/academics/undergraduate-majors/criminal-justice",
+    "requirements": {
+      "gpa": "Enrolled criminal justice or sociology major with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Restorative justice research proposal",
+      "references": "Criminal justice faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8665,
+    "title": "St. Agnes Health Clinical Simulation Practicum",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Hands-on hospital internship rotating through intensive care, post-surgical recovery, and emergency department telemetry units.",
+    "funding": "$3,000 semester stipend for clinical shifts at SSM Health St. Agnes Hospital",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.marianuniversity.edu/academics/undergraduate-majors/nursing",
+    "requirements": {
+      "gpa": "Enrolled junior or senior BSN student in good standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Clinical objectives resume",
+      "references": "Nursing clinical instructor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8666,
+    "title": "Mother Agnes Hazotte Presidential Honors Scholarship",
+    "university": "Marian University",
+    "country": "United States",
+    "location": "Fond du Lac, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Named for Marian's founding superior, this award recognizes incoming freshmen who show superior scholastic achievement, ethical character, and service to the community.",
+    "funding": "$18,000 annual scholarship ($72,000 four-year value) renewable for four undergraduate years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.marianuniversity.edu/admission-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 with college prep curriculum",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential honors essay",
+      "references": "Two high school teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8667,
+    "title": "Doctor of Philosophy (Ph.D.) in Biomedical Engineering (Marquette-MCW Joint)",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Elite joint doctoral degree with the Medical College of Wisconsin researching neural prosthetics, robotic rehabilitation exoskeletons, orthopedic biomechanics, and medical imaging.",
+    "funding": "Full graduate research assistantship covering 100% of tuition and $32,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.marquette.edu/biomedical-engineering/graduate/phd-program.php",
+    "requirements": {
+      "gpa": "B.S. or M.S. in engineering, computer science, or physics with min. 3.4 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement detailing laboratory focus in rehabilitation robotics or imaging",
+      "references": "Three letters from engineering/science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8668,
+    "title": "Juris Doctor (J.D.) in Sports Law and Intellectual Property",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nation's foremost sports law curriculum at the National Sports Law Institute in Eckstein Hall, teaching athlete representation, NCAA compliance, intellectual property, and collective bargaining.",
+    "funding": "National Sports Law Institute Fellowships and Marquette Law Merit Scholarships up to full tuition",
+    "tuition": "$51,800/year (Merit scholarships available)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://law.marquette.edu/academics/sports-law-program",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive undergraduate GPA and LSAT score",
+      "ielts": "English fluency",
+      "gre": "LSAT score required",
+      "papers": "Law school personal statement and resume",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8669,
+    "title": "Master of Science in Computing (Big Data & Machine Learning Track)",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Comprehensive computing degree focusing on scalable cloud distributed architectures, natural language processing, computer vision algorithms, and trustworthy AI.",
+    "funding": "Department of Computer Science graduate assistantships providing tuition remission and $22,000 stipend",
+    "tuition": "$0 (Assistantship funded) or $1,280/credit",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.marquette.edu/computer-science/graduate/ms-computing.php",
+    "requirements": {
+      "gpa": "Bachelor's degree in CS, math, or engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of computing interests",
+      "references": "Two letters of recommendation from faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8670,
+    "title": "Athletic and Human Performance Research Center (AHPRC) Fellowship",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Interdisciplinary fellowship conducting translational research in neuromuscular fatigue, injury prevention in elite athletes, and pediatric motion impairment analysis.",
+    "funding": "$12,000 research award plus access to high-speed 3D motion capture and metabolic testing suites",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.marquette.edu/athletic-human-performance-research-center",
+    "requirements": {
+      "gpa": "Enrolled graduate student in exercise science, physical therapy, or biomedical engineering",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Human performance research proposal",
+      "references": "AHPRC faculty investigator endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8671,
+    "title": "Pere Marquette Presidential Full-Tuition Scholarship",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Marquette's premier merit recognition honoring incoming freshmen who exemplify extraordinary academic talent, leadership, and dedication to Jesuit ethical principles.",
+    "funding": "Full tuition scholarship ($49,500/year value) renewable for four undergraduate academic years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.marquette.edu/explore/scholarships.php",
+    "requirements": {
+      "gpa": "High school GPA >= 3.8 with advanced honors/AP/IB courses",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Pere Marquette scholarship essay and on-campus interview",
+      "references": "Two recommendations from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8672,
+    "title": "Lake Michigan Water Quality and Microplastics Research Practicum",
+    "university": "Marquette University",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Environmental field internship investigating microplastic transport, urban stormwater pollutant runoff, and microbial water safety along Lake Michigan beaches.",
+    "funding": "$4,000 summer research stipend sponsored by the Milwaukee Metropolitan Sewerage District",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.marquette.edu/civil-environmental-engineering",
+    "requirements": {
+      "gpa": "Undergraduate student in civil engineering, chemistry, or biology with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Water quality research interest statement",
+      "references": "Environmental engineering faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8673,
+    "title": "Associate of Applied Science in Diagnostic Medical Sonography (Ultrasound)",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "CAAHEP-aligned sonography program training technicians in abdominal, obstetrical, gynecological, and vascular sonographic imaging and clinical diagnostics.",
+    "funding": "Kentucky Work Ready scholarships and hospital clinical externship stipends",
+    "tuition": "$18,500 total program tuition",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu/programs/diagnostic-medical-sonographer",
+    "requirements": {
+      "gpa": "High school diploma or GED with college algebra and anatomy prerequisites",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining ultrasound career interest",
+      "references": "Two character or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8674,
+    "title": "Practical Nursing (LPN) Diploma Program",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Rigorous practical nursing curriculum preparing graduates for the NCLEX-PN exam, medication administration, and clinical patient care in long-term care and hospitals.",
+    "funding": "Kentucky Nursing Incentive Scholarship Fund grants up to $3,000/year",
+    "tuition": "$14,200 total program tuition",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu/programs/practical-nursing",
+    "requirements": {
+      "gpa": "High school diploma or GED with passing score on TEAS or Wonderlic test",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Nursing application essay and clean background check",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8675,
+    "title": "Medical Assistant Associate Degree & Phlebotomy Certification",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Comprehensive clinical training in venipuncture phlebotomy, electrocardiograms (ECGs), sterile surgical assisting, and electronic medical record management.",
+    "funding": "Workforce Innovation and Opportunity Act (WIOA) full tuition funding for eligible students",
+    "tuition": "$11,500 total program tuition",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu/programs/medical-assistant",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Medical assistant career goals statement",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8676,
+    "title": "Baptist Health Richmond Clinical Sonography Externship",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Direct hospital externship performing real-time ultrasound scans under the supervision of registered diagnostic medical sonographers at Baptist Health.",
+    "funding": "$2,500 semester clinical stipend supporting hospital-based clinical externship hours",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu",
+    "requirements": {
+      "gpa": "Completed didactic sonography curriculum with min. 3.0 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Clinical competency checklist and CPR certification",
+      "references": "Sonography lead instructor sign-off"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8677,
+    "title": "Central Kentucky Healthcare Workforce Fellowship",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Workforce fellowship supporting allied health students who commit to serving rural Appalachian communities facing critical healthcare staffing shortages.",
+    "funding": "$3,000 forgivable educational grant for students committing to work in rural Kentucky healthcare clinics",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu/financial-aid",
+    "requirements": {
+      "gpa": "Enrolled MCTC student with min. 2.75 GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Rural health service commitment agreement",
+      "references": "One community leader letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8678,
+    "title": "MCTC Academic Merit and Healthcare Leadership Scholarship",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "location": "Richmond, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit award recognizing outstanding healthcare students demonstrating exceptional academic progress, attendance, and clinical patient empathy.",
+    "funding": "$2,000 direct tuition scholarship awarded by the MCTC scholarship fund",
+    "tuition": "Direct tuition award applied per term",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://medicalcareerandtechnicalcollege.edu/financial-aid",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 or college GPA >= 3.2",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Scholarship essay on patient care ethics",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8679,
+    "title": "Doctor of Philosophy (Ph.D.) in Biomedical Sciences (Molecular Oncology Track)",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite doctoral program at the NCI-designated Hollings Cancer Center investigating lipid signaling in oncogenesis, tumor microenvironments, CAR-T cell immunotherapy, and cancer genomics.",
+    "funding": "Full graduate research assistantship covering 100% of tuition, university health insurance, and $34,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$75",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://gradstudies.musc.edu/academics/biomedical-sciences-phd",
+    "requirements": {
+      "gpa": "B.S. in Biology, Biochemistry, or related field with min. 3.4 GPA and extensive laboratory research experience",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement detailing laboratory interests",
+      "references": "Three letters from biomedical research scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8680,
+    "title": "Doctor of Medicine (M.D.) / Medical Scientist Training Program (MSTP)",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Dual MD/PhD degree training future physician-scientists to bridge fundamental molecular biological discoveries with clinical bedside patient treatments.",
+    "funding": "NIH-funded MSTP fellowship covering full medical school and PhD tuition plus $36,000 annual stipend",
+    "tuition": "$0 (NIH MSTP fully funded)",
+    "fee": "$95",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://medicine.musc.edu/education/mstp",
+    "requirements": {
+      "gpa": "Undergraduate science GPA >= 3.6, competitive MCAT score (512+), and multi-year research record",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "AMCAS personal statement, MD-PhD essay, and research summary",
+      "references": "Three research mentor letters plus pre-med committee evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8681,
+    "title": "Doctor of Pharmacy (Pharm.D.) Clinical Healthcare Curriculum",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Top-ranked pharmacy curriculum based in an academic medical center, featuring clinical rotations in pediatric oncology, critical care, transplant pharmacotherapy, and pharmacogenomics.",
+    "funding": "College of Pharmacy Dean's Endowed Scholarships up to $15,000/year",
+    "tuition": "$26,500/year (In-state) / $39,800/year (Out-of-state)",
+    "fee": "$0 (PharmCAS application)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://pharmacy.musc.edu/academics/pharmd",
+    "requirements": {
+      "gpa": "Science prerequisite GPA >= 3.0 in organic chemistry, biology, and calculus",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS statement and on-campus interview",
+      "references": "Two academic or pharmacist letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8682,
+    "title": "Hollings Cancer Center Postdoctoral Oncology Fellowship",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Postdoctoral research residency investigating novel antibody-drug conjugates, tumor radiobiology, and cancer disparities in rural Southeastern populations.",
+    "funding": "NIH T32 funded fellowship providing $58,000-$65,000 annual stipend based on experience plus health benefits",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://hollingscancercenter.musc.edu/research/training",
+    "requirements": {
+      "gpa": "Ph.D., M.D., or Pharm.D. in related biomedical sciences with primary author publications",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Research proposal and curriculum vitae",
+      "references": "Three letters from doctoral dissertation committee members"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8683,
+    "title": "MUSC Summer Undergraduate Research Program (SURP)",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive summer laboratory research experience pairing undergraduate STEM scholars with MUSC principal investigators in neuroscience, immunology, and regenerative medicine.",
+    "funding": "$4,500 summer stipend plus university housing for 10-week laboratory immersion in Charleston",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://gradstudies.musc.edu/academics/surp",
+    "requirements": {
+      "gpa": "Completed sophomore or junior year in biology, biochemistry, or neuroscience with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Personal essay on biomedical career intentions",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8684,
+    "title": "South Carolina Center for Rural and Primary Healthcare Grant",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "location": "Charleston, South Carolina, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "State-sponsored healthcare incentive awarding substantial scholarships to medical, dental, and nursing students who pledge to practice in designated healthcare shortage areas in South Carolina.",
+    "funding": "$20,000 annual loan repayment and tuition scholarship for students committing to rural South Carolina clinical service",
+    "tuition": "Direct tuition offset",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://web.musc.edu/about/rural-health",
+    "requirements": {
+      "gpa": "Enrolled in MD, DMD, or APRN program in good academic standing",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Rural health commitment statement and agreement",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8685,
+    "title": "Bachelor of Science in Cybersecurity (CAE-CD Designated)",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-accredited curriculum utilizing the Minnesota Cyber Range to train students in penetration testing, network defense forensics, cloud security controls, and reverse malware engineering.",
+    "funding": "National Science Foundation CyberCorps Scholarship for Service (SFS) full tuition and $25,000 stipend",
+    "tuition": "$9,650/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.metrostate.edu/academics/programs/cybersecurity-bs",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 or transfer college GPA >= 2.5 with computing coursework",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining cybersecurity career ambitions",
+      "references": "One academic or vocational reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8686,
+    "title": "Master of Science in Nursing (Entry-Level MSN / Direct Entry)",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited direct-entry nursing program designed for non-nursing bachelor's degree holders transitioning into registered nursing and clinical nurse leadership in Twin Cities hospitals.",
+    "funding": "Minnesota Health Care Workforce grants and hospital clinical tuition support up to $8,000",
+    "tuition": "$580/credit hour",
+    "fee": "$20",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.metrostate.edu/academics/programs/nursing-msn",
+    "requirements": {
+      "gpa": "Non-nursing bachelor's degree with min. 3.0 GPA and prerequisites in anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of purpose for accelerated nursing",
+      "references": "Two professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8687,
+    "title": "Master of Science in Management Information Systems (MIS)",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Executive computing degree teaching enterprise database architecture, IT governance, business intelligence dashboards, and cloud systems management.",
+    "funding": "Twin Cities IT Corporate Fellowships (Target, Best Buy, 3M) up to $6,000",
+    "tuition": "$580/credit hour",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.metrostate.edu/academics/programs/management-information-systems-ms",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE waived with 3.0+ undergraduate GPA",
+      "papers": "Professional resume and statement of executive IT goals",
+      "references": "Two letters from employers or instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8688,
+    "title": "Minnesota Cyber Range Threat Intelligence Fellowship",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied cybersecurity research fellowship analyzing cyber threats against municipal utilities, healthcare networks, and county election systems across Minnesota.",
+    "funding": "$5,000 research stipend plus participation in state critical infrastructure defense simulations",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.metrostate.edu/academics/cyber-range",
+    "requirements": {
+      "gpa": "Enrolled cybersecurity or computer science major with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Cyber range simulation research proposal",
+      "references": "Cybersecurity faculty mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8689,
+    "title": "Twin Cities Urban Community Justice Internship",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Community internship working alongside juvenile diversion specialists, restorative justice facilitators, and immigrant legal advocacy groups in St. Paul.",
+    "funding": "$3,000 semester stipend for fieldwork in Ramsey County and Hennepin County justice programs",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.metrostate.edu/academics/programs/criminal-justice-bs",
+    "requirements": {
+      "gpa": "Undergraduate student in criminal justice, social work, or human services with min. 2.5 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Community justice resume and cover letter",
+      "references": "Faculty supervisor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8690,
+    "title": "Presidential Urban Scholar Full-Tuition Scholarship",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit award honoring incoming first-year urban scholars who have demonstrated scholastic distinction, civic leadership, and commitment to Twin Cities community service.",
+    "funding": "Full in-state tuition and fees ($9,650/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.metrostate.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 or top 15% class rank",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Urban leadership essay",
+      "references": "Two recommendations from teachers or community leaders"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8691,
+    "title": "Master of Public Administration (MPA) in Emergency & Disaster Management",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Accelerated one-year graduate degree based in Lower Manhattan, training emergency directors in crisis communication, disaster response logistics, critical infrastructure protection, and terrorism mitigation.",
+    "funding": "New York City First Responder and Emergency Manager tuition discounts up to $6,000",
+    "tuition": "$950/credit hour",
+    "fee": "$45",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mcny.edu/academics/school-for-public-affairs-and-administration/mpa-in-emergency-and-disaster-management",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.7 GPA from an accredited institution",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal essay on emergency management motivation and resume",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8692,
+    "title": "Master of Business Administration (MBA) in Media Management",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Dynamic one-year accelerated MBA focusing on digital streaming economics, entertainment finance, media copyright monetization, and brand storytelling in New York City.",
+    "funding": "Manhattan Media Executive Scholarships up to $8,000",
+    "tuition": "$950/credit hour",
+    "fee": "$45",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mcny.edu/academics/school-for-business/mba-in-media-management",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.7 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE not required",
+      "papers": "Statement of media business intent and resume",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8693,
+    "title": "Bachelor of Professional Studies in Human Services & Community Advocacy",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on degree requiring direct workplace Constructive Action projects in mental health clinics, child welfare agencies, and community non-profits across the five boroughs.",
+    "funding": "Audrey Cohen Social Justice Grants up to $7,500/year",
+    "tuition": "$10,125/semester",
+    "fee": "$45",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mcny.edu/academics/audrey-cohen-school-for-human-services-and-education/bps-human-services",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay on community service dedication",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8694,
+    "title": "New York Urban Emergency Resilience Fellowship",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Urban research fellowship partnering with NYC emergency response agencies to evaluate extreme heat resilience, flood gate operations, and vulnerable population shelter protocols.",
+    "funding": "$5,000 research stipend evaluating coastal flood evacuation and subway resilience in NYC",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mcny.edu/academics",
+    "requirements": {
+      "gpa": "Enrolled graduate student in emergency management or public administration with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Urban disaster mitigation research proposal",
+      "references": "Faculty supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8695,
+    "title": "Lower Manhattan Civic Engagement & Municipal Internship",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Policy internship analyzing municipal budget allocations, affordable housing developments, and public transit accessibility in New York City.",
+    "funding": "$3,000 semester stipend placed with NYC municipal agencies and community development boards",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mcny.edu/career-services",
+    "requirements": {
+      "gpa": "Undergraduate student in good academic standing with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Resume and cover letter detailing municipal interests",
+      "references": "Academic advisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8696,
+    "title": "Audrey Cohen Founders Presidential Scholarship",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Honoring college founder Audrey Cohen, this merit award recognizes incoming students who demonstrate intellectual drive, commitment to social equity, and leadership.",
+    "funding": "$12,000 annual scholarship ($48,000 four-year value) renewable for undergraduate study",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.mcny.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.2 or transfer college GPA >= 3.2",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Founders scholarship essay on Purpose-Centered Education",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8697,
+    "title": "Bachelor of Science in Aviation and Aerospace Science (Professional Flight)",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Premier FAA Part 141 collegiate aviation curriculum featuring Boeing 737 and turboprop flight simulators, air traffic management labs, and space operations training.",
+    "funding": "Commercial airline pilot pathway bonuses (United Aviate, Delta Propel) and aerospace scholarships up to $12,000/year",
+    "tuition": "$10,250/year (In-state) / $28,400/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.msudenver.edu/aviation-aerospace",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with college algebra and FAA Medical Certificate",
+      "ielts": "TOEFL 76+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Aviation career statement and flight safety agreement",
+      "references": "One teacher or aviation mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8698,
+    "title": "Master of Science in Cybersecurity (Defense and Cryptography)",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Hands-on graduate degree in ethical hacking, cloud infrastructure hardening, industrial control systems defense, and cyber risk management in downtown Denver.",
+    "funding": "Colorado Cyber Workforce Fellowships covering up to $7,500 total program award",
+    "tuition": "$620/credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.msudenver.edu/cybersecurity",
+    "requirements": {
+      "gpa": "Bachelor's degree in CS, IT, or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Professional resume and statement of technical objectives",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8699,
+    "title": "Bachelor of Science in Brewery Operations and Fermentation Science",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Comprehensive brewing science degree taught in partnership with the on-campus historic Tivoli Brewery, covering brewing microbiology, sensory analysis, and packaging quality control.",
+    "funding": "Colorado Brewers Guild and Tivoli Brewing Company industry scholarships up to $5,000/year",
+    "tuition": "$10,250/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.msudenver.edu/hospitality/brewery-operations",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with chemistry coursework",
+      "ielts": "TOEFL 76+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Fermentation science career essay",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8700,
+    "title": "Aerospace Satellite Ground Station Research Fellowship",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Applied aerospace fellowship operating rooftop satellite ground antennas, decoding amateur radio satellite transmissions, and developing orbital flight trajectory models.",
+    "funding": "$6,000 research stipend tracking CubeSats and downlinking orbital telemetry data",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.msudenver.edu/aviation-aerospace",
+    "requirements": {
+      "gpa": "Enrolled aerospace or electrical engineering student with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "CubeSat ground station research proposal",
+      "references": "Aerospace faculty mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8701,
+    "title": "Denver Urban Healthcare Clinical Simulation Practicum",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Hands-on clinical nursing internship rotating through urban trauma centers, intensive care units, and community health centers in the Denver metropolitan area.",
+    "funding": "$3,000 semester stipend placed at Denver Health and UCHealth clinical facilities",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.msudenver.edu/nursing",
+    "requirements": {
+      "gpa": "Enrolled junior or senior BSN nursing student in good standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Clinical nursing objectives resume",
+      "references": "Nursing faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8702,
+    "title": "Presidential Roadrunner Honors Merit Scholarship",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "The university's highest merit award recognizing incoming freshmen who exhibit scholastic distinction, leadership resilience, and service to the urban community.",
+    "funding": "Full in-state tuition and fees ($10,250/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition waiver",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.msudenver.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.6 with college prep curriculum",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Roadrunner honors scholarship essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8703,
+    "title": "Doctor of Philosophy (Ph.D.) in Nuclear Physics (FRIB Laboratory)",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Nation's #1 nuclear physics doctoral program operating the Facility for Rare Isotope Beams (FRIB) to discover rare isotopes, explore stellar nucleosynthesis, and develop quantum sensors.",
+    "funding": "DOE-funded graduate research assistantships providing full tuition waiver, comprehensive healthcare, and $34,000 annual stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$65 (Domestic) / $75 (International)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://frib.msu.edu/education/graduate.html",
+    "requirements": {
+      "gpa": "B.S. in physics, chemistry, or mathematics with min. 3.5 GPA",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Physics GRE strongly recommended",
+      "papers": "Research statement detailing alignment with FRIB experimental or theoretical groups",
+      "references": "Three letters from physics researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8704,
+    "title": "Master of Science in Supply Chain Management (Broad College)",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Consistently ranked the #1 supply chain graduate program in the United States, teaching global procurement logistics, operations optimization, supply network analytics, and risk mitigation.",
+    "funding": "Broad College Supply Chain Endowed Scholarships up to $15,000",
+    "tuition": "$1,450/credit hour",
+    "fee": "$85",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://broad.msu.edu/masters/supply-chain-management",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA and professional supply chain experience",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "GMAT/GRE required (waivers available for experienced professionals)",
+      "papers": "Statement of supply chain executive vision",
+      "references": "Three professional and academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8705,
+    "title": "Doctor of Philosophy (Ph.D.) in Plant Biology and Agricultural Genetics",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Elite plant biology program researching chloroplast biochemistry, drought tolerance genetics, plant-microbe rhizosphere interactions, and crop resilience to climate change.",
+    "funding": "Full graduate research fellowship covering tuition, healthcare, and $30,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://plantbiology.natsci.msu.edu/graduate-program",
+    "requirements": {
+      "gpa": "B.S. in biology, biochemistry, or plant science with min. 3.3 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research interest statement and laboratory experience summary",
+      "references": "Three academic faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8706,
+    "title": "FRIB Accelerator Science and Cryogenic Engineering Fellowship",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "Prestigious accelerator science fellowship working on superconducting linear accelerators, cryogenic helium refrigeration systems, and heavy ion beam dynamics at FRIB.",
+    "funding": "$18,000 research grant supporting doctoral studies in superconducting radiofrequency (SRF) cavities",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://frib.msu.edu",
+    "requirements": {
+      "gpa": "Enrolled doctoral student in physics or electrical engineering with min. 3.5 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Accelerator physics research proposal",
+      "references": "FRIB senior scientist nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8707,
+    "title": "School of Packaging Sustainable Materials Research Internship",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Laboratory research internship in America's first School of Packaging developing biodegradable biopolymers, barrier coating permeability testing, and circular recycling models.",
+    "funding": "$4,500 summer research stipend sponsored by the packaging industry consortium",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://packaging.msu.edu",
+    "requirements": {
+      "gpa": "Undergraduate student in packaging, materials science, or chemical engineering with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Packaging research interest statement",
+      "references": "Packaging faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8708,
+    "title": "MSU Alumni Distinguished Full-Ride Presidential Scholarship",
+    "university": "Michigan State University",
+    "country": "United States",
+    "location": "East Lansing, Michigan, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "The highest merit distinction at Michigan State University awarded to top high school seniors following a rigorous competitive nationwide examination and interview.",
+    "funding": "Full tuition, room and board, mandatory fees, plus a $1,000 annual stipend ($140,000 total value)",
+    "tuition": "100% full-ride funding",
+    "fee": "$0",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://honorscollege.msu.edu/admissions/alumni-distinguished-scholarship.html",
+    "requirements": {
+      "gpa": "Top 1% high school class rank with exceptional standardized test scores",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors scholarship examination and essay",
+      "references": "Three letters from school counselors and teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8709,
+    "title": "Bachelor of Science in Recording Industry (Audio Production Focus)",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "Grammy-producing recording program featuring five multi-million dollar recording studios, Dolby Atmos mixing suites, analog tape mastering, and live concert sound.",
+    "funding": "CMA and Recording Academy educational grants up to $10,000/year",
+    "tuition": "$9,600/year (In-state) / $29,000/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mtsu.edu/recording-industry",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with audio production portfolio or interview",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Audio production portfolio link and personal statement",
+      "references": "One music or technology instructor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8710,
+    "title": "Bachelor of Science in Aerospace (Professional Pilot Concentration)",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite FAA Part 141 collegiate flight school operating over 35 glass-cockpit Diamond DA40 and DA42 aircraft at Murfreesboro Airport with airline bridge partnerships.",
+    "funding": "Delta Propel and American Airlines Cadet pathway bonuses plus aerospace flight scholarships",
+    "tuition": "$9,600/year (Flight lab fees billed separately)",
+    "fee": "$25",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.mtsu.edu/aerospace",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 and FAA Class 1 or 2 Medical Certificate",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Flight safety pledge and aerospace essay",
+      "references": "Two recommendations from teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8711,
+    "title": "Bachelor of Science in Concrete Industry Management (CIM)",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "First-in-the-nation curriculum combining concrete science, structural materials testing, supply chain logistics, and executive construction contracting.",
+    "funding": "National Concrete Industry Management Foundation scholarships covering up to 100% of tuition",
+    "tuition": "$0 (CIM Foundation funded) or $9,600/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mtsu.edu/cim",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra and geometry",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Concrete industry statement of intent",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8712,
+    "title": "Center for Popular Music Archival Research Fellowship",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Humanities research fellowship examining rare early blues 78-rpm discs, sheet music collections, Appalachian fiddle traditions, and civil rights protest songs.",
+    "funding": "$5,000 archival research grant utilizing the million-item American popular music archive",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mtsu.edu/popmusic",
+    "requirements": {
+      "gpa": "Enrolled graduate or upper-division undergraduate student in music or history with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Archival music research proposal",
+      "references": "Musicology faculty letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8713,
+    "title": "Murfreesboro Airport Uncrewed Aircraft Systems (UAS) Internship",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Flight operations internship programming drone flight paths, multispectral agricultural imaging, and disaster emergency response mapping.",
+    "funding": "$3,200 summer research stipend operating autonomous mapping drones",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mtsu.edu/aerospace",
+    "requirements": {
+      "gpa": "Aerospace major with FAA Part 107 Remote Pilot Certificate and min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "UAS operations statement and logbook",
+      "references": "Aerospace instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8714,
+    "title": "Buchanan Presidential Fellowship Full-Ride Scholarship",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "location": "Murfreesboro, Tennessee, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The highest academic honor for incoming freshmen at MTSU, awarded to 20 students annually who demonstrate extraordinary academic ability, intellectual curiosity, and leadership.",
+    "funding": "Full in-state tuition and fees waiver, book allowance, and priority honors housing ($45,000 total value)",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.mtsu.edu/honors/buchanan.php",
+    "requirements": {
+      "gpa": "High school GPA >= 3.5 and ACT score >= 30 or SAT >= 1360",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Honors essay and on-campus interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8715,
+    "title": "Bachelor of Science in Nursing (BSN) Healthcare Leadership Track",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited nursing curriculum featuring high-fidelity patient simulation labs and clinical rotations across Methodist Fremont Health and Omaha medical centers.",
+    "funding": "Fremont Health Medical Center partnership scholarships covering up to $10,000/year",
+    "tuition": "$38,400/year (Significant institutional merit aid available)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.midlandu.edu/academics/undergraduate/nursing",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.75 in anatomy, physiology, and chemistry, and TEAS test",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining nursing clinical dedication",
+      "references": "Two letters from instructors or clinical professionals"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8716,
+    "title": "Master of Science in Business Analytics (Dunklau School of Business)",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Applied hybrid graduate degree in Omaha teaching predictive modeling, data visualization in Tableau, SQL data warehousing, and executive business strategy.",
+    "funding": "Omaha Corporate Analytics Fellowships (Mutual of Omaha, Conagra) up to $6,000",
+    "tuition": "$650/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.midlandu.edu/academics/graduate/business-analytics",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA from an accredited institution",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE not required",
+      "papers": "Statement of business analytics goals and resume",
+      "references": "Two professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8717,
+    "title": "Master of Science in Athletic Training (MSAT)",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAATE-accredited graduate program combining orthopedic evaluations, concussion sideline protocols, and therapeutic rehabilitation across 33 varsity sports teams.",
+    "funding": "Athletic training graduate assistantships with Midland athletic teams and sports medicine clinics",
+    "tuition": "$625/credit hour",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.midlandu.edu/academics/graduate/athletic-training",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA and prerequisites in anatomy, physiology, and physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement and proof of 50+ shadowing hours with certified athletic trainer",
+      "references": "Two recommendations including one certified athletic trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8718,
+    "title": "Omaha Commercial Business Innovation Practicum",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Internship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Corporate finance and marketing internship conducting consumer market trend analysis, supply chain auditing, and digital campaign optimization in Omaha.",
+    "funding": "$3,000 semester stipend placed with Omaha Fortune 500 corporations and start-up incubators",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.midlandu.edu/career-studio",
+    "requirements": {
+      "gpa": "Junior or senior business major with min. 2.8 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Business resume and cover letter",
+      "references": "Dunklau School faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8719,
+    "title": "Platte River Basin Environmental Field Research Fellowship",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Ecological field research fellowship monitoring sandhill crane migratory stopover habitats, riparian groundwater levels, and agricultural nitrate filtration in eastern Nebraska.",
+    "funding": "$3,500 summer research stipend sponsored by Nebraska wildlife conservation grants",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.midlandu.edu/academics/undergraduate/biology",
+    "requirements": {
+      "gpa": "Enrolled student in biology or environmental science with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Platte River research proposal",
+      "references": "Biology faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8720,
+    "title": "Presidential Board of Trustees Merit Scholarship",
+    "university": "Midland University",
+    "country": "United States",
+    "location": "Fremont, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Midland's premier competitive scholarship honoring incoming freshmen who have demonstrated top scholastic achievement, ethical leadership, and extracurricular vigor.",
+    "funding": "$22,000 annual scholarship ($88,000 four-year value) renewable for four undergraduate years",
+    "tuition": "Renewable tuition reduction",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.midlandu.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.7 or ACT score >= 27",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential scholarship essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8721,
+    "title": "Bachelor of Science in Equine Studies (Equine Management & Rehabilitation)",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Elite equine curriculum utilizing Midway's 200-acre equestrian center to study equine lameness rehabilitation, broodmare reproduction, nutritional biochemistry, and farm management.",
+    "funding": "Keeneland Association and Thoroughbred industry partner grants up to $12,000/year",
+    "tuition": "$26,000/year (Significant institutional scholarships available)",
+    "fee": "$30",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.midway.edu/academics/undergraduate-programs/equine-studies",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with horse handling background",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Equine experience resume and personal statement",
+      "references": "One letter from equine industry professional or trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8722,
+    "title": "Associate of Science in Nursing (ADN / RN Track)",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "ACEN-accredited nursing program with high-fidelity patient simulation labs and clinical rotations at UK Albert B. Chandler Hospital and Saint Joseph Hospital in Lexington.",
+    "funding": "Kentucky Bluegrass Hospital nursing scholarships and loan forgiveness up to $8,000/year",
+    "tuition": "$960/credit hour",
+    "fee": "$30",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.midway.edu/academics/undergraduate-programs/nursing",
+    "requirements": {
+      "gpa": "Prerequisite GPA >= 2.75 in anatomy and physiology, chemistry, and TEAS test",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing personal statement and background check",
+      "references": "Two recommendations from instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8723,
+    "title": "Master of Business Administration (MBA) in Equine Management",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized MBA program tailored for thoroughbred breeding syndicates, equine sales auctions, bloodstock agency operations, and international equestrian sponsorship law.",
+    "funding": "Equine business leadership grants up to $5,000",
+    "tuition": "$550/credit hour",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.midway.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 2.75 GPA from an accredited institution",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional resume and statement of executive equine goals",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8724,
+    "title": "Keeneland Thoroughbred Yearling Sales Industry Fellowship",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Prestigious industry fellowship evaluating thoroughbred conformation, radiographic bone development, sales catalog pedigree analytics, and auction operations at Keeneland.",
+    "funding": "$4,000 stipend plus hands-on sales consignment and pedigree research residency",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.midway.edu/academics/undergraduate-programs/equine-studies",
+    "requirements": {
+      "gpa": "Enrolled equine studies or business student with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Thoroughbred industry career essay",
+      "references": "Equine faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8725,
+    "title": "Bluegrass Equine Veterinary Surgery Practicum",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Internship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Veterinary clinical internship rotating through surgical prep, neonatal foal intensive care, anesthesia monitoring, and lameness scintigraphy at regional equine hospitals.",
+    "funding": "$3,000 summer clinical stipend at equine surgical hospitals in Lexington/Midway",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.midway.edu/academics/undergraduate-programs/pre-professional",
+    "requirements": {
+      "gpa": "Pre-veterinary or equine studies major in good standing with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Veterinary clinical objectives statement",
+      "references": "Pre-vet advisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8726,
+    "title": "Presidential Pinkerton Honors Full-Tuition Scholarship",
+    "university": "Midway University",
+    "country": "United States",
+    "location": "Midway, Kentucky, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Named for founder Dr. Lewis L. Pinkerton, this award recognizes incoming freshmen who have demonstrated outstanding academic performance, moral character, and community leadership.",
+    "funding": "Full tuition scholarship ($26,000/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.midway.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.7 and ACT 27+ or SAT 1280+",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential honors essay and on-campus interview",
+      "references": "Two recommendations from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8727,
+    "title": "Bachelor of Fine Arts (BFA) in Animation and 3D Modeling",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Nationally recognized animation degree featuring industry-standard Maya, Houdini, character rigging, motion capture, visual effects (VFX), and 2D/3D narrative filmmaking.",
+    "funding": "School of Art Talent Scholarships and creative industry grants up to $8,000/year",
+    "tuition": "$9,850/year (In-state / Tri-state reciprocity) / $18,400/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mnstate.edu/academics/majors/animation",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with visual art portfolio review",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Animation portfolio (10-15 images/animations) and artist statement",
+      "references": "One art or media teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8728,
+    "title": "Bachelor of Science in Biotechnology (Molecular Biology Concentration)",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on biotechnology laboratory curriculum training students in recombinant protein synthesis, CRISPR gene editing, bioinformatics, and mammalian cell culture.",
+    "funding": "Paseka and STEM Endowed Research Scholarships up to $6,000/year",
+    "tuition": "$9,850/year",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mnstate.edu/academics/majors/biotechnology",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with chemistry and biology coursework",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining biotechnology career focus",
+      "references": "Two recommendations from science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8729,
+    "title": "Master of Healthcare Administration (MHA)",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CAHME-aligned graduate program preparing hospital executives in healthcare finance, health policy regulation, clinical informatics, and rural hospital quality management.",
+    "funding": "Sanford Health and Essentia Health regional clinical tuition sponsorships",
+    "tuition": "$525/credit hour",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mnstate.edu/academics/graduate/healthcare-administration",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA from an accredited institution",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Healthcare leadership essay and professional resume",
+      "references": "Two letters from healthcare or academic supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8730,
+    "title": "Red River Basin Aquatic Ecology Field Fellowship",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Freshwater research fellowship analyzing sedimentation, pesticide runoff, and native fish migration along the Red River of the North basin.",
+    "funding": "$4,000 research award monitoring spring flooding runoff and agricultural nutrient transport",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mnstate.edu/academics/majors/biology",
+    "requirements": {
+      "gpa": "Enrolled biology or environmental studies major with min. 3.0 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Red River watershed research proposal",
+      "references": "Biosciences faculty mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8731,
+    "title": "Fargo-Moorhead Creative Media and Animation Studio Internship",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Internship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Hands-on studio internship creating 3D asset libraries, texture mapping, character animation cycles, and digital commercial motion graphics.",
+    "funding": "$3,000 semester stipend placed with regional digital media studios and software game developers",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.mnstate.edu/academics/majors/animation",
+    "requirements": {
+      "gpa": "Animation or Graphic Design major in junior standing with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Demo reel link and technical resume",
+      "references": "Animation faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8732,
+    "title": "Presidential Dragon Scholars Full-Tuition Award",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "location": "Moorhead, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "MSUM's highest academic distinction awarded to incoming freshmen who embody top scholastic achievement, intellectual curiosity, and leadership potential.",
+    "funding": "Full in-state tuition and fees waiver renewable for four undergraduate academic years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.mnstate.edu/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.8 or ACT score >= 28",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Dragon scholars essay",
+      "references": "Two high school teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8733,
+    "title": "Bachelor of Science in Automotive Engineering Technology (AET)",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Hands-on engineering technology degree featuring engine dynamometers, emissions analysis test cells, chassis design, and electric vehicle powertrain integration.",
+    "funding": "Automotive industry partner scholarships (Polaris, Toro, Ford) up to $10,000/year",
+    "tuition": "$9,500/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://cset.mnsu.edu/automotive",
+    "requirements": {
+      "gpa": "High school GPA >= 2.8 with algebra, trigonometry, and physics",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement explaining automotive engineering career goals",
+      "references": "One recommendation from math or science instructor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8734,
+    "title": "Bachelor of Science in Aviation (Professional Flight)",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "FAA Part 141 approved flight training program operating over 30 Piper and multi-engine aircraft at Mankato Regional Airport with direct airline hiring pipelines.",
+    "funding": "Delta Propel and Sun Country airline cadet bonuses plus aviation department scholarships",
+    "tuition": "$9,500/year (Flight instruction fees billed per flight hour)",
+    "fee": "$20",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://cset.mnsu.edu/aviation",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 and FAA Class 1 or 2 Medical Certificate",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Aviation career statement and pilot safety pledge",
+      "references": "Two letters from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8735,
+    "title": "Master of Science in Civil Engineering (Iron Range & Mankato)",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Advanced civil engineering degree focusing on cold-weather pavement performance, geotechnical soil mechanics, bridge structural health monitoring, and stormwater management.",
+    "funding": "Minnesota Department of Transportation research assistantships covering tuition and $20,000 stipend",
+    "tuition": "$510/credit hour",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://cset.mnsu.edu/civil-engineering",
+    "requirements": {
+      "gpa": "B.S. in Civil Engineering or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of civil engineering research goals",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8736,
+    "title": "Cold-Weather Electric Vehicle Battery Testing Fellowship",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Automotive engineering fellowship evaluating lithium-ion battery capacity degradation, thermal management systems, and charging kinetics at sub-zero temperatures.",
+    "funding": "$8,000 research award utilizing sub-zero environmental test chambers",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://cset.mnsu.edu/automotive",
+    "requirements": {
+      "gpa": "Enrolled graduate student in automotive or mechanical engineering with min. 3.2 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "EV battery research proposal",
+      "references": "Automotive faculty mentor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8737,
+    "title": "Mankato Regional Airport Flight Safety Operations Internship",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on airport operations internship conducting runway safety inspections, aircraft dispatch coordination, and flight data monitoring at North Star Aviation.",
+    "funding": "$3,200 summer stipend supporting airport operations and flight line management",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://cset.mnsu.edu/aviation",
+    "requirements": {
+      "gpa": "Aviation major in good standing with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Aviation operations resume and cover letter",
+      "references": "Aviation faculty evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8738,
+    "title": "Presidential Maverick Scholars Full-Tuition Scholarship",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "location": "Mankato, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "The university's top competitive merit award for incoming freshmen who have demonstrated superior academic achievement, intellectual curiosity, and leadership.",
+    "funding": "Full in-state tuition and fees ($9,500/year value) renewable for four undergraduate years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://www.mnsu.edu/university-admissions/paying-for-college/scholarships",
+    "requirements": {
+      "gpa": "High school GPA >= 3.8 and ACT score >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Maverick honors scholarship essay",
+      "references": "Two recommendations from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8739,
+    "title": "Master of Science in Explosives Engineering",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "The first and only program of its kind in the nation, utilizing the S&T Experimental Mine to conduct research on commercial blasting, military energetic materials, demolition, and pyrotechnics.",
+    "funding": "Department of Mining & Nuclear Engineering graduate assistantships providing full tuition waiver and $26,000 stipend",
+    "tuition": "$0 (Assistantship funded) or $1,250/credit",
+    "fee": "$55 (Domestic) / $75 (International)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://mee.mst.edu/academic-programs/explosives-engineering",
+    "requirements": {
+      "gpa": "B.S. in engineering, mining, chemistry, or physics with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Personal statement explaining energetic materials research focus",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8740,
+    "title": "Doctor of Philosophy (Ph.D.) in Ceramic and Materials Engineering",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "World-famous ceramics program researching ultra-high-temperature ceramics (UHTCs) for hypersonic flight, solid-state battery electrolytes, bio-active glass, and dielectric materials.",
+    "funding": "Full graduate research assistantship covering 100% of tuition, subsidized health insurance, and $30,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$55",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://mse.mst.edu/academic-programs/graduate-programs",
+    "requirements": {
+      "gpa": "B.S. or M.S. in Ceramic Engineering, Materials Science, or Chemical Engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research statement detailing laboratory focus in advanced materials",
+      "references": "Three letters from materials science researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8741,
+    "title": "Kummer Innovation and Entrepreneurship Doctoral Fellowship",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Elite STEM fellowship supporting exceptional doctoral students translating scientific discoveries into patents, commercial ventures, and high-tech manufacturing startups.",
+    "funding": "$35,000 annual fellowship stipend plus full tuition waiver and $5,000 professional travel grant",
+    "tuition": "$0 (Fully funded through the Kummer Endowed Institute)",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://kummerinstitute.mst.edu",
+    "requirements": {
+      "gpa": "Accepted doctoral student in engineering, computer science, or physical science with min. 3.5 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Technology commercialization or doctoral innovation proposal",
+      "references": "Kummer faculty mentor nomination"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8742,
+    "title": "Master of Science in Aerospace Engineering (Hypersonics Track)",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite aerospace program utilizing supersonic wind tunnels and aerothermodynamics labs to research hypersonic re-entry vehicles, plasma aerodynamics, and composite aero-structures.",
+    "funding": "Aerospace industry research assistantships (Boeing, NASA, Lockheed Martin) up to $25,000/year",
+    "tuition": "$1,250/credit hour",
+    "fee": "$55",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://mae.mst.edu/academic-programs/graduate-programs",
+    "requirements": {
+      "gpa": "B.S. in Aerospace or Mechanical Engineering with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 155",
+      "papers": "Statement of aerospace research goals",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8743,
+    "title": "Missouri S&T Experimental Mine Blasting Practicum",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on mining engineering internship conducting rock drilling, charge loading, seismograph seismic wave monitoring, and subterranean digital laser profiling.",
+    "funding": "$4,000 summer research stipend conducting subsurface blast vibration and fragmentation testing",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://mee.mst.edu/experimentalmine",
+    "requirements": {
+      "gpa": "Undergraduate student in mining or geological engineering with min. 2.75 GPA",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Mine safety certification acknowledgment",
+      "references": "Mining faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8744,
+    "title": "Chancellor’s Distinguished STEM Full-Tuition Scholarship",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "location": "Rolla, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "The highest competitive scholarship awarded to incoming freshmen who demonstrate superior mathematical and scientific ability, innovation, and leadership.",
+    "funding": "Full tuition and mandatory fees ($14,500/year value) renewable for four undergraduate academic years",
+    "tuition": "100% full tuition coverage",
+    "fee": "$0",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://scholarships.mst.edu",
+    "requirements": {
+      "gpa": "High school GPA >= 3.75 and ACT score >= 32 or SAT >= 1430",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor's scholarship essay",
+      "references": "Two recommendations from STEM instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8745,
+    "title": "Master of Science in Environmental Health and Safety",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "A specialized STEM-designated degree focusing on industrial hygiene, toxic chemical management, occupational ergonomics, and corporate environmental compliance.",
+    "funding": "Graduate assistantship with $9,500 annual stipend and 100% tuition remission",
+    "tuition": "$450/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.mssu.edu/academics/environmental-health/",
+    "requirements": {
+      "gpa": "3.0 minimum in physical or biological sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of professional purpose",
+      "references": "Three academic or professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8746,
+    "title": "Master of Science in Management & Leadership",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Equips managers and executive leaders with data-driven strategic planning, workforce analytics, crisis communication, and ethical decision frameworks.",
+    "funding": "College of Business departmental scholarship awards up to $4,000 per academic year",
+    "tuition": "$475/credit hour",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.mssu.edu/academics/business/",
+    "requirements": {
+      "gpa": "2.75 minimum undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Leadership philosophy essay",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8747,
+    "title": "Bachelor of Science in Computer Information Science",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Covers full-stack software development, cybersecurity infrastructure, relational database architectures, and distributed cloud computing.",
+    "funding": "MSSU Lion Pride Merit Scholarship up to $4,500/year renewable",
+    "tuition": "$8,250/year (in-state), $16,500/year (out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.mssu.edu/academics/computer-science/",
+    "requirements": {
+      "gpa": "2.5 minimum high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8748,
+    "title": "Bachelor of Science in Biology (Pre-Medical & Biotechnology)",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous laboratory training in molecular genetics, histology, human physiology, and bioethics preparing undergraduates for medical school or biotech careers.",
+    "funding": "STEM Undergraduate Research Grants and University Honors Stipends up to $3,500/year",
+    "tuition": "$8,250/year (in-state), $16,500/year (out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.mssu.edu/academics/biology/",
+    "requirements": {
+      "gpa": "3.0 high school GPA in science tracks",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Science career goals essay",
+      "references": "Two high school science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8749,
+    "title": "Bachelor of Science in Criminal Justice Administration",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive studies in restorative justice, criminal jurisprudence, forensic investigation techniques, and corrections administration.",
+    "funding": "MSSU Law Enforcement Foundation Endowment awards of $2,500 annually",
+    "tuition": "$8,250/year (in-state), $16,500/year (out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.mssu.edu/academics/criminal-justice/",
+    "requirements": {
+      "gpa": "2.25 minimum high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement of intent",
+      "references": "One character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8750,
+    "title": "Presidential Academic Fellowship in Sustainable Health Sciences",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "location": "Joplin, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Premier university honors scholarship supporting scholars committed to community health disparities, epidemiology, and environmental sustainability.",
+    "funding": "Full tuition, fees, and on-campus room and board ($18,500/year value)",
+    "tuition": "$0 (100% full scholarship)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.mssu.edu/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.80 high school GPA and ACT score >= 28",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship competition essay",
+      "references": "Three letters from educators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8751,
+    "title": "Master of Science in Computer Science",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Advanced study in algorithm design, machine learning models, cybersecurity architecture, and cloud infrastructure with faculty-mentored thesis research.",
+    "funding": "Teaching and Graduate Research Assistantships covering 100% tuition plus $12,800 annual stipend",
+    "tuition": "$385/credit hour (in-state), $720/credit hour (out-of-state)",
+    "fee": "$55",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.missouristate.edu/cs/",
+    "requirements": {
+      "gpa": "3.00 minimum in undergraduate computer science or related STEM field",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Quantitative score 155+ recommended",
+      "papers": "Statement of purpose in computing research",
+      "references": "Three letters of academic evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8752,
+    "title": "Doctor of Nurse Practice (DNP)",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Terminal clinical degree preparing advanced practice registered nurses for executive healthcare leadership, translational clinical research, and family health practice.",
+    "funding": "HRSA Advanced Nursing Education Grants and departmental clinical tuition fellowships up to $16,000",
+    "tuition": "$550/credit hour",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.missouristate.edu/nursing/dnp.htm",
+    "requirements": {
+      "gpa": "3.25 in accredited BSN or MSN",
+      "ielts": "TOEFL 88+ or IELTS 7.0",
+      "gre": "Waived with valid RN license",
+      "papers": "Doctoral clinical portfolio & statement",
+      "references": "Three professional and clinical supervisor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8753,
+    "title": "Master of Science in Plant Science & Sustainable Agriculture",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on research spanning agronomic crop physiology, soil biome conservation, precision hydrology, and controlled-environment agricultural systems.",
+    "funding": "Darr College Research Assistantships with $11,500 stipend and tuition waiver",
+    "tuition": "$385/credit hour",
+    "fee": "$55",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ag.missouristate.edu/",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research statement",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8754,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary program between Business and Computer Science covering ethical hacking, cryptosystems, risk governance, and enterprise threat intelligence.",
+    "funding": "Departmental cybersecurity merit scholarships providing $5,000 per term",
+    "tuition": "$420/credit hour",
+    "fee": "$55",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.missouristate.edu/cybersecurity/",
+    "requirements": {
+      "gpa": "2.85 minimum GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Cybersecurity interest statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8755,
+    "title": "Bachelor of Science in Cell and Molecular Biology",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive coursework and bench research in functional genomics, cellular signal transduction, immunology, and biochemistry.",
+    "funding": "Board of Governors Scholarship awarding up to $7,000/year for four years",
+    "tuition": "$9,400/year (in-state), $18,800/year (out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://biology.missouristate.edu/",
+    "requirements": {
+      "gpa": "3.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Honors essay",
+      "references": "Two high school teacher references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8756,
+    "title": "Missouri State University Presidential Scholarship",
+    "university": "Missouri State University",
+    "country": "United States",
+    "location": "Springfield, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The most distinguished merit award given to incoming undergraduate students of exceptional scholarship, civic leadership, and public affairs commitment.",
+    "funding": "Full in-state or out-of-state tuition plus on-campus room and board ($22,000/year total value)",
+    "tuition": "$0 (100% full tuition and room covered)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.missouristate.edu/financialaid/scholarships/presidential.htm",
+    "requirements": {
+      "gpa": "3.90 high school GPA and ACT score >= 32 or SAT >= 1430",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Scholarship competitive essay and interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8757,
+    "title": "Doctor of Philosophy in Computer Science & Telecommunications",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Doctoral research concentrating on artificial intelligence, deep learning architectures, wireless networks, big data analytics, and computational cybersecurity.",
+    "funding": "Graduate Research Assistantship with $25,000 annual stipend and 100% tuition fellowship",
+    "tuition": "$520/credit hour (in-state), $1,150/credit hour (out-of-state)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://sse.umkc.edu/academics/computer-science/",
+    "requirements": {
+      "gpa": "3.50 in MS in Computer Science or related field",
+      "ielts": "TOEFL 85+ or IELTS 7.0",
+      "gre": "Quantitative >= 160",
+      "papers": "Detailed research prospectus",
+      "references": "Three academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8758,
+    "title": "Doctor of Philosophy in Pharmaceutical Sciences",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Cutting-edge pharmaceutical research in targeted drug delivery systems, ocular pharmacokinetics, gene therapy formulations, and medicinal chemistry.",
+    "funding": "Full graduate research fellowship with $28,000 annual living stipend and full tuition waiver",
+    "tuition": "$580/credit hour",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://pharmacy.umkc.edu/academics/phd-pharmaceutical-sciences.html",
+    "requirements": {
+      "gpa": "3.25 in pharmacy, chemistry, or biology",
+      "ielts": "TOEFL 85+ or IELTS 7.0",
+      "gre": "Recommended",
+      "papers": "Statement of research interests",
+      "references": "Three letters from laboratory mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8759,
+    "title": "Master of Science in Civil Engineering (Infrastructure Resilience)",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Advanced structural engineering, sustainable transit systems, soil-structure interaction, and computational earthquake mitigation analysis.",
+    "funding": "School of Science and Engineering Dean’s Fellowships up to $10,000/year",
+    "tuition": "$520/credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://sse.umkc.edu/academics/civil-engineering/",
+    "requirements": {
+      "gpa": "3.0 in accredited BS in Civil Engineering",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of engineering objectives",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8760,
+    "title": "Master of Science in Finance",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "STEM-certified curriculum preparing financial analysts in quantitative portfolio management, derivative modeling, corporate restructuring, and fintech analytics.",
+    "funding": "Bloch School Merit Scholarships providing up to $8,000 per academic year",
+    "tuition": "$620/credit hour",
+    "fee": "$75",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://bloch.umkc.edu/academics/master-of-science-in-finance.html",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE considered",
+      "papers": "Career trajectory essay",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8761,
+    "title": "Bachelor of Science in Electrical and Computer Engineering",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Covers embedded microprocessors, signal processing, autonomous robotics, FPGA digital systems, and VLSI circuit architecture.",
+    "funding": "UMKC Trustees' Scholarship providing up to $12,000 per year renewable",
+    "tuition": "$11,200/year (in-state), $27,400/year (out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://sse.umkc.edu/academics/electrical-computer-engineering/",
+    "requirements": {
+      "gpa": "3.2 high school GPA with strong math preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8762,
+    "title": "UMKC Chancellor's Scholars Award",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "location": "Kansas City, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Premier scholarship recognizing exceptional incoming students pursuing high-impact discovery in biomedical sciences, engineering, and the arts.",
+    "funding": "Full tuition and campus housing allowance ($26,000/year total value) across four years",
+    "tuition": "$0 (100% full tuition covered)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.umkc.edu/admissions/financial-aid/scholarships/chancellors-scholars.html",
+    "requirements": {
+      "gpa": "3.85 unweighted high school GPA and ACT >= 31 or SAT >= 1400",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor's Scholar application essay",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8763,
+    "title": "Master of Arts in Community Counseling",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares clinical mental health counselors for state licensure with rigorous practicum supervision, psychotherapy ethics, and trauma-informed diagnostic models.",
+    "funding": "Graduate counseling fellowships offering up to $5,000 per academic year",
+    "tuition": "$450/credit hour",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.moval.edu/academics/graduate-programs/",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in psychology or human services",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Counseling clinical philosophy essay",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8764,
+    "title": "Bachelor of Science in Agribusiness",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Combines agronomy principles with commodities trading, farm asset valuation, rural financial policy, and global agricultural logistics.",
+    "funding": "Missouri Valley Agribusiness Leadership Grant of $6,000/year",
+    "tuition": "$21,500/year",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.moval.edu/academics/agribusiness/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8765,
+    "title": "Bachelor of Science in Exercise Science",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Focuses on human biomechanics, neuromuscular conditioning, clinical exercise physiology, and sports nutrition for careers in allied health.",
+    "funding": "Athletic and Academic Merit Awards ranging up to $10,000/year",
+    "tuition": "$21,500/year",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.moval.edu/academics/exercise-science/",
+    "requirements": {
+      "gpa": "2.7 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8766,
+    "title": "Bachelor of Science in Computer Information Systems",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on instruction in relational database systems, network security protocols, modern scripting languages, and business software integration.",
+    "funding": "STEM Achievement Scholarship providing $5,500/year renewable",
+    "tuition": "$21,500/year",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.moval.edu/academics/computer-information-systems/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8767,
+    "title": "Bachelor of Science in Nursing (Pre-Licensure BSN)",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Rigorous state-approved nursing curriculum combining simulation lab training with acute care clinical rotations throughout central Missouri.",
+    "funding": "Rural Health Nursing Grants providing $4,000 annually",
+    "tuition": "$21,500/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.moval.edu/academics/nursing/",
+    "requirements": {
+      "gpa": "3.0 high school GPA with prerequisite science grades of B or better",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing statement of intent",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8768,
+    "title": "Missouri Valley College Heritage Honors Fellowship",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious award honoring freshmen who embody intellectual curiosity, community service dedication, and campus leadership potential.",
+    "funding": "Full tuition scholarship ($21,500/year value) renewable for four undergraduate years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.moval.edu/admissions-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.75 high school GPA and ACT score >= 27",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Heritage Scholarship essay and on-campus interview",
+      "references": "Two academic and one community leader reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8769,
+    "title": "Bachelor of Arts in Christian Leadership & Ministry",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Develops competencies in pastoral care, non-profit governance, organizational communication, biblical hermeneutics, and community outreach.",
+    "funding": "Big Sky Ministry Fellowship awarding up to $4,500/year",
+    "tuition": "$10,800/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://montanacc.edu/programs/",
+    "requirements": {
+      "gpa": "2.25 minimum high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Christian faith and leadership essay",
+      "references": "Pastoral reference and one teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8770,
+    "title": "Bachelor of Science in Counseling & Family Studies",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Foundational behavioral science education integrating psychological theory with pastoral care, adolescent development, and conflict mediation.",
+    "funding": "Flathead Valley Compassion Scholarship of $3,500 per academic year",
+    "tuition": "$10,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://montanacc.edu/counseling/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two character references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8771,
+    "title": "Bachelor of Arts in Intercultural & Missional Studies",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Equips students with cultural anthropology methods, comparative world religions knowledge, indigenous community engagement, and linguistic principles.",
+    "funding": "Global Impact Grants providing up to $4,000 per year",
+    "tuition": "$10,800/year",
+    "fee": "$35",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://montanacc.edu/intercultural-studies/",
+    "requirements": {
+      "gpa": "2.3 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of cross-cultural goals",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8772,
+    "title": "Associate of Arts in Biblical Studies",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "A two-year foundational program covering Old and New Testament literature, church history, rhetorical composition, and ethical philosophy.",
+    "funding": "MCC Foundation Assistance Grants up to $2,500/year",
+    "tuition": "$10,800/year",
+    "fee": "$30",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://montanacc.edu/associate-degree/",
+    "requirements": {
+      "gpa": "2.0 high school GPA or GED",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal testimony",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8773,
+    "title": "Bachelor of Arts in Worship Arts & Media",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Combines musicianship, audio-visual production, digital media management, and liturgical design for contemporary community worship settings.",
+    "funding": "Worship Arts Talent Scholarship awarding up to $3,800 annually",
+    "tuition": "$10,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://montanacc.edu/worship-arts/",
+    "requirements": {
+      "gpa": "2.4 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Musical or media portfolio submission",
+      "references": "One music director and one teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8774,
+    "title": "Glacier Wilderness Servant Leadership Fellowship",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "location": "Kalispell, Montana, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Merit fellowship supporting students dedicated to outdoor education ministry, wilderness stewardship, and regional environmental conservation.",
+    "funding": "Full tuition coverage ($10,800/year) plus wilderness leadership experiential stipend",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://montanacc.edu/financial-aid/",
+    "requirements": {
+      "gpa": "3.50 high school GPA",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Wilderness stewardship and faith essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8775,
+    "title": "Bachelor of Science in Diesel Technology",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Nationally acclaimed program in heavy equipment powertrains, electronic diagnostics, hydraulic systems, failure analysis, and field service management.",
+    "funding": "Industry Sponsor Endowed Scholarships (Caterpillar/Komatsu) providing up to $7,500/year",
+    "tuition": "$6,400/year (in-state), $19,200/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.msun.edu/academics/cots/diesel.aspx",
+    "requirements": {
+      "gpa": "2.5 high school GPA with technical aptitude",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical career objectives",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8776,
+    "title": "Master of Science in Community Leadership",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares leaders for rural health organizations, tribal councils, non-profit institutions, and municipal administrative agencies across the Northern Plains.",
+    "funding": "Northern Rural Leadership Graduate Fellowships of $4,000 per academic year",
+    "tuition": "$360/credit hour",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.msun.edu/academics/gradstudies/",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Rural community leadership essay",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8777,
+    "title": "Bachelor of Science in Civil Engineering Technology",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Hands-on instruction in geomatics, structural drafting, highway materials testing, hydrology, and construction inspection.",
+    "funding": "Montana Department of Transportation Scholars Program up to $5,000/year",
+    "tuition": "$6,400/year (in-state), $19,200/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.msun.edu/academics/cots/civil.aspx",
+    "requirements": {
+      "gpa": "2.75 high school GPA in mathematics and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8778,
+    "title": "Bachelor of Science in Biology (Natural Resources)",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Field-oriented degree focused on rangeland ecosystems, wildlife conservation, limnology, botany, and geographic information systems (GIS).",
+    "funding": "Northern Prairie Wildlife and Fisheries Grants of $3,500/year",
+    "tuition": "$6,400/year (in-state), $19,200/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.msun.edu/academics/biology/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of environmental interests",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8779,
+    "title": "Bachelor of Science in Nursing (RN to BSN)",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Online and clinical completion program elevating registered nurses in rural healthcare informatics, epidemiology, and healthcare leadership.",
+    "funding": "Montana Healthcare Trust Nursing Scholarship of $3,000",
+    "tuition": "$320/credit hour",
+    "fee": "$30",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.msun.edu/academics/nursing/",
+    "requirements": {
+      "gpa": "2.5 GPA in accredited Associate of Science in Nursing and active unencumbered RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing portfolio",
+      "references": "Clinical supervisor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8780,
+    "title": "Chancellor's High Plains Excellence Fellowship",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "location": "Havre, Montana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Top institutional honor for incoming STEM scholars showing exceptional promise in applied mechanical, civil, or agricultural technologies.",
+    "funding": "Full tuition and mandatory campus fees ($6,400 in-state / $19,200 out-of-state equivalent value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.msun.edu/finaid/scholarships.aspx",
+    "requirements": {
+      "gpa": "3.75 high school GPA and ACT score >= 26",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "High Plains innovation essay",
+      "references": "Three letters from STEM instructors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8781,
+    "title": "Master of Science in Clinical Rehabilitation & Mental Health Counseling",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-accredited program training professional counselors to serve individuals with psychiatric, physical, and developmental disabilities in rural environments.",
+    "funding": "Rehabilitation Services Administration (RSA) Federal Traineeships covering full tuition plus monthly stipend",
+    "tuition": "$380/credit hour (in-state), $880/credit hour (out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.msubillings.edu/grad/programs/rehab-counseling.htm",
+    "requirements": {
+      "gpa": "3.00 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Professional goals and ethics essay",
+      "references": "Three letters of academic or professional recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8782,
+    "title": "Master of Science in Athletic Training (MSAT)",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAATE-accredited graduate program focusing on sports emergency care, musculoskeletal evaluation, therapeutic rehabilitation, and biomechanical assessment.",
+    "funding": "Departmental clinical assistantships providing $8,500 stipend and partial tuition award",
+    "tuition": "$450/credit hour",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.msubillings.edu/chps/athletictraining/",
+    "requirements": {
+      "gpa": "3.00 undergraduate GPA with prerequisite anatomy and physiology courses",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Clinical career statement",
+      "references": "Three recommendations including certified athletic trainer"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8783,
+    "title": "Master of Health Administration (MHA)",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prepares health executives in healthcare economics, regulatory governance, medical informatics, and hospital systems optimization.",
+    "funding": "Regional Hospital System Healthcare Leadership Fellowships up to $6,000/year",
+    "tuition": "$420/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.msubillings.edu/mha/",
+    "requirements": {
+      "gpa": "2.85 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of healthcare leadership vision",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8784,
+    "title": "Bachelor of Science in Broadfield Science (Chemistry & Physics)",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "desc": "Rigorous cross-disciplinary program combining physical chemistry, thermodynamics, electromagnetism, and modern analytical instrumentation.",
+    "funding": "Yellowstone Science Scholar Grants providing $4,500/year",
+    "tuition": "$6,500/year (in-state), $19,500/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.msubillings.edu/chps/science/",
+    "requirements": {
+      "gpa": "2.75 high school GPA with strong math preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two high school science teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8785,
+    "title": "Bachelor of Science in Business Administration - Finance",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited business degree with specialized coursework in corporate capital budgeting, asset valuation, investment analysis, and financial institutions.",
+    "funding": "College of Business Excellence Scholarships up to $3,500 annually",
+    "tuition": "$6,500/year (in-state), $19,500/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.msubillings.edu/cob/",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8786,
+    "title": "MSUB Chancellor’s Excellence Scholarship",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "MSUB’s premier competitive undergraduate scholarship honoring academic scholars exhibiting civic leadership and environmental stewardship in Montana.",
+    "funding": "Full in-state or out-of-state tuition plus mandatory campus fees ($19,500/year value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.msubillings.edu/finaid/Scholarships.htm",
+    "requirements": {
+      "gpa": "3.80 high school GPA and ACT score >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Chancellor’s Scholarship essay and leadership resume",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];export const researchers=[
   {
     "id": 1,
@@ -304466,6 +309625,1627 @@ export const opportunities=[
     "source": "https://www.lsua.edu",
     "bio": "Dr. Randall Dupont researches regional economic indices, consumer confidence metrics, small business development, and agricultural business modeling.",
     "summary": "Dr. Randall Dupont researches regional economic indices, consumer confidence metrics, small business development, and agricultural business modeling.",
+    "reviewed": "2026-10-16"
+  }
+,
+{
+    "id": 3859,
+    "name": "Dr. William F. Tate IV",
+    "role": "President and Professor of Sociology",
+    "title": "President and Professor of Sociology",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsu.edu",
+    "bio": "Dr. William F. Tate IV has served as President of LSU since 2021, leading the Scholarship First Agenda prioritizing agriculture, biotechnology, coastal defense, defense cybersecurity, and energy transition.",
+    "summary": "Dr. William F. Tate IV has served as President of LSU since 2021, leading the Scholarship First Agenda prioritizing agriculture, biotechnology, coastal defense, defense cybersecurity, and energy transition.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3860,
+    "name": "Dr. Karsten Thompson",
+    "role": "Chair and Professor of Petroleum Engineering",
+    "title": "Chair and Professor of Petroleum Engineering",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "department": "Craft & Hawkins Department of Petroleum Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Craft & Hawkins Department of Petroleum Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsu.edu",
+    "bio": "Dr. Karsten Thompson specializes in pore-scale fluid flow modeling in porous media, geological carbon sequestration, and computational fluid dynamics of subterranean reservoirs.",
+    "summary": "Dr. Karsten Thompson specializes in pore-scale fluid flow modeling in porous media, geological carbon sequestration, and computational fluid dynamics of subterranean reservoirs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3861,
+    "name": "Dr. Gabriela González",
+    "role": "Boyd Professor of Physics and Astronomy",
+    "title": "Boyd Professor of Physics and Astronomy",
+    "university": "Louisiana State University",
+    "country": "United States",
+    "department": "Department of Physics and Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics and Astronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.lsu.edu",
+    "bio": "Dr. Gabriela González is a former global spokesperson for the LIGO Scientific Collaboration and member of the National Academy of Sciences, celebrated for the historic discovery of gravitational waves.",
+    "summary": "Dr. Gabriela González is a former global spokesperson for the LIGO Scientific Collaboration and member of the National Academy of Sciences, celebrated for the historic discovery of gravitational waves.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3862,
+    "name": "Dr. Jim Henderson",
+    "role": "President and Higher Education Executive",
+    "title": "President and Higher Education Executive",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.latech.edu",
+    "bio": "Dr. Jim Henderson assumed the presidency of Louisiana Tech in 2024, driving research expansion, university-industry partnerships, and workforce alignment in cyber and advanced manufacturing.",
+    "summary": "Dr. Jim Henderson assumed the presidency of Louisiana Tech in 2024, driving research expansion, university-industry partnerships, and workforce alignment in cyber and advanced manufacturing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3863,
+    "name": "Dr. Collin Wick",
+    "role": "Dean of the College of Engineering and Science and Professor of Chemistry",
+    "title": "Dean of the College of Engineering and Science and Professor of Chemistry",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "department": "College of Engineering and Science",
+    "subject": "chemistry",
+    "topics": [
+      "College of Engineering and Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.latech.edu",
+    "bio": "Dr. Collin Wick conducts computational chemistry research on molecular simulations, gas adsorption in metal-organic frameworks, and chemical separations.",
+    "summary": "Dr. Collin Wick conducts computational chemistry research on molecular simulations, gas adsorption in metal-organic frameworks, and chemical separations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3864,
+    "name": "Dr. John Matthews",
+    "role": "Director of the Trenchless Technology Center and Professor of Civil Engineering",
+    "title": "Director of the Trenchless Technology Center and Professor of Civil Engineering",
+    "university": "Louisiana Tech University",
+    "country": "United States",
+    "department": "Department of Civil Engineering and Trenchless Technology Center",
+    "subject": "engineering",
+    "topics": [
+      "Department of Civil Engineering and Trenchless Technology Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.latech.edu",
+    "bio": "Dr. John Matthews is an internationally recognized expert in municipal buried infrastructure condition assessment, trenchless construction, and utility renewal modeling.",
+    "summary": "Dr. John Matthews is an internationally recognized expert in municipal buried infrastructure condition assessment, trenchless construction, and utility renewal modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3865,
+    "name": "Dr. E. Joseph Savoie",
+    "role": "President and Professor of Educational Leadership",
+    "title": "President and Professor of Educational Leadership",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://louisiana.edu",
+    "bio": "Dr. E. Joseph Savoie, former Louisiana Commissioner of Higher Education, has led UL Lafayette since 2008, steering the university to Carnegie R1 research classification and major campus expansions.",
+    "summary": "Dr. E. Joseph Savoie, former Louisiana Commissioner of Higher Education, has led UL Lafayette since 2008, steering the university to Carnegie R1 research classification and major campus expansions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3866,
+    "name": "Dr. Magdy Bayoumi",
+    "role": "Director of CACS and Professor of Computer Engineering",
+    "title": "Director of CACS and Professor of Computer Engineering",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "department": "Center for Advanced Computer Studies (CACS)",
+    "subject": "engineering",
+    "topics": [
+      "Center for Advanced Computer Studies (CACS)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://louisiana.edu",
+    "bio": "Dr. Magdy Bayoumi is an IEEE Fellow and global pioneer in VLSI design, video processing architectures, system-on-chip architectures, and deep neural network hardware.",
+    "summary": "Dr. Magdy Bayoumi is an IEEE Fellow and global pioneer in VLSI design, video processing architectures, system-on-chip architectures, and deep neural network hardware.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3867,
+    "name": "Dr. Mark Hester",
+    "role": "Professor of Biology and Coastal Ecology Specialist",
+    "title": "Professor of Biology and Coastal Ecology Specialist",
+    "university": "University of Louisiana at Lafayette",
+    "country": "United States",
+    "department": "Department of Biology and Ecology Center",
+    "subject": "environment",
+    "topics": [
+      "Department of Biology and Ecology Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://louisiana.edu",
+    "bio": "Dr. Mark Hester investigates wetland plant ecology, marsh restoration genetics, and the physiological responses of coastal vegetation to sea level rise and saltwater intrusion.",
+    "summary": "Dr. Mark Hester investigates wetland plant ecology, marsh restoration genetics, and the physiological responses of coastal vegetation to sea level rise and saltwater intrusion.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3868,
+    "name": "Dr. Terrence M. Sawyer",
+    "role": "President and Legal Scholar",
+    "title": "President and Legal Scholar",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyola.edu",
+    "bio": "Dr. Terrence M. Sawyer became President of Loyola University Maryland in 2022, advancing the university's strategic plan, community impact in Baltimore, and Jesuit academic tradition.",
+    "summary": "Dr. Terrence M. Sawyer became President of Loyola University Maryland in 2022, advancing the university's strategic plan, community impact in Baltimore, and Jesuit academic tradition.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3869,
+    "name": "Dr. Mary Beth Mudrick",
+    "role": "Chair and Associate Professor of Speech-Language-Hearing Sciences",
+    "title": "Chair and Associate Professor of Speech-Language-Hearing Sciences",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "department": "Department of Speech-Language-Hearing Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Speech-Language-Hearing Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyola.edu",
+    "bio": "Dr. Mary Beth Mudrick specializes in pediatric motor speech disorders, childhood apraxia of speech, and the clinical efficacy of interdisciplinary speech therapy interventions.",
+    "summary": "Dr. Mary Beth Mudrick specializes in pediatric motor speech disorders, childhood apraxia of speech, and the clinical efficacy of interdisciplinary speech therapy interventions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3870,
+    "name": "Dr. Jeffrey M. Lating",
+    "role": "Professor of Psychology and Psychological First Aid Pioneer",
+    "title": "Professor of Psychology and Psychological First Aid Pioneer",
+    "university": "Loyola University Maryland",
+    "country": "United States",
+    "department": "Department of Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Psychology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyola.edu",
+    "bio": "Dr. Jeffrey M. Lating is an internationally recognized expert in post-traumatic stress disorder (PTSD), psychological first aid following disasters, and stress management.",
+    "summary": "Dr. Jeffrey M. Lating is an internationally recognized expert in post-traumatic stress disorder (PTSD), psychological first aid following disasters, and stress management.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3871,
+    "name": "Dr. Xavier A. Cole",
+    "role": "President and Higher Education Leader",
+    "title": "President and Higher Education Leader",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyno.edu",
+    "bio": "Dr. Xavier A. Cole is the first African American and first lay president of Loyola University New Orleans, appointed in 2023 to advance Jesuit academic mission, student flourishing, and community equity.",
+    "summary": "Dr. Xavier A. Cole is the first African American and first lay president of Loyola University New Orleans, appointed in 2023 to advance Jesuit academic mission, student flourishing, and community equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3872,
+    "name": "Prof. Kate Duncan",
+    "role": "Associate Professor of Music and Director of Music Industry Studies",
+    "title": "Associate Professor of Music and Director of Music Industry Studies",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "department": "School of Music and Theatre Professions",
+    "subject": "arts-design",
+    "topics": [
+      "School of Music and Theatre Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyno.edu",
+    "bio": "Prof. Kate Duncan is a music educator and trumpeter who directs the acclaimed Music Industry Studies program, overseeing student recording labels and global industry partnerships.",
+    "summary": "Prof. Kate Duncan is a music educator and trumpeter who directs the acclaimed Music Industry Studies program, overseeing student recording labels and global industry partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3873,
+    "name": "Prof. Robert R.M. Verchick",
+    "role": "Gauthier-St. Martin Chair in Environmental Law",
+    "title": "Gauthier-St. Martin Chair in Environmental Law",
+    "university": "Loyola University New Orleans",
+    "country": "United States",
+    "department": "College of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.loyno.edu",
+    "bio": "Prof. Robert R.M. Verchick is a former Deputy Associate Administrator at the EPA and leading national authority in climate adaptation law, disaster resilience, and environmental justice policy.",
+    "summary": "Prof. Robert R.M. Verchick is a former Deputy Associate Administrator at the EPA and leading national authority in climate adaptation law, disaster resilience, and environmental justice policy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3874,
+    "name": "Dr. Kathy Johnson",
+    "role": "President and Cognitive Psychologist",
+    "title": "President and Cognitive Psychologist",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uno.edu",
+    "bio": "Dr. Kathy Johnson assumed the presidency of the University of New Orleans in 2023, championing student retention, research grant growth, and urban economic development across Greater New Orleans.",
+    "summary": "Dr. Kathy Johnson assumed the presidency of the University of New Orleans in 2023, championing student retention, research grant growth, and urban economic development across Greater New Orleans.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3875,
+    "name": "Dr. Brandon M. Taravella",
+    "role": "Chair and Associate Professor of Naval Architecture and Marine Engineering",
+    "title": "Chair and Associate Professor of Naval Architecture and Marine Engineering",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "department": "School of Naval Architecture and Marine Engineering",
+    "subject": "engineering",
+    "topics": [
+      "School of Naval Architecture and Marine Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uno.edu",
+    "bio": "Dr. Brandon M. Taravella is an expert in biomimetic underwater propulsion, uncrewed underwater vehicles (UUVs), and computational fluid dynamics of submarine hull forms.",
+    "summary": "Dr. Brandon M. Taravella is an expert in biomimetic underwater propulsion, uncrewed underwater vehicles (UUVs), and computational fluid dynamics of submarine hull forms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3876,
+    "name": "Dr. Mark Kulp",
+    "role": "Director of the Pontchartrain Institute and Professor of Earth Sciences",
+    "title": "Director of the Pontchartrain Institute and Professor of Earth Sciences",
+    "university": "University of New Orleans",
+    "country": "United States",
+    "department": "Department of Earth and Environmental Sciences, PIES",
+    "subject": "environment",
+    "topics": [
+      "Department of Earth and Environmental Sciences, PIES"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uno.edu",
+    "bio": "Dr. Mark Kulp conducts research on coastal stratigraphy, deltaic sedimentology, subsidence monitoring in the Mississippi River delta, and coastal barrier island restoration.",
+    "summary": "Dr. Mark Kulp conducts research on coastal stratigraphy, deltaic sedimentology, subsidence monitoring in the Mississippi River delta, and coastal barrier island restoration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3877,
+    "name": "Dr. Laura Freid",
+    "role": "President and Cultural Arts Leader",
+    "title": "President and Cultural Arts Leader",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "arts-design",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://meca.edu",
+    "bio": "Dr. Laura Freid has served as President of Maine College of Art & Design since 2017, overseeing strategic campus expansion, endowment growth, and new digital media and craft curricula.",
+    "summary": "Dr. Laura Freid has served as President of Maine College of Art & Design since 2017, overseeing strategic campus expansion, endowment growth, and new digital media and craft curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3878,
+    "name": "Prof. Christine Higgins",
+    "role": "Professor of Metalsmithing & Jewelry and Craft Chair",
+    "title": "Professor of Metalsmithing & Jewelry and Craft Chair",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "department": "Department of Metalsmithing & Jewelry",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Metalsmithing & Jewelry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://meca.edu",
+    "bio": "Prof. Christine Higgins is an acclaimed studio jeweler whose wearable artworks explore found materials, electroforming, and contemporary sculptural adornment.",
+    "summary": "Prof. Christine Higgins is an acclaimed studio jeweler whose wearable artworks explore found materials, electroforming, and contemporary sculptural adornment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3879,
+    "name": "Prof. Matt Hutton",
+    "role": "Professor and Program Chair of Woodworking & Furniture Design",
+    "title": "Professor and Program Chair of Woodworking & Furniture Design",
+    "university": "Maine College of Art & Design",
+    "country": "United States",
+    "department": "Department of Woodworking & Furniture Design",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Woodworking & Furniture Design"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://meca.edu",
+    "bio": "Prof. Matt Hutton is an award-winning furniture designer whose work blends traditional steam bending, CNC digital fabrication, and architectural furniture craft.",
+    "summary": "Prof. Matt Hutton is an award-winning furniture designer whose work blends traditional steam bending, CNC digital fabrication, and architectural furniture craft.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3880,
+    "name": "Dr. Stacy H. Young",
+    "role": "President and Higher Education Strategist",
+    "title": "President and Higher Education Strategist",
+    "university": "Manchester University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.manchester.edu",
+    "bio": "Dr. Stacy H. Young became President of Manchester University in 2023, championing campus vitality, health sciences expansion in Fort Wayne, and student-centered career pipelines.",
+    "summary": "Dr. Stacy H. Young became President of Manchester University in 2023, championing campus vitality, health sciences expansion in Fort Wayne, and student-centered career pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3881,
+    "name": "Dr. W. Thomas Smith",
+    "role": "Dean of Pharmacy and Professor of Pharmaceutical Sciences",
+    "title": "Dean of Pharmacy and Professor of Pharmaceutical Sciences",
+    "university": "Manchester University",
+    "country": "United States",
+    "department": "College of Pharmacy, Natural & Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Pharmacy, Natural & Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.manchester.edu",
+    "bio": "Dr. W. Thomas Smith is a pharmacist and legal scholar whose research focuses on pharmacy regulatory law, pharmacogenomics clinical implementation, and healthcare disparities.",
+    "summary": "Dr. W. Thomas Smith is a pharmacist and legal scholar whose research focuses on pharmacy regulatory law, pharmacogenomics clinical implementation, and healthcare disparities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3882,
+    "name": "Dr. Katy Gray Brown",
+    "role": "Professor of Philosophy and Peace Studies and Program Director",
+    "title": "Professor of Philosophy and Peace Studies and Program Director",
+    "university": "Manchester University",
+    "country": "United States",
+    "department": "Department of Philosophy and Religious Studies, Peace Studies Institute",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Philosophy and Religious Studies, Peace Studies Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.manchester.edu",
+    "bio": "Dr. Katy Gray Brown specializes in nonviolent social change, peace theory, restorative justice practices, and indigenous human rights movements.",
+    "summary": "Dr. Katy Gray Brown specializes in nonviolent social change, peace theory, restorative justice practices, and indigenous human rights movements.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3883,
+    "name": "Dr. Steven Crowther",
+    "role": "President and Professor of Leadership",
+    "title": "President and Professor of Leadership",
+    "university": "Manna University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://manna.edu",
+    "bio": "Dr. Steven Crowther has served as President of Manna University since 2013, authoring works on biblical leadership models, strategic foresight, and organizational renewal.",
+    "summary": "Dr. Steven Crowther has served as President of Manna University since 2013, authoring works on biblical leadership models, strategic foresight, and organizational renewal.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3884,
+    "name": "Dr. Kimberly Parker",
+    "role": "Dean of the School of Christian Counseling",
+    "title": "Dean of the School of Christian Counseling",
+    "university": "Manna University",
+    "country": "United States",
+    "department": "School of Christian Counseling",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Christian Counseling"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://manna.edu",
+    "bio": "Dr. Kimberly Parker specializes in marriage and family systems, trauma-informed clinical care, and the integration of faith and evidence-based psychotherapy.",
+    "summary": "Dr. Kimberly Parker specializes in marriage and family systems, trauma-informed clinical care, and the integration of faith and evidence-based psychotherapy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3885,
+    "name": "Dr. Rick Higgins",
+    "role": "Professor of Intercultural Studies and Missions Director",
+    "title": "Professor of Intercultural Studies and Missions Director",
+    "university": "Manna University",
+    "country": "United States",
+    "department": "College of Divinity",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Divinity"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://manna.edu",
+    "bio": "Dr. Rick Higgins researches cross-cultural communication, global diaspora ministries, and community development frameworks in developing nations.",
+    "summary": "Dr. Rick Higgins researches cross-cultural communication, global diaspora ministries, and community development frameworks in developing nations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3886,
+    "name": "Dr. Aaron Sadoff",
+    "role": "President and Educational Leadership Scholar",
+    "title": "President and Educational Leadership Scholar",
+    "university": "Marian University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marianuniversity.edu",
+    "bio": "Dr. Aaron Sadoff took office as President of Marian University in 2024, focusing on student-centered career outcomes, nursing workforce partnerships, and regional community vitality.",
+    "summary": "Dr. Aaron Sadoff took office as President of Marian University in 2024, focusing on student-centered career outcomes, nursing workforce partnerships, and regional community vitality.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3887,
+    "name": "Dr. Kimberly Udlis",
+    "role": "Dean of the School of Nursing and Health Professions",
+    "title": "Dean of the School of Nursing and Health Professions",
+    "university": "Marian University",
+    "country": "United States",
+    "department": "School of Nursing and Health Professions",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing and Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marianuniversity.edu",
+    "bio": "Dr. Kimberly Udlis is an advanced practice nurse and healthcare educator specializing in healthcare simulation design, clinical competency modeling, and rural nursing retention.",
+    "summary": "Dr. Kimberly Udlis is an advanced practice nurse and healthcare educator specializing in healthcare simulation design, clinical competency modeling, and rural nursing retention.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3888,
+    "name": "Prof. Jeffrey Reed",
+    "role": "Associate Professor of Criminal Justice and Forensic Science Program Director",
+    "title": "Associate Professor of Criminal Justice and Forensic Science Program Director",
+    "university": "Marian University",
+    "country": "United States",
+    "department": "Department of Criminal Justice and Forensic Science",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Criminal Justice and Forensic Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marianuniversity.edu",
+    "bio": "Prof. Jeffrey Reed is a former law enforcement forensic investigator researching crime scene reconstruction techniques, bloodstain pattern analysis, and expert witness courtroom testimony.",
+    "summary": "Prof. Jeffrey Reed is a former law enforcement forensic investigator researching crime scene reconstruction techniques, bloodstain pattern analysis, and expert witness courtroom testimony.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3889,
+    "name": "Dr. Kimo Ah Yun",
+    "role": "President and Communication Scholar",
+    "title": "President and Communication Scholar",
+    "university": "Marquette University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marquette.edu",
+    "bio": "Dr. Kimo Ah Yun became the 25th President of Marquette University in 2024, guiding the university's academic excellence, healthcare research initiatives, and Jesuit mission.",
+    "summary": "Dr. Kimo Ah Yun became the 25th President of Marquette University in 2024, guiding the university's academic excellence, healthcare research initiatives, and Jesuit mission.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3890,
+    "name": "Dr. Kristina Ropella",
+    "role": "Opus Dean of the Opus College of Engineering and Professor of Biomedical Engineering",
+    "title": "Opus Dean of the Opus College of Engineering and Professor of Biomedical Engineering",
+    "university": "Marquette University",
+    "country": "United States",
+    "department": "Opus College of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Opus College of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marquette.edu",
+    "bio": "Dr. Kristina Ropella is an internationally recognized leader in biomedical engineering education, neural signal processing, functional MRI, and bioelectric cardiac phenomenon.",
+    "summary": "Dr. Kristina Ropella is an internationally recognized leader in biomedical engineering education, neural signal processing, functional MRI, and bioelectric cardiac phenomenon.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3891,
+    "name": "Prof. Paul M. Anderson",
+    "role": "Director of the National Sports Law Institute and Professor of Law",
+    "title": "Director of the National Sports Law Institute and Professor of Law",
+    "university": "Marquette University",
+    "country": "United States",
+    "department": "Marquette University Law School",
+    "subject": "social-sciences",
+    "topics": [
+      "Marquette University Law School"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.marquette.edu",
+    "bio": "Prof. Paul M. Anderson is a leading authority on sports law, antitrust regulation in professional sports leagues, intellectual property in athletics, and student-athlete rights.",
+    "summary": "Prof. Paul M. Anderson is a leading authority on sports law, antitrust regulation in professional sports leagues, intellectual property in athletics, and student-athlete rights.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3892,
+    "name": "Dr. Sarah Adams",
+    "role": "Director of Education and Allied Health Administrator",
+    "title": "Director of Education and Allied Health Administrator",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicalcareerandtechnicalcollege.edu",
+    "bio": "Dr. Sarah Adams directs academic curricula and programmatic accreditation at MCTC, overseeing clinical affiliate agreements and modernizing healthcare simulation technology.",
+    "summary": "Dr. Sarah Adams directs academic curricula and programmatic accreditation at MCTC, overseeing clinical affiliate agreements and modernizing healthcare simulation technology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3893,
+    "name": "Prof. Lisa Miller",
+    "role": "Diagnostic Medical Sonography Program Director",
+    "title": "Diagnostic Medical Sonography Program Director",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "department": "Department of Diagnostic Medical Sonography",
+    "subject": "biology",
+    "topics": [
+      "Department of Diagnostic Medical Sonography"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicalcareerandtechnicalcollege.edu",
+    "bio": "Prof. Lisa Miller is a registered diagnostic medical sonographer (RDMS) specializing in high-risk obstetrical ultrasound, vascular doppler diagnostics, and clinical education standards.",
+    "summary": "Prof. Lisa Miller is a registered diagnostic medical sonographer (RDMS) specializing in high-risk obstetrical ultrasound, vascular doppler diagnostics, and clinical education standards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3894,
+    "name": "Prof. Brenda Collins",
+    "role": "Practical Nursing Program Coordinator",
+    "title": "Practical Nursing Program Coordinator",
+    "university": "Medical Career & Technical College",
+    "country": "United States",
+    "department": "Department of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Department of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicalcareerandtechnicalcollege.edu",
+    "bio": "Prof. Brenda Collins is a veteran nurse educator who oversees clinical nursing instruction, pharmacology administration protocols, and NCLEX-PN exam readiness in Kentucky.",
+    "summary": "Prof. Brenda Collins is a veteran nurse educator who oversees clinical nursing instruction, pharmacology administration protocols, and NCLEX-PN exam readiness in Kentucky.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3895,
+    "name": "Dr. David J. Cole",
+    "role": "President and Surgical Oncologist",
+    "title": "President and Surgical Oncologist",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "department": "Office of the President and Department of Surgery",
+    "subject": "biology",
+    "topics": [
+      "Office of the President and Department of Surgery"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://web.musc.edu",
+    "bio": "Dr. David J. Cole has served as President of MUSC since 2014, leading statewide hospital system acquisitions, biomedical research growth, and modern health science facilities construction.",
+    "summary": "Dr. David J. Cole has served as President of MUSC since 2014, leading statewide hospital system acquisitions, biomedical research growth, and modern health science facilities construction.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3896,
+    "name": "Dr. Raymond N. DuBois",
+    "role": "Director of Hollings Cancer Center and Professor of Biochemistry",
+    "title": "Director of Hollings Cancer Center and Professor of Biochemistry",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "department": "Hollings Cancer Center",
+    "subject": "biology",
+    "topics": [
+      "Hollings Cancer Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://web.musc.edu",
+    "bio": "Dr. Raymond N. DuBois is an internationally recognized physician-scientist and National Academy of Medicine member whose research elucidated the role of prostaglandins and COX-2 in colorectal cancer.",
+    "summary": "Dr. Raymond N. DuBois is an internationally recognized physician-scientist and National Academy of Medicine member whose research elucidated the role of prostaglandins and COX-2 in colorectal cancer.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3897,
+    "name": "Dr. Mark S. George",
+    "role": "Professor of Psychiatry, Radiology, and Neurosciences",
+    "title": "Professor of Psychiatry, Radiology, and Neurosciences",
+    "university": "Medical University of South Carolina",
+    "country": "United States",
+    "department": "Department of Psychiatry and Behavioral Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Psychiatry and Behavioral Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://web.musc.edu",
+    "bio": "Dr. Mark S. George is a global pioneer in transcranial magnetic stimulation (TMS), conducting groundbreaking research in neurostimulation treatments for depression, pain, and neurological disorders.",
+    "summary": "Dr. Mark S. George is a global pioneer in transcranial magnetic stimulation (TMS), conducting groundbreaking research in neurostimulation treatments for depression, pain, and neurological disorders.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3898,
+    "name": "Dr. Virginia Arthur",
+    "role": "President and Legal Scholar",
+    "title": "President and Legal Scholar",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Virginia Arthur has served as President of Metropolitan State University since 2016, driving urban educational equity, establishing the Minnesota Cyber Range, and expanding workforce partnerships.",
+    "summary": "Dr. Virginia Arthur has served as President of Metropolitan State University since 2016, driving urban educational equity, establishing the Minnesota Cyber Range, and expanding workforce partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3899,
+    "name": "Dr. Faisal Kaleem",
+    "role": "Professor of Cybersecurity and Director of the Minnesota Cyber Range",
+    "title": "Professor of Cybersecurity and Director of the Minnesota Cyber Range",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "Department of Computer Science and Cybersecurity",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Cybersecurity"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Faisal Kaleem is an NSA/DHS-recognized cybersecurity educator specializing in mobile device security, industrial control system (ICS) protection, and hands-on cyber defense gamification.",
+    "summary": "Dr. Faisal Kaleem is an NSA/DHS-recognized cybersecurity educator specializing in mobile device security, industrial control system (ICS) protection, and hands-on cyber defense gamification.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3900,
+    "name": "Dr. Carol Bormann Young",
+    "role": "Dean of the College of Management and Professor of Human Resources",
+    "title": "Dean of the College of Management and Professor of Human Resources",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "College of Management",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Management"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Carol Bormann Young conducts research on organizational change leadership, strategic human capital management, and workplace equity in corporate Twin Cities environments.",
+    "summary": "Dr. Carol Bormann Young conducts research on organizational change leadership, strategic human capital management, and workplace equity in corporate Twin Cities environments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3901,
+    "name": "Dr. Charles J. Gibbons",
+    "role": "President and Educational Reform Leader",
+    "title": "President and Educational Reform Leader",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mcny.edu",
+    "bio": "Dr. Charles J. Gibbons serves as President of Metropolitan College of New York, championing Purpose-Centered Education, adult learner degree completion, and urban community leadership.",
+    "summary": "Dr. Charles J. Gibbons serves as President of Metropolitan College of New York, championing Purpose-Centered Education, adult learner degree completion, and urban community leadership.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3902,
+    "name": "Dr. Joanne Ardovini",
+    "role": "Dean of Academic Affairs and Professor of Sociology",
+    "title": "Dean of Academic Affairs and Professor of Sociology",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mcny.edu",
+    "bio": "Dr. Joanne Ardovini specializes in feminist pedagogical methods, restorative social justice, and aligning experiential Constructive Action projects with community needs.",
+    "summary": "Dr. Joanne Ardovini specializes in feminist pedagogical methods, restorative social justice, and aligning experiential Constructive Action projects with community needs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3903,
+    "name": "Prof. Ali Gheith",
+    "role": "Director of the Emergency and Disaster Management MPA Program",
+    "title": "Director of the Emergency and Disaster Management MPA Program",
+    "university": "Metropolitan College of New York",
+    "country": "United States",
+    "department": "School for Public Affairs and Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "School for Public Affairs and Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mcny.edu",
+    "bio": "Prof. Ali Gheith is an expert in catastrophic disaster incident management, psychosocial trauma recovery, and municipal emergency response coordination in New York City.",
+    "summary": "Prof. Ali Gheith is an expert in catastrophic disaster incident management, psychosocial trauma recovery, and municipal emergency response coordination in New York City.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3904,
+    "name": "Dr. Janine Davidson",
+    "role": "President and National Defense Scholar",
+    "title": "President and National Defense Scholar",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msudenver.edu",
+    "bio": "Dr. Janine Davidson, former Under Secretary of the United States Navy and Air Force pilot, has served as President of MSU Denver since 2017, elevating aerospace partnerships and workforce equity.",
+    "summary": "Dr. Janine Davidson, former Under Secretary of the United States Navy and Air Force pilot, has served as President of MSU Denver since 2017, elevating aerospace partnerships and workforce equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3905,
+    "name": "Dr. Jeffrey Forrest",
+    "role": "Chair and Professor of Aviation and Aerospace Science",
+    "title": "Chair and Professor of Aviation and Aerospace Science",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "department": "Department of Aviation and Aerospace Science",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aviation and Aerospace Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msudenver.edu",
+    "bio": "Dr. Jeffrey Forrest is an aerospace scientist researching human factors in aviation safety, automated cockpit workload ergonomics, and commercial spaceflight integration.",
+    "summary": "Dr. Jeffrey Forrest is an aerospace scientist researching human factors in aviation safety, automated cockpit workload ergonomics, and commercial spaceflight integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3906,
+    "name": "Prof. Scott Kerkmans",
+    "role": "Professor of Brewing Operations and Master Cicerone",
+    "title": "Professor of Brewing Operations and Master Cicerone",
+    "university": "Metropolitan State University of Denver",
+    "country": "United States",
+    "department": "School of Hospitality, Brewing Operations",
+    "subject": "chemistry",
+    "topics": [
+      "School of Hospitality, Brewing Operations"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msudenver.edu",
+    "bio": "Prof. Scott Kerkmans was one of the world's first Master Cicerones, leading research in craft beer sensory evaluation, hop volatile chemistry, and sustainable brewery engineering.",
+    "summary": "Prof. Scott Kerkmans was one of the world's first Master Cicerones, leading research in craft beer sensory evaluation, hop volatile chemistry, and sustainable brewery engineering.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3907,
+    "name": "Dr. Kevin M. Guskiewicz",
+    "role": "President and Neuroscientist",
+    "title": "President and Neuroscientist",
+    "university": "Michigan State University",
+    "country": "United States",
+    "department": "Office of the President and Department of Kinesiology",
+    "subject": "biology",
+    "topics": [
+      "Office of the President and Department of Kinesiology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://msu.edu",
+    "bio": "Dr. Kevin M. Guskiewicz, a MacArthur Fellow and neuroscientist renowned for sports concussion research, assumed the presidency of Michigan State University in 2024.",
+    "summary": "Dr. Kevin M. Guskiewicz, a MacArthur Fellow and neuroscientist renowned for sports concussion research, assumed the presidency of Michigan State University in 2024.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3908,
+    "name": "Dr. Thomas Glasmacher",
+    "role": "Director of the Facility for Rare Isotope Beams (FRIB) and Professor of Physics",
+    "title": "Director of the Facility for Rare Isotope Beams (FRIB) and Professor of Physics",
+    "university": "Michigan State University",
+    "country": "United States",
+    "department": "Facility for Rare Isotope Beams and Department of Physics and Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Facility for Rare Isotope Beams and Department of Physics and Astronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://msu.edu",
+    "bio": "Dr. Thomas Glasmacher is an experimental nuclear physicist who led the design and construction of the $730M FRIB linear accelerator, advancing research into the fundamental building blocks of atomic nuclei.",
+    "summary": "Dr. Thomas Glasmacher is an experimental nuclear physicist who led the design and construction of the $730M FRIB linear accelerator, advancing research into the fundamental building blocks of atomic nuclei.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3909,
+    "name": "Dr. David Closs",
+    "role": "John H. McConnell Chaired Professor Emeritus of Supply Chain Management",
+    "title": "John H. McConnell Chaired Professor Emeritus of Supply Chain Management",
+    "university": "Michigan State University",
+    "country": "United States",
+    "department": "Department of Supply Chain Management, Eli Broad College of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Supply Chain Management, Eli Broad College of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://msu.edu",
+    "bio": "Dr. David Closs is a world-renowned authority on global logistics optimization, supply chain security strategies, and enterprise resource modeling.",
+    "summary": "Dr. David Closs is a world-renowned authority on global logistics optimization, supply chain security strategies, and enterprise resource modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3910,
+    "name": "Dr. Sidney A. McPhee",
+    "role": "President and International Education Leader",
+    "title": "President and International Education Leader",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtsu.edu",
+    "bio": "Dr. Sidney A. McPhee has served as President of MTSU since 2001, overseeing more than $1 billion in campus construction, elevating aerospace and science programs, and expanding global partnerships.",
+    "summary": "Dr. Sidney A. McPhee has served as President of MTSU since 2001, overseeing more than $1 billion in campus construction, elevating aerospace and science programs, and expanding global partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3911,
+    "name": "Prof. Beverly Keel",
+    "role": "Dean of the College of Media and Entertainment",
+    "title": "Dean of the College of Media and Entertainment",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "department": "College of Media and Entertainment",
+    "subject": "arts-design",
+    "topics": [
+      "College of Media and Entertainment"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtsu.edu",
+    "bio": "Prof. Beverly Keel is a music journalist, recording executive, and advocate who has led the College of Media and Entertainment, expanding Dolby Atmos facilities and industry mentorship.",
+    "summary": "Prof. Beverly Keel is a music journalist, recording executive, and advocate who has led the College of Media and Entertainment, expanding Dolby Atmos facilities and industry mentorship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3912,
+    "name": "Dr. Heather J. Brown",
+    "role": "Professor and Former Chair of Concrete Industry Management",
+    "title": "Professor and Former Chair of Concrete Industry Management",
+    "university": "Middle Tennessee State University",
+    "country": "United States",
+    "department": "School of Concrete and Construction Management",
+    "subject": "engineering",
+    "topics": [
+      "School of Concrete and Construction Management"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mtsu.edu",
+    "bio": "Dr. Heather J. Brown is a national authority in sustainable concrete materials, bio-based aggregate replacements, permeable pavements, and civil infrastructure durability.",
+    "summary": "Dr. Heather J. Brown is a national authority in sustainable concrete materials, bio-based aggregate replacements, permeable pavements, and civil infrastructure durability.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3913,
+    "name": "Dr. Jody Horner",
+    "role": "President and Corporate Leadership Scholar",
+    "title": "President and Corporate Leadership Scholar",
+    "university": "Midland University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midlandu.edu",
+    "bio": "Dr. Jody Horner has served as President of Midland University since 2015, establishing the Omaha location, growing graduate programs, and spearheading innovative career readiness models.",
+    "summary": "Dr. Jody Horner has served as President of Midland University since 2015, establishing the Omaha location, growing graduate programs, and spearheading innovative career readiness models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3914,
+    "name": "Dr. Courtney Wilder",
+    "role": "Professor of Religion and Philosophy and Humanities Division Chair",
+    "title": "Professor of Religion and Philosophy and Humanities Division Chair",
+    "university": "Midland University",
+    "country": "United States",
+    "department": "Department of Religion and Philosophy",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Religion and Philosophy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midlandu.edu",
+    "bio": "Dr. Courtney Wilder investigates bioethics, disability studies in theological contexts, and philosophical ethics in professional healthcare practice.",
+    "summary": "Dr. Courtney Wilder investigates bioethics, disability studies in theological contexts, and philosophical ethics in professional healthcare practice.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3915,
+    "name": "Prof. Linda Quinn",
+    "role": "Dean of the School of Nursing",
+    "title": "Dean of the School of Nursing",
+    "university": "Midland University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midlandu.edu",
+    "bio": "Prof. Linda Quinn is an experienced nurse educator specializing in clinical simulation pedagogy, rural hospital partnerships, and high-stakes NCLEX-RN board preparation.",
+    "summary": "Prof. Linda Quinn is an experienced nurse educator specializing in clinical simulation pedagogy, rural hospital partnerships, and high-stakes NCLEX-RN board preparation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3916,
+    "name": "Dr. John P. Marsden",
+    "role": "President and Higher Education Executive",
+    "title": "President and Higher Education Executive",
+    "university": "Midway University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midway.edu",
+    "bio": "Dr. John P. Marsden has served as President of Midway University since 2013, overseeing historic coeducational transition, enrollment records, new athletic facilities, and equine campus expansions.",
+    "summary": "Dr. John P. Marsden has served as President of Midway University since 2013, overseeing historic coeducational transition, enrollment records, new athletic facilities, and equine campus expansions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3917,
+    "name": "Dr. Mark Morrison",
+    "role": "Vice President of Academic Affairs",
+    "title": "Vice President of Academic Affairs",
+    "university": "Midway University",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midway.edu",
+    "bio": "Dr. Mark Morrison leads academic curriculum strategy, accreditation standards, and institutional articulation agreements across healthcare and equine business disciplines.",
+    "summary": "Dr. Mark Morrison leads academic curriculum strategy, accreditation standards, and institutional articulation agreements across healthcare and equine business disciplines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3918,
+    "name": "Prof. Janice L. Cecil",
+    "role": "Director of Equine Studies and Associate Professor",
+    "title": "Director of Equine Studies and Associate Professor",
+    "university": "Midway University",
+    "country": "United States",
+    "department": "Department of Equine Studies",
+    "subject": "biology",
+    "topics": [
+      "Department of Equine Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.midway.edu",
+    "bio": "Prof. Janice L. Cecil specializes in equine biomechanics, hunt seat and western equitation instruction, and thoroughbred racehorse retirement and retraining protocols.",
+    "summary": "Prof. Janice L. Cecil specializes in equine biomechanics, hunt seat and western equitation instruction, and thoroughbred racehorse retirement and retraining protocols.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3919,
+    "name": "Dr. Tim Downs",
+    "role": "President and Educational Leadership Scholar",
+    "title": "President and Educational Leadership Scholar",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnstate.edu",
+    "bio": "Dr. Tim Downs was appointed President of Minnesota State University Moorhead in 2023, championing workforce alignment in biotechnology and digital media, student retention, and regional economic partnerships.",
+    "summary": "Dr. Tim Downs was appointed President of Minnesota State University Moorhead in 2023, championing workforce alignment in biotechnology and digital media, student retention, and regional economic partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3920,
+    "name": "Prof. Kyja Kristjansson-Nelson",
+    "role": "Chair and Professor of Art and Animation",
+    "title": "Chair and Professor of Art and Animation",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "department": "School of Art",
+    "subject": "arts-design",
+    "topics": [
+      "School of Art"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnstate.edu",
+    "bio": "Prof. Kyja Kristjansson-Nelson is an award-winning filmmaker and animator whose experimental films have screened internationally at major film festivals and contemporary art museums.",
+    "summary": "Prof. Kyja Kristjansson-Nelson is an award-winning filmmaker and animator whose experimental films have screened internationally at major film festivals and contemporary art museums.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3921,
+    "name": "Dr. Sumali Pandey",
+    "role": "Associate Professor of Bioscience and Biotechnology Coordinator",
+    "title": "Associate Professor of Bioscience and Biotechnology Coordinator",
+    "university": "Minnesota State University Moorhead",
+    "country": "United States",
+    "department": "Department of Bioscience",
+    "subject": "biology",
+    "topics": [
+      "Department of Bioscience"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnstate.edu",
+    "bio": "Dr. Sumali Pandey conducts research on mucosal immunology, infectious disease host-pathogen interactions, and pedagogical methodologies in undergraduate STEM education.",
+    "summary": "Dr. Sumali Pandey conducts research on mucosal immunology, infectious disease host-pathogen interactions, and pedagogical methodologies in undergraduate STEM education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3922,
+    "name": "Dr. Edward Inch",
+    "role": "President and Communication Scholar",
+    "title": "President and Communication Scholar",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnsu.edu",
+    "bio": "Dr. Edward Inch has served as President of Minnesota State University, Mankato since 2021, leading strategic initiatives in student belonging, regional STEM workforce alignment, and research innovation.",
+    "summary": "Dr. Edward Inch has served as President of Minnesota State University, Mankato since 2021, leading strategic initiatives in student belonging, regional STEM workforce alignment, and research innovation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3923,
+    "name": "Dr. Patrick Tebbe",
+    "role": "Chair and Professor of Mechanical and Civil Engineering",
+    "title": "Chair and Professor of Mechanical and Civil Engineering",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "department": "Department of Mechanical and Civil Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical and Civil Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnsu.edu",
+    "bio": "Dr. Patrick Tebbe specializes in thermal-fluid systems, multiphase flow dynamics, renewable energy integration, and engineering education pedagogy.",
+    "summary": "Dr. Patrick Tebbe specializes in thermal-fluid systems, multiphase flow dynamics, renewable energy integration, and engineering education pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3924,
+    "name": "Prof. Gary Wertish",
+    "role": "Associate Professor and Aviation Program Coordinator",
+    "title": "Associate Professor and Aviation Program Coordinator",
+    "university": "Minnesota State University, Mankato",
+    "country": "United States",
+    "department": "Department of Aviation",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aviation"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mnsu.edu",
+    "bio": "Prof. Gary Wertish is an experienced airline pilot and flight educator directing flight training safety standards, airline pipeline partnerships, and flight simulator technologies.",
+    "summary": "Prof. Gary Wertish is an experienced airline pilot and flight educator directing flight training safety standards, airline pipeline partnerships, and flight simulator technologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3925,
+    "name": "Dr. Mohammad Dehghani",
+    "role": "Chancellor and Mechanical Engineer",
+    "title": "Chancellor and Mechanical Engineer",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "engineering",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mst.edu",
+    "bio": "Dr. Mohammad Dehghani has served as Chancellor of Missouri S&T since 2019, securing the historic $300M Kummer gift, expanding research infrastructure, and elevating STEM graduation rates.",
+    "summary": "Dr. Mohammad Dehghani has served as Chancellor of Missouri S&T since 2019, securing the historic $300M Kummer gift, expanding research infrastructure, and elevating STEM graduation rates.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3926,
+    "name": "Dr. Gregory Hilmas",
+    "role": "Curators’ Distinguished Professor of Ceramic Engineering",
+    "title": "Curators’ Distinguished Professor of Ceramic Engineering",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "department": "Department of Materials Science and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Materials Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mst.edu",
+    "bio": "Dr. Gregory Hilmas is a globally recognized authority in ultra-high-temperature ceramics (UHTCs), processing of refractory borides and carbides, and mechanical testing of materials under extreme environments.",
+    "summary": "Dr. Gregory Hilmas is a globally recognized authority in ultra-high-temperature ceramics (UHTCs), processing of refractory borides and carbides, and mechanical testing of materials under extreme environments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3927,
+    "name": "Dr. Paul Worsey",
+    "role": "Professor Emeritus of Mining and Explosives Engineering",
+    "title": "Professor Emeritus of Mining and Explosives Engineering",
+    "university": "Missouri University of Science and Technology",
+    "country": "United States",
+    "department": "Department of Mining and Explosives Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mining and Explosives Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mst.edu",
+    "bio": "Dr. Paul Worsey is an internationally celebrated explosives engineer who founded the nation's premier degree programs in explosives engineering and directed the S&T Experimental Mine.",
+    "summary": "Dr. Paul Worsey is an internationally celebrated explosives engineer who founded the nation's premier degree programs in explosives engineering and directed the S&T Experimental Mine.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3928,
+    "name": "Dr. Dean Van Galen",
+    "role": "President and Professor of Chemistry",
+    "title": "President and Professor of Chemistry",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "chemistry",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mssu.edu",
+    "bio": "Dr. Dean Van Galen serves as the 6th president of MSSU, specializing in environmental chemistry, higher education strategic transformation, and regional healthcare workforce partnerships.",
+    "summary": "Dr. Dean Van Galen serves as the 6th president of MSSU, specializing in environmental chemistry, higher education strategic transformation, and regional healthcare workforce partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3929,
+    "name": "Dr. Teresa Boman",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "department": "Department of Biology and Environmental Health",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology and Environmental Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mssu.edu",
+    "bio": "Dr. Teresa Boman leads investigations into cellular biology, mammalian anatomy, and pedagogical innovations in undergraduate biomedical education.",
+    "summary": "Dr. Teresa Boman leads investigations into cellular biology, mammalian anatomy, and pedagogical innovations in undergraduate biomedical education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3930,
+    "name": "Dr. Michael Garoutte",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "Missouri Southern State University",
+    "country": "United States",
+    "department": "Department of Chemical and Physical Sciences",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemical and Physical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mssu.edu",
+    "bio": "Dr. Michael Garoutte is a renowned chemical educator and researcher recognized nationally for Process Oriented Guided Inquiry Learning (POGIL) methodologies in biochemistry.",
+    "summary": "Dr. Michael Garoutte is a renowned chemical educator and researcher recognized nationally for Process Oriented Guided Inquiry Learning (POGIL) methodologies in biochemistry.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3931,
+    "name": "Dr. Richard B. Biagioni",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "Missouri State University",
+    "country": "United States",
+    "department": "Department of Chemistry and Biochemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry and Biochemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.missouristate.edu",
+    "bio": "Dr. Richard Biagioni focuses on physical chemistry, molecular spectroscopy, chemical kinetics, and undergraduate computational chemical research.",
+    "summary": "Dr. Richard Biagioni focuses on physical chemistry, molecular spectroscopy, chemical kinetics, and undergraduate computational chemical research.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3932,
+    "name": "Dr. Razib Iqbal",
+    "role": "Associate Professor and Graduate Coordinator of Computer Science",
+    "title": "Associate Professor and Graduate Coordinator of Computer Science",
+    "university": "Missouri State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.missouristate.edu",
+    "bio": "Dr. Razib Iqbal directs research in the Internet of Things (IoT), smart city cyber-physical systems, multimedia protocols, and AI-enabled edge device orchestration.",
+    "summary": "Dr. Razib Iqbal directs research in the Internet of Things (IoT), smart city cyber-physical systems, multimedia protocols, and AI-enabled edge device orchestration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3933,
+    "name": "Dr. Kyoungtae Kim",
+    "role": "Associate Dean and Professor of Biology",
+    "title": "Associate Dean and Professor of Biology",
+    "university": "Missouri State University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.missouristate.edu",
+    "bio": "Dr. Kyoungtae Kim conducts cutting-edge research in intracellular membrane trafficking, endocytosis mechanisms, yeast genetics, and the biomedical impacts of nanomaterials.",
+    "summary": "Dr. Kyoungtae Kim conducts cutting-edge research in intracellular membrane trafficking, endocytosis mechanisms, yeast genetics, and the biomedical impacts of nanomaterials.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3934,
+    "name": "Dr. C. Mauli Agrawal",
+    "role": "Chancellor and Professor of Biomedical Engineering",
+    "title": "Chancellor and Professor of Biomedical Engineering",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "department": "School of Science and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "School of Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umkc.edu",
+    "bio": "Dr. C. Mauli Agrawal is Chancellor of UMKC and an internationally recognized biomaterials innovator with numerous patents in tissue scaffolds and orthopedic implants.",
+    "summary": "Dr. C. Mauli Agrawal is Chancellor of UMKC and an internationally recognized biomaterials innovator with numerous patents in tissue scaffolds and orthopedic implants.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3935,
+    "name": "Dr. ZhiQiang Chen",
+    "role": "Professor of Civil Engineering and Computer Science",
+    "title": "Professor of Civil Engineering and Computer Science",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "department": "Department of Civil and Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Civil and Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umkc.edu",
+    "bio": "Dr. ZhiQiang Chen focuses on computer vision for infrastructure monitoring, structural health diagnosis, robotic inspection of bridges, and disaster resilience analytics.",
+    "summary": "Dr. ZhiQiang Chen focuses on computer vision for infrastructure monitoring, structural health diagnosis, robotic inspection of bridges, and disaster resilience analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3936,
+    "name": "Dr. Kun Cheng",
+    "role": "Curators' Distinguished Professor of Pharmaceutical Sciences",
+    "title": "Curators' Distinguished Professor of Pharmaceutical Sciences",
+    "university": "University of Missouri-Kansas City",
+    "country": "United States",
+    "department": "Division of Pharmacology and Pharmaceutical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Pharmacology and Pharmaceutical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umkc.edu",
+    "bio": "Dr. Kun Cheng is a leading investigator in non-viral gene delivery platforms, therapeutic peptide engineering, and antibody-drug conjugates for targeted cancer therapies.",
+    "summary": "Dr. Kun Cheng is a leading investigator in non-viral gene delivery platforms, therapeutic peptide engineering, and antibody-drug conjugates for targeted cancer therapies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3937,
+    "name": "Dr. Joseph A. Parisi",
+    "role": "President of Missouri Valley College",
+    "title": "President of Missouri Valley College",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Joseph A. Parisi leads Missouri Valley College, bringing deep expertise in collegiate athletic administration, student retention strategies, and regional economic revitalization.",
+    "summary": "Dr. Joseph A. Parisi leads Missouri Valley College, bringing deep expertise in collegiate athletic administration, student retention strategies, and regional economic revitalization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3938,
+    "name": "Dr. Terry Wright",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Division of Science and Mathematics",
+    "subject": "biology",
+    "topics": [
+      "Division of Science and Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Terry Wright specializes in vertebrate zoology, aquatic ecology, Missouri freshwater biodiversity, and field ecology mentoring.",
+    "summary": "Dr. Terry Wright specializes in vertebrate zoology, aquatic ecology, Missouri freshwater biodiversity, and field ecology mentoring.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3939,
+    "name": "Dr. Michele Reinke",
+    "role": "Associate Professor of Business Administration",
+    "title": "Associate Professor of Business Administration",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Division of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Michele Reinke conducts research in small enterprise financing, rural entrepreneurship models, and organizational leadership ethics.",
+    "summary": "Dr. Michele Reinke conducts research in small enterprise financing, rural entrepreneurship models, and organizational leadership ethics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3940,
+    "name": "Dr. Dennis Artman",
+    "role": "President of Montana Christian College",
+    "title": "President of Montana Christian College",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://montanacc.edu",
+    "bio": "Dr. Dennis Artman oversees institutional growth, accredited curriculum development, and faith-based community outreach throughout the Flathead Valley.",
+    "summary": "Dr. Dennis Artman oversees institutional growth, accredited curriculum development, and faith-based community outreach throughout the Flathead Valley.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3941,
+    "name": "Prof. Mark Holcomb",
+    "role": "Dean of Academics and Professor of Biblical Literature",
+    "title": "Dean of Academics and Professor of Biblical Literature",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "department": "Department of Biblical Studies",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Biblical Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://montanacc.edu",
+    "bio": "Prof. Mark Holcomb conducts scholarly research in Ancient Near Eastern literature, Greek exegesis, and classical hermeneutics.",
+    "summary": "Prof. Mark Holcomb conducts scholarly research in Ancient Near Eastern literature, Greek exegesis, and classical hermeneutics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3942,
+    "name": "Dr. Sarah Lind",
+    "role": "Associate Professor of Family and Community Studies",
+    "title": "Associate Professor of Family and Community Studies",
+    "university": "Montana Christian College",
+    "country": "United States",
+    "department": "Department of Counseling and Family Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Counseling and Family Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://montanacc.edu",
+    "bio": "Dr. Sarah Lind examines rural adolescent mental health trends, faith-based support networks, and community counseling frameworks across western Montana.",
+    "summary": "Dr. Sarah Lind examines rural adolescent mental health trends, faith-based support networks, and community counseling frameworks across western Montana.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3943,
+    "name": "Dr. Greg Kegel",
+    "role": "Chancellor of Montana State University - Northern",
+    "title": "Chancellor of Montana State University - Northern",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "engineering",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msun.edu",
+    "bio": "Dr. Greg Kegel has led MSU-Northern for over a decade, championing applied diesel research, workforce partnerships with global equipment manufacturers, and bio-energy centers.",
+    "summary": "Dr. Greg Kegel has led MSU-Northern for over a decade, championing applied diesel research, workforce partnerships with global equipment manufacturers, and bio-energy centers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3944,
+    "name": "Dr. Randy Bachmeier",
+    "role": "Dean of the College of Health Sciences and Professor of Education",
+    "title": "Dean of the College of Health Sciences and Professor of Education",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "department": "College of Health Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msun.edu",
+    "bio": "Dr. Randy Bachmeier directs regional health initiatives, rural education pipeline research, and allied healthcare programmatic quality.",
+    "summary": "Dr. Randy Bachmeier directs regional health initiatives, rural education pipeline research, and allied healthcare programmatic quality.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3945,
+    "name": "Dr. Darlene Sellers",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "Montana State University - Northern",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msun.edu",
+    "bio": "Dr. Darlene Sellers specializes in prairie wetland ecosystems, avian conservation biology, and undergraduate biological field methodologies.",
+    "summary": "Dr. Darlene Sellers specializes in prairie wetland ecosystems, avian conservation biology, and undergraduate biological field methodologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3946,
+    "name": "Dr. Stefani Hicswa",
+    "role": "Chancellor of Montana State University Billings",
+    "title": "Chancellor of Montana State University Billings",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msubillings.edu",
+    "bio": "Dr. Stefani Hicswa serves as Chancellor of MSU Billings, leading comprehensive initiatives in healthcare workforce development, urban-tribal partnerships, and student success.",
+    "summary": "Dr. Stefani Hicswa serves as Chancellor of MSU Billings, leading comprehensive initiatives in healthcare workforce development, urban-tribal partnerships, and student success.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3947,
+    "name": "Dr. David Butler",
+    "role": "Professor of Biological and Physical Sciences",
+    "title": "Professor of Biological and Physical Sciences",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "department": "Department of Biological and Physical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Biological and Physical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msubillings.edu",
+    "bio": "Dr. David Butler is an expert in ecological parasitology, aquatic invertebrates of the Yellowstone River Basin, and vector-borne pathogen ecology.",
+    "summary": "Dr. David Butler is an expert in ecological parasitology, aquatic invertebrates of the Yellowstone River Basin, and vector-borne pathogen ecology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 3948,
+    "name": "Dr. Matthew Queen",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "Montana State University Billings",
+    "country": "United States",
+    "department": "Department of Biological and Physical Sciences",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Biological and Physical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msubillings.edu",
+    "bio": "Dr. Matthew Queen conducts research in bioinorganic chemistry, heavy metal remediation in agricultural watersheds, and metalloprotein spectroscopy.",
+    "summary": "Dr. Matthew Queen conducts research in bioinorganic chemistry, heavy metal remediation in agricultural watersheds, and metalloprotein spectroscopy.",
     "reviewed": "2026-10-16"
   }
 ];
