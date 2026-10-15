@@ -12,33 +12,32 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 65,
+  "cycle": 66,
   "completedInCycle": [
     "canada",
     "germany",
     "italy",
     "usa",
-    "uk",
     "japan",
     "netherlands"
   ],
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "TU Eindhoven - University Racing Eindhoven (URE) Innovation Hub",
-    "sourceRow": 1533
+    "university": "Vechtdal College Ommen - Pre-University Science & Ecological Center",
+    "sourceRow": 1538
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 104,
+    "canada": 109,
     "australia": 57,
-    "germany": 111,
-    "italy": 103,
-    "usa": 112,
+    "germany": 116,
+    "italy": 108,
+    "usa": 117,
     "uk": 100,
-    "japan": 104,
+    "japan": 109,
     "sweden": 56,
-    "netherlands": 102,
+    "netherlands": 107,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
