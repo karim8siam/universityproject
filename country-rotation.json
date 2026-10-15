@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 82,
+  "cycle": 83,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "St. John's University Manhattan Campus",
-    "sourceRow": 968
+    "university": "The George Washington University",
+    "sourceRow": 1003
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 395,
+    "usa": 425,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
