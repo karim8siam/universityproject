@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 73,
+  "cycle": 74,
   "completedInCycle": [
     "germany",
     "usa",
@@ -21,18 +21,18 @@
   "nextCountry": "germany",
   "lastPublished": {
     "country": "japan",
-    "university": "Sapporo University of Health Sciences",
-    "sourceRow": 1743
+    "university": "Takarazuka University Tokyo Shinjuku Campus",
+    "sourceRow": 1755
   },
   "skipExhausted": true,
   "publishedInCountry": {
     "canada": 116,
     "australia": 57,
-    "germany": 176,
+    "germany": 186,
     "italy": 114,
-    "usa": 175,
+    "usa": 185,
     "uk": 100,
-    "japan": 167,
+    "japan": 177,
     "sweden": 56,
     "netherlands": 121,
     "switzerland": 41
