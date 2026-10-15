@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 61,
+  "cycle": 62,
   "completedInCycle": [
     "canada",
     "germany",
@@ -22,23 +22,23 @@
     "japan",
     "netherlands"
   ],
-  "nextCountry": "canada",
+  "nextCountry": "germany",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Drenthe College (Assen De Haar Campus)",
-    "sourceRow": 1399
+    "university": "Stichting Geert Grote Universiteit (GGU Deventer)",
+    "sourceRow": 1495
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 87,
+    "canada": 92,
     "australia": 57,
-    "germany": 92,
-    "italy": 86,
-    "usa": 93,
-    "uk": 86,
-    "japan": 87,
+    "germany": 96,
+    "italy": 91,
+    "usa": 97,
+    "uk": 90,
+    "japan": 91,
     "sweden": 56,
-    "netherlands": 86,
+    "netherlands": 90,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
