@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 44,
+  "cycle": 47,
   "completedInCycle": [
     "canada",
     "australia",
@@ -27,20 +27,20 @@
   "nextCountry": "canada",
   "lastPublished": {
     "country": "netherlands",
-    "university": "Stenden University Groningen / NHL Stenden",
-    "sourceRow": 1494
+    "university": "Fontys School of the Arts",
+    "sourceRow": 1411
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 45,
-    "australia": 44,
-    "germany": 45,
-    "italy": 44,
-    "usa": 45,
-    "uk": 44,
-    "japan": 45,
-    "sweden": 44,
-    "netherlands": 44,
+    "canada": 48,
+    "australia": 47,
+    "germany": 49,
+    "italy": 47,
+    "usa": 49,
+    "uk": 47,
+    "japan": 49,
+    "sweden": 47,
+    "netherlands": 47,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
