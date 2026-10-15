@@ -242624,6 +242624,5164 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 8967,
+    "title": "Associate of Applied Science in Precision Agriculture",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Hands-on instruction utilizing variable-rate fertilizer applicators, multispectral drone mapping, yield monitoring systems, and GPS RTK tractor guidance at the college farm.",
+    "funding": "Nebraska Career Scholarships providing up to $4,500 per academic year",
+    "tuition": "$3,800/year (In-state) / $4,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.northeast.edu/degrees-and-programs/precision-agriculture",
+    "requirements": {
+      "gpa": "High school diploma or GED with technical aptitude",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Agricultural career goals statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8968,
+    "title": "Associate of Applied Science in Wind Energy Technology",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Training wind turbine technicians in electrical generator maintenance, climb safety, high-voltage substations, and mechanical hydraulic pitch systems.",
+    "funding": "Renewable Energy Workforce Grants of $3,500/year",
+    "tuition": "$3,800/year (In-state) / $4,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.northeast.edu/degrees-and-programs/wind-energy-technology",
+    "requirements": {
+      "gpa": "High school diploma or GED with physical climb capability",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Technical safety agreement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8969,
+    "title": "Associate Degree in Nursing (ADN)",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited nursing program with acute hospital rotations at Faith Regional Health Services and high-fidelity human patient simulation laboratories.",
+    "funding": "Faith Regional Health Services Nursing Grants providing up to $5,000/year",
+    "tuition": "$3,800/year (In-state) / $4,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.northeast.edu/degrees-and-programs/nursing",
+    "requirements": {
+      "gpa": "2.7 GPA in prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing statement of intent and TEAS score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8970,
+    "title": "Associate of Applied Science in Veterinary Technology",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "AVMA-accredited clinical curriculum in veterinary pharmacology, hematology, surgical nursing, radiographic imaging, and food animal handling.",
+    "funding": "Nebraska Veterinary Medical Association Scholarships up to $3,000/year",
+    "tuition": "$3,800/year (In-state) / $4,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.northeast.edu/degrees-and-programs/veterinary-technology",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with biology and chemistry",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Veterinary clinical interest statement",
+      "references": "Two recommendations including licensed veterinarian"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8971,
+    "title": "Associate of Science in Computer Science (Transfer Track)",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Direct university transfer pathway articulated with University of Nebraska-Lincoln, covering calculus, data structures, algorithms, and systems programming.",
+    "funding": "STEM Transfer Achievement Grants providing $2,500/year",
+    "tuition": "$3,800/year (In-state) / $4,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.northeast.edu/degrees-and-programs/computer-science",
+    "requirements": {
+      "gpa": "2.5 high school GPA with precalculus readiness",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8972,
+    "title": "Northeast Community College President's Honors Fellowship",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "location": "Norfolk, Nebraska, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Top institutional merit scholarship honoring graduating high school seniors from Northeast's 20-county service area showing superior academic and community promise.",
+    "funding": "Full tuition and mandatory campus fees ($4,800/year value) across two academic years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.northeast.edu/financial-aid-and-scholarships/scholarships",
+    "requirements": {
+      "gpa": "3.50 high school GPA and top 15% class rank",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "President's Fellowship essay",
+      "references": "Two letters of recommendation from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8973,
+    "title": "Master of Science in Computer Science",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced study in algorithm complexity, machine learning architectures, distributed database systems, cloud infrastructure, and cybersecurity.",
+    "funding": "Departmental Graduate Teaching Assistantships providing 100% tuition waiver and $12,500 annual stipend",
+    "tuition": "$455/credit hour (In-state) / $910/credit hour (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/computer-science/computer-science-master-of-science",
+    "requirements": {
+      "gpa": "BS in computer science or related field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of computing objectives",
+      "references": "Two letters from faculty or tech employers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8974,
+    "title": "Master of Social Work (MSW - Urban Communities)",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited clinical social work curriculum with concentrated practice in urban community mental health, restorative youth justice, and immigrant family advocacy.",
+    "funding": "Behavioral Health Workforce Education and Training (BHWET) Fellowships up to $10,000",
+    "tuition": "$455/credit hour",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/social-work/master-of-social-work",
+    "requirements": {
+      "gpa": "Bachelor's degree with min. 3.0 GPA in social sciences or humanities",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Social work personal statement and ethical scenario essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8975,
+    "title": "Master of Arts in Inner City Studies",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Based at the historic Carruthers Center in Bronzeville, examining African American public policy, urban sociological structures, economic development, and community organizing.",
+    "funding": "Carruthers Center Urban Research Grants of $4,000 per academic year",
+    "tuition": "$455/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/inner-city-studies",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Urban studies research statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8976,
+    "title": "Bachelor of Science in Biology (Cellular and Pre-Medical)",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous bench science preparation in recombinant genetics, mammalian histology, immunology, and biochemistry for medical school pathways.",
+    "funding": "NIH-MARC Undergraduate Student Training in Academic Research (U-STAR) Honors Fellowships",
+    "tuition": "$10,900/year (In-state) / $21,800/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/biology/biology-major",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with biology and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8977,
+    "title": "Bachelor of Science in Cybersecurity",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers network defense, cryptographic protocols, digital forensics, ethical vulnerability assessments, and cloud infrastructure security.",
+    "funding": "Chicagoland Cyber Defense Grants providing up to $5,000/year",
+    "tuition": "$10,900/year (In-state) / $21,800/year (Out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/computer-science/cybersecurity-major",
+    "requirements": {
+      "gpa": "2.5 high school GPA with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of technical intent",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8978,
+    "title": "NEIU Presidential Honors Full Tuition Scholarship",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "location": "Chicago, Illinois, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "NEIU's most distinguished merit award given to incoming freshmen demonstrating superior scholarship, civic leadership, and urban community engagement.",
+    "funding": "Full in-state tuition and fees ($11,800/year value) renewable for four undergraduate academic years ($47,200 total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.neiu.edu/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "3.75 unweighted high school GPA and top 10% class rank",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Scholarship competitive essay and interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8979,
+    "title": "Doctor of Philosophy in Computer Science (Experiential AI and Machine Learning)",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite Khoury College doctoral research at the Institute for Experiential AI and Cybersecurity and Privacy Institute, studying large language models, quantum computing, and ethical autonomous robotics.",
+    "funding": "Full graduate research fellowship covering 100% tuition, university health insurance, and $40,000 annual living stipend",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$100",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://www.khoury.northeastern.edu/academics/graduate/phd-computer-science/",
+    "requirements": {
+      "gpa": "BS or MS in CS, engineering, or mathematics with min. 3.5 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Quantitative >= 165 recommended",
+      "papers": "Comprehensive research statement and publication list",
+      "references": "Three letters from leading computing researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8980,
+    "title": "Doctor of Philosophy in Bioengineering (Nanomedicine & Therapeutics)",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Pioneering translational engineering investigating targeted lipid nanoparticle drug delivery, cellular mechanics, neuro-engineering interfaces, and biomaterials at the Interdisciplinary Science and Engineering Complex (ISEC).",
+    "funding": "Doctoral Research Assistantships with $39,000 annual stipend and 100% tuition remission",
+    "tuition": "$0 (Fully funded doctoral fellow)",
+    "fee": "$100",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://bioe.northeastern.edu/academics/graduate-studies/phd-program/",
+    "requirements": {
+      "gpa": "BS or MS in bioengineering, materials science, or chemical engineering with min. 3.5 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "GRE quantitative score >= 162",
+      "papers": "Doctoral research prospectus",
+      "references": "Three letters from engineering faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8981,
+    "title": "Master of Science in Cybersecurity (Technical & Governance Tracks)",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence combining software security, network vulnerability forensics, hardware security, and embedded IoT security.",
+    "funding": "Khoury Dean's Merit Scholarships providing up to $15,000 total award plus six-month paid corporate co-op placement",
+    "tuition": "$1,820/credit hour",
+    "fee": "$100",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.khoury.northeastern.edu/academics/graduate/ms-cybersecurity/",
+    "requirements": {
+      "gpa": "BS in computer science, computer engineering, or related STEM field with min. 3.2 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Not required",
+      "papers": "Statement of technical objectives",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8982,
+    "title": "Master of Science in Data Science (Khoury & Engineering Joint)",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Interdisciplinary curriculum mastering machine learning theory, high-dimensional statistical modeling, distributed systems (Spark/Hadoop), and causal data inference.",
+    "funding": "Experiential Data Science Fellowships offering up to $12,000 tuition reduction plus paid corporate co-op",
+    "tuition": "$1,820/credit hour",
+    "fee": "$100",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.khoury.northeastern.edu/academics/graduate/ms-data-science/",
+    "requirements": {
+      "gpa": "BS in quantitative discipline with min. 3.3 GPA",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8983,
+    "title": "Bachelor of Science in Computer Science & Cognitive Psychology",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Combines human cognition, perceptual psychology, natural language processing, and deep neural networks with two six-month paid global co-op placements.",
+    "funding": "Northeastern University Honors Scholarships ranging from $15,000 to $28,000/year renewable",
+    "tuition": "$62,500/year",
+    "fee": "$75",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://www.khoury.northeastern.edu/academics/undergraduate/combined-majors/",
+    "requirements": {
+      "gpa": "Top 5% high school class rank with AP calculus and computer science",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Common Application essay and Northeastern supplements",
+      "references": "Two academic teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8984,
+    "title": "Northeastern University Torch Scholars Fellowship",
+    "university": "Northeastern University",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Northeastern's landmark experiential scholarship dedicated to first-generation students who have overcome significant adversity and exhibit extraordinary leadership and resilience.",
+    "funding": "Full tuition, fees, room, board, and global co-op immersion expenses for all four to five undergraduate years ($85,000/year value; >$350,000 total award)",
+    "tuition": "$0 (100% full-ride scholarship)",
+    "fee": "$0",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://www.northeastern.edu/torch/",
+    "requirements": {
+      "gpa": "First-generation college applicant with nomination by community leader or educator",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Torch Scholars portfolio, essays, and intensive finalist interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8985,
+    "title": "Doctor of Philosophy in Earth Sciences and Environmental Sustainability",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Interdisciplinary doctoral curriculum investigating Colorado Plateau hydrology, forest fire ecology, dendrochronology, carbon fluxes, and arid land climate adaptations.",
+    "funding": "Graduate Research Assistantships with $26,000 annual living stipend, full tuition waiver, and health coverage",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nau.edu/ses/phd-earth-sciences-and-environmental-sustainability/",
+    "requirements": {
+      "gpa": "BS or MS in forestry, geology, biology, or environmental science with min. 3.25 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Doctoral research statement and writing sample",
+      "references": "Three letters from research scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8986,
+    "title": "Doctor of Philosophy in Astronomy and Planetary Science",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Conducted in partnership with Lowell Observatory, the Discovery Channel Telescope (DCT), and the USGS Astrogeology Science Center, studying exoplanet atmospheres, cometary ice physics, and Mars rover missions.",
+    "funding": "NASA and Lowell Observatory Doctoral Fellowships providing $28,000 annual stipend and 100% tuition remission",
+    "tuition": "$0 (Fully funded doctoral candidate)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nau.edu/astronomy-and-planetary-science/phd-program/",
+    "requirements": {
+      "gpa": "BS in astronomy, physics, or planetary science with min. 3.3 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Physics GRE recommended",
+      "papers": "Planetary research prospectus",
+      "references": "Three letters from astrophysics researchers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8987,
+    "title": "Doctor of Philosophy in Informatics and Computing",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "environment"
+    ],
+    "desc": "Focuses on ecological informatics, bio-computational modeling, cyber-physical sensor networks, remote sensing image processing, and secure distributed computing.",
+    "funding": "SICCS Research Fellowships with $27,000 annual living stipend and tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nau.edu/siccs/degrees/phd-informatics-and-computing/",
+    "requirements": {
+      "gpa": "BS or MS in CS, data science, or engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Quantitative score 155+",
+      "papers": "Statement of informatics research objectives",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8988,
+    "title": "Master of Science in Forestry",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "SAF-accredited leader in ponderosa pine silviculture, wildfire behavior modeling, forest economics, and indigenous tribal forestry co-management.",
+    "funding": "School of Forestry Graduate Assistantships providing $18,000 annual stipend and tuition scholarship",
+    "tuition": "$580/credit hour (In-state) / $1,420/credit hour (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://nau.edu/forestry/ms-forestry/",
+    "requirements": {
+      "gpa": "BS in forestry, biology, or natural resources with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Forestry research statement",
+      "references": "Three letters from forestry faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8989,
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited degree in thermodynamics, aerodynamics, computational fluid mechanics, biomechatronics, and autonomous vehicle design.",
+    "funding": "NAU Blue and Gold STEM Scholarships up to $9,000/year",
+    "tuition": "$12,200/year (In-state) / $28,400/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nau.edu/mechanical-engineering/",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with precalculus and physics",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8990,
+    "title": "Northern Arizona University President's Excellence Fellowship",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "location": "Flagstaff, Arizona, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "NAU's premier competitive scholarship awarded to extraordinary undergraduate scholars committed to environmental sustainability, scientific research, and civic leadership.",
+    "funding": "Full in-state or out-of-state tuition plus $2,000 annual research enrichment grant ($28,400/year value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nau.edu/office-of-scholarships-and-financial-aid/presidents-excellence-award/",
+    "requirements": {
+      "gpa": "3.80 unweighted high school core GPA with ACT >= 29 or SAT >= 1350",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "President's Excellence competitive essay",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8991,
+    "title": "Doctor of Philosophy in Physics (High Energy & Accelerator Physics)",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Conducted in direct partnership with Fermilab and Argonne, researching superconducting radiofrequency (SRF) cavities, neutrino oscillations, Higgs boson physics, and muon g-2 experiments.",
+    "funding": "Fermilab and Argonne National Laboratory Joint Doctoral Fellowships with $28,000 annual living stipend and 100% tuition coverage",
+    "tuition": "$0 (Fully funded doctoral fellow)",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.niu.edu/clas/physics/academics/graduate/phd.shtml",
+    "requirements": {
+      "gpa": "BS or MS in physics or mathematics with min. 3.25 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Physics GRE recommended",
+      "papers": "High-energy physics research statement",
+      "references": "Three letters from physics research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8992,
+    "title": "Doctor of Philosophy in Mechanical Engineering",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Advanced engineering research in microfluidics, autonomous robotics, additive metal manufacturing, vibro-acoustic structural monitoring, and sustainable thermal energy systems.",
+    "funding": "CEET Doctoral Research Assistantships with $24,000 annual stipend and full tuition waiver",
+    "tuition": "$0 (Doctoral fellow funded)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.niu.edu/ceet/academics/mechanical/graduate/phd.shtml",
+    "requirements": {
+      "gpa": "BS or MS in mechanical or aerospace engineering with min. 3.2 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GRE quantitative score >= 156",
+      "papers": "Doctoral research statement",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8993,
+    "title": "Master of Science in Computer Science (Computational Intelligence & Software)",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Covers deep learning architectures, big data distributed systems, computer vision, network security protocols, and compiler construction.",
+    "funding": "Departmental Graduate Teaching Assistantships providing $14,000 annual stipend and tuition remission",
+    "tuition": "$515/credit hour (In-state) / $880/credit hour (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.niu.edu/clas/computer-science/academics/graduate/ms.shtml",
+    "requirements": {
+      "gpa": "BS in computer science or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of technical objectives",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8994,
+    "title": "Master of Science in Accountancy (MAS)",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited, nationally ranked accounting program with consistently high CPA exam pass rates, forensic auditing, and tax compliance.",
+    "funding": "College of Business Dean's Fellowships up to $6,000 per year",
+    "tuition": "$515/credit hour",
+    "fee": "$60",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.niu.edu/business/academics/accountancy/graduate/mas.shtml",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree in business or accounting with min. 3.0 GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Career trajectory statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8995,
+    "title": "Bachelor of Science in Electrical Engineering",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited program covering digital signal processing, microelectronics, power transmission grids, RF communications, and FPGA digital logic.",
+    "funding": "CEET Engineering Merit Scholarships providing up to $5,000/year",
+    "tuition": "$9,850/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.niu.edu/ceet/academics/electrical/undergraduate/index.shtml",
+    "requirements": {
+      "gpa": "High school GPA >= 3.0 with calculus and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8996,
+    "title": "Northern Illinois University Presidential Scholars Award",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "location": "DeKalb, Illinois, United States",
+    "type": "Scholarship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "NIU's premier competitive scholarship awarded to extraordinary incoming freshmen who exhibit remarkable intellectual curiosity, civic leadership, and research drive.",
+    "funding": "Full in-state or out-of-state tuition, mandatory fees, and on-campus room/board ($24,000/year value across four years; $96,000 total award)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.niu.edu/financial-aid/types/scholarships/presidential.shtml",
+    "requirements": {
+      "gpa": "3.85 unweighted high school GPA and ACT >= 30 or SAT >= 1390",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Scholars competition essay and interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8997,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense utilizing Griffin Hall's virtual cyber range to study penetration testing, cloud forensics, and malware reverse engineering.",
+    "funding": "National Cyber Workforce Fellowships offering up to $8,000 per academic year",
+    "tuition": "$585/credit hour (In-state) / $780/credit hour (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nku.edu/academics/informatics/programs/graduate/mscybersecurity.html",
+    "requirements": {
+      "gpa": "Bachelor's degree in CS, IT, or related STEM field with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of cybersecurity purpose",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8998,
+    "title": "Juris Doctor (J.D.) in Law and Technology",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "ABA-accredited legal curriculum at the Salmon P. Chase College of Law, focusing on digital privacy regulations, artificial intelligence liability, patent prosecution, and digital evidence.",
+    "funding": "Chase College of Law Dean's Merit Scholarships providing up to full tuition remission",
+    "tuition": "$22,500/year (In-state) / $32,400/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://chaselaw.nku.edu/admissions.html",
+    "requirements": {
+      "gpa": "Undergraduate GPA >= 3.2 and LSAT score >= 153",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Accepted",
+      "papers": "Personal statement and legal resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 8999,
+    "title": "Master of Science in Health Informatics",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "CAHIIM-accredited program combining clinical analytics, electronic medical records governance, healthcare cybersecurity, and population health data visualization.",
+    "funding": "Health Innovation Center Research Assistantships with $12,000 annual stipend",
+    "tuition": "$585/credit hour",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nku.edu/academics/informatics/programs/graduate/mshi.html",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with min. 2.75 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of health informatics goals",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9000,
+    "title": "Bachelor of Science in Mechatronics Engineering Technology",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Hands-on instruction in industrial robotics, automated manufacturing systems, programmable logic controllers (PLCs), and sensor instrumentation.",
+    "funding": "Haas Foundation and Advanced Manufacturing Scholarships up to $5,000/year",
+    "tuition": "$10,500/year (In-state) / $21,000/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nku.edu/academics/artsci/programs/undergraduate/mechatronics.html",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9001,
+    "title": "Bachelor of Science in Data Science",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Mastery of Python data wrangling, machine learning models, statistical hypothesis testing, and big data visualization in the Digitorium.",
+    "funding": "College of Informatics Merit Grants providing up to $4,500/year",
+    "tuition": "$10,500/year (In-state) / $21,000/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nku.edu/academics/informatics/programs/undergraduate/datascience.html",
+    "requirements": {
+      "gpa": "2.75 high school GPA with strong math preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9002,
+    "title": "NKU Presidential Honors Fellowship",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "location": "Highland Heights, Kentucky, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "NKU's highest undergraduate scholarship awarded to incoming freshmen who embody academic excellence, innovative problem solving, and public service leadership.",
+    "funding": "Full in-state or out-of-state tuition plus $2,500 annual experiential research stipend ($23,500/year total value)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nku.edu/admissions/scholarships.html",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT score >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Presidential Fellowship competition essay and interview",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9003,
+    "title": "Bachelor of Science in Medicinal Plant Chemistry",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "The first accredited four-year undergraduate degree in the nation dedicated to the chemical analysis, gas chromatography (GC-MS), and extraction of botanical medicines.",
+    "funding": "Shimadzu Analytical Excellence Grants providing up to $5,000/year",
+    "tuition": "$12,400/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nmu.edu/chemistry/medicinal-plant-chemistry",
+    "requirements": {
+      "gpa": "High school GPA >= 2.75 with strong chemistry preparation",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9004,
+    "title": "Master of Science in Biology (Forensic Anthropology & Ecology)",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Conducted at the Forensic Research Outdoor Station (FROST), the world's only cold-climate human taphonomy facility studying cold-environment postmortem decay.",
+    "funding": "FROST Research Assistantships with $14,000 annual living stipend and full tuition remission",
+    "tuition": "$590/credit hour",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://nmu.edu/biology/graduate",
+    "requirements": {
+      "gpa": "BS in biology, anthropology, or chemistry with min. 3.0 GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Forensic research statement and ethics agreement",
+      "references": "Three letters from laboratory mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9005,
+    "title": "Bachelor of Science in Fisheries and Wildlife Management",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field-intensive curriculum along Lake Superior studying cold-water limnology, boreal forest mammal tracking, wetlands restoration, and wildlife telemetry.",
+    "funding": "Lake Superior Conservation Grants up to $4,000/year",
+    "tuition": "$12,400/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://nmu.edu/biology/fisheries-wildlife",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with biology coursework",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of environmental interests",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9006,
+    "title": "Master of Science in Applied Behavior Analysis",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "ABAI-verified course sequence preparing behavior analysts in developmental disability clinical interventions, school-based therapies, and experimental behavior analysis.",
+    "funding": "Upper Peninsula Autism Network Fellowships providing up to $6,000",
+    "tuition": "$590/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://nmu.edu/psychologicalscience/graduate-programs",
+    "requirements": {
+      "gpa": "2.75 minimum undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9007,
+    "title": "Bachelor of Science in Outdoor Recreation Leadership and Management",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Combines wilderness expeditions across Michigan's Upper Peninsula with outdoor risk management, eco-tourism operations, and natural resources park administration.",
+    "funding": "North Country Trail Leadership Grants up to $3,500/year",
+    "tuition": "$12,400/year (In-state) / $18,200/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nmu.edu/hper/outdoor-recreation",
+    "requirements": {
+      "gpa": "2.25 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9008,
+    "title": "Northern Michigan University Harden Presidential Fellowship",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "location": "Marquette, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "NMU's most prestigious merit award granted to extraordinary incoming freshmen demonstrating remarkable academic achievement, outdoor leadership, and community service.",
+    "funding": "Full in-state or out-of-state tuition plus on-campus room and board ($24,000/year value across four years)",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nmu.edu/admissions/freshman-scholarships",
+    "requirements": {
+      "gpa": "3.80 unweighted high school GPA and ACT >= 28 or SAT >= 1310",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "Harden Fellowship competitive essay and interview",
+      "references": "Three letters of academic endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9009,
+    "title": "Bachelor of Engineering in Information Engineering Technology (Cybersecurity & LANL Co-op)",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited degree in secure network administration, cloud infrastructure, SCADA control security, and direct national laboratory clearance pathways.",
+    "funding": "Los Alamos National Laboratory (LANL) Undergraduate Co-op Fellowships providing full tuition and $22/hour research internships",
+    "tuition": "$5,200/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://nnmc.edu/home/academics/schools-departments/engineering-technology/iet-program/",
+    "requirements": {
+      "gpa": "High school GPA >= 2.5 with college algebra readiness",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Technical statement of purpose",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9010,
+    "title": "Bachelor of Engineering in Electromechanical Engineering Technology",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Hands-on instruction in industrial robotics, solar photovoltaics, programmable microcontrollers, mechatronics circuits, and computer-aided drafting (CAD).",
+    "funding": "Department of Energy Minority Serving Institution Grants up to $5,000/year",
+    "tuition": "$5,200/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://nnmc.edu/home/academics/schools-departments/engineering-technology/emet-program/",
+    "requirements": {
+      "gpa": "2.5 high school GPA with physics and precalculus",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9011,
+    "title": "Bachelor of Science in Environmental Science",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Fieldwork-based curriculum along the Rio Chama and Rio Grande investigating acequia water hydrology, arid soil ecology, and forest wildfire regeneration.",
+    "funding": "Rio Grande Watershed Stewardship Grants of $3,500/year",
+    "tuition": "$5,200/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nnmc.edu/home/academics/schools-departments/biology-chemistry-environmental-sciences/",
+    "requirements": {
+      "gpa": "2.0 minimum high school GPA",
+      "ielts": "TOEFL 60+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of environmental interests",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9012,
+    "title": "Bachelor of Science in Nursing (RN to BSN)",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing completion degree focusing on rural and tribal population health, medical informatics, and community health leadership.",
+    "funding": "New Mexico Rural Health Nursing Grants providing up to $4,000/year",
+    "tuition": "$5,200/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://nnmc.edu/home/academics/schools-departments/nursing-health-sciences/",
+    "requirements": {
+      "gpa": "Active RN license and accredited Associate Degree in Nursing with min. 2.5 GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Nursing portfolio",
+      "references": "One clinical supervisor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9013,
+    "title": "Bachelor of Integrated Studies (Pueblo Indian Studies & Southwest Heritage)",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary curriculum exploring Tewa and Tiwa cultural heritage, Southwestern colonial history, traditional Spanish tinwork, and regional water sovereignty.",
+    "funding": "Northern New Mexico Heritage Scholarships of $3,000/year",
+    "tuition": "$5,200/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://nnmc.edu/home/academics/schools-departments/humanities-social-sciences/",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "English proficiency",
+      "gre": "Exempt",
+      "papers": "Cultural heritage statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9014,
+    "title": "Northern New Mexico College President's Fellowship",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "location": "Española, New Mexico, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "NNMC's highest honor awarded to incoming scholars who demonstrate remarkable academic talent and dedication to the cultural and economic vitality of Northern New Mexico.",
+    "funding": "Full tuition and registration fees ($5,200/year value) renewable for four undergraduate academic years",
+    "tuition": "$0 (100% full tuition coverage)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nnmc.edu/home/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.50 high school GPA and leadership portfolio",
+      "ielts": "Exempt",
+      "gre": "Exempt",
+      "papers": "President's Fellowship essay",
+      "references": "Two recommendations from educators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9015,
+    "title": "Bachelor of Science in Banking and Financial Services",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Nationally recognized curriculum preparing students for commercial lending, investment banking, risk management, and regulatory compliance, supported by regional banking partners.",
+    "funding": "WolfPACT Merit Scholarships up to $12,000 distributed over four years",
+    "tuition": "$8,950/year (In-state) / $12,480/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.northern.edu/academics/banking-and-financial-services",
+    "requirements": {
+      "gpa": "2.6 GPA high school or college transfer",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9016,
+    "title": "Bachelor of Science in Biology (Biotechnology Track)",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on undergraduate research in genomics, molecular microbiology, tissue culture, and ecological biology housed within the state-of-the-art Regional Science Education Center.",
+    "funding": "South Dakota Opportunity Scholarship of $6,500 across 4 years",
+    "tuition": "$8,950/year (In-state) / $12,480/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.northern.edu/academics/biology",
+    "requirements": {
+      "gpa": "2.75 GPA with college preparatory chemistry and algebra",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of scientific interests",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9017,
+    "title": "Master of Science in Education (MSEd) in Teaching and Learning",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced pedagogical training for PK-12 educators focusing on instructional design, educational leadership, classroom research, and student assessment analytics.",
+    "funding": "Graduate assistantships offering tuition remission plus monthly stipend",
+    "tuition": "$350/credit (Resident) / $640/credit (Non-resident)",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.northern.edu/academics/teaching-and-learning-msed",
+    "requirements": {
+      "gpa": "3.0 GPA in undergraduate degree",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of teaching philosophy",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9018,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Rigorous software engineering, systems administration, algorithm theory, and cybersecurity coursework designed to meet high tech industry demands across the upper Midwest.",
+    "funding": "STEM Leadership Scholarship awards up to $3,000 annually",
+    "tuition": "$8,950/year (In-state) / $12,480/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.northern.edu/academics/computer-science",
+    "requirements": {
+      "gpa": "2.6 GPA with high school calculus or precalculus",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Motivation essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9019,
+    "title": "Bachelor of Fine Arts (BFA) in Digital Media & Graphic Design",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Comprehensive studio practice in UI/UX design, motion graphics, 3D modeling, typography, and interactive exhibition installation in the Johnson Fine Arts Center.",
+    "funding": "Fine Arts Talent Scholarships ranging from $1,000 to $4,000 per year",
+    "tuition": "$8,950/year (In-state) / $12,480/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.northern.edu/academics/art-and-design",
+    "requirements": {
+      "gpa": "2.5 GPA and digital portfolio of 10-15 creative works",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Artist statement",
+      "references": "One arts instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9020,
+    "title": "Undergraduate Environmental Science Research Fellowship",
+    "university": "Northern State University",
+    "country": "United States",
+    "location": "Aberdeen, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Undergraduate summer fellowship investigating glacial prairie wetlands, agricultural runoff management, and native grassland ecosystems across South Dakota.",
+    "funding": "$4,000 summer research stipend plus on-campus room and board",
+    "tuition": "Covered by fellowship award",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.northern.edu/research/undergraduate-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in environmental or biological sciences",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Research proposal (2 pages)",
+      "references": "Two faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9021,
+    "title": "Associate of Science in Photographic Communications",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "One of the most prestigious two-year photographic communication programs in the US, training students in commercial lighting, nature photography, digital storytelling, and studio management.",
+    "funding": "Trappers Visual Arts Grants providing up to $3,500/year",
+    "tuition": "$4,200/year (In-state) / $9,900/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nwc.edu/academics/programs/photo",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Visual portfolio or creative statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9022,
+    "title": "Associate of Science in Outdoor Education & Recreation",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Experiential leadership education covering wilderness emergency medicine, mountaineering, avalanche safety, and national park resource stewardship in the Greater Yellowstone Ecosystem.",
+    "funding": "Hathaway Scholarship and Wyoming Outdoor Leadership Grants",
+    "tuition": "$4,200/year (In-state) / $9,900/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://nwc.edu/academics/programs/outdoor-education",
+    "requirements": {
+      "gpa": "High school diploma with physical fitness readiness",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Outdoor leadership goals essay",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9023,
+    "title": "Associate of Science in Agriculture Business",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Instruction in livestock commodities, agricultural finance, water conservation rights, farm enterprise planning, and modern agricultural sales across the Intermountain West.",
+    "funding": "Wyoming Ag Trust Scholarships up to $3,000 per year",
+    "tuition": "$4,200/year (In-state) / $9,900/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nwc.edu/academics/programs/ag-business",
+    "requirements": {
+      "gpa": "High school completion or GED",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9024,
+    "title": "Associate of Applied Science in Welding Technology",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Advanced AWS certification curriculum covering SMAW, GMAW, GTAW, pipe welding, metallurgical inspection, and robotic automated welding programming.",
+    "funding": "Technical Skills Workforce Grant providing equipment stipends",
+    "tuition": "$4,200/year (In-state) / $9,900/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://nwc.edu/academics/programs/welding",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Shop safety acknowledgement",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9025,
+    "title": "Associate Degree in Nursing (ADN)",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Preparation for NCLEX-RN licensure with clinical practicums at Powell Valley Healthcare and Cody Regional Health centers, using high-tech patient simulation suites.",
+    "funding": "Wyoming Nursing Workforce Incentive grants up to $4,500/year",
+    "tuition": "$4,200/year (In-state) / $9,900/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nwc.edu/academics/programs/nursing",
+    "requirements": {
+      "gpa": "2.7 GPA in prerequisite human anatomy, physiology, and math",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "TEAS examination score and essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9026,
+    "title": "Greater Yellowstone Field Research Internship",
+    "university": "Northwest College",
+    "country": "United States",
+    "location": "Powell, Wyoming, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Intensive summer research internship monitoring alpine stream macroinvertebrates, wildfire ecological recovery, and grizzly bear migratory corridors in northwestern Wyoming.",
+    "funding": "$3,200 field research stipend plus backcountry gear allowance",
+    "tuition": "Covered by college foundation",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://nwc.edu/research/yellowstone-internships",
+    "requirements": {
+      "gpa": "3.0 GPA in biology, ecology, or environmental science",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Fieldwork statement and resume",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9027,
+    "title": "Master of Science in Applied Computer Science",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "High-demand master's curriculum featuring software development methodologies, cloud infrastructure, distributed systems, machine learning, and database architecture.",
+    "funding": "Graduate assistantships providing 100% tuition coverage and monthly stipend",
+    "tuition": "$7,800/year (In-state) / $13,600/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nwmissouri.edu/academics/graduate/masters/applied-computer-science.htm",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with background in programming and data structures",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9028,
+    "title": "Master of Science in Information Systems",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Bridging enterprise computing and executive management through enterprise IT systems, business analytics, cybersecurity risk governance, and database management.",
+    "funding": "School of Computer Science & Information Systems Assistantships",
+    "tuition": "$7,800/year (In-state) / $13,600/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nwmissouri.edu/academics/graduate/masters/information-systems.htm",
+    "requirements": {
+      "gpa": "2.75 GPA in undergraduate studies",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Professional goals statement",
+      "references": "Two references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9029,
+    "title": "Bachelor of Science in Agricultural Business",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Hands-on agricultural management training operating through the 448-acre R.T. Wright Farm and the state-of-the-art Agricultural Learning Center.",
+    "funding": "Northwest Merit Bearcat Advantage Scholarships up to $6,000/year",
+    "tuition": "$9,400/year (In-state) / $16,800/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nwmissouri.edu/academics/undergraduate/majors/ag-business.htm",
+    "requirements": {
+      "gpa": "2.5 GPA with college prep coursework",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9030,
+    "title": "Bachelor of Science in Nanoscale Science",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "chemistry"
+    ],
+    "desc": "Pioneering undergraduate program providing students direct access to scanning electron microscopes, cleanroom lithography, and quantum nano-fabrication facilities.",
+    "funding": "Dean's STEM Excellence Awards of $3,500 annually",
+    "tuition": "$9,400/year (In-state) / $16,800/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nwmissouri.edu/academics/undergraduate/majors/nanoscale-science.htm",
+    "requirements": {
+      "gpa": "3.0 GPA with strong math and physics preparation",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Scientific interests statement",
+      "references": "Two science teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9031,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA offering concentrations in finance, marketing, healthcare administration, and agricultural economics, with flexible online or in-person delivery.",
+    "funding": "Melvin D. & Valorie G. Booth School Graduate Fellowships",
+    "tuition": "$7,800/year (In-state) / $13,600/year (Out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nwmissouri.edu/academics/graduate/masters/mba.htm",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume and statement of career goals",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9032,
+    "title": "Precision Agriculture Graduate Research Assistantship",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "location": "Maryville, Missouri, United States",
+    "type": "Assistantship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "computer-science"
+    ],
+    "desc": "Applied research assistantship evaluating UAV thermal imaging, soil nitrate sensors, autonomous tractor routing, and digital precision crop management.",
+    "funding": "Full graduate tuition waiver plus $11,500 annual academic stipend",
+    "tuition": "100% covered by assistantship",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nwmissouri.edu/academics/graduate/assistantships.htm",
+    "requirements": {
+      "gpa": "3.2 GPA in agricultural engineering, computer science, or agronomy",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "General test recommended",
+      "papers": "Research statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9033,
+    "title": "Bachelor of Science in Marine Technology",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "First bachelor's degree of its kind in the US, training students in autonomous underwater vehicles (AUVs), marine robotics, hydrographic sonar survey, and seafloor mapping.",
+    "funding": "Great Lakes Maritime Foundation Scholarships up to $6,000/year",
+    "tuition": "$5,600/year (In-district) / $11,200/year (Out-of-district)",
+    "fee": "$20",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nmc.edu/programs/academic-programs/marine-technology",
+    "requirements": {
+      "gpa": "2.5 GPA with college trigonometry and physics",
+      "ielts": "TOEFL 61+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal technical statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9034,
+    "title": "Associate of Applied Science in Maritime Deck Officer",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Comprehensive USCG-approved curriculum qualifying cadets for USCG Third Mate licensing and first-class Great Lakes pilotage, featuring ship simulator labs and open-water sea time.",
+    "funding": "Maritime Cadet Shipboard Stipends and Federal Sea-Service Grants",
+    "tuition": "$7,800/year (In-state) / $14,900/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nmc.edu/maritime",
+    "requirements": {
+      "gpa": "2.5 GPA with US Coast Guard physical exam and TWIC card",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Maritime officer career essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9035,
+    "title": "Associate of Applied Science in Aviation Flight Training",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "FAA Part 141 approved flight training taking students from private pilot through commercial multi-engine instrument rating and flight instructor certifications.",
+    "funding": "Aviation Association Flight Scholarships up to $4,000",
+    "tuition": "$6,200/year + FAA flight training lab fees",
+    "fee": "$20",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.nmc.edu/programs/academic-programs/aviation",
+    "requirements": {
+      "gpa": "High school diploma and FAA First/Second Class Medical Certificate",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Aviation safety essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9036,
+    "title": "Associate of Applied Science in Freshwater Studies",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Pioneering interdisciplinary freshwater science program investigating watershed conservation, benthic ecology, water quality sensors, and Great Lakes hydrological systems.",
+    "funding": "Great Lakes Water Studies Institute Grants of $2,500/year",
+    "tuition": "$4,200/year (In-district) / $9,400/year (Out-of-district)",
+    "fee": "$20",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nmc.edu/programs/academic-programs/freshwater-studies",
+    "requirements": {
+      "gpa": "2.0 high school GPA with biology or chemistry",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of interest",
+      "references": "One science reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9037,
+    "title": "Associate of Applied Science in Culinary Arts",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "ACF-accredited program at the Great Lakes Culinary Institute featuring classic European kitchen techniques, farm-to-table cuisine, pastry design, and restaurant dining management.",
+    "funding": "Culinary Excellence Endowment Awards up to $2,000",
+    "tuition": "$4,800/year (In-district) / $9,800/year (Out-of-district)",
+    "fee": "$20",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nmc.edu/culinary",
+    "requirements": {
+      "gpa": "High school graduation or equivalent",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Culinary goals statement",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9038,
+    "title": "Great Lakes Freshwater Acoustic Mapping Fellowship",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "location": "Traverse City, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Undergraduate summer fellowship conducting multibeam sonar seabed mapping, invasive quagga mussel reef assessments, and underwater ROV surveys in Lake Michigan.",
+    "funding": "$4,500 summer research stipend plus shipboard room and meals",
+    "tuition": "Fully sponsored by NOAA and NMC Water Studies",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.nmc.edu/water-studies/fellowships",
+    "requirements": {
+      "gpa": "3.0 GPA in hydrography, marine technology, or geosciences",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Research statement and CV",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9039,
+    "title": "Master of Science in Nursing (MSN) - Family Nurse Practitioner",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited program preparing advanced practice registered nurses for primary care diagnosis, health promotion, pharmacological management, and rural clinical delivery.",
+    "funding": "HRSA Advanced Nursing Education Grants up to $8,000/year",
+    "tuition": "$6,400/year (In-state) / $15,800/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nsula.edu/academics/nursing",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN from accredited institution, current unencumbered RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt if GPA > 3.2",
+      "papers": "Statement of clinical intent",
+      "references": "Three professional nursing references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9040,
+    "title": "Bachelor of Science in Industrial Engineering Technology",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited program emphasizing automated manufacturing, statistical quality control, lean Six Sigma systems, robotics, and industrial safety engineering.",
+    "funding": "Louisiana TOPS and NSU STEM Academic Scholarships",
+    "tuition": "$8,200/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nsula.edu/academics/engineering-technology",
+    "requirements": {
+      "gpa": "2.35 high school GPA with algebra and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9041,
+    "title": "Bachelor of Science in Computer Information Systems",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Nationally recognized CIS curriculum focusing on full-stack software development, cloud systems administration, database design, and mobile application engineering.",
+    "funding": "NSU Presidential Honors Scholarships up to $7,000/year",
+    "tuition": "$8,200/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nsula.edu/academics/cis",
+    "requirements": {
+      "gpa": "2.35 GPA with high school mathematics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Technical statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9042,
+    "title": "Bachelor of Arts in Heritage Resources & Regional Archaeology",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Fieldwork-intensive curriculum in cultural resource management, museum curation, oral history preservation, and archaeological excavation across the historic Cane River region.",
+    "funding": "Cane River National Heritage Area Student Stipends",
+    "tuition": "$8,200/year (In-state) / $18,400/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nsula.edu/academics/heritage-resources",
+    "requirements": {
+      "gpa": "2.35 high school GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9043,
+    "title": "Master of Science in Homeland Security",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Advanced study in critical infrastructure protection, emergency management disaster response, intelligence analysis, cyber threat countermeasures, and international counterterrorism.",
+    "funding": "Graduate assistantships with tuition reduction and research stipends",
+    "tuition": "$5,800/year (In-state) / $14,200/year (Out-of-state)",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.nsula.edu/academics/homeland-security",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Professional resume and statement of intent",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9044,
+    "title": "Cane River Ecosystem & Wetland Field Fellowship",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "location": "Natchitoches, Louisiana, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field research fellowship conducting hydrological water testing, cypress-tupelo swamp vegetation dynamics, and conservation biology in the Red River alluvial valley.",
+    "funding": "$4,200 research stipend and field laboratory equipment support",
+    "tuition": "Covered by Louisiana Sea Grant / NSU",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.nsula.edu/research/wetland-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in biology, ecology, or environmental science",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Field research proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9045,
+    "title": "Doctor of Pharmacy (PharmD)",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional program providing intensive clinical rotations at top Baltimore medical centers (Johns Hopkins, University of Maryland Medical System), with pharmacotherapy and drug design labs.",
+    "funding": "Dean's Pharmacy Merit Scholarships up to $15,000 annually",
+    "tuition": "$41,500/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.ndm.edu/pharmacy",
+    "requirements": {
+      "gpa": "2.75 science GPA in 65+ prerequisite semester credits",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS personal statement",
+      "references": "Two recommendations (one science faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9046,
+    "title": "Master of Science in Physician Assistant Studies",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Rigorous 27-month clinical curriculum educating patient-centered clinicians in clinical medicine, surgical techniques, diagnostics, and community health interventions.",
+    "funding": "Allied Health Career Scholarships up to $8,000/year",
+    "tuition": "$38,900/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ndm.edu/physician-assistant",
+    "requirements": {
+      "gpa": "3.0 cumulative and science GPA, 1,000+ hours direct patient care",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "GRE or PA-CAT scores",
+      "papers": "CASPA essay and personal statement",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9047,
+    "title": "Master of Science in Analytics & Data Science",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Interdisciplinary analytics degree combining machine learning, Python/R statistical programming, data visualization, predictive modeling, and healthcare information governance.",
+    "funding": "NDMU Graduate Dean's Award providing $4,000 tuition reduction",
+    "tuition": "$19,800/year",
+    "fee": "$45",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ndm.edu/academics/school-arts-sciences-business/graduate-programs/analytics",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with coursework in statistics and calculus",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of analytics goals",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9048,
+    "title": "Bachelor of Science in Biology (Pre-Medicine)",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous undergraduate pre-medical track with undergraduate research opportunities in cancer cell biology, microbiology, biochemistry, and anatomical dissections.",
+    "funding": "Montrose Presidential Scholarships covering up to $22,000/year",
+    "tuition": "$39,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ndm.edu/academics/biology",
+    "requirements": {
+      "gpa": "3.2 high school GPA with high school chemistry and biology",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application personal essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9049,
+    "title": "Master of Arts in Contemporary Art & Curatorial Practice",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Hands-on exhibition design, critical theory, archival preservation, and museum management utilizing NDMU's Gormley Gallery and partnerships with Baltimore museums.",
+    "funding": "Gormley Gallery Curatorial Assistantships with tuition remission",
+    "tuition": "$18,500/year",
+    "fee": "$45",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ndm.edu/academics/art",
+    "requirements": {
+      "gpa": "3.0 GPA with portfolio or critical art history writing sample",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Curatorial philosophy statement",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9050,
+    "title": "Pharmaceutical Sciences Graduate Research Fellowship",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Fellowship supporting innovative research in nanoparticle drug delivery, antimicrobial peptide formulation, and synthetic medicinal chemistry.",
+    "funding": "$12,000 annual research fellowship stipend plus lab supply grant",
+    "tuition": "100% covered by School of Pharmacy",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.ndm.edu/pharmacy/research-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in chemistry, biochemistry, or pharmacology",
+      "ielts": "TOEFL 85+ or IELTS 7.0",
+      "gre": "General test required",
+      "papers": "Research statement (1,000 words)",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9051,
+    "title": "Ph.D. in Computer Science (Courant Institute)",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite doctoral training at the Courant Institute of Mathematical Sciences covering machine learning, deep learning theory, computer graphics, cryptography, and natural language processing.",
+    "funding": "MacCracken Fellowship providing full tuition, comprehensive healthcare, and $45,000+ annual living stipend for five years",
+    "tuition": "100% covered by fellowship",
+    "fee": "$120",
+    "deadline": "2026-12-12",
+    "deadlineText": "December 12, 2026",
+    "source": "https://cs.nyu.edu/home/phd/index.html",
+    "requirements": {
+      "gpa": "3.7+ undergraduate GPA in computer science or mathematics",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Optional for CS",
+      "papers": "Statement of academic purpose and research publications sample",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9052,
+    "title": "Ph.D. in Mathematics (Courant Institute)",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "physics"
+    ],
+    "desc": "World's top-ranked applied mathematics doctoral program specializing in partial differential equations, fluid dynamics, computational mathematics, probability, and mathematical physics.",
+    "funding": "MacCracken Doctoral Fellowship offering full tuition remission and $45,000+ annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$120",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://math.nyu.edu/dynamic/phd/index/",
+    "requirements": {
+      "gpa": "3.8+ GPA with advanced real analysis, complex analysis, and linear algebra",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "GRE Mathematics Subject Test strongly recommended",
+      "papers": "Mathematical statement of purpose",
+      "references": "Three letters from mathematicians"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9053,
+    "title": "Master of Science in Data Science (Center for Data Science)",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Pioneering curriculum in statistical inference, optimization, deep representation learning, big data systems, and generative AI led by founding fathers of deep learning.",
+    "funding": "Center for Data Science Merit Fellowships up to $20,000",
+    "tuition": "$62,400/total program",
+    "fee": "$110",
+    "deadline": "2027-01-22",
+    "deadlineText": "January 22, 2027",
+    "source": "https://cds.nyu.edu/academics/ms-in-data-science/",
+    "requirements": {
+      "gpa": "3.5+ GPA with linear algebra, multivariate calculus, and Python fluency",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9054,
+    "title": "Ph.D. in Neural Science (Center for Neural Science)",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary doctoral program investigating synaptic plasticity, cellular neurophysiology, visual processing, cognitive neuroscience, and computational neural modeling.",
+    "funding": "Full 5-year MacCracken Fellowship including full tuition and $46,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$120",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://as.nyu.edu/departments/cns/doctoral-program.html",
+    "requirements": {
+      "gpa": "3.6+ GPA in neurobiology, psychology, physics, or bioengineering",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Not required",
+      "papers": "Research statement of purpose",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9055,
+    "title": "Master of Fine Arts (MFA) in Film & Television (Tisch)",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Legendary graduate film program educating directors, cinematographers, screenwriters, and producers, with state-of-the-art production soundstages in Greenwich Village.",
+    "funding": "Tisch School of the Arts Dean's Fellowships up to full tuition",
+    "tuition": "$68,500/year",
+    "fee": "$110",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://tisch.nyu.edu/grad-film",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Creative portfolio, dramatic scene writing, and 10-minute visual sample",
+      "references": "Three creative recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9056,
+    "title": "Courant Postdoctoral Research Instructorship in Mathematics",
+    "university": "New York University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Fellowship",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "physics"
+    ],
+    "desc": "One of the most prestigious postdoctoral mathematics appointments in the world, combining independent mathematical research at Courant with light undergraduate teaching.",
+    "funding": "$82,000 annual salary, health insurance, and $4,500 travel budget for 3 years",
+    "tuition": "Postdoctoral research and teaching appointment",
+    "fee": "$0",
+    "deadline": "2026-11-30",
+    "deadlineText": "November 30, 2026",
+    "source": "https://math.nyu.edu/dynamic/employment/postdocs/",
+    "requirements": {
+      "gpa": "Ph.D. in mathematics or related field by start date",
+      "ielts": "Fluent English proficiency",
+      "gre": "Exempt",
+      "papers": "AMS cover sheet, research statement, and CV with publication list",
+      "references": "Four letters of recommendation (one evaluating teaching)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9057,
+    "title": "Bachelor of Science in Natural Science (Indigenous Environmental Science)",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Groundbreaking curriculum merging indigenous ecological knowledge (TEK) with western empirical environmental science, range management, water quality testing, and prairie restoration.",
+    "funding": "American Indian College Fund Full Circle Scholarships up to $5,000/year",
+    "tuition": "$2,500/year ($84 per credit hour)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.olc.edu/degrees/natural-science",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or institutional assessment",
+      "gre": "Exempt",
+      "papers": "Tribal community service statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9058,
+    "title": "Master of Arts in Lakota Leadership and Management",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate leadership program rooted in Wolakota cultural philosophy, tribal sovereignty law, economic development, federal Indian policy, and strategic reservation governance.",
+    "funding": "Bureau of Indian Education Higher Education Grants and OLC waivers",
+    "tuition": "$135/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.olc.edu/degrees/lakota-leadership",
+    "requirements": {
+      "gpa": "2.5 GPA in undergraduate bachelor's degree",
+      "ielts": "TOEFL 68+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Statement of tribal leadership philosophy",
+      "references": "Two professional/community letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9059,
+    "title": "Bachelor of Science in K-8 Elementary Education (Lakota Studies)",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Prepares culturally grounded educators certified to teach elementary grades while embedding Lakota language immersion and reservation curriculum frameworks.",
+    "funding": "Indian Education Teacher Preparation Fellowships with tuition coverage",
+    "tuition": "$2,500/year ($84 per credit hour)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.olc.edu/degrees/education",
+    "requirements": {
+      "gpa": "2.5 cumulative GPA and passing scores on Praxis Core",
+      "ielts": "Exempt or TOEFL 61+",
+      "gre": "Exempt",
+      "papers": "Teaching philosophy essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9060,
+    "title": "Associate of Science in Nursing (RN)",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Accredited registered nursing degree preparing clinical practitioners to address rural healthcare disparities and chronic illnesses across Pine Ridge Service Unit clinics and hospitals.",
+    "funding": "Indian Health Service (IHS) Nursing Scholarships providing full tuition and monthly stipend",
+    "tuition": "$2,500/year ($84 per credit hour)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.olc.edu/degrees/nursing",
+    "requirements": {
+      "gpa": "2.7 GPA in prerequisite anatomy, physiology, and chemistry",
+      "ielts": "TOEFL 68+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Healthcare commitment essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9061,
+    "title": "Bachelor of Arts in Lakota Studies",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "In-depth study of Lakota oral tradition, tribal linguistics, quillwork, beadwork, treaty rights, and philosophical foundations of the Oceti Sakowin (Seven Council Fires).",
+    "funding": "Pine Ridge Heritage Arts and Humanities Endowments",
+    "tuition": "$2,500/year ($84 per credit hour)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.olc.edu/degrees/lakota-studies",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9062,
+    "title": "Pine Ridge Grassland & Rangeland Ecology Fellowship",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "location": "Kyle, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on ecological fellowship conducting native bison grazing impact assessments, invasive cheatgrass containment, and soil health monitoring across tribal pastures.",
+    "funding": "$4,000 summer research stipend funded by USDA NIFA and OLC Land Grant Office",
+    "tuition": "Covered by fellowship grant",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.olc.edu/research/land-grant",
+    "requirements": {
+      "gpa": "2.8 GPA in environmental science, agriculture, or natural sciences",
+      "ielts": "Exempt or TOEFL 61+",
+      "gre": "Exempt",
+      "papers": "Research statement (1-2 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9063,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited program with a long history of high NCLEX pass rates, hands-on clinical simulation labs, and clinical rotations at SSM Health St. Anthony and regional medical centers.",
+    "funding": "Bison Healthcare Endowed Scholarships up to $14,000/year",
+    "tuition": "$34,200/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.okbu.edu/academics/nursing",
+    "requirements": {
+      "gpa": "3.0 high school GPA with prerequisite biology and chemistry",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9064,
+    "title": "Bachelor of Science in Forensic Psychology",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Interdisciplinary study combining criminal psychopathology, courtroom assessment, behavioral profiling, correctional psychology, and ethical legal frameworks.",
+    "funding": "OBU Trustee Academic Awards up to $16,000/year",
+    "tuition": "$34,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.okbu.edu/academics/forensic-psychology",
+    "requirements": {
+      "gpa": "2.8 GPA with college preparatory coursework",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Academic interest statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9065,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Executive and online MBA providing advanced training in strategic management, ethical financial analysis, marketing intelligence, and corporate governance.",
+    "funding": "Paul Dickinson School of Business Fellowships up to $5,000",
+    "tuition": "$17,500/program",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.okbu.edu/graduate/mba",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume and personal statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9066,
+    "title": "Bachelor of Science in Biochemistry",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Rigorous laboratory training in enzymatic kinetics, protein crystallography, organic syntheses, and molecular cell biology preparing students for top medical and dental schools.",
+    "funding": "Hurley Science & Math Scholarships up to $12,000 distributed over four years",
+    "tuition": "$34,200/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.okbu.edu/academics/biochemistry",
+    "requirements": {
+      "gpa": "3.0 GPA with AP chemistry or precalculus",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of purpose",
+      "references": "Two science teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9067,
+    "title": "Bachelor of Music in Music Composition & Technology",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "NASM-accredited comprehensive composition curriculum integrating acoustic orchestration, digital audio workstations, film scoring, and live concert production.",
+    "funding": "Warren M. Angell School of Music Talent Grants up to $8,000/year",
+    "tuition": "$34,200/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.okbu.edu/academics/music",
+    "requirements": {
+      "gpa": "2.5 GPA and composition score audition/portfolio review",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Music statement",
+      "references": "Two music instructor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9068,
+    "title": "Undergraduate Summer Biomedical Research Fellowship",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "location": "Shawnee, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Ten-week intensive biomedical research fellowship working directly with faculty mentors on antimicrobial natural products, cancer pharmacology, and genetic sequencing.",
+    "funding": "$4,000 research stipend funded through Oklahoma INBRE and OBU",
+    "tuition": "Covered by Oklahoma INBRE award",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.okbu.edu/academics/science/research-fellowship",
+    "requirements": {
+      "gpa": "3.2 GPA in biology, chemistry, or pre-medical sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Research proposal and resume",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9069,
+    "title": "Master of Science in Computer Science (Artificial Intelligence Focus)",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Hands-on master's program focusing on deep learning algorithms, natural language understanding, computer vision, data engineering, and ethical AI development.",
+    "funding": "Graduate merit tuition grants up to $4,500 total",
+    "tuition": "$625/credit hour ($18,750 total program)",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.oc.edu/academics/graduate-programs/computer-science",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computing, mathematics, or STEM",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of career purpose",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9070,
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited engineering curriculum featuring thermodynamics, finite element analysis, additive manufacturing, aerospace aerodynamics, and senior capstone design.",
+    "funding": "Presidential STEM Scholarships providing up to $15,000 annually",
+    "tuition": "$26,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.oc.edu/academics/undergraduate-programs/mechanical-engineering",
+    "requirements": {
+      "gpa": "3.0 GPA with high school calculus and physics",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Engineering motivation essay",
+      "references": "One STEM teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9071,
+    "title": "Bachelor of Fine Arts (BFA) in Gaming and Animation",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Consistently ranked among the top 50 game design programs in North America, offering intensive training in 3D character modeling, Maya animation, Unreal Engine game scripting, and concept art.",
+    "funding": "Creative Arts Talent Grants up to $8,000/year",
+    "tuition": "$26,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.oc.edu/academics/undergraduate-programs/gaming-and-animation",
+    "requirements": {
+      "gpa": "2.75 GPA and creative portfolio submission",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Artist statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9072,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Practical enterprise security curriculum covering network penetration testing, cloud security compliance, incident forensics, cryptographic algorithms, and security governance.",
+    "funding": "Cyber Corps and Corporate Affiliate Discounts up to $3,000",
+    "tuition": "$625/credit hour ($18,750 total)",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.oc.edu/academics/graduate-programs/cybersecurity",
+    "requirements": {
+      "gpa": "2.8 GPA in computer science or related information technology field",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Professional goals essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9073,
+    "title": "Bachelor of Science in Electrical and Computer Engineering",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited dual-focus program integrating embedded microcontrollers, FPGA circuit design, digital signal processing, robotics, and VLSI systems.",
+    "funding": "Engineering Dean's Honors Awards up to $12,000/year",
+    "tuition": "$26,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.oc.edu/academics/undergraduate-programs/electrical-engineering",
+    "requirements": {
+      "gpa": "3.0 GPA with precalculus or calculus",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9074,
+    "title": "Undergraduate Autonomous Systems Research Fellowship",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "location": "Edmond, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Summer research appointment designing LiDAR-guided unmanned aerial vehicles (UAVs) and autonomous mobile robotics in the Prince Engineering Center.",
+    "funding": "$4,200 research fellowship stipend and materials stipend",
+    "tuition": "Covered by Prince Engineering Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.oc.edu/research/engineering-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in engineering or computer science",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Technical research project proposal",
+      "references": "Two engineering faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9075,
+    "title": "Master of Music (MM) in Music Theater / Opera",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Elite graduate vocal and theatrical training producing Broadway leads and international opera artists, featuring intensive vocal coaching, stage movement, and mainstage productions.",
+    "funding": "Bass School of Music Fellowships and Vocal Assistantships up to $16,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.okcu.edu/music/academics/graduate/music-theater",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree in music or theatre",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Repertoire list and artistic statement",
+      "references": "Three vocal/theatrical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9076,
+    "title": "Doctor of Nursing Practice (DNP)",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Terminal clinical degree preparing advanced practice nurse leaders in clinical healthcare transformation, health systems policy, translational epidemiology, and organizational leadership.",
+    "funding": "Kramer School of Nursing Doctoral Scholarships up to $8,000",
+    "tuition": "$725/credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.okcu.edu/nursing/academics/graduate/dnp",
+    "requirements": {
+      "gpa": "3.0 GPA in MSN or BSN from CCNE/ACEN accredited program",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "DNP clinical project proposal",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9077,
+    "title": "Master of Business Administration (MBA) in Energy and Financial Analytics",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "AACSB-accredited MBA leveraging OCU's Bloomberg Financial Trading Room to instruct students in oil and gas energy finance, algorithmic asset valuation, and corporate strategy.",
+    "funding": "Herman Meinders Graduate Business Fellowships up to $6,000",
+    "tuition": "$695/credit hour ($25,000 total program)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.okcu.edu/business/academics/graduate/mba",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Statement of executive goals and resume",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9078,
+    "title": "Bachelor of Science in Cell and Molecular Biology",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous pre-medical preparation offering student-faculty research in cancer epigenetics, viral pathogenesis, confocal microscopy, and bioinformatics.",
+    "funding": "Bishop McLaughlin Academic Merit Awards up to $18,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.okcu.edu/academics/biology",
+    "requirements": {
+      "gpa": "3.2 GPA with chemistry and biology laboratory coursework",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9079,
+    "title": "Juris Doctor (JD) in Health Law & Bioethics",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "ABA-accredited legal education based in downtown OKC, offering clinical externships with the Oklahoma Supreme Court, federal courts, and major healthcare hospital networks.",
+    "funding": "Law Dean's Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$41,200/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.okcu.edu",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree and valid LSAT or GRE score",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "LSAT or GRE required",
+      "papers": "Law personal statement and character disclosures",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9080,
+    "title": "Bass Center Opera and Musical Theatre Collaborative Fellowship",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Elite collaborative fellowship for graduate vocalists and repetiteurs coaching and performing in four mainstage operatic and musical theatre productions each season.",
+    "funding": "$8,000 performance fellowship stipend plus full tuition waiver",
+    "tuition": "100% tuition remission",
+    "fee": "$50",
+    "deadline": "2027-01-30",
+    "deadlineText": "January 30, 2027",
+    "source": "https://www.okcu.edu/music/fellowships",
+    "requirements": {
+      "gpa": "Undergraduate music degree with exceptional audition performance",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Audition portfolio and repertoire dossier",
+      "references": "Three artistic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9081,
+    "title": "Associate of Applied Science in Nurse Science",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited registered nursing program with comprehensive hospital rotations at OU Health, INTEGRIS, and Mercy Hospital Oklahoma City.",
+    "funding": "Oklahoma Health Care Workforce Retention Grants up to $3,500/year",
+    "tuition": "$4,650/year (In-state) / $10,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://osuokc.edu/nursing",
+    "requirements": {
+      "gpa": "2.5 prerequisite science GPA with chemistry, anatomy, and physiology",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "TEAS examination score report",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9082,
+    "title": "Associate of Applied Science in Information Technologies - Cyber Security",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on instruction in ethical hacking, packet inspection, network defense, Linux/Windows systems administration, and digital forensics in dedicated cyber labs.",
+    "funding": "National Science Foundation CyberCorps scholarships and OSU-OKC waivers",
+    "tuition": "$4,650/year (In-state) / $10,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://osuokc.edu/cybersecurity",
+    "requirements": {
+      "gpa": "High school completion or GED",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Technical interest statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9083,
+    "title": "Associate of Applied Science in Horticulture Technology",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Practical curriculum at the Kirkpatrick Horticulture Center covering greenhouse management, urban agriculture, landscape design, hydroponics, and nursery propagation.",
+    "funding": "John E. Kirkpatrick Foundation Horticulture Grants up to $2,500",
+    "tuition": "$4,650/year (In-state) / $10,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://osuokc.edu/horticulture",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Career goals essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9084,
+    "title": "Associate of Applied Science in Emergency Medical Services - Paramedic",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CoAEMSP-accredited paramedic program with real-time advanced cardiovascular life support, trauma management, and emergency ambulance field internships.",
+    "funding": "First Responder Tuition Incentives and EMS State Grants",
+    "tuition": "$4,650/year (In-state) / $10,800/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://osuokc.edu/ems",
+    "requirements": {
+      "gpa": "Valid EMT-Basic license, CPR certification, and prerequisite anatomy",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Clinical health clearance",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9085,
+    "title": "Bachelor of Technology in Public Safety Management",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Baccalaureate degree designed for public safety professionals covering crisis management, emergency communications, homeland security protocols, and municipal police leadership.",
+    "funding": "Law Enforcement Executive Scholarships up to $3,000/year",
+    "tuition": "$5,200/year (In-state) / $12,400/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://osuokc.edu/publicsafety",
+    "requirements": {
+      "gpa": "Associate degree or 60 earned college credits with minimum 2.0 GPA",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of public safety service",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9086,
+    "title": "Urban Horticulture & Controlled Environment Agriculture Fellowship",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Applied student fellowship testing vertical aquaponics, nutrient film technique hydroponics, and light-emitting diode spectral tuning for microgreen propagation in Oklahoma.",
+    "funding": "$3,500 research stipend and greenhouse project supply funding",
+    "tuition": "Covered by Kirkpatrick Horticulture Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://osuokc.edu/horticulture/fellowship",
+    "requirements": {
+      "gpa": "2.8 GPA in horticulture, botany, or environmental sciences",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Greenhouse research proposal",
+      "references": "Two horticulture faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9087,
+    "title": "Associate of Applied Science in Caterpillar Dealer Service Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Flagship corporate partnership program preparing diagnostic technicians for Caterpillar earthmoving, power generation, and construction machinery, alternating classroom instruction with paid dealership rotations.",
+    "funding": "Corporate Caterpillar dealership sponsorship providing paid internships and tool allowances",
+    "tuition": "$5,600/year (In-state) / $11,400/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://osuit.edu/programs/caterpillar",
+    "requirements": {
+      "gpa": "High school diploma and sponsorship by an authorized Caterpillar dealership",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Technical mechanical aptitude essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9088,
+    "title": "Bachelor of Technology in Instrumentation Engineering Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Comprehensive training in programmable logic controllers (PLCs), distributed control systems (DCS), industrial automation, process safety, and SCADA cybersecurity for petroleum refineries and chemical plants.",
+    "funding": "Energy Industry Technology Scholarships up to $4,000/year",
+    "tuition": "$5,800/year (In-state) / $12,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://osuit.edu/programs/instrumentation-bachelor",
+    "requirements": {
+      "gpa": "2.5 GPA with college algebra and trigonometry",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9089,
+    "title": "Associate of Applied Science in High Voltage Utility Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Training high-voltage power linemen in overhead distribution, underground cabling, substation transformer maintenance, hot-stick climbing safety, and storm restoration.",
+    "funding": "Electric Cooperative Lineworker Scholarships up to $3,500/year",
+    "tuition": "$5,600/year (In-state) / $11,400/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://osuit.edu/programs/high-voltage",
+    "requirements": {
+      "gpa": "High school diploma with physical climbing agility",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Utility safety pledge",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9090,
+    "title": "Bachelor of Technology in Civil Engineering Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Hands-on instruction in GPS surveying, highway structural design, asphalt/concrete material testing, stormwater drainage modeling, and construction project management.",
+    "funding": "Oklahoma Department of Transportation (ODOT) Educational Stipends",
+    "tuition": "$5,800/year (In-state) / $12,200/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://osuit.edu/programs/civil-engineering-technology",
+    "requirements": {
+      "gpa": "2.5 GPA with high school physics and precalculus",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Statement of interest",
+      "references": "One teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9091,
+    "title": "Associate of Applied Science in Pipeline Integrity Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Only collegiate degree of its kind in North America, educating specialists in cathodic protection, ultrasonic non-destructive testing (NDT), corrosion mitigation, and pipeline safety regulations.",
+    "funding": "Midstream Energy Pipeline Foundation Grants up to $3,000",
+    "tuition": "$5,600/year (In-state) / $11,400/year (Out-of-state)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://osuit.edu/programs/pipeline-integrity",
+    "requirements": {
+      "gpa": "High school graduation with chemistry or physics",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Technical goals essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9092,
+    "title": "Industrial Automation & SCADA Applied Research Fellowship",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "location": "Okmulgee, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Student fellowship developing industrial Internet of Things (IIoT) edge sensor telemetry, automated valve diagnostics, and predictive machine maintenance algorithms.",
+    "funding": "$4,000 applied research stipend and Rockwell Automation lab sponsorship",
+    "tuition": "Covered by OSUIT Applied Tech Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://osuit.edu/research/automation-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in instrumentation or electrical engineering technology",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Applied automation project plan",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9093,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited program with clinical rotations at Ascension St. John Jane Phillips Hospital, high-tech simulation labs, and high NCLEX first-time pass rates.",
+    "funding": "Wesleyan Healthcare Endowment Scholarships up to $10,000/year",
+    "tuition": "$29,500/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.okwu.edu/academics/nursing",
+    "requirements": {
+      "gpa": "3.0 GPA in high school or college prerequisite science coursework",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9094,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Fully accredited online and evening MBA offering concentrations in finance, human resource management, executive leadership, and organizational development.",
+    "funding": "Chesapeake Energy School Graduate Grants up to $3,500",
+    "tuition": "$525/credit hour ($18,900 total program)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.okwu.edu/graduate/mba",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of purpose and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9095,
+    "title": "Bachelor of Science in Exercise Science",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Curriculum preparing students for physical therapy, occupational therapy, athletic training, and clinical exercise physiology with biomechanics laboratory practicums.",
+    "funding": "Eagle Athletic and Academic Merit Grants up to $12,000/year",
+    "tuition": "$29,500/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.okwu.edu/academics/exercise-science",
+    "requirements": {
+      "gpa": "2.5 GPA with biology and algebra",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9096,
+    "title": "Bachelor of Science in Criminal Justice",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Coursework in constitutional law, forensic investigative techniques, juvenile justice, victimology, and ethical criminal justice administration.",
+    "funding": "Public Service Scholarships up to $5,000/year",
+    "tuition": "$29,500/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.okwu.edu/academics/criminal-justice",
+    "requirements": {
+      "gpa": "2.0 GPA high school completion",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9097,
+    "title": "Master of Science in Nursing (MSN) - Nursing Education",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Graduate nursing pathway designed to equip registered nurses with advanced pedagogical strategies, curriculum design, clinical evaluation, and nursing research skills.",
+    "funding": "Nurse Educator Tuition Waivers up to $4,000",
+    "tuition": "$550/credit hour",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.okwu.edu/graduate/msn",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN from accredited institution, valid RN license",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of educational philosophy",
+      "references": "Two professional nursing letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9098,
+    "title": "Undergraduate Community Health Research Fellowship",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "location": "Bartlesville, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Community-based research fellowship evaluating rural maternal-child health interventions, diabetes prevention education, and nutrition across northeastern Oklahoma.",
+    "funding": "$3,200 research stipend funded by regional healthcare endowments",
+    "tuition": "Covered by fellowship grant",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.okwu.edu/research/community-health",
+    "requirements": {
+      "gpa": "3.0 GPA in nursing, exercise science, or biology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Research proposal and personal statement",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9099,
+    "title": "Master of Divinity (M.Div.)",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous pastoral and theological formation covering Greek and Hebrew exegesis, systematic theology, church history, homiletics, and global mission strategy.",
+    "funding": "Global Mission Leadership Grants up to $8,000/year",
+    "tuition": "$10,500/year ($350/credit)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.olivetuniversity.edu/academics/seminary",
+    "requirements": {
+      "gpa": "2.5 GPA in accredited bachelor's degree",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal Christian testimony and ministry vision",
+      "references": "Three references including pastor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9100,
+    "title": "Master of Science in Information Technology",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Focusing on enterprise software development, database administration, network engineering, cloud computing architectures, and digital media technologies.",
+    "funding": "OIT Technology Fellowships covering up to 40% of tuition",
+    "tuition": "$12,600/year ($420/credit)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.olivetuniversity.edu/academics/technology",
+    "requirements": {
+      "gpa": "2.75 GPA in computing, STEM, or related quantitative discipline",
+      "ielts": "TOEFL 75+ or IELTS 6.0",
+      "gre": "Optional",
+      "papers": "Statement of technical objectives",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9101,
+    "title": "Doctor of Ministry (D.Min.) in Global Church Planting",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced professional doctorate for seasoned ministers focusing on strategic cross-cultural church planting, urban ministry paradigms, and theological research.",
+    "funding": "Winter Memorial Ministry Endowments up to $5,000",
+    "tuition": "$11,200/year",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.olivetuniversity.edu/academics/seminary/dmin",
+    "requirements": {
+      "gpa": "M.Div. with minimum 3.0 GPA and 3+ years significant ministry experience",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Doctoral research project prospectus",
+      "references": "Three ministerial recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9102,
+    "title": "Master of Arts in Journalism and Digital Media",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Comprehensive journalism curriculum covering investigative news reporting, digital video production, multiplatform newsroom editing, and ethical media law.",
+    "funding": "Christian Media Fellowship Awards up to $4,000/year",
+    "tuition": "$10,500/year ($350/credit)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.olivetuniversity.edu/academics/journalism",
+    "requirements": {
+      "gpa": "2.5 undergraduate GPA",
+      "ielts": "TOEFL 75+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Journalism portfolio or writing samples (3 pieces)",
+      "references": "Two academic or media references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9103,
+    "title": "Master of Music (M.Mus.) in Worship Music and Conducting",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Specialized training at the Jubilee College of Music in choral conducting, sacred composition, keyboard accompaniment, and liturgical music history.",
+    "funding": "Jubilee Music Talent Scholarships up to $6,000/year",
+    "tuition": "$11,200/year ($375/credit)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.olivetuniversity.edu/academics/music",
+    "requirements": {
+      "gpa": "Bachelor's degree in music and video audition submission",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Music statement",
+      "references": "Two musical mentor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9104,
+    "title": "Global Digital Media & Faith Communication Fellowship",
+    "university": "Olivet University",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Research fellowship investigating social media algorithms, multilingual machine translation for international missions, and mobile church engagement in developing nations.",
+    "funding": "$4,000 annual research fellowship stipend and media production budget",
+    "tuition": "Covered by Ralph D. Winter Center",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.olivetuniversity.edu/research/media-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in journalism, computer science, or theology",
+      "ielts": "TOEFL 75+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Fellowship project proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9105,
+    "title": "Bachelor of Science in Biomedical Engineering",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "ABET-accredited engineering program combining biomechanics, biomaterials, medical device design, tissue engineering, and physiological systems modeling.",
+    "funding": "ORU Quest Whole Person Scholarships up to $20,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://oru.edu/academics/cose/biomedical-engineering",
+    "requirements": {
+      "gpa": "3.0 GPA with high school calculus and chemistry",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal whole-person statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9106,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited program housed in the high-fidelity Stanley White Center, offering clinical rotations across Saint Francis Health System and Ascension St. John.",
+    "funding": "Anna Vaughn College of Nursing Scholarships up to $10,000/year",
+    "tuition": "$32,800/year",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://oru.edu/academics/nursing",
+    "requirements": {
+      "gpa": "2.8 GPA in prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing philosophy essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9107,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited graduate business curriculum focusing on global executive management, enterprise data analytics, corporate finance, and ethical international commerce.",
+    "funding": "College of Business Graduate Assistantships covering tuition plus stipend",
+    "tuition": "$635/credit hour ($22,860 total program)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://oru.edu/academics/graduate-mba",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume and goals statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9108,
+    "title": "Bachelor of Science in Computer Information Technology",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Instruction in enterprise cloud administration, network defense, database design, cybersecurity incident response, and web application programming.",
+    "funding": "STEM Leadership Awards up to $12,000 distributed over four years",
+    "tuition": "$32,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://oru.edu/academics/cit",
+    "requirements": {
+      "gpa": "2.6 GPA with high school mathematics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9109,
+    "title": "Master of Arts in Theological and Historical Studies",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous scholarly examination of biblical theology, Pentecostal-Charismatic history, Patristic thought, historical hermeneutics, and contemporary cultural apologetics.",
+    "funding": "College of Theology Graduate Ministry Fellowships up to $6,000",
+    "tuition": "$575/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://oru.edu/academics/theology",
+    "requirements": {
+      "gpa": "2.75 GPA in undergraduate bachelor's degree",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Theological writing sample and statement",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9110,
+    "title": "Global Learning & Virtual Reality Educational Technology Fellowship",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "location": "Tulsa, Oklahoma, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "arts-design"
+    ],
+    "desc": "Applied student fellowship creating immersive augmented and virtual reality educational simulations for global distance students in the ORU Global Learning Center.",
+    "funding": "$4,500 research stipend and VR/AR laboratory access",
+    "tuition": "Covered by Global Learning Center Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://oru.edu/research/glc-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in computer science, digital media, or engineering",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Interactive media proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9111,
+    "title": "Ph.D. in Cancer Biology (Knight Cancer Institute)",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite doctoral training investigating early cancer detection mechanisms, oncogenic signaling cascades, targeted therapeutics (following Brian Druker's Gleevec paradigm), and immunotherapy.",
+    "funding": "Full tuition waiver, comprehensive health coverage, and $38,000 annual graduate research stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$100",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.ohsu.edu/school-of-medicine/cancer-biology",
+    "requirements": {
+      "gpa": "3.5+ GPA in molecular biology, biochemistry, or genetics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Not required",
+      "papers": "Research statement and CV detailing laboratory experience",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9112,
+    "title": "Ph.D. in Neuroscience (Vollum Institute)",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "World-class neurobiology doctoral curriculum covering synaptic transmission, ion channel structural biology, neurodevelopmental genetics, and neural circuitry in the renowned Vollum Institute.",
+    "funding": "NIH T32 Neuroscience Training Grant providing full tuition and $38,000 stipend",
+    "tuition": "100% covered by grant",
+    "fee": "$100",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.ohsu.edu/vollum/neuroscience-graduate-program",
+    "requirements": {
+      "gpa": "3.5+ GPA in neuroscience, biology, chemistry, or physics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Not required",
+      "papers": "Statement of scientific interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9113,
+    "title": "Master of Science in Biomedical Informatics",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Nation's premier biomedical informatics program educating leaders in clinical decision support systems, natural language processing for electronic health records, computational biology, and healthcare data analytics.",
+    "funding": "National Library of Medicine (NLM) Biomedical Informatics Fellowships",
+    "tuition": "$790/credit hour ($37,920 total)",
+    "fee": "$80",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology",
+    "requirements": {
+      "gpa": "3.0 GPA with prior STEM or clinical healthcare background",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Informatics statement of intent and CV",
+      "references": "Three professional/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9114,
+    "title": "Doctor of Medicine (MD)",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "YOUR M.D. curriculum integrating early clinical exposure, patient simulation, spiral learning across biomedical disciplines, and rural Oregon clinical immersion.",
+    "funding": "OHSU Scholars Program providing substantial need and merit tuition assistance",
+    "tuition": "$45,200/year (In-state) / $72,800/year (Out-of-state)",
+    "fee": "$120",
+    "deadline": "2027-10-15",
+    "deadlineText": "October 15, 2027",
+    "source": "https://www.ohsu.edu/school-of-medicine/md-program",
+    "requirements": {
+      "gpa": "Strong pre-medical GPA (median 3.7) and competitive MCAT score (median 513)",
+      "ielts": "English fluency verified via AMCAS",
+      "gre": "MCAT required",
+      "papers": "AMCAS personal essay and OHSU secondary application",
+      "references": "Pre-health committee letter or three faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9115,
+    "title": "Doctor of Nursing Practice (DNP) - Family Nurse Practitioner",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced practice clinical doctoral program preparing primary care FNPs to manage chronic complex illnesses, lead urban/rural health disparities reduction, and guide clinical policy.",
+    "funding": "HRSA Advanced Nursing Workforce Fellowships up to $15,000",
+    "tuition": "$715/credit hour",
+    "fee": "$85",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://www.ohsu.edu/school-of-nursing/dnp-family-nurse-practitioner",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN from accredited institution, valid Oregon RN license",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Statement of DNP clinical goals",
+      "references": "Three clinical/academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9116,
+    "title": "Knight Cancer Early Detection Advanced Research Fellowship",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Postdoctoral research fellowship in the Cancer Early Detection Advanced Research (CEDAR) center developing liquid biopsy assays, nanoparticle biosensors, and AI imaging for lethal cancers.",
+    "funding": "$65,000 annual postdoctoral stipend, health insurance, and $10,000 research budget",
+    "tuition": "Postdoctoral research appointment",
+    "fee": "$0",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.ohsu.edu/knight-cancer-institute/cedar-fellowships",
+    "requirements": {
+      "gpa": "Ph.D. or M.D./Ph.D. in biomedical sciences, bioengineering, or biophysics",
+      "ielts": "Fluent English proficiency",
+      "gre": "Exempt",
+      "papers": "Research proposal (3 pages) and complete CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9117,
+    "title": "Ph.D. in Robotics (Collaborative Robotics and Intelligent Systems)",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "One of the nation's premier robotics doctoral programs, focusing on legged locomotion (home of Cassie the bipedal robot), soft robotics, swarm systems, marine autonomy, and human-robot interaction.",
+    "funding": "Graduate Research Assistantships (GRA) providing full tuition, healthcare, and $34,000 annual stipend",
+    "tuition": "100% covered by assistantship",
+    "fee": "$85",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://engineering.oregonstate.edu/degrees/graduate/robotics",
+    "requirements": {
+      "gpa": "3.5+ GPA in robotics, mechanical engineering, or computer science",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement and technical portfolio/code samples",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9118,
+    "title": "Ph.D. in Ocean, Earth & Atmospheric Sciences (CEOAS)",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "World-leading oceanographic and climate science doctoral program utilizing NSF research vessels (R/V Taani), polar ice core labs, deep-sea submersibles, and oceanographic satellite telemetry.",
+    "funding": "Full 5-year assistantship funding including tuition waiver and $33,000/year stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$85",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://ceoas.oregonstate.edu/graduate-programs",
+    "requirements": {
+      "gpa": "3.2+ GPA in geoscience, physics, chemistry, or oceanography",
+      "ielts": "TOEFL 88+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9119,
+    "title": "Master of Science in Forest Ecosystems and Society",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Ranked among the top 3 forestry programs in the world, investigating old-growth forest dynamics, wildfire behavior, mass timber sustainability, carbon sequestration, and forest biodiversity.",
+    "funding": "College of Forestry Graduate Fellowships up to $28,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$85",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.forestry.oregonstate.edu/graduate-programs",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in ecology, natural resources, or forestry",
+      "ielts": "TOEFL 88+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Research statement of purpose",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9120,
+    "title": "Master of Science in Computer Science (Artificial Intelligence)",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Advanced study in deep reinforcement learning, explainable AI, natural language processing, computer vision, and parallel distributed computing algorithms.",
+    "funding": "Graduate Teaching and Research Assistantships with tuition coverage",
+    "tuition": "$15,800/year (In-state) / $29,600/year (Out-of-state)",
+    "fee": "$85",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.oregonstate.edu/degrees/graduate/computer-science",
+    "requirements": {
+      "gpa": "3.2 GPA in computer science, mathematics, or electrical engineering",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Statement of purpose and GitHub/project portfolio",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9121,
+    "title": "Bachelor of Science in Ecological Engineering",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "First accredited ecological engineering program in the nation, designing natural wastewater treatment wetlands, stream restoration morphology, and agricultural bioprocess systems.",
+    "funding": "OSU Presidential Scholarships up to $10,000/year",
+    "tuition": "$13,200/year (In-state) / $34,800/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://bee.oregonstate.edu/undergraduate-program/ecological-engineering",
+    "requirements": {
+      "gpa": "3.0 high school GPA with precalculus and chemistry",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9122,
+    "title": "Hinsdale Wave Basin Coastal Resilience Research Fellowship",
+    "university": "Oregon State University",
+    "country": "United States",
+    "location": "Corvallis, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Research fellowship conducting tsunami wave impact testing, coastal breakwater modeling, and offshore floating wind turbine hydrodynamics in the world-famous Hinsdale Wave Research Laboratory.",
+    "funding": "$5,000 summer research stipend plus wave basin laboratory access",
+    "tuition": "Covered by NSF NHERI / Hinsdale Wave Lab",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://wave.oregonstate.edu/fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in civil, mechanical, or coastal engineering",
+      "ielts": "TOEFL 88+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Coastal engineering research proposal",
+      "references": "Two engineering faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9123,
+    "title": "Bachelor of Science in Outdoor Products",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "One-of-a-kind degree combining technical materials science, circular economic lifecycle analysis, industrial prototype design, and field testing for mountaineering, cycling, and outdoor equipment.",
+    "funding": "Cascades Outdoor Industry Scholarships up to $6,000/year",
+    "tuition": "$12,400/year (In-state) / $33,200/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://osucascades.edu/academics/outdoor-products",
+    "requirements": {
+      "gpa": "2.8 GPA with design or technical coursework",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Outdoor product design essay or portfolio",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9124,
+    "title": "Bachelor of Science in Energy Systems Engineering",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "ABET-accredited engineering program educating leaders in solar photovoltaics, geothermal energy, battery storage systems, smart microgrids, and net-zero building energy audits.",
+    "funding": "Cascades STEM Scholars Awards up to $8,000/year",
+    "tuition": "$12,400/year (In-state) / $33,200/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://osucascades.edu/academics/energy-systems-engineering",
+    "requirements": {
+      "gpa": "3.0 GPA with high school precalculus and chemistry/physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal engineering statement",
+      "references": "One STEM teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9125,
+    "title": "Bachelor of Science in Tourism, Recreation and Adventure Leadership (TRAL)",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Experiential leadership training in wilderness expedition planning, eco-tourism management, public lands policy, avalanche safety, and sustainable recreation operations.",
+    "funding": "High Desert Recreation Leadership Grants up to $4,000/year",
+    "tuition": "$12,400/year (In-state) / $33,200/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://osucascades.edu/academics/tral",
+    "requirements": {
+      "gpa": "2.5 high school GPA with outdoor physical readiness",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Leadership goals statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9126,
+    "title": "Master of Fine Arts (MFA) in Creative Writing (Low-Residency)",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Acclaimed low-residency MFA offering concentrations in fiction, poetry, and creative nonfiction, combining 10-day intensive mountain residencies in Central Oregon with one-on-one mentorship.",
+    "funding": "Cascades Writers Fellowships and Caldera Arts Residencies up to $5,000",
+    "tuition": "$17,800/year",
+    "fee": "$85",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://osucascades.edu/mfa",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree",
+      "ielts": "TOEFL 88+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Creative writing manuscript (20-30 pages prose or 10-15 pages poetry)",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9127,
+    "title": "Bachelor of Science in Computer Science (Software Engineering)",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous software engineering curriculum connected directly with Bend's booming tech startup ecosystem, covering mobile app development, cloud systems, and cybersecurity.",
+    "funding": "Central Oregon Tech Leadership Awards up to $5,000",
+    "tuition": "$12,400/year (In-state) / $33,200/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://osucascades.edu/academics/computer-science",
+    "requirements": {
+      "gpa": "3.0 GPA with algebra and trigonometry",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9128,
+    "title": "Cascade Range Net-Zero Microgrid & Solar Fellowship",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "location": "Bend, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Applied student fellowship analyzing campus thermal energy storage, solar microgrid battery dispatch algorithms, and zero-carbon building performance in Ray Hall.",
+    "funding": "$4,200 research stipend and campus microgrid energy monitoring sponsorship",
+    "tuition": "Covered by OSU-Cascades Sustainability Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://osucascades.edu/research/sustainability-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in energy systems engineering or physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Microgrid project proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9129,
+    "title": "Bachelor of Science in Renewable Energy Engineering",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "First ABET-accredited undergraduate renewable energy engineering degree in North America, educating engineers in solar photovoltaics, wind turbine aerodynamics, geothermal power, biofuels, and power grid stability.",
+    "funding": "Oregon Tech Presidential Scholarships up to $16,000 across four years",
+    "tuition": "$11,200/year (In-state) / $33,800/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.oit.edu/academics/degrees/renewable-energy-engineering",
+    "requirements": {
+      "gpa": "3.0 GPA with high school trigonometry or calculus",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Engineering personal essay",
+      "references": "One STEM teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9130,
+    "title": "Bachelor of Science in Medical Imaging Technology (Radiologic Science)",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Premier medical imaging degree featuring an 11-month paid clinical externship at leading hospitals nationwide, covering radiography, CT scanning, fluoroscopy, and trauma imaging.",
+    "funding": "Health Professions Clinical Externship Grants up to $5,000",
+    "tuition": "$11,200/year (In-state) / $33,800/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.oit.edu/academics/degrees/radiologic-science",
+    "requirements": {
+      "gpa": "2.75 prerequisite GPA in human anatomy, physiology, chemistry, and physics",
+      "ielts": "TOEFL 76+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Medical imaging essay and health clearances",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9131,
+    "title": "Master of Science in Engineering (Renewable Energy)",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Advanced multidisciplinary graduate engineering research focusing on deep geothermal reservoir exploitation, grid battery storage, power electronic inverters, and utility decarbonization.",
+    "funding": "Graduate Research Fellowships through Geo-Heat Center up to $14,000/year",
+    "tuition": "$14,500/year (In-state) / $26,200/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.oit.edu/academics/graduate-programs/engineering",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in engineering or physics",
+      "ielts": "TOEFL 76+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9132,
+    "title": "Bachelor of Science in Cybersecurity",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on cyber defense curriculum covering industrial control system (ICS) security, red-team penetration testing, digital forensics, defensive network configuration, and ethical hacking.",
+    "funding": "Tech Foundation Grants up to $4,000/year",
+    "tuition": "$11,200/year (In-state) / $33,800/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.oit.edu/academics/degrees/cybersecurity",
+    "requirements": {
+      "gpa": "3.0 GPA with high school algebra II",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9133,
+    "title": "Bachelor of Science in Geomatics (Surveying Option)",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "mathematics"
+    ],
+    "desc": "ABET-accredited geomatics curriculum instructing students in drone photogrammetry, high-precision GNSS positioning, robotic total stations, boundary law, and hydrographic mapping.",
+    "funding": "Professional Land Surveyors of Oregon (PLSO) Endowments up to $5,000/year",
+    "tuition": "$11,200/year (In-state) / $33,800/year (Out-of-state)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.oit.edu/academics/degrees/geomatics",
+    "requirements": {
+      "gpa": "2.75 GPA with trigonometry and physics",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9134,
+    "title": "Geo-Heat Center Geothermal Direct Use Research Fellowship",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "location": "Klamath Falls, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Undergraduate fellowship conducting geothermal well temperature profiling, heat exchanger thermodynamic modeling, and district heating efficiency optimization across Oregon Tech's campus.",
+    "funding": "$4,500 research stipend funded by US Department of Energy Geothermal Technologies Office",
+    "tuition": "Covered by Geo-Heat Center grant",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.oit.edu/geoheat/fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in renewable energy, mechanical, or civil engineering",
+      "ielts": "TOEFL 76+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Geothermal research project plan",
+      "references": "Two engineering faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9135,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited curriculum offering concentrations in strategic management, healthcare administration, finance, and human resources, with both on-campus and online formats.",
+    "funding": "Angell School Graduate Fellowships up to $4,000",
+    "tuition": "$650/credit hour ($23,400 total program)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.ottawa.edu/ouaz/academics/graduate-programs/mba",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Personal essay and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9136,
+    "title": "Bachelor of Arts in Exercise Science",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Prepares students for careers in athletic training, strength and conditioning, physical therapy, and cardiac rehabilitation, utilizing modern O'Dell Center human performance labs.",
+    "funding": "OUAZ Spirit Merit Scholarships up to $14,000/year",
+    "tuition": "$31,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ottawa.edu/ouaz/academics/majors/exercise-science",
+    "requirements": {
+      "gpa": "2.0 high school GPA with biology",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9137,
+    "title": "Master of Arts in Counseling (Licensed Professional Counselor Track)",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-aligned clinical mental health counseling program preparing graduates for LPC licensure in Arizona, featuring 700 hours of supervised clinical practicum and internships.",
+    "funding": "Behavioral Health Workforce Tuition Assistance up to $5,000",
+    "tuition": "$620/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ottawa.edu/ouaz/academics/graduate-programs/counseling",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in psychology or related field",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal counseling philosophy and criminal background check",
+      "references": "Three professional/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9138,
+    "title": "Bachelor of Science in Biology",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Pre-medical and biological research track featuring laboratory research in Sonoran desert ecology, cellular physiology, genetics, and pharmacology.",
+    "funding": "Founders Science Scholarships up to $12,000 distributed over four years",
+    "tuition": "$31,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ottawa.edu/ouaz/academics/majors/biology",
+    "requirements": {
+      "gpa": "2.5 GPA with high school chemistry and biology",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Scientific interests essay",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9139,
+    "title": "Bachelor of Arts in Sports Studies",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary exploration of sports marketing, athletic administration, sports psychology, event management, and sports journalism in the booming Phoenix sports market.",
+    "funding": "Athletic and Academic Achievement Grants up to $10,000/year",
+    "tuition": "$31,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ottawa.edu/ouaz/academics/majors/sports-studies",
+    "requirements": {
+      "gpa": "2.0 high school GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9140,
+    "title": "Sonoran Desert Human Performance & Heat Physiology Fellowship",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "location": "Surprise, Arizona, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Undergraduate fellowship investigating athlete heat acclimation, core body temperature monitoring, hydration biomarkers, and electrolyte recovery in extreme desert climates.",
+    "funding": "$3,500 research stipend and human performance lab equipment grant",
+    "tuition": "Covered by OUAZ Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.ottawa.edu/ouaz/research/human-performance-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in exercise science, biology, or pre-health",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Heat physiology research proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9141,
+    "title": "Master of Science in Computer Science (Seidenberg)",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Advanced study in algorithm analysis, cloud computing infrastructure, machine learning, software architecture, and big data management in Lower Manhattan.",
+    "funding": "Seidenberg Graduate Merit Scholarships up to $8,000/year",
+    "tuition": "$1,450/credit ($43,500 total program)",
+    "fee": "$70",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pace.edu/seidenberg/academics/graduate-programs/computer-science-ms",
+    "requirements": {
+      "gpa": "3.0 GPA with strong background in computer science or programming",
+      "ielts": "TOEFL 78+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9142,
+    "title": "Master of Business Administration (MBA) in Financial Management (Lubin)",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Dual AACSB-accredited in business and accounting, located steps from Wall Street, preparing financial leaders in investment banking, corporate valuation, risk analytics, and global markets.",
+    "funding": "Lubin School Graduate Assistantships providing tuition waiver and hourly compensation",
+    "tuition": "$1,490/credit ($58,110 total program)",
+    "fee": "$70",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.pace.edu/lubin/academics/graduate-programs/mba-in-financial-management",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional resume and career essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9143,
+    "title": "Master of Laws (LL.M.) in Environmental Law (Elisabeth Haub)",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Ranked #1 in the United States for Environmental Law; world-class legal education in international climate change agreements, environmental justice, energy transition law, and ocean resources.",
+    "funding": "Haub Environmental Law Honors Fellowships covering up to 50% tuition",
+    "tuition": "$54,200/year",
+    "fee": "$75",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://law.pace.edu/academics/llm-programs/environmental-law",
+    "requirements": {
+      "gpa": "J.D. from ABA-accredited law school or first law degree from foreign university",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Environmental legal research proposal and resume",
+      "references": "Two legal academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9144,
+    "title": "Master of Science in Cybersecurity (Seidenberg)",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense, teaching ethical hacking, malware analysis, mobile device security, cryptography, and network defense architecture.",
+    "funding": "Department of Defense Cyber Scholarship Program (CySP) full-tuition partner",
+    "tuition": "$1,450/credit ($43,500 total)",
+    "fee": "$70",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pace.edu/seidenberg/academics/graduate-programs/cybersecurity-ms",
+    "requirements": {
+      "gpa": "3.0 GPA in computing or information systems",
+      "ielts": "TOEFL 78+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of cyber defense objectives",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9145,
+    "title": "Bachelor of Fine Arts (BFA) in Acting (Pace School of Performing Arts)",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Elite conservatory actor training in Lower Manhattan featuring Stanislavski and Meisner techniques, Shakespeare, camera acting, stage combat, and Broadway industry showcases.",
+    "funding": "PPA Talent Scholarships up to $20,000/year",
+    "tuition": "$51,400/year",
+    "fee": "$70",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pace.edu/dyson/departments/performing-arts/undergraduate-programs/acting",
+    "requirements": {
+      "gpa": "3.0 GPA and selective in-person or digital audition monologue submission",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Artistic headshot, resume, and statement",
+      "references": "Two drama instructor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9146,
+    "title": "Wall Street Fintech & Cybersecurity Research Fellowship",
+    "university": "Pace University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary fellowship investigating high-frequency trading security, decentralized blockchain consensus vulnerabilities, and quantum-resistant cryptographic algorithms.",
+    "funding": "$5,000 research stipend and Wall Street corporate partner mentorship",
+    "tuition": "Covered by Seidenberg / Lubin Interdisciplinary Grant",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.pace.edu/seidenberg/research/fintech-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in computer science, cybersecurity, or finance",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Fintech security research prospectus",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];export const researchers=[
   {
     "id": 1,
@@ -318006,6 +323164,1627 @@ export const opportunities=[
     "source": "https://www.nacc.edu",
     "bio": "Prof. Mark Kelly directs regional advanced manufacturing partnerships, the Alabama FAME mechatronics chapter, and industrial automation apprenticeships.",
     "summary": "Prof. Mark Kelly directs regional advanced manufacturing partnerships, the Alabama FAME mechatronics chapter, and industrial automation apprenticeships.",
+    "reviewed": "2026-10-16"
+  }
+,
+{
+    "id": 4039,
+    "name": "Dr. Leah A. Barrett",
+    "role": "President of Northeast Community College",
+    "title": "President of Northeast Community College",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeast.edu",
+    "bio": "Dr. Leah A. Barrett serves as President of Northeast Community College, guiding multi-million dollar ag-tech facility expansions and rural workforce pipeline development.",
+    "summary": "Dr. Leah A. Barrett serves as President of Northeast Community College, guiding multi-million dollar ag-tech facility expansions and rural workforce pipeline development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4040,
+    "name": "Dr. Michele Gill",
+    "role": "Vice President of Educational Services",
+    "title": "Vice President of Educational Services",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "department": "Office of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeast.edu",
+    "bio": "Dr. Michele Gill directs instructional quality, career-technical accreditation, and university articulation agreements across all 20 Nebraska service counties.",
+    "summary": "Dr. Michele Gill directs instructional quality, career-technical accreditation, and university articulation agreements across all 20 Nebraska service counties.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4041,
+    "name": "Prof. Bernie Thyen",
+    "role": "Director of Agriculture and Water Resources",
+    "title": "Director of Agriculture and Water Resources",
+    "university": "Northeast Community College",
+    "country": "United States",
+    "department": "Applied Technology and Agriculture Division",
+    "subject": "environment",
+    "topics": [
+      "Applied Technology and Agriculture Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeast.edu",
+    "bio": "Prof. Bernie Thyen specializes in precision irrigation telemetry, soil health conservation, and agricultural drone applications in Midwestern crop production.",
+    "summary": "Prof. Bernie Thyen specializes in precision irrigation telemetry, soil health conservation, and agricultural drone applications in Midwestern crop production.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4042,
+    "name": "Dr. Katrina E. Bell-Jordan",
+    "role": "President of Northeastern Illinois University",
+    "title": "President of Northeastern Illinois University",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neiu.edu",
+    "bio": "Dr. Katrina E. Bell-Jordan serves as the 8th President of NEIU, a communications scholar focusing on intercultural rhetoric, educational equity, and urban university transformation.",
+    "summary": "Dr. Katrina E. Bell-Jordan serves as the 8th President of NEIU, a communications scholar focusing on intercultural rhetoric, educational equity, and urban university transformation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4043,
+    "name": "Dr. Marcelo Sztainberg",
+    "role": "Professor of Computer Science and Vice Provost",
+    "title": "Professor of Computer Science and Vice Provost",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neiu.edu",
+    "bio": "Dr. Marcelo Sztainberg conducts research in optimization algorithms, parallel computing, computer science education, and Hispanic STEM recruitment initiatives.",
+    "summary": "Dr. Marcelo Sztainberg conducts research in optimization algorithms, parallel computing, computer science education, and Hispanic STEM recruitment initiatives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4044,
+    "name": "Dr. Pamela Geddes",
+    "role": "Professor of Biology and Environmental Science",
+    "title": "Professor of Biology and Environmental Science",
+    "university": "Northeastern Illinois University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "environment",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.neiu.edu",
+    "bio": "Dr. Pamela Geddes is an aquatic ecologist who studies Great Lakes wetland biodiversity, urban watershed nutrient flows, and invasive species ecological dynamics.",
+    "summary": "Dr. Pamela Geddes is an aquatic ecologist who studies Great Lakes wetland biodiversity, urban watershed nutrient flows, and invasive species ecological dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4045,
+    "name": "Dr. Joseph E. Aoun",
+    "role": "President and Professor of Linguistics",
+    "title": "President and Professor of Linguistics",
+    "university": "Northeastern University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeastern.edu",
+    "bio": "Dr. Joseph E. Aoun has served as the 7th President of Northeastern University since 2006, internationally renowned for formulating 'Humanics' and transforming higher education through experiential learning.",
+    "summary": "Dr. Joseph E. Aoun has served as the 7th President of Northeastern University since 2006, internationally renowned for formulating 'Humanics' and transforming higher education through experiential learning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4046,
+    "name": "Dr. Usama Fayyad",
+    "role": "Executive Director of the Institute for Experiential AI and Professor of Computer Science",
+    "title": "Executive Director of the Institute for Experiential AI and Professor of Computer Science",
+    "university": "Northeastern University",
+    "country": "United States",
+    "department": "Khoury College of Computer Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Khoury College of Computer Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeastern.edu",
+    "bio": "Dr. Usama Fayyad is a data mining pioneer who served as the world's first Chief Data Officer at Yahoo!, researching machine learning, predictive big data models, and human-in-the-loop AI systems.",
+    "summary": "Dr. Usama Fayyad is a data mining pioneer who served as the world's first Chief Data Officer at Yahoo!, researching machine learning, predictive big data models, and human-in-the-loop AI systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4047,
+    "name": "Dr. Mansoor Amiji",
+    "role": "University Distinguished Professor of Pharmaceutical Sciences and Chemical Engineering",
+    "title": "University Distinguished Professor of Pharmaceutical Sciences and Chemical Engineering",
+    "university": "Northeastern University",
+    "country": "United States",
+    "department": "Department of Pharmaceutical Sciences",
+    "subject": "engineering",
+    "topics": [
+      "Department of Pharmaceutical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northeastern.edu",
+    "bio": "Dr. Mansoor Amiji directs translational nanomedicine research, engineering targeted polymeric and lipid nanoparticles for nucleic acid delivery in cancer and cardiovascular diseases.",
+    "summary": "Dr. Mansoor Amiji directs translational nanomedicine research, engineering targeted polymeric and lipid nanoparticles for nucleic acid delivery in cancer and cardiovascular diseases.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4048,
+    "name": "Dr. José Luis Cruz Rivera",
+    "role": "President and Professor of Electrical Engineering",
+    "title": "President and Professor of Electrical Engineering",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nau.edu",
+    "bio": "Dr. José Luis Cruz Rivera serves as the 17th President of NAU, an electrical engineer specializing in signal processing, higher education access, and Hispanic student equity.",
+    "summary": "Dr. José Luis Cruz Rivera serves as the 17th President of NAU, an electrical engineer specializing in signal processing, higher education access, and Hispanic student equity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4049,
+    "name": "Dr. Paul Keim",
+    "role": "Regents' Professor and Executive Director of the Pathogen and Microbiome Institute",
+    "title": "Regents' Professor and Executive Director of the Pathogen and Microbiome Institute",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "department": "Pathogen and Microbiome Institute",
+    "subject": "biology",
+    "topics": [
+      "Pathogen and Microbiome Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nau.edu",
+    "bio": "Dr. Paul Keim is a world authority in microbial genomics and pathogen forensics, who led the landmark genomic investigation identifying the 2001 Amerithrax anthrax strain.",
+    "summary": "Dr. Paul Keim is a world authority in microbial genomics and pathogen forensics, who led the landmark genomic investigation identifying the 2001 Amerithrax anthrax strain.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4050,
+    "name": "Dr. David Trilling",
+    "role": "Professor and Department Chair of Astronomy and Planetary Science",
+    "title": "Professor and Department Chair of Astronomy and Planetary Science",
+    "university": "Northern Arizona University",
+    "country": "United States",
+    "department": "Department of Astronomy and Planetary Science",
+    "subject": "physics",
+    "topics": [
+      "Department of Astronomy and Planetary Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nau.edu",
+    "bio": "Dr. David Trilling conducts observational planetary astronomy investigating near-Earth asteroids, Kuiper Belt objects, and planetary system formation using space telescopes.",
+    "summary": "Dr. David Trilling conducts observational planetary astronomy investigating near-Earth asteroids, Kuiper Belt objects, and planetary system formation using space telescopes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4051,
+    "name": "Dr. Lisa C. Freeman",
+    "role": "President and Professor of Biology",
+    "title": "President and Professor of Biology",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "biology",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.niu.edu",
+    "bio": "Dr. Lisa C. Freeman serves as President of NIU, a veterinary pharmacologist who has championed federal laboratory collaborations, student mental health, and inclusive STEM access.",
+    "summary": "Dr. Lisa C. Freeman serves as President of NIU, a veterinary pharmacologist who has championed federal laboratory collaborations, student mental health, and inclusive STEM access.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4052,
+    "name": "Dr. Gerald Blazey",
+    "role": "Vice President for Research and Innovation and Professor of Physics",
+    "title": "Vice President for Research and Innovation and Professor of Physics",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.niu.edu",
+    "bio": "Dr. Gerald Blazey is a distinguished high-energy experimental particle physicist who served as co-spokesperson of the DZero experiment at Fermilab's Tevatron collider.",
+    "summary": "Dr. Gerald Blazey is a distinguished high-energy experimental particle physicist who served as co-spokesperson of the DZero experiment at Fermilab's Tevatron collider.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4053,
+    "name": "Dr. Swapan Chattopadhyay",
+    "role": "Distinguished Professor of Physics and Director of Accelerator Science",
+    "title": "Distinguished Professor of Physics and Director of Accelerator Science",
+    "university": "Northern Illinois University",
+    "country": "United States",
+    "department": "Northern Illinois Center for Accelerator and Detector Development",
+    "subject": "physics",
+    "topics": [
+      "Northern Illinois Center for Accelerator and Detector Development"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.niu.edu",
+    "bio": "Dr. Swapan Chattopadhyay is an internationally celebrated accelerator physicist who has held leadership roles at Berkeley Lab, Jefferson Lab, and the Cockcroft Institute.",
+    "summary": "Dr. Swapan Chattopadhyay is an internationally celebrated accelerator physicist who has held leadership roles at Berkeley Lab, Jefferson Lab, and the Cockcroft Institute.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4054,
+    "name": "Dr. Cady Short-Thompson",
+    "role": "President of Northern Kentucky University",
+    "title": "President of Northern Kentucky University",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nku.edu",
+    "bio": "Dr. Cady Short-Thompson serves as the 7th President of NKU, an expert in communication studies, political rhetoric, and metropolitan university workforce alignment.",
+    "summary": "Dr. Cady Short-Thompson serves as the 7th President of NKU, an expert in communication studies, political rhetoric, and metropolitan university workforce alignment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4055,
+    "name": "Dr. Kevin Kirby",
+    "role": "Dean of the College of Informatics and Professor of Computer Science",
+    "title": "Dean of the College of Informatics and Professor of Computer Science",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "department": "College of Informatics",
+    "subject": "computer-science",
+    "topics": [
+      "College of Informatics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nku.edu",
+    "bio": "Dr. Kevin Kirby conducts research in computational intelligence, neural networks, biological computation models, and interdisciplinary informatics pedagogy.",
+    "summary": "Dr. Kevin Kirby conducts research in computational intelligence, neural networks, biological computation models, and interdisciplinary informatics pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4056,
+    "name": "Dr. James Walden",
+    "role": "Professor of Computer Science and Director of the Center for Information Security",
+    "title": "Professor of Computer Science and Director of the Center for Information Security",
+    "university": "Northern Kentucky University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nku.edu",
+    "bio": "Dr. James Walden investigates software vulnerability economics, automated source code security auditing, and web application threat defense.",
+    "summary": "Dr. James Walden investigates software vulnerability economics, automated source code security auditing, and web application threat defense.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4057,
+    "name": "Dr. Brock Tessman",
+    "role": "President of Northern Michigan University",
+    "title": "President of Northern Michigan University",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nmu.edu",
+    "bio": "Dr. Brock Tessman serves as President of NMU, a political scientist specializing in international relations, strategic forecasting, and rural public university vitality.",
+    "summary": "Dr. Brock Tessman serves as President of NMU, a political scientist specializing in international relations, strategic forecasting, and rural public university vitality.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4058,
+    "name": "Dr. Lesley Putman",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nmu.edu",
+    "bio": "Dr. Lesley Putman is a plant biochemist investigating phytoremediation of industrial environmental pollutants, plant secondary metabolites, and medicinal botanical compounds.",
+    "summary": "Dr. Lesley Putman is a plant biochemist investigating phytoremediation of industrial environmental pollutants, plant secondary metabolites, and medicinal botanical compounds.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4059,
+    "name": "Dr. Jill Leonard",
+    "role": "Professor and Department Head of Biology",
+    "title": "Professor and Department Head of Biology",
+    "university": "Northern Michigan University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nmu.edu",
+    "bio": "Dr. Jill Leonard is a fish physiologist who investigates migratory energetics, cold-water stress adaptations in Lake Superior trout, and aquatic conservation biology.",
+    "summary": "Dr. Jill Leonard is a fish physiologist who investigates migratory energetics, cold-water stress adaptations in Lake Superior trout, and aquatic conservation biology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4060,
+    "name": "Dr. Héctor Balderas",
+    "role": "President of Northern New Mexico College",
+    "title": "President of Northern New Mexico College",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nnmc.edu",
+    "bio": "Héctor Balderas serves as President of NNMC, former Attorney General and State Auditor of New Mexico, championing educational access and rural workforce infrastructure.",
+    "summary": "Héctor Balderas serves as President of NNMC, former Attorney General and State Auditor of New Mexico, championing educational access and rural workforce infrastructure.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4061,
+    "name": "Dr. Sadia Ahmed",
+    "role": "Chair and Associate Professor of Engineering and Technology",
+    "title": "Chair and Associate Professor of Engineering and Technology",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "department": "Department of Engineering and Technology",
+    "subject": "engineering",
+    "topics": [
+      "Department of Engineering and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nnmc.edu",
+    "bio": "Dr. Sadia Ahmed directs accredited engineering technology curricula, specializing in power systems, microcontroller design, and national laboratory workforce pipelines.",
+    "summary": "Dr. Sadia Ahmed directs accredited engineering technology curricula, specializing in power systems, microcontroller design, and national laboratory workforce pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4062,
+    "name": "Dr. Mario Izaguirre-Sierra",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "Northern New Mexico College",
+    "country": "United States",
+    "department": "Department of Biology, Chemistry, and Environmental Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology, Chemistry, and Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nnmc.edu",
+    "bio": "Dr. Mario Izaguirre-Sierra is a biomedical researcher investigating intracellular signaling, cellular transport mechanisms, and undergraduate laboratory science mentorship.",
+    "summary": "Dr. Mario Izaguirre-Sierra is a biomedical researcher investigating intracellular signaling, cellular transport mechanisms, and undergraduate laboratory science mentorship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4063,
+    "name": "Dr. Alyssa Kiesow",
+    "role": "Professor of Biology & Dean of Arts and Sciences",
+    "title": "Professor of Biology & Dean of Arts and Sciences",
+    "university": "Northern State University",
+    "country": "United States",
+    "department": "College of Arts and Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northern.edu",
+    "bio": "Dr. Kiesow's research specializes in molecular genetics, mammalogy, and prairie riparian ecology, investigating population genetics of regional wildlife species.",
+    "summary": "Dr. Kiesow's research specializes in molecular genetics, mammalogy, and prairie riparian ecology, investigating population genetics of regional wildlife species.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4064,
+    "name": "Dr. Jon Schaff",
+    "role": "Professor of Political Science",
+    "title": "Professor of Political Science",
+    "university": "Northern State University",
+    "country": "United States",
+    "department": "Department of History and Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of History and Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northern.edu",
+    "bio": "Dr. Schaff conducts research on American political thought, constitutional history, and presidential rhetoric, with monographs analyzing Abraham Lincoln's constitutionalism.",
+    "summary": "Dr. Schaff conducts research on American political thought, constitutional history, and presidential rhetoric, with monographs analyzing Abraham Lincoln's constitutionalism.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4065,
+    "name": "Dr. Peter Racheff",
+    "role": "Associate Professor of Business Administration",
+    "title": "Associate Professor of Business Administration",
+    "university": "Northern State University",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.northern.edu",
+    "bio": "Dr. Racheff focuses on financial econometrics, community banking performance, and rural capital formation across northern agricultural regions.",
+    "summary": "Dr. Racheff focuses on financial econometrics, community banking performance, and rural capital formation across northern agricultural regions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4066,
+    "name": "Prof. Christine Garceau",
+    "role": "Associate Professor of Photography",
+    "title": "Associate Professor of Photography",
+    "university": "Northwest College",
+    "country": "United States",
+    "department": "Visual and Performing Arts Division",
+    "subject": "arts-design",
+    "topics": [
+      "Visual and Performing Arts Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nwc.edu",
+    "bio": "Prof. Garceau is a nationally exhibited documentary photographer exploring the intersection of human community identity, western landscapes, and indigenous traditions.",
+    "summary": "Prof. Garceau is a nationally exhibited documentary photographer exploring the intersection of human community identity, western landscapes, and indigenous traditions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4067,
+    "name": "Dr. Eric Atkinson",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "Northwest College",
+    "country": "United States",
+    "department": "Life and Health Sciences Division",
+    "subject": "biology",
+    "topics": [
+      "Life and Health Sciences Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nwc.edu",
+    "bio": "Dr. Atkinson is an avian ecologist and conservation biologist leading long-term ecological surveys on raptor populations and sagebrush steppe habitat dynamics.",
+    "summary": "Dr. Atkinson is an avian ecologist and conservation biologist leading long-term ecological surveys on raptor populations and sagebrush steppe habitat dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4068,
+    "name": "Prof. Astrid Northrup",
+    "role": "Professor of Engineering and Mathematics",
+    "title": "Professor of Engineering and Mathematics",
+    "university": "Northwest College",
+    "country": "United States",
+    "department": "Physical Sciences and Mathematics Division",
+    "subject": "engineering",
+    "topics": [
+      "Physical Sciences and Mathematics Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nwc.edu",
+    "bio": "Prof. Northrup specializes in geotechnical engineering, distance stem pedagogy, and hydrogeologic fluid dynamics across intermountain river systems.",
+    "summary": "Prof. Northrup specializes in geotechnical engineering, distance stem pedagogy, and hydrogeologic fluid dynamics across intermountain river systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4069,
+    "name": "Dr. Michael Lim",
+    "role": "Associate Professor of Computer Science",
+    "title": "Associate Professor of Computer Science",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "department": "School of Computer Science and Information Systems",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computer Science and Information Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nwmissouri.edu",
+    "bio": "Dr. Lim's research focuses on distributed cloud computing, cybersecurity defensive architectures, and deep neural network model acceleration for edge computing devices.",
+    "summary": "Dr. Lim's research focuses on distributed cloud computing, cybersecurity defensive architectures, and deep neural network model acceleration for edge computing devices.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4070,
+    "name": "Dr. Rod Barr",
+    "role": "Director & Associate Professor of Agricultural Sciences",
+    "title": "Director & Associate Professor of Agricultural Sciences",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "department": "School of Agricultural Sciences",
+    "subject": "environment",
+    "topics": [
+      "School of Agricultural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nwmissouri.edu",
+    "bio": "Dr. Barr directs the Agricultural Learning Center, researching soil moisture retention dynamics, conservation tillage methods, and agricultural educational technologies.",
+    "summary": "Dr. Barr directs the Agricultural Learning Center, researching soil moisture retention dynamics, conservation tillage methods, and agricultural educational technologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4071,
+    "name": "Dr. Himadri Chakraborty",
+    "role": "Professor of Physics",
+    "title": "Professor of Physics",
+    "university": "Northwest Missouri State University",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "physics",
+    "topics": [
+      "Department of Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nwmissouri.edu",
+    "bio": "Dr. Chakraborty investigates atomic, molecular, and optical physics, photoionization of endohedral fullerenes, and collective plasmon excitations in metallic nanoparticles.",
+    "summary": "Dr. Chakraborty investigates atomic, molecular, and optical physics, photoionization of endohedral fullerenes, and collective plasmon excitations in metallic nanoparticles.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4072,
+    "name": "Prof. Hans VanSumeren",
+    "role": "Director & Professor of Marine Technology",
+    "title": "Director & Professor of Marine Technology",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "department": "Great Lakes Water Studies Institute",
+    "subject": "engineering",
+    "topics": [
+      "Great Lakes Water Studies Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmc.edu",
+    "bio": "Prof. VanSumeren directs marine robotics and hydrographic bathymetry research, deploying subsea AUV and ROV platforms for Great Lakes benthic and shipwreck mapping.",
+    "summary": "Prof. VanSumeren directs marine robotics and hydrographic bathymetry research, deploying subsea AUV and ROV platforms for Great Lakes benthic and shipwreck mapping.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4073,
+    "name": "Capt. Jerry Achenbach",
+    "role": "Superintendent & Master Mariner",
+    "title": "Superintendent & Master Mariner",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "department": "Great Lakes Maritime Academy",
+    "subject": "engineering",
+    "topics": [
+      "Great Lakes Maritime Academy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmc.edu",
+    "bio": "Capt. Achenbach oversees maritime navigation, vessel safety management systems, and polar water navigational certification protocols for deep-draft commercial vessels.",
+    "summary": "Capt. Achenbach oversees maritime navigation, vessel safety management systems, and polar water navigational certification protocols for deep-draft commercial vessels.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4074,
+    "name": "Dr. Constanza Hazelwood",
+    "role": "Education & Outreach Coordinator",
+    "title": "Education & Outreach Coordinator",
+    "university": "Northwestern Michigan College",
+    "country": "United States",
+    "department": "Freshwater Studies Institute",
+    "subject": "environment",
+    "topics": [
+      "Freshwater Studies Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nmc.edu",
+    "bio": "Dr. Hazelwood leads international watershed conservation education initiatives and collaborative water quality monitoring between North and South American river basins.",
+    "summary": "Dr. Hazelwood leads international watershed conservation education initiatives and collaborative water quality monitoring between North and South American river basins.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4075,
+    "name": "Dr. Curtis Phifer",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "department": "School of Biological and Physical Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Biological and Physical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nsula.edu",
+    "bio": "Dr. Phifer specializes in animal physiology, neurobiology, and toxicology, investigating neural mechanisms and chemical environmental contaminants in southern waterways.",
+    "summary": "Dr. Phifer specializes in animal physiology, neurobiology, and toxicology, investigating neural mechanisms and chemical environmental contaminants in southern waterways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4076,
+    "name": "Dr. Joel Hicks",
+    "role": "Dean & Professor of Radiologic Sciences",
+    "title": "Dean & Professor of Radiologic Sciences",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "department": "College of Nursing and Allied Health",
+    "subject": "biology",
+    "topics": [
+      "College of Nursing and Allied Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nsula.edu",
+    "bio": "Dr. Hicks's research focuses on diagnostic imaging modalities, radiation dosimetry safety standards, and clinical radiography educational pedagogy.",
+    "summary": "Dr. Hicks's research focuses on diagnostic imaging modalities, radiation dosimetry safety standards, and clinical radiography educational pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4077,
+    "name": "Dr. Mark Melder",
+    "role": "Professor of Criminal Justice and Sociology",
+    "title": "Professor of Criminal Justice and Sociology",
+    "university": "Northwestern State University",
+    "country": "United States",
+    "department": "Department of Criminal Justice, History, and Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Criminal Justice, History, and Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nsula.edu",
+    "bio": "Dr. Melder investigates rural crime trends, criminological theory, and organizational emergency response dynamics in post-disaster community recovery.",
+    "summary": "Dr. Melder investigates rural crime trends, criminological theory, and organizational emergency response dynamics in post-disaster community recovery.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4078,
+    "name": "Dr. Anne Lin",
+    "role": "Dean & Professor of Pharmacy",
+    "title": "Dean & Professor of Pharmacy",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "department": "School of Pharmacy",
+    "subject": "biology",
+    "topics": [
+      "School of Pharmacy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndm.edu",
+    "bio": "Dr. Lin is an acclaimed pharmacy educator and clinical researcher focusing on clinical pharmacology curriculum innovation and interprofessional healthcare outcomes.",
+    "summary": "Dr. Lin is an acclaimed pharmacy educator and clinical researcher focusing on clinical pharmacology curriculum innovation and interprofessional healthcare outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4079,
+    "name": "Dr. Angela Sherman",
+    "role": "Professor & Chair of Chemistry",
+    "title": "Professor & Chair of Chemistry",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndm.edu",
+    "bio": "Dr. Sherman's research investigates organometallic chemistry, heavy metal water contaminants, and pedagogies for undergraduate chemical instrumentation training.",
+    "summary": "Dr. Sherman's research investigates organometallic chemistry, heavy metal water contaminants, and pedagogies for undergraduate chemical instrumentation training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4080,
+    "name": "Dr. Jennifer Kerr",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "Notre Dame of Maryland University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ndm.edu",
+    "bio": "Dr. Kerr is an infectious disease biologist leading the Tiny Earth initiative at NDMU, hunting for novel antibiotic-producing soil microorganisms to combat superbugs.",
+    "summary": "Dr. Kerr is an infectious disease biologist leading the Tiny Earth initiative at NDMU, hunting for novel antibiotic-producing soil microorganisms to combat superbugs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4081,
+    "name": "Dr. Yann LeCun",
+    "role": "Silver Professor of Computer Science and Neural Science",
+    "title": "Silver Professor of Computer Science and Neural Science",
+    "university": "New York University",
+    "country": "United States",
+    "department": "Courant Institute of Mathematical Sciences & Center for Data Science",
+    "subject": "computer-science",
+    "topics": [
+      "Courant Institute of Mathematical Sciences & Center for Data Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyu.edu",
+    "bio": "Turing Award laureate and Chief AI Scientist at Meta; pioneer of convolutional neural networks, self-supervised learning, and modern deep learning architectures.",
+    "summary": "Turing Award laureate and Chief AI Scientist at Meta; pioneer of convolutional neural networks, self-supervised learning, and modern deep learning architectures.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4082,
+    "name": "Dr. Leslie Greengard",
+    "role": "Professor of Mathematics and Computer Science",
+    "title": "Professor of Mathematics and Computer Science",
+    "university": "New York University",
+    "country": "United States",
+    "department": "Courant Institute of Mathematical Sciences",
+    "subject": "mathematics",
+    "topics": [
+      "Courant Institute of Mathematical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyu.edu",
+    "bio": "Co-inventor of the Fast Multipole Method (one of the top 10 algorithms of the 20th century); member of NAS, NAE, and Director of the Center for Computational Biology at Flatiron Institute.",
+    "summary": "Co-inventor of the Fast Multipole Method (one of the top 10 algorithms of the 20th century); member of NAS, NAE, and Director of the Center for Computational Biology at Flatiron Institute.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4083,
+    "name": "Dr. Jef Boeke",
+    "role": "Professor of Biochemistry and Molecular Pharmacology",
+    "title": "Professor of Biochemistry and Molecular Pharmacology",
+    "university": "New York University",
+    "country": "United States",
+    "department": "NYU Grossman School of Medicine",
+    "subject": "biology",
+    "topics": [
+      "NYU Grossman School of Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nyu.edu",
+    "bio": "Director of the Institute for Systems Genetics; pioneer of synthetic genomics leading the Synthetic Yeast Genome Project (Sc2.0) and human retrotransposon research.",
+    "summary": "Director of the Institute for Systems Genetics; pioneer of synthetic genomics leading the Synthetic Yeast Genome Project (Sc2.0) and human retrotransposon research.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4084,
+    "name": "Dr. Dawn Frank",
+    "role": "President & Professor of Education",
+    "title": "President & Professor of Education",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "department": "Office of the President & Graduate Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President & Graduate Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olc.edu",
+    "bio": "Dr. Frank leads tribal higher education policy, indigenous curriculum development, and institutional governance initiatives across the American Indian Higher Education Consortium.",
+    "summary": "Dr. Frank leads tribal higher education policy, indigenous curriculum development, and institutional governance initiatives across the American Indian Higher Education Consortium.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4085,
+    "name": "Prof. Richard Zephier",
+    "role": "Chair of Lakota Studies",
+    "title": "Chair of Lakota Studies",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "department": "Department of Lakota Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Lakota Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olc.edu",
+    "bio": "Prof. Zephier focuses on Lakota linguistic revitalisation, sacred site preservation, tribal customary law, and comparative indigenous governance models.",
+    "summary": "Prof. Zephier focuses on Lakota linguistic revitalisation, sacred site preservation, tribal customary law, and comparative indigenous governance models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4086,
+    "name": "Dr. Jason Tinant",
+    "role": "Chair of Math, Science and Technology",
+    "title": "Chair of Math, Science and Technology",
+    "university": "Oglala Lakota College",
+    "country": "United States",
+    "department": "Department of Math and Science",
+    "subject": "environment",
+    "topics": [
+      "Department of Math and Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olc.edu",
+    "bio": "Dr. Tinant conducts hydrogeological research on Badlands watershed sedimentation, aquifer recharge vulnerability, and traditional environmental knowledge integration.",
+    "summary": "Dr. Tinant conducts hydrogeological research on Badlands watershed sedimentation, aquifer recharge vulnerability, and traditional environmental knowledge integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4087,
+    "name": "Dr. Matthew Emerson",
+    "role": "Co-Provost & Professor of Religion",
+    "title": "Co-Provost & Professor of Religion",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "department": "Hobbs College of Theology and Ministry",
+    "subject": "social-sciences",
+    "topics": [
+      "Hobbs College of Theology and Ministry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okbu.edu",
+    "bio": "Dr. Emerson's research spans biblical theology, early church hermeneutics, and patristic Christology, having published extensively on biblical eschatology.",
+    "summary": "Dr. Emerson's research spans biblical theology, early church hermeneutics, and patristic Christology, having published extensively on biblical eschatology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4088,
+    "name": "Dr. Dale Griffin",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "department": "Jane E. and Nick K. Hurley College of Science and Mathematics",
+    "subject": "biology",
+    "topics": [
+      "Jane E. and Nick K. Hurley College of Science and Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okbu.edu",
+    "bio": "Dr. Griffin investigates microbial ecology, bacterial genetics, and cellular immunology, mentoring numerous undergraduate INBRE biomedical fellows.",
+    "summary": "Dr. Griffin investigates microbial ecology, bacterial genetics, and cellular immunology, mentoring numerous undergraduate INBRE biomedical fellows.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4089,
+    "name": "Dr. Megan Smith",
+    "role": "Associate Professor of Nursing & Program Director",
+    "title": "Associate Professor of Nursing & Program Director",
+    "university": "Oklahoma Baptist University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okbu.edu",
+    "bio": "Dr. Smith specializes in pediatric clinical nursing, simulation pedagogy in nursing education, and community healthcare access across rural Oklahoma.",
+    "summary": "Dr. Smith specializes in pediatric clinical nursing, simulation pedagogy in nursing education, and community healthcare access across rural Oklahoma.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4090,
+    "name": "Dr. Byron Newberry",
+    "role": "Dean & Professor of Mechanical Engineering",
+    "title": "Dean & Professor of Mechanical Engineering",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "department": "College of Engineering and Computer Science",
+    "subject": "engineering",
+    "topics": [
+      "College of Engineering and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oc.edu",
+    "bio": "Dr. Newberry is an expert in engineering ethics, solid mechanics, and finite element modeling, having served on national engineering accreditation review boards.",
+    "summary": "Dr. Newberry is an expert in engineering ethics, solid mechanics, and finite element modeling, having served on national engineering accreditation review boards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4091,
+    "name": "Dr. David North",
+    "role": "Director of Computer Science & Associate Professor",
+    "title": "Director of Computer Science & Associate Professor",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oc.edu",
+    "bio": "Dr. North's research focuses on software design methodologies, computing education pedagogy, and intelligent algorithmic agents for multi-agent game environments.",
+    "summary": "Dr. North's research focuses on software design methodologies, computing education pedagogy, and intelligent algorithmic agents for multi-agent game environments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4092,
+    "name": "Prof. Jeff Price",
+    "role": "Professor of Gaming and Animation",
+    "title": "Professor of Gaming and Animation",
+    "university": "Oklahoma Christian University",
+    "country": "United States",
+    "department": "Department of Art and Design",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Art and Design"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oc.edu",
+    "bio": "Prof. Price has over two decades of industry and academic experience in 3D digital sculpting, interactive media, and game development pipelines.",
+    "summary": "Prof. Price has over two decades of industry and academic experience in 3D digital sculpting, interactive media, and game development pipelines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4093,
+    "name": "Dr. Mark Parker",
+    "role": "Dean & Professor of Music",
+    "title": "Dean & Professor of Music",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "department": "Wanda L. Bass School of Music",
+    "subject": "arts-design",
+    "topics": [
+      "Wanda L. Bass School of Music"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okcu.edu",
+    "bio": "Dr. Parker has spearheaded modern opera and musical theatre curriculum, overseeing 250+ annual performances and building partnerships with national symphony orchestras.",
+    "summary": "Dr. Parker has spearheaded modern opera and musical theatre curriculum, overseeing 250+ annual performances and building partnerships with national symphony orchestras.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4094,
+    "name": "Dr. Lois Salmeron",
+    "role": "Dean & Professor of Nursing",
+    "title": "Dean & Professor of Nursing",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "department": "Kramer School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Kramer School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okcu.edu",
+    "bio": "Dr. Salmeron is an authority on nursing regulation, healthcare administration, and the accreditation standards of professional doctoral nursing programs.",
+    "summary": "Dr. Salmeron is an authority on nursing regulation, healthcare administration, and the accreditation standards of professional doctoral nursing programs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4095,
+    "name": "Dr. Russell Evans",
+    "role": "Professor of Economics & Executive Director",
+    "title": "Professor of Economics & Executive Director",
+    "university": "Oklahoma City University",
+    "country": "United States",
+    "department": "Meinders School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Meinders School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okcu.edu",
+    "bio": "Dr. Evans directs the Steven C. Agee Economic Research Policy Institute, providing econometric forecasting and regional fiscal policy analyses for Oklahoma state leadership.",
+    "summary": "Dr. Evans directs the Steven C. Agee Economic Research Policy Institute, providing econometric forecasting and regional fiscal policy analyses for Oklahoma state leadership.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4096,
+    "name": "Prof. Linda Hughes",
+    "role": "Director & Professor of Nurse Science",
+    "title": "Director & Professor of Nurse Science",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "department": "Health Sciences Division",
+    "subject": "biology",
+    "topics": [
+      "Health Sciences Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuokc.edu",
+    "bio": "Prof. Hughes is a veteran clinical educator leading healthcare simulation technology integration and patient safety curriculum standards in urban clinical education.",
+    "summary": "Prof. Hughes is a veteran clinical educator leading healthcare simulation technology integration and patient safety curriculum standards in urban clinical education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4097,
+    "name": "Prof. Todd Lisle",
+    "role": "Department Head of Information Technologies",
+    "title": "Department Head of Information Technologies",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "department": "Science, Technology, Engineering and Mathematics Division",
+    "subject": "computer-science",
+    "topics": [
+      "Science, Technology, Engineering and Mathematics Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuokc.edu",
+    "bio": "Prof. Lisle focuses on network defense infrastructure, digital forensics protocols, and workforce alignment for critical infrastructure cybersecurity.",
+    "summary": "Prof. Lisle focuses on network defense infrastructure, digital forensics protocols, and workforce alignment for critical infrastructure cybersecurity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4098,
+    "name": "Prof. Keith Mitchell",
+    "role": "Lead Faculty & Horticulturist",
+    "title": "Lead Faculty & Horticulturist",
+    "university": "Oklahoma State University - Oklahoma City",
+    "country": "United States",
+    "department": "Kirkpatrick Horticulture Center",
+    "subject": "environment",
+    "topics": [
+      "Kirkpatrick Horticulture Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuokc.edu",
+    "bio": "Prof. Mitchell leads trials on drought-tolerant ornamental plants, native Great Plains grasses, and sustainable municipal urban farming practices.",
+    "summary": "Prof. Mitchell leads trials on drought-tolerant ornamental plants, native Great Plains grasses, and sustainable municipal urban farming practices.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4099,
+    "name": "Dr. Bill R. Path",
+    "role": "President & Professor of Applied Technology",
+    "title": "President & Professor of Applied Technology",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuit.edu",
+    "bio": "Dr. Path is a national advocate for workforce higher education, championing corporate partnerships and high-tech apprenticeships with Fortune 500 corporations.",
+    "summary": "Dr. Path is a national advocate for workforce higher education, championing corporate partnerships and high-tech apprenticeships with Fortune 500 corporations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4100,
+    "name": "Prof. Terryl Lindsey",
+    "role": "Dean of the School of Engineering & Construction Technologies",
+    "title": "Dean of the School of Engineering & Construction Technologies",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "department": "School of Engineering & Construction Technologies",
+    "subject": "engineering",
+    "topics": [
+      "School of Engineering & Construction Technologies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuit.edu",
+    "bio": "Prof. Lindsey directs engineering curriculum integration across instrumentation, heavy equipment, and utility power distribution systems.",
+    "summary": "Prof. Lindsey directs engineering curriculum integration across instrumentation, heavy equipment, and utility power distribution systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4101,
+    "name": "Prof. Keith Austin",
+    "role": "Faculty Chair of Pipeline Integrity",
+    "title": "Faculty Chair of Pipeline Integrity",
+    "university": "Oklahoma State University Institute of Technology",
+    "country": "United States",
+    "department": "Pipeline and Gas Measurement Division",
+    "subject": "engineering",
+    "topics": [
+      "Pipeline and Gas Measurement Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osuit.edu",
+    "bio": "Prof. Austin leads NACE-certified research in corrosion science, electromagnetic pipe inspection, and automated midstream pipeline monitoring systems.",
+    "summary": "Prof. Austin leads NACE-certified research in corrosion science, electromagnetic pipe inspection, and automated midstream pipeline monitoring systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4102,
+    "name": "Dr. Jim Dunn",
+    "role": "President & Professor of Leadership",
+    "title": "President & Professor of Leadership",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okwu.edu",
+    "bio": "Dr. Dunn is a theologian and university administrator dedicated to faith integration in higher education, servant leadership, and non-profit organization governance.",
+    "summary": "Dr. Dunn is a theologian and university administrator dedicated to faith integration in higher education, servant leadership, and non-profit organization governance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4103,
+    "name": "Dr. Rosa Stone",
+    "role": "Dean & Professor of Nursing",
+    "title": "Dean & Professor of Nursing",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okwu.edu",
+    "bio": "Dr. Stone oversees CCNE-accredited nursing programs, researching clinical competency evaluation and cultural humility in cross-cultural medical settings.",
+    "summary": "Dr. Stone oversees CCNE-accredited nursing programs, researching clinical competency evaluation and cultural humility in cross-cultural medical settings.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4104,
+    "name": "Dr. Mark Weeter",
+    "role": "Professor of Biblical Studies & Provost",
+    "title": "Professor of Biblical Studies & Provost",
+    "university": "Oklahoma Wesleyan University",
+    "country": "United States",
+    "department": "School of Ministry and Christian Thought",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Ministry and Christian Thought"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.okwu.edu",
+    "bio": "Dr. Weeter is an author and scholar of New Testament literature, Pauline theology, and pastoral ministry preparation.",
+    "summary": "Dr. Weeter is an author and scholar of New Testament literature, Pauline theology, and pastoral ministry preparation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4105,
+    "name": "Dr. Tracy Davis",
+    "role": "President & Professor of Education",
+    "title": "President & Professor of Education",
+    "university": "Olivet University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olivetuniversity.edu",
+    "bio": "Dr. Davis provides institutional oversight and researches global higher education models, international student retention, and online theological pedagogy.",
+    "summary": "Dr. Davis provides institutional oversight and researches global higher education models, international student retention, and online theological pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4106,
+    "name": "Dr. Donald Treadwell",
+    "role": "Dean & Professor of Theology",
+    "title": "Dean & Professor of Theology",
+    "university": "Olivet University",
+    "country": "United States",
+    "department": "Olivet Theological Seminary",
+    "subject": "social-sciences",
+    "topics": [
+      "Olivet Theological Seminary"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olivetuniversity.edu",
+    "bio": "Dr. Treadwell specializes in systematic theology, historical theology of the Reformation, and pastoral leadership development across multicultural settings.",
+    "summary": "Dr. Treadwell specializes in systematic theology, historical theology of the Reformation, and pastoral leadership development across multicultural settings.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4107,
+    "name": "Dr. Merril Smoak",
+    "role": "Dean & Professor of Sacred Music",
+    "title": "Dean & Professor of Sacred Music",
+    "university": "Olivet University",
+    "country": "United States",
+    "department": "Jubilee College of Music",
+    "subject": "arts-design",
+    "topics": [
+      "Jubilee College of Music"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.olivetuniversity.edu",
+    "bio": "Dr. Smoak is a distinguished hymnodist and choral conductor with extensive publications on the history of congregational song and hymnology in America.",
+    "summary": "Dr. Smoak is a distinguished hymnodist and choral conductor with extensive publications on the history of congregational song and hymnology in America.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4108,
+    "name": "Dr. William M. Wilson",
+    "role": "President & Professor of Global Leadership",
+    "title": "President & Professor of Global Leadership",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oru.edu",
+    "bio": "Dr. Wilson is an internationally recognized evangelical author and global church statesman, serving as Chair of the Pentecostal World Fellowship.",
+    "summary": "Dr. Wilson is an internationally recognized evangelical author and global church statesman, serving as Chair of the Pentecostal World Fellowship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4109,
+    "name": "Dr. Elena E. Gregg",
+    "role": "Associate Professor of Engineering",
+    "title": "Associate Professor of Engineering",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "department": "College of Science and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "College of Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oru.edu",
+    "bio": "Dr. Gregg specializes in fluid mechanics, heat transfer modeling, and innovative pedagogies in undergraduate mechanical and biomedical engineering.",
+    "summary": "Dr. Gregg specializes in fluid mechanics, heat transfer modeling, and innovative pedagogies in undergraduate mechanical and biomedical engineering.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4110,
+    "name": "Dr. Audrey Thompson",
+    "role": "Dean & Professor of Nursing",
+    "title": "Dean & Professor of Nursing",
+    "university": "Oral Roberts University",
+    "country": "United States",
+    "department": "Anna Vaughn College of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Anna Vaughn College of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oru.edu",
+    "bio": "Dr. Thompson is an expert in clinical transcultural nursing, maternal-infant health outcomes, and simulation-based clinical healthcare education.",
+    "summary": "Dr. Thompson is an expert in clinical transcultural nursing, maternal-infant health outcomes, and simulation-based clinical healthcare education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4111,
+    "name": "Dr. Brian Druker",
+    "role": "Director & Professor of Medicine",
+    "title": "Director & Professor of Medicine",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "department": "Knight Cancer Institute",
+    "subject": "biology",
+    "topics": [
+      "Knight Cancer Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ohsu.edu",
+    "bio": "Lasker-DeBakey Award recipient and National Academy of Sciences member; pioneer of targeted cancer therapy who revolutionized chronic myeloid leukemia treatment with imatinib (Gleevec).",
+    "summary": "Lasker-DeBakey Award recipient and National Academy of Sciences member; pioneer of targeted cancer therapy who revolutionized chronic myeloid leukemia treatment with imatinib (Gleevec).",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4112,
+    "name": "Dr. William R. Hersh",
+    "role": "Professor & Chair of Medical Informatics and Clinical Epidemiology",
+    "title": "Professor & Chair of Medical Informatics and Clinical Epidemiology",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "department": "School of Medicine",
+    "subject": "computer-science",
+    "topics": [
+      "School of Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ohsu.edu",
+    "bio": "Dr. Hersh is an internationally recognized pioneer in medical informatics, information retrieval in medicine, electronic health record workforce evaluation, and health data science.",
+    "summary": "Dr. Hersh is an internationally recognized pioneer in medical informatics, information retrieval in medicine, electronic health record workforce evaluation, and health data science.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4113,
+    "name": "Dr. Marc Freeman",
+    "role": "Director & Senior Scientist",
+    "title": "Director & Senior Scientist",
+    "university": "Oregon Health & Science University",
+    "country": "United States",
+    "department": "Vollum Institute",
+    "subject": "biology",
+    "topics": [
+      "Vollum Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ohsu.edu",
+    "bio": "National Academy of Medicine member investigating glial cell biology, axon degeneration mechanisms, and neuron-glia communication in neurodegenerative disorders.",
+    "summary": "National Academy of Medicine member investigating glial cell biology, axon degeneration mechanisms, and neuron-glia communication in neurodegenerative disorders.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4114,
+    "name": "Dr. Jonathan Hurst",
+    "role": "Professor of Mechanical Engineering & Chief Technology Officer",
+    "title": "Professor of Mechanical Engineering & Chief Technology Officer",
+    "university": "Oregon State University",
+    "country": "United States",
+    "department": "Collaborative Robotics and Intelligent Systems Institute (CoRIs)",
+    "subject": "engineering",
+    "topics": [
+      "Collaborative Robotics and Intelligent Systems Institute (CoRIs)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oregonstate.edu",
+    "bio": "Co-founder of Agility Robotics and lead designer of Cassie and Digit bipedal walking robots; pioneer in dynamic legged locomotion and passive elastic mechanical design.",
+    "summary": "Co-founder of Agility Robotics and lead designer of Cassie and Digit bipedal walking robots; pioneer in dynamic legged locomotion and passive elastic mechanical design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4115,
+    "name": "Dr. Jane Lubchenco",
+    "role": "University Distinguished Professor of Marine Biology",
+    "title": "University Distinguished Professor of Marine Biology",
+    "university": "Oregon State University",
+    "country": "United States",
+    "department": "Department of Integrative Biology",
+    "subject": "environment",
+    "topics": [
+      "Department of Integrative Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oregonstate.edu",
+    "bio": "Former Administrator of NOAA and member of the National Academy of Sciences; global authority on marine biodiversity, climate change ocean acidification, and marine reserves.",
+    "summary": "Former Administrator of NOAA and member of the National Academy of Sciences; global authority on marine biodiversity, climate change ocean acidification, and marine reserves.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4116,
+    "name": "Dr. Thomas Dietterich",
+    "role": "Distinguished Professor Emeritus of Computer Science",
+    "title": "Distinguished Professor Emeritus of Computer Science",
+    "university": "Oregon State University",
+    "country": "United States",
+    "department": "School of Electrical Engineering and Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "School of Electrical Engineering and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://oregonstate.edu",
+    "bio": "Former President of AAAI and one of the founders of the field of machine learning; pioneer in ensemble learning methods and robust artificial intelligence systems.",
+    "summary": "Former President of AAAI and one of the founders of the field of machine learning; pioneer in ensemble learning methods and robust artificial intelligence systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4117,
+    "name": "Dr. Andrew Ketsdever",
+    "role": "Vice President & Professor of Aerospace Engineering",
+    "title": "Vice President & Professor of Aerospace Engineering",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "department": "Office of the Vice President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the Vice President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osucascades.edu",
+    "bio": "Dr. Ketsdever leads OSU-Cascades' campus expansion, specializing in rarefied gas dynamics, micro-propulsion systems for nanosatellites, and high-altitude aerodynamic flight.",
+    "summary": "Dr. Ketsdever leads OSU-Cascades' campus expansion, specializing in rarefied gas dynamics, micro-propulsion systems for nanosatellites, and high-altitude aerodynamic flight.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4118,
+    "name": "Dr. Rebecca Vega Thurber",
+    "role": "Adjunct Professor of Microbiology",
+    "title": "Adjunct Professor of Microbiology",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "department": "Department of Microbiology & Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Microbiology & Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osucascades.edu",
+    "bio": "Dr. Vega Thurber investigates marine virology, coral reef microbiome resilience under warming conditions, and microbial ecology across Pacific rim aquatic ecosystems.",
+    "summary": "Dr. Vega Thurber investigates marine virology, coral reef microbiome resilience under warming conditions, and microbial ecology across Pacific rim aquatic ecosystems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4119,
+    "name": "Prof. Kreg Lindberg",
+    "role": "Professor of Sustainable Tourism and Recreation",
+    "title": "Professor of Sustainable Tourism and Recreation",
+    "university": "Oregon State University-Cascades",
+    "country": "United States",
+    "department": "Tourism, Recreation and Adventure Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Tourism, Recreation and Adventure Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://osucascades.edu",
+    "bio": "Prof. Lindberg analyzes the economic impacts of nature-based tourism, subjective well-being in recreation communities, and sustainable municipal park planning.",
+    "summary": "Prof. Lindberg analyzes the economic impacts of nature-based tourism, subjective well-being in recreation communities, and sustainable municipal park planning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4120,
+    "name": "Dr. Nagi Naganathan",
+    "role": "President & Professor of Mechanical Engineering",
+    "title": "President & Professor of Mechanical Engineering",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oit.edu",
+    "bio": "Dr. Naganathan is an ASME Fellow and renowned researcher in smart materials, piezoelectric actuators, and polytechnic engineering workforce innovation.",
+    "summary": "Dr. Naganathan is an ASME Fellow and renowned researcher in smart materials, piezoelectric actuators, and polytechnic engineering workforce innovation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4121,
+    "name": "Dr. Hope Corsair",
+    "role": "Associate Professor & Chair of Electrical Engineering and Renewable Energy",
+    "title": "Associate Professor & Chair of Electrical Engineering and Renewable Energy",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "department": "Department of Electrical Engineering and Renewable Energy",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical Engineering and Renewable Energy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oit.edu",
+    "bio": "Dr. Corsair researches energy economics, electrical grid dispatch optimization, renewable portfolio standards, and life-cycle environmental impact of energy storage.",
+    "summary": "Dr. Corsair researches energy economics, electrical grid dispatch optimization, renewable portfolio standards, and life-cycle environmental impact of energy storage.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4122,
+    "name": "Prof. Mason Terry",
+    "role": "Director of Oregon Renewable Energy Center (OREC)",
+    "title": "Director of Oregon Renewable Energy Center (OREC)",
+    "university": "Oregon Institute of Technology",
+    "country": "United States",
+    "department": "Oregon Renewable Energy Center",
+    "subject": "engineering",
+    "topics": [
+      "Oregon Renewable Energy Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.oit.edu",
+    "bio": "Prof. Terry leads applied research on photovoltaic degradation rates, microgrid controllers, and rural electric cooperative solar integration across the Intermountain West.",
+    "summary": "Prof. Terry leads applied research on photovoltaic degradation rates, microgrid controllers, and rural electric cooperative solar integration across the Intermountain West.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4123,
+    "name": "Dr. Dennis Tyner",
+    "role": "President & Professor of Electrical Engineering",
+    "title": "President & Professor of Electrical Engineering",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "engineering",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ottawa.edu",
+    "bio": "Dr. Tyner has overseen the establishment and dramatic growth of OUAZ in Surprise, researching microwave communication circuits and STEM educational leadership.",
+    "summary": "Dr. Tyner has overseen the establishment and dramatic growth of OUAZ in Surprise, researching microwave communication circuits and STEM educational leadership.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4124,
+    "name": "Dr. Brian Sandberg",
+    "role": "Associate Professor of Exercise Science",
+    "title": "Associate Professor of Exercise Science",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "department": "Department of Health and Human Performance",
+    "subject": "biology",
+    "topics": [
+      "Department of Health and Human Performance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ottawa.edu",
+    "bio": "Dr. Sandberg specializes in biomechanical gait analysis, strength conditioning methodologies for collegiate athletes, and neuromuscular injury prevention.",
+    "summary": "Dr. Sandberg specializes in biomechanical gait analysis, strength conditioning methodologies for collegiate athletes, and neuromuscular injury prevention.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4125,
+    "name": "Dr. Karen Adams",
+    "role": "Professor of Counseling & Psychology",
+    "title": "Professor of Counseling & Psychology",
+    "university": "Ottawa University Arizona",
+    "country": "United States",
+    "department": "School of Arts and Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ottawa.edu",
+    "bio": "Dr. Adams researches community trauma intervention models, cross-cultural mental health counseling pedagogy, and licensed counseling supervision standards.",
+    "summary": "Dr. Adams researches community trauma intervention models, cross-cultural mental health counseling pedagogy, and licensed counseling supervision standards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4126,
+    "name": "Dr. Marvin Krislov",
+    "role": "President & Professor of Law",
+    "title": "President & Professor of Law",
+    "university": "Pace University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pace.edu",
+    "bio": "President Krislov is a nationally recognized legal scholar and higher education leader, authoring pivotal briefs in landmark affirmative action and constitutional rights Supreme Court cases.",
+    "summary": "President Krislov is a nationally recognized legal scholar and higher education leader, authoring pivotal briefs in landmark affirmative action and constitutional rights Supreme Court cases.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4127,
+    "name": "Dr. Li-Chiou Chen",
+    "role": "Professor & Executive Director of Cybersecurity",
+    "title": "Professor & Executive Director of Cybersecurity",
+    "university": "Pace University",
+    "country": "United States",
+    "department": "Seidenberg School of Computer Science and Information Systems",
+    "subject": "computer-science",
+    "topics": [
+      "Seidenberg School of Computer Science and Information Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pace.edu",
+    "bio": "Dr. Chen's research investigates cyber incident response modeling, botnet propagation defense, and economics of information security in financial systems.",
+    "summary": "Dr. Chen's research investigates cyber incident response modeling, botnet propagation defense, and economics of information security in financial systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4128,
+    "name": "Prof. Karl S. Coplan",
+    "role": "Professor of Law",
+    "title": "Professor of Law",
+    "university": "Pace University",
+    "country": "United States",
+    "department": "Elisabeth Haub School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "Elisabeth Haub School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pace.edu",
+    "bio": "Prof. Coplan is an authority on Clean Water Act litigation, constitutional environmental law, and co-founder of the Pace Environmental Litigation Clinic.",
+    "summary": "Prof. Coplan is an authority on Clean Water Act litigation, constitutional environmental law, and co-founder of the Pace Environmental Litigation Clinic.",
     "reviewed": "2026-10-16"
   }
 ];

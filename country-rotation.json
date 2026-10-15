@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 79,
+  "cycle": 80,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Northeast Alabama Community College",
-    "sourceRow": 873
+    "university": "Pace University",
+    "sourceRow": 904
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 305,
+    "usa": 335,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
