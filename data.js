@@ -247782,6 +247782,5146 @@ export const opportunities=[
     },
     "reviewed": "2026-10-16",
     "status": "Available"
+  },
+{
+    "id": 9147,
+    "title": "Doctor of Optometry (OD)",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Premier four-year clinical optometry doctorate offering extensive training in ocular disease management, contact lenses, neuro-optometric rehabilitation, and surgical co-management in Pacific EyeClinics.",
+    "funding": "College of Optometry Dean's Scholarships up to $15,000/year",
+    "tuition": "$44,800/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.pacificu.edu/optometry",
+    "requirements": {
+      "gpa": "3.0 science GPA in 90+ semester credits including organic chemistry, biochemistry, and physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "OAT or GRE scores required",
+      "papers": "OptomCAS personal essay",
+      "references": "Three letters of recommendation (one practicing optometrist)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9148,
+    "title": "Doctor of Physical Therapy (DPT)",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAPTE-accredited 33-month clinical curriculum focusing on musculoskeletal diagnostics, neurological rehabilitation, pediatric PT, and interprofessional clinical team management.",
+    "funding": "Physical Therapy Endowed Diversity Awards up to $10,000",
+    "tuition": "$38,400/year",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pacificu.edu/physical-therapy",
+    "requirements": {
+      "gpa": "3.0 cumulative and prerequisite science GPA, 100+ observation hours",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "GRE scores required",
+      "papers": "PTCAS essay and personal statement",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9149,
+    "title": "Ph.D. in Clinical Psychology (School of Graduate Psychology)",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited scientist-practitioner doctoral program preparing clinical neuropsychologists, child psychologists, and health psychologists with supervised clinical rotations across Portland hospitals.",
+    "funding": "Graduate research assistantships providing partial tuition waivers and clinical stipends",
+    "tuition": "$1,120/credit hour",
+    "fee": "$60",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.pacificu.edu/graduate-psychology/programs/phd-clinical-psychology",
+    "requirements": {
+      "gpa": "3.2 GPA in undergraduate psychology or behavioral sciences",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "General GRE required",
+      "papers": "Statement of clinical and research interests",
+      "references": "Three academic/clinical references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9150,
+    "title": "Bachelor of Science in Environmental Science (Sustainability Track)",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Fieldwork-intensive bachelor's degree investigating Pacific Coast rainforest ecosystems, watershed management in the Tualatin River basin, and salmon conservation biology.",
+    "funding": "Pacific Presidential Academic Scholarships up to $22,000/year",
+    "tuition": "$51,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pacificu.edu/academics/programs/environmental-science",
+    "requirements": {
+      "gpa": "3.0 high school GPA with biology and algebra",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9151,
+    "title": "Master of Fine Arts (MFA) in Writing (Low-Residency)",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally acclaimed low-residency creative writing MFA offering concentrations in fiction, poetry, and creative nonfiction, guided by award-winning faculty authors.",
+    "funding": "MFA Program Merit Grants and Writers-in-Residence Fellowships up to $6,000",
+    "tuition": "$19,500/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.pacificu.edu/mfa",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree",
+      "ielts": "TOEFL 85+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Writing sample (20-30 pages prose or 10-15 poems)",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9152,
+    "title": "Pacific EyeClinics Vision Research Fellowship",
+    "university": "Pacific University",
+    "country": "United States",
+    "location": "Forest Grove, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Postdoctoral or graduate research fellowship investigating dry eye syndrome biomarkers, keratoconus corneal topography, and pediatric myopia control therapies.",
+    "funding": "$5,000 research stipend and optical laboratory supply grant",
+    "tuition": "Covered by College of Optometry Research Fund",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.pacificu.edu/optometry/research/fellowships",
+    "requirements": {
+      "gpa": "OD, MS, or PhD candidate in vision science or biomedical sciences",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Vision science research proposal",
+      "references": "Two optometric faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9153,
+    "title": "Bachelor of Science in Information and Computer Science (Cybersecurity)",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on instruction in defensive network administration, ethical hacking, cryptographic protocols, digital forensics, and cloud infrastructure security.",
+    "funding": "Park Military Service Scholarships and DoD tuition assistance vouchers",
+    "tuition": "$13,600/year ($450/credit; $250/credit for military)",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.park.edu/academics/explore-majors-programs/information-computer-science-degree",
+    "requirements": {
+      "gpa": "High school diploma or 2.0 college transfer GPA",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9154,
+    "title": "Master of Business Administration (MBA) in Project Management",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited curriculum covering corporate strategy, risk mitigation, PMI-aligned project scheduling, supply chain dynamics, and defense procurement operations.",
+    "funding": "Graduate Academic Excellence Grants up to $3,000",
+    "tuition": "$630/credit hour ($20,790 total program)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.park.edu/academics/explore-majors-programs/master-business-administration",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume and goals essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9155,
+    "title": "Bachelor of Public Administration (BPA) in Homeland Security",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary study in emergency disaster management, critical infrastructure security, municipal administrative law, and multi-agency crisis communications.",
+    "funding": "First Responder and Military Dependent Grants up to $2,500/year",
+    "tuition": "$13,600/year ($450/credit; $250/credit for military)",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.park.edu/academics/explore-majors-programs/public-administration-degree",
+    "requirements": {
+      "gpa": "2.0 GPA with high school completion or GED",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9156,
+    "title": "Bachelor of Science in Logistics and Supply Chain Management",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Training students in defense depot logistics, multimodal freight management, inventory simulation, and global trade compliance.",
+    "funding": "Global Logistics Academic Awards up to $3,500/year",
+    "tuition": "$13,600/year ($450/credit; $250/credit for military)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.park.edu/academics/explore-majors-programs/supply-chain-logistics-degree",
+    "requirements": {
+      "gpa": "2.0 GPA with high school algebra",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career goals essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9157,
+    "title": "Master of Healthcare Administration (MHA)",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Designed to prepare clinical administrators in health informatics, healthcare finance, bioethics, regulatory compliance, and hospital quality management.",
+    "funding": "Healthcare Leadership Fellowships up to $4,000",
+    "tuition": "$630/credit hour ($22,680 total program)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.park.edu/academics/explore-majors-programs/master-healthcare-administration",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA with health or business background",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of healthcare goals",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9158,
+    "title": "Defense Aerospace Logistics Applied Research Fellowship",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "location": "Great Falls, Montana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Applied student fellowship examining cold-weather aerospace supply chain resilience, intercontinental missile depot maintenance, and predictive parts inventory modeling.",
+    "funding": "$4,000 applied research stipend and enterprise software access",
+    "tuition": "Covered by Park University Military Research Office",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.park.edu/research/military-fellowships",
+    "requirements": {
+      "gpa": "3.0 GPA in logistics, computer science, or management",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Research statement (2 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9159,
+    "title": "Bachelor of Science in Project and Supply Chain Management",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Comprehensive business degree training students in quantitative supply chain analytics, SAP enterprise software, Six Sigma quality control, and procurement logistics in the Pittsburgh industrial corridor.",
+    "funding": "Penn State Discover Awards and Beaver Campus Merit Grants up to $8,000/year",
+    "tuition": "$14,800/year (PA Resident) / $24,600/year (Non-resident)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://beaver.psu.edu/academics/degrees/pscm",
+    "requirements": {
+      "gpa": "2.8 high school GPA with algebra and trigonometry",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Penn State admissions personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9160,
+    "title": "Bachelor of Science in Cybersecurity Analytics and Operations",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous cybersecurity curriculum covering cyber threat intelligence, risk management frameworks, penetration testing, malware defense, and digital forensics.",
+    "funding": "College of IST Commonwealth Scholarships up to $5,000/year",
+    "tuition": "$14,800/year (PA Resident) / $24,600/year (Non-resident)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://beaver.psu.edu/academics/degrees/cybersecurity",
+    "requirements": {
+      "gpa": "3.0 GPA with high school mathematics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Admissions essay",
+      "references": "One counselor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9161,
+    "title": "Bachelor of Science in Biology",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Pre-health and ecological laboratory curriculum providing undergraduate research access in genetics, molecular cell biology, microbiology, and Ohio River riparian ecology.",
+    "funding": "Penn State Academic Excellence Awards up to $6,000/year",
+    "tuition": "$14,800/year (PA Resident) / $24,600/year (Non-resident)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://beaver.psu.edu/academics/degrees/biology",
+    "requirements": {
+      "gpa": "3.0 GPA with high school chemistry and biology",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9162,
+    "title": "Bachelor of Science in Criminal Justice",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Examining criminological theory, constitutional criminal procedure, policing ethics, juvenile justice reform, and forensic evidence analysis.",
+    "funding": "Beaver Alumni Endowed Criminal Justice Awards",
+    "tuition": "$14,800/year (PA Resident) / $24,600/year (Non-resident)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://beaver.psu.edu/academics/degrees/criminal-justice",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9163,
+    "title": "Penn State 2+2 Engineering Transfer Pathway",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Start engineering foundations (calculus, physics, computer programming, chemistry) at Beaver with small class sizes before transitioning to University Park for aerospace, mechanical, or chemical engineering.",
+    "funding": "Michael Baker Engineering Scholarships up to $4,500/year",
+    "tuition": "$14,800/year (Beaver campus rate for first two years)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://beaver.psu.edu/academics/2plus2",
+    "requirements": {
+      "gpa": "3.2 GPA with advanced high school mathematics and physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Engineering interest essay",
+      "references": "One STEM teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9164,
+    "title": "Ohio River Watershed Undergraduate Research Fellowship",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "location": "Monaca, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Undergraduate research fellowship sampling microplastics, heavy metal industrial effluents, and benthic aquatic macroinvertebrates in Beaver County waterways.",
+    "funding": "$3,800 summer research stipend plus laboratory instrumentation funding",
+    "tuition": "Covered by Penn State Undergraduate Research Fund",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://beaver.psu.edu/research/watershed-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in biology, chemistry, or environmental sciences",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Research proposal and resume",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9165,
+    "title": "Bachelor of Science in Mechatronics Engineering Technology",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited program integrating mechanical systems, PLC programming, industrial robotic arms, microcontrollers, and fluid power hydraulics in high-tech automation labs.",
+    "funding": "PennWest Vulcan Merit Scholarships up to $6,000/year",
+    "tuition": "$7,716/year (In-state) / $11,574/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.pennwest.edu/academics/mechatronics-engineering-technology",
+    "requirements": {
+      "gpa": "2.75 GPA with college preparatory algebra and physics",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9166,
+    "title": "Master of Science in Exercise Science and Health Promotion",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Nation's leading online graduate exercise science program offering concentrations in sports performance, rehabilitation science, wellness coaching, and tactical strength conditioning.",
+    "funding": "Graduate assistantships offering 100% tuition coverage plus stipend",
+    "tuition": "$516/credit (In-state) / $774/credit (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.pennwest.edu/academics/exercise-science-health-promotion",
+    "requirements": {
+      "gpa": "2.8 GPA in exercise science, kinesiology, or health discipline",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Resume and statement of intent",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9167,
+    "title": "Bachelor of Science in Digital Forensics and Cybersecurity",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Comprehensive training in EnCase/FTK forensic extraction, hard drive recovery, mobile device forensics, malware triage, and criminal courtroom evidence handling.",
+    "funding": "Eberly STEM Innovation Scholarships up to $4,000",
+    "tuition": "$7,716/year (In-state) / $11,574/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.pennwest.edu/academics/digital-forensics",
+    "requirements": {
+      "gpa": "2.5 GPA with high school mathematics",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Statement of goals",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9168,
+    "title": "Bachelor of Science in Commercial Drone Technology",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "FAA Part 107 certified training covering unmanned aerial systems (UAS) piloting, multispectral sensor integration, thermal survey, and 3D GIS terrain mapping.",
+    "funding": "Aviation Aerospace Grants up to $3,000/year",
+    "tuition": "$7,716/year (In-state) / $11,574/year (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.pennwest.edu/academics/drone-technology",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9169,
+    "title": "Master of Science in Clinical Mental Health Counseling",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-accredited program preparing students for LPC licensure with 700 hours of clinical mental health counseling practicum in southwestern Pennsylvania community agencies.",
+    "funding": "Mental Health Workforce Expansion Fellowships up to $5,000",
+    "tuition": "$516/credit (In-state) / $774/credit (Out-of-state)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pennwest.edu/academics/clinical-mental-health-counseling",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with background in psychology or social work",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Counseling philosophy statement and background clearances",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9170,
+    "title": "Applied Robotics and Autonomous Systems Fellowship",
+    "university": "PennWest California",
+    "country": "United States",
+    "location": "California, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Applied student fellowship designing robotic machine vision systems, automated guided vehicles (AGVs), and smart conveyor sorting mechanisms in the Mechatronics Lab.",
+    "funding": "$4,000 research stipend and robotics laboratory workspace",
+    "tuition": "Covered by Eberly Science Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.pennwest.edu/research/robotics-fellowship",
+    "requirements": {
+      "gpa": "3.0 GPA in mechatronics, computer science, or engineering technology",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Robotics project design proposal",
+      "references": "Two engineering faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9171,
+    "title": "Master of Public Policy (MPP) - Washington DC Track",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Rigorous policy curriculum combining quantitative econometrics, constitutional foundations, cost-benefit modeling, and direct federal agency internships on Capitol Hill and K Street.",
+    "funding": "School of Public Policy Dean's Merit Fellowships covering up to 100% of tuition",
+    "tuition": "$42,600/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://publicpolicy.pepperdine.edu/academics/master-public-policy",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with coursework in economics and statistics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Policy writing sample and personal statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9172,
+    "title": "Juris Doctor (JD) Washington DC Semester Program",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Elite legal curriculum pairing rigorous administrative and constitutional law seminars with clinical externships at the Department of Justice, federal appellate courts, and international human rights NGOs.",
+    "funding": "Caruso Law Faculty Scholars Awards up to full tuition",
+    "tuition": "$63,800/year",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://law.pepperdine.edu/experiential-learning/externships/washington-dc",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive LSAT score (median 164) and high undergraduate GPA (median 3.75)",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "LSAT or GRE required",
+      "papers": "Personal statement and legal resume",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9173,
+    "title": "Master of Science in Global Business (Graziadio)",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited international commerce curriculum focusing on international trade treaties, multilateral currency risk, multinational marketing, and global economic diplomacy.",
+    "funding": "Graziadio Business School Merit Endowments up to $15,000",
+    "tuition": "$48,900/year",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://bschool.pepperdine.edu/masters-degree/global-business",
+    "requirements": {
+      "gpa": "3.0 GPA in undergraduate bachelor's degree",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "GMAT/GRE optional",
+      "papers": "Essay and professional resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9174,
+    "title": "Bachelor of Arts in Political Science (DC Internship Semester)",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Immersive undergraduate semester in Washington DC integrating high-level federal internships with seminars in legislative politics, political communication, and national security.",
+    "funding": "Seaver College Blanche E. Seaver Scholarships up to $25,000/year",
+    "tuition": "$65,990/year",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://seaver.pepperdine.edu/academics/programs/political-science",
+    "requirements": {
+      "gpa": "3.5+ high school GPA with strong humanities and social science profile",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application essay and Pepperdine faith statement",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9175,
+    "title": "Master of Dispute Resolution (MDR - Straus Institute)",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Offered by the world's top-ranked Straus Institute for Dispute Resolution, educating international mediators in complex multi-party negotiation, international arbitration, and diplomatic consensus building.",
+    "funding": "Straus Institute Conflict Resolution Fellowships up to $10,000",
+    "tuition": "$2,350/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://law.pepperdine.edu/straus/academics/mdr",
+    "requirements": {
+      "gpa": "3.0 undergraduate or law degree GPA",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Conflict resolution goals statement",
+      "references": "Two professional letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9176,
+    "title": "Capitol Hill & Think Tank Policy Research Fellowship",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "location": "Washington, DC, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Elite graduate fellowship conducting empirical policy evaluations on constitutional federalism, regulatory economics, and foreign policy grand strategy in Washington, DC.",
+    "funding": "$6,000 research fellowship stipend and Washington DC residential housing subsidy",
+    "tuition": "Covered by School of Public Policy Endowment",
+    "fee": "$0",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://publicpolicy.pepperdine.edu/fellowships/dc",
+    "requirements": {
+      "gpa": "3.3 GPA in public policy, political science, economics, or law",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Policy research prospectus (3 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9177,
+    "title": "Bachelor of Science in Wildlife Ecology and Management",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on ecological curriculum covering wildlife telemetry, waterfowl census, fisheries management, forest silviculture, and habitat restoration along the Missouri River alluvial plain.",
+    "funding": "Oak Tree Academic Merit Scholarships up to $4,000/year",
+    "tuition": "$5,700/year (In-state) / $5,700/year (One-Rate tuition for all US residents)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.peru.edu/academics/degrees/wildlife-ecology",
+    "requirements": {
+      "gpa": "High school completion with biology and algebra",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9178,
+    "title": "Master of Science in Education (MSEd) in Curriculum & Instruction",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced pedagogical curriculum preparing master educators in differentiated instructional design, educational neuroscience, student assessment analytics, and rural school leadership.",
+    "funding": "Nebraska Teacher Shortage Loan Forgiveness and graduate waivers",
+    "tuition": "$335/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.peru.edu/academics/graduate/msed",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA in education or related field",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Teaching philosophy essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9179,
+    "title": "Bachelor of Science in Criminal Justice (Law Enforcement Focus)",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Instruction in police operational tactics, juvenile diversion models, criminal investigative protocols, constitutional law, and corrections management.",
+    "funding": "Bobcat Achievement Awards up to $3,000/year",
+    "tuition": "$5,700/year (One-Rate tuition)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.peru.edu/academics/degrees/criminal-justice",
+    "requirements": {
+      "gpa": "2.0 high school GPA",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Career interest essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9180,
+    "title": "Bachelor of Science in Computer and Information Systems",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Training in database design, networking architectures, modern object-oriented programming (Python/Java), cloud technologies, and web application engineering.",
+    "funding": "STEM Workforce Scholarships up to $3,500/year",
+    "tuition": "$5,700/year (One-Rate tuition)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.peru.edu/academics/degrees/computer-information-systems",
+    "requirements": {
+      "gpa": "2.0 GPA with high school mathematics",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9181,
+    "title": "Bachelor of Fine Arts (BFA) in Visual Arts",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Studio-based instruction in ceramics, printmaking, digital graphic design, oil painting, and gallery exhibition curation in the Peru State Art Gallery.",
+    "funding": "Fine Arts Talent Grants up to $2,500/year",
+    "tuition": "$5,700/year (One-Rate tuition)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.peru.edu/academics/degrees/art",
+    "requirements": {
+      "gpa": "High school diploma and visual portfolio review (10 works)",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Artist statement",
+      "references": "One art teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9182,
+    "title": "Missouri River Riparian Ecology Summer Fellowship",
+    "university": "Peru State College",
+    "country": "United States",
+    "location": "Peru, Nebraska, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Summer field research fellowship studying pallid sturgeon river migration, floodplain wetland macroinvertebrates, and bald eagle roosting habitats along the Nebraska-Iowa border.",
+    "funding": "$3,500 summer research stipend plus on-campus housing waiver",
+    "tuition": "Covered by Nebraska State College System Research Grant",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.peru.edu/research/riparian-fellowship",
+    "requirements": {
+      "gpa": "2.8 GPA in wildlife ecology or biology",
+      "ielts": "TOEFL 61+ or IELTS 5.5",
+      "gre": "Exempt",
+      "papers": "Field research plan",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9183,
+    "title": "Master of Science in Physician Assistant Studies (MS-PAS)",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ARC-PA-accredited 27-month clinical program housed in the Center for Health Sciences, educating patient-centered clinicians for rural primary care, emergency medicine, and surgical subspecialties.",
+    "funding": "Rural Health Workforce Fellowships up to $10,000",
+    "tuition": "$39,500/year",
+    "fee": "$75",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.pfeiffer.edu/academics/graduate-programs/physician-assistant-studies",
+    "requirements": {
+      "gpa": "3.0 cumulative and science GPA with 500+ patient care hours",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "GRE or PA-CAT required",
+      "papers": "CASPA essay and personal narrative",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9184,
+    "title": "Master of Science in Occupational Therapy (MSOT)",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "ACOTE-accredited curriculum preparing occupational therapists in pediatrics, neuro-rehabilitation, geriatric therapy, and adaptive technology in specialized sensory and living labs.",
+    "funding": "Health Sciences Graduate Grants up to $6,000",
+    "tuition": "$34,800/year",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pfeiffer.edu/academics/graduate-programs/occupational-therapy",
+    "requirements": {
+      "gpa": "3.0 prerequisite GPA in anatomy, physiology, and developmental psychology",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "OTCAS personal essay",
+      "references": "Three recommendations (one licensed OT)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9185,
+    "title": "Master of Health Administration (MHA)",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CAHME-accredited graduate curriculum instructing healthcare managers in hospital financial operations, healthcare quality metrics, healthcare law, and digital health records.",
+    "funding": "Pfeiffer Healthcare Executive Scholarships up to $4,500",
+    "tuition": "$725/credit hour ($26,100 total program)",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.pfeiffer.edu/academics/graduate-programs/master-of-health-administration",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional resume and statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9186,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure BSN program with clinical rotations across Atrium Health Stanly and Novant Health medical centers, utilizing high-fidelity simulation manikins.",
+    "funding": "Falcon Healthcare Endowed Scholarships up to $14,000/year",
+    "tuition": "$33,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pfeiffer.edu/academics/undergraduate-programs/nursing",
+    "requirements": {
+      "gpa": "2.8 GPA in prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing statement and TEAS examination",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9187,
+    "title": "Bachelor of Science in Criminal Justice",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive coursework in criminal evidence procedure, cybercrime investigation, criminological theory, corrections ethics, and juvenile delinquency.",
+    "funding": "Presidential Merit Awards up to $16,000 distributed over four years",
+    "tuition": "$33,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.pfeiffer.edu/academics/undergraduate-programs/criminal-justice",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9188,
+    "title": "Rural Community Health & Telemedicine Research Fellowship",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "location": "Misenheimer, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Graduate clinical research fellowship evaluating chronic disease telemedicine models, diabetes self-management education, and mobile clinic access in rural North Carolina counties.",
+    "funding": "$4,000 research stipend funded by regional healthcare endowments",
+    "tuition": "Covered by Pfeiffer Health Sciences Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.pfeiffer.edu/research/health-sciences-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in PA studies, occupational therapy, nursing, or MHA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Health disparities research proposal",
+      "references": "Two clinical faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9189,
+    "title": "Associate of Applied Science in Radiography",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "JRCERT-accredited radiography program preparing students for ARRT national certification through digital radiographic positioning, radiation safety, image processing, and 1,200+ clinical hospital hours.",
+    "funding": "Pima Medical Career Foundation Scholarships up to $3,000",
+    "tuition": "$38,500/total 2-year program",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://pmi.edu/programs/associate/radiography",
+    "requirements": {
+      "gpa": "High school diploma/GED with passing Wonderlic SLE score (19+)",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Admissions interview and health screening",
+      "references": "Two references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9190,
+    "title": "Associate of Applied Science in Respiratory Therapy",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CoARC-accredited degree qualifying graduates for RRT credentialing, covering mechanical ventilation, arterial blood gas analysis, neonatal/pediatric critical care, and cardiopulmonary pharmacology.",
+    "funding": "Pulmonary Health Career Grants up to $2,500",
+    "tuition": "$34,200/total program",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://pmi.edu/programs/associate/respiratory-therapy",
+    "requirements": {
+      "gpa": "High school diploma/GED with passing Wonderlic SLE score (18+)",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Respiratory care entrance essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9191,
+    "title": "Associate of Applied Science in Physical Therapist Assistant (PTA)",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAPTE-accredited curriculum training PT assistants in therapeutic exercise, gait training, biomechanical modalities, orthopedic rehabilitation, and neurological recovery protocols.",
+    "funding": "Allied Health Career Advancement Awards up to $2,500",
+    "tuition": "$35,900/total program",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://pmi.edu/programs/associate/physical-therapist-assistant",
+    "requirements": {
+      "gpa": "High school completion with passing Wonderlic SLE score (19+)",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal interview and clinical readiness attestation",
+      "references": "Two character references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9192,
+    "title": "Associate of Applied Science in Veterinary Technician",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "AVMA-accredited training in animal anesthesia, veterinary dental prophylaxis, surgical assistance, clinical hematology, and exotic animal restraint and nursing.",
+    "funding": "Veterinary Technology Foundation Grants up to $2,000",
+    "tuition": "$33,400/total program",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://pmi.edu/programs/associate/veterinary-technician",
+    "requirements": {
+      "gpa": "High school diploma or GED with SLE score (17+)",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Animal care motivation essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9193,
+    "title": "Bachelor of Science in Health Care Administration (Online Completion)",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Accelerated online bachelor's degree designed for allied health associate degree holders, focusing on healthcare finance, health law, clinical team leadership, and quality improvement.",
+    "funding": "Alumni Degree Advancement Tuition Discounts up to $3,000",
+    "tuition": "$17,800/program ($425/credit)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://pmi.edu/programs/bachelor/health-care-administration",
+    "requirements": {
+      "gpa": "Associate degree in allied health discipline with minimum 2.0 GPA",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Professional resume and statement",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9194,
+    "title": "Advanced Clinical Radiography & Modality Externship Fellowship",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "physics"
+    ],
+    "desc": "Clinical fellowship providing advanced diagnostic imaging rotations in computed tomography (CT), fluoroscopy, and pediatric emergency trauma imaging at University Medical Center (UMC) of Southern Nevada.",
+    "funding": "$3,200 clinical externship stipend plus ARRT licensing examination voucher",
+    "tuition": "Covered by Pima Healthcare Clinical Partnership Fund",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://pmi.edu/externships/radiography-fellowships",
+    "requirements": {
+      "gpa": "3.5 GPA in radiography coursework and clinical commendations",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Clinical case study proposal",
+      "references": "Two clinical supervisor letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9195,
+    "title": "Bachelor of Arts in Computer Science",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite undergraduate computer science curriculum emphasizing algorithm design, machine learning, theory of computation, natural language processing, and systems software, with cross-registration at Harvey Mudd College.",
+    "funding": "100% demonstrated financial need met with grants and work-study (no loans required)",
+    "tuition": "$61,900/year (100% need met for all admitted students)",
+    "fee": "$70",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.pomona.edu/academics/departments/computer-science",
+    "requirements": {
+      "gpa": "Exceptional high school record (typically top 5% of class) with calculus",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Common Application personal statement and Pomona supplemental essays",
+      "references": "Two academic teacher recommendations and counselor report"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9196,
+    "title": "Bachelor of Arts in Molecular Biology",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive laboratory investigation in gene editing, CRISPR molecular mechanisms, developmental genetics, and structural biochemistry with extensive undergraduate research access.",
+    "funding": "Full need-based financial aid package covering up to 100% tuition and living costs",
+    "tuition": "$61,900/year (100% need met)",
+    "fee": "$70",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.pomona.edu/academics/departments/molecular-biology",
+    "requirements": {
+      "gpa": "Top high school academic profile with AP/IB biology and chemistry",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Personal essay and academic interests statement",
+      "references": "Two science/math recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9197,
+    "title": "Bachelor of Arts in Philosophy, Politics, and Economics (PPE)",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary honors curriculum integrating moral philosophy, constitutional political theory, microeconomic modeling, and public policy decision-making.",
+    "funding": "100% demonstrated financial need met without student loans",
+    "tuition": "$61,900/year",
+    "fee": "$70",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.pomona.edu/academics/departments/philosophy-politics-and-economics",
+    "requirements": {
+      "gpa": "High school transcript with top academic honors",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Analytical writing submission and essays",
+      "references": "Two humanities/social science teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9198,
+    "title": "Bachelor of Arts in Physics (Astrophysics Track)",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Rigorous undergraduate training in quantum mechanics, general relativity, observational cosmology, and radio astronomy utilizing the Brackett Observatory and Table Mountain Observatory.",
+    "funding": "Pomona Grant Awards covering 100% of demonstrated financial need",
+    "tuition": "$61,900/year",
+    "fee": "$70",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.pomona.edu/academics/departments/physics-and-astronomy",
+    "requirements": {
+      "gpa": "Outstanding physics and calculus preparation",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Scientific interests essay",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9199,
+    "title": "Bachelor of Arts in Environmental Analysis",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary program examining Southern California water rights, urban environmental justice, climate policy, and conservation biology in the San Gabriel Mountains.",
+    "funding": "Pomona Need-Based Financial Aid meeting full demonstrated cost",
+    "tuition": "$61,900/year",
+    "fee": "$70",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.pomona.edu/academics/departments/environmental-analysis",
+    "requirements": {
+      "gpa": "Top high school academic credentials",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9200,
+    "title": "Pomona Summer Undergraduate Research Program (SURP) Fellowship",
+    "university": "Pomona College",
+    "country": "United States",
+    "location": "Claremont, California, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Ten-week full-time summer research fellowship working one-on-one with Pomona faculty on peer-reviewed investigations in genomics, quantum optics, or neurobiology.",
+    "funding": "$5,500 summer research stipend plus on-campus housing and dining subsidy",
+    "tuition": "Covered by Pomona College Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.pomona.edu/academics/research/surp",
+    "requirements": {
+      "gpa": "Enrolled Pomona College student in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Research project proposal (3 pages)",
+      "references": "Faculty mentor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9201,
+    "title": "Master of Urban and Regional Planning (MURP)",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Ranked among the top urban planning programs in North America, focusing on transit-oriented development, climate action planning, affordable housing policy, and participatory GIS modeling.",
+    "funding": "Toulan School Graduate Assistantships providing tuition remission and monthly stipend",
+    "tuition": "$14,800/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pdx.edu/urban-studies-planning/master-urban-and-regional-planning",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with background in social sciences, architecture, or geography",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of intent and professional resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9202,
+    "title": "Ph.D. in Computer Science (Maseeh College)",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Advanced doctoral research in cybersecurity, programming languages, computer vision, database systems, intelligent robotics, and hardware verification in Portland's Silicon Forest.",
+    "funding": "Maseeh Doctoral Fellowships providing full tuition waiver and $32,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pdx.edu/computer-science/phd-computer-science",
+    "requirements": {
+      "gpa": "3.5+ GPA in computer science, software engineering, or mathematics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement of purpose and code/publications portfolio",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9203,
+    "title": "Master of Science in Environmental Science and Management",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on study of Columbia River watershed ecology, forest wildfire regimes, urban stream restoration, invasive species ecology, and environmental toxicology.",
+    "funding": "ESM Department Graduate Research Assistantships up to $26,000/year",
+    "tuition": "$14,800/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.pdx.edu/environmental-science/master-science",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in STEM discipline",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Research interests statement",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9204,
+    "title": "Bachelor of Science in Civil Engineering",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "ABET-accredited program covering seismic structural design, sustainable mass timber engineering, transportation traffic modeling, and geotechnical earthquake mitigation.",
+    "funding": "Maseeh STEM Leadership Scholarships up to $6,000/year",
+    "tuition": "$10,800/year (In-state) / $31,200/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pdx.edu/civil-environmental-engineering/undergraduate",
+    "requirements": {
+      "gpa": "3.0 high school GPA with precalculus and chemistry/physics",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9205,
+    "title": "Master of Social Work (MSW)",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited nationally top-ranked MSW educating clinical and macro social workers in trauma-informed practice, child welfare, addictions counseling, and healthcare social work.",
+    "funding": "School of Social Work Diversity and Behavioral Health Stipends up to $8,000",
+    "tuition": "$15,200/year (In-state) / $23,600/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pdx.edu/social-work/master-social-work",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with broad liberal arts coursework",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Social work essay and experience dossier",
+      "references": "Three professional/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9206,
+    "title": "Institute for Sustainable Solutions Climate Research Fellowship",
+    "university": "Portland State University",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Graduate research fellowship partnering with the City of Portland Bureau of Planning and Sustainability to evaluate urban heat island mitigation, tree canopy equity, and green infrastructure.",
+    "funding": "$5,000 research stipend and municipal agency collaboration funding",
+    "tuition": "Covered by Institute for Sustainable Solutions",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.pdx.edu/sustainability/fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in urban planning, environmental science, or civil engineering",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Climate resilience proposal (3 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9207,
+    "title": "Bachelor of Arts in Environmental Studies",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Experiential field-intensive curriculum offering concentrations in natural history, conservation biology, environmental policy, and regenerative ecological design.",
+    "funding": "Prescott Environmental Leadership Grants up to $18,000/year",
+    "tuition": "$35,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://prescott.edu/academics/undergraduate/environmental-studies",
+    "requirements": {
+      "gpa": "2.5 high school GPA with outdoor field readiness",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal experiential learning essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9208,
+    "title": "Master of Science in Resilient and Sustainable Food Systems",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Online and field-hybrid graduate program examining agroecology, regenerative soil systems, food justice, regional food hubs, and indigenous food sovereignty.",
+    "funding": "Food Sovereignty Fellowships up to $6,000",
+    "tuition": "$790/credit hour ($28,440 total)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://prescott.edu/academics/graduate/resilient-sustainable-food-systems",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Food systems narrative essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9209,
+    "title": "Bachelor of Arts in Adventure Education",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Pioneering wilderness leadership curriculum training students in technical rock climbing instruction, river expedition guiding, outdoor therapy, and avalanche safety.",
+    "funding": "Wilderness Leadership Scholarships up to $12,000/year",
+    "tuition": "$35,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://prescott.edu/academics/undergraduate/adventure-education",
+    "requirements": {
+      "gpa": "High school diploma and backcountry physical fitness readiness",
+      "ielts": "TOEFL 70+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Adventure education personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9210,
+    "title": "Master of Science in Environmental Studies",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Self-directed graduate program offering concentrations in conservation biology, environmental education, and climate change adaptation, with field research opportunities in the Sonoran Desert.",
+    "funding": "Conservation Graduate Assistantships with partial tuition remission",
+    "tuition": "$790/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://prescott.edu/academics/graduate/environmental-studies",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in ecology, natural resources, or environmental studies",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Master's research study proposal",
+      "references": "Two academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9211,
+    "title": "Master of Science in Counseling (Ecotherapy Concentration)",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Innovative CACREP-accredited counseling program integrating wilderness therapy, nature-based somatic psychology, equine-assisted therapy, and trauma recovery.",
+    "funding": "Holistic Mental Health Grants up to $5,000",
+    "tuition": "$810/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://prescott.edu/academics/graduate/counseling",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in psychology or human services",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Ecotherapy clinical statement and background check",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9212,
+    "title": "Kino Bay Center Marine & Coastal Research Fellowship",
+    "university": "Prescott College",
+    "country": "United States",
+    "location": "Prescott, Arizona, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Marine field research fellowship stationed at Prescott College's marine laboratory in Sonora, Mexico, studying marine mammal acoustics, island seabird nesting, and sustainable artisanal fisheries in the Gulf of California.",
+    "funding": "$4,500 research stipend, boat field logistics, and room at the Kino Bay station",
+    "tuition": "Covered by Kino Bay Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://prescott.edu/kino-bay-center/fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in marine biology, ecology, or environmental studies with conversational Spanish",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Marine field research plan (3 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9213,
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited Purdue engineering curriculum covering finite element modeling, fluid thermodynamics, autonomous robotics, additive manufacturing, and industrial capstone design.",
+    "funding": "Purdue Mastodon Academic Scholarships up to $8,000/year",
+    "tuition": "$9,200/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pfw.edu/departments/etcs/depts/cme/programs/me.html",
+    "requirements": {
+      "gpa": "3.0 GPA with high school calculus and chemistry/physics",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9214,
+    "title": "Master of Science in Computer Science",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Purdue University graduate degree covering artificial intelligence, machine learning algorithms, database security, wireless sensor networks, and cloud architecture.",
+    "funding": "Departmental Teaching and Research Assistantships with tuition reduction",
+    "tuition": "$390/credit (In-state) / $780/credit (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.pfw.edu/departments/etcs/depts/cs/programs/mscs.html",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computer science, computer engineering, or mathematics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9215,
+    "title": "Bachelor of Science in Electrical Engineering",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited program covering digital signal processing, embedded systems, microelectronics, electromagnetic RF design, and telecommunications.",
+    "funding": "STEM Dean's Merit Awards up to $5,000/year",
+    "tuition": "$9,200/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.pfw.edu/departments/etcs/depts/ece/programs/ee.html",
+    "requirements": {
+      "gpa": "3.0 GPA with precalculus or calculus",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One STEM teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9216,
+    "title": "Bachelor of Science in Music Industry (Recording Arts)",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "State-of-the-art multi-track recording studio curriculum in partnership with Sweetwater Sound, training students in audio engineering, acoustics, mixing, and music business contracts.",
+    "funding": "Rhinehart Music School Talent Scholarships up to $4,000/year",
+    "tuition": "$9,200/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.pfw.edu/music-industry",
+    "requirements": {
+      "gpa": "2.5 GPA and audio portfolio or musical audition",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Music industry goals essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9217,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing program with clinical hospital rotations across Parkview Regional Medical Center and Lutheran Health Network.",
+    "funding": "Parkview Health Nursing Student Scholarships up to $6,000/year",
+    "tuition": "$9,200/year (In-state) / $22,400/year (Out-of-state)",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.pfw.edu/nursing",
+    "requirements": {
+      "gpa": "2.8 prerequisite science GPA in anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 84+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing entrance essay and TEAS score",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9218,
+    "title": "Wireless Communications & RF Engineering Applied Fellowship",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "location": "Fort Wayne, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Student fellowship testing phased-array antennas, 5G millimetre-wave propagation, and software-defined radio communications in northeastern Indiana.",
+    "funding": "$4,500 research stipend and RF anechoic chamber laboratory access",
+    "tuition": "Covered by Center of Excellence in Wireless Communication",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.pfw.edu/wireless-center/fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in electrical engineering or computer engineering",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Wireless RF research proposal",
+      "references": "Two engineering faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9219,
+    "title": "Bachelor of Science in Nursing (BSN - Accelerated Track)",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure BSN program combining hands-on patient simulation with hospital clinical rotations in medical-surgical, pediatrics, obstetrics, and intensive care.",
+    "funding": "Rasmussen Healthcare Advancement Grants up to $5,000",
+    "tuition": "$14,500/year (Accelerated completion options available)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.rasmussen.edu/degrees/nursing/accelerated-bsn",
+    "requirements": {
+      "gpa": "2.75 GPA with chemistry, anatomy, and physiology prerequisites",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "TEAS examination score and health clearances",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9220,
+    "title": "Associate Degree in Nursing (ADN)",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited registered nursing degree preparing graduates for the NCLEX-RN licensure examination with comprehensive clinical preceptorships.",
+    "funding": "Nursing Workforce Tuition Waivers up to $3,000",
+    "tuition": "$12,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.rasmussen.edu/degrees/nursing/professional-nursing",
+    "requirements": {
+      "gpa": "High school diploma/GED with passing entrance exam scores",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal interview",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9221,
+    "title": "Associate of Applied Science in Surgical Technology",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAAHEP-accredited program training surgical technologists in aseptic technique, surgical instrumentation, operating room setup, and scrub duties during surgical procedures.",
+    "funding": "Allied Health Career Scholarships up to $2,500",
+    "tuition": "$13,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.rasmussen.edu/degrees/health-sciences/surgical-technologist",
+    "requirements": {
+      "gpa": "High school diploma or equivalent",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Surgical tech essay and health clearances",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9222,
+    "title": "Bachelor of Science in Health Information Management (HIM)",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "CAHIIM-accredited program preparing students for RHIA certification in electronic health records management, medical coding analytics, healthcare data compliance, and privacy governance.",
+    "funding": "Health Information Technology Awards up to $3,000",
+    "tuition": "$10,900/year",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.rasmussen.edu/degrees/health-sciences/health-information-management",
+    "requirements": {
+      "gpa": "2.0 GPA in high school or college transfer",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9223,
+    "title": "Bachelor of Science in Cybersecurity",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Practical enterprise security degree covering network vulnerability testing, cloud infrastructure protection, incident remediation, and cybersecurity governance.",
+    "funding": "Technology Leadership Scholarships up to $3,500/year",
+    "tuition": "$10,900/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.rasmussen.edu/degrees/technology/cybersecurity",
+    "requirements": {
+      "gpa": "High school graduation or GED equivalent",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Career goals statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9224,
+    "title": "Clinical Simulation & Patient Safety Externship Fellowship",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "location": "Overland Park, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Clinical student fellowship evaluating medical simulation protocols, emergency medication dosage verification, and clinical handover communication across Kansas City hospital networks.",
+    "funding": "$3,000 clinical fellowship stipend and NCLEX comprehensive review package",
+    "tuition": "Covered by Rasmussen Clinical Excellence Foundation",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.rasmussen.edu/research/clinical-simulation",
+    "requirements": {
+      "gpa": "3.3 GPA in BSN or ADN nursing program",
+      "ielts": "TOEFL 68+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Clinical safety improvement proposal",
+      "references": "Two nursing faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9225,
+    "title": "Bachelor of Arts in Physics (Reed Nuclear Reactor Program)",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Legendary physics curriculum offering student training and NRC operator licensing at the on-campus 250 kW TRIGA nuclear research reactor, alongside quantum mechanics, thermal physics, and electrodynamics.",
+    "funding": "100% demonstrated financial need met through Reed Grant packages",
+    "tuition": "$64,400/year (100% need met for all admitted students)",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.reed.edu/physics",
+    "requirements": {
+      "gpa": "Exceptional high school record with advanced calculus and physics",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Reed supplement 'Why Reed' and personal analytical essay",
+      "references": "Two academic teacher recommendations and counselor report"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9226,
+    "title": "Bachelor of Arts in Mathematics",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "computer-science"
+    ],
+    "desc": "Rigorous pure and applied mathematics program covering abstract algebra, real analysis, topology, combinatorics, differential geometry, and a mandatory yearlong thesis.",
+    "funding": "Reed Need-Based Grants meeting 100% of demonstrated financial need",
+    "tuition": "$64,400/year",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.reed.edu/math",
+    "requirements": {
+      "gpa": "Top high school academic profile with calculus preparation",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Personal essay and academic writing sample",
+      "references": "Two teacher letters (one math teacher)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9227,
+    "title": "Bachelor of Arts in Biology (Ecology & Canyon Conservation)",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Hands-on research utilizing the 28-acre Reed Canyon urban watershed, investigating native salmon habitat, riparian vegetation dynamics, microbial genomics, and cellular physiology.",
+    "funding": "100% demonstrated need met with zero loan requirement",
+    "tuition": "$64,400/year",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.reed.edu/biology",
+    "requirements": {
+      "gpa": "Strong high school profile with biology and chemistry",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Common Application essay and Reed supplement",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9228,
+    "title": "Bachelor of Arts in Chemistry",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "desc": "ACS-certified curriculum providing undergraduate access to 400 MHz NMR spectrometers, mass spectrometry, HPLC, and X-ray diffraction equipment in the Arthur F. Scott Chemistry Building.",
+    "funding": "Full need-based financial aid meeting 100% demonstrated cost",
+    "tuition": "$64,400/year",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.reed.edu/chemistry",
+    "requirements": {
+      "gpa": "High school chemistry, physics, and precalculus",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9229,
+    "title": "Bachelor of Arts in Philosophy",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Deep scholarly examination of epistemology, metaphysics, symbolic logic, ethics, philosophy of language, and ancient Greek thought culminating in an original senior thesis.",
+    "funding": "Reed Need-Based Aid Packages up to full tuition, room, and board",
+    "tuition": "$64,400/year",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.reed.edu/philosophy",
+    "requirements": {
+      "gpa": "Outstanding high school record with intensive humanities coursework",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Critical writing sample and personal statement",
+      "references": "Two humanities teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9230,
+    "title": "Reed Senior Undergraduate Research Fellowship (SURF)",
+    "university": "Reed College",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "chemistry"
+    ],
+    "desc": "Competitive summer fellowship supporting independent undergraduate thesis research in nuclear engineering, neurobiology, quantum optics, or organic chemical synthesis.",
+    "funding": "$5,000 summer research stipend plus laboratory supply funding",
+    "tuition": "Covered by Reed College Undergraduate Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.reed.edu/undergraduate-research/surf",
+    "requirements": {
+      "gpa": "Enrolled Reed junior or senior in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Scholarly thesis research proposal (3 pages)",
+      "references": "Faculty thesis advisor endorsement"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9231,
+    "title": "Master of Science in Information and Cyber Security",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated curriculum preparing cyber defense leaders in ethical hacking, cloud security architecture, threat intelligence, security governance, and digital forensics.",
+    "funding": "NSA/DHS Center of Academic Excellence Cyber Scholarships up to $6,000",
+    "tuition": "$875/credit hour ($31,500 total program)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.regis.edu/academics/majors-and-programs/graduate/information-and-cyber-security-ms",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computing, STEM, or related quantitative field",
+      "ielts": "TOEFL 82+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of professional goals and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9232,
+    "title": "Doctor of Pharmacy (PharmD)",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional program utilizing team-based learning (TBL) to educate clinical pharmacists in pharmacotherapy, drug design, ambulatory care, and clinical hospital rotations across Denver.",
+    "funding": "Rueckert-Hartman College Pharmacy Merit Scholarships up to $12,000/year",
+    "tuition": "$39,800/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.regis.edu/academics/majors-and-programs/graduate/pharmacy-pharmd",
+    "requirements": {
+      "gpa": "2.75 science GPA in 60+ semester prerequisite credits",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS application essay",
+      "references": "Two recommendations (one science professor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9233,
+    "title": "Bachelor of Science in Nursing (BSN - Traditional)",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited nursing curriculum at the historic Loretto Heights School of Nursing with clinical hospital rotations across Centura Health, SCL Health, and Denver Health.",
+    "funding": "Loretto Heights Nursing Dean's Awards up to $15,000/year",
+    "tuition": "$42,400/year",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.regis.edu/academics/majors-and-programs/undergraduate/nursing-traditional-bsn",
+    "requirements": {
+      "gpa": "3.2 GPA in high school with strong chemistry and biology preparation",
+      "ielts": "TOEFL 82+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9234,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "ABET-accredited program emphasizing software engineering, distributed systems, machine learning, data structures, and ethical artificial intelligence.",
+    "funding": "Regis University Merit Scholarships up to $20,000/year",
+    "tuition": "$42,400/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.regis.edu/academics/majors-and-programs/undergraduate/computer-science-bs",
+    "requirements": {
+      "gpa": "3.0 GPA with precalculus or calculus",
+      "ielts": "TOEFL 82+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Admissions essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9235,
+    "title": "Master of Business Administration (MBA)",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Jesuit-values-aligned MBA curriculum covering ethical corporate finance, marketing analytics, strategic executive management, and sustainable enterprise operations.",
+    "funding": "Anderson College Graduate Fellowships up to $4,500",
+    "tuition": "$850/credit hour ($30,600 total program)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.regis.edu/academics/majors-and-programs/graduate/business-administration-mba",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA",
+      "ielts": "TOEFL 82+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional goals essay and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9236,
+    "title": "Rocky Mountain Environmental Ethics & Jesuit Mission Fellowship",
+    "university": "Regis University",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary fellowship examining Colorado Front Range water conservation, municipal air quality policy in Denver, and Laudato Si' environmental stewardship.",
+    "funding": "$4,000 research stipend and field travel support",
+    "tuition": "Covered by Regis Environmental Studies Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.regis.edu/research/environmental-fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in environmental studies, philosophy, or biology",
+      "ielts": "TOEFL 82+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Environmental ethics research proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9237,
+    "title": "Ph.D. in Agricultural, Biosystems and Mechanical Engineering",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Cutting-edge doctoral research investigating bioprocessing engineering, autonomous agricultural machinery, bio-based polymers, and soil-water management in the Research Park.",
+    "funding": "Graduate Research Assistantships (GRA) providing full tuition remission and $28,000 annual stipend",
+    "tuition": "100% covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.sdstate.edu/agricultural-biosystems-engineering",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA and 3.25 graduate GPA in engineering or physical sciences",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GRE recommended",
+      "papers": "Statement of research interests and technical publications",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9238,
+    "title": "Ph.D. in Plant Science (Precision Agriculture & Genomics)",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Advanced study in crop molecular genetics, drought-resistant cereal breeding, remote sensing phenotyping, and precision fertilizer prescription modeling.",
+    "funding": "USDA NIFA Doctoral Fellowships with full tuition and $27,500 stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.sdstate.edu/agronomy-horticulture-plant-science/phd-plant-science",
+    "requirements": {
+      "gpa": "3.0 GPA with strong background in agronomy, genetics, or plant pathology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research statement of purpose",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9239,
+    "title": "Master of Science in Data Science (Agricultural Analytics)",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Hands-on data science master's focusing on satellite hyperspectral imaging, spatial analytics, yield predictive machine learning, and farm telemetry pipelines.",
+    "funding": "Research Park AgTech Graduate Assistantships up to $16,000/year",
+    "tuition": "$350/credit (Resident) / $670/credit (Non-resident)",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.sdstate.edu/mathematics-statistics/ms-data-science",
+    "requirements": {
+      "gpa": "3.0 GPA with linear algebra, calculus, and programming coursework",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9240,
+    "title": "Master of Science in Biological Sciences (Microbiology)",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Researching antimicrobial resistance in zoonotic pathogens, microbial fermentation for biofuel synthesis, and rhizosphere soil metagenomics at the Animal Disease Research and Diagnostic Laboratory.",
+    "funding": "Departmental Teaching and Research Assistantships with tuition coverage",
+    "tuition": "$350/credit (Resident) / $670/credit (Non-resident)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.sdstate.edu/biology-microbiology",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in biology or microbiology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Research goals statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9241,
+    "title": "Bachelor of Science in Precision Agriculture",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "First dedicated precision agriculture four-year degree in the United States, training students in autonomous guidance systems, drone sensor mapping, and agricultural big data management in the Raven Precision Agriculture Center.",
+    "funding": "Raven Precision Agriculture Scholarships up to $5,000/year",
+    "tuition": "$9,200/year (In-state) / $12,800/year (Out-of-state)",
+    "fee": "$20",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.sdstate.edu/precision-agriculture",
+    "requirements": {
+      "gpa": "2.6 high school GPA with algebra and chemistry",
+      "ielts": "TOEFL 71+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9242,
+    "title": "Brookings Innovation Center AgTech Commercialization Fellowship",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "location": "Brookings, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Commercialization fellowship partnering graduate researchers with startup founders to prototype and validate soil carbon sensors, biopesticides, and automated livestock health collars.",
+    "funding": "$5,000 research stipend and incubator wet-lab workspace",
+    "tuition": "Covered by Research Park at SDSU Innovation Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.rpsdstate.com/fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in engineering, agronomy, or biotechnology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Commercialization concept proposal (2-3 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9243,
+    "title": "Doctor of Nursing Practice (DNP)",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Terminal clinical nursing degree preparing advanced practice nurses to lead healthcare transformation, translate clinical research into bedside practice, and shape health policy.",
+    "funding": "Sister Madeleine of Jesus Nursing Fellowships up to $6,000",
+    "tuition": "$795/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.rivier.edu/academics/online/programs/doctor-of-nursing-practice",
+    "requirements": {
+      "gpa": "3.0 GPA in MSN from accredited institution, active RN license",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "DNP clinical scholarly project proposal",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9244,
+    "title": "Master of Science in Computer Science (Cybersecurity Focus)",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous software and security degree covering secure coding practices, cryptography, network penetration testing, cloud administration, and database architecture.",
+    "funding": "Graduate Technology Leadership Awards up to $4,000",
+    "tuition": "$680/credit hour ($24,480 total program)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.rivier.edu/academics/graduate/programs/computer-science-ms",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA in computer science, mathematics, or STEM",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of technical intent and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9245,
+    "title": "Bachelor of Science in Nursing (BSN - Traditional)",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ACEN-accredited pre-licensure BSN program housed in the Fallon Center with clinical hospital rotations across Southern New Hampshire Health and St. Joseph Hospital.",
+    "funding": "Rivier Presidential Healthcare Scholarships up to $18,000/year",
+    "tuition": "$36,900/year",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.rivier.edu/academics/undergraduate/programs/nursing-bs",
+    "requirements": {
+      "gpa": "3.0 high school GPA with chemistry and biology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing personal essay",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9246,
+    "title": "Doctor of Psychology (Psy.D.) in Combined Health Psychology",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited doctoral curriculum training health service psychologists in clinical neuropsychology, psychopathology assessment, pediatric psychology, and integrated hospital care.",
+    "funding": "Doctoral Graduate Assistantships with partial tuition remission and clinical stipends",
+    "tuition": "$995/credit hour",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.rivier.edu/academics/graduate/programs/doctor-of-psychology-psyd",
+    "requirements": {
+      "gpa": "3.2 GPA in undergraduate psychology or master's degree",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "General GRE optional",
+      "papers": "Scholarly writing sample and clinical goals statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9247,
+    "title": "Master of Business Administration (MBA) in Healthcare Management",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "ACBSP-accredited curriculum educating hospital administrators in health informatics, clinical quality governance, healthcare financial analytics, and medical law.",
+    "funding": "Executive Healthcare Management Grants up to $3,500",
+    "tuition": "$680/credit hour ($24,480 total program)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.rivier.edu/academics/graduate/programs/mba-in-healthcare-management",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE exempt",
+      "papers": "Personal essay and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9248,
+    "title": "Fallon Center Clinical Healthcare Simulation Fellowship",
+    "university": "Rivier University",
+    "country": "United States",
+    "location": "Nashua, New Hampshire, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Graduate clinical research fellowship evaluating simulation debriefing models, emergency resuscitation handovers, and patient safety outcomes in acute care settings.",
+    "funding": "$3,500 clinical research stipend and simulation laboratory supply budget",
+    "tuition": "Covered by Fallon Center Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.rivier.edu/research/fallon-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in MSN, DNP, or Psy.D. programs",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Clinical simulation research proposal",
+      "references": "Two clinical faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9249,
+    "title": "Doctor of Osteopathic Medicine (DO)",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "COCA-accredited four-year medical degree curriculum integrating osteopathic principles, anatomical sciences, pathophysiological systems, and extensive rural hospital clinical rotations.",
+    "funding": "Montana Rural Physician Incentive Grants and RVU Merit Endowments up to $20,000/year",
+    "tuition": "$63,200/year",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.rvu.edu/mcom",
+    "requirements": {
+      "gpa": "3.5+ cumulative and science GPA with competitive MCAT score (median 506)",
+      "ielts": "TOEFL 90+ or English fluency",
+      "gre": "MCAT required",
+      "papers": "AACOMAS personal statement and RVU secondary application",
+      "references": "Three letters of recommendation (one practicing physician, DO preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9250,
+    "title": "Master of Science in Biomedical Sciences (MSBS)",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "One-year intensive post-baccalaureate curriculum designed to prepare aspiring medical students with graduate-level medical gross anatomy, neuroanatomy, biochemistry, and pharmacology.",
+    "funding": "Biomedical Dean's Scholarships up to $5,000",
+    "tuition": "$26,800/program",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.rvu.edu/academics/biomedical-sciences",
+    "requirements": {
+      "gpa": "2.8 GPA in undergraduate pre-medical coursework",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "MCAT or GRE scores accepted",
+      "papers": "Personal statement and career goals",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9251,
+    "title": "Master of Physician Assistant Studies (MPAS)",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ARC-PA-accredited 28-month clinical curriculum preparing primary care PAs with specialized tracks in rural and frontier emergency medicine and wilderness healthcare.",
+    "funding": "Rural Health PA Fellowships up to $8,000",
+    "tuition": "$41,200/year",
+    "fee": "$75",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.rvu.edu/academics/physician-assistant",
+    "requirements": {
+      "gpa": "3.0 science GPA with 1,000+ hours of direct hands-on patient care",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "PA-CAT or GRE required",
+      "papers": "CASPA essay and personal narrative",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9252,
+    "title": "Rural Medicine & Frontier Healthcare Honors Track",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Specialized honors immersion educating medical students in critical access hospital operations, wilderness trauma management, point-of-care ultrasound, and tribal health clinics in Montana.",
+    "funding": "$8,000 annual honors stipend plus clinical travel housing support",
+    "tuition": "Embedded in DO curriculum",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.rvu.edu/tracks/rural-medicine",
+    "requirements": {
+      "gpa": "Enrolled RVU medical student with demonstrated passion for rural medical practice",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Rural health commitment essay",
+      "references": "Two medical faculty endorsements"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9253,
+    "title": "Military Medicine Honors Track",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Elite military medical training curriculum covering combat casualty care, disaster triage, battlefield hyperbaric medicine, and flight surgeon fundamentals.",
+    "funding": "DoD Health Professions Scholarship Program (HPSP) full tuition waiver plus $2,700/month stipend",
+    "tuition": "100% covered by HPSP military scholarship",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.rvu.edu/tracks/military-medicine",
+    "requirements": {
+      "gpa": "Accepted RVU medical student with DoD military commissioning",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Military medical service motivation statement",
+      "references": "Military and academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9254,
+    "title": "Rocky Mountain Neuroscience & Osteopathic Research Fellowship",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "location": "Billings, Montana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Summer medical research fellowship investigating biomechanical fascial strain patterns, neuroinflammation in chronic pain disorders, and osteopathic manipulative treatments.",
+    "funding": "$5,000 research stipend and laboratory supply funding",
+    "tuition": "Covered by RVU Research Office",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.rvu.edu/research/fellowships",
+    "requirements": {
+      "gpa": "Medical student in good academic standing",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Biomedical research prospectus (3 pages)",
+      "references": "Faculty research mentor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9255,
+    "title": "Ph.D. in Biomedical Engineering (Rowan-Virtua)",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "World-class doctoral research developing targeted drug delivery nanoparticles, biomaterials for tissue regeneration, neural prosthetics, and point-of-care biosensors.",
+    "funding": "Rowan-Virtua Doctoral Fellowships providing full tuition waiver and $34,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.rowan.edu/programs/biomedical/phd.html",
+    "requirements": {
+      "gpa": "3.5+ GPA in biomedical, chemical, or electrical engineering",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement and laboratory portfolio",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9256,
+    "title": "Ph.D. in Chemical Engineering (Henry M. Rowan College)",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Elite research in sustainable polymers, membrane separation systems, renewable bio-fuels, catalysis, and pharmaceutical crystallization.",
+    "funding": "Full graduate research assistantships offering complete tuition remission and $33,000/year",
+    "tuition": "100% covered by assistantship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.rowan.edu/programs/chemical/phd.html",
+    "requirements": {
+      "gpa": "3.3 GPA in chemical engineering or chemistry",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9257,
+    "title": "Master of Science in Computer Science (Artificial Intelligence Track)",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Advanced study in deep neural networks, computer vision, natural language processing, distributed cloud computing, and big data systems.",
+    "funding": "Graduate Teaching Assistantships with tuition coverage and monthly stipend",
+    "tuition": "$850/credit (In-state) / $1,280/credit (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://csm.rowan.edu/departments/cs/academics/graduate/ms_cs.html",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computer science or related field",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal essay and technical resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9258,
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Nationally acclaimed ABET-accredited curriculum featuring hallmark eight-semester Engineering Clinics, hands-on machining, robotics, aerodynamics, and aerospace mechanics.",
+    "funding": "Rowan Scholars Merit Awards up to $10,000/year",
+    "tuition": "$14,800/year (In-state) / $24,400/year (Out-of-state)",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://engineering.rowan.edu/programs/mechanical/undergraduate",
+    "requirements": {
+      "gpa": "3.5 high school GPA with calculus and physics",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application personal essay",
+      "references": "Two STEM teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9259,
+    "title": "Doctor of Medicine (MD - Cooper Medical School)",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "LCME-accredited medical degree in Camden, NJ emphasizing early clinical patient immersion, active learning group pedagogies, and urban underserved healthcare.",
+    "funding": "Cooper Medical Dean's Scholarships and Camden Community Service Awards",
+    "tuition": "$44,200/year (In-state) / $67,900/year (Out-of-state)",
+    "fee": "$100",
+    "deadline": "2026-11-15",
+    "deadlineText": "November 15, 2026",
+    "source": "https://cmsru.rowan.edu",
+    "requirements": {
+      "gpa": "Pre-medical GPA (median 3.75) and competitive MCAT (median 511)",
+      "ielts": "English fluency verified via AMCAS",
+      "gre": "MCAT required",
+      "papers": "AMCAS personal essay and secondary application",
+      "references": "Pre-health committee letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9260,
+    "title": "Edelman Fossil Park Paleontology & Climate Research Fellowship",
+    "university": "Rowan University",
+    "country": "United States",
+    "location": "Glassboro, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field research fellowship at Rowan's world-famous Cretaceous-Paleogene extinction quarry, excavating marine reptiles (mosasaurs), sea turtles, and analyzing ancient oceanic geochemical climate shifts.",
+    "funding": "$5,000 research stipend and active quarry excavation access",
+    "tuition": "Covered by Edelman Fossil Park Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://fossilpark.rowan.edu/fellowships",
+    "requirements": {
+      "gpa": "3.2 GPA in geology, paleontology, or environmental science",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Paleontological research proposal",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9261,
+    "title": "Ph.D. in Computer Science (DIMACS & AI Institute)",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite doctoral program renowned for theoretical computer science, machine learning, algorithmic game theory, computer vision, and robotics at DIMACS.",
+    "funding": "Full 5-year doctoral package including full tuition remission, comprehensive healthcare, and $36,000+ annual living stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$70",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.cs.rutgers.edu/academics/graduate/ph-d-program",
+    "requirements": {
+      "gpa": "3.7+ undergraduate GPA in computer science or mathematics",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Statement of academic purpose and research publications sample",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9262,
+    "title": "Ph.D. in Mathematics",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "physics"
+    ],
+    "desc": "Internationally top-ranked mathematics doctoral program specializing in algebraic geometry, combinatorics, partial differential equations, Lie theory, and mathematical physics.",
+    "funding": "Five-year doctoral fellowship covering full tuition and $36,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$70",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://math.rutgers.edu/academics/graduate/phd-program",
+    "requirements": {
+      "gpa": "3.8+ GPA with rigorous abstract algebra, real analysis, and topology",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "GRE Mathematics Subject Test recommended",
+      "papers": "Mathematical statement of purpose",
+      "references": "Three letters from mathematicians"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9263,
+    "title": "Ph.D. in Biomedical Engineering (School of Engineering)",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Pioneering doctoral program developing neuro-engineering prosthetics, stem cell scaffolds, nanomedicine formulations, and 3D bioprinting in the Busch Campus engineering laboratories.",
+    "funding": "Graduate Fellowships providing full tuition, fees, and $35,000 annual research stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$70",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://bme.rutgers.edu/academics/graduate-program/phd-biomedical-engineering",
+    "requirements": {
+      "gpa": "3.5+ GPA in engineering, biology, or biophysics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9264,
+    "title": "Doctor of Pharmacy (PharmD - Ernest Mario School)",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Nation's premier pharmacy school offering direct-entry and professional clinical rotations across RWJBarnabas Health and New Jersey's major pharmaceutical corridor.",
+    "funding": "Ernest Mario School of Pharmacy Endowed Scholarships up to $15,000/year",
+    "tuition": "$18,500/year (In-state) / $36,800/year (Out-of-state)",
+    "fee": "$70",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://pharmacy.rutgers.edu",
+    "requirements": {
+      "gpa": "3.2 science GPA in prerequisite chemistry, biology, and calculus",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "PCAT exempt",
+      "papers": "PharmCAS essay and personal statement",
+      "references": "Two recommendations (one science faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9265,
+    "title": "Ph.D. in Philosophy",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Consistently ranked #1 or #2 in the English-speaking world for philosophy, offering world-leading faculty in epistemology, metaphysics, philosophy of mind, ethics, and philosophy of language.",
+    "funding": "Full 5-year MacCracken-equivalent fellowship covering tuition and $36,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$70",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://philosophy.rutgers.edu/graduate-program",
+    "requirements": {
+      "gpa": "Exceptional undergraduate record in philosophy",
+      "ielts": "TOEFL 100+ or IELTS 7.5",
+      "gre": "Optional",
+      "papers": "Philosophical writing sample (5,000-7,000 words) and statement",
+      "references": "Three letters from philosophy professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9266,
+    "title": "Waksman Institute of Microbiology Postdoctoral Fellowship",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "location": "New Brunswick, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Prestigious research fellowship at the historic institute founded by Nobel laureate Selman Waksman, investigating RNA transcription, CRISPR bacterial immunity, and structural molecular genetics.",
+    "funding": "$65,000 annual postdoctoral salary, full health benefits, and research supply budget",
+    "tuition": "Postdoctoral research appointment",
+    "fee": "$0",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://waksman.rutgers.edu/fellowships",
+    "requirements": {
+      "gpa": "Ph.D. in microbiology, molecular biology, or biochemistry",
+      "ielts": "Fluent English proficiency",
+      "gre": "Exempt",
+      "papers": "Research proposal (3 pages) and CV with publications",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9267,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure BSN program featuring high-fidelity clinical simulation and clinical hospital rotations at Maine Medical Center and Northern Light Mercy Hospital.",
+    "funding": "Mercy Healthcare Merit Scholarships up to $18,000/year",
+    "tuition": "$42,600/year",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.sjcme.edu/academics/undergraduate/programs/nursing",
+    "requirements": {
+      "gpa": "3.0 high school GPA with biology and chemistry",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing personal essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9268,
+    "title": "Bachelor of Science in Marine Science",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Fieldwork-intensive marine curriculum utilizing Sebago Lake and Gulf of Maine coastal research sites to investigate lobster population dynamics, ocean acidification, and aquatic toxicology.",
+    "funding": "Sebago Lake Science Grants up to $15,000 distributed over four years",
+    "tuition": "$42,600/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.sjcme.edu/academics/undergraduate/programs/marine-science",
+    "requirements": {
+      "gpa": "2.8 GPA with high school chemistry and biology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Scientific interests essay",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9269,
+    "title": "Master of Health Administration (MHA - Online)",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Pioneering online graduate program instructing healthcare executives in hospital operations, healthcare economics, clinical quality metrics, and ethical health leadership.",
+    "funding": "Healthcare Leadership Tuition Grants up to $4,000",
+    "tuition": "$585/credit hour ($21,060 total program)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://online.sjcme.edu/programs/master-of-health-administration",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Resume and goals statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9270,
+    "title": "Bachelor of Science in Sustainable Agriculture & Food Systems",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary program integrating hands-on regenerative agriculture on the campus farm, organic crop management, agroforestry, and regional food policy in Maine.",
+    "funding": "Pearson's Town Farm Agroecology Scholarships up to $12,000/year",
+    "tuition": "$42,600/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.sjcme.edu/academics/undergraduate/programs/sustainable-agriculture",
+    "requirements": {
+      "gpa": "2.5 high school GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9271,
+    "title": "Master of Science in Nursing (MSN) - Family Nurse Practitioner",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited online MSN preparing registered nurses for national FNP certification, primary care clinical diagnosis, pharmacological prescribing, and rural healthcare delivery.",
+    "funding": "Advanced Practice Nursing Endowments up to $5,000",
+    "tuition": "$635/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://online.sjcme.edu/programs/msn-fnp",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN from accredited institution, valid RN license",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of clinical intent",
+      "references": "Two professional nursing letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9272,
+    "title": "Sebago Lake Limnology & Freshwater Ecology Fellowship",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "location": "Standish, Maine, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Undergraduate summer fellowship monitoring deep-water dissolved oxygen profiles, nutrient runoff dynamics, and invasive milfoil mitigation in Maine's Sebago Lake watershed.",
+    "funding": "$4,000 research stipend plus research boat laboratory usage",
+    "tuition": "Covered by Sebago Lake Ecological Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.sjcme.edu/research/sebago-fellowships",
+    "requirements": {
+      "gpa": "3.0 GPA in marine science, environmental science, or biology",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Freshwater limnology research proposal",
+      "references": "Two science faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9273,
+    "title": "Doctor of Medicine (MD - School of Medicine)",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "LCME-accredited medical education integrating organ-system problem-based learning, clinical patient simulation in the Interprofessional Education Building, and hospital clerkships at SSM Health Saint Louis University Hospital.",
+    "funding": "SLU School of Medicine Dean's Merit Scholarships up to $30,000/year",
+    "tuition": "$63,800/year",
+    "fee": "$100",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.slu.edu/medicine",
+    "requirements": {
+      "gpa": "Pre-medical GPA (median 3.86) and competitive MCAT (median 513)",
+      "ielts": "English fluency verified via AMCAS",
+      "gre": "MCAT required",
+      "papers": "AMCAS personal statement and SLU secondary application",
+      "references": "Pre-health committee letter or three faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9274,
+    "title": "Ph.D. in Aerospace and Mechanical Engineering (Parks College)",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Pioneering aerospace research in supersonic wind tunnel aerodynamics, autonomous unmanned aerial systems (UAS), space systems orbit mechanics, and composite structures at Parks College.",
+    "funding": "Parks College Doctoral Fellowships providing full tuition waiver and $32,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.slu.edu/parks/academics/degrees/graduate/aerospace-mechanical-engineering-phd.php",
+    "requirements": {
+      "gpa": "3.5+ GPA in aerospace, mechanical engineering, or physics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Research statement and CV",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9275,
+    "title": "Juris Doctor (JD) in Health Law (Center for Health Law Studies)",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Consistently ranked #1 in Health Law in the US for over 15 years; comprehensive legal education covering bioethics, healthcare antitrust, pharmaceutical regulation, and hospital health systems policy.",
+    "funding": "Health Law Scholars Awards covering up to 100% of law tuition",
+    "tuition": "$47,900/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.slu.edu/law/health-law",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive LSAT score (median 159) and GPA (median 3.65)",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "LSAT or GRE required",
+      "papers": "Personal statement and legal resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9276,
+    "title": "Master of Science in Computer Science (Artificial Intelligence Track)",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Advanced study in deep learning, algorithm analysis, computer vision, natural language processing, parallel high-performance computing, and cybersecurity.",
+    "funding": "Graduate Assistantships providing tuition waiver and monthly stipend",
+    "tuition": "$1,280/credit hour",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.slu.edu/science-and-engineering/academics/computer-science/graduate",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computer science or mathematics",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9277,
+    "title": "Ph.D. in Molecular Microbiology and Immunology",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite biomedical research at the Center for Vaccine Development and Doisy Research Center investigating viral pathogenesis (influenza, flaviviruses), bacterial genomics, and T-cell immunology.",
+    "funding": "Full 5-year assistantship funding including full tuition and $35,000 annual stipend",
+    "tuition": "100% covered by fellowship",
+    "fee": "$65",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.slu.edu/medicine/molecular-microbiology-immunology/graduate",
+    "requirements": {
+      "gpa": "3.5+ GPA in molecular biology, biochemistry, or genetics",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Not required",
+      "papers": "Statement of research interests and laboratory experience",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9278,
+    "title": "Center for Vaccine Development Clinical Immunology Fellowship",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Postdoctoral research fellowship in an NIH-funded Vaccine and Treatment Evaluation Unit (VTEU) developing next-generation pandemic mRNA and viral vector vaccines.",
+    "funding": "$62,000 annual postdoctoral stipend, health insurance, and research conference budget",
+    "tuition": "Postdoctoral research appointment",
+    "fee": "$0",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://www.slu.edu/medicine/vaccine-center/fellowships",
+    "requirements": {
+      "gpa": "Ph.D. or M.D./Ph.D. in virology, immunology, or infectious diseases",
+      "ielts": "Fluent English proficiency",
+      "gre": "Exempt",
+      "papers": "Vaccine immunology research proposal (3 pages)",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9279,
+    "title": "Doctor of Nursing Practice (DNP) in Nurse Anesthesia (CRNA)",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "COA-accredited 36-month doctoral curriculum preparing Certified Registered Nurse Anesthetists (CRNAs) with clinical rotations across Mayo Clinic Health System, Abbott Northwestern, and Hennepin Healthcare.",
+    "funding": "Nurse Anesthesia Traineeship Grants up to $8,000/year",
+    "tuition": "$42,800/year",
+    "fee": "$80",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.smumn.edu/academics/graduate/programs/nurse-anesthesia-dnp",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN from accredited program, active unencumbered RN license, minimum 1 year acute ICU experience, CCRN preferred",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Exempt if GPA > 3.4",
+      "papers": "Anesthesia career statement",
+      "references": "Three clinical recommendations (one ICU nurse manager)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9280,
+    "title": "Master of Science in Business Intelligence and Data Analytics",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Hands-on data analytics master's covering SQL data warehousing, predictive machine learning, Tableau/PowerBI business intelligence, and Python predictive modeling.",
+    "funding": "Twin Cities Analytics Leadership Awards up to $4,500",
+    "tuition": "$725/credit hour ($26,100 total program)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.smumn.edu/academics/graduate/programs/business-intelligence-data-analytics-ms",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA in quantitative or business discipline",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal statement and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9281,
+    "title": "Doctor of Psychology (Psy.D.) in Counseling Psychology",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "APA-accredited practitioner-scholar doctoral program educating clinical psychologists in multicultural counseling, neuropsychological assessment, trauma intervention, and psychotherapy.",
+    "funding": "Doctoral Fellowships and clinical assistantships up to $6,000/year",
+    "tuition": "$920/credit hour",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.smumn.edu/academics/graduate/programs/counseling-psychology-psyd",
+    "requirements": {
+      "gpa": "3.0 undergraduate or master's GPA in psychology",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Scholarly essay and statement of clinical goals",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9282,
+    "title": "Master of Science in Cybersecurity",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Enterprise security degree covering network intrusion detection, incident response planning, regulatory compliance (NIST/ISO), cryptography, and ethical hacking.",
+    "funding": "Twin Cities Tech Advancement Grants up to $3,500",
+    "tuition": "$725/credit hour ($26,100 total)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.smumn.edu/academics/graduate/programs/cybersecurity-ms",
+    "requirements": {
+      "gpa": "2.75 GPA with IT or computing background",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Technical goals statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9283,
+    "title": "Master of Social Work (MSW)",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited clinical social work curriculum focusing on clinical mental health, community advocacy, trauma-informed child welfare, and addictions intervention in urban Minneapolis.",
+    "funding": "Lasallian Social Justice Grants up to $5,000",
+    "tuition": "$685/credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.smumn.edu/academics/graduate/programs/social-work-msw",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA with liberal arts background",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Social work essay and personal narrative",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9284,
+    "title": "Clinical Nurse Anesthesia Simulation & Patient Safety Fellowship",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "location": "Minneapolis, Minnesota, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Graduate clinical research fellowship evaluating high-fidelity anesthesia simulation for difficult airway emergencies, malignant hyperthermia protocols, and hemodynamic stability.",
+    "funding": "$4,500 clinical research stipend and anesthesia simulation suite access",
+    "tuition": "Covered by Saint Mary's Anesthesia Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.smumn.edu/research/anesthesia-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in DNP Nurse Anesthesia program",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Anesthesia patient safety project proposal",
+      "references": "Two clinical anesthesia faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9285,
+    "title": "Master of Science in Data Science with a Concentration in Business Analytics",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Leading STEM-designated program covering deep learning, natural language processing, predictive data modeling, distributed computing (Spark/Hadoop), and financial analytics.",
+    "funding": "Data Science Institute Merit Fellowships up to $5,000",
+    "tuition": "$895/credit hour ($32,220 total program)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.saintpeters.edu/academics/graduate-programs/master-of-science-in-data-science",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with background in statistics, calculus, or programming",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9286,
+    "title": "Master of Science in Cyber Security",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Comprehensive training in ethical hacking, network defense architecture, blockchain security, digital forensics, and cybersecurity risk governance.",
+    "funding": "Cyber Defense Leadership Grants up to $4,000",
+    "tuition": "$895/credit hour ($32,220 total)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.saintpeters.edu/academics/graduate-programs/master-of-science-in-cyber-security",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computing, STEM, or quantitative field",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of cyber defense intent",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9287,
+    "title": "Bachelor of Science in Nursing (BSN - Generic)",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure BSN program with clinical hospital rotations across Jersey City Medical Center (RWJBarnabas) and Hackensack Meridian Health.",
+    "funding": "Peacock Healthcare Scholarships up to $16,000/year",
+    "tuition": "$39,800/year",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.saintpeters.edu/academics/undergraduate-programs/nursing",
+    "requirements": {
+      "gpa": "3.0 high school GPA with biology and chemistry",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Nursing personal essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9288,
+    "title": "Master of Business Administration (MBA) in Finance",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Jesuit-values-rooted business degree situated beside Wall Street, preparing students in portfolio management, corporate valuation, financial modeling, and international banking.",
+    "funding": "Guarini School of Business Fellowships up to $4,500",
+    "tuition": "$895/credit hour ($26,850 total program)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.saintpeters.edu/academics/graduate-programs/master-of-business-administration",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional goals essay and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9289,
+    "title": "Bachelor of Science in Biochemistry",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Intensive laboratory preparation for medical school and biotech careers, offering undergraduate research in enzymology, organic synthesis, and molecular biology.",
+    "funding": "Ignatian STEM Honors Awards up to $18,000 distributed over four years",
+    "tuition": "$39,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.saintpeters.edu/academics/undergraduate-programs/biochemistry",
+    "requirements": {
+      "gpa": "3.0 GPA with high school chemistry and precalculus",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9290,
+    "title": "Metropolitan Financial Data & Cybersecurity Research Fellowship",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "location": "Jersey City, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Applied student fellowship developing anomaly detection algorithms for high-frequency trading data and evaluating ransomware defense in urban financial institutions.",
+    "funding": "$4,500 research stipend and Wall Street corporate partner mentorship",
+    "tuition": "Covered by Data Science Institute Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://www.saintpeters.edu/research/data-science-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in data science, cybersecurity, or finance",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Applied financial computing proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9291,
+    "title": "Doctor of Pharmacy (PharmD - McWhorter School)",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year clinical pharmacy doctorate offering intensive clinical rotations at UAB Medicine, Children's of Alabama, and regional biotechnology research labs.",
+    "funding": "McWhorter School of Pharmacy Endowed Scholarships up to $18,000/year",
+    "tuition": "$42,400/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.samford.edu/pharmacy",
+    "requirements": {
+      "gpa": "2.75 science GPA in 64+ prerequisite semester credits",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS personal statement",
+      "references": "Two recommendations (one pharmacist or science faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9292,
+    "title": "Juris Doctor (JD - Cumberland School of Law)",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally recognized for exceptional trial advocacy and legal writing, preparing courtroom attorneys through intensive moot court competitions, legal clinics, and judicial externships.",
+    "funding": "Cumberland Law Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$44,900/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.samford.edu/cumberlandlaw",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive LSAT score (median 156) and GPA (median 3.61)",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "LSAT or GRE required",
+      "papers": "Law personal statement and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9293,
+    "title": "Doctor of Nursing Practice (DNP) - Family Nurse Practitioner",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited terminal clinical nursing degree educating primary care leaders in health promotion, chronic disease management, clinical epidemiology, and health systems leadership.",
+    "funding": "Ida Moffett School of Nursing Doctoral Grants up to $8,000",
+    "tuition": "$945/credit hour",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.samford.edu/nursing/doctor-of-nursing-practice",
+    "requirements": {
+      "gpa": "3.0 GPA in BSN or MSN from accredited institution, active RN license",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of clinical intent",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9294,
+    "title": "Master of Business Administration (MBA - Brock School)",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA offering concentrations in finance, marketing, and sports business, combining executive leadership principles with quantitative decision modeling.",
+    "funding": "Brock School of Business Graduate Assistantships up to $5,000",
+    "tuition": "$945/credit hour ($34,020 total program)",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.samford.edu/business/mba",
+    "requirements": {
+      "gpa": "2.8 undergraduate GPA",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume and goals statement",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9295,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Rigorous undergraduate program covering algorithm theory, machine learning, software development, database engineering, and cybersecurity in modern computing labs.",
+    "funding": "Samford Presidential Merit Scholarships up to $22,000/year",
+    "tuition": "$38,800/year",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.samford.edu/arts-and-sciences/math-and-computer-science",
+    "requirements": {
+      "gpa": "3.2 GPA with high school precalculus or calculus",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application personal essay",
+      "references": "One teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9296,
+    "title": "McWhorter Center for Clinical Pharmacology Research Fellowship",
+    "university": "Samford University",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Clinical and laboratory fellowship evaluating targeted drug delivery vehicles, pharmacogenomic variability in pediatric medications, and clinical pharmacokinetics.",
+    "funding": "$5,000 research stipend and pharmaceutical laboratory supply grant",
+    "tuition": "Covered by McWhorter Research Fund",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.samford.edu/pharmacy/research-fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in pharmacy, biochemistry, or biomedical sciences",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Pharmacology research plan (3 pages)",
+      "references": "Two pharmacy faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9297,
+    "title": "Doctor of Medicine (MD)",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "LCME-accredited medical doctorate renowned for longitudinal integrated clerkships, hands-on clinical simulation, and rural hospital rotations across the Sanford and Avera healthcare networks.",
+    "funding": "South Dakota Medical Tuition Assistance and Sanford Foundation Scholarships up to full tuition",
+    "tuition": "$16,200/year (South Dakota Resident) / $38,400/year (Non-resident)",
+    "fee": "$100",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.usd.edu/academics/graduate-programs/doctor-of-medicine",
+    "requirements": {
+      "gpa": "3.6+ pre-medical GPA and competitive MCAT score (median 508)",
+      "ielts": "English fluency verified via AMCAS",
+      "gre": "MCAT required",
+      "papers": "AMCAS personal statement and USD secondary application",
+      "references": "Three letters of recommendation (pre-med committee letter preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9298,
+    "title": "Ph.D. in Basic Biomedical Sciences (Division of Basic Biomedical Sciences)",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Interdisciplinary doctoral program investigating cardiovascular disease, neuroscience of neurodegeneration, cancer immunology, and infectious disease mechanisms.",
+    "funding": "Full graduate research assistantships offering complete tuition remission and $30,000/year living stipend",
+    "tuition": "100% covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.usd.edu/academics/graduate-programs/basic-biomedical-sciences-phd",
+    "requirements": {
+      "gpa": "3.2 GPA in biology, biochemistry, or related STEM field",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Not required",
+      "papers": "Statement of research interests and laboratory experience",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9299,
+    "title": "Master of Science in Basic Biomedical Sciences",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Two-year research-based master's degree featuring thesis research in physiology, pharmacology, cell biology, or neurobiology in modern medical laboratories.",
+    "funding": "Graduate Teaching Assistantships with tuition reduction and monthly stipend",
+    "tuition": "$350/credit (Resident) / $670/credit (Non-resident)",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.usd.edu/academics/graduate-programs/basic-biomedical-sciences-ms",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in biological or physical sciences",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Personal statement and CV",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9300,
+    "title": "Frontier and Rural Medicine (FARM) Medical Honors Track",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Award-winning nine-month longitudinal integrated rural immersion placing medical students in critical access community hospitals across rural South Dakota.",
+    "funding": "$10,000 annual rural training stipend plus dedicated rural clinic housing",
+    "tuition": "Embedded in MD curriculum",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.usd.edu/medicine/farm-program",
+    "requirements": {
+      "gpa": "Accepted USD medical student with verified commitment to rural practice",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "FARM program application essay",
+      "references": "Rural community recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9301,
+    "title": "Master of Science in Physician Assistant Studies",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "ARC-PA-accredited 24-month clinical curriculum preparing primary care PAs with specialized rural clinical clerkships throughout the upper Midwest.",
+    "funding": "Rural Health PA Workforce Grants up to $6,000",
+    "tuition": "$32,800/year",
+    "fee": "$75",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.usd.edu/academics/graduate-programs/physician-assistant-studies",
+    "requirements": {
+      "gpa": "3.0 science GPA with 500+ patient care hours",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "PA-CAT or GRE required",
+      "papers": "CASPA essay and personal narrative",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9302,
+    "title": "Sanford Research Center Pediatric & Cancer Biomedical Fellowship",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "location": "Sioux Falls, South Dakota, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive summer research fellowship at Sanford Research in Sioux Falls investigating rare pediatric genetic diseases, tumor immunology, and cardiac cell signaling.",
+    "funding": "$5,000 summer research stipend plus laboratory supply budget",
+    "tuition": "Covered by Sanford Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.sanfordresearch.org/education/fellowships",
+    "requirements": {
+      "gpa": "3.3 GPA in pre-medicine, biology, or biochemistry",
+      "ielts": "TOEFL 80+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Biomedical research prospectus (2-3 pages)",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9303,
+    "title": "Master of Science in Computer Science (Sinegal Center)",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Elite software engineering and AI curriculum partnering with Amazon and Microsoft, covering cloud computing, machine learning, distributed systems, and algorithmic ethics.",
+    "funding": "Tech Industry Sponsored Graduate Scholarships up to $8,000",
+    "tuition": "$965/credit hour ($43,425 total program)",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.seattleu.edu/scieng/computer-science/graduate",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA in computer science, STEM, or quantitative field",
+      "ielts": "TOEFL 86+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9304,
+    "title": "Juris Doctor (JD - Seattle University School of Law)",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally recognized for legal writing and social justice advocacy, offering extensive clinical law programs in criminal defense, immigration, civil rights, and intellectual property.",
+    "funding": "Law Dean's Diversity and Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$54,900/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.seattleu.edu",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with valid LSAT score (median 156) and GPA (median 3.52)",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "LSAT or GRE accepted",
+      "papers": "Personal statement and legal resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9305,
+    "title": "Master of Business Administration (MBA - Albers School)",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA curriculum emphasizing values-driven executive leadership, sustainable business strategy, financial modeling, and venture capital entrepreneurship.",
+    "funding": "Albers School Graduate Endowments up to $6,000",
+    "tuition": "$1,080/credit hour ($58,320 total program)",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.seattleu.edu/business/mba",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA",
+      "ielts": "TOEFL 86+ or IELTS 6.5",
+      "gre": "GMAT/GRE optional",
+      "papers": "Personal essay and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9306,
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "ABET-accredited engineering degree featuring the yearlong corporate-sponsored Senior Design Project (partnered with Boeing, PACCAR, and Kenworth), robotics, and thermodynamics.",
+    "funding": "Bellarmine Academic Merit Scholarships up to $25,000/year",
+    "tuition": "$52,400/year",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.seattleu.edu/scieng/mechanical-engineering",
+    "requirements": {
+      "gpa": "3.2 GPA with calculus readiness and physics",
+      "ielts": "TOEFL 86+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application essay",
+      "references": "One counselor and one STEM teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9307,
+    "title": "Master of Science in Nursing (Advanced Practice Nursing Immersion)",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited graduate nursing pathway for non-nursing bachelor's degree holders, leading to RN licensure and advanced practice FNP or AGNP specialization.",
+    "funding": "College of Nursing Endowed Grants up to $10,000",
+    "tuition": "$965/credit hour",
+    "fee": "$60",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.seattleu.edu/nursing/msn",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with prerequisite anatomy, physiology, and microbiology",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Statement of nursing philosophy",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9308,
+    "title": "Sinegal Center AI & Cloud Computing Fellowship",
+    "university": "Seattle University",
+    "country": "United States",
+    "location": "Seattle, Washington, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Student fellowship investigating algorithmic fairness in artificial intelligence, computer vision for environmental conservation, and scalable serverless cloud computing.",
+    "funding": "$5,500 research stipend and AWS/Azure cloud compute sponsorship",
+    "tuition": "Covered by Sinegal Center Innovation Fund",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.seattleu.edu/scieng/sinegal-center/fellowships",
+    "requirements": {
+      "gpa": "3.4 GPA in computer science or electrical engineering",
+      "ielts": "TOEFL 86+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Technical research proposal (2-3 pages)",
+      "references": "Two computing faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9309,
+    "title": "Bachelor of Arts in Bible and Pastoral Theology",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive biblical curriculum covering Old and New Testament exegesis, homiletics, systematic Christian theology, church administration, and pastoral counseling.",
+    "funding": "Selma University Baptist Endowed Scholarships up to $3,500/year",
+    "tuition": "$6,800/year ($225/credit)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://selmau.edu/academics/theology",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "TOEFL 61+ or institutional interview",
+      "gre": "Exempt",
+      "papers": "Personal Christian testimony statement",
+      "references": "Pastoral recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9310,
+    "title": "Bachelor of Science in General Studies (Community Leadership)",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary curriculum preparing community leaders in non-profit organization management, civil rights history, community healthcare advocacy, and local economic revitalization.",
+    "funding": "Black Belt Community Leadership Grants up to $3,000",
+    "tuition": "$6,800/year ($225/credit)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://selmau.edu/academics/general-studies",
+    "requirements": {
+      "gpa": "High school completion or GED",
+      "ielts": "TOEFL 61+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9311,
+    "title": "Associate of Arts in Christian Education",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-year foundation in church educational ministries, Sunday school administration, youth leadership development, and biblical storytelling.",
+    "funding": "Faith Heritage Tuition Grants up to $2,000/year",
+    "tuition": "$6,800/year",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://selmau.edu/academics/christian-education",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "TOEFL 61+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Ministry interest essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9312,
+    "title": "Bachelor of Science in Biology (Pre-Health Allied Track)",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Fundamental biological sciences curriculum preparing students for careers in medical laboratory science, allied health professions, and public health in the rural South.",
+    "funding": "HBCU Science Opportunity Scholarships up to $3,000/year",
+    "tuition": "$6,800/year",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://selmau.edu/academics/biology",
+    "requirements": {
+      "gpa": "2.0 GPA with high school biology and chemistry",
+      "ielts": "TOEFL 61+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Career goals statement",
+      "references": "One science teacher letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9313,
+    "title": "Master of Divinity (M.Div. - In Candidacy)",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate theological education providing comprehensive pastoral preparation, Greek and Hebrew linguistic fundamentals, African American church history, and hospital chaplaincy.",
+    "funding": "Alabama Baptist State Convention Ministerial Grants up to $4,000",
+    "tuition": "$250/credit hour",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://selmau.edu/academics/mdiv",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with minimum 2.5 GPA",
+      "ielts": "TOEFL 68+ or equivalent",
+      "gre": "Exempt",
+      "papers": "Ministry vision statement",
+      "references": "Two pastoral references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9314,
+    "title": "Alabama Black Belt Civil Rights History & Oral Tradition Fellowship",
+    "university": "Selma University",
+    "country": "United States",
+    "location": "Selma, Alabama, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Undergraduate research fellowship documenting oral histories of the 1965 Selma Voting Rights Movement, church organizing strategies, and civil rights preservation in Dallas County, Alabama.",
+    "funding": "$3,000 research stipend and archival transcription support",
+    "tuition": "Covered by Selma Heritage Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://selmau.edu/research/civil-rights-fellowship",
+    "requirements": {
+      "gpa": "2.5 GPA in history, theology, or social sciences",
+      "ielts": "English fluency",
+      "gre": "Exempt",
+      "papers": "Oral history project proposal",
+      "references": "Two faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9315,
+    "title": "Master of Arts in Diplomacy and International Relations (UN Track)",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "World-class international affairs curriculum developed in alliance with the United Nations Association of the USA, covering multilateral diplomacy, international conflict resolution, global health governance, and international law.",
+    "funding": "School of Diplomacy Dean's Fellowships and UN Association Grants up to $15,000/year",
+    "tuition": "$1,380/credit hour ($62,100 total program)",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.shu.edu/diplomacy/academics/ma-diplomacy-international-relations",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with background in international relations, political science, or history",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "Optional",
+      "papers": "Policy writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9316,
+    "title": "Juris Doctor (JD - Seton Hall Law)",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally top-ranked law school in health law and intellectual property, located in downtown Newark steps from federal and state appellate courts, with intensive judicial clerkship placement.",
+    "funding": "Seton Hall Law Chancellor's Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$61,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.shu.edu",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive LSAT score (median 160) and GPA (median 3.65)",
+      "ielts": "TOEFL 100+ or IELTS 7.0",
+      "gre": "LSAT or GRE accepted",
+      "papers": "Law personal statement and character disclosures",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9317,
+    "title": "Master of Science in Data Science (Stillman School)",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Interdisciplinary STEM-designated master's covering machine learning, data engineering pipelines, cloud systems, financial data analytics, and ethical AI in the NYC metropolitan area.",
+    "funding": "Stillman School Graduate Assistantships up to $6,000",
+    "tuition": "$1,410/credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.shu.edu/business/academics/ms-data-science",
+    "requirements": {
+      "gpa": "3.0 undergraduate GPA with mathematics and programming prerequisites",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Optional",
+      "papers": "Technical goals statement and resume",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9318,
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited pre-licensure BSN housed at the Interprofessional Health Sciences Campus in Nutley, featuring hospital rotations at Hackensack University Medical Center.",
+    "funding": "College of Nursing Merit Scholarships up to $22,000/year",
+    "tuition": "$48,900/year",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.shu.edu/nursing/academics/undergraduate",
+    "requirements": {
+      "gpa": "3.3 high school GPA with biology and chemistry",
+      "ielts": "TOEFL 85+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Common Application essay",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9319,
+    "title": "Doctor of Physical Therapy (DPT - Nutley Campus)",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAPTE-accredited three-year clinical doctorate providing advanced training in musculoskeletal diagnostics, neuromuscular rehabilitation, sports physical therapy, and pediatric therapy.",
+    "funding": "Health Sciences Graduate Grants up to $8,000",
+    "tuition": "$38,500/year",
+    "fee": "$75",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.shu.edu/physical-therapy/doctor-physical-therapy",
+    "requirements": {
+      "gpa": "3.2 prerequisite science GPA with 100+ clinical observation hours",
+      "ielts": "TOEFL 90+ or IELTS 7.0",
+      "gre": "GRE scores required",
+      "papers": "PTCAS personal statement",
+      "references": "Three clinical recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9320,
+    "title": "United Nations Multilateral Policy & International Law Fellowship",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "location": "South Orange, New Jersey, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious graduate fellowship conducting policy analysis on UN peacekeeping mandates, international climate agreements, and global human rights law with direct access to UN delegates in New York.",
+    "funding": "$6,000 research stipend and United Nations Headquarters delegate access",
+    "tuition": "Covered by School of Diplomacy Research Endowment",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.shu.edu/diplomacy/fellowships",
+    "requirements": {
+      "gpa": "3.5 GPA in diplomacy, international relations, or law",
+      "ielts": "TOEFL 95+ or IELTS 7.0",
+      "gre": "Exempt",
+      "papers": "Multilateral policy proposal (3 pages)",
+      "references": "Two diplomacy faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9321,
+    "title": "Bachelor of Science in Ministerial Leadership",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive curriculum integrating biblical exegesis, pastoral leadership, homiletics, church administration, and intensive hands-on regional church practicums.",
+    "funding": "SEU Regional Leadership Grants up to $4,000/year",
+    "tuition": "$11,200/year ($375/credit)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://seucarolina.org/academics/ministerial-leadership",
+    "requirements": {
+      "gpa": "2.0 high school GPA",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal Christian testimony statement",
+      "references": "One pastoral recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9322,
+    "title": "Bachelor of Science in Business Studies (Management Track)",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Training students in organizational management, corporate finance, marketing strategy, entrepreneurship, and ethical business decision-making in the Charlotte corporate corridor.",
+    "funding": "Carolina Regional Merit Awards up to $3,500/year",
+    "tuition": "$11,200/year ($375/credit)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://seucarolina.org/academics/business-studies",
+    "requirements": {
+      "gpa": "2.0 GPA in high school or college transfer",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9323,
+    "title": "Bachelor of Science in Digital Media & Design",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Hands-on instruction in digital videography, graphic design, live streaming broadcast production, audio engineering, and social media branding.",
+    "funding": "Creative Arts Talent Grants up to $3,000/year",
+    "tuition": "$11,200/year ($375/credit)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://seucarolina.org/academics/digital-media",
+    "requirements": {
+      "gpa": "High school diploma and digital creative portfolio or statement",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Creative goals essay",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9324,
+    "title": "Master of Arts in Ministerial Leadership (Online/Hybrid)",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced graduate leadership curriculum covering organizational church dynamics, spiritual formation, conflict management, and strategic missional outreach.",
+    "funding": "Graduate Ministry Scholarships up to $2,500",
+    "tuition": "$495/credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://seucarolina.org/academics/graduate-leadership",
+    "requirements": {
+      "gpa": "2.75 undergraduate GPA in bachelor's degree",
+      "ielts": "TOEFL 79+ or IELTS 6.5",
+      "gre": "Exempt",
+      "papers": "Statement of ministry objectives",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9325,
+    "title": "Associate of Arts in General Studies",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Foundational collegiate pathway in humanities, communication, history, and social sciences offering seamless transfer into four-year baccalaureate programs.",
+    "funding": "Carolina Academic Foundation Grants up to $2,000/year",
+    "tuition": "$11,200/year",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://seucarolina.org/academics/associate-general-studies",
+    "requirements": {
+      "gpa": "High school completion or GED",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Personal statement",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 9326,
+    "title": "Carolina Regional Faith & Community Leadership Fellowship",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "location": "Fort Mill, South Carolina, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Applied student fellowship evaluating non-profit community food distribution, urban youth mentorship programs, and faith-based disaster relief across North and South Carolina.",
+    "funding": "$3,200 leadership stipend and Charlotte non-profit agency practicum",
+    "tuition": "Covered by SEU Carolina Foundation",
+    "fee": "$0",
+    "deadline": "2027-02-28",
+    "deadlineText": "February 28, 2027",
+    "source": "https://seucarolina.org/research/leadership-fellowships",
+    "requirements": {
+      "gpa": "2.8 GPA in ministerial leadership, business, or communications",
+      "ielts": "TOEFL 65+ or IELTS 6.0",
+      "gre": "Exempt",
+      "papers": "Community outreach project plan",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
   }];export const researchers=[
   {
     "id": 1,
@@ -324785,6 +329925,1627 @@ export const opportunities=[
     "source": "https://www.pace.edu",
     "bio": "Prof. Coplan is an authority on Clean Water Act litigation, constitutional environmental law, and co-founder of the Pace Environmental Litigation Clinic.",
     "summary": "Prof. Coplan is an authority on Clean Water Act litigation, constitutional environmental law, and co-founder of the Pace Environmental Litigation Clinic.",
+    "reviewed": "2026-10-16"
+  }
+,
+{
+    "id": 4129,
+    "name": "Dr. Fraser Horn",
+    "role": "Dean & Professor of Optometry",
+    "title": "Dean & Professor of Optometry",
+    "university": "Pacific University",
+    "country": "United States",
+    "department": "College of Optometry",
+    "subject": "biology",
+    "topics": [
+      "College of Optometry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pacificu.edu",
+    "bio": "Dr. Horn is an acclaimed authority on sports vision, ocular disease, and traumatic brain injury visual rehabilitation, serving as past chair of the American Optometric Association Sports Vision Section.",
+    "summary": "Dr. Horn is an acclaimed authority on sports vision, ocular disease, and traumatic brain injury visual rehabilitation, serving as past chair of the American Optometric Association Sports Vision Section.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4130,
+    "name": "Dr. Christiane Brems",
+    "role": "Professor of Clinical Psychology",
+    "title": "Professor of Clinical Psychology",
+    "university": "Pacific University",
+    "country": "United States",
+    "department": "School of Graduate Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Graduate Psychology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pacificu.edu",
+    "bio": "Dr. Brems is an ABPP-board-certified clinical psychologist specializing in integrative healthcare, trauma treatment, and mindfulness-based interventions in rural health clinics.",
+    "summary": "Dr. Brems is an ABPP-board-certified clinical psychologist specializing in integrative healthcare, trauma treatment, and mindfulness-based interventions in rural health clinics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4131,
+    "name": "Dr. Paige Baugher",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "Pacific University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pacificu.edu",
+    "bio": "Dr. Baugher investigates cellular signal transduction, macrophage activation in autoimmune pathologies, and molecular mechanisms of programmed cancer cell apoptosis.",
+    "summary": "Dr. Baugher investigates cellular signal transduction, macrophage activation in autoimmune pathologies, and molecular mechanisms of programmed cancer cell apoptosis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4132,
+    "name": "Dr. Shane B. Smeed",
+    "role": "President & Professor of Higher Education Administration",
+    "title": "President & Professor of Higher Education Administration",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.park.edu",
+    "bio": "Dr. Smeed directs Park University's nationwide network of campus centers, focusing on adult learner retention, military educational partnerships, and institutional strategic planning.",
+    "summary": "Dr. Smeed directs Park University's nationwide network of campus centers, focusing on adult learner retention, military educational partnerships, and institutional strategic planning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4133,
+    "name": "Dr. Kathy Lofflin",
+    "role": "Associate Dean of the College of Management",
+    "title": "Associate Dean of the College of Management",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.park.edu",
+    "bio": "Dr. Lofflin researches international human resource management, project leadership performance in hybrid military environments, and corporate ethics pedagogy.",
+    "summary": "Dr. Lofflin researches international human resource management, project leadership performance in hybrid military environments, and corporate ethics pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4134,
+    "name": "Dr. Alex Silvius",
+    "role": "Associate Professor of Physics and Computer Science",
+    "title": "Associate Professor of Physics and Computer Science",
+    "university": "Park University at Malmstrom AFB",
+    "country": "United States",
+    "department": "Department of Natural and Applied Sciences",
+    "subject": "physics",
+    "topics": [
+      "Department of Natural and Applied Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.park.edu",
+    "bio": "Dr. Silvius specializes in computational physics, computational quantum chemistry simulations, and machine learning models for materials science.",
+    "summary": "Dr. Silvius specializes in computational physics, computational quantum chemistry simulations, and machine learning models for materials science.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4135,
+    "name": "Dr. Carey McDougall",
+    "role": "Chancellor & Chief Academic Officer",
+    "title": "Chancellor & Chief Academic Officer",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "arts-design",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://beaver.psu.edu",
+    "bio": "Dr. McDougall is a sculptor, educator, and academic executive researching civic engagement in public art, environmental sculpture, and community-engaged university learning.",
+    "summary": "Dr. McDougall is a sculptor, educator, and academic executive researching civic engagement in public art, environmental sculpture, and community-engaged university learning.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4136,
+    "name": "Dr. Michael Hay",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://beaver.psu.edu",
+    "bio": "Dr. Hay's research focuses on environmental chemistry, wastewater remediation using tailored chelating ligands, and heavy metal speciation in regional watershed sediment.",
+    "summary": "Dr. Hay's research focuses on environmental chemistry, wastewater remediation using tailored chelating ligands, and heavy metal speciation in regional watershed sediment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4137,
+    "name": "Dr. Kristen Olson",
+    "role": "Associate Professor of English",
+    "title": "Associate Professor of English",
+    "university": "Penn State Beaver",
+    "country": "United States",
+    "department": "Department of English",
+    "subject": "arts-design",
+    "topics": [
+      "Department of English"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://beaver.psu.edu",
+    "bio": "Dr. Olson specializes in early modern literature, visual rhetoric in Renaissance texts, and digital humanities archival preservation methodologies.",
+    "summary": "Dr. Olson specializes in early modern literature, visual rhetoric in Renaissance texts, and digital humanities archival preservation methodologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4138,
+    "name": "Dr. Brenda Fredette",
+    "role": "Dean & Professor of Science and Technology",
+    "title": "Dean & Professor of Science and Technology",
+    "university": "PennWest California",
+    "country": "United States",
+    "department": "College of Science, Technology and Business",
+    "subject": "biology",
+    "topics": [
+      "College of Science, Technology and Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pennwest.edu",
+    "bio": "Dr. Fredette is a molecular biologist researching cellular signaling mechanisms in developmental embryology and leading STEM workforce alignment initiatives across western Pennsylvania.",
+    "summary": "Dr. Fredette is a molecular biologist researching cellular signaling mechanisms in developmental embryology and leading STEM workforce alignment initiatives across western Pennsylvania.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4139,
+    "name": "Dr. Jennifer Mock",
+    "role": "Chair & Professor of Exercise Science",
+    "title": "Chair & Professor of Exercise Science",
+    "university": "PennWest California",
+    "country": "United States",
+    "department": "Department of Exercise and Sport Science",
+    "subject": "biology",
+    "topics": [
+      "Department of Exercise and Sport Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pennwest.edu",
+    "bio": "Dr. Mock's research examines neuromuscular adaptations in elite athletes, tactical fitness programming for first responders, and online kinesiology pedagogy.",
+    "summary": "Dr. Mock's research examines neuromuscular adaptations in elite athletes, tactical fitness programming for first responders, and online kinesiology pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4140,
+    "name": "Prof. Jeffrey Sumey",
+    "role": "Associate Professor of Mechatronics Engineering Technology",
+    "title": "Associate Professor of Mechatronics Engineering Technology",
+    "university": "PennWest California",
+    "country": "United States",
+    "department": "Department of Applied Engineering and Technology",
+    "subject": "engineering",
+    "topics": [
+      "Department of Applied Engineering and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pennwest.edu",
+    "bio": "Prof. Sumey specializes in industrial robotics programming, PLC automation systems, and remote telemetry instrumentation for automated manufacturing facilities.",
+    "summary": "Prof. Sumey specializes in industrial robotics programming, PLC automation systems, and remote telemetry instrumentation for automated manufacturing facilities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4141,
+    "name": "Dr. Pete Peterson",
+    "role": "Dean & Professor of Public Policy",
+    "title": "Dean & Professor of Public Policy",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "department": "School of Public Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Public Policy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pepperdine.edu",
+    "bio": "Dean Peterson is a leading scholar on public engagement, regional governance, and national political participation, serving on civic leadership boards in Washington and California.",
+    "summary": "Dean Peterson is a leading scholar on public engagement, regional governance, and national political participation, serving on civic leadership boards in Washington and California.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4142,
+    "name": "Dr. Robert George",
+    "role": "Distinguished Visiting Professor & Senior Fellow",
+    "title": "Distinguished Visiting Professor & Senior Fellow",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "department": "School of Public Policy & Caruso Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Public Policy & Caruso Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pepperdine.edu",
+    "bio": "Acclaimed constitutional scholar, legal philosopher, and former Chair of the US Commission on International Religious Freedom, analyzing natural law and constitutional interpretation.",
+    "summary": "Acclaimed constitutional scholar, legal philosopher, and former Chair of the US Commission on International Religious Freedom, analyzing natural law and constitutional interpretation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4143,
+    "name": "Prof. Sukhsimranjit Singh",
+    "role": "Judge Danny Weinstein Managing Director & Professor of Law",
+    "title": "Judge Danny Weinstein Managing Director & Professor of Law",
+    "university": "Pepperdine University - DC Campus",
+    "country": "United States",
+    "department": "Straus Institute for Dispute Resolution",
+    "subject": "social-sciences",
+    "topics": [
+      "Straus Institute for Dispute Resolution"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pepperdine.edu",
+    "bio": "Prof. Singh is an internationally recognized mediator and scholar of cross-cultural dispute resolution, having trained judges, diplomats, and business leaders across more than 40 countries.",
+    "summary": "Prof. Singh is an internationally recognized mediator and scholar of cross-cultural dispute resolution, having trained judges, diplomats, and business leaders across more than 40 countries.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4144,
+    "name": "Dr. Michael Evans",
+    "role": "President & Professor of Communications",
+    "title": "President & Professor of Communications",
+    "university": "Peru State College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.peru.edu",
+    "bio": "Dr. Evans is a folklorist and communications scholar researching indigenous media, community journalism in rural America, and cultural preservation in public folklore.",
+    "summary": "Dr. Evans is a folklorist and communications scholar researching indigenous media, community journalism in rural America, and cultural preservation in public folklore.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4145,
+    "name": "Dr. Richard Clopton",
+    "role": "Professor of Natural Science",
+    "title": "Professor of Natural Science",
+    "university": "Peru State College",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.peru.edu",
+    "bio": "Dr. Clopton is an internationally known parasitologist specializing in apicomplexan parasite taxonomy, life cycles of gregarines, and arthropod symbiotic interactions.",
+    "summary": "Dr. Clopton is an internationally known parasitologist specializing in apicomplexan parasite taxonomy, life cycles of gregarines, and arthropod symbiotic interactions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4146,
+    "name": "Dr. Judy Grotrian",
+    "role": "Dean & Professor of Business",
+    "title": "Dean & Professor of Business",
+    "university": "Peru State College",
+    "country": "United States",
+    "department": "School of Professional Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Professional Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.peru.edu",
+    "bio": "Dr. Grotrian investigates rural entrepreneurship dynamics, experiential business learning pedagogies, and small business financial sustainability across the Great Plains.",
+    "summary": "Dr. Grotrian investigates rural entrepreneurship dynamics, experiential business learning pedagogies, and small business financial sustainability across the Great Plains.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4147,
+    "name": "Dr. Scott Bullard",
+    "role": "President & Professor of Religion",
+    "title": "President & Professor of Religion",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfeiffer.edu",
+    "bio": "Dr. Bullard provides strategic leadership for Pfeiffer University, researching Christian theological ethics, historical liturgies, and faith-integrated liberal arts education.",
+    "summary": "Dr. Bullard provides strategic leadership for Pfeiffer University, researching Christian theological ethics, historical liturgies, and faith-integrated liberal arts education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4148,
+    "name": "Dr. Dawn Lucas",
+    "role": "Dean & Professor of Health Sciences",
+    "title": "Dean & Professor of Health Sciences",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "department": "Division of Applied Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Applied Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfeiffer.edu",
+    "bio": "Dr. Lucas directs Pfeiffer's Center for Health Sciences, researching clinical interprofessional healthcare simulation, rural primary care access, and occupational therapy interventions.",
+    "summary": "Dr. Lucas directs Pfeiffer's Center for Health Sciences, researching clinical interprofessional healthcare simulation, rural primary care access, and occupational therapy interventions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4149,
+    "name": "Dr. Mark McCallum",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Pfeiffer University",
+    "country": "United States",
+    "department": "Department of Natural and Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Natural and Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfeiffer.edu",
+    "bio": "Dr. McCallum specializes in developmental biology, amphibian metamorphosis signaling pathways, and ecological biomonitoring of North Carolina Piedmont freshwater habitats.",
+    "summary": "Dr. McCallum specializes in developmental biology, amphibian metamorphosis signaling pathways, and ecological biomonitoring of North Carolina Piedmont freshwater habitats.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4150,
+    "name": "Prof. Rebecca McNally",
+    "role": "Campus Director & Clinical Operations Lead",
+    "title": "Campus Director & Clinical Operations Lead",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "department": "Campus Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Campus Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://pmi.edu",
+    "bio": "Prof. McNally oversees academic accreditation, healthcare industry hospital partnerships, and allied healthcare workforce certification programs in Southern Nevada.",
+    "summary": "Prof. McNally oversees academic accreditation, healthcare industry hospital partnerships, and allied healthcare workforce certification programs in Southern Nevada.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4151,
+    "name": "Prof. David Vance",
+    "role": "Program Director of Radiography",
+    "title": "Program Director of Radiography",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "department": "Radiography Division",
+    "subject": "biology",
+    "topics": [
+      "Radiography Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://pmi.edu",
+    "bio": "Prof. Vance is an ARRT-certified radiologic technologist with over 20 years of clinical experience in interventional radiology, digital radiation safety, and radiography curriculum accreditation.",
+    "summary": "Prof. Vance is an ARRT-certified radiologic technologist with over 20 years of clinical experience in interventional radiology, digital radiation safety, and radiography curriculum accreditation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4152,
+    "name": "Prof. Brenda Ricketts",
+    "role": "Program Director of Respiratory Therapy",
+    "title": "Program Director of Respiratory Therapy",
+    "university": "Pima Medical Institute - Las Vegas",
+    "country": "United States",
+    "department": "Respiratory Therapy Division",
+    "subject": "biology",
+    "topics": [
+      "Respiratory Therapy Division"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://pmi.edu",
+    "bio": "Prof. Ricketts is a registered respiratory therapist researching mechanical ventilation weaning protocols, pediatric airway management, and simulation-based clinical healthcare training.",
+    "summary": "Prof. Ricketts is a registered respiratory therapist researching mechanical ventilation weaning protocols, pediatric airway management, and simulation-based clinical healthcare training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4153,
+    "name": "Dr. G. Gabrielle Starr",
+    "role": "President & Professor of English and Neuroscience",
+    "title": "President & Professor of English and Neuroscience",
+    "university": "Pomona College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pomona.edu",
+    "bio": "Dr. Starr is a neuroaesthetics pioneer and MacArthur 'Genius' Fellow whose research uses fMRI neuroimaging to examine how the human brain processes beauty, poetry, and visual art.",
+    "summary": "Dr. Starr is a neuroaesthetics pioneer and MacArthur 'Genius' Fellow whose research uses fMRI neuroimaging to examine how the human brain processes beauty, poetry, and visual art.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4154,
+    "name": "Dr. Karl Haushalter",
+    "role": "Professor of Chemistry and Biology",
+    "title": "Professor of Chemistry and Biology",
+    "university": "Pomona College",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pomona.edu",
+    "bio": "Dr. Haushalter's research investigates DNA repair enzymes, base excision repair pathways, and community-engaged science education combating infectious diseases.",
+    "summary": "Dr. Haushalter's research investigates DNA repair enzymes, base excision repair pathways, and community-engaged science education combating infectious diseases.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4155,
+    "name": "Dr. Tzu-Chi Yen",
+    "role": "Associate Professor of Computer Science",
+    "title": "Associate Professor of Computer Science",
+    "university": "Pomona College",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pomona.edu",
+    "bio": "Dr. Yen investigates network science, graph neural networks, complex adaptive biological systems, and scalable algorithmic analysis of massive interconnected datasets.",
+    "summary": "Dr. Yen investigates network science, graph neural networks, complex adaptive biological systems, and scalable algorithmic analysis of massive interconnected datasets.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4156,
+    "name": "Dr. Vivek Shandas",
+    "role": "Professor of Urban Studies and Planning",
+    "title": "Professor of Urban Studies and Planning",
+    "university": "Portland State University",
+    "country": "United States",
+    "department": "Toulan School of Urban Studies and Planning",
+    "subject": "environment",
+    "topics": [
+      "Toulan School of Urban Studies and Planning"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pdx.edu",
+    "bio": "Dr. Shandas is an internationally renowned climate adaptation scientist who founded the Sustaining Urban Places Research Lab (SUPR Lab), mapping urban heat islands across global cities.",
+    "summary": "Dr. Shandas is an internationally renowned climate adaptation scientist who founded the Sustaining Urban Places Research Lab (SUPR Lab), mapping urban heat islands across global cities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4157,
+    "name": "Dr. Wu-chi Feng",
+    "role": "Professor & Chair of Computer Science",
+    "title": "Professor & Chair of Computer Science",
+    "university": "Portland State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pdx.edu",
+    "bio": "Dr. Feng specializes in distributed computer systems, video streaming architectures, digital forensics, and network telemetry security.",
+    "summary": "Dr. Feng specializes in distributed computer systems, video streaming architectures, digital forensics, and network telemetry security.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4158,
+    "name": "Dr. Kelly Gleason",
+    "role": "Associate Professor of Finance",
+    "title": "Associate Professor of Finance",
+    "university": "Portland State University",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pdx.edu",
+    "bio": "Dr. Gleason's research focuses on corporate governance, banking performance, commercial loan syndication, and financial risk mitigation in institutional portfolios.",
+    "summary": "Dr. Gleason's research focuses on corporate governance, banking performance, commercial loan syndication, and financial risk mitigation in institutional portfolios.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4159,
+    "name": "Dr. Barbara Morris",
+    "role": "President & Professor of Political Science",
+    "title": "President & Professor of Political Science",
+    "university": "Prescott College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://prescott.edu",
+    "bio": "Dr. Morris is a political scientist dedicated to experiential environmental education, tribal college collaboration, and regional civic sustainability initiatives.",
+    "summary": "Dr. Morris is a political scientist dedicated to experiential environmental education, tribal college collaboration, and regional civic sustainability initiatives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4160,
+    "name": "Prof. Loraye Meltzer",
+    "role": "Director & Professor of Marine Studies",
+    "title": "Director & Professor of Marine Studies",
+    "university": "Prescott College",
+    "country": "United States",
+    "department": "Kino Bay Center for Cultural and Ecological Studies",
+    "subject": "environment",
+    "topics": [
+      "Kino Bay Center for Cultural and Ecological Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://prescott.edu",
+    "bio": "Prof. Meltzer directs the Kino Bay Center in Mexico, researching marine protected area management, community-based conservation, and cetacean habitat dynamics in the Sea of Cortez.",
+    "summary": "Prof. Meltzer directs the Kino Bay Center in Mexico, researching marine protected area management, community-based conservation, and cetacean habitat dynamics in the Sea of Cortez.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4161,
+    "name": "Dr. Paul Burkhardt",
+    "role": "Executive Vice President & Academic Dean",
+    "title": "Executive Vice President & Academic Dean",
+    "university": "Prescott College",
+    "country": "United States",
+    "department": "Department of Arts and Humanities",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Arts and Humanities"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://prescott.edu",
+    "bio": "Dr. Burkhardt specializes in critical pedagogy, cultural rhetoric in environmental discourse, and interdisciplinary curriculum design in alternative higher education.",
+    "summary": "Dr. Burkhardt specializes in critical pedagogy, cultural rhetoric in environmental discourse, and interdisciplinary curriculum design in alternative higher education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4162,
+    "name": "Dr. Ronald L. Elsenbaumer",
+    "role": "Chancellor & Professor of Chemistry and Materials Engineering",
+    "title": "Chancellor & Professor of Chemistry and Materials Engineering",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "chemistry",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfw.edu",
+    "bio": "Dr. Elsenbaumer is an inventor holding dozens of patents in conducting polymers, electronic materials synthesis, and industrial materials characterization.",
+    "summary": "Dr. Elsenbaumer is an inventor holding dozens of patents in conducting polymers, electronic materials synthesis, and industrial materials characterization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4163,
+    "name": "Dr. Zhuming Bi",
+    "role": "Professor of Mechanical Engineering",
+    "title": "Professor of Mechanical Engineering",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "department": "Department of Civil and Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Civil and Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfw.edu",
+    "bio": "Dr. Bi is an ASME Fellow researching reconfigurable manufacturing systems, industrial robotics, finite element analysis, and digital twin cyber-physical modeling.",
+    "summary": "Dr. Bi is an ASME Fellow researching reconfigurable manufacturing systems, industrial robotics, finite element analysis, and digital twin cyber-physical modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4164,
+    "name": "Dr. Todor Cooklev",
+    "role": "Professor of Electrical Engineering & Associate Dean",
+    "title": "Professor of Electrical Engineering & Associate Dean",
+    "university": "Purdue University Fort Wayne",
+    "country": "United States",
+    "department": "Department of Electrical and Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical and Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.pfw.edu",
+    "bio": "Dr. Cooklev is an IEEE Fellow and wireless standards expert who has contributed fundamentally to IEEE 802.11 Wi-Fi, ultra-wideband communications, and software radios.",
+    "summary": "Dr. Cooklev is an IEEE Fellow and wireless standards expert who has contributed fundamentally to IEEE 802.11 Wi-Fi, ultra-wideband communications, and software radios.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4165,
+    "name": "Dr. Paula Singer",
+    "role": "President & Chief Executive Officer",
+    "title": "President & Chief Executive Officer",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "department": "Executive Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Executive Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rasmussen.edu",
+    "bio": "Dr. Singer has dedicated over three decades to expanding accessible, career-focused healthcare and nursing education models across regional metropolitan communities.",
+    "summary": "Dr. Singer has dedicated over three decades to expanding accessible, career-focused healthcare and nursing education models across regional metropolitan communities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4166,
+    "name": "Dr. Joan Rich",
+    "role": "Dean & Professor of Nursing",
+    "title": "Dean & Professor of Nursing",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rasmussen.edu",
+    "bio": "Dr. Rich is a nationally recognized nursing leader researching clinical judgment models in pre-licensure nursing students and healthcare workforce retention.",
+    "summary": "Dr. Rich is a nationally recognized nursing leader researching clinical judgment models in pre-licensure nursing students and healthcare workforce retention.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4167,
+    "name": "Prof. Lori Larson",
+    "role": "Regional Dean of Health Sciences",
+    "title": "Regional Dean of Health Sciences",
+    "university": "Rasmussen University - Kansas City/Overland Park",
+    "country": "United States",
+    "department": "School of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rasmussen.edu",
+    "bio": "Prof. Larson focuses on allied healthcare accreditation standards, hospital clinical affiliation models, and surgical technology clinical competencies.",
+    "summary": "Prof. Larson focuses on allied healthcare accreditation standards, hospital clinical affiliation models, and surgical technology clinical competencies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4168,
+    "name": "Dr. Audrey Bilger",
+    "role": "President & Professor of Literature",
+    "title": "President & Professor of Literature",
+    "university": "Reed College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "arts-design",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.reed.edu",
+    "bio": "Dr. Bilger is a renowned scholar of 18th-century British women novelists, feminist literature, and progressive liberal arts pedagogy, leading Reed's academic mission.",
+    "summary": "Dr. Bilger is a renowned scholar of 18th-century British women novelists, feminist literature, and progressive liberal arts pedagogy, leading Reed's academic mission.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4169,
+    "name": "Dr. Melinda Krahenbuhl",
+    "role": "Director of the Reed Research Reactor",
+    "title": "Director of the Reed Research Reactor",
+    "university": "Reed College",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.reed.edu",
+    "bio": "Dr. Krahenbuhl oversees the world's only undergraduate-run nuclear reactor, researching neutron activation analysis, nuclear reactor safety physics, and nuclear non-proliferation training.",
+    "summary": "Dr. Krahenbuhl oversees the world's only undergraduate-run nuclear reactor, researching neutron activation analysis, nuclear reactor safety physics, and nuclear non-proliferation training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4170,
+    "name": "Dr. Suzy Renn",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Reed College",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.reed.edu",
+    "bio": "Dr. Renn investigates the genomic basis of maternal behavior, neural plasticity, and social hierarchy evolution in African cichlid fishes using high-throughput RNA sequencing.",
+    "summary": "Dr. Renn investigates the genomic basis of maternal behavior, neural plasticity, and social hierarchy evolution in African cichlid fishes using high-throughput RNA sequencing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4171,
+    "name": "Dr. Salvador D. Aceves",
+    "role": "President & Professor of Business",
+    "title": "President & Professor of Business",
+    "university": "Regis University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.regis.edu",
+    "bio": "Dr. Aceves is a CPA and higher education finance executive dedicated to mission-driven Jesuit university education, social mobility, and healthcare professional training.",
+    "summary": "Dr. Aceves is a CPA and higher education finance executive dedicated to mission-driven Jesuit university education, social mobility, and healthcare professional training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4172,
+    "name": "Dr. Linda Osterlund",
+    "role": "Dean & Professor of Health Professions",
+    "title": "Dean & Professor of Health Professions",
+    "university": "Regis University",
+    "country": "United States",
+    "department": "Rueckert-Hartman College for Health Professions",
+    "subject": "biology",
+    "topics": [
+      "Rueckert-Hartman College for Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.regis.edu",
+    "bio": "Dr. Osterlund specializes in family therapy, interprofessional healthcare team dynamics, and behavioral health workforce expansion in medically underserved communities.",
+    "summary": "Dr. Osterlund specializes in family therapy, interprofessional healthcare team dynamics, and behavioral health workforce expansion in medically underserved communities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4173,
+    "name": "Dr. Shashi Bhushan",
+    "role": "Professor of Computer and Information Sciences",
+    "title": "Professor of Computer and Information Sciences",
+    "university": "Regis University",
+    "country": "United States",
+    "department": "Anderson College of Business and Computing",
+    "subject": "computer-science",
+    "topics": [
+      "Anderson College of Business and Computing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.regis.edu",
+    "bio": "Dr. Bhushan researches distributed database systems, cryptographic data privacy protocols, and predictive machine learning models for enterprise cybersecurity.",
+    "summary": "Dr. Bhushan researches distributed database systems, cryptographic data privacy protocols, and predictive machine learning models for enterprise cybersecurity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4174,
+    "name": "Dr. Kasiviswanathan Muthukumarappan",
+    "role": "Distinguished Professor of Agricultural and Biosystems Engineering",
+    "title": "Distinguished Professor of Agricultural and Biosystems Engineering",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "department": "Department of Agricultural and Biosystems Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Agricultural and Biosystems Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rpsdstate.com",
+    "bio": "Dr. Muthukumarappan is an internationally recognized expert in bioprocess engineering, extrusion processing, biomass pretreatment, and value-added agricultural product utilization.",
+    "summary": "Dr. Muthukumarappan is an internationally recognized expert in bioprocess engineering, extrusion processing, biomass pretreatment, and value-added agricultural product utilization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4175,
+    "name": "Dr. David Wright",
+    "role": "Department Head & Professor of Agronomy, Horticulture and Plant Science",
+    "title": "Department Head & Professor of Agronomy, Horticulture and Plant Science",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "department": "College of Agriculture, Food and Environmental Sciences",
+    "subject": "environment",
+    "topics": [
+      "College of Agriculture, Food and Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rpsdstate.com",
+    "bio": "Dr. Wright leads precision crop management research, studying rotational cropping systems, cover crops, and soil fertility dynamics across the Northern Great Plains.",
+    "summary": "Dr. Wright leads precision crop management research, studying rotational cropping systems, cover crops, and soil fertility dynamics across the Northern Great Plains.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4176,
+    "name": "Dr. Jane Christopher-Hennings",
+    "role": "Director & Professor of Veterinary and Biomedical Sciences",
+    "title": "Director & Professor of Veterinary and Biomedical Sciences",
+    "university": "Research Park at South Dakota State University",
+    "country": "United States",
+    "department": "Animal Disease Research and Diagnostic Laboratory (ADRDL)",
+    "subject": "biology",
+    "topics": [
+      "Animal Disease Research and Diagnostic Laboratory (ADRDL)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rpsdstate.com",
+    "bio": "Dr. Christopher-Hennings directs the state veterinary diagnostic lab, researching viral immunology, PRRS virus diagnostics in swine, and biosecurity protocols.",
+    "summary": "Dr. Christopher-Hennings directs the state veterinary diagnostic lab, researching viral immunology, PRRS virus diagnostics in swine, and biosecurity protocols.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4177,
+    "name": "Sister Paula Marie Buley, IHM",
+    "role": "President & Professor of Higher Education Leadership",
+    "title": "President & Professor of Higher Education Leadership",
+    "university": "Rivier University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rivier.edu",
+    "bio": "Sister Paula has led the dramatic expansion of Rivier's campus facilities, spearheading the Science and Innovation Center and the Fallon Center for Nursing and Health Sciences.",
+    "summary": "Sister Paula has led the dramatic expansion of Rivier's campus facilities, spearheading the Science and Innovation Center and the Fallon Center for Nursing and Health Sciences.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4178,
+    "name": "Dr. Paula Williams",
+    "role": "Dean & Professor of Nursing and Health Professions",
+    "title": "Dean & Professor of Nursing and Health Professions",
+    "university": "Rivier University",
+    "country": "United States",
+    "department": "Division of Nursing and Health Professions",
+    "subject": "biology",
+    "topics": [
+      "Division of Nursing and Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rivier.edu",
+    "bio": "Dr. Williams is an authority on nursing leadership, healthcare regulation, clinical simulation pedagogy, and interprofessional clinical education across New England.",
+    "summary": "Dr. Williams is an authority on nursing leadership, healthcare regulation, clinical simulation pedagogy, and interprofessional clinical education across New England.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4179,
+    "name": "Dr. Paul A. Lizotte",
+    "role": "Professor of English & Chair of Arts and Sciences",
+    "title": "Professor of English & Chair of Arts and Sciences",
+    "university": "Rivier University",
+    "country": "United States",
+    "department": "Division of Arts and Sciences",
+    "subject": "arts-design",
+    "topics": [
+      "Division of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rivier.edu",
+    "bio": "Dr. Lizotte specializes in romantic British literature, narrative structure in clinical empathy training, and humanities integration in professional health education.",
+    "summary": "Dr. Lizotte specializes in romantic British literature, narrative structure in clinical empathy training, and humanities integration in professional health education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4180,
+    "name": "Dr. David J. Park",
+    "role": "Vice President & Dean of MCOM",
+    "title": "Vice President & Dean of MCOM",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "department": "Montana College of Osteopathic Medicine",
+    "subject": "biology",
+    "topics": [
+      "Montana College of Osteopathic Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rvu.edu",
+    "bio": "Dr. Park is a board-certified family physician and osteopathic medical executive who has championed the establishment of medical residencies and rural healthcare access across Montana.",
+    "summary": "Dr. Park is a board-certified family physician and osteopathic medical executive who has championed the establishment of medical residencies and rural healthcare access across Montana.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4181,
+    "name": "Dr. Rebecca Bowden",
+    "role": "Professor & Associate Dean of Research",
+    "title": "Professor & Associate Dean of Research",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "department": "Department of Biomedical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Biomedical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rvu.edu",
+    "bio": "Dr. Bowden is an immunologist researching mucosal immune responses, autoimmune disease pathophysiology, and osteopathic medical research pedagogy.",
+    "summary": "Dr. Bowden is an immunologist researching mucosal immune responses, autoimmune disease pathophysiology, and osteopathic medical research pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4182,
+    "name": "Dr. Julie Rosenthal",
+    "role": "Associate Professor of Osteopathic Principles and Practice",
+    "title": "Associate Professor of Osteopathic Principles and Practice",
+    "university": "Rocky Vista University Montana",
+    "country": "United States",
+    "department": "Department of Osteopathic Manipulative Medicine",
+    "subject": "biology",
+    "topics": [
+      "Department of Osteopathic Manipulative Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rvu.edu",
+    "bio": "Dr. Rosenthal specializes in neuromusculoskeletal medicine, cranial osteopathy, and clinical trials examining osteopathic manual medicine efficacy in chronic pain.",
+    "summary": "Dr. Rosenthal specializes in neuromusculoskeletal medicine, cranial osteopathy, and clinical trials examining osteopathic manual medicine efficacy in chronic pain.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4183,
+    "name": "Dr. Kenneth Lacovara",
+    "role": "Executive Director & Professor of Paleontology",
+    "title": "Executive Director & Professor of Paleontology",
+    "university": "Rowan University",
+    "country": "United States",
+    "department": "Jean & Ric Edelman Fossil Park & Museum",
+    "subject": "environment",
+    "topics": [
+      "Jean & Ric Edelman Fossil Park & Museum"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rowan.edu",
+    "bio": "World-renowned paleontologist who discovered Dreadnoughtus schrani (one of the largest terrestrial animals ever found); TED speaker and leading researcher in mass extinction events.",
+    "summary": "World-renowned paleontologist who discovered Dreadnoughtus schrani (one of the largest terrestrial animals ever found); TED speaker and leading researcher in mass extinction events.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4184,
+    "name": "Dr. Mark Byrne",
+    "role": "Founding Chair & Professor of Biomedical Engineering",
+    "title": "Founding Chair & Professor of Biomedical Engineering",
+    "university": "Rowan University",
+    "country": "United States",
+    "department": "Henry M. Rowan College of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Henry M. Rowan College of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rowan.edu",
+    "bio": "Fellow of AIMBE and prolific inventor in molecularly imprinted polymers, therapeutic contact lenses for extended drug delivery, and ocular biomaterials.",
+    "summary": "Fellow of AIMBE and prolific inventor in molecularly imprinted polymers, therapeutic contact lenses for extended drug delivery, and ocular biomaterials.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4185,
+    "name": "Dr. Nidhal Bouaynaya",
+    "role": "Associate Dean of Research & Professor of Electrical Engineering",
+    "title": "Associate Dean of Research & Professor of Electrical Engineering",
+    "university": "Rowan University",
+    "country": "United States",
+    "department": "Henry M. Rowan College of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Henry M. Rowan College of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.rowan.edu",
+    "bio": "Dr. Bouaynaya is an expert in artificial intelligence, robust machine learning, Bayesian optimization, and signal processing applied to medical image analysis.",
+    "summary": "Dr. Bouaynaya is an expert in artificial intelligence, robust machine learning, Bayesian optimization, and signal processing applied to medical image analysis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4186,
+    "name": "Dr. Richard H. Ebright",
+    "role": "Board of Governors Professor of Chemistry and Chemical Biology",
+    "title": "Board of Governors Professor of Chemistry and Chemical Biology",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "department": "Waksman Institute of Microbiology",
+    "subject": "biology",
+    "topics": [
+      "Waksman Institute of Microbiology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newbrunswick.rutgers.edu",
+    "bio": "Member of the American Academy of Arts and Sciences; pioneer in structural biology of bacterial RNA polymerase and antibacterial drug discovery against multidrug-resistant pathogens.",
+    "summary": "Member of the American Academy of Arts and Sciences; pioneer in structural biology of bacterial RNA polymerase and antibacterial drug discovery against multidrug-resistant pathogens.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4187,
+    "name": "Dr. Endre Szemerédi",
+    "role": "State of New Jersey Professor of Computer Science and Mathematics",
+    "title": "State of New Jersey Professor of Computer Science and Mathematics",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "department": "Department of Computer Science & Mathematics",
+    "subject": "mathematics",
+    "topics": [
+      "Department of Computer Science & Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newbrunswick.rutgers.edu",
+    "bio": "Abel Prize laureate and National Academy of Sciences member; proved Szemerédi's theorem in arithmetic progressions and created the Szemerédi regularity lemma in graph theory.",
+    "summary": "Abel Prize laureate and National Academy of Sciences member; proved Szemerédi's theorem in arithmetic progressions and created the Szemerédi regularity lemma in graph theory.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4188,
+    "name": "Dr. Prabhas Moghe",
+    "role": "Executive Vice President for Academic Affairs & Distinguished Professor",
+    "title": "Executive Vice President for Academic Affairs & Distinguished Professor",
+    "university": "Rutgers University - New Brunswick",
+    "country": "United States",
+    "department": "Department of Biomedical Engineering and Chemical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomedical Engineering and Chemical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://newbrunswick.rutgers.edu",
+    "bio": "AIMBE Fellow and pioneer in nanomedicine, optical molecular imaging of cancer metastases, and microscale biomaterials for regenerative medicine.",
+    "summary": "AIMBE Fellow and pioneer in nanomedicine, optical molecular imaging of cancer metastases, and microscale biomaterials for regenerative medicine.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4189,
+    "name": "Dr. Joseph McDonnell",
+    "role": "President & Professor of Public Policy",
+    "title": "President & Professor of Public Policy",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sjcme.edu",
+    "bio": "Dr. McDonnell directs Saint Joseph's College of Maine, researching regional workforce economic alignment, sustainable community development, and healthcare higher education.",
+    "summary": "Dr. McDonnell directs Saint Joseph's College of Maine, researching regional workforce economic alignment, sustainable community development, and healthcare higher education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4190,
+    "name": "Dr. Dale L. Syphers",
+    "role": "Professor of Physics and Science",
+    "title": "Professor of Physics and Science",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "department": "Department of Sciences",
+    "subject": "physics",
+    "topics": [
+      "Department of Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sjcme.edu",
+    "bio": "Dr. Syphers specializes in condensed matter physics, quantum Hall effect in semiconductor superlattices, and lake thermal stratification sensor design.",
+    "summary": "Dr. Syphers specializes in condensed matter physics, quantum Hall effect in semiconductor superlattices, and lake thermal stratification sensor design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4191,
+    "name": "Prof. Jeanne Donlevy Arnold",
+    "role": "Associate Professor & Chair of Nursing",
+    "title": "Associate Professor & Chair of Nursing",
+    "university": "Saint Joseph's College of Maine",
+    "country": "United States",
+    "department": "Department of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Department of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sjcme.edu",
+    "bio": "Prof. Arnold researches clinical nursing simulation pedagogies, rural healthcare access in northern New England, and patient safety handover communications.",
+    "summary": "Prof. Arnold researches clinical nursing simulation pedagogies, rural healthcare access in northern New England, and patient safety handover communications.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4192,
+    "name": "Dr. Daniel Hoft",
+    "role": "Director & Professor of Infectious Diseases",
+    "title": "Director & Professor of Infectious Diseases",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "department": "Center for Vaccine Development & School of Medicine",
+    "subject": "biology",
+    "topics": [
+      "Center for Vaccine Development & School of Medicine"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.slu.edu",
+    "bio": "Principal investigator of SLU's NIH-funded Vaccine and Treatment Evaluation Unit; national leader in tuberculosis, influenza, and COVID-19 vaccine clinical trial design.",
+    "summary": "Principal investigator of SLU's NIH-funded Vaccine and Treatment Evaluation Unit; national leader in tuberculosis, influenza, and COVID-19 vaccine clinical trial design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4193,
+    "name": "Dr. Srikanth Gururajan",
+    "role": "Associate Professor of Aerospace Engineering",
+    "title": "Associate Professor of Aerospace Engineering",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "department": "Parks College of Engineering, Aviation and Technology",
+    "subject": "engineering",
+    "topics": [
+      "Parks College of Engineering, Aviation and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.slu.edu",
+    "bio": "Dr. Gururajan specializes in flight dynamics, unmanned aircraft systems (UAS), adaptive flight control architectures, and gust alleviation in turbulent aerodynamic regimes.",
+    "summary": "Dr. Gururajan specializes in flight dynamics, unmanned aircraft systems (UAS), adaptive flight control architectures, and gust alleviation in turbulent aerodynamic regimes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4194,
+    "name": "Dr. Sidney D. Watson",
+    "role": "Professor of Law & Jane Doe Associate",
+    "title": "Professor of Law & Jane Doe Associate",
+    "university": "Saint Louis University",
+    "country": "United States",
+    "department": "Center for Health Law Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Center for Health Law Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.slu.edu",
+    "bio": "Nationally recognized legal scholar on Medicaid regulation, health reform legislation, and eliminating racial and economic healthcare disparities.",
+    "summary": "Nationally recognized legal scholar on Medicaid regulation, health reform legislation, and eliminating racial and economic healthcare disparities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4195,
+    "name": "Father James P. Burns, IVD",
+    "role": "President & Professor of Psychology",
+    "title": "President & Professor of Psychology",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.smumn.edu",
+    "bio": "Father Burns is a licensed psychologist and academic executive researching character development, ethical leadership in Catholic higher education, and university strategy.",
+    "summary": "Father Burns is a licensed psychologist and academic executive researching character development, ethical leadership in Catholic higher education, and university strategy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4196,
+    "name": "Dr. Julie Ries",
+    "role": "Dean & Professor of Health and Human Services",
+    "title": "Dean & Professor of Health and Human Services",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "department": "School of Health and Human Services",
+    "subject": "biology",
+    "topics": [
+      "School of Health and Human Services"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.smumn.edu",
+    "bio": "Dr. Ries is an authority on physical therapy rehabilitation, fall prevention in older adults with cognitive impairment, and interprofessional clinical simulation.",
+    "summary": "Dr. Ries is an authority on physical therapy rehabilitation, fall prevention in older adults with cognitive impairment, and interprofessional clinical simulation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4197,
+    "name": "Dr. Matt Nowakowski",
+    "role": "Professor of Business and Technology",
+    "title": "Professor of Business and Technology",
+    "university": "Saint Mary's University of Minnesota",
+    "country": "United States",
+    "department": "School of Business and Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.smumn.edu",
+    "bio": "Dr. Nowakowski specializes in organizational leadership, predictive business analytics pedagogy, and strategic management in healthcare organizations.",
+    "summary": "Dr. Nowakowski specializes in organizational leadership, predictive business analytics pedagogy, and strategic management in healthcare organizations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4198,
+    "name": "Dr. Eugene J. Cornacchia",
+    "role": "President Emeritus & Professor of Political Science",
+    "title": "President Emeritus & Professor of Political Science",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.saintpeters.edu",
+    "bio": "Dr. Cornacchia served as Saint Peter's longest-tenured president, steering the university through university status attainment, STEM endowment growth, and campus expansion.",
+    "summary": "Dr. Cornacchia served as Saint Peter's longest-tenured president, steering the university through university status attainment, STEM endowment growth, and campus expansion.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4199,
+    "name": "Dr. Alberto LaCava",
+    "role": "Professor & Chair of Computer and Information Sciences",
+    "title": "Professor & Chair of Computer and Information Sciences",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "department": "Department of Computer and Information Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer and Information Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.saintpeters.edu",
+    "bio": "Dr. LaCava specializes in data science architecture, artificial intelligence optimization, and database design, with extensive corporate software engineering experience.",
+    "summary": "Dr. LaCava specializes in data science architecture, artificial intelligence optimization, and database design, with extensive corporate software engineering experience.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4200,
+    "name": "Dr. Patricia Ahearn",
+    "role": "Director & Associate Professor of Nursing",
+    "title": "Director & Associate Professor of Nursing",
+    "university": "Saint Peter's University",
+    "country": "United States",
+    "department": "School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.saintpeters.edu",
+    "bio": "Dr. Ahearn's research focuses on transcultural nursing, maternal-infant health disparities in urban populations, and clinical simulation training.",
+    "summary": "Dr. Ahearn's research focuses on transcultural nursing, maternal-infant health disparities in urban populations, and clinical simulation training.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4201,
+    "name": "Dr. Beck A. Taylor",
+    "role": "President & Professor of Economics",
+    "title": "President & Professor of Economics",
+    "university": "Samford University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.samford.edu",
+    "bio": "Dr. Taylor is an economist and Christian higher education leader who has published extensive research on natural resource economics, environmental regulation, and university governance.",
+    "summary": "Dr. Taylor is an economist and Christian higher education leader who has published extensive research on natural resource economics, environmental regulation, and university governance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4202,
+    "name": "Dr. Michael Crouch",
+    "role": "Vice President & Dean of McWhorter School of Pharmacy",
+    "title": "Vice President & Dean of McWhorter School of Pharmacy",
+    "university": "Samford University",
+    "country": "United States",
+    "department": "College of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.samford.edu",
+    "bio": "Dr. Crouch is a board-certified pharmacotherapy specialist and Fellow of ACCP, researching cardiovascular pharmacotherapy, anticoagulation management, and clinical pharmacy education.",
+    "summary": "Dr. Crouch is a board-certified pharmacotherapy specialist and Fellow of ACCP, researching cardiovascular pharmacotherapy, anticoagulation management, and clinical pharmacy education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4203,
+    "name": "Dr. Jill Pence",
+    "role": "Associate Professor & Executive Director of Nursing",
+    "title": "Associate Professor & Executive Director of Nursing",
+    "university": "Samford University",
+    "country": "United States",
+    "department": "Ida Moffett School of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Ida Moffett School of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.samford.edu",
+    "bio": "Dr. Pence specializes in clinical nursing simulation, debriefing methodologies, and developing interprofessional competencies across allied healthcare teams.",
+    "summary": "Dr. Pence specializes in clinical nursing simulation, debriefing methodologies, and developing interprofessional competencies across allied healthcare teams.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4204,
+    "name": "Dr. Tim Ridgway",
+    "role": "Vice President of Health Affairs & Dean of Medicine",
+    "title": "Vice President of Health Affairs & Dean of Medicine",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "department": "Office of the Dean",
+    "subject": "biology",
+    "topics": [
+      "Office of the Dean"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.usd.edu/medicine",
+    "bio": "Dr. Ridgway is a board-certified gastroenterologist and medical education executive who has spearheaded the expansion of rural residency training and clinical simulation across South Dakota.",
+    "summary": "Dr. Ridgway is a board-certified gastroenterologist and medical education executive who has spearheaded the expansion of rural residency training and clinical simulation across South Dakota.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4205,
+    "name": "Dr. Kathleen Eyster",
+    "role": "Professor of Basic Biomedical Sciences",
+    "title": "Professor of Basic Biomedical Sciences",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "department": "Division of Basic Biomedical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Basic Biomedical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.usd.edu/medicine",
+    "bio": "Dr. Eyster's research investigates estrogen receptor signaling in vascular smooth muscle, microRNA regulation in cardiovascular disease, and ovarian steroidogenesis.",
+    "summary": "Dr. Eyster's research investigates estrogen receptor signaling in vascular smooth muscle, microRNA regulation in cardiovascular disease, and ovarian steroidogenesis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4206,
+    "name": "Dr. Victor Huber",
+    "role": "Associate Professor of Basic Biomedical Sciences",
+    "title": "Associate Professor of Basic Biomedical Sciences",
+    "university": "Sanford School of Medicine",
+    "country": "United States",
+    "department": "Division of Basic Biomedical Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Basic Biomedical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.usd.edu/medicine",
+    "bio": "Dr. Huber specializes in viral immunology, investigating influenza vaccine efficacy, secondary bacterial pneumonia infections, and antibody neutralization kinetics.",
+    "summary": "Dr. Huber specializes in viral immunology, investigating influenza vaccine efficacy, secondary bacterial pneumonia infections, and antibody neutralization kinetics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4207,
+    "name": "Dr. Eduardo Peñalver",
+    "role": "President & Professor of Law",
+    "title": "President & Professor of Law",
+    "university": "Seattle University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.seattleu.edu",
+    "bio": "Dr. Peñalver is a prominent property law scholar, former Dean of Cornell Law School, and the first lay president of Seattle University, authoring major books on land use ethics and property theory.",
+    "summary": "Dr. Peñalver is a prominent property law scholar, former Dean of Cornell Law School, and the first lay president of Seattle University, authoring major books on land use ethics and property theory.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4208,
+    "name": "Dr. Amit Shukla",
+    "role": "Dean & Professor of Mechanical Engineering",
+    "title": "Dean & Professor of Mechanical Engineering",
+    "university": "Seattle University",
+    "country": "United States",
+    "department": "College of Science and Engineering",
+    "subject": "engineering",
+    "topics": [
+      "College of Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.seattleu.edu",
+    "bio": "Dr. Shukla is an ASME Fellow specializing in nonlinear dynamics, structural health monitoring, biomechanics of spinal injury, and vibration control.",
+    "summary": "Dr. Shukla is an ASME Fellow specializing in nonlinear dynamics, structural health monitoring, biomechanics of spinal injury, and vibration control.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4209,
+    "name": "Dr. Roshanak Roshandel",
+    "role": "Chair & Professor of Computer Science",
+    "title": "Chair & Professor of Computer Science",
+    "university": "Seattle University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.seattleu.edu",
+    "bio": "Dr. Roshandel specializes in software architecture modeling, reliable mobile and distributed computing systems, and automated testing of autonomous applications.",
+    "summary": "Dr. Roshandel specializes in software architecture modeling, reliable mobile and distributed computing systems, and automated testing of autonomous applications.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4210,
+    "name": "Dr. Stanford E. Angion",
+    "role": "President & Professor of Educational Leadership",
+    "title": "President & Professor of Educational Leadership",
+    "university": "Selma University",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://selmau.edu",
+    "bio": "Dr. Angion has led the revitalization of Selma University, focusing on institutional accreditation, community development in the Alabama Black Belt, and historic HBCU preservation.",
+    "summary": "Dr. Angion has led the revitalization of Selma University, focusing on institutional accreditation, community development in the Alabama Black Belt, and historic HBCU preservation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4211,
+    "name": "Dr. James Perkins Jr.",
+    "role": "Adjunct Professor of Public Administration & Urban Policy",
+    "title": "Adjunct Professor of Public Administration & Urban Policy",
+    "university": "Selma University",
+    "country": "United States",
+    "department": "Department of Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://selmau.edu",
+    "bio": "First African American Mayor of Selma, Alabama; scholar and civic leader analyzing municipal administration, civil rights historic preservation, and community economic development.",
+    "summary": "First African American Mayor of Selma, Alabama; scholar and civic leader analyzing municipal administration, civil rights historic preservation, and community economic development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4212,
+    "name": "Prof. Jerryl Richardson",
+    "role": "Dean & Professor of Biblical Studies",
+    "title": "Dean & Professor of Biblical Studies",
+    "university": "Selma University",
+    "country": "United States",
+    "department": "Division of Religious Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Religious Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://selmau.edu",
+    "bio": "Prof. Richardson specializes in African American church history, biblical hermeneutics, and homiletic traditions of the historic southern civil rights movement.",
+    "summary": "Prof. Richardson specializes in African American church history, biblical hermeneutics, and homiletic traditions of the historic southern civil rights movement.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4213,
+    "name": "Dr. Courtney B. Smith",
+    "role": "Dean & Professor of Diplomacy and International Relations",
+    "title": "Dean & Professor of Diplomacy and International Relations",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "department": "School of Diplomacy and International Relations",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Diplomacy and International Relations"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.shu.edu",
+    "bio": "Dean Smith is a leading scholar on the United Nations system, multilateral negotiations, international peace operations, and global institutional reform.",
+    "summary": "Dean Smith is a leading scholar on the United Nations system, multilateral negotiations, international peace operations, and global institutional reform.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4214,
+    "name": "Dr. Kipnis Ronald",
+    "role": "Professor of Law & Director of Health Law",
+    "title": "Professor of Law & Director of Health Law",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "department": "School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.shu.edu",
+    "bio": "Nationally recognized expert in pharmaceutical regulatory compliance, medical fraud and abuse litigation, and healthcare corporate ethics.",
+    "summary": "Nationally recognized expert in pharmaceutical regulatory compliance, medical fraud and abuse litigation, and healthcare corporate ethics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4215,
+    "name": "Dr. Kristi Stinson",
+    "role": "Associate Professor & Chair of Nursing",
+    "title": "Associate Professor & Chair of Nursing",
+    "university": "Seton Hall University",
+    "country": "United States",
+    "department": "College of Nursing",
+    "subject": "biology",
+    "topics": [
+      "College of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.shu.edu",
+    "bio": "Dr. Stinson researches pediatric healthcare delivery, interprofessional health education pedagogy, and clinical simulation efficacy in pre-licensure nursing.",
+    "summary": "Dr. Stinson researches pediatric healthcare delivery, interprofessional health education pedagogy, and clinical simulation efficacy in pre-licensure nursing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4216,
+    "name": "Dr. Kent Ingle",
+    "role": "President & Professor of Leadership",
+    "title": "President & Professor of Leadership",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://seucarolina.org",
+    "bio": "Dr. Ingle is an author, leadership strategist, and university president who has pioneered regional extension site models for experiential higher education across the nation.",
+    "summary": "Dr. Ingle is an author, leadership strategist, and university president who has pioneered regional extension site models for experiential higher education across the nation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4217,
+    "name": "Prof. David P. Daniels",
+    "role": "Director & Professor of Ministerial Studies",
+    "title": "Director & Professor of Ministerial Studies",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "department": "Carolina Regional Site Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "Carolina Regional Site Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://seucarolina.org",
+    "bio": "Prof. Daniels oversees academic program delivery and student practicum mentorship at SEU Carolina, researching church planting dynamics and missional theology.",
+    "summary": "Prof. Daniels oversees academic program delivery and student practicum mentorship at SEU Carolina, researching church planting dynamics and missional theology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4218,
+    "name": "Dr. Sarah Yates",
+    "role": "Associate Professor of Business and Communication",
+    "title": "Associate Professor of Business and Communication",
+    "university": "SEU Carolina Regional Campus",
+    "country": "United States",
+    "department": "Department of Business and Media",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Business and Media"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://seucarolina.org",
+    "bio": "Dr. Yates investigates non-profit organizational management, digital media communication strategies, and servant leadership models in higher education.",
+    "summary": "Dr. Yates investigates non-profit organizational management, digital media communication strategies, and servant leadership models in higher education.",
     "reviewed": "2026-10-16"
   }
 ];

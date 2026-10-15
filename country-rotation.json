@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 80,
+  "cycle": 81,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Pace University",
-    "sourceRow": 904
+    "university": "SEU Carolina Regional Campus",
+    "sourceRow": 937
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 335,
+    "usa": 365,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
