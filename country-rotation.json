@@ -12,7 +12,7 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 62,
+  "cycle": 63,
   "completedInCycle": [
     "canada",
     "germany",
@@ -20,26 +20,25 @@
     "usa",
     "uk",
     "japan",
-    "netherlands",
-    "sweden"
+    "netherlands"
   ],
-  "nextCountry": "australia",
+  "nextCountry": "canada",
   "lastPublished": {
-    "country": "sweden",
-    "university": "Blekinge Institute of Technology",
-    "sourceRow": 1555
+    "country": "netherlands",
+    "university": "BivT (Instituut voor Toegepaste Psychologie & Therapie)",
+    "sourceRow": 1384
   },
   "skipExhausted": true,
   "publishedInCountry": {
-    "canada": 92,
+    "canada": 96,
     "australia": 57,
-    "germany": 96,
-    "italy": 91,
-    "usa": 97,
-    "uk": 90,
-    "japan": 91,
-    "sweden": 57,
-    "netherlands": 90,
+    "germany": 101,
+    "italy": 95,
+    "usa": 102,
+    "uk": 94,
+    "japan": 95,
+    "sweden": 56,
+    "netherlands": 94,
     "switzerland": 41
   },
   "updatedAt": "2026-10-15"
