@@ -3254,11 +3254,11 @@ export function generateAllSubjectPages() {
       return `<a href="#${typeSlug}">${t} (${count})</a>`;
     }).join('');
 
-    // Opportunities grouped by type
+    // Opportunities grouped by type (preview 6 + See More)
     const oppSections = activeTypes.map(t => {
       const items = opps.filter(o => o.type === t);
       const typeSlug = slug(t);
-      const cardsHtml = items.map(o => {
+      const renderCard = o => {
         const oppUrl = `/opportunities/${o.id}-${slug(o.title)}/`;
         const uniUrl = getUniPath(o.university);
         return `        <article class="card"${o.deadline ? ` data-deadline="${o.deadline}"` : ''}>
@@ -3275,19 +3275,36 @@ export function generateAllSubjectPages() {
             <a class="btn secondary" href="${uniUrl}">University guide ↗</a>
           </div>
         </article>`;
-      }).join('\n');
+      };
+
+      const previewLimit = 6;
+      const visibleItems = items.slice(0, previewLimit);
+      const hiddenItems = items.slice(previewLimit);
+
+      const visibleCardsHtml = visibleItems.map(renderCard).join('\n');
+      const hiddenCardsHtml = hiddenItems.map(renderCard).join('\n');
+
+      const seeMoreHtml = hiddenItems.length > 0 ? `
+        <details class="see-more-section" style="margin-top:-10px;margin-bottom:30px;">
+          <summary class="btn secondary" style="cursor:pointer;display:inline-flex;align-items:center;gap:6px;padding:10px 20px;font-weight:700;color:var(--leaf);background:#eef4ec;border:1px solid #9bb799;border-radius:6px;list-style:none;">
+            See more ${t.toLowerCase()} listings (+${hiddenItems.length} more) ▼
+          </summary>
+          <div class="grid" style="margin-top:20px;">
+${hiddenCardsHtml}
+          </div>
+        </details>` : '';
 
       return `      <section class="section itemgroup" id="${typeSlug}">
         <h2>${t}</h2>
         <p>Discover verified listings, degree pathways, and funding specifications across source-reviewed institutions; confirm all details with official university sources before applying.</p>
         <div class="grid">
-${cardsHtml}
-        </div>
+${visibleCardsHtml}
+        </div>${seeMoreHtml}
       </section>`;
     }).join('\n');
 
-    // Faculty cards
-    const facultyCards = fac.map(f => {
+    // Faculty cards (preview 6 + See More)
+    const renderFacultyCard = f => {
       const facUrl = `/researchers/${f.id}-${slug(f.name)}/`;
       const uniUrl = getUniPath(f.university);
       return `        <article class="card">
@@ -3302,14 +3319,29 @@ ${cardsHtml}
             <a href="${f.source}" target="_blank" rel="noopener noreferrer">Official faculty page ↗</a>
           </div>
         </article>`;
-    }).join('\n');
+    };
+
+    const visibleFac = fac.slice(0, 6);
+    const hiddenFac = fac.slice(6);
+    const visibleFacCards = visibleFac.map(renderFacultyCard).join('\n');
+    const hiddenFacCards = hiddenFac.map(renderFacultyCard).join('\n');
+
+    const seeMoreFacHtml = hiddenFac.length > 0 ? `
+        <details class="see-more-section" style="margin-top:-10px;margin-bottom:30px;">
+          <summary class="btn secondary" style="cursor:pointer;display:inline-flex;align-items:center;gap:6px;padding:10px 20px;font-weight:700;color:var(--leaf);background:#eef4ec;border:1px solid #9bb799;border-radius:6px;list-style:none;">
+            See more faculty and researchers (+${hiddenFac.length} more) ▼
+          </summary>
+          <div class="grid" style="margin-top:20px;">
+${hiddenFacCards}
+          </div>
+        </details>` : '';
 
     const facultySection = fac.length > 0 ? `      <section class="section">
         <h2>Researchers and faculty</h2>
         <p>These profiles list documented academic interests and public faculty information. Recruitment or research supervisor funding availability is not confirmed.</p>
         <div class="grid">
-${facultyCards}
-        </div>
+${visibleFacCards}
+        </div>${seeMoreFacHtml}
       </section>` : `      <section class="section">
         <h2>Researchers and faculty</h2>
         <p>Faculty profiles for ${s.name} across newly added international institutions are currently in source verification. Additional faculty listings will appear following source review.</p>

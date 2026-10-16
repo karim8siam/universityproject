@@ -1,0 +1,4 @@
+scripts/
+*.log
+.github/
+README.md
