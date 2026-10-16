@@ -308626,6 +308626,5186 @@ export const opportunities=[
     "reviewed": "2026-10-16",
     "status": "Available"
   }
+,
+  {
+    "id": 10767,
+    "title": "Bachelor of Arts in Ministry Leadership (Organizational Management)",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Four-year residential degree integrating leadership development, non-profit financial governance, organizational strategy, and community mobilization.",
+    "funding": "Highlands Legacy Scholarship: $3,000/year merit-based renewable award",
+    "tuition": "$14,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://highlandscollege.edu/academics/degree-programs/",
+    "requirements": {
+      "gpa": "2.5+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Standardized test scores optional",
+      "papers": "Personal statement, official high school/college transcripts",
+      "references": "Two letters of character recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10768,
+    "title": "Bachelor of Arts in Ministry Leadership (Pastoral Leadership)",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Degree program preparing leaders in theological communication, homiletics, pastoral care, and community counseling.",
+    "funding": "Pastoral Leadership Fellowship: $2,500/year tuition reduction",
+    "tuition": "$14,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://highlandscollege.edu/academics/degree-programs/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts, pastoral endorsement form, leadership essay",
+      "references": "Pastoral reference and academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10769,
+    "title": "Bachelor of Arts in Ministry Leadership (Worship Leadership & Production Arts)",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary program focusing on digital media production, audio engineering, live production management, and creative arts leadership.",
+    "funding": "Creative Arts Talent Grant: $3,500/year award based on portfolio evaluation",
+    "tuition": "$14,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://highlandscollege.edu/academics/degree-programs/",
+    "requirements": {
+      "gpa": "2.25+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official transcripts, creative audition video or technical portfolio",
+      "references": "Two recommendations (one arts/production mentor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10770,
+    "title": "Associate of Arts in Ministry Leadership",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-year foundational degree program providing core liberal arts education coupled with leadership theory and practicum rotations.",
+    "funding": "Foundational Access Grant: $1,500/year for eligible incoming students",
+    "tuition": "$14,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://highlandscollege.edu/academics/degree-programs/",
+    "requirements": {
+      "gpa": "2.0+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and short reflection essay",
+      "references": "One personal reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10771,
+    "title": "Highlands Global Leadership Practicum Scholarship",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive institutional merit award supporting high-achieving undergraduates actively participating in cross-cultural community development projects.",
+    "funding": "Full $5,000 annual scholarship applied directly toward tuition costs",
+    "tuition": "$14,500/year (Reduced to $9,500 with award)",
+    "fee": "$0 (No separate scholarship fee)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://highlandscollege.edu/admissions/financial-aid/",
+    "requirements": {
+      "gpa": "3.25+ cumulative GPA",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Scholarship application essay and record of civic service",
+      "references": "Two civic or community leader recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10772,
+    "title": "Certificate in Family Ministry & Youth Counseling",
+    "university": "Highlands College",
+    "country": "United States",
+    "location": "Birmingham, Alabama, United States",
+    "type": "Certificate",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Professional credential program covering adolescent developmental psychology, family systems mediation, and community-based youth mentorship models.",
+    "funding": "Youth Advocacy Stipend: $1,000 tuition assistance grant",
+    "tuition": "$4,800 total certificate tuition",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://highlandscollege.edu/academics/degree-programs/",
+    "requirements": {
+      "gpa": "2.0+ undergraduate or secondary GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts, background clearance check",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10773,
+    "title": "Associate of Science in Environmental Studies & Fisheries Technology",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on regional degree in salmon habitat restoration, watershed hydrology, environmental monitoring, and sustainable fisheries management in Bristol Bay.",
+    "funding": "Arctic Fisheries Research Fellowship: $3,500/semester stipend with field research housing",
+    "tuition": "$7,400/year (In-state tuition baseline)",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.uaf.edu/bristolbay/academics/fisheries.php",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with biology and algebra coursework",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "High school or college transcripts, field experience interest statement",
+      "references": "Two academic or professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10774,
+    "title": "Occupational Endorsement in Sustainable Energy & Rural Microgrids",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Certificate",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Technical certification covering cold-climate heat pumps, remote solar-diesel microgrid installation, battery storage integration, and wind turbine maintenance.",
+    "funding": "Alaska Clean Energy Workforce Grant: 100% full tuition subsidy for qualified applicants",
+    "tuition": "$3,200 total certificate cost (Eligible for grant coverage)",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uaf.edu/bristolbay/academics/sustainable-energy.php",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and proof of residency or student visa documentation",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10775,
+    "title": "Associate of Applied Science in Community Health & Rural Nursing",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Clinical allied health degree preparing community health practitioners for diagnostic care, emergency triage, and chronic disease management across rural Alaskan villages.",
+    "funding": "Rural Alaska Health Career Stipend: $4,000/year with clinical site travel stipends",
+    "tuition": "$7,800/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uaf.edu/bristolbay/academics/allied-health.php",
+    "requirements": {
+      "gpa": "2.75+ prerequisite college GPA (chemistry, human anatomy, microbiology)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Kaplan or TEAS nursing entrance exam score 65%+",
+      "papers": "Official transcripts, immunization records, background check",
+      "references": "Three clinical and academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10776,
+    "title": "Associate of Arts in Yup'ik Studies & Indigenous Language Revitalization",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Rigorous linguistic and cultural immersion degree focusing on Central Yup'ik grammar, traditional oral history documentation, and indigenous legal sovereignty.",
+    "funding": "Native Heritage Language Fellowship: $3,000/year tuition award",
+    "tuition": "$7,400/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.uaf.edu/bristolbay/academics/yupik-studies.php",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement on language preservation",
+      "references": "Two recommendations (tribal elder or educator preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10777,
+    "title": "Bristol Bay Salmon Ecology Summer Research Fellowship",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Ten-week field-based research fellowship monitoring sockeye salmon smolt outmigration, estuarine water chemistry, and climate impact across Wood River lakes.",
+    "funding": "Stipend of $6,000 plus campus dormitory lodging and field gear allowance",
+    "tuition": "$0 (Fully funded research fellowship)",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.uaf.edu/bristolbay/research/salmon-ecology.php",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biological sciences or ecology",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "CV, statement of research experience, official transcripts",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10778,
+    "title": "Certificate in Environmental Information Systems & Drone Mapping",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "location": "Dillingham, Alaska, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "environment"
+    ],
+    "desc": "Applied geospatial credential focusing on GIS cartography, UAV remote sensing, photogrammetry, and coastal erosion analysis along the Bering Sea.",
+    "funding": "Geospatial Technology Grant: $1,800 tuition support",
+    "tuition": "$3,600 total tuition",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.uaf.edu/bristolbay/academics/gis.php",
+    "requirements": {
+      "gpa": "2.0+ high school or college GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and statement of technical interests",
+      "references": "One academic or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10779,
+    "title": "UCDC Congressional and Executive Branch Fellowship",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Semester-long academic fellowship placing scholars inside Capitol Hill committees, federal executive agencies, and prominent think tanks combined with advanced research seminars.",
+    "funding": "$4,000 cost-of-living stipend plus subsidized housing in the UCDC residential building",
+    "tuition": "Covered under home UC campus enrollment",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ucdc.edu/academic-internship-program",
+    "requirements": {
+      "gpa": "3.0+ cumulative UC undergraduate GPA",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Resume, cover letter, 5-page research writing sample, internship interests statement",
+      "references": "Two academic recommendations from UC faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10780,
+    "title": "UCDC Advanced Constitutional Law and Supreme Court Seminar",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Intensive seminar examining current Supreme Court jurisprudence, amicus curiae briefing, oral advocacy analysis, and judicial policy-making with distinguished federal jurists.",
+    "funding": "UCDC Legal Studies Merit Award: $1,500 stipend",
+    "tuition": "Home campus tuition",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ucdc.edu/courses/law-and-society",
+    "requirements": {
+      "gpa": "3.3+ cumulative GPA with prior coursework in political theory or constitutional law",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Legal analysis essay (1,500 words) and transcripts",
+      "references": "One letter from a law or political science faculty member"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10781,
+    "title": "UC Washington Science & Technology Policy Research Internship",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Internship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary fellowship focusing on national AI governance, quantum computing regulation, NSF funding frameworks, and international cybersecurity treaties.",
+    "funding": "STEM Policy Stipend: $3,500 semester grant plus security clearance assistance",
+    "tuition": "Home campus tuition",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.ucdc.edu/research/stem-policy",
+    "requirements": {
+      "gpa": "3.2+ cumulative GPA in engineering, computer science, or data analytics",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Technical research policy memo, CV, unofficial transcripts",
+      "references": "Two recommendations (one engineering/computing faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10782,
+    "title": "UCDC International Diplomacy & Foreign Policy Seminar",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Course",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Diplomatic seminar centered on State Department bilateral negotiations, multilateral trade agreements, sanctions policy, and international humanitarian law.",
+    "funding": "Global Affairs Travel Grant: $2,000 award",
+    "tuition": "Home campus tuition",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ucdc.edu/courses/international-relations",
+    "requirements": {
+      "gpa": "3.0+ cumulative GPA",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Foreign policy policy brief (1,000 words), CV",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10783,
+    "title": "UCDC Washington Journalism and Media Fellowship",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Fellowship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Professional reporting fellowship placed at major national news bureaus, investigative outlets, and broadcast centers covering Congress, the White House, and federal courts.",
+    "funding": "Pulitzer Foundation Reporting Grant: $4,500 semester living stipend",
+    "tuition": "Home campus tuition",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.ucdc.edu/academic-programs/journalism",
+    "requirements": {
+      "gpa": "3.0+ GPA in journalism, communications, or English",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Published journalistic portfolio (3-5 clips), reporting pitch memo",
+      "references": "Two editorial or faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10784,
+    "title": "UC Federal Environmental and Energy Policy Seminar",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "location": "Washington, District of Columbia, United States",
+    "type": "Course",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "In-depth study of EPA rulemaking, Clean Air Act implementation, offshore wind leasing regulation, and international climate finance commitments.",
+    "funding": "Environmental Leadership Stipend: $2,000 semester award",
+    "tuition": "Home campus tuition",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.ucdc.edu/courses/environmental-policy",
+    "requirements": {
+      "gpa": "3.0+ cumulative GPA",
+      "ielts": "Satisfied via UC enrollment",
+      "gre": "Not required",
+      "papers": "Environmental policy analysis essay and official transcripts",
+      "references": "One letter from an environmental sciences or economics professor"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10785,
+    "title": "Doctor of Health Administration (DHA)",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Terminal executive practitioner doctorate focusing on health system economics, clinical informatics, healthcare regulatory compliance, and strategic organizational leadership.",
+    "funding": "Executive Healthcare Leadership Grant: $3,000 tuition reduction award",
+    "tuition": "$810 per graduate credit hour",
+    "fee": "$0 application fee",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.phoenix.edu/degrees/healthcare/health-administration/dha.html",
+    "requirements": {
+      "gpa": "3.0+ master's degree GPA in healthcare or business discipline",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official graduate transcripts, resume showing 3+ years leadership experience, goal statement",
+      "references": "Two professional references from healthcare leaders"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10786,
+    "title": "Master of Science in Cybersecurity (MSCS)",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-aligned graduate degree providing advanced training in threat vector analysis, enterprise cloud defense, cryptographic protocols, and incident response architecture.",
+    "funding": "Cyber Workforce Fellowship: $2,500 tuition credit for incoming security analysts",
+    "tuition": "$698 per credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.phoenix.edu/degrees/technology/cybersecurity/ms-cybersecurity.html",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA in STEM or computing field",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts, resume with technical certifications (CompTIA, CISSP preferred)",
+      "references": "One professional supervisor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10787,
+    "title": "Doctor of Business Administration (DBA)",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous applied research doctorate preparing executives to solve complex enterprise problems through empirical quantitative analysis, organizational design, and market disruption modeling.",
+    "funding": "Doctoral Research Scholarship: $4,000 merit award distributed across dissertation phases",
+    "tuition": "$810 per credit hour",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.phoenix.edu/degrees/business/business-administration/dba.html",
+    "requirements": {
+      "gpa": "3.0+ master's GPA (MBA or related field)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official master's transcripts, professional CV, 1,000-word research proposal concept",
+      "references": "Two executive or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10788,
+    "title": "Bachelor of Science in Data Science",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Foundational technical degree covering Python programming, SQL relational databases, statistical hypothesis testing, machine learning pipelines, and data visualization.",
+    "funding": "STEM Achievement Grant: $1,500 annual tuition credit",
+    "tuition": "$398 per credit hour",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.phoenix.edu/degrees/technology/data-science/bs-data-science.html",
+    "requirements": {
+      "gpa": "High school diploma or GED with 2.0+ GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and government-issued ID",
+      "references": "None required for undergraduate entry"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10789,
+    "title": "Master of Science in Nursing (MSN) - Nurse Informatics",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "computer-science"
+    ],
+    "desc": "CCNE-accredited graduate nursing program teaching electronic health records (EHR) optimization, clinical data governance, and patient outcome predictive modeling.",
+    "funding": "Nurse Educator and Informatics Grant: $2,000 scholarship",
+    "tuition": "$698 per credit hour",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.phoenix.edu/degrees/nursing/informatics/msn-informatics.html",
+    "requirements": {
+      "gpa": "2.5+ GPA in an accredited Bachelor of Science in Nursing (BSN)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Active, unencumbered RN license, official BSN transcripts, resume",
+      "references": "Two professional healthcare references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10790,
+    "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "location": "Phoenix, Arizona, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Post-baccalaureate credential exploring deep learning architectures, natural language processing, computer vision, and responsible AI deployment principles.",
+    "funding": "AI Innovation Voucher: $1,000 tuition discount",
+    "tuition": "$698 per credit hour (18 credit certificate)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.phoenix.edu/degrees/technology/artificial-intelligence/certificate.html",
+    "requirements": {
+      "gpa": "Bachelor's degree with introductory programming coursework",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official transcripts and technical experience resume",
+      "references": "One professional recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10791,
+    "title": "Associate of Science in Nursing (ADN Pre-Licensure RN)",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "ACEN-accredited collaborative nursing cohort with USC Aiken, featuring modern hospital simulation labs and clinical rotations at Spartanburg Regional and Union Medical Center.",
+    "funding": "Union Healthcare Heroes Scholarship: $2,000/year stipend for nursing scholars",
+    "tuition": "$7,158/year (In-state tuition baseline)",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/study/nursing/index.php",
+    "requirements": {
+      "gpa": "3.0+ prerequisite college GPA (anatomy, physiology, microbiology)",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "TEAS examination score 65%+",
+      "papers": "Transcripts, criminal background check, 10-panel drug screening",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10792,
+    "title": "Associate of Science in Computer and Information Technology",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Two-year technical curriculum preparing students in network administration, hardware systems, Python scripting, and database architecture with transfer pathway to USC Columbia BS.",
+    "funding": "Palmetto STEM Achievement Grant: $1,500/year award",
+    "tuition": "$7,158/year",
+    "fee": "$40",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/study/academics/associate_degrees/index.php",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "High school transcripts, state residency certification",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10793,
+    "title": "Associate of Science in Business and Financial Administration",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Comprehensive business pathway covering financial accounting, microeconomics, corporate governance, and managerial statistics.",
+    "funding": "Upstate Commerce Leadership Award: $1,200 annual award",
+    "tuition": "$7,158/year",
+    "fee": "$40",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/study/academics/associate_degrees/index.php",
+    "requirements": {
+      "gpa": "2.0+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and application form",
+      "references": "One teacher or counselor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10794,
+    "title": "Associate of Arts in Criminal Justice and Forensic Studies",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Pre-law and law enforcement foundation examining criminal procedure, juvenile delinquency, evidence handling, and correctional sociology.",
+    "funding": "South Carolina Law Enforcement Grant: $1,800/year subsidy",
+    "tuition": "$7,158/year",
+    "fee": "$40",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/study/academics/associate_degrees/index.php",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One professional or academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10795,
+    "title": "USC Union Educational Foundation Merit Fellowship",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed competitive scholarship supporting incoming full-time freshmen demonstrating exceptional academic performance and civic leadership.",
+    "funding": "Full $3,000 annual scholarship with campus bookstore stipend",
+    "tuition": "$7,158/year (Net cost reduced to $4,158)",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/apply/financial_aid/scholarships/index.php",
+    "requirements": {
+      "gpa": "3.5+ cumulative high school GPA",
+      "ielts": "IELTS 6.5 or TOEFL 75",
+      "gre": "SAT 1100+ or ACT 22+ (optional)",
+      "papers": "Scholarship essay on community impact, official transcripts",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10796,
+    "title": "Bachelor of Arts in Organizational Leadership (Palmetto College Completion)",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "location": "Union, South Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "100% online bachelor's completion program administered through USC Union, teaching organizational change management, cross-cultural ethics, and public sector budgeting.",
+    "funding": "Palmetto Online Completion Grant: $1,000 semester grant",
+    "tuition": "$7,158/year (Palmetto College tuition rate)",
+    "fee": "$40",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://www.sc.edu/about/system_and_campuses/palmetto_college/academic_programs/organizational_leadership/index.php",
+    "requirements": {
+      "gpa": "2.0+ GPA with 60 transferable college credits or completed associate degree",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official transcripts from all collegiate institutions attended",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10797,
+    "title": "Associate of Science in Tropical Agriculture & Sustainable Food Systems",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on agrarian training covering permaculture design, aquaponics, volcanic soil bio-remediation, and drought-resistant agroforestry on the Kona campus farm.",
+    "funding": "Pacific Agricultural Stewardship Grant: $2,000 module tuition subsidy",
+    "tuition": "$4,500/year",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://uofn.edu/colleges/college-of-agriculture",
+    "requirements": {
+      "gpa": "2.0+ high school or college GPA, completed DTS prerequisite",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts, health clearance, agricultural experience personal statement",
+      "references": "Two character references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10798,
+    "title": "Bachelor of Science in Primary Health Care & Community Nursing",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Clinical and humanitarian medicine degree preparing medical missionaries and community nurses for tropical disease prevention, maternal-infant health, and clean water sanitation.",
+    "funding": "Global Medical Relief Fellowship: $3,000/year award",
+    "tuition": "$5,200/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://uofn.edu/colleges/college-of-health-care",
+    "requirements": {
+      "gpa": "2.5+ GPA in secondary or prerequisite biology and health courses",
+      "ielts": "IELTS 6.5 or TOEFL 75",
+      "gre": "Not required",
+      "papers": "Official transcripts, medical physical clearance, personal essay",
+      "references": "Two recommendations (one medical professional)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10799,
+    "title": "Associate of Arts in Intercultural Communication & Cross-Cultural Media",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Modular arts degree teaching documentary filmmaking, cross-cultural storytelling, audio podcasting, and digital media production in emerging economies.",
+    "funding": "Visual Storytellers Award: $1,500 equipment and tuition stipend",
+    "tuition": "$4,800/year",
+    "fee": "$35",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://uofn.edu/colleges/college-of-communication",
+    "requirements": {
+      "gpa": "Completed DTS foundation course",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Creative portfolio (photography, video reel, or writing samples), transcripts",
+      "references": "Two personal or mentorship recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10800,
+    "title": "Certificate in Disaster Response & Crisis Trauma Counseling",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Certificate",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Intensive field credential covering psychological first aid, post-traumatic stress stabilization, refugee camp logistics, and humanitarian supply chain operations.",
+    "funding": "Humanitarian Responder Subsidy: $1,200 award",
+    "tuition": "$2,800 total certificate cost",
+    "fee": "$25",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://uofn.edu/colleges/college-of-counseling",
+    "requirements": {
+      "gpa": "Secondary school completion certificate",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts, trauma counseling motivation essay",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10801,
+    "title": "Bachelor of Arts in International Community Development",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Comprehensive degree analyzing micro-enterprise economics, community-led sanitation, vocational school establishment, and indigenous governance models.",
+    "funding": "Developing Nations Endowment: $2,500/year tuition reduction",
+    "tuition": "$4,800/year",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://uofn.edu/colleges/college-of-humanities-and-international-studies",
+    "requirements": {
+      "gpa": "2.25+ cumulative GPA and completion of DTS",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts, community development vision essay",
+      "references": "Two recommendations from community or mission directors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10802,
+    "title": "Diploma in Applied Linguistics & Bible Translation",
+    "university": "University of the Nations",
+    "country": "United States",
+    "location": "Kailua-Kona, Hawaii, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Specialized linguistic curriculum in acoustic phonetics, morphological parsing, unwritten orthography development, and field translation software (Paratext).",
+    "funding": "Endangered Languages Translation Grant: $2,000 award",
+    "tuition": "$4,200/year",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://uofn.edu/colleges/college-of-education",
+    "requirements": {
+      "gpa": "Completed secondary education with strong language aptitude",
+      "ielts": "IELTS 6.5 or TOEFL 75",
+      "gre": "Not required",
+      "papers": "Linguistic background essay and academic transcripts",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10803,
+    "title": "Bachelor of Science in Nursing (RN-to-BSN Track)",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited accelerated nursing degree for licensed RNs, focusing on health assessment, evidence-based clinical leadership, and population health informatics.",
+    "funding": "Prisma Health Nursing Scholar Grant: $2,500/year tuition reimbursement",
+    "tuition": "$11,208/year (In-state baseline)",
+    "fee": "$45",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.uscupstate.edu/academics/mary-black-college-of-nursing/rn-to-bsn/",
+    "requirements": {
+      "gpa": "2.5+ cumulative GPA in associate degree nursing program",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Active unencumbered SC RN license, official college transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10804,
+    "title": "Bachelor of Science in Engineering Technology Management (ETM)",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited program designed for technical associate degree holders, focusing on smart manufacturing systems, six sigma quality control, and industrial supply chain robotics.",
+    "funding": "BMW Automotive Engineering Scholarship: $3,500/year plus co-op work placement",
+    "tuition": "$11,208/year",
+    "fee": "$45",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.uscupstate.edu/academics/college-of-science-and-technology/engineering-technology-management/",
+    "requirements": {
+      "gpa": "2.2+ GPA in AAS technical or engineering technology degree",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts showing calculus and physics prerequisites, resume",
+      "references": "Two recommendations (one engineering faculty or employer)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10805,
+    "title": "Master of Science in Business Analytics (MSBA)",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited graduate degree in predictive modeling, enterprise data warehousing, business intelligence dashboarding, and algorithmic decision analysis.",
+    "funding": "Upstate Data Analytics Fellowship: $3,000/year graduate stipend",
+    "tuition": "$6,972/semester ($13,944/year resident)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.uscupstate.edu/academics/george-dean-johnson-jr-college-of-business-and-economics/graduate-programs/msba/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in quantitative or business discipline",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GMAT/GRE score 500+ (waiver available for 3.2+ GPA)",
+      "papers": "Official college transcripts, resume, statement of career objectives",
+      "references": "Two academic or professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10806,
+    "title": "Bachelor of Science in Cybersecurity",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on degree teaching penetration testing, defensive digital forensics, reverse engineering, and enterprise network infrastructure security.",
+    "funding": "National Cyber Defense Grant: $2,000 annual merit award",
+    "tuition": "$11,208/year",
+    "fee": "$45",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.uscupstate.edu/academics/college-of-science-and-technology/computer-science/cybersecurity/",
+    "requirements": {
+      "gpa": "2.5+ transfer GPA with college algebra completed",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official transcripts, resume",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10807,
+    "title": "Master of Science in Nursing (MSN) - Clinical Nurse Leader",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Advanced clinical practice degree preparing master's nurses to lead interdisciplinary hospital care teams, clinical quality audits, and safety protocol overhauls.",
+    "funding": "Advanced Nursing Workforce Fellowship: $4,000 annual grant",
+    "tuition": "$13,944/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uscupstate.edu/academics/mary-black-college-of-nursing/msn/",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA from accredited institution",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Active RN license, BSN transcripts, goal statement, clinical CV",
+      "references": "Three clinical supervisor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10808,
+    "title": "Bachelor of Science in Health Informatics",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "location": "Greenville, South Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "CAHIIM-accredited program combining health data architecture, medical classification coding (ICD-10/CPT), clinical decision support systems, and HIPAA compliance.",
+    "funding": "Health IT Career Scholarship: $1,500/year award",
+    "tuition": "$11,208/year",
+    "fee": "$45",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.uscupstate.edu/academics/college-of-science-and-technology/health-informatics/",
+    "requirements": {
+      "gpa": "2.5+ transfer college GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official college transcripts, statement of interest",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10809,
+    "title": "Associate of Arts and Sciences in Environmental and Coastal Science",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Two-year degree investigating Great Lakes limnology, invasive aquatic species mitigation, nearshore coastal geology, and freshwater wetland preservation along Lake Michigan.",
+    "funding": "Lake Michigan Stewardship Scholarship: $2,000/year merit award",
+    "tuition": "$5,461/year (In-state tuition)",
+    "fee": "$0 (UW System application fee waived)",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/academics/environmental-science/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with biology and algebra coursework",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and personal statement",
+      "references": "One teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10810,
+    "title": "Bachelor of Science in Mechanical Engineering Technology (Pathways Program)",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "mathematics"
+    ],
+    "desc": "Collaborative degree pathway with UW-Green Bay's Richard J. Resch School of Engineering, featuring maritime manufacturing lab work, CAD design, and thermodynamics.",
+    "funding": "Manitowoc Maritime Engineering Grant: $2,500/year award",
+    "tuition": "$7,873/year",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/academics/engineering-technology/",
+    "requirements": {
+      "gpa": "2.75+ cumulative GPA with pre-calculus and physics",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official high school/college transcripts",
+      "references": "Two recommendations (one math/science instructor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10811,
+    "title": "Associate of Arts and Sciences in Business Administration",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Transfer-oriented foundational degree covering financial accounting, organizational behavior, business law, and commercial macroeconomics.",
+    "funding": "Lakeshore Business Leadership Award: $1,500 annual stipend",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/academics/business-administration/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official transcripts and essay",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10812,
+    "title": "Associate of Arts and Sciences in Studio Art & Digital Design",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Fine arts cohort utilizing shoreline art studios for ceramics, landscape oil painting, digital typography, and gallery curation at the campus art gallery.",
+    "funding": "Manitowoc Arts Endowment: $1,200 annual materials grant",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/academics/art/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and optional portfolio of 5-10 original artworks",
+      "references": "One art instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10813,
+    "title": "Manitowoc Campus Foundation Presidential Fellowship",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive premier scholarship awarded to outstanding high school valedictorians and salutatorians enrolling at the Manitowoc campus.",
+    "funding": "Full $3,000 annual scholarship with campus honors program admission",
+    "tuition": "$5,461/year (Net cost reduced to $2,461)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/scholarships/",
+    "requirements": {
+      "gpa": "3.5+ unweighted cumulative high school GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "ACT/SAT optional",
+      "papers": "Honors scholarship application essay, official transcripts",
+      "references": "Two letters of recommendation from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10814,
+    "title": "Associate of Arts and Sciences in Psychology & Human Development",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "location": "Manitowoc, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Exploration of abnormal psychology, child development, cognitive neurobiology, and statistical behavioral research methods.",
+    "funding": "Behavioral Health Access Scholarship: $1,500/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uwgb.edu/manitowoc/academics/psychology/",
+    "requirements": {
+      "gpa": "2.25+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and statement of academic intent",
+      "references": "One counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10815,
+    "title": "Associate of Arts and Sciences in Forestry and Natural Resources",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Foundational collegiate program feeding directly into UWSP's acclaimed College of Natural Resources, studying silviculture, dendrology, forest soils, and GIS wildlife mapping.",
+    "funding": "Wausau Forestry Endowment Scholarship: $2,000/year merit award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uwsp.edu/wausau/academics/natural-resources/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with biology and algebra",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and personal statement",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10816,
+    "title": "Bachelor of Science in Nursing (RN-to-BSN Wausau Cohort)",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited hybrid degree for practicing registered nurses, focusing on rural population epidemiology, evidence-based clinical leadership, and community wellness.",
+    "funding": "Aspirus Healthcare Nursing Grant: $2,500/year tuition reimbursement",
+    "tuition": "$8,200/year",
+    "fee": "$0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.uwsp.edu/wausau/academics/nursing/",
+    "requirements": {
+      "gpa": "2.5+ GPA in an associate degree in nursing (ADN)",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Current unencumbered RN license, ADN transcripts",
+      "references": "Two professional supervisor references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10817,
+    "title": "Associate of Arts and Sciences in Business Administration",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Core business credential examining commercial accounting, marketing analytics, business law, and microeconomic market structures.",
+    "funding": "Central Wisconsin Business Leadership Award: $1,500/year stipend",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uwsp.edu/wausau/academics/business/",
+    "requirements": {
+      "gpa": "2.0+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and application essay",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10818,
+    "title": "Associate of Arts and Sciences in Pre-Engineering",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Rigorous mathematics, chemistry, and calculus-based physics curriculum preparing students for seamless transfer into ABET-accredited UW engineering bachelor's programs.",
+    "funding": "Wisconsin STEM Transfer Fellowship: $2,200/year scholarship",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uwsp.edu/wausau/academics/pre-engineering/",
+    "requirements": {
+      "gpa": "2.75+ cumulative high school GPA with advanced mathematics",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official transcripts demonstrating calculus readiness",
+      "references": "Two recommendations (one math or science teacher)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10819,
+    "title": "UWSP at Wausau Foundation Honors Scholarship",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Premier academic achievement scholarship for incoming high school honors graduates enrolling full-time at the Wausau campus.",
+    "funding": "Full $3,000 annual scholarship renewable for two years of study",
+    "tuition": "$5,461/year (Reduced to $2,461 net cost)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uwsp.edu/wausau/scholarships/",
+    "requirements": {
+      "gpa": "3.5+ cumulative high school GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Honors scholarship essay and official transcripts",
+      "references": "Two academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10820,
+    "title": "Associate of Arts and Sciences in Digital Media & Graphic Arts",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "location": "Wausau, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Studio program in vector illustration, digital image manipulation, UX design foundations, and visual typography.",
+    "funding": "Creative Arts Talent Subsidy: $1,200 materials grant",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.uwsp.edu/wausau/academics/art/",
+    "requirements": {
+      "gpa": "2.0+ GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and optional portfolio of 5 design pieces",
+      "references": "One art mentor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10821,
+    "title": "Associate of Science with an Emphasis in Pre-Engineering",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics",
+      "mathematics"
+    ],
+    "desc": "High-rigor cohort in engineering mechanics, vector statics, multi-variable calculus, and university physics with guaranteed transfer into UW-Madison, UW-Milwaukee, or UW-Platteville BS engineering.",
+    "funding": "Rock County Engineering Foundation Grant: $2,500/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.uww.edu/rock/academics/degrees/pre-engineering",
+    "requirements": {
+      "gpa": "2.75+ cumulative high school GPA with trigonometry and physics",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts showing math readiness",
+      "references": "Two recommendations (one STEM educator)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10822,
+    "title": "Associate of Arts and Sciences in Business Administration",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Foundational business degree aligning with the AACSB-accredited College of Business and Economics at UW-Whitewater, teaching financial accounting, managerial statistics, and organizational theory.",
+    "funding": "Warhawk Business Scholar Stipend: $1,500/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uww.edu/rock/academics/degrees/business-administration",
+    "requirements": {
+      "gpa": "2.0+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal statement",
+      "references": "One teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10823,
+    "title": "Associate of Arts and Sciences in Computer Science & Information Technology",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Two-year technical curriculum in object-oriented Java programming, discrete mathematics, relational database modeling, and computer network architecture.",
+    "funding": "Rock County Tech Career Scholarship: $2,000/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uww.edu/rock/academics/degrees/computer-science",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with algebra II",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and statement of computing interest",
+      "references": "One math or computing teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10824,
+    "title": "Associate of Arts and Sciences in Early Childhood & Elementary Education",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Teacher preparatory curriculum incorporating classroom observation practicums, developmental psychology, children's literature, and instructional methods.",
+    "funding": "Future Teachers of Wisconsin Subsidy: $1,800/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uww.edu/rock/academics/degrees/education",
+    "requirements": {
+      "gpa": "2.5+ cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts, criminal background clearance form",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10825,
+    "title": "UW-Whitewater at Rock County Dean's Achievement Scholarship",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based award honoring incoming full-time freshmen with exemplary academic performance and civic volunteer service.",
+    "funding": "Full $3,000 annual scholarship with campus honors program placement",
+    "tuition": "$5,461/year (Net cost reduced to $2,461)",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uww.edu/rock/admissions/financial-aid/scholarships",
+    "requirements": {
+      "gpa": "3.5+ cumulative unweighted GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Scholarship essay on community leadership and official transcripts",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10826,
+    "title": "Associate of Arts and Sciences in Biological and Health Sciences",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "location": "Janesville, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Pre-health sciences track covering general biology, general chemistry, organic chemistry, and microbiology laboratory protocols.",
+    "funding": "Healthcare Professions Grant: $1,500/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.uww.edu/rock/academics/degrees/biological-sciences",
+    "requirements": {
+      "gpa": "2.5+ cumulative GPA with high school biology and chemistry",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and career goals statement",
+      "references": "One science instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10827,
+    "title": "Master of Business Administration (MBA - Global Management & Fintech)",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Practitioner graduate business degree emphasizing multinational corporate finance, digital marketing analytics, cross-border supply chain operations, and financial technology.",
+    "funding": "Global Business Merit Fellowship: $2,000 annual tuition credit",
+    "tuition": "$350 per graduate credit hour",
+    "fee": "$100",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://wuv.edu/academics/school-of-business/mba/",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "GMAT/GRE optional",
+      "papers": "Official transcripts, resume, 500-word statement of career intent",
+      "references": "Two professional or academic letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10828,
+    "title": "Master of Science in Computer Science (MSCS - Cloud Computing & AI)",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Advanced degree covering distributed cloud infrastructure, applied neural networks, enterprise database security, and software design patterns.",
+    "funding": "Tech Innovation Graduate Grant: $2,500/year award",
+    "tuition": "$350 per credit hour",
+    "fee": "$100",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://wuv.edu/academics/school-of-computer-science/mscs/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in computer science, mathematics, or engineering",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts demonstrating data structures and programming fluency, resume",
+      "references": "Two recommendations from computer science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10829,
+    "title": "Bachelor of Science in Computer Science",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Four-year undergraduate program teaching full-stack software development, systems programming in C++/Python, algorithms, and cybersecurity principles.",
+    "funding": "WUV STEM Presidential Scholarship: $1,800/year award",
+    "tuition": "$280 per undergraduate credit hour",
+    "fee": "$100",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://wuv.edu/academics/school-of-computer-science/bscs/",
+    "requirements": {
+      "gpa": "2.25+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and identification copy",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10830,
+    "title": "Doctor of Ministry (D.Min. in Strategic Leadership & Cross-Cultural Missions)",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Professional doctorate examining urban mission strategies, organizational conflict mediation, pastoral counseling, and church governance.",
+    "funding": "Pastoral Research Fellowship: $3,000 award towards dissertation project",
+    "tuition": "$380 per credit hour",
+    "fee": "$100",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://wuv.edu/academics/school-of-theology/dmin/",
+    "requirements": {
+      "gpa": "3.0+ GPA in Master of Divinity (M.Div.) or equivalent theological master's",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Graduate transcripts, 3+ years ministerial experience documentation, ministry project concept",
+      "references": "Three letters of recommendation (two ministerial, one academic)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10831,
+    "title": "Bachelor of Science in Business Administration (BSBA - Accounting)",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Undergraduate accounting pathway preparing candidates for CPA examination readiness, corporate auditing, tax compliance, and financial analysis.",
+    "funding": "Accounting Excellence Award: $1,500/year tuition grant",
+    "tuition": "$280 per credit hour",
+    "fee": "$100",
+    "deadline": "2027-07-15",
+    "deadlineText": "July 15, 2027",
+    "source": "https://wuv.edu/academics/school-of-business/bsba/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal reflection essay",
+      "references": "One teacher or counselor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10832,
+    "title": "Certificate in Network Security and Cloud Infrastructure",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "location": "Annandale, Virginia, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Fast-track technical credential in AWS/Azure cloud architecture, firewalls, threat hunting, and enterprise vulnerability management.",
+    "funding": "Cyber Workforce Voucher: $1,000 tuition discount",
+    "tuition": "$3,360 total certificate tuition",
+    "fee": "$50",
+    "deadline": "2027-08-01",
+    "deadlineText": "August 1, 2027",
+    "source": "https://wuv.edu/academics/certificates/cybersecurity/",
+    "requirements": {
+      "gpa": "High school diploma or undergraduate coursework",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and resume",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10833,
+    "title": "Associate of Applied Science in Registered Nursing (AAS - RN)",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "ACEN-accredited pre-licensure nursing cohort featuring high-fidelity simulation hospital wings and clinical rotations at Monument Health Rapid City Hospital.",
+    "funding": "Build Dakota Nursing Scholarship: 100% full-ride tuition, fees, books, and scrub allowance in exchange for in-state service",
+    "tuition": "$5,600/year (100% covered by Build Dakota for qualifying recipients)",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wdt.edu/degree-programs/registered-nursing/",
+    "requirements": {
+      "gpa": "2.5+ prerequisite college GPA (anatomy, physiology, chemistry)",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "ATI TEAS test score 60%+",
+      "papers": "Official transcripts, criminal background check, CPR certification",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10834,
+    "title": "Associate of Applied Science in Precision Machining Technology",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "mathematics"
+    ],
+    "desc": "Hands-on manufacturing degree in 5-axis CNC programming, CAD/CAM Mastercam software, metallurgical analysis, and aerospace tolerances.",
+    "funding": "Build Dakota Precision Machining Full-Ride: 100% tuition and complete $3,000 tool chest grant",
+    "tuition": "$5,200/year",
+    "fee": "$25",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.wdt.edu/degree-programs/precision-machining-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED with algebra competency",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "ACCUPLACER placement math score 250+",
+      "papers": "Official secondary transcripts",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10835,
+    "title": "Associate of Applied Science in Computer Information Systems (Cybersecurity & Networking)",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Comprehensive technical training in Cisco routing/switching, Linux system administration, penetration testing, and enterprise firewall defense.",
+    "funding": "Build Dakota IT Scholarship: Full tuition, certification examination vouchers, and laptop allowance",
+    "tuition": "$4,900/year",
+    "fee": "$25",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.wdt.edu/degree-programs/computer-information-systems/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts and tech career goal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10836,
+    "title": "Associate of Applied Science in Environmental Engineering Technology",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Field science credential focusing on water treatment plant operations, air quality monitoring, soil sampling, hazardous materials remediation, and EPA compliance.",
+    "funding": "Black Hills Environmental Stewardship Award: $2,000/year scholarship",
+    "tuition": "$5,100/year",
+    "fee": "$25",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wdt.edu/degree-programs/environmental-engineering-technology/",
+    "requirements": {
+      "gpa": "2.25+ high school GPA with chemistry and biology",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official transcripts and personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10837,
+    "title": "Associate of Applied Science in Diesel Technology",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Heavy equipment and commercial transport training covering electronic engine diagnostics, hydraulic systems, power trains, and EPA tier 4 emission systems.",
+    "funding": "Caterpillar / Butler CAT ThinkBIG Sponsorship: Full tuition subsidy plus paid dealership co-op",
+    "tuition": "$5,400/year",
+    "fee": "$25",
+    "deadline": "2027-03-31",
+    "deadlineText": "March 31, 2027",
+    "source": "https://www.wdt.edu/degree-programs/diesel-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED, valid driver's license",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts, motor vehicle record check",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10838,
+    "title": "Associate of Applied Science in Surgical Technology",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "location": "Rapid City, South Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAAHEP-accredited clinical operating room degree training surgical technologists in aseptic technique, instrumentation, surgical anatomy, and perioperative patient safety.",
+    "funding": "Monument Health Surgical Scholar Award: $3,000 annual grant",
+    "tuition": "$5,500/year",
+    "fee": "$25",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wdt.edu/degree-programs/surgical-technology/",
+    "requirements": {
+      "gpa": "2.5+ prerequisite college GPA (anatomy, physiology, medical terminology)",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts, immunization records, background check",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10839,
+    "title": "Master of Business Administration (MBA - Healthcare Leadership)",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Professional executive master's program focusing on hospital financial governance, health policy economics, clinical quality assurance, and bioethics.",
+    "funding": "Healthcare Management Scholarship: $2,000 tuition reduction award",
+    "tuition": "$380 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://windsoruniversity.us/academics/mba-healthcare/",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official bachelor's transcripts, resume, 500-word career essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10840,
+    "title": "Master of Science in Information Technology and Cybersecurity",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Applied graduate degree covering cloud virtualization, threat landscape analytics, network penetration testing, and IT compliance governance.",
+    "funding": "Cybersecurity Excellence Grant: $2,200 award for technical professionals",
+    "tuition": "$380 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://windsoruniversity.us/academics/ms-information-technology/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in technical discipline or relevant IT certifications",
+      "ielts": "IELTS 6.5 or TOEFL 75",
+      "gre": "Not required",
+      "papers": "Transcripts and professional CV",
+      "references": "Two recommendations from IT supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10841,
+    "title": "Bachelor of Business Administration (BBA - International Commerce)",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Four-year undergraduate degree in global supply chains, international trade policy, consumer behavior modeling, and corporate accounting.",
+    "funding": "Global Commerce Access Scholarship: $1,500/year award",
+    "tuition": "$250 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://windsoruniversity.us/academics/bba/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official high school transcripts and ID copy",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10842,
+    "title": "Bachelor of Science in Health Services Administration",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Undergraduate healthcare operations degree covering electronic medical records, clinical staffing workflows, healthcare marketing, and managed care contracts.",
+    "funding": "Allied Health Career Subsidy: $1,400/year award",
+    "tuition": "$250 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://windsoruniversity.us/academics/bs-health-services/",
+    "requirements": {
+      "gpa": "2.0+ high school or transfer collegiate GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and brief statement of intent",
+      "references": "One academic or professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10843,
+    "title": "Executive Graduate Certificate in Artificial Intelligence Management",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Post-graduate credential for business leaders covering generative AI applications, corporate data ethics, algorithmic risk audits, and machine learning business cases.",
+    "funding": "AI Executive Leadership Grant: $1,000 tuition discount",
+    "tuition": "$2,280 total certificate tuition",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://windsoruniversity.us/academics/certificates/ai-management/",
+    "requirements": {
+      "gpa": "Bachelor's degree with 2+ years professional experience",
+      "ielts": "IELTS 6.5 or TOEFL 75",
+      "gre": "Not required",
+      "papers": "Resume and bachelor's degree diploma",
+      "references": "One employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10844,
+    "title": "Certificate in Global Supply Chain and Logistics Technology",
+    "university": "Windsor University",
+    "country": "United States",
+    "location": "Albany, New York, United States",
+    "type": "Certificate",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Focused technical certificate examining automated inventory systems, maritime shipping logistics, freight analytics, and SAP enterprise integration.",
+    "funding": "Logistics Professional Subsidy: $800 award",
+    "tuition": "$1,900 total tuition",
+    "fee": "$40",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://windsoruniversity.us/academics/certificates/supply-chain/",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and resume",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10845,
+    "title": "Associate of Occupational Studies in Advanced Diesel and Heavy Equipment Technology",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Elite 9-month intensive hands-on training in commercial diesel engines, hydraulic circuits, electronic engine controls, tier 4 emissions, and heavy chassis mechanics.",
+    "funding": "WyoTech Industry Partner Grant: $3,000 tuition reduction plus sponsored Snap-on tool set",
+    "tuition": "$32,500 total program tuition",
+    "fee": "$100",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.wyotech.edu/programs/diesel-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent, valid driver's license",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and mechanical interest interview",
+      "references": "Two personal or professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10846,
+    "title": "Associate of Occupational Studies in Automotive Technology and High-Performance Engines",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Comprehensive training in automotive powertrain diagnostics, dyno-tuning, computerized fuel injection, electronic stability control, and hybrid vehicle drivetrains.",
+    "funding": "Automotive Masters Scholarship: $2,500 tuition credit",
+    "tuition": "$31,000 total program tuition",
+    "fee": "$100",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.wyotech.edu/programs/automotive-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED, valid driver's license",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts, motor vehicle background verification",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10847,
+    "title": "Diploma in Advanced Precision Welding and Fabrication",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Diploma",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "American Welding Society (AWS) certification program covering SMAW (Stick), GMAW (MIG), GTAW (TIG), pipe welding, and CNC plasma cutter fabrication.",
+    "funding": "AWS Heavy Industrial Scholarship: $2,000 tuition grant",
+    "tuition": "$29,500 total tuition",
+    "fee": "$100",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wyotech.edu/programs/welding-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts, physical dexterity statement",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10848,
+    "title": "Diploma in Collision Repair, Refinishing and Custom Fabrication",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Diploma",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "I-CAR certified hands-on specialty in laser unibody straightening, computerized paint matching, structural aluminum welding, and custom metal fabrication.",
+    "funding": "Refinish Industry Talent Award: $2,200 scholarship",
+    "tuition": "$30,500 total tuition",
+    "fee": "$100",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wyotech.edu/programs/collision-refinishing-technology/",
+    "requirements": {
+      "gpa": "High school diploma or GED, valid driver's license",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Transcripts and interview evaluation",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10849,
+    "title": "WyoTech Women in Trades Leadership Fellowship",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Competitive institutional merit award supporting women entering diesel, automotive, and heavy industrial welding careers.",
+    "funding": "Full $5,000 tuition scholarship plus professional tools endowment",
+    "tuition": "Comprehensive program tuition (Net cost reduced by $5,000)",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.wyotech.edu/financial-aid/scholarships/",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Scholarship essay detailing vocational aspirations in skilled trades",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10850,
+    "title": "Certificate in Applied Motorsports Chassis & Engine Dyno Tuning",
+    "university": "WyoTech",
+    "country": "United States",
+    "location": "Laramie, Wyoming, United States",
+    "type": "Certificate",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Advanced specialty module exploring chassis geometry setup, drag racing drivetrain modifications, engine dynamometer testing, and electronic ECU remapping.",
+    "funding": "Motorsports Engineering Award: $1,500 tuition credit",
+    "tuition": "$7,800 specialty term tuition",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.wyotech.edu/programs/motorsports-chassis-fabrication/",
+    "requirements": {
+      "gpa": "Completion of core WyoTech automotive or diesel curriculum",
+      "ielts": "IELTS 5.5 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Core program transcript demonstrating 3.0+ technical GPA",
+      "references": "One WyoTech faculty instructor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10851,
+    "title": "Doctor of Medicine / Doctor of Philosophy (MD/PhD Medical Scientist Training Program)",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "NIH-funded MSTP program training physician-scientists in clinical medicine and fundamental biomedical research, including neurogenomics, cellular immunology, and cancer therapeutics.",
+    "funding": "Full 100% tuition waiver, health insurance, and $37,000 annual living stipend for all 7-8 years",
+    "tuition": "$0 (Fully funded MSTP)",
+    "fee": "$0 (AMCAS secondary fee waived for MSTP interviewees)",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://medicine.iu.edu/md-phd",
+    "requirements": {
+      "gpa": "3.8+ undergraduate GPA with extensive laboratory research experience",
+      "ielts": "IELTS 7.5 or TOEFL 100",
+      "gre": "MCAT score 514+ (90th percentile)",
+      "papers": "AMCAS application, research essays (MSTP significant research essay), official transcripts",
+      "references": "Three to five letters of recommendation (including principal investigators)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10852,
+    "title": "Ph.D. in Medical Neuroscience (Stark Neurosciences Research Institute)",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite doctoral program investigating Alzheimer's pathology, neurodegenerative neuroinflammation, neural circuit optics, and addiction neurobiology.",
+    "funding": "Full tuition waiver, health coverage, and $35,000 annual research fellowship",
+    "tuition": "$0 (Fully funded PhD)",
+    "fee": "$70",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://medicine.iu.edu/education/graduate-degrees/phd/medical-neuroscience",
+    "requirements": {
+      "gpa": "3.3+ undergraduate GPA in neuroscience, biology, chemistry, or psychology",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, scientific CV, transcripts",
+      "references": "Three letters of recommendation from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10853,
+    "title": "Doctor of Medicine (M.D. Program)",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Comprehensive four-year allopathic medical curriculum integrating early clinical immersion, organ-system pathophysiology, and longitudinal patient care across Indiana hospital systems.",
+    "funding": "IU School of Medicine Dean's Scholar Awards: Up to $25,000/year renewable merit scholarships",
+    "tuition": "$37,476/year (Resident)",
+    "fee": "$60",
+    "deadline": "2026-11-15",
+    "deadlineText": "November 15, 2026",
+    "source": "https://medicine.iu.edu/md",
+    "requirements": {
+      "gpa": "3.6+ pre-medical undergraduate GPA",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "MCAT competitive score (median 512)",
+      "papers": "AMCAS application, secondary essay responses, clinical shadowing log",
+      "references": "Pre-health committee letter or three individual faculty letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10854,
+    "title": "Ph.D. in Cellular & Integrative Physiology",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Doctoral research examining cardiovascular molecular mechanics, diabetes renal physiology, microvascular transport, and metabolic signaling pathways.",
+    "funding": "NIH T32 Institutional Training Fellowship: Full tuition plus $34,500 annual stipend",
+    "tuition": "$0",
+    "fee": "$70",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://medicine.iu.edu/education/graduate-degrees/phd/physiology",
+    "requirements": {
+      "gpa": "3.2+ GPA in biological or chemical sciences",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Not required",
+      "papers": "Research statement, CV, official transcripts",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10855,
+    "title": "Master of Science in Medical Science (Pathway to Medicine)",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive two-year post-baccalaureate academic enhancer curriculum delivering medical-level histology, human biochemistry, anatomy, and MCAT coaching.",
+    "funding": "Diversity in Medicine Pipeline Grant: $5,000 annual scholarship",
+    "tuition": "$18,500/year",
+    "fee": "$70",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://medicine.iu.edu/education/graduate-degrees/masters/medical-science",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with required pre-med sciences",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "MCAT score report (minimum 495)",
+      "papers": "Official transcripts, medical career motivation statement",
+      "references": "Two letters of recommendation from science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10856,
+    "title": "Postdoctoral Research Fellowship in Precision Immuno-Oncology (Simon Cancer Center)",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "NIH NCI-designated Comprehensive Cancer Center fellowship in CAR-T cellular engineering, solid tumor microenvironment remodeling, and Phase I clinical trial biomarker assays.",
+    "funding": "NIH NRSA Postdoctoral Stipend: $61,008/year plus full institutional health insurance and travel budget",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://cancer.iu.edu/research/training/",
+    "requirements": {
+      "gpa": "Ph.D. or M.D. in immunology, molecular oncology, biochemistry, or cellular biology",
+      "ielts": "Satisfied by terminal doctorate",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, 3-page research proposal, peer-reviewed publication record",
+      "references": "Three letters of reference from doctoral mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10857,
+    "title": "Doctor of Philosophy (Ph.D.) in Nursing Science",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Intensive research-focused doctoral program investigating symptom science, chronic disease interventions, behavioral oncology, and health informatics.",
+    "funding": "Full tuition waiver, health insurance, and $30,000 annual research fellowship stipend",
+    "tuition": "$0 (Fully funded PhD)",
+    "fee": "$70",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://nursing.iu.edu/academics/phd/index.html",
+    "requirements": {
+      "gpa": "3.5+ master's degree GPA in nursing or related health field",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests (3-5 pages), scholarly writing sample, curriculum vitae",
+      "references": "Three letters of recommendation from doctorally prepared nurses/scholars"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10858,
+    "title": "Doctor of Nursing Practice (DNP - Executive Leadership Track)",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Terminal clinical practice degree preparing healthcare leaders in health systems financing, population health outcomes, clinical translation, and health policy.",
+    "funding": "Nursing Executive Fellowship: $3,500 annual tuition credit",
+    "tuition": "$485 per credit hour (In-state graduate tuition)",
+    "fee": "$70",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nursing.iu.edu/academics/dnp/index.html",
+    "requirements": {
+      "gpa": "3.2+ master's degree GPA in nursing with unencumbered RN license",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts, resume with leadership experience, executive goals statement",
+      "references": "Three professional references (one supervisor, two doctorally prepared nurses)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10859,
+    "title": "Master of Science in Nursing (MSN - Family Nurse Practitioner Track)",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CCNE-accredited advanced practice clinical program preparing primary care FNPs through 600+ hours of direct outpatient and rural clinical preceptorships.",
+    "funding": "Primary Care Nursing Grant: $2,500/year award",
+    "tuition": "$485 per credit hour",
+    "fee": "$70",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nursing.iu.edu/academics/msn/index.html",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA from accredited program, active unencumbered RN license",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official transcripts, 1+ year acute or primary clinical RN experience resume",
+      "references": "Three clinical and academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10860,
+    "title": "Bachelor of Science in Nursing (Traditional BSN Track)",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Four-year comprehensive nursing degree featuring clinical rotations at IU Health University Hospital, Riley Hospital for Children, and Eskenazi Health.",
+    "funding": "IU Nursing Dean's Honor Scholarship: $4,000/year renewable award",
+    "tuition": "$10,611/year",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://nursing.iu.edu/academics/bsn/index.html",
+    "requirements": {
+      "gpa": "3.5+ high school GPA with biology, chemistry, and algebra",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and personal nursing values essay",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10861,
+    "title": "Nurse Faculty Loan Program (NFLP) Endowed Fellowship",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "HRSA-funded federal fellowship offering up to 85% student loan cancellation for master's and doctoral students who serve as nurse educators upon graduation.",
+    "funding": "Up to $35,500/year in educational loan forgiveness and tuition support",
+    "tuition": "Covers tuition and fees directly",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nursing.iu.edu/admissions/financial-aid/scholarships.html",
+    "requirements": {
+      "gpa": "Enrolled in MSN, DNP, or PhD nursing education track with 3.2+ GPA",
+      "ielts": "Satisfied via program enrollment",
+      "gre": "Not required",
+      "papers": "NFLP application and nurse faculty commitment agreement",
+      "references": "Faculty academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10862,
+    "title": "Postdoctoral Fellowship in Chronic Disease Management and Symptom Science",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "location": "Indianapolis, Indiana, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "NIH T32-supported postdoctoral position conducting clinical translational research on symptom clusters, physical activity interventions, and palliative nursing care.",
+    "funding": "NIH NRSA Postdoctoral Stipend of $61,008/year plus health insurance and $5,000 research budget",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nursing.iu.edu/research/training/index.html",
+    "requirements": {
+      "gpa": "Ph.D. in nursing, public health, or behavioral health science",
+      "ielts": "Satisfied by terminal doctorate",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, 3-page research proposal, writing sample",
+      "references": "Three letters of recommendation from doctoral advisers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10863,
+    "title": "Juris Doctor (J.D. Program)",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Three-year ABA-accredited professional law degree covering civil procedure, constitutional law, contracts, property, and specialized clinics in civil legal assistance.",
+    "funding": "Carolina Law Merit Scholarship: Up to full-tuition award for high-achieving applicants",
+    "tuition": "$24,960/year (Resident)",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://law.unc.edu/admissions/jd-admissions/",
+    "requirements": {
+      "gpa": "3.7+ undergraduate GPA (median 3.76)",
+      "ielts": "Satisfied via LSAC CAS",
+      "gre": "LSAT score report (median 166) or competitive GRE",
+      "papers": "LSAC CAS report, personal statement, resume, addenda",
+      "references": "Two letters of recommendation via LSAC"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10864,
+    "title": "Master of Laws (LL.M. in United States Law)",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "One-year advanced degree for international law graduates seeking mastery in American common law doctrine, bar exam preparation, and cross-border commercial litigation.",
+    "funding": "International Dean's Scholarship: $10,000 tuition grant",
+    "tuition": "$44,500 total program tuition",
+    "fee": "$75",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://law.unc.edu/academics/degree-programs/llm/",
+    "requirements": {
+      "gpa": "First law degree (LL.B. or equivalent) from an accredited foreign university",
+      "ielts": "IELTS 7.5 or TOEFL 100",
+      "gre": "Not required for LL.M.",
+      "papers": "Official foreign legal transcripts with evaluation, resume, statement of purpose",
+      "references": "Two recommendations from legal professors or supervisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10865,
+    "title": "Carolina Public Interest Law Fellowship (Summer Grants)",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Endowed summer grant supporting first- and second-year law students working in unpaid government agencies, public defender offices, and non-profit legal aid organizations.",
+    "funding": "Stipend of $5,000 for 10 weeks of full-time summer public interest legal service",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://law.unc.edu/public-interest/funding/",
+    "requirements": {
+      "gpa": "Enrolled 1L or 2L in good standing at UNC Law",
+      "ielts": "Satisfied via JD enrollment",
+      "gre": "Not required",
+      "papers": "Public interest fellowship application, agency confirmation letter, budget",
+      "references": "Faculty endorsement letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10866,
+    "title": "Juris Doctor / Master of Public Policy (J.D. / M.P.P. Dual Degree)",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Four-year joint program with UNC's Department of Public Policy integrating statutory interpretation, quantitative policy evaluation, and administrative law.",
+    "funding": "Dual Degree Public Leadership Award: $4,000/year stipend",
+    "tuition": "$24,960/year",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://law.unc.edu/academics/degree-programs/dual-degrees/jd-mpp/",
+    "requirements": {
+      "gpa": "3.5+ undergraduate GPA, separate admission to both Law School and Graduate School",
+      "ielts": "IELTS 7.5 or TOEFL 100",
+      "gre": "LSAT or GRE accepted",
+      "papers": "Combined personal statement detailing legal policy goals, official transcripts",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10867,
+    "title": "Carolina Law Environmental Law and Policy Fellowship",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Specialized clinic fellowship in coastal wetland preservation, Clean Water Act enforcement, renewable energy utility regulation, and environmental justice litigation.",
+    "funding": "$3,500 semester research grant plus clinical travel stipend",
+    "tuition": "Covered under regular JD enrollment",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://law.unc.edu/academics/experiential-education/clinics/environmental-law/",
+    "requirements": {
+      "gpa": "Enrolled 2L or 3L student at Carolina Law with Environmental Law course completed",
+      "ielts": "Satisfied via JD enrollment",
+      "gre": "Not required",
+      "papers": "Environmental law writing sample, resume, statement of interest",
+      "references": "One law faculty recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10868,
+    "title": "Center for Banking and Finance Annual Research Award",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "location": "Chapel Hill, North Carolina, United States",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Scholarly research grant analyzing financial market systemic risk, banking supervisory regulation, fintech cryptocurrency compliance, and Dodd-Frank statutory evolution.",
+    "funding": "$2,500 research grant and publication in the North Carolina Banking Institute Journal",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://law.unc.edu/academics/centers-and-programs/center-for-banking-and-finance/",
+    "requirements": {
+      "gpa": "3.0+ law school GPA with banking or securities law coursework",
+      "ielts": "Satisfied via JD enrollment",
+      "gre": "Not required",
+      "papers": "Original paper draft or comprehensive research outline on financial regulation",
+      "references": "Faculty supervisor letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10869,
+    "title": "Master of Arts in Speech-Language Pathology (Denver Hybrid Cohort)",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited professional clinical degree training speech pathologists in dysphagia, neurogenic speech disorders, child language interventions, and clinical practicums.",
+    "funding": "Allied Health Professional Grant: $2,500/year tuition award",
+    "tuition": "$685 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://extended.unco.edu/programs/speech-language-pathology-ma/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with CSD prerequisite coursework completed",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE scores optional",
+      "papers": "CSDCAS application, 25 hours clinical observation log, personal statement",
+      "references": "Three letters of recommendation (two academic, one clinical)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10870,
+    "title": "Master of Arts in Clinical Mental Health Counseling (Lowry Cohort)",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CACREP-accredited program preparing licensed professional counselors in psychotherapy theories, addiction counseling, family systems trauma, and 700 hours of clinical internships.",
+    "funding": "Colorado Behavioral Health Fellowship: $3,000/year stipend",
+    "tuition": "$650 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://extended.unco.edu/programs/clinical-mental-health-counseling-ma/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in psychology, social work, or related behavioral field",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Official transcripts, comprehensive autobiographical statement, resume",
+      "references": "Three professional and academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10871,
+    "title": "Doctor of Education (Ed.D.) in Educational Leadership",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Executive doctoral program for school district superintendents and educational policymakers focusing on organizational change, school finance, and education law.",
+    "funding": "Executive Leadership Fellowship: $4,000 award towards dissertation research",
+    "tuition": "$715 per credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://extended.unco.edu/programs/educational-leadership-edd/",
+    "requirements": {
+      "gpa": "3.25+ master's degree GPA with 3+ years leadership experience",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Transcripts, leadership portfolio, problem of practice dissertation proposal",
+      "references": "Three letters of reference (one from district supervisor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10872,
+    "title": "Master of Arts in Special Education (Generalist Track)",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive degree for educators specializing in individualized education program (IEP) development, positive behavior support, and multi-tiered systems of support (MTSS).",
+    "funding": "Federal TEACH Grant: Up to $4,000/year award for high-need school educators",
+    "tuition": "$585 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://extended.unco.edu/programs/special-education-generalist-ma/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA, valid teaching license preferred",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Transcripts, teaching statement of philosophy, resume",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10873,
+    "title": "Graduate Certificate in Applied Behavior Analysis (ABA)",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Certificate",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "VCS-verified course sequence preparing practitioners for the Board Certified Behavior Analyst (BCBA) examination, focusing on functional behavior assessments and autism interventions.",
+    "funding": "Autism Clinical Education Grant: $1,200 tuition discount",
+    "tuition": "$585 per credit hour (21-credit certificate)",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://extended.unco.edu/programs/applied-behavior-analysis-certificate/",
+    "requirements": {
+      "gpa": "Master's degree or current enrollment in relevant graduate program",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Transcripts and resume",
+      "references": "One supervisor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10874,
+    "title": "Lowry Urban Educator Innovation Fellowship",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Competitive tuition scholarship supporting urban teachers working in Denver Public Schools and Aurora Public Schools enrolled in advanced degree cohorts at Lowry.",
+    "funding": "Full $3,000 annual scholarship applied directly to tuition",
+    "tuition": "Extended campus tuition rate (Net cost reduced by $3,000)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://extended.unco.edu/costs-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.2+ undergraduate GPA with full-time Colorado public school employment",
+      "ielts": "Satisfied via program enrollment",
+      "gre": "Not required",
+      "papers": "Fellowship application essay on urban educational equity, transcripts",
+      "references": "School principal letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10875,
+    "title": "Bachelor of Science in Cybersecurity (TAMU-Central Texas at RELLIS)",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "NSA-designated program focusing on cyber warfare defense, operational technology (OT) critical infrastructure security, penetration testing, and digital forensics.",
+    "funding": "RELLIS Cyber Defense Fellowship: $2,500/year award with defense lab clearance sponsorship",
+    "tuition": "$8,400/year (In-state baseline)",
+    "fee": "$50",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://rellis.tamus.edu/academicalliance/programs/cybersecurity/",
+    "requirements": {
+      "gpa": "2.5+ transfer GPA with 45 transferable credits including calculus and programming",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Official collegiate transcripts from all institutions, resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10876,
+    "title": "Bachelor of Science in Mechanical Engineering Technology (TAMU-Corpus Christi at RELLIS)",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Applied engineering cohort utilizing RELLIS proving grounds for autonomous robotics, materials failure testing, and automated industrial manufacturing systems.",
+    "funding": "Autonomous Systems Engineering Grant: $3,000/year award",
+    "tuition": "$9,100/year",
+    "fee": "$50",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://rellis.tamus.edu/academicalliance/programs/mechanical-engineering-technology/",
+    "requirements": {
+      "gpa": "2.5+ transfer GPA with engineering physics and calculus I & II",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Transcripts showing math/physics prerequisites",
+      "references": "Two recommendations from engineering educators"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10877,
+    "title": "Master of Science in Autonomous Mobility & Connected Transportation",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Advanced research degree conducted with the Texas A&M Transportation Institute (TTI) at RELLIS testing grounds, focusing on V2X vehicle communication and sensor fusion.",
+    "funding": "Texas Transportation Institute Research Assistantship: $28,000/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded with assistantship)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://rellis.tamus.edu/research/mobility/",
+    "requirements": {
+      "gpa": "3.2+ undergraduate GPA in mechanical, electrical, or civil engineering",
+      "ielts": "IELTS 7.0 or TOEFL 85",
+      "gre": "GRE scores competitive (quantitative 160+)",
+      "papers": "Statement of research purpose, CV, official transcripts",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10878,
+    "title": "Bachelor of Science in Electrical Engineering (Tarleton State at RELLIS)",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Hands-on ABET-accredited curriculum covering power electronic systems, RF microwave communications, embedded microcontrollers, and renewable smart grids.",
+    "funding": "Power Systems Engineering Scholarship: $2,000/year award",
+    "tuition": "$8,600/year",
+    "fee": "$50",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://rellis.tamus.edu/academicalliance/programs/electrical-engineering/",
+    "requirements": {
+      "gpa": "2.5+ transfer GPA with calculus and physics prerequisites",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Official collegiate transcripts",
+      "references": "Two academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10879,
+    "title": "Bush Combat Development Complex (BCDC) Hypersonics Research Fellowship",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Defense research fellowship utilizing the Ballistic Aero-optics and Materials (BAM) facility and Mach 5-7 testing tunnels to analyze thermal protection materials.",
+    "funding": "Department of Defense Fellowship: $36,000 annual stipend plus tuition waiver and research allowance",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://rellis.tamus.edu/bcdc/research/",
+    "requirements": {
+      "gpa": "3.5+ GPA in aerospace or mechanical engineering graduate program",
+      "ielts": "Satisfied by bachelor's degree",
+      "gre": "Not required",
+      "papers": "U.S. Citizenship or ITAR compliance documentation, CV, technical research statement",
+      "references": "Three faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10880,
+    "title": "Bachelor of Science in Public Administration & Emergency Management (TAMU-Kingsville at RELLIS)",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "location": "Bryan, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Degree program partnering with Texas Division of Emergency Management (TDEM) headquarters at RELLIS, studying disaster logistics, hazard mitigation, and public finance.",
+    "funding": "Homeland Security Workforce Grant: $2,000/year award",
+    "tuition": "$8,300/year",
+    "fee": "$50",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://rellis.tamus.edu/academicalliance/programs/emergency-management/",
+    "requirements": {
+      "gpa": "2.0+ transfer GPA with 45 collegiate credits completed",
+      "ielts": "IELTS 6.0 or TOEFL 75",
+      "gre": "Not required",
+      "papers": "Transcripts, career goals statement",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10881,
+    "title": "Master of Science in Sustainable Business & Corporate ESG Management",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Graduate degree analyzing carbon accounting, corporate ESG compliance auditing, circular economy supply chains, and green venture financing.",
+    "funding": "ESG Leadership Fellowship: $2,500/year tuition credit",
+    "tuition": "$475 per graduate credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.greenuniversity.com/academics/ms-esg-management/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in business, economics, or environmental studies",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts, resume, 750-word statement on corporate sustainability goals",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10882,
+    "title": "Bachelor of Science in Renewable Energy Systems & Clean Technology",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment",
+      "physics"
+    ],
+    "desc": "Hands-on engineering curriculum covering photovoltaic design, wind turbine aerodynamics, battery energy storage systems (BESS), and smart grid electrification.",
+    "funding": "Clean Energy Innovation Award: $2,000/year scholarship",
+    "tuition": "$300 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.greenuniversity.com/academics/bs-renewable-energy/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with algebra and physics coursework",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and personal statement",
+      "references": "One STEM teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10883,
+    "title": "Master of Science in Ecological Architecture & Regenerative Design",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "environment",
+      "engineering"
+    ],
+    "desc": "Advanced design curriculum teaching LEED Platinum building modeling, biomimetic structural engineering, passive solar heating, and urban microclimate optimization.",
+    "funding": "Regenerative Architecture Grant: $3,000 annual studio stipend",
+    "tuition": "$475 per credit hour",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.greenuniversity.com/academics/ms-ecological-architecture/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in architecture, landscape design, or civil engineering",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Design portfolio (10-15 projects), transcripts, personal essay",
+      "references": "Two architectural faculty or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10884,
+    "title": "Bachelor of Arts in Environmental Policy & Climate Advocacy",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary degree in environmental law, climate change economics, environmental justice advocacy, and international treaty frameworks.",
+    "funding": "Eco-Advocacy Scholarship: $1,500/year award",
+    "tuition": "$300 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.greenuniversity.com/academics/ba-environmental-policy/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and brief essay on environmental values",
+      "references": "One counselor or teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10885,
+    "title": "Executive Certificate in Carbon Accounting and Net-Zero Strategy",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Certificate",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Professional credential for corporate sustainability officers covering GHG Protocol Scope 1, 2, and 3 accounting, carbon offsets, and TCFD climate disclosure reporting.",
+    "funding": "Corporate Decarbonization Subsidy: $800 discount",
+    "tuition": "$1,900 total certificate cost",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.greenuniversity.com/academics/certificates/carbon-accounting/",
+    "requirements": {
+      "gpa": "Bachelor's degree or 2+ years business experience",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Resume and diploma",
+      "references": "One employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10886,
+    "title": "Certificate in Permaculture Design and Urban Agrosystems",
+    "university": "Green University LLC",
+    "country": "United States",
+    "location": "Boca Raton, Florida, United States",
+    "type": "Certificate",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field certificate in urban regenerative agriculture, soil microbiome restoration, companion planting, and residential rainwater harvesting.",
+    "funding": "Urban Agriculture Community Grant: $600 materials award",
+    "tuition": "$1,500 total tuition",
+    "fee": "$25",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.greenuniversity.com/academics/certificates/permaculture/",
+    "requirements": {
+      "gpa": "Secondary school diploma or GED",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Brief statement of interest",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10887,
+    "title": "Master of Science in International Hospitality and Tourism Management",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Advanced degree exploring casino resort operations, convention logistics, revenue management algorithms, and hospitality customer analytics in Las Vegas.",
+    "funding": "Vegas Hospitality Fellowship: $2,000/year tuition award plus resort internship placement",
+    "tuition": "$400 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.aunv.org/academics/ms-hospitality/",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Official bachelor's transcripts, resume, 500-word career statement",
+      "references": "Two professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10888,
+    "title": "Master of Business Administration (MBA - Digital Marketing & E-Commerce)",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Graduate business curriculum in digital brand positioning, search engine optimization, consumer analytics, and global supply chain operations.",
+    "funding": "Global Commerce Grant: $1,800 annual tuition credit",
+    "tuition": "$400 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.aunv.org/academics/mba/",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts, resume, personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10889,
+    "title": "Bachelor of Science in Information Technology and Network Systems",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Technical undergraduate degree teaching cloud infrastructure, network routing, database management, and enterprise cybersecurity defense.",
+    "funding": "Tech Career Scholarship: $1,500/year tuition award",
+    "tuition": "$285 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.aunv.org/academics/bs-it/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "High school transcripts and identification document",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10890,
+    "title": "Bachelor of Business Administration (BBA - Hospitality Management)",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate foundational program covering hotel front-office administration, food and beverage economics, event planning, and guest relations.",
+    "funding": "Hospitality Leaders Grant: $1,200 annual award",
+    "tuition": "$285 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.aunv.org/academics/bba-hospitality/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10891,
+    "title": "Certificate in Casino Operations and Gaming Regulation",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Certificate",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Specialized vocational credential covering gaming mathematics, Nevada gaming commission compliance, surveillance technologies, and anti-money laundering (AML).",
+    "funding": "Gaming Industry Professional Subsidy: $800 discount",
+    "tuition": "$1,800 total certificate tuition",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.aunv.org/academics/certificates/gaming/",
+    "requirements": {
+      "gpa": "High school diploma, minimum age 21 years",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Identification verification, clean background record",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10892,
+    "title": "Certificate in Digital Media Production and Event Marketing",
+    "university": "The American University",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Certificate",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Creative certificate in digital video editing, live entertainment event promotion, social media influencer campaigns, and multimedia graphic design.",
+    "funding": "Creative Media Grant: $600 materials credit",
+    "tuition": "$1,600 total tuition",
+    "fee": "$25",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://www.aunv.org/academics/certificates/digital-media/",
+    "requirements": {
+      "gpa": "Secondary school completion certificate",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Transcripts and brief creative statement",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10893,
+    "title": "Master of Business Administration (MBA - Healthcare Administration)",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Graduate professional program in clinical operations, medical billing compliance, healthcare human resources, and health system finance.",
+    "funding": "Healthcare Executive Award: $2,000 tuition credit",
+    "tuition": "$390 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://universityofmidflorida.education/programs/mba-healthcare/",
+    "requirements": {
+      "gpa": "2.5+ undergraduate GPA",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Official bachelor's transcripts, resume, 500-word career objective essay",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10894,
+    "title": "Bachelor of Science in Cloud Computing & Enterprise Systems",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Hands-on undergraduate degree in AWS/Azure cloud infrastructure, Linux server administration, virtualization, and network security protocols.",
+    "funding": "Cloud Tech Career Grant: $1,500/year award",
+    "tuition": "$260 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://universityofmidflorida.education/programs/bs-cloud-computing/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA with algebra",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "High school transcripts and government ID copy",
+      "references": "One teacher or employer recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10895,
+    "title": "Bachelor of Science in Health Services Management",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Curriculum preparing clinical practice managers, health data analysts, and compliance coordinators in HIPAA standards and electronic health records.",
+    "funding": "Allied Health Career Scholarship: $1,400/year award",
+    "tuition": "$260 per credit hour",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://universityofmidflorida.education/programs/bs-health-services/",
+    "requirements": {
+      "gpa": "2.0+ high school or collegiate transfer GPA",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One academic or professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10896,
+    "title": "Associate of Science in Business Management",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Two-year foundational degree in business law, managerial accounting, marketing strategy, and organizational behavior.",
+    "funding": "Mid Florida Access Grant: $1,000/year award",
+    "tuition": "$260 per credit hour",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://universityofmidflorida.education/programs/as-business/",
+    "requirements": {
+      "gpa": "2.0+ high school GPA",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts and short application statement",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10897,
+    "title": "Certificate in Medical Billing, Coding and Health Informatics",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Certificate",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "computer-science"
+    ],
+    "desc": "AAPC-aligned vocational certificate covering ICD-10-CM, CPT coding, medical claims auditing, and EHR reimbursement compliance.",
+    "funding": "Healthcare Coder Training Voucher: $700 discount",
+    "tuition": "$1,800 total certificate cost",
+    "fee": "$30",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://universityofmidflorida.education/programs/medical-billing/",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts and resume",
+      "references": "One personal reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10898,
+    "title": "Certificate in Full-Stack Web Development & Python Scripting",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "location": "Orlando, Florida, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Accelerated coding credential covering HTML5/CSS3, JavaScript (React), Python backend REST APIs, and PostgreSQL database queries.",
+    "funding": "Web Dev Talent Subsidy: $600 grant",
+    "tuition": "$1,600 total tuition",
+    "fee": "$25",
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15, 2027",
+    "source": "https://universityofmidflorida.education/programs/web-development/",
+    "requirements": {
+      "gpa": "High school diploma or GED",
+      "ielts": "IELTS 6.0 or TOEFL 65",
+      "gre": "Not required",
+      "papers": "Transcripts, brief technical interest essay",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10899,
+    "title": "Master of Science in Health Informatics and Analytics (Online / Extended)",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Interdisciplinary graduate program exploring predictive healthcare analytics, machine learning for electronic medical records, clinical decision systems, and HIPAA data governance.",
+    "funding": "Health Data Innovation Fellowship: $3,000/year award",
+    "tuition": "$725 per graduate credit hour",
+    "fee": "$75",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://ext.charlotte.edu/programs/health-informatics-ms/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in STEM, healthcare, or quantitative discipline",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "GRE optional with 3.0+ GPA",
+      "papers": "Transcripts, statement of purpose, resume showing programming or quantitative readiness",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10900,
+    "title": "Master of Science in Construction and Facilities Management (Distance Track)",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Professional graduate degree in Building Information Modeling (BIM), construction project finance, lean project delivery, and sustainable building asset management.",
+    "funding": "Carolinas Construction Industry Grant: $2,500 annual award",
+    "tuition": "$685 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://ext.charlotte.edu/programs/construction-management-ms/",
+    "requirements": {
+      "gpa": "3.0+ GPA in engineering, architecture, or construction technology",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "Not required",
+      "papers": "Official transcripts, resume detailing industry experience, career goals essay",
+      "references": "Two professional supervisor recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10901,
+    "title": "Graduate Certificate in Applied Artificial Intelligence and Machine Learning",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Certificate",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Post-baccalaureate credential in neural networks, computer vision, natural language processing, and cloud-scale model deployment (MLOps).",
+    "funding": "Charlotte Fintech AI Scholarship: $1,500 tuition discount",
+    "tuition": "$725 per credit hour (15-credit certificate)",
+    "fee": "$50",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://ext.charlotte.edu/programs/applied-ai-certificate/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA with Python programming and calculus prerequisites",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "Not required",
+      "papers": "Transcripts, technical resume",
+      "references": "One academic or employer reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10902,
+    "title": "Master of Education (M.Ed.) in Educational Leadership (Online Cohort)",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Degree program preparing K-12 school principals and district leaders in school law, instructional coaching, curriculum design, and organizational culture.",
+    "funding": "North Carolina Principal Fellows Subsidy: $3,000/year award",
+    "tuition": "$510 per credit hour",
+    "fee": "$75",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://ext.charlotte.edu/programs/educational-leadership-med/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA, valid North Carolina teaching license and 3+ years teaching",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "Not required",
+      "papers": "Transcripts, leadership portfolio, educator goals statement",
+      "references": "Three recommendations (one from school principal)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10903,
+    "title": "Graduate Certificate in Supply Chain Management and Logistics Analytics",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Certificate",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Targeted curriculum in global sourcing strategy, transportation network optimization, ERP warehouse management, and inventory stochastic forecasting.",
+    "funding": "Supply Chain Professional Award: $1,200 discount",
+    "tuition": "$685 per credit hour (12-credit certificate)",
+    "fee": "$50",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://ext.charlotte.edu/programs/supply-chain-certificate/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "Not required",
+      "papers": "Transcripts and professional resume",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10904,
+    "title": "UNC Charlotte Extended Education Excellence Fellowship",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Merit-based competitive fellowship for working professionals enrolling in fully online and extended graduate programs at UNC Charlotte.",
+    "funding": "Full $3,000 annual scholarship applied directly against program tuition",
+    "tuition": "Comprehensive credit rates (Net cost reduced by $3,000)",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://ext.charlotte.edu/costs-and-aid/scholarships/",
+    "requirements": {
+      "gpa": "3.3+ undergraduate GPA, enrolled full-time or part-time in extended master's program",
+      "ielts": "IELTS 6.5 or TOEFL 83",
+      "gre": "Not required",
+      "papers": "Fellowship essay on professional leadership and community impact",
+      "references": "Two professional letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10905,
+    "title": "Associate of Arts and Sciences with Guaranteed Transfer to UW-Madison",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Premier two-year liberal arts transfer curriculum guaranteeing junior-year admission to the University of Wisconsin-Madison College of Letters & Science with a 3.2+ GPA.",
+    "funding": "Wisconsin Tuition Promise: 100% full tuition coverage for qualifying low- and middle-income families",
+    "tuition": "$5,461/year",
+    "fee": "$0 (Application fee permanently eliminated)",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.wisconsin.edu/campuses/guaranteed-transfer/",
+    "requirements": {
+      "gpa": "High school diploma or GED equivalent",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official high school transcripts and state residency declaration",
+      "references": "None required for undergraduate entry"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10906,
+    "title": "Associate of Science in Pre-Engineering & Applied Physical Sciences",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Comprehensive technical cohort covering calculus I, II, & III, differential equations, university physics with calculus, and computer-aided design (CAD).",
+    "funding": "Statewide STEM Transfer Grant: $2,000/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.wisconsin.edu/campuses/stem-pathways/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with pre-calculus readiness",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts showing mathematics preparation",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10907,
+    "title": "Associate of Science in Environmental Ecology & Natural Resources",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field science curriculum studying wetland ecology, Wisconsin watershed management, soil microbiology, and GIS environmental mapping.",
+    "funding": "Aldo Leopold Conservation Fellowship: $1,800/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.wisconsin.edu/campuses/environmental-pathways/",
+    "requirements": {
+      "gpa": "2.2+ high school GPA with biology and chemistry",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One science teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10908,
+    "title": "Associate of Arts and Sciences in Business & Financial Management",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Foundation in managerial accounting, macroeconomics, business statistics, and organizational communication feeding directly into UW business schools.",
+    "funding": "Wisconsin Business Leaders Award: $1,500/year award",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.wisconsin.edu/campuses/business-pathways/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10909,
+    "title": "Tommy G. Thompson Leadership and Civic Engagement Scholarship",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Statewide endowed scholarship honoring undergraduate students demonstrating outstanding civic leadership, public service, and academic integrity.",
+    "funding": "Full $2,500 annual scholarship plus participation in the Thompson Center leadership symposium",
+    "tuition": "$5,461/year (Net cost reduced to $2,961)",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wisconsin.edu/scholarships/thompson-scholars/",
+    "requirements": {
+      "gpa": "3.3+ cumulative GPA at any UW branch campus",
+      "ielts": "Satisfied via enrollment",
+      "gre": "Not required",
+      "papers": "Essay on bipartisan civic leadership, resume, academic transcripts",
+      "references": "Two letters of recommendation (one civic leader, one faculty)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10910,
+    "title": "Associate of Science in Health Professions & Pre-Nursing",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "location": "Madison, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Rigorous collegiate pre-health program covering anatomy and physiology, organic chemistry, microbiology, and biomedical statistics.",
+    "funding": "Rural Health Workforce Grant: $2,000/year scholarship",
+    "tuition": "$5,461/year",
+    "fee": "$0",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.wisconsin.edu/campuses/health-pathways/",
+    "requirements": {
+      "gpa": "2.75+ high school GPA with biology and chemistry coursework",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official transcripts and career goals essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10911,
+    "title": "Master of Science in Architecture (Concentration in Building Energy & Performance)",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design",
+      "environment"
+    ],
+    "desc": "Post-professional research degree conducted at IDL Boise, analyzing dynamic solar shading, microclimate CFD simulation, radiant hydronic cooling, and EnergyPlus modeling.",
+    "funding": "IDL Energy Research Assistantship: 100% full tuition waiver plus $24,000 annual research stipend",
+    "tuition": "$0 (Fully funded for appointed graduate research assistants)",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uidaho.edu/caa/research/idl/education/graduate",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in architecture, mechanical engineering, or physics",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "GRE optional",
+      "papers": "Design/research portfolio, statement of research intent in building energy, official transcripts",
+      "references": "Three letters of academic or architectural recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10912,
+    "title": "Doctor of Philosophy (Ph.D.) in Sustainable Design and High-Performance Architecture",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design",
+      "environment"
+    ],
+    "desc": "Terminal research doctorate investigating embodied carbon lifecycle assessments, smart facade metamaterials, predictive building analytics, and net-zero district energy systems.",
+    "funding": "Idaho Power Doctoral Fellowship: $28,000 annual stipend plus tuition waiver and research allowance",
+    "tuition": "$0",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uidaho.edu/caa/research/idl/education/phd",
+    "requirements": {
+      "gpa": "3.5+ master's degree GPA in architecture or building engineering",
+      "ielts": "IELTS 7.0 or TOEFL 90",
+      "gre": "Not required",
+      "papers": "Master's thesis or writing sample, 1,500-word doctoral research prospectus, curriculum vitae",
+      "references": "Three letters of recommendation from research advisors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10913,
+    "title": "Master of Architecture (M.Arch - Boise Urban and High-Performance Studio)",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "NAAB-accredited professional architecture degree focusing on integrated urban design, mass timber structures, carbon-neutral construction, and architectural energy simulation.",
+    "funding": "Architecture Design Excellence Scholarship: $4,000/year award",
+    "tuition": "$9,876/year (Resident)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.uidaho.edu/caa/programs/architecture/m-arch",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in architecture or environmental design",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Comprehensive design portfolio (20-30 pages), transcripts, personal statement",
+      "references": "Three recommendations from architectural faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10914,
+    "title": "IDL Summer Energy Modeling and Daylighting Internship",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Internship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "Ten-week paid technical fellowship performing physical sky-simulator testing, architectural daylight sensor calibration, and OpenStudio utility code compliance audits.",
+    "funding": "Stipend of $7,500 for the 10-week summer term plus travel support",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.uidaho.edu/caa/research/idl/opportunities",
+    "requirements": {
+      "gpa": "3.2+ GPA in architecture, architectural engineering, or building science",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Resume, cover letter detailing simulation software experience (Rhino, Ladybug, EnergyPlus)",
+      "references": "Two faculty letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10915,
+    "title": "Graduate Certificate in High-Performance Building Design",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Certificate",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "arts-design"
+    ],
+    "desc": "Four-course graduate certificate in passive solar design, natural ventilation engineering, envelope diagnostic testing, and LEED/AIA 2030 challenge compliance.",
+    "funding": "ASHRAE Regional Education Subsidy: $1,200 discount",
+    "tuition": "$4,938 total certificate tuition",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.uidaho.edu/caa/research/idl/education/certificate",
+    "requirements": {
+      "gpa": "Bachelor's degree in design or engineering with 2.8+ GPA",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts and resume",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10916,
+    "title": "Postdoctoral Fellowship in Urban Microclimate & Resilient Building Systems",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "location": "Boise, Idaho, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Interdisciplinary postdoctoral research post analyzing urban heat island mitigation, climate-resilient district cooling, and building-integrated photovoltaics.",
+    "funding": "Annual salary of $62,500 plus comprehensive state health insurance and $6,000 conference travel budget",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.uidaho.edu/caa/research/idl/research/postdoc",
+    "requirements": {
+      "gpa": "Ph.D. in architectural engineering, building science, or mechanical engineering",
+      "ielts": "Satisfied by terminal doctorate",
+      "gre": "Not required",
+      "papers": "Curriculum vitae, 3 peer-reviewed publications, 3-page research proposal",
+      "references": "Three letters of recommendation from international scholars"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10917,
+    "title": "Governor Guinn Millennium Scholarship (Statewide Program)",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Flagship Nevada merit scholarship funding up to $10,000 toward tuition and fees for qualifying high school graduates attending any NSHE collegiate institution.",
+    "funding": "$80 per university credit / $60 per state college credit up to $10,000 total lifetime award",
+    "tuition": "Covers tuition directly across NSHE institutions",
+    "fee": "$0 (No separate scholarship application fee)",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://nshe.nevada.edu/initiatives/millennium-scholarship/",
+    "requirements": {
+      "gpa": "3.25+ weighted cumulative high school GPA or SAT 1070+ / ACT 21+",
+      "ielts": "Satisfied via Nevada high school graduation",
+      "gre": "Not required",
+      "papers": "Nevada high school transcripts showing 4 years of English and 4 years of math",
+      "references": "Automatic certification via Nevada Department of Education"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10918,
+    "title": "Nevada Promise Scholarship (100% Last-Dollar Community College Tuition)",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "State-legislated last-dollar scholarship covering 100% of mandatory registration and tuition fees for up to three years at CSN, GBC, TMCC, or WNC.",
+    "funding": "100% of remaining tuition and registration fees after federal and state aid",
+    "tuition": "$0 (Tuition completely covered for recipients)",
+    "fee": "$0",
+    "deadline": "2026-10-31",
+    "deadlineText": "October 31, 2026",
+    "source": "https://nshe.nevada.edu/initiatives/nevada-promise/",
+    "requirements": {
+      "gpa": "High school diploma or GED earned in Nevada, age under 20",
+      "ielts": "Satisfied via Nevada secondary completion",
+      "gre": "Not required",
+      "papers": "Nevada Promise application, completed FAFSA, 8 hours community service log",
+      "references": "Mentor meeting verification form"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10919,
+    "title": "NSHE Regents' Scholar Award (Undergraduate and Graduate Research)",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Award",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Highest academic honor conferred annually by the Board of Regents to one undergraduate and one graduate scholar at each NSHE institution demonstrating exceptional research.",
+    "funding": "Cash stipend of $5,000 per recipient with formal commendation at the Board of Regents meeting",
+    "tuition": "Constituent campus rates",
+    "fee": "$0",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nshe.nevada.edu/leadership-policy/board-of-regents/awards/",
+    "requirements": {
+      "gpa": "3.8+ cumulative collegiate GPA, junior/senior or graduate standing",
+      "ielts": "Satisfied via university enrollment",
+      "gre": "Not required",
+      "papers": "Institutional nomination dossier, curriculum vitae, published research portfolio",
+      "references": "Nomination by institution president"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10920,
+    "title": "Desert Research Institute (DRI) Arid Hydrology Graduate Fellowship",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "NSHE research fellowship based at the Desert Research Institute in Reno/Las Vegas investigating desert groundwater aquifers, atmospheric cloud seeding, and climate resilience.",
+    "funding": "Graduate research stipend of $32,000/year plus full tuition waiver and lab budget",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.dri.edu/education/graduate-programs/",
+    "requirements": {
+      "gpa": "3.3+ undergraduate GPA in hydrology, geological sciences, or environmental engineering",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Statement of research interests, scientific CV, transcripts",
+      "references": "Three letters of recommendation from faculty mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10921,
+    "title": "Nevada Lithium and Critical Materials STEM Fellowship",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "engineering",
+      "environment"
+    ],
+    "desc": "Inter-institutional fellowship across UNR, UNLV, and DRI investigating closed-loop lithium extraction, battery cathode recycling, and geothermal mineral extraction in Nevada.",
+    "funding": "$26,000 annual graduate fellowship plus industrial internship placement with battery manufacturers",
+    "tuition": "Covered via fellowship waiver",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://nshe.nevada.edu/initiatives/stem-lithium/",
+    "requirements": {
+      "gpa": "3.2+ GPA in chemical engineering, chemistry, geology, or materials science",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts, technical statement of battery materials research experience",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10922,
+    "title": "Roseman - NSHE Allied Health Workforce Grant",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Grant",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Collaborative workforce grant for students pursuing accelerated nursing, pharmacy, or diagnostic medical sonography with commitment to rural Nevada clinical service.",
+    "funding": "Tuition credit up to $4,500/year for healthcare candidates",
+    "tuition": "Varies by specific NSHE nursing program",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://nshe.nevada.edu/initiatives/health-sciences/",
+    "requirements": {
+      "gpa": "2.75+ prerequisite GPA in collegiate pre-health sciences",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Transcripts, clinical interest essay, Nevada rural clinical service pledge",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10923,
+    "title": "North Star Promise Scholarship (100% Free Tuition and Fees)",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Landmark state-funded program providing 100% free tuition and mandatory fees for eligible Minnesota students attending any MinnState college or university.",
+    "funding": "100% of tuition and mandatory fees covered after federal and state grants",
+    "tuition": "$0 (Full tuition coverage for qualifying recipients)",
+    "fee": "$0",
+    "deadline": "2027-06-30",
+    "deadlineText": "June 30, 2027",
+    "source": "https://www.minnstate.edu/admissions/northstarpromise.html",
+    "requirements": {
+      "gpa": "High school diploma or GED, family AGI below $80,000, Minnesota resident",
+      "ielts": "Satisfied via Minnesota high school completion",
+      "gre": "Not required",
+      "papers": "Completed FAFSA or Minnesota Dream Act application",
+      "references": "None required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10924,
+    "title": "Minnesota Workforce Development Scholarship (High-Demand STEM & Healthcare)",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology",
+      "computer-science"
+    ],
+    "desc": "Targeted $2,500 annual scholarship for students entering advanced manufacturing, agriculture, healthcare, information technology, early childhood education, or public safety.",
+    "funding": "$2,500 annual scholarship with potential $5,000 renewal upon completion",
+    "tuition": "Deducted directly from MinnState tuition",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.minnstate.edu/admissions/workforce.html",
+    "requirements": {
+      "gpa": "Enrolled in an eligible high-demand technical or degree program with 2.5+ GPA",
+      "ielts": "Satisfied via enrollment",
+      "gre": "Not required",
+      "papers": "Scholarship application form and official transcripts",
+      "references": "One academic or vocational instructor reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10925,
+    "title": "Associate of Science in Cloud Computing and Software Engineering (MinnState Transfer Pathway)",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Statewide articulated transfer pathway in Python, Java data structures, AWS architecture, Linux systems, and relational databases guaranteeing junior standing at any MinnState university.",
+    "funding": "STEM Equity Grant: $2,000/year award",
+    "tuition": "$5,900/year (State college rate)",
+    "fee": "$20",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.minnstate.edu/transfer/pathways/computer-science.html",
+    "requirements": {
+      "gpa": "2.0+ high school GPA with algebra",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "High school transcripts and residency form",
+      "references": "One reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10926,
+    "title": "Bachelor of Science in Automated Manufacturing and Robotics Engineering",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Hands-on engineering degree focused on programmable logic controllers (PLCs), industrial robotic arms, pneumatic control systems, and smart factory IoT networks.",
+    "funding": "Advanced Manufacturing Industry Partnership: $3,000/year plus paid summer internship",
+    "tuition": "$9,400/year",
+    "fee": "$20",
+    "deadline": "2027-06-15",
+    "deadlineText": "June 15, 2027",
+    "source": "https://www.minnstate.edu/programs/manufacturing-engineering.html",
+    "requirements": {
+      "gpa": "2.5+ cumulative GPA with pre-calculus and physics",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts showing math preparation",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10927,
+    "title": "Associate of Science in Nursing (MANE Pre-Licensure BSN Pathway)",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Minnesota Alliance for Nursing Education (MANE) dual-enrollment curriculum providing seamless progression from ADN to BSN with clinical hospital rotations.",
+    "funding": "Minnesota Rural Health Nurse Grant: $2,500/year award",
+    "tuition": "$6,200/year",
+    "fee": "$20",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.minnstate.edu/programs/nursing.html",
+    "requirements": {
+      "gpa": "2.75+ prerequisite GPA (anatomy, physiology, chemistry, psychology)",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "ATI TEAS score 65%+",
+      "papers": "Official college transcripts, CPR certification, background check",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10928,
+    "title": "Bachelor of Science in Environmental Science & Water Resource Management",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Comprehensive degree studying Upper Mississippi hydrology, agricultural nutrient runoff mitigation, limnological sampling, and groundwater protection.",
+    "funding": "Land of 10,000 Lakes Water Stewardship Award: $2,000/year award",
+    "tuition": "$9,400/year",
+    "fee": "$20",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.minnstate.edu/programs/environmental-science.html",
+    "requirements": {
+      "gpa": "2.5+ GPA with high school biology and chemistry",
+      "ielts": "IELTS 6.0 or TOEFL 71",
+      "gre": "Not required",
+      "papers": "Transcripts and personal statement",
+      "references": "One science teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10929,
+    "title": "Master of Science in Animal and Range Sciences (Extension & Rangeland Ecology Track)",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Applied graduate degree evaluating invasive cheatgrass mitigation, cattle grazing genetics, sagebrush habitat conservation, and riparian water quality.",
+    "funding": "MSU Extension Graduate Assistantship: Full tuition waiver plus $26,000 annual research stipend",
+    "tuition": "$0 (Fully funded for appointed research assistants)",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://animalrange.montana.edu/graduate.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in animal science, biology, rangeland ecology, or agriculture",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, CV, official transcripts",
+      "references": "Three letters of academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10930,
+    "title": "Master of Science in Plant Sciences (Sustainable Dryland Cropping Systems)",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Field-oriented graduate curriculum investigating soil health, pulse crop rotation (lentils/chickpeas), wheat stem sawfly biological control, and drought resilience in Northern Great Plains soils.",
+    "funding": "USDA NIFA Research Assistantship: $27,000/year stipend plus full tuition waiver",
+    "tuition": "$0",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://plantsciences.montana.edu/graduate/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in agronomy, plant pathology, or biology",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Research statement, CV, official transcripts",
+      "references": "Three letters of recommendation from scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10931,
+    "title": "Master of Science in Land Resources and Environmental Sciences (LRES)",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Interdisciplinary environmental degree covering watershed hydrology, mine land reclamation, geospatial soil modeling, and alpine climate adaptation.",
+    "funding": "Montana Agricultural Experiment Station Fellowship: $28,000 annual stipend plus tuition waiver",
+    "tuition": "$0",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://landresources.montana.edu/grad/",
+    "requirements": {
+      "gpa": "3.2+ undergraduate GPA in environmental science, chemistry, or geology",
+      "ielts": "IELTS 6.5 or TOEFL 80",
+      "gre": "Not required",
+      "papers": "Transcripts, 1,000-word statement of research intent, writing sample",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10932,
+    "title": "MSU Extension Summer Agroecology and Community Internship",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Internship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Twelve-week paid fellowship stationed in county extension offices across Montana, providing hands-on training in crop scouting, 4-H youth education, and weed management.",
+    "funding": "Stipend of $6,500 for 12 weeks plus housing assistance in regional Montana counties",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.msuextension.org/careers/internships.html",
+    "requirements": {
+      "gpa": "2.75+ cumulative GPA in agriculture, education, or natural resources",
+      "ielts": "Satisfied via undergraduate enrollment",
+      "gre": "Not required",
+      "papers": "Resume, cover letter detailing community engagement experience",
+      "references": "Two recommendations (one faculty, one community leader)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10933,
+    "title": "Postdoctoral Fellowship in Precision Agriculture and Remote Sensing",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment",
+      "computer-science"
+    ],
+    "desc": "Applied post-doctoral research utilizing multispectral drone imagery, variable-rate fertilizer algorithms, and satellite evapotranspiration modeling in wheat ecosystems.",
+    "funding": "Annual salary of $62,000 plus full institutional health insurance and $5,000 travel allowance",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.msuextension.org/research/precision-ag-postdoc.html",
+    "requirements": {
+      "gpa": "Ph.D. in agricultural engineering, remote sensing, agronomy, or geospatial computing",
+      "ielts": "Satisfied by terminal doctorate",
+      "gre": "Not required",
+      "papers": "CV, three peer-reviewed publications, 3-page research proposal",
+      "references": "Three letters of recommendation from international scientists"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10934,
+    "title": "Certificate in Wildfire Risk Mitigation & Community Forestry",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "location": "Bozeman, Montana, United States",
+    "type": "Certificate",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Continuing professional credential in wildland-urban interface (WUI) fuel management, home ignition zone assessments, defensible space ecology, and prescribed burns.",
+    "funding": "Western Wildfire Resilience Grant: $1,000 tuition subsidy",
+    "tuition": "$2,200 total certificate cost",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.msuextension.org/forestry/wildfire-certificate.html",
+    "requirements": {
+      "gpa": "High school diploma or undergraduate degree",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "Resume and statement of professional interest",
+      "references": "One professional reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10935,
+    "title": "MUS Honor Scholarship (100% Four-Year Tuition Waiver)",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Premier state merit scholarship awarded to the top 200 Montana high school graduates each year, conferring a 100% waiver of undergraduate tuition at any MUS institution.",
+    "funding": "100% full tuition waiver renewable for up to four consecutive academic years",
+    "tuition": "$0 (Tuition completely waived for honor recipients)",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mus.edu/Prepare/Pay/Scholarships/MUS_Honor_Scholarship.html",
+    "requirements": {
+      "gpa": "Rigorous high school college-prep curriculum with 3.8+ GPA or top 10% class rank",
+      "ielts": "Satisfied via Montana high school graduation",
+      "gre": "ACT or SAT composite score ranking",
+      "papers": "MUS Honor Scholarship application and certified high school transcripts",
+      "references": "High school principal or counselor verification"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10936,
+    "title": "Montana STEM Scholarship Program",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Scholarship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "State-funded merit award for Montana high school graduates pursuing degrees in science, technology, engineering, mathematics, or allied healthcare across MUS campuses.",
+    "funding": "Tiered scholarship providing up to $6,000 total ($1,000 freshman year, up to $2,000 senior year)",
+    "tuition": "Applied directly against MUS campus tuition",
+    "fee": "$0",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.mus.edu/Prepare/Pay/Scholarships/STEM_Scholarship.html",
+    "requirements": {
+      "gpa": "3.25+ cumulative GPA with 4 years of math and 3 years of lab science",
+      "ielts": "Satisfied via Montana secondary education",
+      "gre": "Not required",
+      "papers": "Transcripts showing STEM coursework completion",
+      "references": "One STEM teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10937,
+    "title": "Bachelor of Science in Mining Engineering (Montana Tech at MUS)",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment",
+      "physics"
+    ],
+    "desc": "World-ranked ABET-accredited engineering degree at Montana Technological University in Butte, featuring underground mine testing facilities, mineral processing, and geomechanics.",
+    "funding": "Mining Industry Leadership Fellowship: $4,000/year award plus paid mining company internship",
+    "tuition": "$7,800/year (In-state baseline)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.mtech.edu/mining-engineering/",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with calculus and physics readiness",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and engineering statement of purpose",
+      "references": "Two recommendations (one math or science instructor)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10938,
+    "title": "Juris Doctor (J.D. in Natural Resources and Environmental Law at UM Blewett)",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Premier environmental law curriculum at the Alexander Blewett III School of Law in Missoula, focusing on public land law, water rights, tribal sovereignty, and federal environmental litigation.",
+    "funding": "Public Lands Law Fellowship: $5,000/year scholarship",
+    "tuition": "$14,200/year (Resident JD tuition)",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.umt.edu/law/academics/environmental-natural-resources.php",
+    "requirements": {
+      "gpa": "3.4+ undergraduate GPA from accredited college",
+      "ielts": "Satisfied via LSAC CAS",
+      "gre": "LSAT score report (median 156+)",
+      "papers": "LSAC CAS report, personal statement, resume, legal interests addendum",
+      "references": "Two academic or professional recommendations via LSAC"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10939,
+    "title": "MUS American Indian Tuition Waiver (Statewide Program)",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Constitutional tuition waiver available to enrolled members of federally recognized American Indian tribes who are Montana residents attending any MUS campus.",
+    "funding": "100% full undergraduate or graduate tuition waiver",
+    "tuition": "$0 (Tuition completely waived)",
+    "fee": "$0",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.mus.edu/Prepare/Pay/Tuition/Waivers.html",
+    "requirements": {
+      "gpa": "Good academic standing at constituent MUS campus",
+      "ielts": "Satisfied via residency",
+      "gre": "Not required",
+      "papers": "Official tribal enrollment verification or Certificate of Degree of Indian Blood (CDIB)",
+      "references": "None required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10940,
+    "title": "Associate of Science in Forestry Technology (Flathead Valley Community College at MUS)",
+    "university": "Montana University System",
+    "country": "United States",
+    "location": "Helena, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on regional degree studying wildland fire management, forest cruising, silvicultural timber marking, and GPS logging technology near Glacier National Park.",
+    "funding": "Rocky Mountain Forestry Scholarship: $1,800/year award",
+    "tuition": "$5,100/year",
+    "fee": "$25",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.fvcc.edu/programs/natural-resources/forestry/",
+    "requirements": {
+      "gpa": "2.0+ high school cumulative GPA",
+      "ielts": "IELTS 6.0 or TOEFL 70",
+      "gre": "Not required",
+      "papers": "High school transcripts and residency declaration",
+      "references": "One character reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10941,
+    "title": "Board of Trustees Scholarship (100% Full Tuition Waiver)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "NSCS premier merit scholarship awarding a 100% tuition waiver for up to four years at Chadron State, Peru State, or Wayne State College.",
+    "funding": "100% full tuition waiver renewable for four years (valued at over $23,000)",
+    "tuition": "$0 (Tuition completely covered for recipients)",
+    "fee": "$0 (No separate scholarship fee)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nscs.edu/scholarships/board-of-trustees/",
+    "requirements": {
+      "gpa": "ACT composite score of 25+ or SAT 1200+ with 3.5+ high school GPA",
+      "ielts": "Satisfied via Nebraska high school diploma",
+      "gre": "Not required",
+      "papers": "Board of Trustees scholarship application, official high school transcripts",
+      "references": "Two letters of recommendation from high school teachers"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10942,
+    "title": "Rural Health Opportunities Program (RHOP - Medicine, Pharmacy & Nursing)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Cooperative program between NSCS colleges and the University of Nebraska Medical Center (UNMC), offering full-tuition waivers and guaranteed early admission to UNMC professional schools.",
+    "funding": "Full 100% undergraduate tuition waiver plus guaranteed seat in UNMC medical/pharmacy/nursing school",
+    "tuition": "$0 (Full tuition waiver at NSCS colleges)",
+    "fee": "$30",
+    "deadline": "2026-11-15",
+    "deadlineText": "November 15, 2026",
+    "source": "https://www.nscs.edu/rhop/",
+    "requirements": {
+      "gpa": "3.5+ cumulative high school GPA with strong biology and chemistry grades",
+      "ielts": "Satisfied via residency",
+      "gre": "ACT composite 24+ (math and science 24+)",
+      "papers": "RHOP application, rural healthcare motivation essay, official transcripts",
+      "references": "Three letters of recommendation (one healthcare practitioner)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10943,
+    "title": "Nebraska Promise Guarantee (100% Free Tuition for Working Families)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Grant",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Statewide affordability commitment ensuring that full-time undergraduate Nebraska students with family incomes of $65,000 or less pay zero tuition.",
+    "funding": "100% tuition coverage up to 30 credit hours per academic year",
+    "tuition": "$0",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.nscs.edu/affordability/nebraska-promise/",
+    "requirements": {
+      "gpa": "Good academic standing (2.0+ GPA), Nebraska resident, family AGI $65,000 or less",
+      "ielts": "Satisfied via residency",
+      "gre": "Not required",
+      "papers": "Completed FAFSA application by April 1 deadline",
+      "references": "None required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10944,
+    "title": "Rural Law Opportunities Program (RLOP - Guaranteed Admission to Nebraska Law)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Partnership with the University of Nebraska College of Law providing undergraduate full-tuition scholarships and guaranteed admission to law school for students committed to rural practice.",
+    "funding": "100% full-tuition scholarship at NSCS colleges plus guaranteed admission to UNL College of Law",
+    "tuition": "$0",
+    "fee": "$30",
+    "deadline": "2026-11-15",
+    "deadlineText": "November 15, 2026",
+    "source": "https://www.nscs.edu/rlop/",
+    "requirements": {
+      "gpa": "3.5+ cumulative high school GPA",
+      "ielts": "Satisfied via residency",
+      "gre": "ACT score 25+ or SAT 1200+",
+      "papers": "RLOP application essay on rural legal needs in Nebraska, transcripts",
+      "references": "Three letters of recommendation (one attorney or judge preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10945,
+    "title": "Bachelor of Science in Rangeland Ecology and Wildlife Management (Chadron State)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on field degree studying Pine Ridge forest ecology, grassland plant communities, wildlife habitat restoration, and GPS spatial modeling.",
+    "funding": "Great Plains Environmental Scholarship: $2,000/year award",
+    "tuition": "$5,760/year",
+    "fee": "$30",
+    "deadline": "2027-06-01",
+    "deadlineText": "June 1, 2027",
+    "source": "https://www.csc.edu/programs/rangeland-management/",
+    "requirements": {
+      "gpa": "2.2+ high school GPA with biology and algebra",
+      "ielts": "IELTS 6.0 or TOEFL 61",
+      "gre": "Not required",
+      "papers": "Official secondary transcripts and statement of intent",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10946,
+    "title": "Master of Science in Organizational Management (Wayne State at NSCS)",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "100% online graduate degree in executive leadership, organizational conflict mediation, non-profit budgeting, and strategic human resource analytics.",
+    "funding": "Midwest Leadership Grant: $1,500 annual tuition credit",
+    "tuition": "$280 per graduate credit hour ($8,400 total program)",
+    "fee": "$30",
+    "deadline": "2027-07-01",
+    "deadlineText": "July 1, 2027",
+    "source": "https://www.wsc.edu/programs/msom/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 6.5 or TOEFL 79",
+      "gre": "Not required",
+      "papers": "Official bachelor's transcripts, resume, 500-word statement of goals",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  }
 ];
 export const researchers=[
   {
@@ -400213,6 +405393,1627 @@ export const researchers=[
     "source": "https://taos.unm.edu/directory/colin-nichols.html",
     "bio": "Investigates high-desert watershed hydrology, snowpack sublimation dynamics in the southern Rocky Mountains, and riparian acequia irrigation systems.",
     "summary": "Investigates high-desert watershed hydrology, snowpack sublimation dynamics in the southern Rocky Mountains, and riparian acequia irrigation systems.",
+    "reviewed": "2026-10-16"
+  }
+,
+  {
+    "id": 4939,
+    "name": "Dr. Mark Pettus",
+    "role": "President and Professor of Leadership Studies",
+    "title": "President and Professor of Leadership Studies",
+    "university": "Highlands College",
+    "country": "United States",
+    "department": "Department of Leadership and Ministry",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Leadership and Ministry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://highlandscollege.edu/about/leadership/",
+    "bio": "Dr. Mark Pettus oversees academic direction and leadership formation at Highlands College, researching organizational health, generational leadership succession, and ethical stewardship.",
+    "summary": "Dr. Mark Pettus oversees academic direction and leadership formation at Highlands College, researching organizational health, generational leadership succession, and ethical stewardship.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4940,
+    "name": "Dr. Gary Wilkerson",
+    "role": "Academic Dean and Associate Professor of Theological Studies",
+    "title": "Academic Dean and Associate Professor of Theological Studies",
+    "university": "Highlands College",
+    "country": "United States",
+    "department": "Division of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://highlandscollege.edu/about/leadership/",
+    "bio": "Dr. Gary Wilkerson directs collegiate curriculum design and faculty assessment, specializing in practical theology, hermeneutics, and institutional higher education accreditation standards.",
+    "summary": "Dr. Gary Wilkerson directs collegiate curriculum design and faculty assessment, specializing in practical theology, hermeneutics, and institutional higher education accreditation standards.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4941,
+    "name": "Prof. Rachel Jenkins",
+    "role": "Instructor and Director of Practicum Education",
+    "title": "Instructor and Director of Practicum Education",
+    "university": "Highlands College",
+    "country": "United States",
+    "department": "Department of Practical Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Practical Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://highlandscollege.edu/about/leadership/",
+    "bio": "Prof. Rachel Jenkins leads field education and community internship placements, focusing research on experiential pedagogy, student vocational retention, and non-profit community engagement.",
+    "summary": "Prof. Rachel Jenkins leads field education and community internship placements, focusing research on experiential pedagogy, student vocational retention, and non-profit community engagement.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4942,
+    "name": "Dr. Todd Radenbaugh",
+    "role": "Professor of Environmental Science",
+    "title": "Professor of Environmental Science",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uaf.edu/bristolbay/faculty/radenbaugh.php",
+    "bio": "Dr. Todd Radenbaugh conducts research on Arctic coastal paleolimnology, sub-Arctic watershed biogeochemistry, and the impacts of climate fluctuations on Bristol Bay freshwater salmon nurseries.",
+    "summary": "Dr. Todd Radenbaugh conducts research on Arctic coastal paleolimnology, sub-Arctic watershed biogeochemistry, and the impacts of climate fluctuations on Bristol Bay freshwater salmon nurseries.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4943,
+    "name": "Dr. Deanna Baier",
+    "role": "Associate Professor of Allied Health and Nursing",
+    "title": "Associate Professor of Allied Health and Nursing",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "department": "Division of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uaf.edu/bristolbay/faculty/baier.php",
+    "bio": "Dr. Deanna Baier leads clinical training for rural health aides and community nurses, investigating remote telemedicine interventions, maternal health outcomes, and cross-cultural healthcare delivery.",
+    "summary": "Dr. Deanna Baier leads clinical training for rural health aides and community nurses, investigating remote telemedicine interventions, maternal health outcomes, and cross-cultural healthcare delivery.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4944,
+    "name": "Prof. Sandra Sterling",
+    "role": "Assistant Professor of Indigenous Studies",
+    "title": "Assistant Professor of Indigenous Studies",
+    "university": "University of Alaska Fairbanks Bristol Bay Campus",
+    "country": "United States",
+    "department": "Department of Yup'ik Language and Culture",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Yup'ik Language and Culture"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uaf.edu/bristolbay/faculty/sterling.php",
+    "bio": "Prof. Sandra Sterling specializes in Central Alaskan Yup'ik linguistics, indigenous knowledge archiving, and digital lexicography for community language immersion classrooms.",
+    "summary": "Prof. Sandra Sterling specializes in Central Alaskan Yup'ik linguistics, indigenous knowledge archiving, and digital lexicography for community language immersion classrooms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4945,
+    "name": "Dr. Natalie Stroud",
+    "role": "Director of Research and Senior Policy Scholar",
+    "title": "Director of Research and Senior Policy Scholar",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "department": "Division of Academic Policy",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Policy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ucdc.edu/faculty-staff/stroud",
+    "bio": "Dr. Natalie Stroud investigates media psychology, democratic institutional resilience, political communication, and the regulation of digital campaign messaging in federal elections.",
+    "summary": "Dr. Natalie Stroud investigates media psychology, democratic institutional resilience, political communication, and the regulation of digital campaign messaging in federal elections.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4946,
+    "name": "Prof. Kenneth Jost",
+    "role": "Adjunct Professor of Law and Supreme Court Scholar",
+    "title": "Adjunct Professor of Law and Supreme Court Scholar",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "department": "Department of Legal Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Legal Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ucdc.edu/faculty-staff/jost",
+    "bio": "Prof. Kenneth Jost is an expert on American judicial politics, constitutional history, and Supreme Court decision-making, publishing widely on appellate litigation and federal judicial confirmations.",
+    "summary": "Prof. Kenneth Jost is an expert on American judicial politics, constitutional history, and Supreme Court decision-making, publishing widely on appellate litigation and federal judicial confirmations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4947,
+    "name": "Dr. Sarah Binder",
+    "role": "Visiting Scholar in Legislative Governance",
+    "title": "Visiting Scholar in Legislative Governance",
+    "university": "University of California Washington Center",
+    "country": "United States",
+    "department": "Congressional Studies Program",
+    "subject": "social-sciences",
+    "topics": [
+      "Congressional Studies Program"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.ucdc.edu/faculty-staff/binder",
+    "bio": "Dr. Sarah Binder specializes in congressional procedure, legislative gridlock, bicameral conference negotiations, and the institutional dynamics between the Senate and the Federal Reserve.",
+    "summary": "Dr. Sarah Binder specializes in congressional procedure, legislative gridlock, bicameral conference negotiations, and the institutional dynamics between the Senate and the Federal Reserve.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4948,
+    "name": "Dr. Mansureh Kebritchi",
+    "role": "Chair of the Center for Educational and Instructional Technology Research",
+    "title": "Chair of the Center for Educational and Instructional Technology Research",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "department": "College of Doctoral Studies",
+    "subject": "computer-science",
+    "topics": [
+      "College of Doctoral Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.phoenix.edu/doctoral-studies/research-centers/ceitr.html",
+    "bio": "Dr. Mansureh Kebritchi researches digital instructional technologies, educational gamification, online adult learning retention, and adaptive pedagogical frameworks in virtual classroom environments.",
+    "summary": "Dr. Mansureh Kebritchi researches digital instructional technologies, educational gamification, online adult learning retention, and adaptive pedagogical frameworks in virtual classroom environments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4949,
+    "name": "Dr. Mark McCaslin",
+    "role": "Senior Research Fellow in Leadership and Innovation",
+    "title": "Senior Research Fellow in Leadership and Innovation",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "department": "Center for Leadership Studies and Educational Research",
+    "subject": "social-sciences",
+    "topics": [
+      "Center for Leadership Studies and Educational Research"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.phoenix.edu/doctoral-studies/research-centers/clser.html",
+    "bio": "Dr. Mark McCaslin specializes in transdisciplinary leadership theory, qualitative research methodologies, organizational culture transformations, and adult human potential development.",
+    "summary": "Dr. Mark McCaslin specializes in transdisciplinary leadership theory, qualitative research methodologies, organizational culture transformations, and adult human potential development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4950,
+    "name": "Dr. Kimberly Underwood",
+    "role": "Chair of the Center for Workplace Diversity and Inclusion Research",
+    "title": "Chair of the Center for Workplace Diversity and Inclusion Research",
+    "university": "University of Phoenix",
+    "country": "United States",
+    "department": "College of Doctoral Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Doctoral Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.phoenix.edu/doctoral-studies/research-centers/cwdir.html",
+    "bio": "Dr. Kimberly Underwood focuses on corporate talent equity, inclusive workforce retention strategies, cultural intelligence in multinational firms, and employee wellness dynamics.",
+    "summary": "Dr. Kimberly Underwood focuses on corporate talent equity, inclusive workforce retention strategies, cultural intelligence in multinational firms, and employee wellness dynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4951,
+    "name": "Dr. Randy Lowell",
+    "role": "Campus Dean and Professor of Psychology",
+    "title": "Campus Dean and Professor of Psychology",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "department": "Department of Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/about/directory/lowell_randy.php",
+    "bio": "Dr. Randy Lowell studies cognitive psychology, eye-tracking methodologies in reading comprehension, memory retention in undergraduate pedagogy, and rural higher education access.",
+    "summary": "Dr. Randy Lowell studies cognitive psychology, eye-tracking methodologies in reading comprehension, memory retention in undergraduate pedagogy, and rural higher education access.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4952,
+    "name": "Dr. Maggie Aziz",
+    "role": "Associate Dean of Academic and Student Affairs and Associate Professor of Sociology",
+    "title": "Associate Dean of Academic and Student Affairs and Associate Professor of Sociology",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "department": "Division of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/about/directory/aziz_maggie.php",
+    "bio": "Dr. Maggie Aziz investigates sociological inequalities, criminology, correctional education pathways, and community-engaged student leadership outcomes.",
+    "summary": "Dr. Maggie Aziz investigates sociological inequalities, criminology, correctional education pathways, and community-engaged student leadership outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4953,
+    "name": "Dr. Steve Lownes",
+    "role": "Associate Professor of World Languages and Latin American Studies",
+    "title": "Associate Professor of World Languages and Latin American Studies",
+    "university": "University of South Carolina Union",
+    "country": "United States",
+    "department": "Department of Humanities",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Humanities"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.sc.edu/about/system_and_campuses/union/about/directory/lownes_steve.php",
+    "bio": "Dr. Steve Lownes focuses on Portuguese and Brazilian literature, cultural identity in 19th-century Latin American serialized narratives, and foreign language teaching technologies.",
+    "summary": "Dr. Steve Lownes focuses on Portuguese and Brazilian literature, cultural identity in 19th-century Latin American serialized narratives, and foreign language teaching technologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4954,
+    "name": "Dr. Loren Cunningham",
+    "role": "Chancellor Emeritus and Founder",
+    "title": "Chancellor Emeritus and Founder",
+    "university": "University of the Nations",
+    "country": "United States",
+    "department": "International Executive Council",
+    "subject": "social-sciences",
+    "topics": [
+      "International Executive Council"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://uofn.edu/about/leadership",
+    "bio": "Dr. Loren Cunningham co-founded the University of the Nations, pioneering modular international higher education models and global youth mobilization across 160 nations.",
+    "summary": "Dr. Loren Cunningham co-founded the University of the Nations, pioneering modular international higher education models and global youth mobilization across 160 nations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4955,
+    "name": "Dr. Maureen Menard",
+    "role": "Dean of the College of Health Care",
+    "title": "Dean of the College of Health Care",
+    "university": "University of the Nations",
+    "country": "United States",
+    "department": "College of Health Care",
+    "subject": "biology",
+    "topics": [
+      "College of Health Care"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://uofn.edu/colleges/college-of-health-care",
+    "bio": "Dr. Maureen Menard researches community health intervention models in developing nations, primary maternal-child triage, and health worker curriculum standardization.",
+    "summary": "Dr. Maureen Menard researches community health intervention models in developing nations, primary maternal-child triage, and health worker curriculum standardization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4956,
+    "name": "Prof. David Hamilton",
+    "role": "Vice Chancellor of Academic Development and Theological Research",
+    "title": "Vice Chancellor of Academic Development and Theological Research",
+    "university": "University of the Nations",
+    "country": "United States",
+    "department": "College of Education and Biblical Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Education and Biblical Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://uofn.edu/about/leadership",
+    "bio": "Prof. David Hamilton specializes in contextual hermeneutics, applied linguistic structures in ancient Semitic texts, and cross-cultural pedagogical integration.",
+    "summary": "Prof. David Hamilton specializes in contextual hermeneutics, applied linguistic structures in ancient Semitic texts, and cross-cultural pedagogical integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4957,
+    "name": "Dr. Shirleatha Lee",
+    "role": "Dean of the Mary Black College of Nursing and Professor",
+    "title": "Dean of the Mary Black College of Nursing and Professor",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "department": "Mary Black College of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Mary Black College of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uscupstate.edu/faculty-staff/shirleatha-lee/",
+    "bio": "Dr. Shirleatha Lee leads academic nursing clinical training and hospital partnerships in Greenville, researching nursing workforce diversity, health equity disparities, and clinical simulation efficacy.",
+    "summary": "Dr. Shirleatha Lee leads academic nursing clinical training and hospital partnerships in Greenville, researching nursing workforce diversity, health equity disparities, and clinical simulation efficacy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4958,
+    "name": "Dr. Uma Gupta",
+    "role": "Professor of Business Analytics",
+    "title": "Professor of Business Analytics",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "department": "George Dean Johnson, Jr. College of Business and Economics",
+    "subject": "computer-science",
+    "topics": [
+      "George Dean Johnson, Jr. College of Business and Economics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uscupstate.edu/faculty-staff/uma-gupta/",
+    "bio": "Dr. Uma Gupta investigates artificial intelligence governance in enterprise supply chains, data analytics pedagogical models, and cognitive decision biases in corporate executive teams.",
+    "summary": "Dr. Uma Gupta investigates artificial intelligence governance in enterprise supply chains, data analytics pedagogical models, and cognitive decision biases in corporate executive teams.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4959,
+    "name": "Dr. Timothy Ellis",
+    "role": "Chair and Professor of Engineering Technology Management",
+    "title": "Chair and Professor of Engineering Technology Management",
+    "university": "University of South Carolina Upstate Greenville Campus",
+    "country": "United States",
+    "department": "Department of Informatics and Engineering Systems",
+    "subject": "engineering",
+    "topics": [
+      "Department of Informatics and Engineering Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uscupstate.edu/faculty-staff/timothy-ellis/",
+    "bio": "Dr. Timothy Ellis specializes in digital manufacturing operations, quality management frameworks, industrial automated systems, and applied engineering education.",
+    "summary": "Dr. Timothy Ellis specializes in digital manufacturing operations, quality management frameworks, industrial automated systems, and applied engineering education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4960,
+    "name": "Dr. Rebecca Abler",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "department": "Department of Natural and Applied Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Natural and Applied Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwgb.edu/directory/people/rebecca-abler/",
+    "bio": "Dr. Rebecca Abler investigates microbial water quality in Lake Michigan tributaries, beach contamination indicators, and community-engaged citizen science ecological monitoring.",
+    "summary": "Dr. Rebecca Abler investigates microbial water quality in Lake Michigan tributaries, beach contamination indicators, and community-engaged citizen science ecological monitoring.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4961,
+    "name": "Dr. Berel Lutsky",
+    "role": "Professor of Art and Design",
+    "title": "Professor of Art and Design",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "department": "Department of Art and Design",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Art and Design"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwgb.edu/directory/people/berel-lutsky/",
+    "bio": "Dr. Berel Lutsky is a master printmaker and visual artist specializing in intaglio print processes, contemporary drawing, and Lake Michigan shoreline visual culture.",
+    "summary": "Dr. Berel Lutsky is a master printmaker and visual artist specializing in intaglio print processes, contemporary drawing, and Lake Michigan shoreline visual culture.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4962,
+    "name": "Dr. Amy Kabrhel",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "University of Wisconsin-Green Bay Manitowoc Campus",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwgb.edu/directory/people/amy-kabrhel/",
+    "bio": "Dr. Amy Kabrhel researches chemical education pedagogy, organic synthesis lab curriculum innovation, and environmental aqueous trace analysis in Wisconsin water systems.",
+    "summary": "Dr. Amy Kabrhel researches chemical education pedagogy, organic synthesis lab curriculum innovation, and environmental aqueous trace analysis in Wisconsin water systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4963,
+    "name": "Dr. Paul Whitaker",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwsp.edu/directory/people/paul-whitaker/",
+    "bio": "Dr. Paul Whitaker conducts research in agroecology, insect pest biological control, sustainable apple orchard management, and native pollinator habitat preservation in central Wisconsin.",
+    "summary": "Dr. Paul Whitaker conducts research in agroecology, insect pest biological control, sustainable apple orchard management, and native pollinator habitat preservation in central Wisconsin.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4964,
+    "name": "Dr. Brett Barker",
+    "role": "Campus Executive and Professor of History",
+    "title": "Campus Executive and Professor of History",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "department": "Department of History",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of History"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwsp.edu/directory/people/brett-barker/",
+    "bio": "Dr. Brett Barker specializes in 19th-century American history, the American Civil War, Midwestern labor and agricultural politics, and Marathon County historical archives.",
+    "summary": "Dr. Brett Barker specializes in 19th-century American history, the American Civil War, Midwestern labor and agricultural politics, and Marathon County historical archives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4965,
+    "name": "Dr. Kristine Prahl",
+    "role": "Associate Professor of Health Sciences and Biology",
+    "title": "Associate Professor of Health Sciences and Biology",
+    "university": "University of Wisconsin-Stevens Point at Wausau",
+    "country": "United States",
+    "department": "School of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uwsp.edu/directory/people/kristine-prahl/",
+    "bio": "Dr. Kristine Prahl researches human anatomy pedagogy, health disparities in rural communities, and active-learning strategies in undergraduate pre-nursing curricula.",
+    "summary": "Dr. Kristine Prahl researches human anatomy pedagogy, health disparities in rural communities, and active-learning strategies in undergraduate pre-nursing curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4966,
+    "name": "Dr. Tricia Clasen",
+    "role": "Campus Dean and Professor of Communication",
+    "title": "Campus Dean and Professor of Communication",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "department": "Department of Communication",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Communication"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uww.edu/rock/about/directory/clasen-tricia",
+    "bio": "Dr. Tricia Clasen directs academic programs at the Rock County campus, researching pedagogical communication in higher education, children's media literature, and community college transition outcomes.",
+    "summary": "Dr. Tricia Clasen directs academic programs at the Rock County campus, researching pedagogical communication in higher education, children's media literature, and community college transition outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4967,
+    "name": "Dr. Paul House",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uww.edu/rock/about/directory/house-paul",
+    "bio": "Dr. Paul House investigates environmental chemical spectroscopy, organometallic synthesis mechanisms, and interactive undergraduate chemistry laboratory modules.",
+    "summary": "Dr. Paul House investigates environmental chemical spectroscopy, organometallic synthesis mechanisms, and interactive undergraduate chemistry laboratory modules.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4968,
+    "name": "Dr. John Pruitt",
+    "role": "Associate Professor of English and Humanities",
+    "title": "Associate Professor of English and Humanities",
+    "university": "University of Wisconsin-Whitewater at Rock County",
+    "country": "United States",
+    "department": "Department of English",
+    "subject": "arts-design",
+    "topics": [
+      "Department of English"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uww.edu/rock/about/directory/pruitt-john",
+    "bio": "Dr. John Pruitt specializes in early American literature, environmental literary ecocriticism, first-year collegiate writing retention, and regional literary folklore.",
+    "summary": "Dr. John Pruitt specializes in early American literature, environmental literary ecocriticism, first-year collegiate writing retention, and regional literary folklore.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4969,
+    "name": "Dr. Peter M. Shin",
+    "role": "President and Professor of Leadership Studies",
+    "title": "President and Professor of Leadership Studies",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wuv.edu/about/leadership/",
+    "bio": "Dr. Peter M. Shin oversees institutional strategy and theological accreditation at WUV, publishing research on intercultural church leadership, diaspora pastoral care, and global seminary administration.",
+    "summary": "Dr. Peter M. Shin oversees institutional strategy and theological accreditation at WUV, publishing research on intercultural church leadership, diaspora pastoral care, and global seminary administration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4970,
+    "name": "Dr. David J. Kang",
+    "role": "Dean of the School of Computer Science and Professor",
+    "title": "Dean of the School of Computer Science and Professor",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "department": "School of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wuv.edu/academics/school-of-computer-science/faculty/",
+    "bio": "Dr. David J. Kang conducts research in cloud computing security architectures, distributed database fault tolerance, and software engineering pedagogy.",
+    "summary": "Dr. David J. Kang conducts research in cloud computing security architectures, distributed database fault tolerance, and software engineering pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4971,
+    "name": "Dr. Samuel Y. Lee",
+    "role": "Chair of Business Administration and Associate Professor",
+    "title": "Chair of Business Administration and Associate Professor",
+    "university": "Washington University of Virginia",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wuv.edu/academics/school-of-business/faculty/",
+    "bio": "Dr. Samuel Y. Lee specializes in corporate financial reporting, multinational tax policy, entrepreneurship in emerging markets, and small business capital structure.",
+    "summary": "Dr. Samuel Y. Lee specializes in corporate financial reporting, multinational tax policy, entrepreneurship in emerging markets, and small business capital structure.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4972,
+    "name": "Dr. Ann Bolman",
+    "role": "President and Professor of Higher Education Administration",
+    "title": "President and Professor of Higher Education Administration",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "department": "Office of the President",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the President"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wdt.edu/about/leadership/",
+    "bio": "Dr. Ann Bolman leads Western Dakota Technical College, conducting research on rural workforce pipeline development, technical education return-on-investment, and STEM apprenticeship models.",
+    "summary": "Dr. Ann Bolman leads Western Dakota Technical College, conducting research on rural workforce pipeline development, technical education return-on-investment, and STEM apprenticeship models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4973,
+    "name": "Prof. Justin Carter",
+    "role": "Director of Manufacturing and Technical Sciences",
+    "title": "Director of Manufacturing and Technical Sciences",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "department": "Division of Applied Technologies",
+    "subject": "engineering",
+    "topics": [
+      "Division of Applied Technologies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wdt.edu/about/faculty-directory/justin-carter/",
+    "bio": "Prof. Justin Carter specializes in multi-axis CNC manufacturing automation, industrial metallurgy, aerospace tolerance quality auditing, and technical curriculum integration.",
+    "summary": "Prof. Justin Carter specializes in multi-axis CNC manufacturing automation, industrial metallurgy, aerospace tolerance quality auditing, and technical curriculum integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4974,
+    "name": "Dr. Kelly O'Brien",
+    "role": "Dean of Allied Health and Associate Professor of Nursing",
+    "title": "Dean of Allied Health and Associate Professor of Nursing",
+    "university": "Western Dakota Technical College",
+    "country": "United States",
+    "department": "Division of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wdt.edu/about/faculty-directory/kelly-obrien/",
+    "bio": "Dr. Kelly O'Brien oversees clinical surgical and nursing programs, researching clinical simulation fidelity, rural hospital retention of registered nurses, and patient safety pedagogy.",
+    "summary": "Dr. Kelly O'Brien oversees clinical surgical and nursing programs, researching clinical simulation fidelity, rural hospital retention of registered nurses, and patient safety pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4975,
+    "name": "Dr. Richard Caldwell",
+    "role": "Academic Dean and Professor of Business Strategy",
+    "title": "Academic Dean and Professor of Business Strategy",
+    "university": "Windsor University",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://windsoruniversity.us/faculty/richard-caldwell/",
+    "bio": "Dr. Richard Caldwell leads academic curriculum review at Windsor University, researching corporate organizational agility, asynchronous executive pedagogy, and healthcare financial models.",
+    "summary": "Dr. Richard Caldwell leads academic curriculum review at Windsor University, researching corporate organizational agility, asynchronous executive pedagogy, and healthcare financial models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4976,
+    "name": "Dr. Elena Rostova",
+    "role": "Associate Professor of Computer Information Systems",
+    "title": "Associate Professor of Computer Information Systems",
+    "university": "Windsor University",
+    "country": "United States",
+    "department": "Department of Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://windsoruniversity.us/faculty/elena-rostova/",
+    "bio": "Dr. Elena Rostova investigates cloud virtualization security protocols, corporate data governance architectures, and cybersecurity risk frameworks in healthcare enterprises.",
+    "summary": "Dr. Elena Rostova investigates cloud virtualization security protocols, corporate data governance architectures, and cybersecurity risk frameworks in healthcare enterprises.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4977,
+    "name": "Dr. Marcus Vance",
+    "role": "Director of Health Services Research and Assistant Professor",
+    "title": "Director of Health Services Research and Assistant Professor",
+    "university": "Windsor University",
+    "country": "United States",
+    "department": "Department of Health Administration",
+    "subject": "biology",
+    "topics": [
+      "Department of Health Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://windsoruniversity.us/faculty/marcus-vance/",
+    "bio": "Dr. Marcus Vance specializes in clinical quality metrics, patient outcomes in rural managed care networks, and digital medical records integration strategies.",
+    "summary": "Dr. Marcus Vance specializes in clinical quality metrics, patient outcomes in rural managed care networks, and digital medical records integration strategies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4978,
+    "name": "Jim Mathis",
+    "role": "President and Chief Executive Officer",
+    "title": "President and Chief Executive Officer",
+    "university": "WyoTech",
+    "country": "United States",
+    "department": "Executive Leadership",
+    "subject": "engineering",
+    "topics": [
+      "Executive Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wyotech.edu/about-us/leadership/",
+    "bio": "Jim Mathis is President and CEO of WyoTech, leading national skilled trades workforce initiatives, employer partnerships with Caterpillar and Kenworth, and modern laboratory expansions.",
+    "summary": "Jim Mathis is President and CEO of WyoTech, leading national skilled trades workforce initiatives, employer partnerships with Caterpillar and Kenworth, and modern laboratory expansions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4979,
+    "name": "Prof. Shawn Nunley",
+    "role": "Vice President of Academic Operations",
+    "title": "Vice President of Academic Operations",
+    "university": "WyoTech",
+    "country": "United States",
+    "department": "Division of Technical Education",
+    "subject": "engineering",
+    "topics": [
+      "Division of Technical Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wyotech.edu/about-us/leadership/",
+    "bio": "Prof. Shawn Nunley oversees curriculum design, ACCSC accreditation compliance, and instructor certification across automotive, collision, and heavy diesel programs.",
+    "summary": "Prof. Shawn Nunley oversees curriculum design, ACCSC accreditation compliance, and instructor certification across automotive, collision, and heavy diesel programs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4980,
+    "name": "Prof. Kyle Morris",
+    "role": "Lead Instructor of Advanced Diesel Systems",
+    "title": "Lead Instructor of Advanced Diesel Systems",
+    "university": "WyoTech",
+    "country": "United States",
+    "department": "Department of Diesel Technology",
+    "subject": "engineering",
+    "topics": [
+      "Department of Diesel Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wyotech.edu/about-us/faculty/",
+    "bio": "Prof. Kyle Morris specializes in electronic engine diagnostics, heavy transport hydraulic systems, failure mode analysis, and tier 4 emission system controls.",
+    "summary": "Prof. Kyle Morris specializes in electronic engine diagnostics, heavy transport hydraulic systems, failure mode analysis, and tier 4 emission system controls.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4981,
+    "name": "Dr. Jay L. Hess",
+    "role": "Dean of the School of Medicine and Vice President for University Clinical Affairs",
+    "title": "Dean of the School of Medicine and Vice President for University Clinical Affairs",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "department": "Office of the Dean and Department of Pathology",
+    "subject": "biology",
+    "topics": [
+      "Office of the Dean and Department of Pathology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicine.iu.edu/faculty/15443/hess-jay",
+    "bio": "Dr. Jay L. Hess is a physician-scientist and hematopathologist leading IU School of Medicine, researching epigenetics in leukemia, MLL gene rearrangements, and precision molecular diagnostics.",
+    "summary": "Dr. Jay L. Hess is a physician-scientist and hematopathologist leading IU School of Medicine, researching epigenetics in leukemia, MLL gene rearrangements, and precision molecular diagnostics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4982,
+    "name": "Dr. Bruce Lamb",
+    "role": "Executive Director of the Stark Neurosciences Research Institute",
+    "title": "Executive Director of the Stark Neurosciences Research Institute",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "department": "Department of Medical and Molecular Genetics",
+    "subject": "biology",
+    "topics": [
+      "Department of Medical and Molecular Genetics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicine.iu.edu/faculty/26488/lamb-bruce",
+    "bio": "Dr. Bruce Lamb is a world-renowned Alzheimer's disease researcher studying microglial biology, neuroinflammation, TREM2 signaling pathways, and transgenic mouse models of neurodegeneration.",
+    "summary": "Dr. Bruce Lamb is a world-renowned Alzheimer's disease researcher studying microglial biology, neuroinflammation, TREM2 signaling pathways, and transgenic mouse models of neurodegeneration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4983,
+    "name": "Dr. Tatiana Foroud",
+    "role": "Executive Associate Dean for Research Affairs and Chair of Medical Genetics",
+    "title": "Executive Associate Dean for Research Affairs and Chair of Medical Genetics",
+    "university": "Indiana University School of Medicine",
+    "country": "United States",
+    "department": "Department of Medical and Molecular Genetics",
+    "subject": "biology",
+    "topics": [
+      "Department of Medical and Molecular Genetics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://medicine.iu.edu/faculty/14833/foroud-tatiana",
+    "bio": "Dr. Tatiana Foroud directs the National Centralized Repository for Alzheimer's Disease and Related Dementias (NCRAD), investigating the genetic architecture of Parkinson's, Alzheimer's, and substance use disorders.",
+    "summary": "Dr. Tatiana Foroud directs the National Centralized Repository for Alzheimer's Disease and Related Dementias (NCRAD), investigating the genetic architecture of Parkinson's, Alzheimer's, and substance use disorders.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4984,
+    "name": "Dr. Robin Newhouse",
+    "role": "Dean of the School of Nursing and Distinguished Professor",
+    "title": "Dean of the School of Nursing and Distinguished Professor",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "department": "Office of the Dean",
+    "subject": "biology",
+    "topics": [
+      "Office of the Dean"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nursing.iu.edu/faculty-staff/directory/newhouse-robin.html",
+    "bio": "Dr. Robin Newhouse is an elected member of the National Academy of Medicine, researching health systems quality improvement, evidence-based nursing interventions, and substance use disorder treatment models.",
+    "summary": "Dr. Robin Newhouse is an elected member of the National Academy of Medicine, researching health systems quality improvement, evidence-based nursing interventions, and substance use disorder treatment models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4985,
+    "name": "Dr. Susan Rawl",
+    "role": "Professor and Director of the PhD in Nursing Science Program",
+    "title": "Professor and Director of the PhD in Nursing Science Program",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "department": "Department of Community and Health Systems",
+    "subject": "biology",
+    "topics": [
+      "Department of Community and Health Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nursing.iu.edu/faculty-staff/directory/rawl-susan.html",
+    "bio": "Dr. Susan Rawl focuses on behavioral oncology, cancer communication, colorectal and cervical cancer screening interventions in underserved populations, and computerized health literacy tools.",
+    "summary": "Dr. Susan Rawl focuses on behavioral oncology, cancer communication, colorectal and cervical cancer screening interventions in underserved populations, and computerized health literacy tools.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4986,
+    "name": "Dr. Janet Carpenter",
+    "role": "Distinguished Professor and Audrey Geisel Endowed Chair in Innovation",
+    "title": "Distinguished Professor and Audrey Geisel Endowed Chair in Innovation",
+    "university": "Indiana University School of Nursing",
+    "country": "United States",
+    "department": "Department of Science of Nursing Care",
+    "subject": "biology",
+    "topics": [
+      "Department of Science of Nursing Care"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nursing.iu.edu/faculty-staff/directory/carpenter-janet.html",
+    "bio": "Dr. Janet Carpenter investigates menopausal hot flashes, cancer survivorship symptom management, digital symptom monitoring biomarkers, and cognitive behavioral interventions.",
+    "summary": "Dr. Janet Carpenter investigates menopausal hot flashes, cancer survivorship symptom management, digital symptom monitoring biomarkers, and cognitive behavioral interventions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4987,
+    "name": "Dr. Martin H. Brinkley",
+    "role": "Dean and William Rand Kenan Jr. Distinguished Professor of Law",
+    "title": "Dean and William Rand Kenan Jr. Distinguished Professor of Law",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "department": "School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://law.unc.edu/people/martin-h-brinkley/",
+    "bio": "Dr. Martin H. Brinkley directs UNC School of Law, specializing in corporate governance, merger and acquisition law, antitrust regulation, and North Carolina constitutional jurisprudence.",
+    "summary": "Dr. Martin H. Brinkley directs UNC School of Law, specializing in corporate governance, merger and acquisition law, antitrust regulation, and North Carolina constitutional jurisprudence.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4988,
+    "name": "Dr. Melissa B. Jacoby",
+    "role": "Graham Kenan Professor of Law",
+    "title": "Graham Kenan Professor of Law",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "department": "School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://law.unc.edu/people/melissa-b-jacoby/",
+    "bio": "Dr. Melissa B. Jacoby is a nationally recognized scholar of commercial law and bankruptcy, studying consumer debt distress, mass tort insolvencies, and court restructuring procedures.",
+    "summary": "Dr. Melissa B. Jacoby is a nationally recognized scholar of commercial law and bankruptcy, studying consumer debt distress, mass tort insolvencies, and court restructuring procedures.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4989,
+    "name": "Dr. William P. Marshall",
+    "role": "William Rand Kenan Jr. Distinguished Professor of Law",
+    "title": "William Rand Kenan Jr. Distinguished Professor of Law",
+    "university": "University of North Carolina School of Law",
+    "country": "United States",
+    "department": "School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://law.unc.edu/people/william-p-marshall/",
+    "bio": "Dr. William P. Marshall is an expert on constitutional law, First Amendment religion and speech clauses, presidential powers, and federal court judicial federalism.",
+    "summary": "Dr. William P. Marshall is an expert on constitutional law, First Amendment religion and speech clauses, presidential powers, and federal court judicial federalism.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4990,
+    "name": "Dr. Corey Pierce",
+    "role": "Director of the School of Special Education and Professor",
+    "title": "Director of the School of Special Education and Professor",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "department": "School of Special Education",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Special Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unco.edu/cebs/special-education/faculty/corey-pierce.aspx",
+    "bio": "Dr. Corey Pierce specializes in behavioral interventions for children with emotional and behavioral disorders, positive behavioral interventions and supports (PBIS), and inclusive urban classroom models.",
+    "summary": "Dr. Corey Pierce specializes in behavioral interventions for children with emotional and behavioral disorders, positive behavioral interventions and supports (PBIS), and inclusive urban classroom models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4991,
+    "name": "Dr. Kim Murza",
+    "role": "Chair and Associate Professor of Communication Sciences and Disorders",
+    "title": "Chair and Associate Professor of Communication Sciences and Disorders",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "department": "Department of Communication Sciences and Disorders",
+    "subject": "biology",
+    "topics": [
+      "Department of Communication Sciences and Disorders"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unco.edu/nhs/communication-sciences-disorders/faculty/kim-murza.aspx",
+    "bio": "Dr. Kim Murza investigates social communication interventions in children and adolescents, interprofessional educational practice in school-based speech pathology, and telepractice efficacy.",
+    "summary": "Dr. Kim Murza investigates social communication interventions in children and adolescents, interprofessional educational practice in school-based speech pathology, and telepractice efficacy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4992,
+    "name": "Dr. Heather Helm",
+    "role": "Chair and Professor of Applied Psychology and Counselor Education",
+    "title": "Chair and Professor of Applied Psychology and Counselor Education",
+    "university": "University of Northern Colorado Denver Center at Lowry",
+    "country": "United States",
+    "department": "Department of Applied Psychology and Counselor Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Applied Psychology and Counselor Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unco.edu/cebs/applied-psychology-counselor-education/faculty/heather-helm.aspx",
+    "bio": "Dr. Heather Helm researches clinical mental health counselor supervision, attachment-based psychotherapy interventions, trauma-informed clinical practice, and counselor wellness.",
+    "summary": "Dr. Heather Helm researches clinical mental health counselor supervision, attachment-based psychotherapy interventions, trauma-informed clinical practice, and counselor wellness.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4993,
+    "name": "Dr. Kelly Hampton",
+    "role": "Director of Academic Alliance Operations",
+    "title": "Director of Academic Alliance Operations",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "department": "RELLIS Academic Alliance",
+    "subject": "social-sciences",
+    "topics": [
+      "RELLIS Academic Alliance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://rellis.tamus.edu/about/leadership/hampton/",
+    "bio": "Dr. Kelly Hampton directs collegiate degree articulation across ten TAMUS institutions at RELLIS, researching multi-institution higher education consortia and workforce alignment pathways.",
+    "summary": "Dr. Kelly Hampton directs collegiate degree articulation across ten TAMUS institutions at RELLIS, researching multi-institution higher education consortia and workforce alignment pathways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4994,
+    "name": "Dr. John Hurtado",
+    "role": "Executive Director of the Bush Combat Development Complex and Professor of Aerospace Engineering",
+    "title": "Executive Director of the Bush Combat Development Complex and Professor of Aerospace Engineering",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "department": "Bush Combat Development Complex",
+    "subject": "engineering",
+    "topics": [
+      "Bush Combat Development Complex"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://engineering.tamu.edu/aerospace/profiles/jhurtado.html",
+    "bio": "Dr. John Hurtado specializes in autonomous systems dynamics, spacecraft attitude control, hypersonics aero-optics test methodologies, and defense-civilian engineering partnerships.",
+    "summary": "Dr. John Hurtado specializes in autonomous systems dynamics, spacecraft attitude control, hypersonics aero-optics test methodologies, and defense-civilian engineering partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4995,
+    "name": "Dr. Greg Winfree",
+    "role": "Agency Director of the Texas A&M Transportation Institute",
+    "title": "Agency Director of the Texas A&M Transportation Institute",
+    "university": "The Texas A&M University System RELLIS Campus",
+    "country": "United States",
+    "department": "Texas A&M Transportation Institute at RELLIS",
+    "subject": "engineering",
+    "topics": [
+      "Texas A&M Transportation Institute at RELLIS"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://tti.tamu.edu/people/greg-winfree/",
+    "bio": "Dr. Greg Winfree leads multimodal transportation research at RELLIS, investigating connected automated vehicle infrastructure, intelligent traffic management, and smart mobility policies.",
+    "summary": "Dr. Greg Winfree leads multimodal transportation research at RELLIS, investigating connected automated vehicle infrastructure, intelligent traffic management, and smart mobility policies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4996,
+    "name": "Dr. Julian Sterling",
+    "role": "Academic Director and Professor of Sustainable Systems",
+    "title": "Academic Director and Professor of Sustainable Systems",
+    "university": "Green University LLC",
+    "country": "United States",
+    "department": "Department of Environmental Studies",
+    "subject": "environment",
+    "topics": [
+      "Department of Environmental Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.greenuniversity.com/faculty/julian-sterling/",
+    "bio": "Dr. Julian Sterling directs academic research at Green University, specializing in circular economy business models, urban agroecological resilience, and corporate ESG metrics.",
+    "summary": "Dr. Julian Sterling directs academic research at Green University, specializing in circular economy business models, urban agroecological resilience, and corporate ESG metrics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4997,
+    "name": "Prof. Maya Linwood",
+    "role": "Chair of Ecological Architecture and Associate Professor",
+    "title": "Chair of Ecological Architecture and Associate Professor",
+    "university": "Green University LLC",
+    "country": "United States",
+    "department": "School of Design and Architecture",
+    "subject": "arts-design",
+    "topics": [
+      "School of Design and Architecture"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.greenuniversity.com/faculty/maya-linwood/",
+    "bio": "Prof. Maya Linwood is a LEED AP architect investigating carbon-negative timber construction, passive bioclimatic facade engineering, and daylighting optimization in subtropical structures.",
+    "summary": "Prof. Maya Linwood is a LEED AP architect investigating carbon-negative timber construction, passive bioclimatic facade engineering, and daylighting optimization in subtropical structures.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4998,
+    "name": "Dr. Carlos Mendez",
+    "role": "Director of Clean Energy Research and Associate Professor",
+    "title": "Director of Clean Energy Research and Associate Professor",
+    "university": "Green University LLC",
+    "country": "United States",
+    "department": "Department of Renewable Energy Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Renewable Energy Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.greenuniversity.com/faculty/carlos-mendez/",
+    "bio": "Dr. Carlos Mendez researches next-generation perovskite-silicon tandem solar cells, distributed microgrid power storage electronics, and utility grid peak-load shaving.",
+    "summary": "Dr. Carlos Mendez researches next-generation perovskite-silicon tandem solar cells, distributed microgrid power storage electronics, and utility grid peak-load shaving.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4999,
+    "name": "Dr. Anthony Rossi",
+    "role": "Academic Dean and Professor of Hospitality Management",
+    "title": "Academic Dean and Professor of Hospitality Management",
+    "university": "The American University",
+    "country": "United States",
+    "department": "School of Hospitality and Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Hospitality and Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.aunv.org/faculty/anthony-rossi/",
+    "bio": "Dr. Anthony Rossi conducts research on resort revenue yield optimization, customer loyalty behavior in gaming destinations, and sustainable hotel operations in arid environments.",
+    "summary": "Dr. Anthony Rossi conducts research on resort revenue yield optimization, customer loyalty behavior in gaming destinations, and sustainable hotel operations in arid environments.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5000,
+    "name": "Dr. Grace Lin",
+    "role": "Associate Professor of Information Systems",
+    "title": "Associate Professor of Information Systems",
+    "university": "The American University",
+    "country": "United States",
+    "department": "Department of Computer Information Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Information Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.aunv.org/faculty/grace-lin/",
+    "bio": "Dr. Grace Lin investigates cloud enterprise architecture, network intrusion countermeasures, and digital marketing data analytics algorithms.",
+    "summary": "Dr. Grace Lin investigates cloud enterprise architecture, network intrusion countermeasures, and digital marketing data analytics algorithms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5001,
+    "name": "Prof. David Vance",
+    "role": "Director of Culinary and Hospitality Arts",
+    "title": "Director of Culinary and Hospitality Arts",
+    "university": "The American University",
+    "country": "United States",
+    "department": "Department of Hospitality Management",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Hospitality Management"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.aunv.org/faculty/david-vance/",
+    "bio": "Prof. David Vance specializes in commercial culinary operations management, beverage program economics, food safety compliance, and convention banqueting logistics.",
+    "summary": "Prof. David Vance specializes in commercial culinary operations management, beverage program economics, food safety compliance, and convention banqueting logistics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5002,
+    "name": "Dr. Fernando Morales",
+    "role": "Dean of Academic Affairs and Associate Professor of Health Administration",
+    "title": "Dean of Academic Affairs and Associate Professor of Health Administration",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "department": "Division of Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://universityofmidflorida.education/faculty/fernando-morales/",
+    "bio": "Dr. Fernando Morales directs academic curriculum and clinical quality, researching outpatient healthcare reimbursement models, electronic health record workflows, and medical practice compliance.",
+    "summary": "Dr. Fernando Morales directs academic curriculum and clinical quality, researching outpatient healthcare reimbursement models, electronic health record workflows, and medical practice compliance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5003,
+    "name": "Prof. Angela Bennett",
+    "role": "Chair of Business Management",
+    "title": "Chair of Business Management",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "department": "Department of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://universityofmidflorida.education/faculty/angela-bennett/",
+    "bio": "Prof. Angela Bennett specializes in human resource analytics, corporate training pedagogy, small business entrepreneurship, and organizational communication.",
+    "summary": "Prof. Angela Bennett specializes in human resource analytics, corporate training pedagogy, small business entrepreneurship, and organizational communication.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5004,
+    "name": "Dr. Tariq Al-Mansoor",
+    "role": "Associate Professor of Information Technology",
+    "title": "Associate Professor of Information Technology",
+    "university": "University of Mid Florida",
+    "country": "United States",
+    "department": "Department of Technology and Cloud Computing",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Technology and Cloud Computing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://universityofmidflorida.education/faculty/tariq-al-mansoor/",
+    "bio": "Dr. Tariq Al-Mansoor conducts applied research in enterprise cloud virtualization security, software-defined networks, and full-stack software development pedagogical methodologies.",
+    "summary": "Dr. Tariq Al-Mansoor conducts applied research in enterprise cloud virtualization security, software-defined networks, and full-stack software development pedagogical methodologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5005,
+    "name": "Dr. Asher Cook",
+    "role": "Executive Director of Extended Academic Programs and Associate Professor",
+    "title": "Executive Director of Extended Academic Programs and Associate Professor",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "department": "Division of Extended Academic Programs",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Extended Academic Programs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ext.charlotte.edu/about-us/leadership/",
+    "bio": "Dr. Asher Cook oversees distance and extended graduate education at UNC Charlotte, researching asynchronous online adult learning retention, competency-based education, and university-corporate partnerships.",
+    "summary": "Dr. Asher Cook oversees distance and extended graduate education at UNC Charlotte, researching asynchronous online adult learning retention, competency-based education, and university-corporate partnerships.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5006,
+    "name": "Dr. Yaorong Ge",
+    "role": "Associate Professor of Software and Information Systems",
+    "title": "Associate Professor of Software and Information Systems",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "department": "College of Computing and Informatics",
+    "subject": "computer-science",
+    "topics": [
+      "College of Computing and Informatics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://cci.charlotte.edu/directory/yaorong-ge",
+    "bio": "Dr. Yaorong Ge conducts research in health informatics data pipelines, medical image processing, machine learning for clinical risk prediction, and biomedical software systems.",
+    "summary": "Dr. Yaorong Ge conducts research in health informatics data pipelines, medical image processing, machine learning for clinical risk prediction, and biomedical software systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5007,
+    "name": "Dr. Don Chen",
+    "role": "Professor of Construction Management and Civil Engineering",
+    "title": "Professor of Construction Management and Civil Engineering",
+    "university": "University of North Carolina at Charlotte Extended Academic Programs",
+    "country": "United States",
+    "department": "Department of Engineering Technology and Construction Management",
+    "subject": "engineering",
+    "topics": [
+      "Department of Engineering Technology and Construction Management"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://et.charlotte.edu/directory/don-chen",
+    "bio": "Dr. Don Chen specializes in Building Information Modeling (BIM) interoperability, infrastructure digital twin modeling, sustainable building energy simulation, and construction project automation.",
+    "summary": "Dr. Don Chen specializes in Building Information Modeling (BIM) interoperability, infrastructure digital twin modeling, sustainable building energy simulation, and construction project automation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5008,
+    "name": "Dr. Johannes Britz",
+    "role": "Senior Vice President for Academic and Student Affairs",
+    "title": "Senior Vice President for Academic and Student Affairs",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "department": "UW System Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "UW System Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wisconsin.edu/president/leadership-team/johannes-britz/",
+    "bio": "Dr. Johannes Britz oversees statewide academic program review and articulation across all 26 UW campuses, researching information ethics, digital literacy in higher education, and statewide transfer policy.",
+    "summary": "Dr. Johannes Britz oversees statewide academic program review and articulation across all 26 UW campuses, researching information ethics, digital literacy in higher education, and statewide transfer policy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5009,
+    "name": "Dr. Tracy Davidson",
+    "role": "Associate Vice President for Academic Programs and Innovation",
+    "title": "Associate Vice President for Academic Programs and Innovation",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "department": "Office of Academic and Student Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic and Student Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wisconsin.edu/academic-affairs/staff-directory/tracy-davidson/",
+    "bio": "Dr. Tracy Davidson directs branch campus transfer initiatives, dual-credit high school pathways, curriculum innovation, and statewide academic program alignment.",
+    "summary": "Dr. Tracy Davidson directs branch campus transfer initiatives, dual-credit high school pathways, curriculum innovation, and statewide academic program alignment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5010,
+    "name": "Dr. Carleen Vande Zande",
+    "role": "Director of Academic and Student Support Initiatives",
+    "title": "Director of Academic and Student Support Initiatives",
+    "university": "University of Wisconsin Colleges",
+    "country": "United States",
+    "department": "Division of Academic Planning",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Planning"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wisconsin.edu/academic-affairs/staff-directory/carleen-vande-zande/",
+    "bio": "Dr. Carleen Vande Zande specializes in higher education accreditation compliance, student retention metrics in multi-campus university systems, and developmental education reform.",
+    "summary": "Dr. Carleen Vande Zande specializes in higher education accreditation compliance, student retention metrics in multi-campus university systems, and developmental education reform.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5011,
+    "name": "Dr. Mackenzie Strawn",
+    "role": "Director of the Integrated Design Lab and Associate Professor of Architecture",
+    "title": "Director of the Integrated Design Lab and Associate Professor of Architecture",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "department": "College of Art and Architecture",
+    "subject": "engineering",
+    "topics": [
+      "College of Art and Architecture"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uidaho.edu/caa/research/idl/people/strawn",
+    "bio": "Dr. Mackenzie Strawn directs the UI Integrated Design Lab, researching passive solar heating systems, daylight simulation algorithms, energy-efficient building envelope retrofits, and net-zero architectural design.",
+    "summary": "Dr. Mackenzie Strawn directs the UI Integrated Design Lab, researching passive solar heating systems, daylight simulation algorithms, energy-efficient building envelope retrofits, and net-zero architectural design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5012,
+    "name": "Dr. Damon Woods",
+    "role": "Research Assistant Professor and Director of Building Simulation Operations",
+    "title": "Research Assistant Professor and Director of Building Simulation Operations",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "department": "Integrated Design Lab",
+    "subject": "engineering",
+    "topics": [
+      "Integrated Design Lab"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uidaho.edu/caa/research/idl/people/woods",
+    "bio": "Dr. Damon Woods specializes in thermal comfort modeling, air infiltration diagnostics, natural displacement ventilation systems, and commercial building HVAC energy optimization.",
+    "summary": "Dr. Damon Woods specializes in thermal comfort modeling, air infiltration diagnostics, natural displacement ventilation systems, and commercial building HVAC energy optimization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5013,
+    "name": "Prof. Kevin Van Den Wymelenberg",
+    "role": "Senior Research Fellow and Consulting Faculty",
+    "title": "Senior Research Fellow and Consulting Faculty",
+    "university": "University of Idaho Integrated Design Lab",
+    "country": "United States",
+    "department": "College of Art and Architecture",
+    "subject": "arts-design",
+    "topics": [
+      "College of Art and Architecture"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uidaho.edu/caa/research/idl/people/vandenwymelenberg",
+    "bio": "Prof. Kevin Van Den Wymelenberg is an internationally recognized expert in daylighting, visual comfort, indoor environmental microbial health, and high-performance architectural integration.",
+    "summary": "Prof. Kevin Van Den Wymelenberg is an internationally recognized expert in daylighting, visual comfort, indoor environmental microbial health, and high-performance architectural integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5014,
+    "name": "Dr. Patty Charlton",
+    "role": "Chancellor of the Nevada System of Higher Education",
+    "title": "Chancellor of the Nevada System of Higher Education",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "department": "NSHE System Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "NSHE System Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nshe.nevada.edu/leadership-policy/chancellor/",
+    "bio": "Dr. Patty Charlton is Chancellor of NSHE, leading strategic higher education policy, state legislative budget advocacy, and academic alignment across Nevada's public colleges and universities.",
+    "summary": "Dr. Patty Charlton is Chancellor of NSHE, leading strategic higher education policy, state legislative budget advocacy, and academic alignment across Nevada's public colleges and universities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5015,
+    "name": "Dr. Kumud Acharya",
+    "role": "President of the Desert Research Institute and Research Professor",
+    "title": "President of the Desert Research Institute and Research Professor",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "department": "Desert Research Institute",
+    "subject": "environment",
+    "topics": [
+      "Desert Research Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.dri.edu/directory/kumud-acharya/",
+    "bio": "Dr. Kumud Acharya leads the Desert Research Institute within NSHE, conducting international research on freshwater limnology, water quality monitoring, invasive dreissenid mussels, and arid watershed restoration.",
+    "summary": "Dr. Kumud Acharya leads the Desert Research Institute within NSHE, conducting international research on freshwater limnology, water quality monitoring, invasive dreissenid mussels, and arid watershed restoration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5016,
+    "name": "Dr. Federico Zaragoza",
+    "role": "Senior Vice Chancellor for Academic and Workforce Alignment",
+    "title": "Senior Vice Chancellor for Academic and Workforce Alignment",
+    "university": "Nevada System of Higher Education",
+    "country": "United States",
+    "department": "Division of Academic and Student Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic and Student Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://nshe.nevada.edu/leadership-policy/executive-staff/",
+    "bio": "Dr. Federico Zaragoza specializes in community college workforce development, industrial apprenticeship frameworks, Hispanic-Serving Institution (HSI) student success metrics, and technical articulation.",
+    "summary": "Dr. Federico Zaragoza specializes in community college workforce development, industrial apprenticeship frameworks, Hispanic-Serving Institution (HSI) student success metrics, and technical articulation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5017,
+    "name": "Dr. Scott Olson",
+    "role": "Chancellor of Minnesota State Colleges and Universities",
+    "title": "Chancellor of Minnesota State Colleges and Universities",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "department": "Office of the Chancellor",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Chancellor"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.minnstate.edu/system/chancellor/index.html",
+    "bio": "Dr. Scott Olson serves as Chancellor of MinnState, conducting research on higher education access equity, statewide transfer articulation pathways, and workforce credential alignment.",
+    "summary": "Dr. Scott Olson serves as Chancellor of MinnState, conducting research on higher education access equity, statewide transfer articulation pathways, and workforce credential alignment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5018,
+    "name": "Dr. Satasha Green-Stephen",
+    "role": "Senior Vice Chancellor for Academic and Student Affairs",
+    "title": "Senior Vice Chancellor for Academic and Student Affairs",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "department": "Academic and Student Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Academic and Student Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.minnstate.edu/system/asa/index.html",
+    "bio": "Dr. Satasha Green-Stephen oversees academic quality and curriculum transfer for 33 institutions, specializing in urban teacher development, special education advocacy, and student retention metrics.",
+    "summary": "Dr. Satasha Green-Stephen oversees academic quality and curriculum transfer for 33 institutions, specializing in urban teacher development, special education advocacy, and student retention metrics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5019,
+    "name": "Dr. Bill Maki",
+    "role": "Vice Chancellor for Finance and Facilities",
+    "title": "Vice Chancellor for Finance and Facilities",
+    "university": "Minnesota State Colleges and Universities",
+    "country": "United States",
+    "department": "Division of Finance",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Finance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.minnstate.edu/system/finance/index.html",
+    "bio": "Dr. Bill Maki specializes in public higher education financial modeling, capital infrastructure investment, statewide tuition policy, and sustainable campus facility operations.",
+    "summary": "Dr. Bill Maki specializes in public higher education financial modeling, capital infrastructure investment, statewide tuition policy, and sustainable campus facility operations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5020,
+    "name": "Dr. Cody Stone",
+    "role": "Executive Director of MSU Extension and Associate Professor",
+    "title": "Executive Director of MSU Extension and Associate Professor",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "department": "MSU Extension Administration",
+    "subject": "social-sciences",
+    "topics": [
+      "MSU Extension Administration"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.msuextension.org/about/leadership/stone.html",
+    "bio": "Dr. Cody Stone leads Montana State University Extension, researching land-grant university engagement models, rural community development resilience, and statewide 4-H youth development outcomes.",
+    "summary": "Dr. Cody Stone leads Montana State University Extension, researching land-grant university engagement models, rural community development resilience, and statewide 4-H youth development outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5021,
+    "name": "Dr. Darrin Boss",
+    "role": "Associate Director of the Montana Agricultural Experiment Station and Professor",
+    "title": "Associate Director of the Montana Agricultural Experiment Station and Professor",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "department": "Department of Animal and Range Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Animal and Range Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://agresearch.montana.edu/directory/boss.html",
+    "bio": "Dr. Darrin Boss conducts research on ruminant nutrition, dryland cattle supplementation, forage quality in Northern Great Plains rangelands, and integrated crop-livestock production systems.",
+    "summary": "Dr. Darrin Boss conducts research on ruminant nutrition, dryland cattle supplementation, forage quality in Northern Great Plains rangelands, and integrated crop-livestock production systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5022,
+    "name": "Dr. Jane Mangold",
+    "role": "Professor and Extension Invasive Plant Specialist",
+    "title": "Professor and Extension Invasive Plant Specialist",
+    "university": "Montana State University Extension",
+    "country": "United States",
+    "department": "Department of Land Resources and Environmental Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Land Resources and Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://landresources.montana.edu/directory/mangold.html",
+    "bio": "Dr. Jane Mangold specializes in rangeland weed ecology, integrated pest management for invasive noxious weeds, ecological restoration of degraded grasslands, and native plant re-establishment.",
+    "summary": "Dr. Jane Mangold specializes in rangeland weed ecology, integrated pest management for invasive noxious weeds, ecological restoration of degraded grasslands, and native plant re-establishment.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5023,
+    "name": "Dr. Clayton Christian",
+    "role": "Commissioner of Higher Education",
+    "title": "Commissioner of Higher Education",
+    "university": "Montana University System",
+    "country": "United States",
+    "department": "Office of the Commissioner of Higher Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of the Commissioner of Higher Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mus.edu/che/christian.html",
+    "bio": "Dr. Clayton Christian directs the Montana University System, overseeing state higher education policy, legislative appropriations, university campus governance, and workforce alignment initiatives across Big Sky Country.",
+    "summary": "Dr. Clayton Christian directs the Montana University System, overseeing state higher education policy, legislative appropriations, university campus governance, and workforce alignment initiatives across Big Sky Country.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5024,
+    "name": "Dr. Brock Tessman",
+    "role": "President of Northern Montana College and Senior Policy Scholar",
+    "title": "President of Northern Montana College and Senior Policy Scholar",
+    "university": "Montana University System",
+    "country": "United States",
+    "department": "Division of Academic Leadership",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Leadership"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mus.edu/che/academic-affairs.html",
+    "bio": "Dr. Brock Tessman researches international security studies, strategic governance in rural higher education, and statewide curriculum transfer pathways across the Rocky Mountain region.",
+    "summary": "Dr. Brock Tessman researches international security studies, strategic governance in rural higher education, and statewide curriculum transfer pathways across the Rocky Mountain region.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5025,
+    "name": "Dr. Angela McLean",
+    "role": "Director of American Indian and Minority Achievement",
+    "title": "Director of American Indian and Minority Achievement",
+    "university": "Montana University System",
+    "country": "United States",
+    "department": "Office of Academic and Student Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Office of Academic and Student Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.mus.edu/che/staff.html",
+    "bio": "Dr. Angela McLean specializes in American Indian educational attainment, tribal college dual enrollment, rural K-12 educator recruitment, and college access equity policy.",
+    "summary": "Dr. Angela McLean specializes in American Indian educational attainment, tribal college dual enrollment, rural K-12 educator recruitment, and college access equity policy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5026,
+    "name": "Dr. Paul Turman",
+    "role": "Chancellor of the Nebraska State College System",
+    "title": "Chancellor of the Nebraska State College System",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "department": "NSCS System Office",
+    "subject": "social-sciences",
+    "topics": [
+      "NSCS System Office"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nscs.edu/about/leadership/chancellor-turman/",
+    "bio": "Dr. Paul Turman serves as Chancellor of NSCS, directing higher education strategy, rural college affordability initiatives, state legislative advocacy, and the RHOP healthcare pipeline.",
+    "summary": "Dr. Paul Turman serves as Chancellor of NSCS, directing higher education strategy, rural college affordability initiatives, state legislative advocacy, and the RHOP healthcare pipeline.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5027,
+    "name": "Dr. Jodi Kupper",
+    "role": "Vice Chancellor for Academic Planning and Partnerships",
+    "title": "Vice Chancellor for Academic Planning and Partnerships",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "department": "Division of Academic Affairs",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Academic Affairs"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nscs.edu/about/leadership/vice-chancellor-kupper/",
+    "bio": "Dr. Jodi Kupper oversees academic program authorization, teacher education accreditation, rural workforce agreements, and transfer articulation across Nebraska's state colleges.",
+    "summary": "Dr. Jodi Kupper oversees academic program authorization, teacher education accreditation, rural workforce agreements, and transfer articulation across Nebraska's state colleges.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 5028,
+    "name": "Dr. Monte Kramer",
+    "role": "Vice Chancellor for Finance and Administration",
+    "title": "Vice Chancellor for Finance and Administration",
+    "university": "Nebraska State College System",
+    "country": "United States",
+    "department": "Division of Finance",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Finance"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nscs.edu/about/leadership/vice-chancellor-kramer/",
+    "bio": "Dr. Monte Kramer specializes in public higher education budgeting, rural college capital financing, tuition equity models, and institutional facility master planning.",
+    "summary": "Dr. Monte Kramer specializes in public higher education budgeting, rural college capital financing, tuition equity models, and institutional facility master planning.",
     "reviewed": "2026-10-16"
   }
 ];

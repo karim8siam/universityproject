@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 88,
+  "cycle": 89,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "University of New Mexico - Taos",
-    "sourceRow": 1189
+    "university": "Nebraska State College System",
+    "sourceRow": 847
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 605,
+    "usa": 635,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
