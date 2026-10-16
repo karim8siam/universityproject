@@ -3273,6 +3273,7 @@ export function generateAllSubjectPages() {
             <a class="btn" href="${oppUrl}">Requirements &amp; Costs ↗</a>
             <a href="${o.source}" target="_blank" rel="noopener noreferrer">Official source ↗</a>
             <a class="btn secondary" href="${uniUrl}">University guide ↗</a>
+            <a class="btn secondary" href="/#/mentorship">Mentorship ↗</a>
           </div>
         </article>`;
       };
@@ -3317,6 +3318,8 @@ ${visibleCardsHtml}
           <div class="actions">
             <a class="btn" href="${facUrl}">Research profile ↗</a>
             <a href="${f.source}" target="_blank" rel="noopener noreferrer">Official faculty page ↗</a>
+            <a class="btn secondary" href="${uniUrl}">University guide ↗</a>
+            <a class="btn secondary" href="/#/mentorship">Mentorship ↗</a>
           </div>
         </article>`;
     };
@@ -3385,6 +3388,16 @@ ${facultySection}
           </div>
         </details>
         ` : ''}
+
+        <div class="band university-partner-callout" style="margin-top:32px;padding:26px 28px;background:#eef4ec;border-left:4px solid var(--leaf);border-radius:0 8px 8px 0;">
+          <span class="eyebrow" style="color:#20573f;margin-bottom:6px;display:block;">FOR UNIVERSITIES &amp; ACADEMIC DEPARTMENTS</span>
+          <h3 style="font-size:22px;margin:4px 0 10px;color:var(--ink);">Want Your University to Join the Programme?</h3>
+          <p style="margin:0 0 14px 0;font-size:14px;line-height:1.7;color:#354d3e;">We are sorry if we may have missed your university or department in our current index! We would love to collaborate. Let’s talk to integrate your verified programs, research laboratories, and scholarships — and connect your institution directly with top 1% motivated international STEM talent.</p>
+          <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
+            <a class="btn" style="padding:10px 20px;font-size:13px;" href="mailto:shahriyarkarimsiam@gmail.com?subject=University%20Partnership%20%26%20Integration%20Request%20-%20OpenStemField&body=Hello%20OpenStemField%20Team%2C%0A%0AWe%20would%20like%20to%20discuss%20integrating%20our%20university%20into%20OpenStemField%20and%20connecting%20with%20top%201%25%20STEM%20talent.%0A%0AUniversity%20Name%3A%20%0ACountry%20%2F%20Location%3A%20%0ADepartments%20%2F%20Faculties%3A%20%0AContact%20Name%20%26%20Title%3A%20%0AOfficial%20Email%3A%20">✉ Partner With Us: shahriyarkarimsiam@gmail.com ↗</a>
+            <a class="btn secondary" style="padding:10px 18px;font-size:13px;" href="/#/mentorship">Mentorship Programme ↗</a>
+          </div>
+        </div>
       </section>
     </div></main><footer class="footer"><div><strong>OpenStemField</strong><p>Independent research and scholarship information across international universities. Confirm all terms directly with the official institutions.</p><div style="margin:12px 0;padding:12px 16px;background:rgba(255,255,255,0.06);border-radius:6px;"><p style="margin:0 0 8px 0;font-size:12px;color:#f0ece1;"><strong>Have an idea, need help, or want free consultancy?</strong></p><a style="margin-right:15px;color:#d4af37;font-size:12px;" href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Join Student Discord Community ↗</a><a style="color:#d4af37;font-size:12px;" href="mailto:shahriyarkarimsiam@gmail.com?subject=OpenStemField%20Free%20Consultancy">Free Consultancy: shahriyarkarimsiam@gmail.com ↗</a></div></div><nav><a href="/about/">About</a><a href="/editorial-policy/">Editorial policy</a><a href="/privacy/">Privacy</a><a href="/contact/">Contact</a><a href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Discord</a><a href="mailto:shahriyarkarimsiam@gmail.com">shahriyarkarimsiam@gmail.com</a><a href="/sitemap.xml">Sitemap</a></nav></footer><script>(function(){const day=new Date().toLocaleDateString("en-CA");document.querySelectorAll("[data-deadline]").forEach(el=>{if(el.dataset.deadline<day)el.remove()})})();</script></body></html>
 \n`;
