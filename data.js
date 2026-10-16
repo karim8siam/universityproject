@@ -298274,6 +298274,5137 @@ export const opportunities=[
     "reviewed": "2026-10-16",
     "status": "Available"
   }
+,
+  {
+    "id": 10407,
+    "title": "Ph.D. in Biomedical Engineering - Neural Engineering & Biomaterials - McKelvey School",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Elite doctoral research fellowship in biomedical engineering developing advanced neurophotonic brain-computer interfaces, regenerative biomaterials, cardiac electromechanics, and ultrasound neuro-modulation.",
+    "funding": "Full fellowship: $37,500/year stipend, full tuition remission, and health benefits",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://bme.wustl.edu/graduate/phd/index.html",
+    "requirements": {
+      "gpa": "3.6+ cumulative GPA in engineering or physical sciences",
+      "ielts": "IELTS 7.0+ or TOEFL 100+",
+      "gre": "GRE General optional",
+      "papers": "Transcripts, CV, 3 letters of recommendation, and research statement",
+      "references": "Three confidential academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10408,
+    "title": "Ph.D. in Molecular Genetics and Genomics - Division of Biology & Biomedical Sciences (DBBS)",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "World-leading genetics doctorate partnering with the McDonnell Genome Institute, focusing on functional human genomics, epigenetic remodeling in cancer, microbial pathogenesis, and CRISPR gene editing.",
+    "funding": "Full DBBS fellowship: $38,500/year stipend plus full tuition waiver and insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$0 (Waiver available)",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://dbbs.wustl.edu/programs/molecular-genetics-and-genomics/",
+    "requirements": {
+      "gpa": "3.5+ undergraduate GPA in biological or chemical sciences",
+      "ielts": "IELTS 7.5 or TOEFL 100+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose, CV, transcripts, and verified lab research experience",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10409,
+    "title": "Ph.D. in Computer Science - Artificial Intelligence & Cyber-Physical Systems",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "High-impact computing fellowship conducting advanced research in trustworthy machine learning, distributed real-time cloud systems, surgical robotics, computer vision, and computational biology.",
+    "funding": "Doctoral research assistantship: $36,000/year stipend with complete tuition remission",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://cse.wustl.edu/academics/graduate/phd-in-computer-science.html",
+    "requirements": {
+      "gpa": "3.5+ GPA in computer science, mathematics, or related field",
+      "ielts": "IELTS 7.0+ or TOEFL 95+",
+      "gre": "GRE optional",
+      "papers": "Academic CV, transcripts, research statement, and GitHub portfolio",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10410,
+    "title": "Ph.D. in Chemistry - Quantum Dynamics & Catalytic Energy Materials",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "desc": "Intensive chemistry doctoral program investigating solar photochemistry, transition-metal catalysis, solid-state battery electrolytes, ultrafast laser spectroscopy, and synthetic organic methodology.",
+    "funding": "Full graduate fellowship: $35,500/year stipend and 100% tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://chemistry.wustl.edu/graduate",
+    "requirements": {
+      "gpa": "3.3+ GPA in chemistry or biochemistry",
+      "ielts": "IELTS 7.0+ or TOEFL 95+",
+      "gre": "GRE Chemistry subject optional",
+      "papers": "Transcripts, research essay, personal statement, and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10411,
+    "title": "Master of Social Work (MSW) - Mental Health & International Social Development - Brown School",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally top-ranked social work program preparing leaders in psychiatric clinical intervention, community economic development, immigrant advocacy, and evidence-based global welfare policies.",
+    "funding": "Brown School Merit & Need Scholarships covering up to 75% tuition",
+    "tuition": "$44,800/year",
+    "fee": "$45",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://brownschool.wustl.edu/academics/master-of-social-work/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "Not required",
+      "papers": "Three analytical essays, CV, transcripts, and field experience documentation",
+      "references": "Three professional or academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10412,
+    "title": "Ph.D. in Physics - Astrophysics, Quantum Materials & Condensed Matter",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Fellowship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Premier physics doctorate exploring topological quantum insulators, high-pressure physics, gamma-ray astronomy, cosmic ray detection, and quantum transport at cryogenic temperatures.",
+    "funding": "Graduate fellowship: $36,000/year stipend, full tuition remission, and health insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://physics.wustl.edu/graduate",
+    "requirements": {
+      "gpa": "3.5+ GPA in physics, astronomy, or applied physics",
+      "ielts": "IELTS 7.0+ or TOEFL 95+",
+      "gre": "GRE Physics recommended but optional",
+      "papers": "Statement of purpose, academic CV, transcripts",
+      "references": "Three academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10413,
+    "title": "Ph.D. in Biomedical Engineering - Impact Biomechanics & Smart Neuroprosthetics",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Internationally renowned impact biomechanics doctorate that established the Wayne State Tolerance Curve for automotive safety, conducting cutting-edge research in blast neurotrauma, pediatric crash simulation, and neural implants.",
+    "funding": "Graduate Research Assistantship: $28,000/year stipend, full tuition scholarship, and health benefits",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.wayne.edu/biomedical",
+    "requirements": {
+      "gpa": "3.3+ GPA in engineering, biomechanics, or physical science",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10414,
+    "title": "Ph.D. in Cancer Biology - Tumor Microenvironment & Immunotherapy - Karmanos",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "NCI-designated Karmanos Cancer Institute doctoral training program exploring cancer disparities, oncogenic signal transduction, targeted radiopharmaceuticals, and epigenetic mechanisms in breast and prostate tumors.",
+    "funding": "Full NIH-supported fellowship: $32,000/year stipend, complete tuition waiver, and insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://cancerbiology.med.wayne.edu/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biology, biochemistry, or pre-med",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE not required",
+      "papers": "Transcripts, CV, personal statement, research abstract",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10415,
+    "title": "Master of Science in Automotive and Mobility Systems Engineering",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Midtown Detroit engineering master's addressing next-generation electric vehicle powertrains, connected autonomous vehicle (CAV) infrastructure, battery energy storage safety, and vehicle cybersecurity.",
+    "funding": "Mobility Innovation Fellowships and Industry Co-ops up to $15,000/year",
+    "tuition": "$21,400/year (out-of-state) / $11,200/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://engineering.wayne.edu/automotive",
+    "requirements": {
+      "gpa": "3.0+ GPA in mechanical, electrical, or automotive engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE not required for GPAs above 3.0",
+      "papers": "Transcripts, statement of career goals, CV",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10416,
+    "title": "Ph.D. in Computer Science - Autonomous Driving & Cloud Edge AI",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Cutting-edge computing doctorate focusing on edge computing algorithms for connected smart cities, privacy-preserving machine learning, real-time operating systems, and intelligent transportation safety.",
+    "funding": "Departmental Graduate Assistantship: $26,500/year stipend and full tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.wayne.edu/computer-science",
+    "requirements": {
+      "gpa": "3.3+ GPA in computer science or software engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "CV, statement of research purpose, official transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10417,
+    "title": "Ph.D. in Chemistry - Organometallic Catalysis & Renewable Battery Electrochemistry",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Doctoral research program investigating sustainable transition-metal catalysis, green organic synthesis, luminescent coordination polymers, and advanced lithium-ion and solid-state battery interfaces.",
+    "funding": "Graduate Teaching/Research Assistantship: $27,000/year stipend, full tuition waiver, and health care",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://clas.wayne.edu/chemistry",
+    "requirements": {
+      "gpa": "3.0+ GPA in chemistry or biochemistry",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters from chemistry faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10418,
+    "title": "Master of Urban Planning (MUP) - Urban Revitalization & Transportation Equity",
+    "university": "Wayne State University",
+    "country": "United States",
+    "location": "Detroit, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "PAB-accredited urban planning master's utilizing the living laboratory of Detroit to address spatial equity, sustainable urban transportation transit, community-based land use, and post-industrial revitalization.",
+    "funding": "Departmental Graduate Scholarships up to $10,000/year",
+    "tuition": "$19,800/year (out-of-state) / $10,400/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://clas.wayne.edu/urban-planning",
+    "requirements": {
+      "gpa": "3.0+ cumulative undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Personal statement detailing urban planning interests, CV, transcripts",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10419,
+    "title": "Bachelor of Science in Electrical and Computer Engineering - Aerospace Defense Systems",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "ABET-accredited electrical and computer engineering degree partnering with the MARS Center and Hill AFB to train students in embedded avionics, high-frequency RF communications, and real-time guidance telemetry.",
+    "funding": "EAST College Merit Scholarships up to $7,500/year",
+    "tuition": "$17,200/year (out-of-state) / $6,100/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.weber.edu/east/degrees/ece.html",
+    "requirements": {
+      "gpa": "2.8+ high school or transfer GPA with precalculus proficiency",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not required",
+      "papers": "Transcripts and application form",
+      "references": "Not required for undergraduate entry"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10420,
+    "title": "Master of Science in Computer Science - Secure Cloud Systems & Cybersecurity",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous applied computer science master's focusing on enterprise cloud computing architecture, secure DevOps, vulnerability penetration testing, machine learning pipelines, and cryptography.",
+    "funding": "Graduate Teaching Assistantships providing up to $8,000/semester plus partial tuition",
+    "tuition": "$14,800/year (out-of-state) / $6,800/year (in-state)",
+    "fee": "$60",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.weber.edu/east/degrees/ms-computer-science.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science or technical STEM discipline",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Resume, statement of purpose, academic transcripts",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10421,
+    "title": "Master of Health Administration (MHA) - Clinical Leadership & Healthcare Informatics",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CAHME-accredited health administration program delivered by the Dumke College of Health Professions, equipping executive administrators in hospital financial governance, health policy, and telehealth analytics.",
+    "funding": "Dumke College Graduate Healthcare Scholarships up to $5,000/year",
+    "tuition": "$16,200/year",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.weber.edu/mha",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE/GMAT waiver available with healthcare work experience",
+      "papers": "Statement of professional goals, CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10422,
+    "title": "Bachelor of Science in Manufacturing Systems Engineering - Advanced Composites",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on manufacturing engineering curriculum focusing on carbon fiber composite fabrication, robotic additive manufacturing, computer-aided design (CAD/CAM), and automated quality inspection.",
+    "funding": "Utah Aerospace Pathway Scholarships up to $6,000/year",
+    "tuition": "$17,200/year (out-of-state) / $6,100/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.weber.edu/east/degrees/mse.html",
+    "requirements": {
+      "gpa": "2.7+ high school or transfer GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not required",
+      "papers": "Official transcripts and diploma",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10423,
+    "title": "Bachelor of Science in Zoology - High-Altitude Rocky Mountain Ecology",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Immersive field-based zoological science degree leveraging the Wasatch-Cache National Forest and Great Salt Lake ecosystems for wildlife telemetry, avian conservation, and environmental toxicology.",
+    "funding": "College of Science Undergraduate Research Fellowships up to $4,000/year",
+    "tuition": "$17,200/year (out-of-state) / $6,100/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.weber.edu/zoology",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not required",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10424,
+    "title": "Master of Business Administration (MBA) - Aerospace & Supply Chain Management",
+    "university": "Weber State University",
+    "country": "United States",
+    "location": "Ogden, Utah, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA program at the Goddard School of Business & Economics, delivering quantitative executive training in aerospace defense contract procurement, enterprise operations, and global logistics.",
+    "funding": "Goddard School Graduate Assistantships and Merit Awards up to $7,000/year",
+    "tuition": "$18,500/year",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.weber.edu/mba",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE optional based on professional track record",
+      "papers": "Resume showing 2+ years professional experience, essay, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10425,
+    "title": "Master of Science in Cybersecurity - Operations & Threat Intelligence",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA/CAE-designated cybersecurity master's program providing hands-on training in offensive penetration testing, cryptographic protocols, cloud security posture management, and digital forensic incident response.",
+    "funding": "Walker School International Cybersecurity Merit Awards up to $6,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.webster.edu/walker-school/cybersecurity.php",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in computing, mathematics, or related discipline",
+      "ielts": "IELTS 6.0+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10426,
+    "title": "Master of Arts in International Relations - Diplomacy & Conflict Transformation",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Internationally renowned foreign policy master's allowing study across Webster's worldwide campus network, examining multilateral diplomacy, international humanitarian law, and global refugee governance.",
+    "funding": "Global Scholar Awards up to $5,000/year with study abroad mobility grants to Geneva/Vienna",
+    "tuition": "$15,800/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.webster.edu/humanities-social-sciences/international-relations.php",
+    "requirements": {
+      "gpa": "2.75+ cumulative GPA from an accredited institution",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "300-500 word personal essay on international affairs, CV, transcripts",
+      "references": "Two recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10427,
+    "title": "Master of Business Administration (MBA) - Global Supply Chain & Analytics",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited global MBA curriculum delivered in accelerated 9-week terms, concentrating on multinational enterprise strategy, predictive data analytics, and supply chain sustainability.",
+    "funding": "Walker Leadership Fellowships up to $7,000/year",
+    "tuition": "$17,200/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.webster.edu/walker-school/mba.php",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 80+",
+      "gre": "GMAT/GRE not required",
+      "papers": "Professional resume, statement of career goals, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10428,
+    "title": "Master of Science in Data Analytics - Big Data Engineering & Machine Learning",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Applied data analytics master's combining statistical modeling in R and Python with distributed computing frameworks, SQL/NoSQL data warehousing, and predictive business intelligence.",
+    "funding": "STEM Graduate Technology Scholarships up to $6,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.webster.edu/walker-school/data-analytics.php",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with quantitative coursework",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "CV, transcripts, statement of quantitative interests",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10429,
+    "title": "Master of Arts in Media Communications - Interactive Digital Production",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Dynamic digital media degree utilizing the Sverdrup Complex studios to master multiplatform storytelling, video cinematography, interactive media design, and media sociology.",
+    "funding": "School of Communications Creative Fellowships up to $5,000/year",
+    "tuition": "$15,800/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.webster.edu/communications/media-communications.php",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in media, communications, or liberal arts",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Creative portfolio/sample, essay on media objectives, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10430,
+    "title": "Master of Arts in Clinical Mental Health Counseling - Trauma & Family Systems",
+    "university": "Webster University",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CACREP-accredited clinical counseling program preparing practitioners for state LPC licensure through 700 hours of supervised clinical practicum and multicultural therapeutic modalities.",
+    "funding": "Graduate Counseling Assistantships up to $6,000/year",
+    "tuition": "$18,400/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.webster.edu/humanities-social-sciences/professional-counseling.php",
+    "requirements": {
+      "gpa": "3.0+ GPA in psychology or social sciences",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "Not required",
+      "papers": "Personal narrative essay, background check clearance, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10431,
+    "title": "Bachelor of Arts in Computer Science - Human-Computer Interaction & AI (Cross-Registration with MIT)",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Elite undergraduate computer science degree featuring direct MIT cross-registration, hands-on lab research in tangible user interfaces, natural language processing, and collaborative robotics.",
+    "funding": "100% Demonstrated Financial Need Met (Average grant exceeds $62,000/year)",
+    "tuition": "$64,300/year (Full need-based grant available)",
+    "fee": "$50 (Waiver available)",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/cs",
+    "requirements": {
+      "gpa": "Top 10% high school class rank with rigorous honors/AP/IB coursework",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable (Undergraduate)",
+      "papers": "Common Application, Wellesley member questions, counselor report, and transcripts",
+      "references": "Two academic teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10432,
+    "title": "Bachelor of Arts in Neuroscience - Molecular Cellular & Cognitive Systems",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Top-tier undergraduate neuroscience program housed in the state-of-the-art Science Center, offering undergraduate research in synaptic plasticity, neurodevelopmental genetics, and optogenetics.",
+    "funding": "100% Need-Based Financial Aid Package covering full demonstrated tuition, room, and board",
+    "tuition": "$64,300/year (Need-based grants apply)",
+    "fee": "$50",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/neuroscience",
+    "requirements": {
+      "gpa": "3.8+ unweighted high school GPA in advanced biology and chemistry",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, essays, school report, midyear report",
+      "references": "Two teacher recommendations (STEM preferred)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10433,
+    "title": "Bachelor of Arts in Economics - International Trade, Finance & Quantitative Econometrics",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Renowned undergraduate economics department producing global central bankers and policymakers, exploring macro-econometric modeling, behavioral decision theory, and development finance.",
+    "funding": "Wellesley College Need-Based Grants covering up to full tuition and living expenses",
+    "tuition": "$64,300/year",
+    "fee": "$50",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/economics",
+    "requirements": {
+      "gpa": "Exceptional secondary school record with calculus preparation",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable",
+      "papers": "Common App, personal essay, secondary school report",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10434,
+    "title": "Bachelor of Arts in Environmental Studies - Marine Ecology & Climate Justice",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment"
+    ],
+    "desc": "Interdisciplinary environmental curriculum integrating field ecology, environmental GIS spatial analysis, environmental economics, and environmental policy with hands-on campus watershed fieldwork.",
+    "funding": "100% Demonstrated Need Grant Package with summer research stipends up to $5,000",
+    "tuition": "$64,300/year",
+    "fee": "$50",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/environmentalstudies",
+    "requirements": {
+      "gpa": "Top tier academic record with science and social sciences rigor",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable",
+      "papers": "Common Application, essays, extracurricular activity sheet",
+      "references": "Two teacher evaluation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10435,
+    "title": "Bachelor of Arts in Astrophysics - Observational Astronomy & Planetary Atmospheres",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "physics",
+    "subjects": [
+      "physics"
+    ],
+    "desc": "Distinguished astrophysics program operating the historic on-campus Whitin Observatory and accessing Keck Consortium remote telescopes for stellar spectroscopy and exoplanetary transit observations.",
+    "funding": "Full demonstrated need grant aid plus access to Whitin Observatory research fellowships",
+    "tuition": "$64,300/year",
+    "fee": "$50",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/astronomy",
+    "requirements": {
+      "gpa": "Exceptional record in high school physics and advanced mathematics",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, counselor recommendation, essays",
+      "references": "Two teacher letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10436,
+    "title": "Bachelor of Arts in Biochemistry - Structural Biology & Enzymology",
+    "university": "Wellesley College",
+    "country": "United States",
+    "location": "Wellesley, Massachusetts, United States",
+    "type": "Scholarship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "ASBMB-accredited undergraduate biochemistry major training students in X-ray crystallography, protein NMR, enzyme kinetics, and molecular pharmacology in small research cohorts.",
+    "funding": "Comprehensive Need-Based Financial Aid Package meeting 100% of demonstrated need",
+    "tuition": "$64,300/year",
+    "fee": "$50",
+    "deadline": "2027-01-08",
+    "deadlineText": "January 8, 2027",
+    "source": "https://www.wellesley.edu/biochem",
+    "requirements": {
+      "gpa": "Rigorous chemistry, biology, and math preparation",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "Not applicable",
+      "papers": "Common Application, high school transcript, personal statement",
+      "references": "Two teacher evaluations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10437,
+    "title": "Master of Science in Civil Engineering - Structural Resilience & Sustainable Infrastructure",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Applied civil engineering master's addressing seismic structural design, carbon-neutral concrete materials, geotechnical foundation mechanics, and climate-resilient coastal infrastructure.",
+    "funding": "Wentworth Graduate Merit Scholarships up to $8,000/year",
+    "tuition": "$24,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://wit.edu/academics/programs/civil-engineering-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in civil engineering or related engineering field",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Transcripts, statement of professional goals, resume",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10438,
+    "title": "Master of Science in Applied Computer Science - Cloud Computing & Machine Learning",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Intensive computer science program designed for software practitioners, concentrating on microservice architectures, enterprise cloud engineering in AWS/Azure, applied deep learning, and secure software design.",
+    "funding": "School of Computing Graduate Fellowships up to $7,500/year",
+    "tuition": "$24,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://wit.edu/academics/programs/applied-computer-science-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science, software engineering, or STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10439,
+    "title": "Master of Architecture (M.Arch) - Sustainable Urban Housing & Fabrication",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "NAAB-accredited professional architecture degree focusing on ecological urban design, advanced digital fabrication, mass timber construction, and adaptive reuse in metropolitan Boston.",
+    "funding": "Architecture Design Excellence Scholarships up to $10,000/year",
+    "tuition": "$28,900/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://wit.edu/academics/programs/architecture-march",
+    "requirements": {
+      "gpa": "3.0+ GPA in pre-professional architecture or design degree",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Design portfolio (PDF), statement of architectural intent, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10440,
+    "title": "Master of Science in Construction Management - Virtual Design & Lean Project Delivery",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Industry-focused construction executive master's covering Building Information Modeling (BIM), lean construction logistics, risk management, and commercial procurement contracts.",
+    "funding": "Construction Industry Endowed Scholarships up to $6,000/year",
+    "tuition": "$24,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://wit.edu/academics/programs/construction-management-ms",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA with construction or engineering background",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Resume showing construction experience, statement of purpose, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10441,
+    "title": "Bachelor of Science in Biomedical Engineering - Medical Device Co-op Track",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "ABET-accredited undergraduate biomedical engineering degree requiring two paid co-op semesters in Boston's Longwood Medical Area, specializing in biomechatronics and biosensors.",
+    "funding": "Wentworth Merit Scholarships up to $18,000/year plus co-op earnings ($18,000–$25,000/co-op semester)",
+    "tuition": "$40,300/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://wit.edu/academics/programs/biomedical-engineering-bs",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with advanced chemistry, physics, and precalculus",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Common Application, high school transcript, essay",
+      "references": "One counselor and one STEM teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10442,
+    "title": "Bachelor of Science in Cybersecurity - Digital Defense & Network Forensics",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on undergraduate cybersecurity degree featuring dedicated offensive cyber range labs, network packet forensics, ethical hacking, and industrial enterprise risk assessment.",
+    "funding": "Polytechnic Excellence Grants up to $16,000/year",
+    "tuition": "$40,300/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://wit.edu/academics/programs/cybersecurity-bs",
+    "requirements": {
+      "gpa": "3.0+ high school GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts, personal statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10443,
+    "title": "Master of Science in Technology - Advanced Manufacturing & Automation",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Applied engineering technology master's program focusing on industrial robotics, precision CNC manufacturing, smart factory PLC controls, and materials characterization.",
+    "funding": "Graduate Assistantships with stipends up to $10,500/year plus tuition remission",
+    "tuition": "$14,800/year (out-of-state) / $7,400/year (in-state)",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wcu.edu/learn/departments-schools-colleges/cet/engineering-and-technology/ms-technology.aspx",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in engineering, technology, or physical sciences",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10444,
+    "title": "Bachelor of Science in Forensic Science - Forensic Chemistry & Biology (FOREST Facility)",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Nationally acclaimed forensic science degree training students at the Western Carolina Forensic Osteology Research Station (FOREST), specializing in post-mortem interval estimation and forensic toxicology.",
+    "funding": "NC Promise Tuition Plan ($5,000/year out-of-state tuition) plus STEM merit awards",
+    "tuition": "$5,000/year (NC Promise out-of-state rate)",
+    "fee": "$65",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wcu.edu/learn/programs/forensic-science-bs/index.aspx",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not required",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10445,
+    "title": "Master of Science in Biology - Southern Appalachian Ecology & Conservation",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Immersive ecological graduate degree investigating high-biodiversity Southern Appalachian salamander populations, freshwater trout stream restoration, and forest canopy response to climate change.",
+    "funding": "Departmental Graduate Teaching Assistantships: $11,000/year stipend plus tuition support",
+    "tuition": "$14,800/year (out-of-state) / $7,400/year (in-state)",
+    "fee": "$65",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.wcu.edu/learn/departments-schools-colleges/cas/science-and-math/biology/biology-ms.aspx",
+    "requirements": {
+      "gpa": "3.0+ GPA in biology, ecology, or environmental science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10446,
+    "title": "Doctor of Physical Therapy (DPT) - Neurological & Orthopedic Rehabilitation",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAPTE-accredited three-year clinical doctoral program housed in the Health and Human Sciences Building, integrating clinical biomechanics, musculoskeletal rehabilitation, and rural healthcare delivery.",
+    "funding": "Physical Therapy Endowed Departmental Scholarships up to $6,000/year",
+    "tuition": "$21,500/year",
+    "fee": "$65",
+    "deadline": "2026-11-01",
+    "deadlineText": "November 1, 2026",
+    "source": "https://www.wcu.edu/learn/departments-schools-colleges/HHS/physical-therapy/index.aspx",
+    "requirements": {
+      "gpa": "3.2+ cumulative GPA and prerequisite science GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE General exam required",
+      "papers": "PTCAS application, verified observation hours, transcripts",
+      "references": "Three letters (including one licensed PT)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10447,
+    "title": "Master of Science in Experiential and Outdoor Education - Wilderness Leadership",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Innovative graduate curriculum based in the Great Smoky Mountains, examining environmental education pedagogy, wilderness risk management, nature-based experiential therapy, and park stewardship.",
+    "funding": "Outdoor Education Graduate Assistantships with tuition waivers",
+    "tuition": "$14,800/year",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wcu.edu/learn/departments-schools-colleges/ceap/humanservices/eoe/index.aspx",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose detailing outdoor leadership philosophy, CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10448,
+    "title": "Bachelor of Science in Electrical Engineering - Renewable Energy Systems",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "location": "Cullowhee, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Hands-on ABET-accredited electrical engineering program preparing undergraduates in microgrid power distribution, solar inverter electronics, smart instrumentation, and control system automation.",
+    "funding": "NC Promise Tuition ($5,000/year out-of-state) plus Engineering Merit Scholarships",
+    "tuition": "$5,000/year (NC Promise rate)",
+    "fee": "$65",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wcu.edu/learn/programs/electrical-engineering-bs/index.aspx",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with precalculus or calculus readiness",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and admissions essay",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10449,
+    "title": "Bachelor of Science in Meteorology - Operational Weather Forecasting & Climatology",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "One of only two meteorology programs in Connecticut, utilizing the WCSU Weather Center to train broadcast and operational meteorologists in Doppler radar analysis, atmospheric thermodynamics, and numerical climate modeling.",
+    "funding": "Macricostas Science Merit Scholarships up to $6,000/year",
+    "tuition": "$20,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wcsu.edu/physics/meteorology/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with precalculus and physics coursework",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "One teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10450,
+    "title": "Master of Science in Nursing (MSN) - Psychiatric-Mental Health Nurse Practitioner (PMHNP)",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited graduate nursing curriculum preparing advanced practice nurses in psychiatric diagnostic assessment, psychopharmacological management, and psychotherapy across inpatient and community settings.",
+    "funding": "Health Resources and Services Administration (HRSA) Traineeship Grants",
+    "tuition": "$17,200/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wcsu.edu/nursing/graduate/",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA from an accredited nursing school and active RN license",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Resume showing 1+ year clinical RN experience, statement of goals, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10451,
+    "title": "Master of Science in Cybersecurity - Incident Response & Threat Hunting",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Technical cybersecurity master's covering enterprise defense architecture, malware reverse engineering, packet analysis, and ISO/NIST regulatory compliance frameworks.",
+    "funding": "Ancell School Technology Assistantships up to $5,000/year",
+    "tuition": "$16,400/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wcsu.edu/cybersecurity/",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in computer science, MIS, or related quantitative field",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10452,
+    "title": "Master of Business Administration (MBA) - Healthcare Operations & Strategic Analytics",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA curriculum delivered at the Westside campus, equipping managers in quantitative financial analysis, healthcare systems administration, and strategic decision making.",
+    "funding": "Ancell Graduate Dean's Scholarships up to $4,500/year",
+    "tuition": "$16,400/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wcsu.edu/mba/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA (or 2.8 with GMAT waiver)",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Professional resume, career objectives essay, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10453,
+    "title": "Bachelor of Science in Computer Science - Software Development & Embedded Systems",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous undergraduate computer science program providing comprehensive training in C++/Java software engineering, algorithms, Linux operating systems, and web application security.",
+    "funding": "WestConn STEM Achievement Scholarships up to $5,000/year",
+    "tuition": "$20,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wcsu.edu/cs/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with mathematics readiness",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal essay",
+      "references": "One recommendation letter"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10454,
+    "title": "Master of Arts in English - American Literary Studies & Writing Pedagogy",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "location": "Danbury, Connecticut, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Advanced humanities degree emphasizing critical theory, American and world literature, rhetorical composition pedagogy, and professional editing.",
+    "funding": "Departmental Teaching Assistantships covering partial tuition and stipend",
+    "tuition": "$15,200/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wcsu.edu/english/graduate/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in English, literature, or humanities",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "10-15 page analytical critical writing sample, personal statement, transcripts",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10455,
+    "title": "Master of Science in Geoscience - Karst Hydrogeology & Cave Environmental Systems",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "World-renowned geoscience graduate program leveraging Mammoth Cave National Park to study groundwater dye tracing, sinkhole contaminant transport, speleology, and karst watershed protection.",
+    "funding": "Crawford Hydrology Lab Graduate Research Assistantships: $12,000/year plus tuition remission",
+    "tuition": "$14,500/year (out-of-state) / $8,900/year (in-state)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wku.edu/earth/graduate/index.php",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in geology, environmental science, or related physical science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10456,
+    "title": "Master of Science in Engineering Technology Management - Manufacturing & Quality Systems",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Applied engineering management program focusing on Six Sigma quality analytics, industrial automation robotics, supply chain optimization, and lean manufacturing systems for south-central Kentucky automotive industries.",
+    "funding": "Graduate Teaching/Research Assistantships up to $10,000/year",
+    "tuition": "$14,500/year (out-of-state) / $8,900/year (in-state)",
+    "fee": "$65",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wku.edu/seas/etm.php",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA in engineering, technology, or STEM discipline",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10457,
+    "title": "Bachelor of Arts in Photojournalism - Visual Storytelling & Documentary Photography",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Nationally celebrated visual journalism program winning numerous national Hearst Journalism championships and Pulitzer Prizes, training photojournalists in digital documentary, lighting, and multimedia reporting.",
+    "funding": "School of Media Hearst Journalism Endowed Scholarships up to $6,000/year",
+    "tuition": "$21,400/year (out-of-state) / $11,100/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wku.edu/journalism/photojournalism.php",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with visual arts or writing interests",
+      "ielts": "IELTS 6.0+ or TOEFL 71+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and personal statement (portfolio optional for scholarships)",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10458,
+    "title": "Master of Science in Homeland Security Sciences - Disaster Mitigation & Chemical Threat Defense",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "social-sciences"
+    ],
+    "desc": "Specialized defense sciences degree operated with the Applied Physics Institute, examining nuclear and chemical threat detection, radiological sensor networks, and emergency infrastructure resilience.",
+    "funding": "Applied Physics Institute Research Fellowships up to $11,000/year",
+    "tuition": "$14,500/year",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wku.edu/physics/hss.php",
+    "requirements": {
+      "gpa": "3.0+ GPA in physics, chemistry, engineering, or security science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of professional goals, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10459,
+    "title": "Master of Science in Biology - Molecular Toxicology & Microbial Ecology",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Hands-on biological sciences master's conducting research in freshwater stream toxicity, microbial antibiotic resistance, endocrine disruptor pharmacology, and subterranean cave fauna adaptation.",
+    "funding": "Departmental Teaching Assistantships: $12,500/year stipend plus full tuition coverage",
+    "tuition": "$0 (With full TA fellowship)",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wku.edu/biology/graduate/index.php",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biology or related field",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Research statement, CV, undergraduate transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10460,
+    "title": "Master of Business Administration (MBA) - Data Analytics & Strategic Supply Chain",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "location": "Bowling Green, Kentucky, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA curriculum delivered by the Gordon Ford College of Business, preparing managers in managerial economics, data-informed supply chains, and enterprise leadership.",
+    "funding": "Gordon Ford College Graduate Assistantships up to $9,000/year",
+    "tuition": "$16,200/year",
+    "fee": "$65",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wku.edu/mba/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE optional based on experience",
+      "papers": "Professional resume, statement of purpose, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10461,
+    "title": "Bachelor of Science in Aviation Flight Science - Commercial Airline & Fleet Management",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Aviation accreditation (AABI)-certified flight degree operating a state-of-the-art fleet of Cirrus SR20 aircraft and Level 6 flight simulators at the Battle Creek aviation campus, partnering directly with major global airlines.",
+    "funding": "College of Aviation Flight Scholarships and Industry Pathway Grants up to $10,000/year",
+    "tuition": "$20,800/year (out-of-state) / $15,600/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://wmich.edu/aviation/academics/flight-science",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with strong math and physics background and FAA Class 1 Medical",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, aviation motivation essay, FAA medical certificate",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10462,
+    "title": "Ph.D. in Mechanical and Aerospace Engineering - Unmanned Aerial Systems & Aerostructures",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Cutting-edge aerospace doctorate at the Parkview Campus investigating hypersonic aerodynamics, autonomous drone swarm guidance, lightweight composite fatigue, and computational fluid dynamics.",
+    "funding": "Doctoral Graduate Assistantship: $22,000/year stipend, 100% tuition remission, and health insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://wmich.edu/mechanical-aerospace/academics/phd",
+    "requirements": {
+      "gpa": "3.3+ GPA in mechanical, aerospace, or materials engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Research statement, CV, official transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10463,
+    "title": "Ph.D. in Paper and Chemical Engineering - Sustainable Bio-Based Packaging & Nanocellulose",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry",
+      "environment"
+    ],
+    "desc": "Unique doctoral program in paper and chemical engineering utilizing pilot-scale papermaking and recycling plants to engineer biodegradable food packaging, nanocellulose barrier films, and printed flexible sensors.",
+    "funding": "Paper Technology Foundation Doctoral Fellowship: $24,000/year stipend and full tuition",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://wmich.edu/pchem/academics/phd",
+    "requirements": {
+      "gpa": "3.2+ GPA in chemical engineering, chemistry, or polymer science",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10464,
+    "title": "Master of Science in Cybersecurity - Embedded Systems & Industrial IoT Defense",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced cybersecurity curriculum concentrating on hardware security, industrial control SCADA networks, reverse code engineering, and adversarial machine learning defenses.",
+    "funding": "Departmental Teaching Assistantships up to $15,000/year plus tuition support",
+    "tuition": "$19,200/year (out-of-state) / $11,500/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://wmich.edu/cs/academics/graduate/ms-cybersecurity",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science or electrical engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "CV, transcripts, statement of research purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10465,
+    "title": "Ph.D. in Biological Sciences - Cellular Neurobiology & Aquatic Ecology",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Doctoral research program offering specialized training in neurodegenerative disease modeling, ion channel biophysics, Great Lakes freshwater ecology, and conservation genomics.",
+    "funding": "Doctoral Graduate Assistantship: $21,000/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://wmich.edu/biology/academics/graduate/phd",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biological sciences or biochemistry",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Research statement, CV, transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10466,
+    "title": "Master of Science in Orientation and Mobility for the Blind - Blindness & Low Vision Studies",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "location": "Kalamazoo, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Pioneering blindness rehabilitation program recognized as the first and premier graduate orientation and mobility curriculum in the world, preparing specialists in sensory substitution and urban transit navigation.",
+    "funding": "Federal Rehabilitation Services Administration (RSA) Long-Term Training Grants",
+    "tuition": "$18,500/year",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://wmich.edu/visionstudies/academics/mobility",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Statement of professional goals, CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10467,
+    "title": "Master of Social Work (MSW) - Rural Community Mental Health & Indigenous Advocacy",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited master of social work degree delivered fully online or hybrid, training clinical practitioners to deliver culturally competent mental healthcare in rural Southwestern and Native American tribal communities.",
+    "funding": "Behavioral Health Workforce Education and Training (BHWET) HRSA Stipends up to $10,000",
+    "tuition": "$11,200/year (out-of-state) / $5,800/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://socialwork.wnmu.edu/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA (or 3.0+ in last 60 credit hours)",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Personal narrative statement, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10468,
+    "title": "Master of Arts in Interdisciplinary Studies (MAIS) - Southwest Archaeology & Mimbres Culture",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "arts-design"
+    ],
+    "desc": "Interdisciplinary graduate curriculum utilizing the WNMU Museum Mimbres collection and surrounding Gila archaeological sites to examine prehistoric Mogollon culture, rock art conservation, and Southwest ethnohistory.",
+    "funding": "WNMU Graduate Fellowships and Museum Curatorial Assistantships up to $5,000/year",
+    "tuition": "$10,800/year (out-of-state) / $5,600/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://grad.wnmu.edu/mais/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in anthropology, history, or humanities",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Statement of intent, writing sample, transcripts",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10469,
+    "title": "Bachelor of Science in Forest and Wildlife Ecology - Gila Wilderness Management",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Field-intensive undergraduate ecology program utilizing the adjacent Gila Wilderness—the world's first designated wilderness area—for wildfire ecology field research, Mexican gray wolf tracking, and watershed conservation.",
+    "funding": "Western New Mexico STEM Tuition Waiver Scholarships up to $4,000/year",
+    "tuition": "$13,600/year (out-of-state) / $6,200/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://naturalsciences.wnmu.edu/forestry/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with biology and algebra readiness",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcript, application form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10470,
+    "title": "Master of Business Administration (MBA) - Healthcare & International Business",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited 36-credit-hour MBA program delivering quantitative leadership training in cross-border commerce, healthcare finance, managerial accounting, and organizational ethics.",
+    "funding": "Graduate Business Merit Scholarships up to $4,000/year",
+    "tuition": "$10,800/year (out-of-state) / $5,600/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://business.wnmu.edu/mba/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "GMAT/GRE not required",
+      "papers": "Resume, personal essay, official transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10471,
+    "title": "Master of Arts in Educational Leadership - Borderland Bilingual Administration",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CAEP-accredited educational leadership degree preparing principals and administrators to manage multicultural borderland schools, English language learner curricula, and school financial law.",
+    "funding": "New Mexico Teacher Preparation Loan-for-Service Grants",
+    "tuition": "$10,800/year",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://education.wnmu.edu/leadership/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with teaching certification",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of educational philosophy, teaching license, transcripts",
+      "references": "Two administrator references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10472,
+    "title": "Bachelor of Science in Nursing (RN to BSN) - Rural Healthcare Delivery",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "location": "Silver City, New Mexico, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited nursing program equipping registered nurses with advanced clinical assessment, community health epidemiology, evidence-based nursing informatics, and rural hospital leadership.",
+    "funding": "New Mexico Nursing Excellence Scholarships up to $3,500/year",
+    "tuition": "$13,600/year (out-of-state) / $6,200/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://nursing.wnmu.edu/",
+    "requirements": {
+      "gpa": "2.5+ associate degree in nursing GPA and active unencumbered RN license",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "RN license verification, transcripts",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10473,
+    "title": "Master of Science in Environmental Science - Marine Estuarine & Salish Sea Toxicology",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Premier environmental science master's partnering with Shannon Point Marine Center to investigate ocean acidification in the Salish Sea, microplastic bioaccumulation in marine trophic webs, and salmon habitat restoration.",
+    "funding": "Shannon Point Marine Center Teaching Assistantships: $16,800/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded TA)",
+    "fee": "$100",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://cenv.wwu.edu/esci/environmental-science-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in environmental science, biology, chemistry, or related STEM",
+      "ielts": "IELTS 7.0+ or TOEFL 86+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10474,
+    "title": "Master of Science in Computer Science - Distributed Systems & Computer Vision",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous thesis-based computer science master's exploring deep learning object tracking, cloud-native cluster computing, secure wireless communications, and biomedical image classification.",
+    "funding": "Departmental Graduate Teaching Assistantships: $17,500/year stipend plus tuition waiver",
+    "tuition": "$0 (With GTA)",
+    "fee": "$100",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://cs.wwu.edu/graduate-program",
+    "requirements": {
+      "gpa": "3.2+ GPA in computer science or related mathematics/engineering field",
+      "ielts": "IELTS 7.0+ or TOEFL 86+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, academic CV, transcripts",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10475,
+    "title": "Bachelor of Science in Manufacturing Engineering - Vehicle Research Institute (VRI)",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "ABET-accredited engineering program housed in the renowned Vehicle Research Institute (VRI), designing and building solar-electric hybrid vehicles, composite monocoque chassis, and automated robotics.",
+    "funding": "Engineering Endowed Merit Scholarships and Clean-Tech Grants up to $8,000/year",
+    "tuition": "$26,400/year (out-of-state) / $8,900/year (in-state)",
+    "fee": "$70",
+    "deadline": "2027-01-31",
+    "deadlineText": "January 31, 2027",
+    "source": "https://engineeringdesign.wwu.edu/vri",
+    "requirements": {
+      "gpa": "3.2+ high school GPA with calculus and physics preparation",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, activity log, personal essay",
+      "references": "One teacher evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10476,
+    "title": "Master of Science in Chemistry - Green Catalysis & Nanomaterials Synthesis",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Research-intensive chemistry master's offering advanced training in transition-metal organometallics, quantum dot solar luminescence, solid-state NMR, and green polymer degradation.",
+    "funding": "Graduate Teaching Assistantship: $16,500/year stipend plus 100% tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$100",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://chemistry.wwu.edu/graduate-studies",
+    "requirements": {
+      "gpa": "3.0+ GPA in chemistry or biochemistry",
+      "ielts": "IELTS 7.0+ or TOEFL 86+",
+      "gre": "GRE not required",
+      "papers": "Research interests statement, CV, transcripts",
+      "references": "Three letters from science faculty"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10477,
+    "title": "Master of Science in Geology - Volcanology & Cascade Tectonics",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Pacific Northwest field geological degree investigating active volcanism in Mount Baker, Cascadia subduction zone seismology, glacial geomorphology, and structural geology.",
+    "funding": "Geology Teaching and Research Assistantships: $16,500/year plus tuition remission",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$100",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://geology.wwu.edu/graduate-program",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in geology or geophysics",
+      "ielts": "IELTS 7.0+ or TOEFL 86+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10478,
+    "title": "Master of Arts in Environmental Studies - Environmental Policy & Indigenous Sovereignty",
+    "university": "Western Washington University",
+    "country": "United States",
+    "location": "Bellingham, Washington, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Interdisciplinary environmental policy curriculum exploring tribal treaty rights in fisheries, climate resilience planning, transboundary water governance with Canada, and community food sovereignty.",
+    "funding": "College of the Environment Graduate Fellowships up to $9,000/year",
+    "tuition": "$17,800/year (out-of-state) / $11,200/year (in-state)",
+    "fee": "$100",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://cenv.wwu.edu/envs/environmental-studies-ma",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 86+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, writing sample, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10479,
+    "title": "Ph.D. in Aerospace Engineering - Advanced Composites & Crashworthiness - NIAR",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Elite aerospace doctorate operating within the National Institute for Aviation Research (NIAR), investigating full-scale aircraft structural crashworthiness, composite digital twin certification, and hypersonic wind tunnel dynamics.",
+    "funding": "NIAR Doctoral Research Assistantship: $26,000/year stipend, full tuition scholarship, and industry co-op",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.wichita.edu/academics/engineering/aerospace/graduate/phd.php",
+    "requirements": {
+      "gpa": "3.2+ GPA in aerospace, mechanical, or materials engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE Quantitative 155+ recommended",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10480,
+    "title": "Ph.D. in Industrial, Systems, and Manufacturing Engineering - Digital Twin & Additive Manufacturing",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Industry-driven engineering doctorate utilizing NIAR's Advanced Technologies Lab for Aerospace Systems (ATLAS) to develop metal 3D printing algorithms, robotic automated fiber placement, and supply chain digital twins.",
+    "funding": "Graduate Research Assistantship: $24,000/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.wichita.edu/academics/engineering/ime/graduate/phd.php",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in engineering or physical sciences",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Transcripts, CV, statement of research purpose",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10481,
+    "title": "Master of Science in Computer Science - Cybersecurity & Autonomous Navigation",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous graduate computing degree exploring avionics software security, drone swarm consensus protocols, deep learning for sensor fusion, and cyber-physical infrastructure defense.",
+    "funding": "Innovation Campus Graduate Assistantships up to $14,000/year",
+    "tuition": "$17,200/year (out-of-state) / $8,400/year (in-state)",
+    "fee": "$75",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wichita.edu/academics/engineering/eecs/graduate/cs_ms.php",
+    "requirements": {
+      "gpa": "3.0+ GPA in computer science, software engineering, or computer engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, CV, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10482,
+    "title": "Ph.D. in Chemistry - Polymeric Biomaterials & Nanomedicine Drug Delivery",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Doctoral research program focusing on synthetic macromolecular chemistry, stimuli-responsive nanocarriers for targeted oncological drug delivery, antimicrobial surfaces, and bio-nanotechnology.",
+    "funding": "Graduate Teaching/Research Assistantship: $22,500/year stipend and full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.wichita.edu/academics/fairmount_college_of_liberal_arts_and_sciences/chemistry/graduate/phd.php",
+    "requirements": {
+      "gpa": "3.0+ GPA in chemistry, biochemistry, or chemical engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Research statement, CV, official transcripts",
+      "references": "Three letters from science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10483,
+    "title": "Doctor of Physical Therapy (DPT) - Musculoskeletal & Neuromuscular Rehabilitation",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAPTE-accredited three-year professional doctorate delivering clinical anatomy dissection, neuro-rehabilitation, pediatric physical therapy, and evidence-based orthopedics.",
+    "funding": "College of Health Professions Endowed Clinical Scholarships up to $6,000/year",
+    "tuition": "$22,400/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.wichita.edu/academics/health_professions/pt/dpt.php",
+    "requirements": {
+      "gpa": "3.0+ cumulative GPA and prerequisite science GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 88+",
+      "gre": "GRE required",
+      "papers": "PTCAS application, verified observation hours, transcripts",
+      "references": "Three recommendations (including one licensed PT)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10484,
+    "title": "Master of Business Administration (MBA) - Aviation Management & Global Supply Chain",
+    "university": "Wichita State University",
+    "country": "United States",
+    "location": "Wichita, Kansas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA program housed in Woolsey Hall at the W. Frank Barton School of Business, partnering with Airbus, Textron Aviation, and Spirit AeroSystems in aerospace supply chain analytics.",
+    "funding": "Barton School Graduate Fellowships up to $7,500/year",
+    "tuition": "$18,500/year",
+    "fee": "$75",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wichita.edu/academics/business/graduate_studies/mba.php",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Resume showing professional experience, statement of purpose, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10485,
+    "title": "Doctor of Psychology (Psy.D.) in Clinical Psychology - Health & Forensic Psychology",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited practitioner-scholar doctoral program recognized for specialized dual degrees (Psy.D./MBA, Psy.D./JD), delivering clinical rotations across Philadelphia hospitals and mental health centers.",
+    "funding": "Graduate Clinical Assistantships and Tuition Scholarships up to $12,000/year",
+    "tuition": "$34,500/year",
+    "fee": "$50",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.widener.edu/academics/graduate-studies/clinical-psychology-psyd",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in psychology or behavioral science",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE General optional",
+      "papers": "Three clinical essays, CV, official transcripts",
+      "references": "Three letters from psychologists or academic mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10486,
+    "title": "Master of Science in Biomedical Engineering - Orthopedic Biomechanics & Medical Implants",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Hands-on engineering master's addressing surgical implant biomechanics, biomaterial biocompatibility, finite element computational modeling, and tissue scaffold fabrication.",
+    "funding": "School of Engineering Graduate Research Assistantships up to $9,000/year",
+    "tuition": "$19,800/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.widener.edu/academics/graduate-studies/biomedical-engineering-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in engineering, biology, or physics",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10487,
+    "title": "Juris Doctor (J.D.) - Environmental Law & Corporate Compliance - Delaware Law School",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "ABA-accredited legal education based in Wilmington, Delaware—the corporate litigation capital of the United States—featuring specialized certificates in corporate law, environmental advocacy, and trial advocacy.",
+    "funding": "Delaware Law Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$42,600/year",
+    "fee": "$60 (Waiver available)",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://delawarelaw.widener.edu/admissions/jd-admissions/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive undergraduate GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "LSAT or GRE score required",
+      "papers": "Personal statement, resume, CAS credential assembly service report",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10488,
+    "title": "Master of Science in Nursing (MSN) - Family Nurse Practitioner (FNP)",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited graduate nursing program preparing registered nurses for national FNP certification, emphasizing primary care management of chronic health conditions across the lifespan.",
+    "funding": "School of Nursing Graduate Traineeships up to $7,500/year",
+    "tuition": "$18,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.widener.edu/academics/graduate-studies/family-nurse-practitioner-msn",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA and active unencumbered RN license",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Resume showing 1+ year clinical experience, personal essay, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10489,
+    "title": "Master of Social Work (MSW) - Trauma-Informed Clinical Practice",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited social work degree with a distinct trauma-informed clinical curriculum, preparing practitioners for hospital, school, and community mental health leadership.",
+    "funding": "Center for Social Work Education Merit Grants up to $6,000/year",
+    "tuition": "$17,200/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.widener.edu/academics/graduate-studies/social-work-msw",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Personal statement detailing commitment to social justice, CV, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10490,
+    "title": "Ph.D. in Human Sexuality Studies - Clinical Sex Therapy & Sexuality Education",
+    "university": "Widener University",
+    "country": "United States",
+    "location": "Chester, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "The only fully accredited doctoral program in human sexuality studies housed at a comprehensive university in the United States, training global leaders in sexual health clinical therapy and policy research.",
+    "funding": "Center for Human Sexuality Graduate Fellowships up to $10,000/year",
+    "tuition": "$26,400/year",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.widener.edu/academics/graduate-studies/human-sexuality-phd",
+    "requirements": {
+      "gpa": "3.3+ master's degree GPA in mental health, education, or healthcare",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample, statement of research purpose, CV",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10491,
+    "title": "Master of Science in Data Science - Civic Analytics & Environmental Modeling",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "environment"
+    ],
+    "desc": "Applied data science master's program utilizing direct partnerships with Oregon state government agencies to analyze geospatial climate datasets, public health telemetry, and machine learning policy governance.",
+    "funding": "School of Computing Graduate Merit Scholarships up to $10,000/year",
+    "tuition": "$24,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://willamette.edu/computing/programs/ms-data-science/index.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with quantitative background in calculus or programming",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10492,
+    "title": "Juris Doctor (J.D.) - Environmental Law & Public Interest - College of Law",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "ABA-accredited legal education positioned directly opposite the Oregon State Capitol, offering unparalleled legislative externships, water rights law, public policy advocacy, and trial practice.",
+    "funding": "College of Law Dean's Merit Scholarships covering up to 100% tuition",
+    "tuition": "$47,200/year",
+    "fee": "$50 (Waiver available)",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://willamette.edu/law/admission/jd/index.html",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive undergraduate GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "LSAT or GRE score required",
+      "papers": "Personal statement, resume, CAS law school report",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10493,
+    "title": "Master of Business Administration (MBA) - Public and Not-for-Profit Management - Atkinson School",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "One of only two programs in the world accredited by both AACSB International (business) and NASPAA (public administration), integrating corporate finance with public policy and nonprofit leadership.",
+    "funding": "Atkinson School Endowed Merit Scholarships up to $18,000/year",
+    "tuition": "$32,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://willamette.edu/mba/admission/index.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GMAT/GRE optional",
+      "papers": "Resume showing leadership potential, essay, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10494,
+    "title": "Bachelor of Arts in Environmental Science - Forest Ecology & Zena Research Preserve",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on undergraduate environmental science curriculum conducting field ecology, watershed hydrology, and wildfire restoration at the 305-acre Zena Sustainability Park.",
+    "funding": "Willamette Merit Scholarships up to $25,000/year plus summer research grants",
+    "tuition": "$56,800/year (Significant merit scholarships apply)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://willamette.edu/cla/environmental-science/index.html",
+    "requirements": {
+      "gpa": "3.3+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Common Application, essay, transcripts",
+      "references": "One counselor and one teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10495,
+    "title": "Master of Fine Arts (MFA) in Visual Studies - Pacific Northwest College of Art (PNCA)",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Interdisciplinary studio art MFA based at PNCA in Portland, Oregon, fostering critical discourse, studio critique, printmaking, installation sculpture, and contemporary social practice.",
+    "funding": "PNCA Dean's Visual Arts Fellowships up to $12,000/year",
+    "tuition": "$38,400/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://pnca.willamette.edu/academics/graduate/mfa-visual-studies",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in fine arts or related field",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Visual portfolio (20 images/videos), artist statement, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10496,
+    "title": "Bachelor of Arts in Politics, Policy, Law and Ethics (PPLE) - Capitol Legislative Internship",
+    "university": "Willamette University",
+    "country": "United States",
+    "location": "Salem, Oregon, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Distinctive interdisciplinary undergraduate major that places students in legislative offices and the Governor's office at the Oregon State Capitol, examining constitutional law, political philosophy, and state policymaking.",
+    "funding": "Willamette College Leadership Scholarships up to $24,000/year",
+    "tuition": "$56,800/year",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://willamette.edu/cla/pple/index.html",
+    "requirements": {
+      "gpa": "Top 20% high school class rank with social sciences rigor",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Common Application, writing sample/essay, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10497,
+    "title": "Doctor of Science in Cybersecurity - Enterprise Information Assurance & Threat Governance",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA/CAE-CD designated doctoral degree preparing cybersecurity C-suite executives, researchers, and policymakers in zero-trust architecture, cloud security governance, critical infrastructure defense, and adversarial threat modeling.",
+    "funding": "Doctoral Cyber Leadership Scholarships up to $8,000/year",
+    "tuition": "$18,500/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wilmu.edu/technology/cybersecurity-doctorate.aspx",
+    "requirements": {
+      "gpa": "3.3+ GPA in a relevant master's degree in IT, cybersecurity, or computer science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Doctoral research statement, professional CV, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10498,
+    "title": "Doctor of Nursing Practice (DNP) - Executive Healthcare Leadership & Clinical Innovation",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited terminal practice degree equipping advanced practice nurses and healthcare executives with systems-level leadership, epidemiology, translational healthcare informatics, and clinical policy advocacy.",
+    "funding": "College of Health Professions Endowed Traineeships up to $6,000/year",
+    "tuition": "$16,800/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.wilmu.edu/health/doctor-of-nursing-practice.aspx",
+    "requirements": {
+      "gpa": "3.0+ MSN GPA from an accredited program and active unencumbered RN license",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Resume showing clinical leadership, DNP project proposal, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10499,
+    "title": "Master of Science in Information Systems Technologies - Artificial Intelligence & Cloud Security",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Practical STEM master's exploring enterprise cloud infrastructure in AWS and Azure, conversational AI deployment, business process automation, and data pipeline security.",
+    "funding": "Technology Graduate Merit Grants up to $5,000/year",
+    "tuition": "$15,200/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wilmu.edu/technology/information-systems-technologies-master.aspx",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in technology, business, or related STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10500,
+    "title": "Doctor of Business Administration (DBA) - Strategic Management & Executive Analytics",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "IACBE-accredited doctoral business degree designed for corporate leaders, concentrating on econometric forecasting, applied organizational research, global marketing governance, and change management.",
+    "funding": "College of Business Executive Fellowships up to $7,000/year",
+    "tuition": "$18,200/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wilmu.edu/business/dba.aspx",
+    "requirements": {
+      "gpa": "3.3+ master's degree GPA with managerial work experience",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE not required",
+      "papers": "Doctoral research goals essay, executive resume, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10501,
+    "title": "Master of Science in Environmental Science - Geospatial GIS & Wetland Restoration",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Applied environmental master's utilizing Delaware Bay coastal wetlands to study environmental impact assessment, spatial GIS cartography, watershed hydrology, and coastal resilience.",
+    "funding": "Delaware Estuary Environmental Research Grants up to $5,000/year",
+    "tuition": "$15,200/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wilmu.edu/health/environmental-science-master.aspx",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in natural sciences, biology, or environmental science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Transcripts, statement of career objectives, resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10502,
+    "title": "Master of Science in Administration of Justice - Cyber Crime & Forensic Investigation",
+    "university": "Wilmington University",
+    "country": "United States",
+    "location": "New Castle, Delaware, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Advanced criminal justice degree exploring federal digital evidence recovery, dark web financial tracking, constitutional criminal procedure, and homeland security counter-extremism.",
+    "funding": "Criminal Justice Professional Scholarships up to $4,500/year",
+    "tuition": "$15,200/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.wilmu.edu/behavioralscience/administration-of-justice-master.aspx",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Personal statement, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10503,
+    "title": "Bachelor of Science in Biology - Pre-Medicine & Medical Research (MRMC Partnership)",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Premier pre-medical biology program situated steps from the Milwaukee Regional Medical Center, offering undergraduates laboratory research in zebrafish developmental genetics, cancer pharmacology, and neuro-histology.",
+    "funding": "Generac Hall Science Scholars Awards up to $18,000/year",
+    "tuition": "$33,800/year",
+    "fee": "$0 (Free application)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wlc.edu/academics/programs/biology",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "One teacher or counselor recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10504,
+    "title": "Bachelor of Science in Nursing (BSN) - Acute Clinical Rotations & Simulation",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited undergraduate nursing program featuring high-fidelity clinical simulation suites and clinical practicums at Froedtert Hospital and Children's Wisconsin.",
+    "funding": "Wisconsin Lutheran Healthcare Merit Grants up to $16,000/year",
+    "tuition": "$33,800/year",
+    "fee": "$0",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.wlc.edu/academics/programs/nursing",
+    "requirements": {
+      "gpa": "3.2+ high school GPA with chemistry and biology rigor",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, essay on nursing vocation",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10505,
+    "title": "Bachelor of Science in Neuroscience - Cognitive Electrophysiology & Brain Plasticity",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Interdisciplinary neuroscience curriculum investigating behavioral neuropharmacology, EEG sensory processing, memory consolidation, and neurodegenerative disease mechanisms.",
+    "funding": "Undergraduate Neuroscience Research Fellowships up to $15,000/year",
+    "tuition": "$33,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wlc.edu/academics/programs/neuroscience",
+    "requirements": {
+      "gpa": "3.0+ high school GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and personal statement",
+      "references": "One teacher evaluation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10506,
+    "title": "Bachelor of Science in Computer Science - Software Architecture & Cloud Systems",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on computing degree preparing software developers in Java, Python, data structures, cloud infrastructure, algorithm optimization, and enterprise database systems.",
+    "funding": "WLC STEM Leadership Grants up to $16,000/year",
+    "tuition": "$33,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wlc.edu/academics/programs/computer-science",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with mathematics readiness",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10507,
+    "title": "Master of Arts in High Performance Instruction - Pedagogical Innovation & Curriculum",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Practical graduate education degree designed for practicing K-12 teachers to master differentiated instruction, instructional technology integration, and educational data assessment.",
+    "funding": "Educator Advancement Scholarships up to $4,000/year",
+    "tuition": "$12,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.wlc.edu/academics/programs/high-performance-instruction",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with teaching experience",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of educational philosophy, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10508,
+    "title": "Bachelor of Science in Business Administration - Finance & Servant Leadership",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "location": "Milwaukee, Wisconsin, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Rigorous undergraduate business curriculum emphasizing ethical corporate governance, quantitative investment analysis, managerial marketing, and Milwaukee corporate internships.",
+    "funding": "WLC Christian Leadership Scholarships up to $17,000/year",
+    "tuition": "$33,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.wlc.edu/academics/programs/business-administration",
+    "requirements": {
+      "gpa": "2.8+ high school GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10509,
+    "title": "Doctor of Pharmacy (Pharm.D.) - Clinical Pharmacokinetics & Health Equity - College of Pharmacy",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "ACPE-accredited four-year professional pharmacy doctorate recognized nationally for training clinical pharmacists who lead community pharmacotherapy, infectious disease trials, and oncological drug management.",
+    "funding": "College of Pharmacy Dean's Scholarships up to $12,000/year",
+    "tuition": "$38,500/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.xula.edu/collegeofpharmacy/index.html",
+    "requirements": {
+      "gpa": "2.75+ prerequisite college GPA with organic chemistry and biology prerequisites",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS application, personal statement, official college transcripts",
+      "references": "Two recommendations (at least one science professor or pharmacist)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10510,
+    "title": "Bachelor of Science in Chemistry - Pre-Medical Track & Chemical Synthesis",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "The nation's top producer of Black chemistry undergraduates who enter medical school, providing rigorous laboratory synthesis in bio-organic chemistry, spectroscopy, and medicinal drug design.",
+    "funding": "Katharine Drexel Merit Scholarships up to $20,000/year",
+    "tuition": "$26,800/year",
+    "fee": "$40 (Waiver available)",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.xula.edu/chemistry/index.html",
+    "requirements": {
+      "gpa": "3.3+ high school GPA with advanced chemistry and calculus readiness",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Common Application, personal essay, high school transcripts",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10511,
+    "title": "Master of Science in Health Informatics - Healthcare Analytics & Electronic Records",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "biology"
+    ],
+    "desc": "Cutting-edge health informatics master's focusing on clinical healthcare database security, machine learning algorithms for epidemiological tracking, and interoperable telehealth systems.",
+    "funding": "Health Disparities Technology Fellowships up to $6,000/year",
+    "tuition": "$16,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.xula.edu/health-informatics/index.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in STEM, health, or computer science",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10512,
+    "title": "Master of Public Health (MPH) - Health Equity & Chronic Disease Epidemiology",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "CEPH-accredited public health master's concentrating on racial and socio-economic health disparities, environmental justice in Gulf Coast communities, and epidemiological biostatistics.",
+    "funding": "Public Health Leadership Grants up to $7,500/year",
+    "tuition": "$17,200/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.xula.edu/publichealth/index.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "SOPHAS application, personal statement on health equity, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10513,
+    "title": "Bachelor of Science in Biology - Cancer Cell Biology & Molecular Genetics",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Nationally acclaimed pre-medical biology curriculum offering funded biomedical laboratory research in oncogene regulation, triple-negative breast cancer cell signaling, and cardiovascular epigenetics.",
+    "funding": "NIH MARC & RISE Undergraduate Research Fellowships with full tuition and monthly stipends",
+    "tuition": "$26,800/year (Fellowships apply)",
+    "fee": "$40",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.xula.edu/biology/index.html",
+    "requirements": {
+      "gpa": "3.2+ high school GPA with biology and chemistry coursework",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, essay, counselor report",
+      "references": "Two teacher recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10514,
+    "title": "Master of Arts in Curriculum and Instruction - Urban STEM Education",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "location": "New Orleans, Louisiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CAEP-accredited graduate education degree preparing transformative urban STEM educators through immersive co-teaching residencies in New Orleans public and charter schools.",
+    "funding": "Xavier Urban Teacher Residency Stipends up to $15,000",
+    "tuition": "$14,800/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.xula.edu/education/index.html",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Statement of teaching intent, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10515,
+    "title": "Master of Science in Artificial Intelligence - Deep Learning & Natural Language Processing - Katz School",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "Elite STEM-designated artificial intelligence master's based in Manhattan, training students in transformer neural architectures, computer vision, reinforcement learning, and ethical AI deployment.",
+    "funding": "Katz School STEM Merit Scholarships up to $15,000/year",
+    "tuition": "$26,500/year",
+    "fee": "$65",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.yu.edu/katz/ai",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with strong mathematics and programming foundation",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two academic or professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10516,
+    "title": "Juris Doctor (J.D.) - Intellectual Property & Corporate Law - Cardozo School of Law",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Nationally top-ranked intellectual property law school located in Greenwich Village, home to the Innocence Project, offering immersive clinics in blockchain technology, patent litigation, and media entertainment law.",
+    "funding": "Cardozo Law Dean's Merit Scholarships covering up to 100% of tuition",
+    "tuition": "$68,500/year",
+    "fee": "$0 (Application fee waiver available)",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://cardozo.yu.edu/admissions/jd-admissions",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive undergraduate GPA",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "LSAT or GRE score required",
+      "papers": "Personal statement, resume, CAS credential report",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10517,
+    "title": "Ph.D. in Clinical Psychology with Health Emphasis - Behavioral Medicine - Ferkauf School",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited doctoral program in clinical psychology with health emphasis, providing rigorous training in neuropsychological assessment, psycho-oncology, chronic pain management, and behavioral medicine.",
+    "funding": "Ferkauf School Doctoral Fellowships and Research Assistantships up to $16,000/year",
+    "tuition": "$38,400/year",
+    "fee": "$75",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.yu.edu/ferkauf/clinical-health-phd",
+    "requirements": {
+      "gpa": "3.3+ GPA in psychology or behavioral science",
+      "ielts": "IELTS 7.0+ or TOEFL 100+",
+      "gre": "GRE General optional",
+      "papers": "Clinical statement of purpose, CV, transcripts",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10518,
+    "title": "Master of Science in Biotechnology Management and Entrepreneurship",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Cross-disciplinary STEM program connecting molecular biology and genomics with life science venture capital, clinical trial management, and FDA regulatory pathways.",
+    "funding": "Katz Biotechnology Innovation Scholarships up to $12,000/year",
+    "tuition": "$26,500/year",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.yu.edu/katz/biotechnology",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biology, chemistry, or related science",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Statement of career objectives, CV, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10519,
+    "title": "Master of Science in Quantitative Economics - Financial Econometrics & Machine Learning",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "STEM-designated quantitative economics master's in Midtown Manhattan, combining rigorous macro-econometric modeling, algorithmic trading theory, and Python financial data science.",
+    "funding": "Sy Syms Quantitative Economics Fellowships up to $10,000/year",
+    "tuition": "$25,200/year",
+    "fee": "$65",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.yu.edu/syms/quantitative-economics",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with multivariate calculus and statistics",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "GRE/GMAT optional",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10520,
+    "title": "Master of Social Work (MSW) - Clinical Practice with Children & Families - Wurzweiler",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "location": "New York, New York, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited social work program established in 1957, preparing clinical therapists for private practice, hospital palliative care, trauma therapy, and community advocacy.",
+    "funding": "Wurzweiler School Endowed Scholarships up to $8,000/year",
+    "tuition": "$22,800/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.yu.edu/wurzweiler/msw",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Personal narrative essay, resume, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10521,
+    "title": "Bachelor of Science in Biology - Pre-Medical & Healthcare Professions",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Rigorous undergraduate pre-medical biology curriculum offering hands-on human anatomy dissection, cellular physiology, genetics, and clinical observation hours at York General Hospital.",
+    "funding": "Holthus Science Achievement Scholarships up to $12,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$0 (Free application)",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/academics/undergraduate-majors/biology",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcript, application form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10522,
+    "title": "Master of Arts in Organizational and Global Leadership - Strategic Management",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Flexible 36-credit online graduate program focusing on ethical organizational governance, conflict negotiation, cross-cultural leadership dynamics, and strategic team development.",
+    "funding": "York Graduate Leadership Grants up to $3,500/year",
+    "tuition": "$10,800/year",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/online/maol",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Personal statement of leadership goals, resume, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10523,
+    "title": "Bachelor of Science in Criminal Justice - Digital Investigation & Law Enforcement",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Hands-on undergraduate criminal justice program covering constitutional legal procedures, digital forensic crime scene documentation, juvenile justice systems, and law enforcement ethics.",
+    "funding": "York University Merit Awards up to $10,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/academics/undergraduate-majors/criminal-justice",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10524,
+    "title": "Bachelor of Science in Business Administration - Agribusiness & Farm Financial Management",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Specialized business program situated in the agricultural heartland of Nebraska, examining commodity market trading, agricultural cooperative management, crop insurance finance, and enterprise accounting.",
+    "funding": "Midwest Agricultural Business Grants up to $10,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/academics/undergraduate-majors/business-administration",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10525,
+    "title": "Bachelor of Science in Elementary Education - K-6 Endorsement & Practicum",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "State-approved teacher education curriculum offering early classroom clinical practicums, literacy instruction pedagogy, and 16 weeks of full-time student teaching.",
+    "funding": "Nebraska Teacher Education Scholarships up to $11,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/academics/undergraduate-majors/education",
+    "requirements": {
+      "gpa": "2.75+ high school GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts, character reference",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10526,
+    "title": "Bachelor of Arts in Psychology - Behavioral Counseling & Adolescent Development",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "location": "York, Nebraska, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate psychology curriculum covering abnormal psychology, developmental cognitive theory, counseling methodologies, and empirical behavioral research methodology.",
+    "funding": "York Academic Excellence Awards up to $10,000/year",
+    "tuition": "$21,400/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.york.edu/academics/undergraduate-majors/psychology",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and personal essay",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10527,
+    "title": "Ph.D. in International Studies - Global Governance, Security & Human Rights - Josef Korbel School",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "World-renowned international affairs doctorate that educated U.S. Secretaries of State, investigating multilateral global governance, authoritarianism, climate security diplomacy, and international human rights law.",
+    "funding": "Korbel Doctoral Fellowship: $30,000/year stipend, full tuition waiver, and travel research funding",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$65",
+    "deadline": "2026-12-15",
+    "deadlineText": "December 15, 2026",
+    "source": "https://korbel.du.edu/academics/phd-international-studies",
+    "requirements": {
+      "gpa": "3.5+ GPA in a relevant master's or bachelor's degree in political science, economics, or history",
+      "ielts": "IELTS 7.5+ or TOEFL 100+",
+      "gre": "GRE optional",
+      "papers": "Substantial analytical writing sample, statement of research purpose, CV",
+      "references": "Three academic recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10528,
+    "title": "Ph.D. in Electrical and Computer Engineering - Renewable Energy & Power Grid Resiliency",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Doctoral research program partnering with NREL to advance renewable energy grid integration, distributed microgrids, power electronics converters, and cyber-physical security of energy systems.",
+    "funding": "Ritchie School Graduate Research Assistantship: $29,000/year stipend plus 100% tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ritchieschool.du.edu/engineering/electrical-computer-engineering/phd",
+    "requirements": {
+      "gpa": "3.3+ GPA in electrical engineering, computer engineering, or related STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 88+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10529,
+    "title": "Juris Doctor (J.D.) - Natural Resources & Environmental Law - Sturm College of Law",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Nationally top-ranked natural resources and environmental law program offering clinical training in public lands management, water law, tribal resource rights, and energy transition policy.",
+    "funding": "Sturm Law Dean's Merit Scholarships covering up to 100% tuition",
+    "tuition": "$58,400/year",
+    "fee": "$65 (Waiver available)",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.law.du.edu/admissions/jd-admissions",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive undergraduate GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 95+",
+      "gre": "LSAT or GRE score required",
+      "papers": "Personal statement, resume, CAS law credential report",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10530,
+    "title": "Ph.D. in Computer Science - Robotic Swarms & Distributed Artificial Intelligence",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Cutting-edge computer science doctorate focusing on multi-robot coordination, autonomous unmanned aerial systems, human-robot interaction, and secure distributed algorithms.",
+    "funding": "Doctoral Research Fellowship: $30,000/year stipend, complete tuition waiver, and health care",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ritchieschool.du.edu/computer-science/phd",
+    "requirements": {
+      "gpa": "3.3+ GPA in computer science or related mathematics/engineering discipline",
+      "ielts": "IELTS 6.5+ or TOEFL 88+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, academic CV, transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10531,
+    "title": "Ph.D. in Biological Sciences - Alpine Plant Adaptation & Cellular Neurobiology",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Doctoral training program utilizing Colorado Rocky Mountain high-altitude field stations and modern molecular laboratories to study cellular stress signaling, alpine ecology, and neurodegenerative biophysics.",
+    "funding": "Graduate Teaching/Research Assistantship: $28,500/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$65",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://science.du.edu/biological-sciences/phd",
+    "requirements": {
+      "gpa": "3.2+ undergraduate GPA in biological sciences or biochemistry",
+      "ielts": "IELTS 6.5+ or TOEFL 88+",
+      "gre": "Not required",
+      "papers": "Research statement, CV, transcripts",
+      "references": "Three letters from science professors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10532,
+    "title": "Master of Science in Business Analytics (MSBA) - Predictive Modeling & Financial Tech - Daniels",
+    "university": "University of Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "AACSB-accredited STEM master's program at the Daniels College of Business, preparing analysts in Python, machine learning for consumer analytics, database architecture, and corporate risk modeling.",
+    "funding": "Daniels College of Business Graduate Merit Scholarships up to $15,000/year",
+    "tuition": "$42,500/year",
+    "fee": "$100",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://daniels.du.edu/business-analytics/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with quantitative readiness",
+      "ielts": "IELTS 6.5+ or TOEFL 88+",
+      "gre": "GMAT/GRE optional",
+      "papers": "Professional resume, essay, official transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10533,
+    "title": "Doctor of Veterinary Medicine (DVM) - Agricultural Livestock & Zoonotic Infectious Diseases",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "World-class veterinary medicine doctorate partnering with NBAF to train veterinary scientists in livestock disease epidemiology, food animal production medicine, zoonotic virology, and clinical surgery.",
+    "funding": "College of Veterinary Medicine Endowed Merit Scholarships up to $15,000/year",
+    "tuition": "$34,200/year (out-of-state) / $17,500/year (in-state)",
+    "fee": "$75",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://www.vet.k-state.edu/admissions/",
+    "requirements": {
+      "gpa": "2.8+ science and cumulative prerequisite GPA with required animal experience hours",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE not required",
+      "papers": "VMCAS application, veterinary experience log, transcripts",
+      "references": "Three letters (including at least one veterinarian)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10534,
+    "title": "Ph.D. in Grain Science - Cereal Chemistry & Industrial Bioprocessing",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology",
+      "engineering"
+    ],
+    "desc": "The only department in the United States granting doctoral degrees in grain and milling science, conducting cutting-edge research in cereal starch chemistry, extruded food polymers, bioproducts, and grain safety.",
+    "funding": "Departmental Graduate Research Assistantship: $25,000/year stipend, full tuition waiver, and lab fees",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.grains.k-state.edu/academics/graduate/index.html",
+    "requirements": {
+      "gpa": "3.2+ GPA in food science, chemistry, chemical engineering, or agriculture",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10535,
+    "title": "Ph.D. in Biological and Agricultural Engineering - Precision Agriculture & Hydrology",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Interdisciplinary engineering doctorate focusing on Ogallala Aquifer water sustainability, autonomous agricultural machinery, drone remote sensing for crop yield, and bio-energy processing.",
+    "funding": "Carl R. Ice College of Engineering Fellowship: $26,000/year stipend plus full tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.bae.ksu.edu/academics/graduate/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in engineering or physical sciences",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, CV, transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10536,
+    "title": "Ph.D. in Computer Science - Artificial Intelligence & Cyber-Physical Security",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "High-impact computing doctorate focusing on trustworthy machine learning, agricultural IoT sensor network security, software engineering automated testing, and cyber defense.",
+    "funding": "Doctoral Graduate Assistantship: $25,000/year stipend and 100% tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.cs.ksu.edu/academics/graduate/phd/",
+    "requirements": {
+      "gpa": "3.2+ GPA in computer science or related discipline",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research purpose, CV, transcripts",
+      "references": "Three academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10537,
+    "title": "Master of Architecture (M.Arch) - Sustainable Prairie Architecture & Urban Design - APDesign",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "environment"
+    ],
+    "desc": "Nationally top-ranked professional architecture program in Seaton Hall, emphasizing environmental sustainability, tectonic mass timber fabrication, parametric modeling, and resilient urban community planning.",
+    "funding": "APDesign Endowed Graduate Scholarships up to $10,000/year",
+    "tuition": "$21,400/year (out-of-state) / $10,800/year (in-state)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://apdesign.k-state.edu/arch/apply/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in architecture or environmental design",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Design portfolio, statement of intent, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10538,
+    "title": "Ph.D. in Agronomy - Plant Breeding, Soil Health & Climate Resilience",
+    "university": "Kansas State University",
+    "country": "United States",
+    "location": "Manhattan, Kansas, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "World-renowned agronomy doctorate conducting field and genomic research on drought-tolerant wheat and sorghum cultivars, carbon sequestration in prairie soils, and precision nutrient management.",
+    "funding": "Doctoral Graduate Research Assistantship: $24,500/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.agronomy.k-state.edu/academics/graduate-programs/",
+    "requirements": {
+      "gpa": "3.2+ GPA in agronomy, plant science, biology, or soil science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research intent, CV, transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10539,
+    "title": "Ph.D. in Safety Sciences - Occupational Ergonomics & Industrial Hygiene",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "The nation's flagship doctoral program in safety sciences, preparing industry leaders and researchers in occupational hazard mitigation, industrial aerosol toxicology, and organizational safety culture.",
+    "funding": "Doctoral Graduate Assistantships with stipends up to $15,000/year plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.iup.edu/safetysciences/grad/safety-sciences-phd/",
+    "requirements": {
+      "gpa": "3.0+ master's or bachelor's GPA in safety sciences, engineering, or related science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10540,
+    "title": "Doctor of Psychology (Psy.D.) in Clinical Psychology - Community Mental Health",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "APA-accredited practitioner-scholar doctoral program recognized for training clinical psychologists in evidence-based rural community mental health, clinical neuropsychology, and child psychological assessment.",
+    "funding": "Doctoral Assistantships providing tuition waivers and annual stipends up to $10,000",
+    "tuition": "$19,200/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2026-12-01",
+    "deadlineText": "December 1, 2026",
+    "source": "https://www.iup.edu/psychology/grad/clinical-psychology-psyd/",
+    "requirements": {
+      "gpa": "3.2+ GPA in psychology or behavioral science",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE General optional",
+      "papers": "Personal statement, clinical interests essay, CV, transcripts",
+      "references": "Three academic or clinical references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10541,
+    "title": "Ph.D. in Criminology - Quantitative Crime Policy & Juvenile Justice",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Fellowship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Top-tier doctoral program in criminology and criminal justice focusing on statistical modeling of criminal recidivism, community policing evaluation, penal reform, and forensic theory.",
+    "funding": "Doctoral Teaching/Research Fellowships: $14,000/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.iup.edu/criminology/grad/criminology-phd/",
+    "requirements": {
+      "gpa": "3.3+ GPA in a master's program in criminology, criminal justice, or sociology",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample, statement of research purpose, CV",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10542,
+    "title": "Master of Science in Applied Mathematics - Operations Research & Statistical Computing",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "computer-science"
+    ],
+    "desc": "Applied mathematics curriculum housed in Kopchick Hall, focusing on numerical optimization, stochastic processes, data analytics in Python and R, and predictive predictive modeling.",
+    "funding": "Departmental Graduate Assistantships with tuition waivers and stipends up to $8,000/year",
+    "tuition": "$16,500/year (out-of-state) / $11,000/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.iup.edu/math/grad/applied-mathematics-ms/",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA with multivariate calculus and linear algebra",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10543,
+    "title": "Master of Science in Nursing (MSN) - Nursing Education & Healthcare Administration",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited graduate nursing program preparing nurse educators and clinical administrators to design nursing school curricula, lead clinical simulation centers, and direct hospital nursing staff.",
+    "funding": "PASSHE Nursing Faculty Traineeship Awards up to $5,000/year",
+    "tuition": "$15,200/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.iup.edu/nursing/grad/nursing-ms/",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA and unencumbered RN license",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Resume showing 1+ year clinical experience, essay, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10544,
+    "title": "Bachelor of Science in Computer Science - Software Engineering & Cybersecurity",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "location": "Indiana, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "ABET-accredited undergraduate computer science program based in the new John J. and Char Kopchick Hall, featuring modern cybersecurity labs, full-stack software development, and Linux systems programming.",
+    "funding": "Kopchick STEM Excellence Scholarships up to $6,000/year",
+    "tuition": "$18,500/year (out-of-state) / $9,500/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.iup.edu/compsci/undergrad/computer-science-bs/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with algebra readiness",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10545,
+    "title": "Bachelor of Fine Arts (BFA) in Communication Design - Graphic Design & Advertising",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Scholarship",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally acclaimed NASAD-accredited communication design program with an elite creative alumni network, training graphic designers, art directors, and interactive UI/UX specialists in the Sharadin Arts Building.",
+    "funding": "Sharadin Arts Visual Merit Scholarships up to $6,000/year",
+    "tuition": "$15,200/year (out-of-state) / $7,716/year (in-state)",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/visual-and-performing-arts/majors-and-minors/communication-design.html",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with portfolio submission (10-15 creative works)",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, visual portfolio submission, essay",
+      "references": "One art teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10546,
+    "title": "Master of Science in Computer Science - Software Engineering & Cloud Infrastructure",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous graduate computing program emphasizing enterprise software engineering, distributed cloud computing, cybersecurity vulnerability assessment, and advanced database architecture.",
+    "funding": "Departmental Graduate Assistantships with full tuition waiver plus $6,000/year stipend",
+    "tuition": "$0 (With full GA)",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/computer-science-and-information-technology/graduate-program.html",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in computer science, software engineering, or STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10547,
+    "title": "Master of Business Administration (MBA) - Value-Driven Management & Financial Strategy",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited 30-credit-hour MBA delivering executive training in corporate financial analytics, strategic marketing, managerial economics, and supply chain logistics.",
+    "funding": "College of Business Graduate Assistantships up to $5,000/year",
+    "tuition": "$14,800/year (out-of-state) / $9,800/year (in-state)",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/business/programs/mba.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Resume, personal career statement, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10548,
+    "title": "Master of Education in Reading - Reading Specialist Certification",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CAEP-accredited graduate education degree leading to Pennsylvania Reading Specialist K-12 certification, focusing on diagnostic reading clinical practicum, dyslexia remediation, and literacy leadership.",
+    "funding": "PASSHE Educator Advancement Grants up to $4,000/year",
+    "tuition": "$14,500/year",
+    "fee": "$35",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/education/programs/reading-med.html",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with teaching certification",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Teaching certificate, personal essay, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10549,
+    "title": "Bachelor of Science in Marine Science - Coastal Ecology & Oceanography",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on marine science degree utilizing KU's membership in the Chincoteague Bay Field Station on Wallops Island, Virginia, to conduct marine invertebrate physiology and coastal oceanography.",
+    "funding": "Chincoteague Bay Field Station Research Grants up to $4,000/year",
+    "tuition": "$15,200/year (out-of-state) / $7,716/year (in-state)",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/physical-sciences/marine-science.html",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with biology and chemistry background",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10550,
+    "title": "Master of Social Work (MSW) - Family-In-Environment Clinical Practice",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "location": "Kutztown, Pennsylvania, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited social work degree utilizing a distinctive 'family-in-environment' framework to prepare clinical social workers for mental health clinics, schools, and child welfare agencies.",
+    "funding": "Graduate Social Work Assistantships and Rural Mental Health Stipends up to $6,000/year",
+    "tuition": "$15,200/year",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/social-work/msw.html",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of social work purpose, CV, official transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10551,
+    "title": "Ph.D. in Integrated Biosciences - Cancer Health Disparities & Drug Discovery - BBRI",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Premier doctoral training program housed in the Julius L. Chambers BBRI, exploring oncogenic signaling mechanisms in prostate and breast cancers, metabolic diseases, and novel natural product drug discovery.",
+    "funding": "BBRI Doctoral Research Assistantship: $24,000/year stipend, full tuition remission, and health insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.nccu.edu/health-sciences/integrated-biosciences-phd",
+    "requirements": {
+      "gpa": "3.2+ GPA in biological sciences, biochemistry, or chemistry",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests, CV, official transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10552,
+    "title": "Master of Science in Pharmaceutical Sciences - Biomanufacturing & Process Analytics - BRITE",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Fellowship",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology",
+      "engineering"
+    ],
+    "desc": "Cutting-edge biopharmaceutical master's utilizing the 52,000-sq-ft BRITE pilot plant to train specialists in monoclonal antibody expression, bioreactor cell culture, chromatographic purification, and cGMP compliance.",
+    "funding": "BRITE Graduate Fellowships: $16,000/year stipend plus tuition support",
+    "tuition": "$0 (With fellowship)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nccu.edu/brite/academic-programs/graduate-programs",
+    "requirements": {
+      "gpa": "3.0+ GPA in chemistry, biology, pharmacy, or chemical engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two recommendation letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10553,
+    "title": "Juris Doctor (J.D.) - Civil Rights & Environmental Justice - NCCU School of Law",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Historic ABA-accredited law school established in 1939 with a pioneering mission of equal justice under law, featuring clinical externships in biotechnology patent law, environmental justice, and civil rights litigation.",
+    "funding": "School of Law Dean's Leadership Merit Scholarships up to 100% tuition",
+    "tuition": "$32,500/year (out-of-state) / $19,800/year (in-state)",
+    "fee": "$50 (Waiver available)",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://law.nccu.edu/admissions/",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with competitive undergraduate GPA",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "LSAT score required",
+      "papers": "Personal statement, resume, CAS law school report",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10554,
+    "title": "Master of Science in Information Science (MSIS) - Cybersecurity & Health Informatics - SLIS",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "ALA-accredited STEM master's based in the Research Triangle, exploring database administration, health informatics architecture, cybersecurity policy, and data warehousing.",
+    "funding": "School of Library & Information Sciences Endowed Grants up to $6,000/year",
+    "tuition": "$17,400/year (out-of-state) / $8,900/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nccu.edu/slis/msis",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10555,
+    "title": "Master of Music (MM) in Jazz Studies - Performance & Composition",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Nationally acclaimed HBCU jazz studies graduate program founded by jazz legends, offering intensive big band and combo performance, jazz arranging, advanced improvisation, and historical pedagogy.",
+    "funding": "Jazz Studies Graduate Assistantships with tuition waivers and performance stipends",
+    "tuition": "$16,500/year (out-of-state) / $8,400/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.nccu.edu/jazz-studies",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in music or audition equivalent",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Performance audition tape, repertoire list, transcripts",
+      "references": "Two recommendations from music professionals"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10556,
+    "title": "Master of Science in Mathematics - Applied Statistics & Biomathematics",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "location": "Durham, North Carolina, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "biology"
+    ],
+    "desc": "Applied mathematics graduate program preparing students for Research Triangle biotech careers in epidemiological modeling, statistical computing in R/SAS, and numerical algorithms.",
+    "funding": "Departmental Teaching Assistantships with stipends up to $10,000/year plus tuition remission",
+    "tuition": "$16,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.nccu.edu/math/graduate",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in mathematics or quantitative STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of goals, CV, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10557,
+    "title": "Bachelor of Science in Biomedical Sciences - Pre-Medical & Molecular Biology",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Hands-on undergraduate biomedical program providing laboratory research in molecular genetics, histology, human physiology, and clinical shadowing at UNC Health Nash.",
+    "funding": "Bishop Science Merit Scholarships up to $15,000/year",
+    "tuition": "$33,400/year",
+    "fee": "$0 (Free application)",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/biomedical-sciences/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with biology and chemistry coursework",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10558,
+    "title": "Master of Science in Strategic Leadership - Organizational Change & Analytics",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Flexible 30-credit-hour graduate leadership curriculum concentrating on ethical decision making, executive team motivation, organizational change, and strategic planning.",
+    "funding": "Graduate Leadership Scholarships up to $4,000/year",
+    "tuition": "$12,500/year",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://ncwu.edu/academics/graduate/ms-strategic-leadership/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Resume, personal leadership essay, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10559,
+    "title": "Bachelor of Science in Computer Information Systems - Cyber Defense & Web Technologies",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Applied computing degree preparing graduates in enterprise network architecture, defensive cybersecurity, database administration with SQL, and modern full-stack web engineering.",
+    "funding": "STEM Leadership Grants up to $14,000/year",
+    "tuition": "$33,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/cis/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "Transcripts and application",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10560,
+    "title": "Bachelor of Science in Criminal Justice - Forensic Investigation & Homeland Security",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Comprehensive criminal justice program exploring criminal constitutional law, forensic evidence collection, correctional rehabilitation, and intelligence counter-terrorism.",
+    "funding": "NC Wesleyan Academic Excellence Awards up to $13,500/year",
+    "tuition": "$33,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/criminal-justice/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts, personal essay",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10561,
+    "title": "Bachelor of Science in Environmental Science - Conservation & Wetland Hydrology",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Scholarship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Interdisciplinary environmental degree utilizing coastal plain freshwater river basins to study water quality monitoring, soil conservation, and endangered local wildlife preservation.",
+    "funding": "Environmental Stewardship Grants up to $13,000/year",
+    "tuition": "$33,400/year",
+    "fee": "$0",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://ncwu.edu/academics/undergraduate/environmental-science/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10562,
+    "title": "Master of Criminal Justice (MCJ) - Advanced Administration & Criminological Theory",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "location": "Rocky Mount, North Carolina, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Online and hybrid master's program for law enforcement executives, focusing on community-oriented policing administration, criminal justice statistical research, and correctional policy reform.",
+    "funding": "Criminal Justice Professional Traineeships up to $3,500/year",
+    "tuition": "$12,500/year",
+    "fee": "$25",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://ncwu.edu/academics/graduate/mcj/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Professional resume, statement of purpose, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10563,
+    "title": "Master of Science in Cybersecurity - Defensive Operations & Minnesota Cyber Range",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated Center of Academic Excellence in Cyber Defense, utilizing the cutting-edge Minnesota Cyber Range to train defensive analysts in threat hunting, industrial control protection, and digital forensics.",
+    "funding": "National Science Foundation CyberCorps Scholarships for Service (Full tuition + $34,000 stipend)",
+    "tuition": "$13,800/year (out-of-state) / $9,500/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.metrostate.edu/academics/cybersecurity-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science, IT, or STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two professional or academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10564,
+    "title": "Doctor of Nursing Practice (DNP) - Family Nurse Practitioner & Systems Leadership",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited terminal nursing practice doctorate delivering comprehensive primary care clinical rotations across Twin Cities healthcare systems, health disparities epidemiology, and healthcare informatics.",
+    "funding": "Advanced Nursing Education Workforce (ANEW) HRSA Grants up to $15,000",
+    "tuition": "$18,500/year",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.metrostate.edu/academics/doctor-nursing-practice",
+    "requirements": {
+      "gpa": "3.0+ BSN GPA and active unencumbered Minnesota RN license",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Resume showing 1+ year clinical RN practice, personal statement, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10565,
+    "title": "Master of Science in Computer Science - Machine Learning & Distributed Cloud Systems",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced computer science curriculum exploring deep learning architectures, cloud computing in AWS and Kubernetes, modern compiler design, and algorithmic optimization.",
+    "funding": "Departmental Graduate Assistantships up to $7,000/year",
+    "tuition": "$13,800/year (out-of-state) / $9,500/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.metrostate.edu/academics/computer-science-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science or related mathematics/engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10566,
+    "title": "Master of Business Administration (MBA) - Healthcare & Strategic Analytics",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "ACBSP-accredited MBA curriculum partnering with Twin Cities medical and technology headquarters, emphasizing data-driven financial decision making, healthcare governance, and corporate strategy.",
+    "funding": "College of Management Graduate Fellowships up to $5,000/year",
+    "tuition": "$14,500/year",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.metrostate.edu/academics/business-administration-mba",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GMAT/GRE waiver available with work experience",
+      "papers": "Professional resume, essay on management goals, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10567,
+    "title": "Master of Science in Dental Hygiene - Advanced Clinical Practice & Oral Public Health",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Pioneering dental graduate curriculum training dental hygienists for dental therapy clinical practice, oral public health advocacy, community health epidemiology, and clinical pedagogy.",
+    "funding": "Dental Public Health Traineeship Scholarships up to $6,000/year",
+    "tuition": "$15,200/year",
+    "fee": "$40",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.metrostate.edu/academics/dental-hygiene-ms",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in dental hygiene with active dental hygiene license",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Statement of professional goals, CV, license verification, transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10568,
+    "title": "Master of Science in Community Psychology - Mental Health Evaluation & Social Justice",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "location": "St. Paul, Minnesota, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary community psychology master's focusing on urban community program evaluation, cross-cultural mental health intervention, participatory action research, and public policy advocacy.",
+    "funding": "Urban Community Psychology Fellowships up to $5,000/year",
+    "tuition": "$13,800/year",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.metrostate.edu/academics/community-psychology-ms",
+    "requirements": {
+      "gpa": "2.8+ undergraduate GPA in psychology or social sciences",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "Not required",
+      "papers": "Personal statement, writing sample, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10569,
+    "title": "Bachelor of Science in Agribusiness - Crop Management & Agricultural Finance",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Hands-on agribusiness degree situated in fertile Midwestern farmland, training students in commodity grain marketing, precision crop agronomy, farm risk management, and agribusiness economics.",
+    "funding": "Missouri Valley Agricultural Leadership Scholarships up to $14,000/year",
+    "tuition": "$21,800/year",
+    "fee": "$0 (Free application)",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.moval.edu/academics/agribusiness/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA with mathematics readiness",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and application form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10570,
+    "title": "Bachelor of Science in Nursing (BSN) - Rural Clinical Care & Emergency Simulation",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited undergraduate nursing program featuring high-fidelity simulation labs and clinical hospital rotations at Fitzgibbon Hospital and regional central Missouri healthcare centers.",
+    "funding": "Division of Nursing Healthcare Merit Grants up to $15,000/year",
+    "tuition": "$21,800/year",
+    "fee": "$0",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.moval.edu/academics/nursing/",
+    "requirements": {
+      "gpa": "3.0+ high school GPA with chemistry and biology coursework",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not applicable",
+      "papers": "Transcripts, essay on nursing philosophy",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10571,
+    "title": "Master of Arts in Educational Administration - K-12 Leadership & School Law",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "State-approved online graduate program preparing teachers for school principal and administrator certification, emphasizing school budgeting, curriculum evaluation, and educational legal compliance.",
+    "funding": "Educator Advancement Grants up to $3,500/year",
+    "tuition": "$10,500/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.moval.edu/academics/graduate-programs/educational-administration/",
+    "requirements": {
+      "gpa": "2.75+ undergraduate GPA with teaching certification",
+      "ielts": "IELTS 6.0+ or TOEFL 75+",
+      "gre": "Not required",
+      "papers": "Teaching license, resume, transcripts",
+      "references": "Two administrator references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10572,
+    "title": "Bachelor of Science in Biology - Wildlife Ecology & Conservation Genetics",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Field-oriented undergraduate biology curriculum utilizing Missouri River wetland ecosystems and native prairie reserves to conduct population genetics, ornithology, and water toxicology research.",
+    "funding": "Math and Science Achievement Awards up to $13,000/year",
+    "tuition": "$21,800/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.moval.edu/academics/biology/",
+    "requirements": {
+      "gpa": "2.8+ high school GPA with biology background",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and personal statement",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10573,
+    "title": "Master of Science in Athletic Training (MSAT) - Sports Biomechanics & Injury Rehabilitation",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAATE-accredited professional graduate program providing extensive clinical rotations with 30+ collegiate athletic teams, specializing in concussion assessment, therapeutic modalities, and orthopedic taping.",
+    "funding": "Athletic Training Clinical Assistantships up to $5,000/year",
+    "tuition": "$16,200/year",
+    "fee": "$25",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.moval.edu/academics/athletic-training/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with human anatomy and physiology prerequisites",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "ATCAS application, observation hours log, transcripts",
+      "references": "Two recommendations (at least one athletic trainer)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10574,
+    "title": "Bachelor of Science in Criminal Justice - Law Enforcement Administration & Corrections",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "location": "Marshall, Missouri, United States",
+    "type": "Scholarship",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Undergraduate criminal justice program covering criminal investigation techniques, constitutional rights, juvenile delinquency prevention, and correctional institution administration.",
+    "funding": "Missouri Valley Merit Scholarships up to $12,000/year",
+    "tuition": "$21,800/year",
+    "fee": "$0",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.moval.edu/academics/criminal-justice/",
+    "requirements": {
+      "gpa": "2.5+ high school GPA",
+      "ielts": "IELTS 6.0+ or TOEFL 68+",
+      "gre": "Not applicable",
+      "papers": "High school transcripts and application form",
+      "references": "Not required"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10575,
+    "title": "Master of Science in Cybersecurity Technology - Cloud Security Architecture & Intrusion Analysis",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Designated by the NSA as a Center of Academic Excellence in Cyber Defense (CAE-CD), this master's covers packet-level network intrusion analysis, zero-trust cloud architecture in AWS/Azure, and penetration testing.",
+    "funding": "NSA Cyber Security Scholarships and UMGC Graduate Merit Grants up to $6,000/year",
+    "tuition": "$19,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umgc.edu/online-degrees/masters/cybersecurity-technology",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in computer science, IT, or STEM",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, resume, official transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10576,
+    "title": "Doctor of Management (DM) - Executive Leadership & Strategic Innovation",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Terminal executive doctoral program designed for C-suite leaders and senior directors, investigating evidence-based management, organizational resilience, complex system dynamics, and corporate strategic governance.",
+    "funding": "Executive Doctoral Fellowships up to $7,500/year",
+    "tuition": "$24,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.umgc.edu/online-degrees/doctoral/management",
+    "requirements": {
+      "gpa": "3.3+ master's degree GPA and 5+ years of senior executive management experience",
+      "ielts": "IELTS 7.0+ or TOEFL 85+",
+      "gre": "Not required",
+      "papers": "Doctoral research statement, executive resume, transcripts",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10577,
+    "title": "Master of Science in Data Analytics - Machine Learning & Predictive Modeling",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "mathematics"
+    ],
+    "desc": "STEM-designated graduate degree training data scientists in Python, R, distributed big data architectures, neural network deep learning, and predictive business analytics.",
+    "funding": "STEM Graduate Technology Fellowships up to $5,000/year",
+    "tuition": "$19,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umgc.edu/online-degrees/masters/data-analytics",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA with statistics readiness",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Resume, statement of purpose, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10578,
+    "title": "Master of Science in Biotechnology - Regulatory Affairs & Biosecurity",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Located in the I-270 BioCapital corridor near the FDA and NIH, this master's prepares professionals in pharmaceutical regulatory compliance, vaccine manufacturing policy, and life science intellectual property.",
+    "funding": "Biotechnology Graduate Industry Grants up to $5,000/year",
+    "tuition": "$19,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umgc.edu/online-degrees/masters/biotechnology",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in biology, chemistry, or related life science",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Statement of purpose, CV, transcripts",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10579,
+    "title": "Master of Business Administration (MBA) - Global Enterprise Strategy & Finance",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Career-focused 30-credit-hour MBA delivering competencies in financial modeling, multinational strategic marketing, supply chain optimization, and ethical corporate management.",
+    "funding": "Business Dean's Graduate Scholarships up to $4,500/year",
+    "tuition": "$19,500/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umgc.edu/online-degrees/masters/business-administration-mba",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Professional resume, essay, transcripts",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10580,
+    "title": "Master of Science in Digital Forensics and Cyber Investigation - Federal Evidence Recovery",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "location": "Adelphi, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Advanced forensics master's preparing investigators for federal agencies and private enterprises in computer memory analysis, mobile device extraction, cloud telemetry acquisition, and court expert witness testimony.",
+    "funding": "Cyber Forensics Leadership Awards up to $5,000/year",
+    "tuition": "$19,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umgc.edu/online-degrees/masters/digital-forensics-cyber-investigation",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA in IT, computer science, or criminal justice",
+      "ielts": "IELTS 6.5+ or TOEFL 79+",
+      "gre": "Not required",
+      "papers": "Personal statement, resume, transcripts",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10581,
+    "title": "Ph.D. in Aerospace Engineering - Hypersonics & Space Systems - TEES",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering"
+    ],
+    "desc": "Elite doctoral program at the National Aerothermochemistry and Hypersonics Laboratory, investigating high-enthalpy boundary layer transition, scramjet propulsion, plasma flow control, and autonomous orbital rendezvous.",
+    "funding": "TEES Graduate Research Fellowship: $32,000/year stipend, full tuition remission, and health insurance",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$90",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.tamu.edu/aerospace/academics/degrees/graduate/phd.html",
+    "requirements": {
+      "gpa": "3.5+ GPA in aerospace, mechanical, or materials engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE Quantitative 160+ recommended",
+      "papers": "Statement of purpose, academic CV, official transcripts",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10582,
+    "title": "Ph.D. in Petroleum Engineering - Carbon Sequestration & Unconventional Reservoirs",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Fellowship",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Consistently ranked as the #1 petroleum engineering department in the world, conducting cutting-edge research in deep subsurface CO2 mineral trapping, hydraulic fracture digital twins, and geothermal reservoir physics.",
+    "funding": "Harold Vance Departmental Doctoral Assistantship: $30,000/year stipend plus full tuition coverage",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$90",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.tamu.edu/petroleum/academics/degrees/graduate/phd.html",
+    "requirements": {
+      "gpa": "3.3+ GPA in petroleum, chemical, or mechanical engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE General required",
+      "papers": "Statement of research interests, resume, transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10583,
+    "title": "Doctor of Veterinary Medicine (DVM) - Comparative Oncology & Equine Medicine",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "World-leading veterinary medical center recognized for advanced clinical rotations in large animal surgery, equine lameness, comparative oncological therapies, and exotic wildlife conservation.",
+    "funding": "School of Veterinary Medicine Endowed Merit Scholarships up to $18,000/year",
+    "tuition": "$38,500/year (out-of-state) / $24,200/year (in-state)",
+    "fee": "$75",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://vetmed.tamu.edu/dvm/admissions/",
+    "requirements": {
+      "gpa": "3.0+ cumulative GPA with prerequisite science coursework and clinical animal hours",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE not required",
+      "papers": "TMDSAS veterinary application, clinical experience log, transcripts",
+      "references": "Three evaluations (including one licensed veterinarian)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10584,
+    "title": "Ph.D. in Computer Science - Autonomous Systems & Trustworthy Cybersecurity",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Fellowship",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Top-tier computing doctorate investigating machine learning robustness against adversarial perturbations, hardware-assisted security, distributed cloud storage, and human-robot cooperative algorithms.",
+    "funding": "Doctoral Research Assistantship: $30,000/year stipend with 100% tuition remission",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$90",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.tamu.edu/cse/academics/degrees/graduate/phd.html",
+    "requirements": {
+      "gpa": "3.4+ GPA in computer science, software engineering, or computer engineering",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research purpose, CV, transcripts",
+      "references": "Three academic letters"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10585,
+    "title": "Master of Public Service and Administration (MPSA) - National Security & Public Policy - Bush School",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Prestigious public policy master's at the George H.W. Bush School of Government & Public Service, training leaders in homeland defense, international intelligence policy, and public agency management.",
+    "funding": "Bush School Merit Scholarships covering up to 100% of tuition plus $5,000/year stipend",
+    "tuition": "$22,400/year (Scholarships apply)",
+    "fee": "$0 (Application fee waiver provided)",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://bush.tamu.edu/admissions/degree/mpsa/",
+    "requirements": {
+      "gpa": "3.0+ undergraduate GPA from an accredited institution",
+      "ielts": "IELTS 7.0+ or TOEFL 90+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose, resume, transcripts, analytical writing sample",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10586,
+    "title": "Ph.D. in Soil and Crop Sciences - Genomics & Climate-Resilient Agriculture - AgriLife",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "location": "College Station, Texas, United States",
+    "type": "Fellowship",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Global leader in agricultural innovation conducting field research on drought-tolerant cotton and sorghum genomic breeding, soil carbon dynamics, and remote-sensing precision hydrology.",
+    "funding": "Texas A&M AgriLife Doctoral Research Assistantship: $28,000/year stipend plus full tuition waiver",
+    "tuition": "$0 (Fully funded)",
+    "fee": "$90",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://soilcrop.tamu.edu/academics/graduate-programs/",
+    "requirements": {
+      "gpa": "3.2+ GPA in plant sciences, agronomy, soil science, or biology",
+      "ielts": "IELTS 6.5+ or TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research goals, CV, official transcripts",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  }
 ];
 export const researchers=[
   {
@@ -386619,6 +391750,1627 @@ export const researchers=[
     "source": "https://wsu.edu",
     "bio": "Dr. Evans directs WSU's pome fruit breeding program, leading the development, marker-assisted selection, and commercialization of new apple cultivars including the Cosmic Crisp.",
     "summary": "Dr. Evans directs WSU's pome fruit breeding program, leading the development, marker-assisted selection, and commercialization of new apple cultivars including the Cosmic Crisp.",
+    "reviewed": "2026-10-16"
+  }
+,
+  {
+    "id": 4759,
+    "name": "Dr. Lori Setton",
+    "role": "Lucy & Stanley Lopata Distinguished Professor and Chair of Biomedical Engineering",
+    "title": "Lucy & Stanley Lopata Distinguished Professor and Chair of Biomedical Engineering",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "department": "Department of Biomedical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomedical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wustl.edu",
+    "bio": "Dr. Lori Setton directs the Musculoskeletal Tissue Engineering Lab at WashU, pioneering thermo-responsive biopolymer drug delivery hydrogels and mechanical biomaterial scaffolds for spinal disc regeneration and osteoarthritis repair.",
+    "summary": "Dr. Lori Setton directs the Musculoskeletal Tissue Engineering Lab at WashU, pioneering thermo-responsive biopolymer drug delivery hydrogels and mechanical biomaterial scaffolds for spinal disc regeneration and osteoarthritis repair.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4760,
+    "name": "Dr. Jonathan Kipnis",
+    "role": "Alan A. and Edith L. Wolff Distinguished Professor of Pathology and Immunology",
+    "title": "Alan A. and Edith L. Wolff Distinguished Professor of Pathology and Immunology",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "department": "Department of Pathology and Immunology",
+    "subject": "biology",
+    "topics": [
+      "Department of Pathology and Immunology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wustl.edu",
+    "bio": "Dr. Jonathan Kipnis is a world-renowned neuro-immunologist whose laboratory discovered functional lymphatic vessels lining the central nervous system dural sinuses, revolutionizing scientific understanding of neurodegenerative diseases.",
+    "summary": "Dr. Jonathan Kipnis is a world-renowned neuro-immunologist whose laboratory discovered functional lymphatic vessels lining the central nervous system dural sinuses, revolutionizing scientific understanding of neurodegenerative diseases.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4761,
+    "name": "Dr. Yixin Chen",
+    "role": "Professor of Computer Science & Engineering",
+    "title": "Professor of Computer Science & Engineering",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "department": "Department of Computer Science & Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science & Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wustl.edu",
+    "bio": "Dr. Yixin Chen investigates automated machine learning, nonlinear optimization, smart healthcare diagnostic algorithms, and constraint satisfaction for critical biomedical artificial intelligence systems.",
+    "summary": "Dr. Yixin Chen investigates automated machine learning, nonlinear optimization, smart healthcare diagnostic algorithms, and constraint satisfaction for critical biomedical artificial intelligence systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4762,
+    "name": "Dr. Cynthia Bir",
+    "role": "Professor and Chair of Biomedical Engineering",
+    "title": "Professor and Chair of Biomedical Engineering",
+    "university": "Wayne State University",
+    "country": "United States",
+    "department": "Department of Biomedical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomedical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wayne.edu",
+    "bio": "Dr. Cynthia Bir is a leading researcher in injury biomechanics, ballistic impacts, and sports safety, evaluating protective equipment efficacy and blast trauma mechanisms for military, athletic, and forensic applications.",
+    "summary": "Dr. Cynthia Bir is a leading researcher in injury biomechanics, ballistic impacts, and sports safety, evaluating protective equipment efficacy and blast trauma mechanisms for military, athletic, and forensic applications.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4763,
+    "name": "Dr. Weisong Shi",
+    "role": "Adjunct Professor of Computer Science & Connected Mobility Fellow",
+    "title": "Adjunct Professor of Computer Science & Connected Mobility Fellow",
+    "university": "Wayne State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wayne.edu",
+    "bio": "Dr. Weisong Shi pioneered edge computing architectures, investigating energy-efficient cloud offloading, connected autonomous vehicle sensor fusion, and smart municipal digital infrastructure.",
+    "summary": "Dr. Weisong Shi pioneered edge computing architectures, investigating energy-efficient cloud offloading, connected autonomous vehicle sensor fusion, and smart municipal digital infrastructure.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4764,
+    "name": "Dr. Stephanie Brock",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "Wayne State University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wayne.edu",
+    "bio": "Dr. Stephanie Brock investigates nanoparticle synthesis, semiconductor aerogels, and transition-metal pnictides for electrochemical water splitting, supercapacitors, and magnetic thermoelectrics.",
+    "summary": "Dr. Stephanie Brock investigates nanoparticle synthesis, semiconductor aerogels, and transition-metal pnictides for electrochemical water splitting, supercapacitors, and magnetic thermoelectrics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4765,
+    "name": "Dr. Fon Brown",
+    "role": "Professor of Electrical and Computer Engineering",
+    "title": "Professor of Electrical and Computer Engineering",
+    "university": "Weber State University",
+    "country": "United States",
+    "department": "Department of Electrical & Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical & Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.weber.edu",
+    "bio": "Dr. Fon Brown researches digital signal processing, reconfigurable FPGA logic, aerospace telemetry, and embedded microcontroller architectures for defense-grade avionics systems.",
+    "summary": "Dr. Fon Brown researches digital signal processing, reconfigurable FPGA logic, aerospace telemetry, and embedded microcontroller architectures for defense-grade avionics systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4766,
+    "name": "Dr. Brian Rague",
+    "role": "Associate Dean of the College of Engineering, Applied Science & Technology",
+    "title": "Associate Dean of the College of Engineering, Applied Science & Technology",
+    "university": "Weber State University",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.weber.edu",
+    "bio": "Dr. Brian Rague investigates parallel algorithms, high-performance distributed computing, software engineering process metrics, and cyber-resilient industrial control mechanisms.",
+    "summary": "Dr. Brian Rague investigates parallel algorithms, high-performance distributed computing, software engineering process metrics, and cyber-resilient industrial control mechanisms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4767,
+    "name": "Dr. John Mull",
+    "role": "Professor of Zoology",
+    "title": "Professor of Zoology",
+    "university": "Weber State University",
+    "country": "United States",
+    "department": "Department of Zoology",
+    "subject": "environment",
+    "topics": [
+      "Department of Zoology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.weber.edu",
+    "bio": "Dr. John Mull conducts ecological field research in Great Basin and Rocky Mountain ecosystems, examining seed dispersal mutualisms, arthropod community structure, and desert conservation biology.",
+    "summary": "Dr. John Mull conducts ecological field research in Great Basin and Rocky Mountain ecosystems, examining seed dispersal mutualisms, arthropod community structure, and desert conservation biology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4768,
+    "name": "Dr. James Brasfield",
+    "role": "Professor of Management and Public Policy",
+    "title": "Professor of Management and Public Policy",
+    "university": "Webster University",
+    "country": "United States",
+    "department": "George Herbert Walker School of Business & Technology",
+    "subject": "social-sciences",
+    "topics": [
+      "George Herbert Walker School of Business & Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.webster.edu",
+    "bio": "Dr. James Brasfield researches health policy governance, municipal administrative ethics, public budgeting systems, and intergovernmental fiscal management.",
+    "summary": "Dr. James Brasfield researches health policy governance, municipal administrative ethics, public budgeting systems, and intergovernmental fiscal management.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4769,
+    "name": "Dr. Douglas M. Brantner",
+    "role": "Associate Professor and Director of Cybersecurity Programs",
+    "title": "Associate Professor and Director of Cybersecurity Programs",
+    "university": "Webster University",
+    "country": "United States",
+    "department": "Department of Mathematics & Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Mathematics & Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.webster.edu",
+    "bio": "Dr. Douglas Brantner examines enterprise information assurance, national cyber defense posture, cloud vulnerability mitigation, and industrial network protocol hardening.",
+    "summary": "Dr. Douglas Brantner examines enterprise information assurance, national cyber defense posture, cloud vulnerability mitigation, and industrial network protocol hardening.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4770,
+    "name": "Dr. Kristen Anderson Anderson",
+    "role": "Professor of History and Political Science",
+    "title": "Professor of History and Political Science",
+    "university": "Webster University",
+    "country": "United States",
+    "department": "Department of History, Politics & International Relations",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of History, Politics & International Relations"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.webster.edu",
+    "bio": "Dr. Kristen Anderson researches American immigration policy history, 19th-century urban demographic integration, German-American ethnic communities, and transnational citizenship rights.",
+    "summary": "Dr. Kristen Anderson researches American immigration policy history, 19th-century urban demographic integration, German-American ethnic communities, and transnational citizenship rights.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4771,
+    "name": "Dr. Orit Shaer",
+    "role": "Professor of Computer Science",
+    "title": "Professor of Computer Science",
+    "university": "Wellesley College",
+    "country": "United States",
+    "department": "Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wellesley.edu",
+    "bio": "Dr. Orit Shaer directs the Wellesley Human-Computer Interaction (HCI) Lab, investigating tangible user interfaces, reality-based interaction, brain-computer interfaces, and the future of collaborative knowledge work.",
+    "summary": "Dr. Orit Shaer directs the Wellesley Human-Computer Interaction (HCI) Lab, investigating tangible user interfaces, reality-based interaction, brain-computer interfaces, and the future of collaborative knowledge work.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4772,
+    "name": "Dr. Marc Tetel",
+    "role": "Dorothy and Charles Moses Professor of Natural Sciences",
+    "title": "Dorothy and Charles Moses Professor of Natural Sciences",
+    "university": "Wellesley College",
+    "country": "United States",
+    "department": "Neuroscience Program",
+    "subject": "biology",
+    "topics": [
+      "Neuroscience Program"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wellesley.edu",
+    "bio": "Dr. Marc Tetel investigates how steroid hormones and gut microbiome metabolites act in the brain to regulate neuroendocrine function, energy homeostasis, and obesity in female neural models.",
+    "summary": "Dr. Marc Tetel investigates how steroid hormones and gut microbiome metabolites act in the brain to regulate neuroendocrine function, energy homeostasis, and obesity in female neural models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4773,
+    "name": "Dr. Kristin Butcher",
+    "role": "Marshall I. Goldman Professor of Economics",
+    "title": "Marshall I. Goldman Professor of Economics",
+    "university": "Wellesley College",
+    "country": "United States",
+    "department": "Department of Economics",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Economics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wellesley.edu",
+    "bio": "Dr. Kristin Butcher researches labor economics, health economics, the economic consequences of immigration, and social determinants of child health and educational outcomes.",
+    "summary": "Dr. Kristin Butcher researches labor economics, health economics, the economic consequences of immigration, and social determinants of child health and educational outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4774,
+    "name": "Dr. Douglas Ericson",
+    "role": "Associate Professor of Mechanical Engineering",
+    "title": "Associate Professor of Mechanical Engineering",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "department": "School of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "School of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wit.edu",
+    "bio": "Dr. Douglas Ericson conducts applied research in thermodynamic heat transfer, fluid power control systems, renewable thermal storage, and automated mechanical design.",
+    "summary": "Dr. Douglas Ericson conducts applied research in thermodynamic heat transfer, fluid power control systems, renewable thermal storage, and automated mechanical design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4775,
+    "name": "Dr. Mark Mix",
+    "role": "Professor of Architecture",
+    "title": "Professor of Architecture",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "department": "School of Architecture & Design",
+    "subject": "arts-design",
+    "topics": [
+      "School of Architecture & Design"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wit.edu",
+    "bio": "Dr. Mark Mix investigates parametric architectural geometry, digital robotic fabrication techniques, urban tectonic systems, and carbon-sequestering building envelopes.",
+    "summary": "Dr. Mark Mix investigates parametric architectural geometry, digital robotic fabrication techniques, urban tectonic systems, and carbon-sequestering building envelopes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4776,
+    "name": "Dr. Ali Khabari",
+    "role": "Dean and Professor of Electrical Engineering",
+    "title": "Dean and Professor of Electrical Engineering",
+    "university": "Wentworth Institute of Technology",
+    "country": "United States",
+    "department": "School of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "School of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wit.edu",
+    "bio": "Dr. Ali Khabari researches nano-electronics, semiconductor thin-film fabrication, carbon nanotube synthesis, and smart materials for energy harvesting.",
+    "summary": "Dr. Ali Khabari researches nano-electronics, semiconductor thin-film fabrication, carbon nanotube synthesis, and smart materials for energy harvesting.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4777,
+    "name": "Dr. Nicholas Passalacqua",
+    "role": "Associate Professor and Forensic Anthropology Program Coordinator",
+    "title": "Associate Professor and Forensic Anthropology Program Coordinator",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "department": "Department of Anthropology and Sociology",
+    "subject": "biology",
+    "topics": [
+      "Department of Anthropology and Sociology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcu.edu",
+    "bio": "Dr. Nicholas Passalacqua is a board-certified forensic anthropologist directing research at the FOREST decomposition facility, investigating skeletal trauma analysis and age-at-death estimation.",
+    "summary": "Dr. Nicholas Passalacqua is a board-certified forensic anthropologist directing research at the FOREST decomposition facility, investigating skeletal trauma analysis and age-at-death estimation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4778,
+    "name": "Dr. Martin Tanaka",
+    "role": "Associate Professor of Mechanical Engineering",
+    "title": "Associate Professor of Mechanical Engineering",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "department": "College of Engineering and Technology",
+    "subject": "engineering",
+    "topics": [
+      "College of Engineering and Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcu.edu",
+    "bio": "Dr. Martin Tanaka investigates biomechanical engineering modeling, smart prosthetic joints, fluid dynamics in human cardiovascular systems, and finite element stress analysis.",
+    "summary": "Dr. Martin Tanaka investigates biomechanical engineering modeling, smart prosthetic joints, fluid dynamics in human cardiovascular systems, and finite element stress analysis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4779,
+    "name": "Dr. Beverly Collins",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Western Carolina University",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "environment",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcu.edu",
+    "bio": "Dr. Beverly Collins researches plant community ecology, forest regeneration dynamics, rare Southern Appalachian plant preservation, and wetland vegetation response to climate disturbances.",
+    "summary": "Dr. Beverly Collins researches plant community ecology, forest regeneration dynamics, rare Southern Appalachian plant preservation, and wetland vegetation response to climate disturbances.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4780,
+    "name": "Dr. Gary S. Lessor",
+    "role": "Director of The Weather Center and Adjunct Professor of Meteorology",
+    "title": "Director of The Weather Center and Adjunct Professor of Meteorology",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "department": "Department of Physics, Astronomy and Meteorology",
+    "subject": "environment",
+    "topics": [
+      "Department of Physics, Astronomy and Meteorology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcsu.edu",
+    "bio": "Dr. Gary Lessor oversees operational meteorological forecasting at the WCSU Weather Center, providing regional severe weather analysis, winter storm track modeling, and forensic meteorological analysis.",
+    "summary": "Dr. Gary Lessor oversees operational meteorological forecasting at the WCSU Weather Center, providing regional severe weather analysis, winter storm track modeling, and forensic meteorological analysis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4781,
+    "name": "Dr. Dan Barrett",
+    "role": "Associate Professor and Chair of Psychology",
+    "title": "Associate Professor and Chair of Psychology",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "department": "Department of Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Psychology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcsu.edu",
+    "bio": "Dr. Dan Barrett investigates social cognition, evolutionary psychology, interpersonal perception, and the cognitive biases influencing jury decision-making.",
+    "summary": "Dr. Dan Barrett investigates social cognition, evolutionary psychology, interpersonal perception, and the cognitive biases influencing jury decision-making.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4782,
+    "name": "Dr. Joan Palladino",
+    "role": "Dean of the School of Professional Studies and Professor of Nursing",
+    "title": "Dean of the School of Professional Studies and Professor of Nursing",
+    "university": "Western Connecticut State University",
+    "country": "United States",
+    "department": "Department of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Department of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wcsu.edu",
+    "bio": "Dr. Joan Palladino researches acute care nursing pedagogy, clinical simulation effectiveness in psychiatric nurse training, and patient safety protocols in emergency clinical settings.",
+    "summary": "Dr. Joan Palladino researches acute care nursing pedagogy, clinical simulation effectiveness in psychiatric nurse training, and patient safety protocols in emergency clinical settings.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4783,
+    "name": "Dr. Chris Groves",
+    "role": "University Distinguished Professor of Hydrogeology and Director of the Crawford Hydrology Laboratory",
+    "title": "University Distinguished Professor of Hydrogeology and Director of the Crawford Hydrology Laboratory",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "department": "Department of Earth, Environmental, and Atmospheric Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Earth, Environmental, and Atmospheric Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wku.edu",
+    "bio": "Dr. Chris Groves is an internationally recognized expert in karst hydrology and geochemistry, serving on UNESCO cave and karst programs and investigating global carbon cycle interactions with limestone aquifers.",
+    "summary": "Dr. Chris Groves is an internationally recognized expert in karst hydrology and geochemistry, serving on UNESCO cave and karst programs and investigating global carbon cycle interactions with limestone aquifers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4784,
+    "name": "Dr. Cathleen Webb",
+    "role": "Associate Dean of the Ogden College of Science and Engineering and Professor of Chemistry",
+    "title": "Associate Dean of the Ogden College of Science and Engineering and Professor of Chemistry",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wku.edu",
+    "bio": "Dr. Cathleen Webb researches environmental chemistry, focusing on heavy metal remediation, arsenic and mercury sorption in aquatic sediments, and drinking water security.",
+    "summary": "Dr. Cathleen Webb researches environmental chemistry, focusing on heavy metal remediation, arsenic and mercury sorption in aquatic sediments, and drinking water security.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4785,
+    "name": "Dr. Farhad Ashrafzadeh",
+    "role": "Professor of Electrical Engineering",
+    "title": "Professor of Electrical Engineering",
+    "university": "Western Kentucky University",
+    "country": "United States",
+    "department": "School of Engineering and Applied Sciences",
+    "subject": "engineering",
+    "topics": [
+      "School of Engineering and Applied Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wku.edu",
+    "bio": "Dr. Farhad Ashrafzadeh conducts research in power electronics, renewable wind and solar energy integration, advanced motor drives, and smart electric vehicle grid charging algorithms.",
+    "summary": "Dr. Farhad Ashrafzadeh conducts research in power electronics, renewable wind and solar energy integration, advanced motor drives, and smart electric vehicle grid charging algorithms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4786,
+    "name": "Dr. Tianshu Liu",
+    "role": "Professor of Mechanical and Aerospace Engineering",
+    "title": "Professor of Mechanical and Aerospace Engineering",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "department": "Department of Mechanical and Aerospace Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical and Aerospace Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wmich.edu",
+    "bio": "Dr. Tianshu Liu conducts internationally recognized research in experimental aerodynamics, optical diagnostics, skin-friction measurement, and unsteady flow physics over bio-inspired flapping wings.",
+    "summary": "Dr. Tianshu Liu conducts internationally recognized research in experimental aerodynamics, optical diagnostics, skin-friction measurement, and unsteady flow physics over bio-inspired flapping wings.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4787,
+    "name": "Dr. Kecheng Li",
+    "role": "Professor and Chair of Chemical and Paper Engineering",
+    "title": "Professor and Chair of Chemical and Paper Engineering",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "department": "Department of Chemical and Paper Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Chemical and Paper Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wmich.edu",
+    "bio": "Dr. Kecheng Li investigates biomass fractionation, cellulose nanomaterials, sustainable packaging alternatives, and green printed electronics utilizing renewable paper substrates.",
+    "summary": "Dr. Kecheng Li investigates biomass fractionation, cellulose nanomaterials, sustainable packaging alternatives, and green printed electronics utilizing renewable paper substrates.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4788,
+    "name": "Dr. John Spitsbergen",
+    "role": "Professor and Chair of Biological Sciences",
+    "title": "Professor and Chair of Biological Sciences",
+    "university": "Western Michigan University",
+    "country": "United States",
+    "department": "Department of Biological Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Biological Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wmich.edu",
+    "bio": "Dr. John Spitsbergen researches neurotrophic factors, autonomic nerve development, muscular plasticity, and cardiovascular regulation in hypertension and diabetes models.",
+    "summary": "Dr. John Spitsbergen researches neurotrophic factors, autonomic nerve development, muscular plasticity, and cardiovascular regulation in hypertension and diabetes models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4789,
+    "name": "Dr. Danielle Le Roux",
+    "role": "Associate Professor of Natural Sciences",
+    "title": "Associate Professor of Natural Sciences",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wnmu.edu",
+    "bio": "Dr. Danielle Le Roux researches riparian ecosystem restoration, Southwestern desert plant physiology, soil microbial dynamics, and the impact of severe drought on Gila watershed flora.",
+    "summary": "Dr. Danielle Le Roux researches riparian ecosystem restoration, Southwestern desert plant physiology, soil microbial dynamics, and the impact of severe drought on Gila watershed flora.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4790,
+    "name": "Dr. Andrew Hernandez",
+    "role": "Assistant Professor of Social Work",
+    "title": "Assistant Professor of Social Work",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "department": "School of Social Work",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Social Work"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wnmu.edu",
+    "bio": "Dr. Andrew Hernandez investigates rural mental health access disparities, historical trauma among Native American youth, and community-driven behavioral health interventions in the Southwest.",
+    "summary": "Dr. Andrew Hernandez investigates rural mental health access disparities, historical trauma among Native American youth, and community-driven behavioral health interventions in the Southwest.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4791,
+    "name": "Dr. Scott Fritz",
+    "role": "Professor of History and Southwest Studies",
+    "title": "Professor of History and Southwest Studies",
+    "university": "Western New Mexico University",
+    "country": "United States",
+    "department": "Department of Social Sciences & Cultural Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Social Sciences & Cultural Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://wnmu.edu",
+    "bio": "Dr. Scott Fritz conducts archival and oral history research on 19th-century New Mexico mining camps, Apacheria territorial conflicts, and merchant trade networks along the Camino Real.",
+    "summary": "Dr. Scott Fritz conducts archival and oral history research on 19th-century New Mexico mining camps, Apacheria territorial conflicts, and merchant trade networks along the Camino Real.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4792,
+    "name": "Dr. Brian Bingham",
+    "role": "Director of Shannon Point Marine Center and Professor of Environmental Sciences",
+    "title": "Director of Shannon Point Marine Center and Professor of Environmental Sciences",
+    "university": "Western Washington University",
+    "country": "United States",
+    "department": "Shannon Point Marine Center",
+    "subject": "environment",
+    "topics": [
+      "Shannon Point Marine Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wwu.edu",
+    "bio": "Dr. Brian Bingham investigates marine invertebrate larval ecology, cnidarian-algal symbiosis, and the impacts of ocean warming and acidification on Pacific Northwest intertidal communities.",
+    "summary": "Dr. Brian Bingham investigates marine invertebrate larval ecology, cnidarian-algal symbiosis, and the impacts of ocean warming and acidification on Pacific Northwest intertidal communities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4793,
+    "name": "Dr. David Patrick",
+    "role": "Professor of Chemistry and Vice Provost for Research",
+    "title": "Professor of Chemistry and Vice Provost for Research",
+    "university": "Western Washington University",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wwu.edu",
+    "bio": "Dr. David Patrick researches advanced surface chemistry, liquid crystals, molecular self-assembly, and luminescent solar concentrator optical materials for clean energy harvesting.",
+    "summary": "Dr. David Patrick researches advanced surface chemistry, liquid crystals, molecular self-assembly, and luminescent solar concentrator optical materials for clean energy harvesting.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4794,
+    "name": "Dr. Jackie Caplan-Auerbach",
+    "role": "Professor of Geology and Associate Dean of the College of Science & Engineering",
+    "title": "Professor of Geology and Associate Dean of the College of Science & Engineering",
+    "university": "Western Washington University",
+    "country": "United States",
+    "department": "Department of Geology",
+    "subject": "environment",
+    "topics": [
+      "Department of Geology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wwu.edu",
+    "bio": "Dr. Jackie Caplan-Auerbach is a seismologist and volcanologist investigating submarine eruptions, seismic acoustics of glacial collapse, and acoustic tremor signatures in the Cascadia subduction zone.",
+    "summary": "Dr. Jackie Caplan-Auerbach is a seismologist and volcanologist investigating submarine eruptions, seismic acoustics of glacial collapse, and acoustic tremor signatures in the Cascadia subduction zone.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4795,
+    "name": "Dr. John Tomblin",
+    "role": "Senior Vice President for Industry and Defense Programs and Executive Director of NIAR",
+    "title": "Senior Vice President for Industry and Defense Programs and Executive Director of NIAR",
+    "university": "Wichita State University",
+    "country": "United States",
+    "department": "National Institute for Aviation Research",
+    "subject": "engineering",
+    "topics": [
+      "National Institute for Aviation Research"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wichita.edu",
+    "bio": "Dr. John Tomblin is a globally renowned authority on advanced composite material qualification, leading NIAR's aircraft certification, full-scale structural testing, and additive manufacturing programs for the FAA and DoD.",
+    "summary": "Dr. John Tomblin is a globally renowned authority on advanced composite material qualification, leading NIAR's aircraft certification, full-scale structural testing, and additive manufacturing programs for the FAA and DoD.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4796,
+    "name": "Dr. Ramazan Asmatulu",
+    "role": "Professor of Mechanical Engineering",
+    "title": "Professor of Mechanical Engineering",
+    "university": "Wichita State University",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wichita.edu",
+    "bio": "Dr. Ramazan Asmatulu researches nanotechnology, electrospun nanocomposite fibers, lightning strike protection for composite aircraft, solar thermal cells, and biomaterial implants.",
+    "summary": "Dr. Ramazan Asmatulu researches nanotechnology, electrospun nanocomposite fibers, lightning strike protection for composite aircraft, solar thermal cells, and biomaterial implants.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4797,
+    "name": "Dr. Visvakumar Aravinthan",
+    "role": "Associate Professor and Department Chair of Electrical and Computer Engineering",
+    "title": "Associate Professor and Department Chair of Electrical and Computer Engineering",
+    "university": "Wichita State University",
+    "country": "United States",
+    "department": "Department of Electrical & Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical & Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wichita.edu",
+    "bio": "Dr. Visvakumar Aravinthan investigates smart grid resiliency, electric vehicle charging impacts on urban distribution networks, cyber-physical power system security, and power system restoration.",
+    "summary": "Dr. Visvakumar Aravinthan investigates smart grid resiliency, electric vehicle charging impacts on urban distribution networks, cyber-physical power system security, and power system restoration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4798,
+    "name": "Dr. Babatunde Ogunnaike",
+    "role": "Adjunct Professor of Chemical and Biomedical Engineering",
+    "title": "Adjunct Professor of Chemical and Biomedical Engineering",
+    "university": "Widener University",
+    "country": "United States",
+    "department": "School of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "School of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.widener.edu",
+    "bio": "Dr. Babatunde Ogunnaike investigates process control systems, mathematical modeling of complex biological systems, and neural network optimization for biomedical therapies.",
+    "summary": "Dr. Babatunde Ogunnaike investigates process control systems, mathematical modeling of complex biological systems, and neural network optimization for biomedical therapies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4799,
+    "name": "Dr. Sanjay Lele",
+    "role": "Associate Professor of Psychology",
+    "title": "Associate Professor of Psychology",
+    "university": "Widener University",
+    "country": "United States",
+    "department": "Institute for Graduate Clinical Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Institute for Graduate Clinical Psychology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.widener.edu",
+    "bio": "Dr. Sanjay Lele researches clinical cognitive-behavioral assessment, psychodynamic psychotherapy processes, cross-cultural mental health delivery, and forensic psychological evaluation.",
+    "summary": "Dr. Sanjay Lele researches clinical cognitive-behavioral assessment, psychodynamic psychotherapy processes, cross-cultural mental health delivery, and forensic psychological evaluation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4800,
+    "name": "Dr. Anita Singh",
+    "role": "Associate Professor and Chair of Biomedical Engineering",
+    "title": "Associate Professor and Chair of Biomedical Engineering",
+    "university": "Widener University",
+    "country": "United States",
+    "department": "Department of Biomedical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomedical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.widener.edu",
+    "bio": "Dr. Anita Singh investigates orthopedic biomechanics, spine kinematics, neonatal brachial plexus injury mechanisms, and biomaterial testing of surgical bone graft scaffolds.",
+    "summary": "Dr. Anita Singh investigates orthopedic biomechanics, spine kinematics, neonatal brachial plexus injury mechanisms, and biomaterial testing of surgical bone graft scaffolds.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4801,
+    "name": "Dr. Karen Arabas",
+    "role": "Professor of Environmental Science and Dendrochronology Director",
+    "title": "Professor of Environmental Science and Dendrochronology Director",
+    "university": "Willamette University",
+    "country": "United States",
+    "department": "Department of Environmental Science",
+    "subject": "environment",
+    "topics": [
+      "Department of Environmental Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://willamette.edu",
+    "bio": "Dr. Karen Arabas is a biogeographer and dendrochronologist who uses tree rings to reconstruct wildfire history, forest disturbance regimes, and climate variability across the Pacific Northwest.",
+    "summary": "Dr. Karen Arabas is a biogeographer and dendrochronologist who uses tree rings to reconstruct wildfire history, forest disturbance regimes, and climate variability across the Pacific Northwest.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4802,
+    "name": "Dr. David Gutterman",
+    "role": "Professor of Politics, Policy, Law and Ethics",
+    "title": "Professor of Politics, Policy, Law and Ethics",
+    "university": "Willamette University",
+    "country": "United States",
+    "department": "Department of Politics, Policy, Law and Ethics",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Politics, Policy, Law and Ethics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://willamette.edu",
+    "bio": "Dr. David Gutterman researches political theory, American political thought, the rhetoric of religious nationalism, democratic social movements, and narrative ethics in public life.",
+    "summary": "Dr. David Gutterman researches political theory, American political thought, the rhetoric of religious nationalism, democratic social movements, and narrative ethics in public life.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4803,
+    "name": "Dr. Haiyan Cheng",
+    "role": "Professor of Computer Science",
+    "title": "Professor of Computer Science",
+    "university": "Willamette University",
+    "country": "United States",
+    "department": "School of Computing and Information Sciences",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computing and Information Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://willamette.edu",
+    "bio": "Dr. Haiyan Cheng conducts research in high-performance scientific computing, parallel algorithm design, computational linear algebra, and data assimilation for environmental forecasting models.",
+    "summary": "Dr. Haiyan Cheng conducts research in high-performance scientific computing, parallel algorithm design, computational linear algebra, and data assimilation for environmental forecasting models.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4804,
+    "name": "Dr. Mark Hufe",
+    "role": "Director of Cyber Defense Education and Assistant Professor of Technology",
+    "title": "Director of Cyber Defense Education and Assistant Professor of Technology",
+    "university": "Wilmington University",
+    "country": "United States",
+    "department": "College of Technology",
+    "subject": "computer-science",
+    "topics": [
+      "College of Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wilmu.edu",
+    "bio": "Dr. Mark Hufe leads WilmU's CAE-CD designated cybersecurity programs, researching SCADA industrial control vulnerability detection, penetration testing simulations, and national cyber defense curricula.",
+    "summary": "Dr. Mark Hufe leads WilmU's CAE-CD designated cybersecurity programs, researching SCADA industrial control vulnerability detection, penetration testing simulations, and national cyber defense curricula.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4805,
+    "name": "Dr. Angela Herman",
+    "role": "Chair of Doctoral Nursing Programs and Associate Professor",
+    "title": "Chair of Doctoral Nursing Programs and Associate Professor",
+    "university": "Wilmington University",
+    "country": "United States",
+    "department": "College of Health Professions & Natural Sciences",
+    "subject": "biology",
+    "topics": [
+      "College of Health Professions & Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wilmu.edu",
+    "bio": "Dr. Angela Herman investigates healthcare systems leadership, chronic illness self-management in underserved populations, and evidence-based nursing intervention translation.",
+    "summary": "Dr. Angela Herman investigates healthcare systems leadership, chronic illness self-management in underserved populations, and evidence-based nursing intervention translation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4806,
+    "name": "Dr. Donald Dawson",
+    "role": "Assistant Professor of Business and Analytics",
+    "title": "Assistant Professor of Business and Analytics",
+    "university": "Wilmington University",
+    "country": "United States",
+    "department": "College of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "College of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wilmu.edu",
+    "bio": "Dr. Donald Dawson researches predictive corporate analytics, ethical algorithmic decision-making in financial lending, and econometric forecasting models for Mid-Atlantic business entities.",
+    "summary": "Dr. Donald Dawson researches predictive corporate analytics, ethical algorithmic decision-making in financial lending, and econometric forecasting models for Mid-Atlantic business entities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4807,
+    "name": "Dr. Robert Balza",
+    "role": "Associate Professor and Chair of Biology",
+    "title": "Associate Professor and Chair of Biology",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wlc.edu",
+    "bio": "Dr. Robert Balza investigates cardiac development and valve embryogenesis using avian and zebrafish models, researching extracellular matrix signaling and congenital heart defects in Generac Hall laboratories.",
+    "summary": "Dr. Robert Balza investigates cardiac development and valve embryogenesis using avian and zebrafish models, researching extracellular matrix signaling and congenital heart defects in Generac Hall laboratories.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4808,
+    "name": "Dr. Jarrod Erbe",
+    "role": "Dean of the School of Arts and Sciences and Professor of Biology",
+    "title": "Dean of the School of Arts and Sciences and Professor of Biology",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "department": "School of Arts and Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Arts and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wlc.edu",
+    "bio": "Dr. Jarrod Erbe researches molecular microbiology, microbial genetics, bacterial virulence factors, and undergraduate laboratory pedagogical efficacy.",
+    "summary": "Dr. Jarrod Erbe researches molecular microbiology, microbial genetics, bacterial virulence factors, and undergraduate laboratory pedagogical efficacy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4809,
+    "name": "Dr. David Brightsman",
+    "role": "Associate Professor of Business and Leadership",
+    "title": "Associate Professor of Business and Leadership",
+    "university": "Wisconsin Lutheran College",
+    "country": "United States",
+    "department": "School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.wlc.edu",
+    "bio": "Dr. David Brightsman investigates servant leadership organizational models, behavioral corporate finance, ethical decision-making frameworks, and non-profit strategic sustainability.",
+    "summary": "Dr. David Brightsman investigates servant leadership organizational models, behavioral corporate finance, ethical decision-making frameworks, and non-profit strategic sustainability.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4810,
+    "name": "Dr. Kathleen Kennedy",
+    "role": "Dean of the College of Pharmacy and Professor",
+    "title": "Dean of the College of Pharmacy and Professor",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "department": "College of Pharmacy",
+    "subject": "biology",
+    "topics": [
+      "College of Pharmacy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.xula.edu",
+    "bio": "Dr. Kathleen Kennedy directs health disparities research at XULA, investigating pharmacy education diversity, cardiovascular medication adherence, and clinical interventions in underserved Gulf South populations.",
+    "summary": "Dr. Kathleen Kennedy directs health disparities research at XULA, investigating pharmacy education diversity, cardiovascular medication adherence, and clinical interventions in underserved Gulf South populations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4811,
+    "name": "Dr. Maryam Foroozesh",
+    "role": "Professor and Head of the Division of Mathematical and Physical Sciences",
+    "title": "Professor and Head of the Division of Mathematical and Physical Sciences",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.xula.edu",
+    "bio": "Dr. Maryam Foroozesh investigates synthetic medicinal chemistry, designing targeted enzyme inhibitors and novel therapeutic agents for chemo-resistant breast and prostate cancers.",
+    "summary": "Dr. Maryam Foroozesh investigates synthetic medicinal chemistry, designing targeted enzyme inhibitors and novel therapeutic agents for chemo-resistant breast and prostate cancers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4812,
+    "name": "Dr. Guangdi Wang",
+    "role": "Professor of Chemistry and Director of the XULA Center for Cancer Research",
+    "title": "Professor of Chemistry and Director of the XULA Center for Cancer Research",
+    "university": "Xavier University of Louisiana",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.xula.edu",
+    "bio": "Dr. Guangdi Wang specializes in mass spectrometry-based drug metabolism and pharmacokinetic analysis, synthesizing novel selective estrogen receptor modulators (SERMs) for breast cancer therapy.",
+    "summary": "Dr. Guangdi Wang specializes in mass spectrometry-based drug metabolism and pharmacokinetic analysis, synthesizing novel selective estrogen receptor modulators (SERMs) for breast cancer therapy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4813,
+    "name": "Dr. Paul Russo",
+    "role": "Vice Provost and Dean of the Katz School of Science and Health",
+    "title": "Vice Provost and Dean of the Katz School of Science and Health",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "department": "Katz School of Science and Health",
+    "subject": "computer-science",
+    "topics": [
+      "Katz School of Science and Health"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.yu.edu",
+    "bio": "Dr. Paul Russo researches artificial intelligence integration in healthcare systems, technology entrepreneurship, digital knowledge networks, and data-driven learning analytics.",
+    "summary": "Dr. Paul Russo researches artificial intelligence integration in healthcare systems, technology entrepreneurship, digital knowledge networks, and data-driven learning analytics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4814,
+    "name": "Dr. Roee Gutman",
+    "role": "Associate Professor of Quantitative Analytics",
+    "title": "Associate Professor of Quantitative Analytics",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "department": "Sy Syms School of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Sy Syms School of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.yu.edu",
+    "bio": "Dr. Roee Gutman investigates financial econometrics, algorithmic volatility forecasting, portfolio risk management, and quantitative optimization for institutional asset managers.",
+    "summary": "Dr. Roee Gutman investigates financial econometrics, algorithmic volatility forecasting, portfolio risk management, and quantitative optimization for institutional asset managers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4815,
+    "name": "Dr. Roee Holtzer",
+    "role": "Professor of Psychology and Director of the Clinical Health Psychology Ph.D. Program",
+    "title": "Professor of Psychology and Director of the Clinical Health Psychology Ph.D. Program",
+    "university": "Yeshiva University",
+    "country": "United States",
+    "department": "Ferkauf Graduate School of Psychology",
+    "subject": "social-sciences",
+    "topics": [
+      "Ferkauf Graduate School of Psychology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.yu.edu",
+    "bio": "Dr. Roee Holtzer is a clinical neuropsychologist investigating cognitive aging, functional neuroimaging (fNIRS) during dual-task locomotion, and prefrontal cortex biomarkers in neurodegenerative diseases.",
+    "summary": "Dr. Roee Holtzer is a clinical neuropsychologist investigating cognitive aging, functional neuroimaging (fNIRS) during dual-task locomotion, and prefrontal cortex biomarkers in neurodegenerative diseases.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4816,
+    "name": "Dr. Frank Wheeler",
+    "role": "Professor of History and Humanities",
+    "title": "Professor of History and Humanities",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "department": "Department of Humanities",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Humanities"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.york.edu",
+    "bio": "Dr. Frank Wheeler investigates American religious history, Restoration Movement theological heritage, frontier educational expansion, and Great Plains community social history.",
+    "summary": "Dr. Frank Wheeler investigates American religious history, Restoration Movement theological heritage, frontier educational expansion, and Great Plains community social history.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4817,
+    "name": "Dr. Erin DeHart",
+    "role": "Associate Professor of Education",
+    "title": "Associate Professor of Education",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "department": "Department of Education",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.york.edu",
+    "bio": "Dr. Erin DeHart researches literacy acquisition in elementary education, trauma-informed pedagogical interventions in rural classrooms, and teacher candidate mentoring frameworks.",
+    "summary": "Dr. Erin DeHart researches literacy acquisition in elementary education, trauma-informed pedagogical interventions in rural classrooms, and teacher candidate mentoring frameworks.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4818,
+    "name": "Dr. Ray Miller",
+    "role": "Professor of Biology and Environmental Sciences",
+    "title": "Professor of Biology and Environmental Sciences",
+    "university": "York University - Nebraska",
+    "country": "United States",
+    "department": "Division of Natural Sciences & Mathematics",
+    "subject": "biology",
+    "topics": [
+      "Division of Natural Sciences & Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.york.edu",
+    "bio": "Dr. Ray Miller conducts biological field research in tallgrass prairie restoration, monarch butterfly migratory feeding habitats in Nebraska, and freshwater aquatic macroinvertebrates.",
+    "summary": "Dr. Ray Miller conducts biological field research in tallgrass prairie restoration, monarch butterfly migratory feeding habitats in Nebraska, and freshwater aquatic macroinvertebrates.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4819,
+    "name": "Dr. Amin Khodaei",
+    "role": "Professor and Chair of Electrical and Computer Engineering",
+    "title": "Professor and Chair of Electrical and Computer Engineering",
+    "university": "University of Denver",
+    "country": "United States",
+    "department": "Ritchie School of Engineering and Computer Science",
+    "subject": "engineering",
+    "topics": [
+      "Ritchie School of Engineering and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.du.edu",
+    "bio": "Dr. Amin Khodaei is an internationally recognized expert in smart grid modernization, resilient microgrids, quantum computing applications in power systems, and renewable energy integration.",
+    "summary": "Dr. Amin Khodaei is an internationally recognized expert in smart grid modernization, resilient microgrids, quantum computing applications in power systems, and renewable energy integration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4820,
+    "name": "Dr. Rachel Epstein",
+    "role": "Professor of International Relations",
+    "title": "Professor of International Relations",
+    "university": "University of Denver",
+    "country": "United States",
+    "department": "Josef Korbel School of International Studies",
+    "subject": "social-sciences",
+    "topics": [
+      "Josef Korbel School of International Studies"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.du.edu",
+    "bio": "Dr. Rachel Epstein researches international security, European financial regulatory integration, NATO expansion dynamics, and the institutional power of international organizations.",
+    "summary": "Dr. Rachel Epstein researches international security, European financial regulatory integration, NATO expansion dynamics, and the institutional power of international organizations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4821,
+    "name": "Dr. Anna Sher",
+    "role": "Professor of Biological Sciences",
+    "title": "Professor of Biological Sciences",
+    "university": "University of Denver",
+    "country": "United States",
+    "department": "Department of Biological Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Biological Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.du.edu",
+    "bio": "Dr. Anna Sher investigates plant ecology, invasive species management in arid Western river systems, riparian restoration, and the ecological consequences of drought on native biodiversity.",
+    "summary": "Dr. Anna Sher investigates plant ecology, invasive species management in arid Western river systems, riparian restoration, and the ecological consequences of drought on native biodiversity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4822,
+    "name": "Dr. Stephen Higgs",
+    "role": "Director of the Biosecurity Research Institute (BRI) and University Distinguished Professor",
+    "title": "Director of the Biosecurity Research Institute (BRI) and University Distinguished Professor",
+    "university": "Kansas State University",
+    "country": "United States",
+    "department": "Biosecurity Research Institute",
+    "subject": "biology",
+    "topics": [
+      "Biosecurity Research Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.k-state.edu",
+    "bio": "Dr. Stephen Higgs is an internationally recognized expert in vector-borne zoonotic arboviruses, researching mosquito transmission of Zika, chikungunya, and West Nile viruses in biosafety level 3 (BSL-3) facilities.",
+    "summary": "Dr. Stephen Higgs is an internationally recognized expert in vector-borne zoonotic arboviruses, researching mosquito transmission of Zika, chikungunya, and West Nile viruses in biosafety level 3 (BSL-3) facilities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4823,
+    "name": "Dr. Chuck Rice",
+    "role": "University Distinguished Professor of Soil Microbiology",
+    "title": "University Distinguished Professor of Soil Microbiology",
+    "university": "Kansas State University",
+    "country": "United States",
+    "department": "Department of Agronomy",
+    "subject": "environment",
+    "topics": [
+      "Department of Agronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.k-state.edu",
+    "bio": "Dr. Chuck Rice served on the Nobel Peace Prize-winning Intergovernmental Panel on Climate Change (IPCC), researching soil carbon sequestration, nitrogen cycling, and agricultural greenhouse gas mitigation.",
+    "summary": "Dr. Chuck Rice served on the Nobel Peace Prize-winning Intergovernmental Panel on Climate Change (IPCC), researching soil carbon sequestration, nitrogen cycling, and agricultural greenhouse gas mitigation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4824,
+    "name": "Dr. Caterina Scoglio",
+    "role": "Paslay Professor of Electrical and Computer Engineering",
+    "title": "Paslay Professor of Electrical and Computer Engineering",
+    "university": "Kansas State University",
+    "country": "United States",
+    "department": "Department of Electrical and Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical and Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.k-state.edu",
+    "bio": "Dr. Caterina Scoglio investigates complex network modeling, epidemic spread in human and livestock populations, and cyber-resilient infrastructure design.",
+    "summary": "Dr. Caterina Scoglio investigates complex network modeling, epidemic spread in human and livestock populations, and cyber-resilient infrastructure design.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4825,
+    "name": "Dr. Wanda Minnick",
+    "role": "Associate Professor and Safety Sciences Graduate Program Coordinator",
+    "title": "Associate Professor and Safety Sciences Graduate Program Coordinator",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Safety Sciences",
+    "subject": "engineering",
+    "topics": [
+      "Department of Safety Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iup.edu",
+    "bio": "Dr. Wanda Minnick investigates occupational safety and health management systems, ergonomic risk assessment in manufacturing facilities, and industrial worker fatality prevention strategies.",
+    "summary": "Dr. Wanda Minnick investigates occupational safety and health management systems, ergonomic risk assessment in manufacturing facilities, and industrial worker fatality prevention strategies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4826,
+    "name": "Dr. John A. Lewis",
+    "role": "Professor of Criminology and Criminal Justice",
+    "title": "Professor of Criminology and Criminal Justice",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Criminology and Criminal Justice",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Criminology and Criminal Justice"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iup.edu",
+    "bio": "Dr. John Lewis researches criminal justice sentencing guidelines, juvenile offender behavioral rehabilitation, substance abuse interventions in correctional institutions, and forensic program evaluation.",
+    "summary": "Dr. John Lewis researches criminal justice sentencing guidelines, juvenile offender behavioral rehabilitation, substance abuse interventions in correctional institutions, and forensic program evaluation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4827,
+    "name": "Dr. Sudipta Majumdar",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Chemistry, Biochemistry, and Physics",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry, Biochemistry, and Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.iup.edu",
+    "bio": "Dr. Sudipta Majumdar conducts biochemical research in enzymology, examining bacterial antibiotic resistance mechanisms, protein-ligand binding kinetics, and metalloenzyme active sites in Kopchick Hall.",
+    "summary": "Dr. Sudipta Majumdar conducts biochemical research in enzymology, examining bacterial antibiotic resistance mechanisms, protein-ligand binding kinetics, and metalloenzyme active sites in Kopchick Hall.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4828,
+    "name": "Dr. Lisa Frye",
+    "role": "Professor and Chair of Computer Science and Information Technology",
+    "title": "Professor and Chair of Computer Science and Information Technology",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Computer Science and Information Technology",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Information Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kutztown.edu",
+    "bio": "Dr. Lisa Frye researches software-defined networking (SDN), network management protocol security, wireless sensor networks, and computer science educational pedagogical methods.",
+    "summary": "Dr. Lisa Frye researches software-defined networking (SDN), network management protocol security, wireless sensor networks, and computer science educational pedagogical methods.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4829,
+    "name": "Dr. Matthew Stone",
+    "role": "Associate Professor of Physical Sciences",
+    "title": "Associate Professor of Physical Sciences",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Physical Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Physical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kutztown.edu",
+    "bio": "Dr. Matthew Stone conducts research in chemical oceanography, marine sediment biogeochemistry, nutrient fluxes in estuarine waters, and environmental trace metal speciation.",
+    "summary": "Dr. Matthew Stone conducts research in chemical oceanography, marine sediment biogeochemistry, nutrient fluxes in estuarine waters, and environmental trace metal speciation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4830,
+    "name": "Dr. John Jackson",
+    "role": "Professor of Social Work and MSW Program Director",
+    "title": "Professor of Social Work and MSW Program Director",
+    "university": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "department": "Department of Social Work",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Social Work"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.kutztown.edu",
+    "bio": "Dr. John Jackson investigates rural community mental health access, family systems therapy models, addiction recovery clinical protocols, and child welfare policy outcomes.",
+    "summary": "Dr. John Jackson investigates rural community mental health access, family systems therapy models, addiction recovery clinical protocols, and child welfare policy outcomes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4831,
+    "name": "Dr. Hernan Navarro",
+    "role": "Director of BRITE and Professor of Pharmaceutical Sciences",
+    "title": "Director of BRITE and Professor of Pharmaceutical Sciences",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "Biomanufacturing Research Institute and Technology Enterprise",
+    "subject": "chemistry",
+    "topics": [
+      "Biomanufacturing Research Institute and Technology Enterprise"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. Hernan Navarro directs biopharmaceutical research at BRITE, investigating drug discovery for central nervous system disorders, high-throughput screening, and therapeutic lead optimization.",
+    "summary": "Dr. Hernan Navarro directs biopharmaceutical research at BRITE, investigating drug discovery for central nervous system disorders, high-throughput screening, and therapeutic lead optimization.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4832,
+    "name": "Dr. Antonio Baines",
+    "role": "Associate Professor of Biological and Biomedical Sciences",
+    "title": "Associate Professor of Biological and Biomedical Sciences",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "Julius L. Chambers Biomedical/Biotechnology Research Institute",
+    "subject": "biology",
+    "topics": [
+      "Julius L. Chambers Biomedical/Biotechnology Research Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. Antonio Baines researches pancreatic cancer molecular genetics, targeting oncogenic Ras/Ral small GTPases and evaluating novel kinase inhibitors to overcome chemo-resistance.",
+    "summary": "Dr. Antonio Baines researches pancreatic cancer molecular genetics, targeting oncogenic Ras/Ral small GTPases and evaluating novel kinase inhibitors to overcome chemo-resistance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4833,
+    "name": "Dr. April Dawson",
+    "role": "Associate Dean of Technology and Professor of Law",
+    "title": "Associate Dean of Technology and Professor of Law",
+    "university": "North Carolina Central University",
+    "country": "United States",
+    "department": "School of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nccu.edu",
+    "bio": "Dr. April Dawson examines the intersection of constitutional law, artificial intelligence algorithms in judicial sentencing, legal technology pedagogy, and Supreme Court jurisprudence.",
+    "summary": "Dr. April Dawson examines the intersection of constitutional law, artificial intelligence algorithms in judicial sentencing, legal technology pedagogy, and Supreme Court jurisprudence.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4834,
+    "name": "Dr. Danielle Simpson",
+    "role": "Associate Professor and Program Coordinator of Criminal Justice",
+    "title": "Associate Professor and Program Coordinator of Criminal Justice",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "Department of Criminal Justice",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Criminal Justice"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Danielle Simpson investigates juvenile justice policy, police-community relations, restorative justice alternatives, and mental health interventions in correctional systems.",
+    "summary": "Dr. Danielle Simpson investigates juvenile justice policy, police-community relations, restorative justice alternatives, and mental health interventions in correctional systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4835,
+    "name": "Dr. Daniel Stovall",
+    "role": "Associate Professor of Biology",
+    "title": "Associate Professor of Biology",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "Department of Mathematics and Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Mathematics and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Daniel Stovall researches cancer molecular biology, investigating transcriptional regulation, glioblastoma cell migration, and zinc-finger transcription factors in undergraduate research labs.",
+    "summary": "Dr. Daniel Stovall researches cancer molecular biology, investigating transcriptional regulation, glioblastoma cell migration, and zinc-finger transcription factors in undergraduate research labs.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4836,
+    "name": "Dr. Kelvin Spragley",
+    "role": "Associate Professor of Education and Coordinator of Diversity Programming",
+    "title": "Associate Professor of Education and Coordinator of Diversity Programming",
+    "university": "North Carolina Wesleyan University",
+    "country": "United States",
+    "department": "School of Education",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Education"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://ncwu.edu",
+    "bio": "Dr. Kelvin Spragley researches culturally responsive teaching methods, minority teacher recruitment, and pedagogical equity in rural North Carolina public schools.",
+    "summary": "Dr. Kelvin Spragley researches culturally responsive teaching methods, minority teacher recruitment, and pedagogical equity in rural North Carolina public schools.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4837,
+    "name": "Dr. Faisal Kaleem",
+    "role": "Professor of Computer Science & Cybersecurity and Director of the Minnesota Cyber Range",
+    "title": "Professor of Computer Science & Cybersecurity and Director of the Minnesota Cyber Range",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "Department of Computer Science and Cybersecurity",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Cybersecurity"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Faisal Kaleem is a cybersecurity researcher who founded the Minnesota Cyber Range, investigating digital forensics, zero-trust network protocols, cellular security, and gamified cyber threat simulations.",
+    "summary": "Dr. Faisal Kaleem is a cybersecurity researcher who founded the Minnesota Cyber Range, investigating digital forensics, zero-trust network protocols, cellular security, and gamified cyber threat simulations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4838,
+    "name": "Dr. Maya Sullivan",
+    "role": "Associate Professor of Nursing",
+    "title": "Associate Professor of Nursing",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "Department of Nursing",
+    "subject": "biology",
+    "topics": [
+      "Department of Nursing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Maya Sullivan investigates health equity in urban maternal-child health, community-based doula interventions, and nursing workforce retention among underrepresented clinical providers.",
+    "summary": "Dr. Maya Sullivan investigates health equity in urban maternal-child health, community-based doula interventions, and nursing workforce retention among underrepresented clinical providers.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4839,
+    "name": "Dr. Glen Morris",
+    "role": "Associate Professor of Natural Sciences",
+    "title": "Associate Professor of Natural Sciences",
+    "university": "Metropolitan State University",
+    "country": "United States",
+    "department": "Department of Natural Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Natural Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.metrostate.edu",
+    "bio": "Dr. Glen Morris researches Mississippi River urban watershed biogeochemistry, aquatic nutrient loading, storm-water wetland filtration, and freshwater macroinvertebrate ecology in the Twin Cities.",
+    "summary": "Dr. Glen Morris researches Mississippi River urban watershed biogeochemistry, aquatic nutrient loading, storm-water wetland filtration, and freshwater macroinvertebrate ecology in the Twin Cities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4840,
+    "name": "Dr. Jennifer Livengood",
+    "role": "Associate Professor of Psychology and Division of Social Sciences Chair",
+    "title": "Associate Professor of Psychology and Division of Social Sciences Chair",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Division of Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Jennifer Livengood investigates cognitive behavioral psychology, social media impacts on adolescent identity formation, and mental health counseling outcomes in rural collegiate populations.",
+    "summary": "Dr. Jennifer Livengood investigates cognitive behavioral psychology, social media impacts on adolescent identity formation, and mental health counseling outcomes in rural collegiate populations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4841,
+    "name": "Dr. Michele Reinke",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Division of Math and Sciences",
+    "subject": "biology",
+    "topics": [
+      "Division of Math and Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Michele Reinke researches physiological ecology, aquatic ecosystem toxicology, freshwater fish biodiversity in the Missouri River basin, and undergraduate science education pedagogy.",
+    "summary": "Dr. Michele Reinke researches physiological ecology, aquatic ecosystem toxicology, freshwater fish biodiversity in the Missouri River basin, and undergraduate science education pedagogy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4842,
+    "name": "Dr. Larry Stockman",
+    "role": "Associate Professor of Business Administration",
+    "title": "Associate Professor of Business Administration",
+    "university": "Missouri Valley College",
+    "country": "United States",
+    "department": "Division of Business",
+    "subject": "social-sciences",
+    "topics": [
+      "Division of Business"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.moval.edu",
+    "bio": "Dr. Larry Stockman researches agricultural economics, Midwest commodity distribution logistics, small business entrepreneurship, and rural economic revitalization strategies.",
+    "summary": "Dr. Larry Stockman researches agricultural economics, Midwest commodity distribution logistics, small business entrepreneurship, and rural economic revitalization strategies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4843,
+    "name": "Dr. Loyce Pailen",
+    "role": "Senior Director of the Center for Security Studies and Professor",
+    "title": "Senior Director of the Center for Security Studies and Professor",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "department": "School of Cybersecurity & Information Technology",
+    "subject": "computer-science",
+    "topics": [
+      "School of Cybersecurity & Information Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umgc.edu",
+    "bio": "Dr. Loyce Pailen is a nationally recognized expert in cybersecurity governance, artificial intelligence security ethics, privacy-preserving biometric encryption, and cyber workforce pipeline development.",
+    "summary": "Dr. Loyce Pailen is a nationally recognized expert in cybersecurity governance, artificial intelligence security ethics, privacy-preserving biometric encryption, and cyber workforce pipeline development.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4844,
+    "name": "Dr. James Robertson",
+    "role": "Program Director and Associate Professor of Biotechnology",
+    "title": "Program Director and Associate Professor of Biotechnology",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "department": "School of Arts & Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Arts & Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umgc.edu",
+    "bio": "Dr. James Robertson researches biomanufacturing regulatory pathways, biosecurity protocols, vaccine commercialization logistics, and biological intellectual property management.",
+    "summary": "Dr. James Robertson researches biomanufacturing regulatory pathways, biosecurity protocols, vaccine commercialization logistics, and biological intellectual property management.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4845,
+    "name": "Dr. Douglas Harrison",
+    "role": "Vice President and Dean of the School of Cybersecurity & Information Technology",
+    "title": "Vice President and Dean of the School of Cybersecurity & Information Technology",
+    "university": "University of Maryland Global Campus",
+    "country": "United States",
+    "department": "School of Cybersecurity & Information Technology",
+    "subject": "computer-science",
+    "topics": [
+      "School of Cybersecurity & Information Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umgc.edu",
+    "bio": "Dr. Douglas Harrison investigates adult learning pedagogy in digital environments, adaptive computing assessments, and competency-based curricula in STEM disciplines.",
+    "summary": "Dr. Douglas Harrison investigates adult learning pedagogy in digital environments, adaptive computing assessments, and competency-based curricula in STEM disciplines.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4846,
+    "name": "Dr. Rodney Bowersox",
+    "role": "Senior Associate Dean of Engineering and Professor of Aerospace Engineering",
+    "title": "Senior Associate Dean of Engineering and Professor of Aerospace Engineering",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "department": "Department of Aerospace Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aerospace Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.tamu.edu",
+    "bio": "Dr. Rodney Bowersox directs the Texas A&M National Aerothermochemistry and Hypersonics Laboratory, conducting groundbreaking research in high-speed optical diagnostics, plasma aerodynamics, and scramjet propulsion for the DoD and NASA.",
+    "summary": "Dr. Rodney Bowersox directs the Texas A&M National Aerothermochemistry and Hypersonics Laboratory, conducting groundbreaking research in high-speed optical diagnostics, plasma aerodynamics, and scramjet propulsion for the DoD and NASA.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4847,
+    "name": "Dr. B. Don Russell",
+    "role": "Distinguished Professor of Electrical and Computer Engineering and TEES Fellow",
+    "title": "Distinguished Professor of Electrical and Computer Engineering and TEES Fellow",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "department": "Department of Electrical & Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical & Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.tamu.edu",
+    "bio": "Dr. B. Don Russell is an elected member of the National Academy of Engineering who pioneered automated electrical power distribution fault detection and smart grid wildfire prevention technologies.",
+    "summary": "Dr. B. Don Russell is an elected member of the National Academy of Engineering who pioneered automated electrical power distribution fault detection and smart grid wildfire prevention technologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4848,
+    "name": "Dr. Jane Welsh",
+    "role": "Professor of Veterinary Integrative Biosciences",
+    "title": "Professor of Veterinary Integrative Biosciences",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "department": "School of Veterinary Medicine & Biomedical Sciences",
+    "subject": "biology",
+    "topics": [
+      "School of Veterinary Medicine & Biomedical Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.tamu.edu",
+    "bio": "Dr. Jane Welsh investigates neuro-immunology, animal models of multiple sclerosis, viral encephalitis mechanisms, and central nervous system remyelination therapies.",
+    "summary": "Dr. Jane Welsh investigates neuro-immunology, animal models of multiple sclerosis, viral encephalitis mechanisms, and central nervous system remyelination therapies.",
     "reviewed": "2026-10-16"
   }
 ];
