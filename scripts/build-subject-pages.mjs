@@ -3315,21 +3315,44 @@ ${facultyCards}
         <p>Faculty profiles for ${s.name} across newly added international institutions are currently in source verification. Additional faculty listings will appear following source review.</p>
       </section>`;
 
-    // Universities participating
-    const uniCardsHtml = uniNames.map(u => {
+    // Universities participating (show 7 with See More option)
+    const previewCount = 7;
+    const previewUnis = uniNames.slice(0, previewCount);
+    const hiddenUnis = uniNames.slice(previewCount);
+
+    const visibleUniCardsHtml = previewUnis.map(u => {
       const uPath = getUniPath(u);
       return `<a class="btn secondary" style="margin-right:0.5rem;margin-bottom:0.5rem;" href="${uPath}">${u} ↗</a>`;
     }).join('');
 
-    const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f5ee"><title>${s.name} Scholarships, Research &amp; Degree Programs | OpenStemField</title><meta name="description" content="Explore verified ${s.name} scholarships, master's degrees, PhD funding and faculty researchers across international universities on OpenStemField."><link rel="canonical" href="https://universityproject-chi.vercel.app/subjects/${s.id}/"><link rel="icon" href="/openfield-logo-mark.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet"><link rel="stylesheet" href="/seo.css"><script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"${s.name} Academic Opportunities","headline":"${s.name} Scholarships and Research Programs","dateModified":"${today}","publisher":{"@type":"Organization","name":"OpenStemField"}}</script></head><body><header class="header"><a href="/" class="brand"><img src="/openfield-logo-mark.svg" alt="" width="45">OpenStemField</a><nav aria-label="Primary"><a href="/">Home</a><a href="/#/explore">Opportunities</a><a href="/#/researchers">Researchers</a><a href="/universities/">Universities</a><a href="/#/mentorship">Mentorship</a><a href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Discord Community ↗</a><a href="mailto:shahriyarkarimsiam@gmail.com?subject=OpenStemField%20Free%20Consultancy%20Request">Free Consultancy ↗</a></nav></header><main><section class="hero wrap"><div class="crumb"><a href="/">Home</a><span>/</span><a href="/#/">Subjects</a><span>/</span><span>${s.name}</span></div><span class="eyebrow">Subject field guide · International universities · Reviewed ${today}</span><h1>${s.name}</h1><p>${s.tagline}. Discover verified scholarship opportunities, master's curricula, doctoral positions, and faculty profiles across source-reviewed institutions worldwide.</p><div class="meta"><span>Universities reviewed: ${uniNames.length} institutions (${uniNames.join(', ')})</span><span>Funding &amp; program records: ${opps.length}</span><span>Faculty records: ${fac.length}</span><span><a href="/#/explore">Interactive filters ↗</a></span></div></section><div class="wrap"><div class="band"><b>Only source-verified university information is displayed.</b><p>A listed master's program is not necessarily accepting applications today. Dated scholarship cards are removed after their deadlines, and professor recruitment status is never inferred.</p></div>${jumpLinks ? `<nav class="jump" aria-label="Opportunity types">${jumpLinks}</nav>` : ''}
+    const hiddenUniCardsHtml = hiddenUnis.map(u => {
+      const uPath = getUniPath(u);
+      return `<a class="btn secondary" style="margin-right:0.5rem;margin-bottom:0.5rem;" href="${uPath}">${u} ↗</a>`;
+    }).join('');
+
+    const heroUniMeta = hiddenUnis.length > 0
+      ? `<span>Universities reviewed: <strong>${uniNames.length}</strong> institutions (${previewUnis.join(', ')}… <details style="display:inline;cursor:pointer;"><summary style="display:inline;color:#185332;font-weight:700;">see all ${uniNames.length} institutions ▼</summary><span style="display:block;margin-top:10px;padding:12px 16px;background:#ffffff;border:1px solid #c9d8c4;border-radius:6px;max-height:160px;overflow-y:auto;font-size:12px;line-height:1.7;color:#2e3d34;">${uniNames.join(', ')}</span></details>)</span>`
+      : `<span>Universities reviewed: <strong>${uniNames.length}</strong> institutions (${uniNames.join(', ')})</span>`;
+
+    const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f5ee"><title>${s.name} Scholarships, Research &amp; Degree Programs | OpenStemField</title><meta name="description" content="Explore verified ${s.name} scholarships, master's degrees, PhD funding and faculty researchers across international universities on OpenStemField."><link rel="canonical" href="https://universityproject-chi.vercel.app/subjects/${s.id}/"><link rel="icon" href="/openfield-logo-mark.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet"><link rel="stylesheet" href="/seo.css"><script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"${s.name} Academic Opportunities","headline":"${s.name} Scholarships and Research Programs","dateModified":"${today}","publisher":{"@type":"Organization","name":"OpenStemField"}}</script></head><body><header class="header"><a href="/" class="brand"><img src="/openfield-logo-mark.svg" alt="" width="45">OpenStemField</a><nav aria-label="Primary"><a href="/">Home</a><a href="/#/explore">Opportunities</a><a href="/#/researchers">Researchers</a><a href="/universities/">Universities</a><a href="/#/mentorship">Mentorship</a><a href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Discord Community ↗</a><a href="mailto:shahriyarkarimsiam@gmail.com?subject=OpenStemField%20Free%20Consultancy%20Request">Free Consultancy ↗</a></nav></header><main><section class="hero wrap"><div class="crumb"><a href="/">Home</a><span>/</span><a href="/#/">Subjects</a><span>/</span><span>${s.name}</span></div><span class="eyebrow">Subject field guide · International universities · Reviewed ${today}</span><h1>${s.name}</h1><p>${s.tagline}. Discover verified scholarship opportunities, master's curricula, doctoral positions, and faculty profiles across source-reviewed institutions worldwide.</p><div class="meta">${heroUniMeta}<span>Funding &amp; program records: ${opps.length}</span><span>Faculty records: ${fac.length}</span><span><a href="/#/explore">Interactive filters ↗</a></span></div></section><div class="wrap"><div class="band"><b>Only source-verified university information is displayed.</b><p>A listed master's program is not necessarily accepting applications today. Dated scholarship cards are removed after their deadlines, and professor recruitment status is never inferred.</p></div>${jumpLinks ? `<nav class="jump" aria-label="Opportunity types">${jumpLinks}</nav>` : ''}
 ${oppSections}
 ${facultySection}
-      <section class="section">
+      <section class="section" id="universities-in-field">
         <h2>Source-reviewed universities in this field</h2>
-        <p>Explore full admissions criteria, tuition structures, language conditions, and university portals:</p>
+        <p>Explore full admissions criteria, tuition structures, language conditions, and university portals across ${uniNames.length} institutions:</p>
         <div style="margin-top:1rem;display:flex;flex-wrap:wrap;">
-          ${uniCardsHtml}
+          ${visibleUniCardsHtml}
         </div>
+        ${hiddenUnis.length > 0 ? `
+        <details style="margin-top:0.75rem;">
+          <summary class="btn secondary" style="cursor:pointer;display:inline-flex;align-items:center;padding:10px 18px;font-weight:700;color:var(--green);background:#eef4ec;border:1px solid #9bb799;">
+            See more universities (+${hiddenUnis.length} more) ▼
+          </summary>
+          <div style="margin-top:1rem;display:flex;flex-wrap:wrap;padding:16px;background:#fffdf8;border:1px solid var(--line);border-radius:6px;max-height:360px;overflow-y:auto;">
+            ${hiddenUniCardsHtml}
+          </div>
+        </details>
+        ` : ''}
       </section>
     </div></main><footer class="footer"><div><strong>OpenStemField</strong><p>Independent research and scholarship information across international universities. Confirm all terms directly with the official institutions.</p><div style="margin:12px 0;padding:12px 16px;background:rgba(255,255,255,0.06);border-radius:6px;"><p style="margin:0 0 8px 0;font-size:12px;color:#f0ece1;"><strong>Have an idea, need help, or want free consultancy?</strong></p><a style="margin-right:15px;color:#d4af37;font-size:12px;" href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Join Student Discord Community ↗</a><a style="color:#d4af37;font-size:12px;" href="mailto:shahriyarkarimsiam@gmail.com?subject=OpenStemField%20Free%20Consultancy">Free Consultancy: shahriyarkarimsiam@gmail.com ↗</a></div></div><nav><a href="/about/">About</a><a href="/editorial-policy/">Editorial policy</a><a href="/privacy/">Privacy</a><a href="/contact/">Contact</a><a href="https://discord.com/invite/tBBKtvFJzW" target="_blank" rel="noopener noreferrer">Discord</a><a href="mailto:shahriyarkarimsiam@gmail.com">shahriyarkarimsiam@gmail.com</a><a href="/sitemap.xml">Sitemap</a></nav></footer><script>(function(){const day=new Date().toLocaleDateString("en-CA");document.querySelectorAll("[data-deadline]").forEach(el=>{if(el.dataset.deadline<day)el.remove()})})();</script></body></html>
 \n`;
