@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 89,
+  "cycle": 90,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "Nebraska State College System",
-    "sourceRow": 847
+    "university": "University of Nebraska High School and Extended Studies",
+    "sourceRow": 1122
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 635,
+    "usa": 656,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
@@ -44,7 +44,8 @@
     "italy",
     "netherlands",
     "japan",
-    "germany"
+    "germany",
+    "usa"
   ],
   "updatedAt": "2026-10-16"
 }

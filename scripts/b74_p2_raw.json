@@ -1,0 +1,1414 @@
+[
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "University of Texas System",
+    "shortName": "UT System",
+    "slug": "university-of-texas-system",
+    "location": "Austin, Texas, United States",
+    "website": "https://www.utsystem.edu",
+    "sourceRow": 1167,
+    "stats": {
+      "established": "1881",
+      "students": "256,000+",
+      "international": "10%",
+      "faculty": "21,000+"
+    },
+    "hero": {
+      "tagline": "Austin \u00b7 Thirteen Institutions, Six Medical Schools & $4.3B in Annual Research",
+      "desc": "The University of Texas System is one of the largest and most prestigious public university systems in the United States, comprised of nine academic universities and five health institutions\u2014including UT Austin, UT Southwestern Medical Center, and MD Anderson Cancer Center. Conducting more than $4.3 billion in annual research, the UT System leads the world in cancer immunology, semiconductor microelectronics, clean energy, and artificial intelligence."
+    },
+    "admissions": {
+      "general": "Applications processed through constituent UT institutions (UT Austin, UT Dallas, UT Arlington, UT San Antonio, UT El Paso, UT Rio Grande Valley, UT Tyler, UT Permian Basin). Holistic review via ApplyTexas or Common App.",
+      "language": "TOEFL iBT 79+ or IELTS 6.5+ for international candidates across UT System universities.",
+      "deadlines": "UT Austin priority deadline November 1, 2026; Regular deadline December 1, 2026; other UT institutions rolling through March 1, 2027."
+    },
+    "financial": {
+      "summary": "Promise Plus Endowment (100% free tuition and fees for Texas families earning under $100,000 at UT Austin, and $65,000-$85,000 at regional UT universities), Regents' Outstanding Scholar Awards, and CPRIT cancer research fellowships.",
+      "tuition": "$9,200 - $12,800/year (Texas resident undergraduate; $39,800/year non-resident)"
+    },
+    "opportunities": [
+      {
+        "id": 10989,
+        "title": "Ph.D. in Cancer Biology (MD Anderson Cancer Center UTHealth Graduate School)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "desc": "Elite cancer biology doctorate at the world's #1 cancer hospital, investigating immune checkpoint biology, CAR-T cell engineering, targeted oncotherapy, and metastasis genomics.",
+        "funding": "Full 100% tuition waiver, comprehensive health coverage, and $36,000 annual fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$75",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://gsbs.uth.edu/admissions/",
+        "requirements": {
+          "gpa": "3.5+ undergraduate GPA in biology, biochemistry, or cellular biology",
+          "ielts": "IELTS 7.0 or TOEFL 90",
+          "gre": "Not required",
+          "papers": "Transcripts, 1,000-word statement of research intent, scientific CV",
+          "references": "Three letters of academic recommendation from laboratory investigators"
+        }
+      },
+      {
+        "id": 10990,
+        "title": "Promise Plus Tuition Guarantee (100% Free Tuition and Mandatory Fees)",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "System-wide multi-million dollar endowment ensuring that qualifying full-time undergraduate Texas residents pay zero tuition and mandatory fees at UT System universities.",
+        "funding": "100% full tuition and mandatory fees covered for up to eight semesters",
+        "tuition": "$0 (Full tuition coverage for eligible students)",
+        "fee": "$0",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://www.utsystem.edu/promise-plus",
+        "requirements": {
+          "gpa": "Texas resident with family adjusted gross income meeting campus threshold ($65k-$100k)",
+          "ielts": "Satisfied via Texas secondary completion",
+          "gre": "Not required",
+          "papers": "Completed FAFSA or TASFA by priority deadline",
+          "references": "Automatic consideration upon admission"
+        }
+      },
+      {
+        "id": 10991,
+        "title": "Ph.D. in Computer Science (Cockrell School / Natural Sciences at UT Austin)",
+        "type": "Degree",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "mathematics"
+        ],
+        "desc": "Ranked among the top 10 computer science programs globally, focusing on large-scale machine learning, autonomous robotics, formal systems verification, and cybersecurity.",
+        "funding": "Dean's Excellence Fellowship: $35,000 annual stipend plus full tuition waiver",
+        "tuition": "$0",
+        "fee": "$90",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "source": "https://www.cs.utexas.edu/graduate-program/phd-program",
+        "requirements": {
+          "gpa": "3.7+ GPA in computer science, mathematics, or electrical engineering",
+          "ielts": "IELTS 7.5 or TOEFL 100",
+          "gre": "GRE scores competitive",
+          "papers": "Statement of purpose, scientific CV, transcripts, sample research paper",
+          "references": "Three letters of academic recommendation"
+        }
+      },
+      {
+        "id": 10992,
+        "title": "Doctor of Medicine (M.D. - UT Southwestern Medical Center in Dallas)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology"
+        ],
+        "desc": "World-renowned medical institution home to six Nobel laureates, providing clinical training at Parkland Memorial Hospital and William P. Clements Jr. University Hospital.",
+        "funding": "UT Southwestern Medical Foundation Scholarships: Up to full-tuition merit awards",
+        "tuition": "$21,800/year (Texas resident MD tuition)",
+        "fee": "$75",
+        "deadline": "2026-11-01",
+        "deadlineText": "November 1, 2026",
+        "source": "https://www.utsouthwestern.edu/education/medical-school/",
+        "requirements": {
+          "gpa": "3.8+ undergraduate pre-med GPA via TMDSAS",
+          "ielts": "Satisfied via TMDSAS",
+          "gre": "MCAT competitive score (median 516)",
+          "papers": "TMDSAS application, secondary essays, hospital volunteering log",
+          "references": "Health professions committee packet or three faculty letters"
+        }
+      },
+      {
+        "id": 10993,
+        "title": "Master of Science in Energy and Earth Resources (Jackson School of Geosciences at UT Austin)",
+        "type": "Degree",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "engineering",
+          "social-sciences"
+        ],
+        "desc": "Interdisciplinary graduate program in geothermal energy systems, carbon capture and underground sequestration, hydrogen storage, and energy project finance.",
+        "funding": "Jackson School Graduate Fellowship: $28,000/year stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$75",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://www.jsg.utexas.edu/eer/",
+        "requirements": {
+          "gpa": "3.2+ undergraduate GPA in geology, engineering, economics, or environmental science",
+          "ielts": "IELTS 6.5 or TOEFL 79",
+          "gre": "GRE optional",
+          "papers": "Transcripts, statement of energy research intent, CV",
+          "references": "Three letters of recommendation"
+        }
+      },
+      {
+        "id": 10994,
+        "title": "Texas Institute for Electronics (TIE) Semiconductor Postdoctoral Fellowship",
+        "type": "Fellowship",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "desc": "State-supported semiconductor defense fellowship utilizing cleanroom fabrication facilities at UT Austin to research 3D heterogeneous packaging and microchip security.",
+        "funding": "Annual salary of $78,000 plus full institutional health insurance and $10,000 fab materials budget",
+        "tuition": "$0",
+        "fee": "$0",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://tie.utexas.edu/research/fellowships/",
+        "requirements": {
+          "gpa": "Ph.D. in electrical engineering, materials science, or applied physics",
+          "ielts": "Satisfied by terminal doctorate",
+          "gre": "Not required",
+          "papers": "Curriculum vitae, 3 high-impact microelectronics publications, 3-page research proposal",
+          "references": "Three letters of recommendation from international semiconductor researchers"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5050,
+        "name": "Dr. James B. Milliken",
+        "role": "Chancellor of the University of Texas System",
+        "department": "UT System Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. James B. Milliken is Chancellor of the UT System, overseeing statewide higher education policy, academic medical center expansion, capital development, and public research initiatives across Texas.",
+        "source": "https://www.utsystem.edu/chancellor"
+      },
+      {
+        "id": 5051,
+        "name": "Dr. Jay Hartzell",
+        "role": "President of The University of Texas at Austin and Professor of Finance",
+        "department": "Office of the President and McCombs School of Business",
+        "subject": "social-sciences",
+        "bio": "Dr. Jay Hartzell is an economist researching corporate finance, real estate capital markets, institutional governance, and university research commercialization.",
+        "source": "https://president.utexas.edu/about-president-hartzell"
+      },
+      {
+        "id": 5052,
+        "name": "Dr. Peter Pisters",
+        "role": "President of The University of Texas MD Anderson Cancer Center",
+        "department": "MD Anderson Cancer Center",
+        "subject": "biology",
+        "bio": "Dr. Peter Pisters is an internationally recognized cancer surgeon specializing in soft tissue sarcoma, clinical trial design, hospital quality metrics, and global cancer care equity.",
+        "source": "https://www.mdanderson.org/about-md-anderson/leadership/executive-leadership/peter-wt-pisters.html"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "University System of Georgia",
+    "shortName": "USG",
+    "slug": "university-system-of-georgia",
+    "location": "Atlanta, Georgia, United States",
+    "website": "https://www.usg.edu",
+    "sourceRow": 1185,
+    "stats": {
+      "established": "1931",
+      "students": "344,000+",
+      "international": "8%",
+      "faculty": "15,800+"
+    },
+    "hero": {
+      "tagline": "Atlanta \u00b7 26 Public Colleges & Universities, Georgia Tech Engineering & UGA",
+      "desc": "The University System of Georgia (USG) governs 26 public higher education institutions across Georgia, including four premier research universities: Georgia Institute of Technology, the University of Georgia, Georgia State University, and Augusta University. Enrolling over 344,000 students and conducting more than $1.3 billion in annual sponsored research, USG is an economic engine powering cybersecurity, robotics, infectious disease vaccine discovery, and public health."
+    },
+    "admissions": {
+      "general": "Applications processed through constituent USG institutions via GAfutures or Common App. Minimum High School GPA and college-prep curriculum requirements vary by institutional tier.",
+      "language": "TOEFL iBT 79+ (100+ Georgia Tech) or IELTS 6.5+ across USG institutions.",
+      "deadlines": "Georgia Tech Early Action October 15, 2026; UGA Early Action October 15, 2026; Regular decision January 5, 2027."
+    },
+    "financial": {
+      "summary": "Zell Miller Scholarship (100% free tuition for Georgia high school scholars with 3.7+ GPA and 1200+ SAT), HOPE Scholarship (up to 100% tuition coverage for 3.0+ GPA), and USG Foundation Fellowships.",
+      "tuition": "$7,200 - $12,800/year (Georgia resident undergraduate; $33,200/year non-resident)"
+    },
+    "opportunities": [
+      {
+        "id": 10995,
+        "title": "Ph.D. in Robotics and Autonomous Systems (Georgia Institute of Technology at USG)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "computer-science"
+        ],
+        "desc": "World-renowned interdisciplinary robotics doctorate uniting mechanical engineering, computing, and aerospace to develop autonomous mobile robots and human-robot interaction systems.",
+        "funding": "Presidential Graduate Fellowship: Full tuition waiver plus $36,000 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$85",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "source": "https://robotics.gatech.edu/academics/phd",
+        "requirements": {
+          "gpa": "3.5+ undergraduate/master's GPA in engineering, computer science, or mathematics",
+          "ielts": "IELTS 7.5 or TOEFL 100",
+          "gre": "GRE scores competitive",
+          "papers": "Statement of purpose, technical research portfolio, official transcripts, CV",
+          "references": "Three letters of academic recommendation from robotics researchers"
+        }
+      },
+      {
+        "id": 10996,
+        "title": "Zell Miller Scholarship (100% Free Public University Tuition in Georgia)",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Merit-based state lottery scholarship covering 100% of standard undergraduate tuition at any USG college or university for Georgia high school graduates meeting academic criteria.",
+        "funding": "100% full undergraduate tuition coverage renewable for up to 127 credit hours",
+        "tuition": "$0 (100% covered for qualifying recipients)",
+        "fee": "$0",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/",
+        "requirements": {
+          "gpa": "3.7+ high school GPA with 1200+ SAT or 26+ ACT (or valedictorian/salutatorian)",
+          "ielts": "Satisfied via Georgia high school diploma",
+          "gre": "Not required",
+          "papers": "Completed FAFSA or GSFAPP application form",
+          "references": "Automatic certification via high school transcript"
+        }
+      },
+      {
+        "id": 10997,
+        "title": "Doctor of Medicine (M.D. - Medical College of Georgia at Augusta University)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology"
+        ],
+        "desc": "One of the nation's largest medical schools, providing clinical training across the state in cardiovascular medicine, trauma surgery, pediatric oncology, and neuroscience.",
+        "funding": "MCG Foundation Medical Scholarships: Up to $25,000/year merit awards",
+        "tuition": "$29,480/year (Georgia resident MD tuition)",
+        "fee": "$100",
+        "deadline": "2026-11-01",
+        "deadlineText": "November 1, 2026",
+        "source": "https://www.augusta.edu/mcg/admissions/",
+        "requirements": {
+          "gpa": "3.7+ undergraduate pre-medical GPA via AMCAS",
+          "ielts": "Satisfied via AMCAS verification",
+          "gre": "MCAT competitive score (median 512)",
+          "papers": "AMCAS application, secondary responses, hospital shadowing record",
+          "references": "Pre-health committee composite letter or three faculty letters"
+        }
+      },
+      {
+        "id": 10998,
+        "title": "Ph.D. in Ecology and Conservation Biology (Odum School of Ecology at UGA)",
+        "type": "Degree",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "desc": "The world's first standalone school of ecology, conducting research on freshwater river conservation, infectious disease ecology, marine marsh biogeochemistry, and climate adaptation.",
+        "funding": "Graduate School Doctoral Assistantship: $29,000 annual stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$75",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://ecology.uga.edu/academics/phd-in-ecology/",
+        "requirements": {
+          "gpa": "3.2+ undergraduate GPA in biological sciences, environmental science, or ecology",
+          "ielts": "IELTS 7.0 or TOEFL 80",
+          "gre": "GRE optional",
+          "papers": "Statement of research interests, CV, transcripts, scientific writing sample",
+          "references": "Three letters of recommendation from ecological researchers"
+        }
+      },
+      {
+        "id": 10999,
+        "title": "Ph.D. in Cybersecurity (Georgia State University at USG)",
+        "type": "Degree",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "social-sciences"
+        ],
+        "desc": "Interdisciplinary program examining cybercrime criminological modeling, blockchain transaction security, enterprise threat intelligence, and digital forensic litigation.",
+        "funding": "Evidence-Based Cybersecurity Fellowship: $28,000 annual stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$60",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://cybersecurity.gsu.edu/academics/",
+        "requirements": {
+          "gpa": "3.2+ undergraduate GPA in computer science, criminology, or information systems",
+          "ielts": "IELTS 6.5 or TOEFL 79",
+          "gre": "GRE scores competitive",
+          "papers": "Transcripts, resume, 1,000-word statement of research intent",
+          "references": "Three letters of academic recommendation"
+        }
+      },
+      {
+        "id": 11000,
+        "title": "Postdoctoral Fellowship in Vaccine Immunology & Infectious Diseases (UGA / Emory)",
+        "type": "Fellowship",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "desc": "Collaborative postdoctoral appointment at the Center for Vaccines and Immunology studying universal influenza vaccines, emerging viral pathogens, and monoclonal antibody therapeutics.",
+        "funding": "NIH NRSA Postdoctoral Stipend of $61,008/year plus health insurance and $6,000 research budget",
+        "tuition": "$0",
+        "fee": "$0",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://cvi.uga.edu/opportunities/",
+        "requirements": {
+          "gpa": "Ph.D. or M.D. in immunology, virology, microbiology, or infectious diseases",
+          "ielts": "Satisfied by terminal doctorate",
+          "gre": "Not required",
+          "papers": "Curriculum vitae, 3 high-impact scientific publications, 3-page research proposal",
+          "references": "Three letters of recommendation from international biomedical scientists"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5053,
+        "name": "Dr. Sonny Perdue",
+        "role": "Chancellor of the University System of Georgia",
+        "department": "USG System Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. Sonny Perdue is Chancellor of USG, former U.S. Secretary of Agriculture and Governor of Georgia, leading statewide higher education governance, university affordability, and workforce alignment initiatives.",
+        "source": "https://www.usg.edu/chancellor"
+      },
+      {
+        "id": 5054,
+        "name": "Dr. \u00c1ngel Cabrera",
+        "role": "President of the Georgia Institute of Technology and Professor of Business",
+        "department": "Office of the President",
+        "subject": "social-sciences",
+        "bio": "Dr. \u00c1ngel Cabrera directs Georgia Tech, conducting research in management psychology, international higher education governance, and technological entrepreneurship ecosystems.",
+        "source": "https://president.gatech.edu/biography"
+      },
+      {
+        "id": 5055,
+        "name": "Dr. Jere W. Morehead",
+        "role": "President of the University of Georgia and Meigs Professor of Law",
+        "department": "Office of the President and School of Law",
+        "subject": "social-sciences",
+        "bio": "Dr. Jere W. Morehead is a legal scholar researching courtroom advocacy, jury selection dynamics, judicial ethics, and land-grant research university strategic leadership.",
+        "source": "https://president.uga.edu/biography/"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "University System of New Hampshire",
+    "shortName": "USNH",
+    "slug": "university-system-of-new-hampshire",
+    "location": "Concord, New Hampshire, United States",
+    "website": "https://www.usnh.edu",
+    "sourceRow": 1186,
+    "stats": {
+      "established": "1963",
+      "students": "28,000+",
+      "international": "6%",
+      "faculty": "1,800+"
+    },
+    "hero": {
+      "tagline": "Concord \u00b7 Granite State Public Higher Education, Space Plasma Physics & Marine Estuaries",
+      "desc": "The University System of New Hampshire (USNH) is the largest provider of postsecondary education in the Granite State, comprised of three accredited public institutions: the flagship research institution University of New Hampshire (UNH) in Durham, Plymouth State University, and Keene State College. Conducting over $160 million in annual research, USNH is ranked among the top NASA-funded public universities globally in space plasma science, marine aquaculture, and cybersecurity."
+    },
+    "admissions": {
+      "general": "Applications processed through constituent USNH universities. High school diploma with college-prep curriculum; test-optional holistic review evaluating academic GPA, coursework, and personal essay.",
+      "language": "TOEFL iBT 80+ or IELTS 6.5+ for international candidates across USNH institutions.",
+      "deadlines": "Early action priority deadline November 15, 2026; Regular decision deadline February 1, 2027."
+    },
+    "financial": {
+      "summary": "Granite Guarantee (100% free tuition for eligible Pell-grant-eligible New Hampshire residents), USNH Presidential Merit Awards, and Space Science Center graduate research assistantships.",
+      "tuition": "$15,520/year (New Hampshire resident undergraduate; $36,450/year non-resident)"
+    },
+    "opportunities": [
+      {
+        "id": 11001,
+        "title": "Ph.D. in Physics (Space Science Center at UNH)",
+        "type": "Degree",
+        "subject": "physics",
+        "subjects": [
+          "physics",
+          "engineering"
+        ],
+        "desc": "World-leading astrophysics doctoral program designing satellite instruments for NASA missions, studying solar wind dynamics, coronal mass ejections, and magnetospheric reconnection.",
+        "funding": "NASA Space Science Graduate Fellowship: Full tuition waiver plus $32,000 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$65",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://physics.unh.edu/graduate-program",
+        "requirements": {
+          "gpa": "3.3+ undergraduate/master's GPA in physics, astronomy, or applied mathematics",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Physics GRE optional",
+          "papers": "Statement of purpose, scientific CV, official transcripts",
+          "references": "Three letters of academic recommendation from physicists"
+        }
+      },
+      {
+        "id": 11002,
+        "title": "Granite Guarantee Tuition Commitment (100% Free Tuition)",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Landmark affordability program bridging financial aid to cover 100% of undergraduate tuition for four full years for federal Pell Grant-eligible New Hampshire residents.",
+        "funding": "100% full tuition coverage renewable for up to eight semesters",
+        "tuition": "$0 (100% covered for eligible students)",
+        "fee": "$0",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://www.unh.edu/admissions/granite-guarantee",
+        "requirements": {
+          "gpa": "New Hampshire resident graduating from high school, eligible for federal Pell Grant",
+          "ielts": "Satisfied via New Hampshire secondary diploma",
+          "gre": "Not required",
+          "papers": "Completed FAFSA application by March 1 deadline",
+          "references": "Automatic institutional award"
+        }
+      },
+      {
+        "id": 11003,
+        "title": "Ph.D. in Ocean Engineering (Center for Coastal and Ocean Mapping at UNH)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "environment",
+          "computer-science"
+        ],
+        "desc": "World-premier seafloor mapping and hydrographic science doctoral program partnering with NOAA, analyzing multibeam sonar acoustics, bathymetric lidar, and autonomous surface vessels.",
+        "funding": "NOAA Joint Hydrographic Center Fellowship: $30,000 annual stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$65",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://ccom.unh.edu/academics/ocean-engineering",
+        "requirements": {
+          "gpa": "3.2+ undergraduate GPA in ocean, civil, or electrical engineering, or geomatics",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "GRE scores accepted",
+          "papers": "Transcripts, statement of hydrographic research intent, CV",
+          "references": "Three letters of recommendation from faculty"
+        }
+      },
+      {
+        "id": 11004,
+        "title": "Master of Science in Cybersecurity Policy and Risk Management (USNH Online)",
+        "type": "Degree",
+        "subject": "computer-science",
+        "subjects": [
+          "computer-science",
+          "social-sciences"
+        ],
+        "desc": "Interdisciplinary program examining federal cyber policy, enterprise compliance auditing, critical infrastructure threat models, and incident response governance.",
+        "funding": "Granite State Tech Scholar Award: $2,500 annual tuition credit",
+        "tuition": "$13,500 total program tuition",
+        "fee": "$50",
+        "deadline": "2027-04-01",
+        "deadlineText": "April 1, 2027",
+        "source": "https://online.unh.edu/program/ms/cybersecurity-policy-risk-management",
+        "requirements": {
+          "gpa": "2.8+ undergraduate GPA from an accredited institution",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Official transcripts, professional resume, statement of purpose",
+          "references": "Two professional references"
+        }
+      },
+      {
+        "id": 11005,
+        "title": "Master of Science in Environmental Science & Policy (Plymouth State University at USNH)",
+        "type": "Degree",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "social-sciences"
+        ],
+        "desc": "Cluster-based graduate program in the White Mountains studying Hubbard Brook watershed hydrology, alpine climate ecology, and New England conservation economics.",
+        "funding": "White Mountain Environmental Stewardship Grant: $3,000/year award",
+        "tuition": "$11,200/year",
+        "fee": "$50",
+        "deadline": "2027-03-01",
+        "deadlineText": "March 1, 2027",
+        "source": "https://www.plymouth.edu/academics/graduate-programs/environmental-science-and-policy",
+        "requirements": {
+          "gpa": "3.0+ undergraduate GPA in environmental studies, biology, or geology",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Transcripts, writing sample, personal statement",
+          "references": "Two recommendations"
+        }
+      },
+      {
+        "id": 11006,
+        "title": "Bachelor of Science in Sustainable Architecture and Interior Design (Keene State College)",
+        "type": "Degree",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "environment"
+        ],
+        "desc": "Applied design curriculum focusing on passive solar building design, net-zero residential construction, daylight modeling, and historic timber frame preservation.",
+        "funding": "Monadnock Green Design Award: $2,000/year scholarship",
+        "tuition": "$14,600/year (Resident)",
+        "fee": "$50",
+        "deadline": "2027-04-15",
+        "deadlineText": "April 15, 2027",
+        "source": "https://www.keene.edu/academics/programs/arch/",
+        "requirements": {
+          "gpa": "2.5+ high school cumulative GPA",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Transcripts, optional design portfolio (5-10 drawings or digital models)",
+          "references": "One teacher recommendation"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5056,
+        "name": "Dr. Catherine Provencher",
+        "role": "Chief Administrative Officer and Vice Chancellor",
+        "department": "USNH System Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. Catherine Provencher oversees system-wide higher education administrative policy, financial strategy, state legislative relations, and cross-campus resource sharing across New Hampshire.",
+        "source": "https://www.usnh.edu/about/leadership"
+      },
+      {
+        "id": 5057,
+        "name": "Dr. James W. Dean Jr.",
+        "role": "President of the University of New Hampshire and Professor of Organizational Behavior",
+        "department": "Office of the President",
+        "subject": "social-sciences",
+        "bio": "Dr. James W. Dean Jr. leads UNH, researching total quality management frameworks, organizational strategy execution, and Carnegie R1 research enterprise expansion.",
+        "source": "https://www.unh.edu/president/biography"
+      },
+      {
+        "id": 5058,
+        "name": "Dr. Harlan Spence",
+        "role": "Director of the Institute for the Study of Earth, Oceans, and Space (EOS)",
+        "department": "Space Science Center and Department of Physics",
+        "subject": "physics",
+        "bio": "Dr. Harlan Spence is a leading space plasma physicist and principal investigator on NASA missions including the Van Allen Probes, CRaTER on LRO, and Magnetospheric Multiscale (MMS).",
+        "source": "https://eos.unh.edu/person/harlan-spence"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "Louisiana Association of Independent Colleges and Universities",
+    "shortName": "LAICU",
+    "slug": "louisiana-association-of-independent-colleges-and-universities",
+    "location": "Baton Rouge, Louisiana, United States",
+    "website": "https://www.laicu.org",
+    "sourceRow": 793,
+    "stats": {
+      "established": "1973",
+      "students": "32,000+",
+      "international": "8%",
+      "faculty": "2,400+"
+    },
+    "hero": {
+      "tagline": "Baton Rouge \u00b7 Statewide Consortium of Ten Independent Higher Education Institutions",
+      "desc": "The Louisiana Association of Independent Colleges and Universities (LAICU) represents Louisiana's ten non-profit independent higher education institutions\u2014including Tulane University, Loyola University New Orleans, Xavier University of Louisiana, Dillard University, and Centenary College. Conducting groundbreaking research in tropical infectious diseases, environmental coastal law, pharmacy, and jazz composition, LAICU institutions confer over 20% of all bachelor's degrees and 35% of all professional medical/law degrees in Louisiana."
+    },
+    "admissions": {
+      "general": "Applications processed through member independent universities (Tulane, Loyola, Xavier, Dillard, Centenary, Franciscan Missionaries, etc.). Holistic review of high school GPA and secondary achievements.",
+      "language": "TOEFL iBT 80+ or IELTS 6.5+ (100+ Tulane) for international candidates.",
+      "deadlines": "Early action priority deadline November 15, 2026; Regular decision deadline January 15, 2027."
+    },
+    "financial": {
+      "summary": "Louisiana TOPS Tuition Transfer Waivers, LAICU Independent College Grants, Tulane National Merit Scholarships, and Xavier Pre-Med Endowments.",
+      "tuition": "$18,500 - $63,800/year (Varies by member institution; generous institutional need- and merit-based grants apply)"
+    },
+    "opportunities": [
+      {
+        "id": 11007,
+        "title": "Doctor of Philosophy in Tropical Medicine (Tulane University School of Public Health at LAICU)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "environment"
+        ],
+        "desc": "Pioneering doctoral program in vector-borne diseases, parasitology, malaria transmission-blocking vaccines, arboviral genetics, and Chagas disease ecology.",
+        "funding": "Tulane Tropical Medicine Fellowship: Full tuition waiver plus $34,000 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$75",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://sph.tulane.edu/tropmed/phd",
+        "requirements": {
+          "gpa": "3.3+ undergraduate/master's GPA in biological sciences or public health",
+          "ielts": "IELTS 7.0 or TOEFL 90",
+          "gre": "GRE optional",
+          "papers": "Statement of purpose detailing tropical field experience, scientific CV, transcripts",
+          "references": "Three letters of academic recommendation"
+        }
+      },
+      {
+        "id": 11008,
+        "title": "Doctor of Pharmacy (Pharm.D. - Xavier University of Louisiana College of Pharmacy)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "desc": "Nationally acclaimed HBCU pharmacy program ranking #1 nationally in graduating African American pharmacists, featuring clinical oncology and hospital pharmacotherapy training.",
+        "funding": "Xavier Pharmacy Dean's Scholarship: Up to $15,000/year merit scholarship",
+        "tuition": "$36,400/year",
+        "fee": "$100",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://www.xula.edu/college-of-pharmacy/",
+        "requirements": {
+          "gpa": "2.75+ prerequisite collegiate GPA in biology, organic chemistry, and calculus via PharmCAS",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "PCAT not required",
+          "papers": "PharmCAS application, personal statement, professional interview",
+          "references": "Three letters of recommendation (one pharmacist, two science faculty)"
+        }
+      },
+      {
+        "id": 11009,
+        "title": "Juris Doctor in Environmental and Maritime Law (Loyola University New Orleans College of Law)",
+        "type": "Degree",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences",
+          "environment"
+        ],
+        "desc": "Specialized legal training along the Mississippi River in offshore oil regulation, Clean Water Act litigation, coastal wetland restoration, and admiralty law.",
+        "funding": "Ignatian Environmental Law Fellowship: $10,000 annual award",
+        "tuition": "$45,200/year",
+        "fee": "$50",
+        "deadline": "2027-03-01",
+        "deadlineText": "March 1, 2027",
+        "source": "https://law.loyno.edu/academics/certificates/environmental-law",
+        "requirements": {
+          "gpa": "3.3+ undergraduate GPA from an accredited institution via LSAC",
+          "ielts": "Satisfied via LSAC CAS",
+          "gre": "LSAT score report (median 153)",
+          "papers": "LSAC CAS report, personal statement, resume, legal interests addendum",
+          "references": "Two academic recommendations"
+        }
+      },
+      {
+        "id": 11010,
+        "title": "Bachelor of Music in Jazz Studies (Loyola University New Orleans at LAICU)",
+        "type": "Degree",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design"
+        ],
+        "desc": "Historic music conservatory in the birthplace of jazz, teaching jazz improvisation, contemporary recording technology, orchestration, and brass performance.",
+        "funding": "Ellis Marsalis Jazz Honors Scholarship: $8,000/year award",
+        "tuition": "$44,800/year (Generous institutional merit aid reduces net cost)",
+        "fee": "$50",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://cmm.loyno.edu/music/academics/jazz-studies",
+        "requirements": {
+          "gpa": "3.0+ high school cumulative GPA",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Transcripts, music theory evaluation, instrumental audition video",
+          "references": "Two recommendations from music mentors"
+        }
+      },
+      {
+        "id": 11011,
+        "title": "LAICU Independent Student Access Grant",
+        "type": "Grant",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Consortium-supported grant program helping eligible Louisiana high school graduates transfer state TOPS awards to attend member private colleges and universities.",
+        "funding": "Tuition stipend matching state public tuition values (up to $5,800/year)",
+        "tuition": "Applied directly toward member tuition",
+        "fee": "$0",
+        "deadline": "2027-04-15",
+        "deadlineText": "April 15, 2027",
+        "source": "https://www.laicu.org/financial-aid/",
+        "requirements": {
+          "gpa": "Louisiana high school graduate qualifying for TOPS with 2.75+ GPA",
+          "ielts": "Satisfied via residency",
+          "gre": "Not required",
+          "papers": "Completed FAFSA and LAICU transfer certification form",
+          "references": "None required"
+        }
+      },
+      {
+        "id": 11012,
+        "title": "Bachelor of Science in Biology and Pre-Medical Studies (Centenary College of Louisiana)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "desc": "Rigorous undergraduate program with an 85%+ medical school acceptance rate, offering early clinical shadowing at Ochsner LSU Health Shreveport.",
+        "funding": "Centenary Presidential Scholarship: Up to $25,000/year renewable award",
+        "tuition": "$38,800/year",
+        "fee": "$50",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://www.centenary.edu/academics/departments/biology/",
+        "requirements": {
+          "gpa": "3.5+ high school GPA with AP/IB biology and chemistry",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Transcripts, personal essay, science resume",
+          "references": "Two letters of recommendation"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5059,
+        "name": "Dr. Larry Tremblay",
+        "role": "President and Executive Director of LAICU",
+        "department": "LAICU Executive Office",
+        "subject": "social-sciences",
+        "bio": "Dr. Larry Tremblay leads LAICU, directing state and federal higher education policy advocacy, independent college transfer articulation, and private university research partnerships in Louisiana.",
+        "source": "https://www.laicu.org/about/"
+      },
+      {
+        "id": 5060,
+        "name": "Dr. Michael A. Fitts",
+        "role": "President of Tulane University and Professor of Law",
+        "department": "Office of the President and School of Law",
+        "subject": "social-sciences",
+        "bio": "Dr. Michael A. Fitts is a legal scholar specializing in administrative law, constitutional federalism, political parties regulation, and cross-disciplinary university research expansion.",
+        "source": "https://president.tulane.edu/biography"
+      },
+      {
+        "id": 5061,
+        "name": "Dr. Reynold Verret",
+        "role": "President of Xavier University of Louisiana and Professor of Chemistry",
+        "department": "Office of the President and Department of Chemistry",
+        "subject": "chemistry",
+        "bio": "Dr. Reynold Verret is a biochemist researching immunology, cytotoxic T-cell surface antigens, health disparities in underserved communities, and minority participation in STEM fields.",
+        "source": "https://www.xula.edu/president/biography.html"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "North Carolina Independent Colleges and Universities",
+    "shortName": "NCICU",
+    "slug": "north-carolina-independent-colleges-and-universities",
+    "location": "Raleigh, North Carolina, United States",
+    "website": "https://www.ncicu.org",
+    "sourceRow": 866,
+    "stats": {
+      "established": "1953",
+      "students": "90,000+",
+      "international": "9%",
+      "faculty": "6,500+"
+    },
+    "hero": {
+      "tagline": "Raleigh \u00b7 Statewide Consortium of 36 Private Higher Education Institutions",
+      "desc": "North Carolina Independent Colleges and Universities (NCICU) represents North Carolina's 36 private, non-profit colleges and universities\u2014including Duke University, Wake Forest University, Davidson College, Elon University, Campbell University, and ten historic HBCUs. Generating over $1.5 billion in annual research and conferring nearly one-third of all bachelor's degrees in North Carolina, NCICU institutions lead the nation in biomedical research, law, liberal arts, and fintech."
+    },
+    "admissions": {
+      "general": "Applications processed through member independent universities (Duke, Wake Forest, Davidson, Elon, High Point, etc.). Holistic review of secondary transcripts, essays, and extracurricular leadership.",
+      "language": "TOEFL iBT 80+ (100+ Duke/Wake Forest) or IELTS 6.5+ (7.5+ Duke) for international candidates.",
+      "deadlines": "Early decision/action November 1, 2026; Regular decision January 5, 2027."
+    },
+    "financial": {
+      "summary": "North Carolina Need-Based Scholarships (state grant up to $7,640/year for eligible private college students), NCICU Endowed Scholarships, Duke Robertson Scholars, and Wake Forest Reynolds Grants.",
+      "tuition": "$19,500 - $66,200/year (Varies by member institution; 92% of students receive institutional financial aid)"
+    },
+    "opportunities": [
+      {
+        "id": 11013,
+        "title": "Ph.D. in Biomedical Engineering (Pratt School of Engineering at Duke University)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "biology"
+        ],
+        "desc": "World top-5 biomedical engineering doctorate investigating acoustic medical imaging, biomaterials for tissue regeneration, neural engineering, and synthetic biology.",
+        "funding": "Pratt Fellowship: Full tuition waiver, health insurance, and $37,500 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$95",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://bme.duke.edu/academics/phd-program",
+        "requirements": {
+          "gpa": "3.7+ undergraduate GPA in engineering, physics, or quantitative biology",
+          "ielts": "IELTS 7.5 or TOEFL 100",
+          "gre": "GRE scores optional",
+          "papers": "Statement of purpose, scientific CV, research paper sample, transcripts",
+          "references": "Three letters of academic recommendation from research investigators"
+        }
+      },
+      {
+        "id": 11014,
+        "title": "North Carolina Need-Based Scholarship for Private Colleges",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "State-funded grant assisting eligible North Carolina residents attending any of the 36 NCICU member independent colleges and universities.",
+        "funding": "Annual state award up to $7,640 renewable for all four undergraduate years",
+        "tuition": "Credited directly against member college tuition",
+        "fee": "$0",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://www.ncicu.org/scholarships/nc-need-based/",
+        "requirements": {
+          "gpa": "Good academic standing at an NCICU member institution, North Carolina resident",
+          "ielts": "Satisfied via residency",
+          "gre": "Not required",
+          "papers": "Completed FAFSA application by state priority deadline",
+          "references": "Automatic consideration"
+        }
+      },
+      {
+        "id": 11015,
+        "title": "Doctor of Medicine (M.D. - Wake Forest University School of Medicine)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology"
+        ],
+        "desc": "Four-year medical curriculum at Atrium Health Wake Forest Baptist, featuring early clinical immersion, regenerative medicine, and trauma center rotations.",
+        "funding": "Wake Forest Dean's Merit Scholarship: Up to $25,000/year scholarship",
+        "tuition": "$63,200/year (Generous need and merit aid awarded)",
+        "fee": "$100",
+        "deadline": "2026-11-01",
+        "deadlineText": "November 1, 2026",
+        "source": "https://school.wakehealth.edu/education-and-training/medical-education",
+        "requirements": {
+          "gpa": "3.7+ undergraduate GPA via AMCAS",
+          "ielts": "Satisfied via AMCAS",
+          "gre": "MCAT competitive score (median 513)",
+          "papers": "AMCAS application, secondary essays, clinical healthcare shadowing record",
+          "references": "Pre-health committee composite evaluation or three faculty letters"
+        }
+      },
+      {
+        "id": 11016,
+        "title": "Juris Doctor (J.D. - Campbell University Norman Adrian Wiggins School of Law)",
+        "type": "Degree",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Top-tier trial advocacy program located in downtown Raleigh adjacent to the state supreme court, renowned for leading North Carolina bar passage rates.",
+        "funding": "Campbell Law Merit Fellowship: Up to full-tuition award for high-achieving applicants",
+        "tuition": "$47,500/year",
+        "fee": "$60",
+        "deadline": "2027-03-01",
+        "deadlineText": "March 1, 2027",
+        "source": "https://law.campbell.edu/admissions/",
+        "requirements": {
+          "gpa": "3.4+ undergraduate GPA via LSAC",
+          "ielts": "Satisfied via LSAC CAS",
+          "gre": "LSAT score report (median 154)",
+          "papers": "LSAC CAS report, personal statement, resume",
+          "references": "Two letters of recommendation"
+        }
+      },
+      {
+        "id": 11017,
+        "title": "Robertson Scholars Leadership Program (Duke and UNC Chapel Hill Dual Fellowship)",
+        "type": "Fellowship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Premier undergraduate leadership scholarship offering full tuition, room, board, and three fully funded domestic and international summer service projects.",
+        "funding": "Comprehensive full-ride package valued at over $300,000 across four undergraduate years",
+        "tuition": "$0 (100% covered)",
+        "fee": "$0",
+        "deadline": "2026-11-15",
+        "deadlineText": "November 15, 2026",
+        "source": "https://robertsonscholars.org/",
+        "requirements": {
+          "gpa": "Exceptional academic record, transformative leadership, and ethical commitment",
+          "ielts": "Satisfied via high school completion",
+          "gre": "SAT or ACT scores submitted",
+          "papers": "Robertson Scholars application essays, resume, transcripts",
+          "references": "Two recommendations detailing leadership impact"
+        }
+      },
+      {
+        "id": 11018,
+        "title": "Bachelor of Science in Interactive Media and Game Design (Elon University at NCICU)",
+        "type": "Degree",
+        "subject": "arts-design",
+        "subjects": [
+          "arts-design",
+          "computer-science"
+        ],
+        "desc": "Creative technical degree teaching 3D environment modeling, Unity/Unreal game engine programming, virtual reality production, and digital animation.",
+        "funding": "Elon Communications Fellows Award: $5,000/year award plus study abroad stipend",
+        "tuition": "$43,900/year",
+        "fee": "$50",
+        "deadline": "2027-01-10",
+        "deadlineText": "January 10, 2027",
+        "source": "https://www.elon.edu/u/academics/communications/interactive-media/",
+        "requirements": {
+          "gpa": "3.3+ high school GPA",
+          "ielts": "IELTS 6.5 or TOEFL 80",
+          "gre": "Not required",
+          "papers": "Transcripts, creative portfolio (digital art, interactive projects, or code clips)",
+          "references": "Two recommendations"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5062,
+        "name": "Dr. A. Hope Williams",
+        "role": "President of North Carolina Independent Colleges and Universities",
+        "department": "NCICU Executive Office",
+        "subject": "social-sciences",
+        "bio": "Dr. A. Hope Williams has led NCICU since 1992, directing state legislative policy, public-private transfer articulation with the NC Community College System, and private university endowment advocacy.",
+        "source": "https://www.ncicu.org/about/leadership/"
+      },
+      {
+        "id": 5063,
+        "name": "Dr. Vincent E. Price",
+        "role": "President of Duke University and Professor of Political Science",
+        "department": "Office of the President and Department of Political Science",
+        "subject": "social-sciences",
+        "bio": "Dr. Vincent E. Price is a political scientist and communication theorist researching public opinion dynamics, social media discourse polarization, and university strategic research growth.",
+        "source": "https://president.duke.edu/biography/"
+      },
+      {
+        "id": 5064,
+        "name": "Dr. Susan R. Wente",
+        "role": "President of Wake Forest University and Professor of Biology",
+        "department": "Office of the President and Department of Biology",
+        "subject": "biology",
+        "bio": "Dr. Susan R. Wente is a renowned cell biologist investigating nuclear pore complex mechanics, nucleocytoplasmic transport, and cellular mRNA export pathways.",
+        "source": "https://president.wfu.edu/about-president-wente/"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "The Board of Regents of the University of Wisconsin System",
+    "shortName": "UW Board of Regents",
+    "slug": "the-board-of-regents-of-the-university-of-wisconsin-system",
+    "location": "Madison, Wisconsin, United States",
+    "website": "https://www.wisconsin.edu/regents/",
+    "sourceRow": 998,
+    "stats": {
+      "established": "1971",
+      "students": "161,000+",
+      "international": "6%",
+      "faculty": "9,800+"
+    },
+    "hero": {
+      "tagline": "Madison \u00b7 Constitutional Higher Education Governance for All 26 UW Campuses",
+      "desc": "The Board of Regents of the University of Wisconsin System is the constitutional governing body responsible for establishing policies, academic program approvals, and financial governance across the 13 universities and 26 campuses of the UW System. Guided by the legendary Wisconsin Idea\u2014that education should influence people's lives beyond the classroom\u2014the Regents oversee a $6.8 billion budget and world-leading research in nuclear fusion, dairy genomics, stem cells, and biotechnology."
+    },
+    "admissions": {
+      "general": "Admissions standards established by the Board of Regents across all UW campuses. High school diploma with college-preparatory credits (4 English, 3 math, 3 science, 3 social science).",
+      "language": "TOEFL iBT 71+ (92+ UW-Madison) or IELTS 6.0+ (7.0+ UW-Madison).",
+      "deadlines": "UW-Madison Early Action November 1, 2026; Regular decision January 15, 2027; comprehensive campuses rolling through June 1, 2027."
+    },
+    "financial": {
+      "summary": "Wisconsin Tuition Promise (100% free tuition for state households earning under $62,000), Regents' Academic Excellence Awards, and Wisconsin Alumni Research Foundation (WARF) graduate fellowships.",
+      "tuition": "$5,461 - $11,600/year (Branch campus $5,461; UW-Madison resident undergraduate $11,600/year)"
+    },
+    "opportunities": [
+      {
+        "id": 11019,
+        "title": "Ph.D. in Cellular and Molecular Biology (WARF Discovery Building at UW-Madison)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology",
+          "chemistry"
+        ],
+        "desc": "Pioneering doctoral program in human embryonic stem cells, regenerative cellular reprogramming, viral replication genomics, and molecular cancer mechanisms.",
+        "funding": "Wisconsin Alumni Research Foundation (WARF) Fellowship: Full tuition waiver plus $35,000 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$75",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://cmb.wisc.edu/admissions/",
+        "requirements": {
+          "gpa": "3.5+ undergraduate GPA in biochemistry, genetics, or cellular biology",
+          "ielts": "IELTS 7.0 or TOEFL 92",
+          "gre": "Not required",
+          "papers": "Transcripts, statement of purpose, scientific CV, laboratory research summary",
+          "references": "Three letters of academic recommendation from principal investigators"
+        }
+      },
+      {
+        "id": 11020,
+        "title": "Wisconsin Tuition Promise (100% Free Tuition Across All UW Campuses)",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "System-wide guarantee enacted by the Board of Regents covering 100% of undergraduate tuition and fees for up to eight semesters for Wisconsin residents from households earning under $62,000.",
+        "funding": "100% full tuition and mandatory campus fees covered after federal and state aid",
+        "tuition": "$0 (Full tuition coverage for eligible students)",
+        "fee": "$0",
+        "deadline": "2027-02-01",
+        "deadlineText": "February 1, 2027",
+        "source": "https://www.wisconsin.edu/tuition-promise/",
+        "requirements": {
+          "gpa": "Wisconsin resident graduating from high school, household income <= $62,000",
+          "ielts": "Satisfied via Wisconsin secondary completion",
+          "gre": "Not required",
+          "papers": "Completed FAFSA application by priority deadline",
+          "references": "Automatic consideration"
+        }
+      },
+      {
+        "id": 11021,
+        "title": "Ph.D. in Nuclear Engineering and Engineering Physics (UW-Madison)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "desc": "Ranked #3 nationally in nuclear engineering, conducting research on magnetic fusion confinement at the Pegasus Toroidal Experiment, plasma physics, and fission reactor materials.",
+        "funding": "Nuclear Regulatory Commission Graduate Fellowship: $34,000 annual research stipend plus full tuition waiver",
+        "tuition": "$0",
+        "fee": "$75",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "source": "https://engineering.wisc.edu/degrees-programs/graduate-degrees/nuclear-engineering-engineering-physics-phd/",
+        "requirements": {
+          "gpa": "3.3+ undergraduate GPA in nuclear, mechanical, or electrical engineering, or physics",
+          "ielts": "IELTS 7.0 or TOEFL 92",
+          "gre": "GRE scores accepted",
+          "papers": "Statement of purpose, technical CV, official transcripts",
+          "references": "Three letters of recommendation"
+        }
+      },
+      {
+        "id": 11022,
+        "title": "Doctor of Medicine (M.D. - UW School of Medicine and Public Health)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology"
+        ],
+        "desc": "The nation's first school of medicine and public health, integrating clinical diagnosis, population epidemiology, and health equity across UW Health University Hospital.",
+        "funding": "SMPH Dean's Leadership Scholarship: Up to $25,000/year renewable merit award",
+        "tuition": "$38,400/year (Wisconsin resident MD tuition)",
+        "fee": "$75",
+        "deadline": "2026-11-01",
+        "deadlineText": "November 1, 2026",
+        "source": "https://www.med.wisc.edu/education/md-program/",
+        "requirements": {
+          "gpa": "3.7+ pre-medical undergraduate GPA via AMCAS",
+          "ielts": "Satisfied via AMCAS",
+          "gre": "MCAT competitive score (median 513)",
+          "papers": "AMCAS application, secondary responses, clinical patient interaction log",
+          "references": "Pre-health committee composite letter or three faculty letters"
+        }
+      },
+      {
+        "id": 11023,
+        "title": "UW Regents' Academic Excellence Diversity Award",
+        "type": "Award",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "System-wide award conferred annually by the Board of Regents honoring institutional programs and faculty dedicated to educational equity and academic retention.",
+        "funding": "Institutional grant of $7,500 awarded to the winning campus academic programs",
+        "tuition": "Campus resident tuition",
+        "fee": "$0",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://www.wisconsin.edu/regents/awards/academic-excellence-diversity-award/",
+        "requirements": {
+          "gpa": "Nomination by chancellor of constituent UW campus",
+          "ielts": "Satisfied via matriculation",
+          "gre": "Not required",
+          "papers": "Campus nomination dossier, program metrics evaluation",
+          "references": "Chancellor letter of endorsement"
+        }
+      },
+      {
+        "id": 11024,
+        "title": "Master of Science in Freshwater Sciences (UW-Milwaukee School of Freshwater Sciences)",
+        "type": "Degree",
+        "subject": "environment",
+        "subjects": [
+          "environment",
+          "biology"
+        ],
+        "desc": "The only standalone school of freshwater science in North America, studying Great Lakes toxic algal blooms, invasive dreissenid mussels, and urban coastal watershed protection.",
+        "funding": "Great Lakes Freshwater Fellowship: $26,000 annual research stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$65",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://uwm.edu/freshwater/academics/ms-freshwater-sciences/",
+        "requirements": {
+          "gpa": "3.0+ undergraduate GPA in biology, chemistry, hydrology, or geology",
+          "ielts": "IELTS 6.5 or TOEFL 79",
+          "gre": "Not required",
+          "papers": "Transcripts, scientific CV, 1,000-word statement of freshwater research intent",
+          "references": "Three letters of academic recommendation"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5065,
+        "name": "Dr. Jay Rothman",
+        "role": "President of the University of Wisconsin System",
+        "department": "UW System Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. Jay Rothman serves as President of the UW System, directing statewide higher education governance, strategic plan execution, legislative advocacy, and the Wisconsin Tuition Promise.",
+        "source": "https://www.wisconsin.edu/president/"
+      },
+      {
+        "id": 5066,
+        "name": "Dr. Jennifer L. Mnookin",
+        "role": "Chancellor of the University of Wisconsin-Madison and Professor of Law",
+        "department": "Office of the Chancellor",
+        "subject": "social-sciences",
+        "bio": "Dr. Jennifer L. Mnookin is a legal scholar specializing in evidence law, forensic science reliability, expert testimony evaluation, and Carnegie R1 public research governance.",
+        "source": "https://chancellor.wisc.edu/biography/"
+      },
+      {
+        "id": 5067,
+        "name": "Dr. Mark Mone",
+        "role": "Chancellor of the University of Wisconsin-Milwaukee and Professor of Management",
+        "department": "Office of the Chancellor",
+        "subject": "social-sciences",
+        "bio": "Dr. Mark Mone leads UW-Milwaukee, researching organizational strategic management, urban research university engagement, and freshwater technology economic clusters.",
+        "source": "https://uwm.edu/chancellor/biography/"
+      }
+    ]
+  },
+  {
+    "countryId": "usa",
+    "countryLabel": "United States",
+    "institution": "University of Colorado Board of Regents",
+    "shortName": "CU Board of Regents",
+    "slug": "university-of-colorado-board-of-regents",
+    "location": "Denver, Colorado, United States",
+    "website": "https://www.cu.edu/regents/",
+    "sourceRow": 1071,
+    "stats": {
+      "established": "1876",
+      "students": "67,000+",
+      "international": "9%",
+      "faculty": "5,600+"
+    },
+    "hero": {
+      "tagline": "Denver \u00b7 Constitutional Higher Education Governance for CU Boulder, CU Denver, UCCS & Anschutz",
+      "desc": "The University of Colorado Board of Regents is the constitutional governing body of the University of Colorado System, overseeing four premier campuses: the flagship University of Colorado Boulder, the University of Colorado Anschutz Medical Campus, the University of Colorado Denver, and the University of Colorado Colorado Springs (UCCS). Managing an annual budget of $5.9 billion and generating $1.5 billion in sponsored research, the Regents lead the nation in aerospace, quantum physics, and biomedical therapeutics."
+    },
+    "admissions": {
+      "general": "Admissions standards established by the Board of Regents for all CU campuses. Comprehensive review of secondary school GPA, curriculum rigor, and personal statement.",
+      "language": "TOEFL iBT 79+ (100+ CU Boulder engineering) or IELTS 6.5+ across CU institutions.",
+      "deadlines": "CU Boulder Early Action November 15, 2026; Regular decision January 15, 2027; comprehensive campuses rolling through July 1, 2027."
+    },
+    "financial": {
+      "summary": "CU Promise (100% free tuition and fees for eligible low-income Colorado residents), Regents' Scholar Awards, and BioFrontiers Institute doctoral research fellowships.",
+      "tuition": "$11,600 - $16,800/year (Colorado resident undergraduate; $41,200/year non-resident)"
+    },
+    "opportunities": [
+      {
+        "id": 11025,
+        "title": "Ph.D. in Aerospace Engineering Sciences (Smead Aerospace at CU Boulder)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "physics"
+        ],
+        "desc": "Top-tier aerospace doctorate adjacent to the Laboratory for Atmospheric and Space Physics (LASP), designing satellite instruments for NASA interplanetary probes.",
+        "funding": "Smead Aerospace Fellowship: Full tuition waiver plus $35,000 annual research fellowship stipend",
+        "tuition": "$0 (Fully funded PhD)",
+        "fee": "$80",
+        "deadline": "2026-12-01",
+        "deadlineText": "December 1, 2026",
+        "source": "https://www.colorado.edu/aerospace/academics/graduate-programs",
+        "requirements": {
+          "gpa": "3.5+ undergraduate/master's GPA in aerospace, mechanical, or electrical engineering, or physics",
+          "ielts": "IELTS 7.5 or TOEFL 100",
+          "gre": "GRE optional",
+          "papers": "Transcripts, statement of aerospace research purpose, technical CV",
+          "references": "Three letters of academic recommendation from aerospace researchers"
+        }
+      },
+      {
+        "id": 11026,
+        "title": "CU Promise Program (100% Free Tuition and Mandatory Fees)",
+        "type": "Scholarship",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "Constitutional tuition guarantee enacted by the Board of Regents covering 100% of undergraduate tuition and mandatory fees for eligible federal Pell Grant-qualified Colorado residents.",
+        "funding": "100% full tuition and mandatory fees covered for up to eight undergraduate semesters",
+        "tuition": "$0 (Tuition completely covered)",
+        "fee": "$0",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://www.cu.edu/cu-promise",
+        "requirements": {
+          "gpa": "Colorado resident graduating from high school, federal Pell Grant eligible",
+          "ielts": "Satisfied via Colorado secondary completion",
+          "gre": "Not required",
+          "papers": "Completed FAFSA application by campus priority deadline",
+          "references": "Automatic consideration"
+        }
+      },
+      {
+        "id": 11027,
+        "title": "Doctor of Medicine (M.D. - CU Anschutz School of Medicine)",
+        "type": "Degree",
+        "subject": "biology",
+        "subjects": [
+          "biology"
+        ],
+        "desc": "World-class medical campus in Aurora featuring clinical rotations at UCHealth University of Colorado Hospital, Children's Hospital Colorado, and the Rocky Mountain Regional VA.",
+        "funding": "Anschutz Medical Foundation Scholarships: Up to $25,000/year merit awards",
+        "tuition": "$44,120/year (Colorado resident MD tuition)",
+        "fee": "$100",
+        "deadline": "2026-11-01",
+        "deadlineText": "November 1, 2026",
+        "source": "https://medschool.cuanschutz.edu/admissions",
+        "requirements": {
+          "gpa": "3.8+ pre-medical undergraduate GPA via AMCAS",
+          "ielts": "Satisfied via AMCAS",
+          "gre": "MCAT competitive score (median 515)",
+          "papers": "AMCAS application, secondary responses, hospital shadowing record",
+          "references": "Pre-health committee composite letter or three faculty letters"
+        }
+      },
+      {
+        "id": 11028,
+        "title": "Ph.D. in Physics (JILA and Department of Physics at CU Boulder)",
+        "type": "Degree",
+        "subject": "physics",
+        "subjects": [
+          "physics"
+        ],
+        "desc": "Home to four Nobel laureates, pioneering research in ultracold atomic gases, Bose-Einstein condensates, optical atomic clocks, and quantum precision measurement.",
+        "funding": "JILA Graduate Research Fellowship: $36,000 annual stipend plus complete tuition waiver",
+        "tuition": "$0",
+        "fee": "$80",
+        "deadline": "2026-12-15",
+        "deadlineText": "December 15, 2026",
+        "source": "https://www.colorado.edu/physics/academics/graduate-students",
+        "requirements": {
+          "gpa": "3.6+ undergraduate GPA in physics, mathematics, or chemistry",
+          "ielts": "IELTS 7.5 or TOEFL 100",
+          "gre": "Physics GRE scores accepted",
+          "papers": "Statement of purpose, scientific CV, transcripts, research paper sample",
+          "references": "Three letters of recommendation from physicists"
+        }
+      },
+      {
+        "id": 11029,
+        "title": "CU Board of Regents' Distinguished Student Leadership Award",
+        "type": "Award",
+        "subject": "social-sciences",
+        "subjects": [
+          "social-sciences"
+        ],
+        "desc": "System-wide honor conferred annually by the Board of Regents recognizing one student per campus who has demonstrated exceptional leadership and service.",
+        "funding": "$5,000 cash grant and formal resolution by the University of Colorado Board of Regents",
+        "tuition": "Campus resident tuition",
+        "fee": "$0",
+        "deadline": "2027-02-15",
+        "deadlineText": "February 15, 2027",
+        "source": "https://www.cu.edu/regents/awards/student-leadership",
+        "requirements": {
+          "gpa": "3.5+ cumulative collegiate GPA at any CU campus, junior or senior standing",
+          "ielts": "Satisfied via matriculation",
+          "gre": "Not required",
+          "papers": "Campus nomination package, curriculum vitae, leadership essay",
+          "references": "Nomination by campus chancellor"
+        }
+      },
+      {
+        "id": 11030,
+        "title": "Ph.D. in Bioengineering (CU Anschutz / CU Denver Joint Program)",
+        "type": "Degree",
+        "subject": "engineering",
+        "subjects": [
+          "engineering",
+          "biology"
+        ],
+        "desc": "Translational engineering doctorate based at the Anschutz Medical Campus investigating biomechanical orthopedic implants, neural prosthetics, and ultrasound imaging.",
+        "funding": "NIH Bioengineering Research Assistantship: $32,000 annual stipend plus tuition waiver",
+        "tuition": "$0",
+        "fee": "$75",
+        "deadline": "2027-01-15",
+        "deadlineText": "January 15, 2027",
+        "source": "https://engineering.ucdenver.edu/bioengineering/academics/phd",
+        "requirements": {
+          "gpa": "3.2+ undergraduate GPA in engineering, biology, or physics",
+          "ielts": "IELTS 6.5 or TOEFL 79",
+          "gre": "GRE optional",
+          "papers": "Transcripts, technical statement of bioengineering research, CV",
+          "references": "Three letters of academic recommendation"
+        }
+      }
+    ],
+    "researchers": [
+      {
+        "id": 5068,
+        "name": "Dr. Todd Saliman",
+        "role": "President of the University of Colorado System",
+        "department": "CU System Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. Todd Saliman is President of the CU System and an economist, directing constitutional higher education policy, state legislative appropriations, and university affordability initiatives across Colorado.",
+        "source": "https://www.cu.edu/president"
+      },
+      {
+        "id": 5069,
+        "name": "Dr. Philip P. DiStefano",
+        "role": "Chancellor of the University of Colorado Boulder and Professor of Education",
+        "department": "Office of the Chancellor",
+        "subject": "social-sciences",
+        "bio": "Dr. Philip P. DiStefano has served as Chancellor of CU Boulder, researching literacy education, university research enterprise growth, and international aerospace partnerships.",
+        "source": "https://www.colorado.edu/chancellor/about"
+      },
+      {
+        "id": 5070,
+        "name": "Dr. Donald M. Elliman Jr.",
+        "role": "Chancellor of the University of Colorado Anschutz Medical Campus",
+        "department": "CU Anschutz Administration",
+        "subject": "social-sciences",
+        "bio": "Dr. Donald M. Elliman Jr. leads the Anschutz Medical Campus, directing clinical healthcare integration, biotech venture commercialization, and biomedical research expansion.",
+        "source": "https://www.cuanschutz.edu/about/chancellor"
+      }
+    ]
+  }
+]
