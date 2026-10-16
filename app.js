@@ -11,7 +11,7 @@ const remaining=(date)=>date?Math.max(0,Math.ceil((new Date(date+"T23:59:59")-ne
 const safeUrl=(v)=>/^https:\/\//.test(v||"")?v:"#/about";
 const directContact='<a class="button secondary" href="mailto:shahriyarkarimsiam@gmail.com?subject=OpenField%20academic%20question">Ask us — free ↗</a>';
 const guideLink='<a class="button secondary" href="#/mentorship">Mentorship ↗</a>';
-const WEBHOOK_URL='https://script.google.com/macros/s/AKfycbwJKcWc_lzkwDkxkbsVVs4yXoVViJfsssp4G-Q3MJftmWkNAfDYTWVv4JiabvKFbmFH/exec';
+const WEBHOOK_URL='https://script.google.com/macros/s/AKfycbyn3TgoeM66iN_H2iN9uAGdCYQArV8OaWycf0HzXOUBCBexsywq59ZzD_r1T6KrNrSr/exec';
 
 const icon=(name)=>({arrow:"↗",dot:"✦",bookmark:"◇"}[name]||name);
 const href=(route)=>"#"+route;
