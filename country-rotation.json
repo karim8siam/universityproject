@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 84,
+  "cycle": 85,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "University of North Carolina Wilmington",
-    "sourceRow": 1044
+    "university": "University of Maine at Machias",
+    "sourceRow": 1097
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 455,
+    "usa": 485,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
