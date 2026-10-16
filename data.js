@@ -287944,6 +287944,5177 @@ export const opportunities=[
     "reviewed": "2026-10-16",
     "status": "Available"
   }
+,
+  {
+    "id": 10047,
+    "title": "Ph.D. in Computer Science - Maryland Cybersecurity & Quantum Computing",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "physics"
+    ],
+    "desc": "Elite doctoral program renowned for quantum computing algorithms, cybersecurity, distributed systems, machine learning, and human-computer interaction in partnership with the Joint Quantum Institute.",
+    "funding": "Full 5-year guarantee: $36,000/year stipend, full tuition remission, and health benefits",
+    "tuition": "Covered by fellowship/RA",
+    "fee": "$75",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://www.cs.umd.edu/grad/admissions",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science or related STEM field with GPA 3.5+",
+      "ielts": "TOEFL 96+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Research statement detailing interest and faculty alignment",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10048,
+    "title": "Ph.D. in Aerospace Engineering - Autonomous Flight & Hypersonics",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Top-ranked Clark School aerospace doctoral training featuring experimental rotorcraft, hypersonics wind tunnels, space robotics, and autonomous uncrewed flight vehicles.",
+    "funding": "Graduate Research Assistantships $35,500/year plus complete tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://aero.umd.edu/graduate",
+    "requirements": {
+      "gpa": "Engineering degree with GPA 3.4+",
+      "ielts": "TOEFL 96+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10049,
+    "title": "Ph.D. in Atmospheric and Oceanic Science - Earth System Climate Modeling",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Premier climate science program conducting planetary modeling, ocean-atmosphere interactions, data assimilation, and severe weather dynamics in close collaboration with NOAA and NASA.",
+    "funding": "Full fellowship funding $34,000/year plus full tuition remission and health insurance",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://aosc.umd.edu/graduate",
+    "requirements": {
+      "gpa": "STEM bachelor's degree with strong math background and GPA 3.2+",
+      "ielts": "TOEFL 96+",
+      "gre": "GRE not required",
+      "papers": "Statement of research objectives",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10050,
+    "title": "Ph.D. in Physics - Quantum Information & Condensed Matter Theory",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "mathematics"
+    ],
+    "desc": "Internationally acclaimed physics program leading experimental quantum science, topological insulators, non-linear dynamics, and particle astrophysics at JQI and NIST laboratories.",
+    "funding": "Full graduate fellowship and TA/RA packages $36,500/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://umdphysics.umd.edu/academics/graduate.html",
+    "requirements": {
+      "gpa": "BS in Physics, Applied Physics, or Mathematics with GPA 3.5+",
+      "ielts": "TOEFL 96+ or IELTS 7.0+",
+      "gre": "Physics GRE strongly encouraged",
+      "papers": "Statement of purpose",
+      "references": "Three faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10051,
+    "title": "Master of Public Policy (MPP) - International Security & Energy Governance",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Rigorous policy curriculum leveraging proximity to Washington, D.C. for hands-on analysis of nuclear security, climate governance, international trade, and social equity.",
+    "funding": "Dean's Merit Fellowships up to $20,000/year and graduate assistant opportunities",
+    "tuition": "$38,500/year",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://publicpolicy.umd.edu/admissions",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and coursework in economics and quantitative methods",
+      "ielts": "TOEFL 96+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Policy statement of purpose and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10052,
+    "title": "Ph.D. in Biological Sciences - Molecular Ecology & Evolutionary Genomics",
+    "university": "University of Maryland",
+    "country": "United States",
+    "location": "College Park, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Interdisciplinary biological training in host-pathogen evolutionary dynamics, marine biodiversity, plant genetics, and bioinformatics utilizing state-of-the-art sequencing cores.",
+    "funding": "Guaranteed 5-year support: $35,000/year stipend, full tuition remission, and health plan",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://bisi.umd.edu/admissions",
+    "requirements": {
+      "gpa": "Undergraduate degree in life sciences with GPA 3.3+ and laboratory experience",
+      "ielts": "TOEFL 96+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10053,
+    "title": "Ph.D. in Marine-Estuarine-Environmental Sciences (MEES) - Coastal Ecology",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Elite coastal ecosystem doctoral track emphasizing Chesapeake Bay fisheries dynamics, wetland biogeochemistry, ocean habitat ecology, and sustainable aquaculture resource management.",
+    "funding": "Graduate research assistantships $28,000/year plus full tuition remission via NOAA LMRCSC",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.umes.edu/MEES/",
+    "requirements": {
+      "gpa": "BS or MS in marine biology, environmental science, or related discipline with GPA 3.0+",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Personal statement explaining marine research interests",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10054,
+    "title": "Doctor of Pharmacy (Pharm.D.) - Accelerated Professional Pharmacy",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Intensive year-round doctoral curriculum preparing clinical pharmacists in pharmacotherapy, community health delivery, pharmacokinetics, and rural healthcare accessibility.",
+    "funding": "Institutional pharmacy merit scholarships up to $12,000/year",
+    "tuition": "$32,400/year",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.umes.edu/Pharmacy/",
+    "requirements": {
+      "gpa": "Prerequisite science coursework with minimum GPA 2.75",
+      "ielts": "TOEFL 80+",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS application essays",
+      "references": "Two professional recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10055,
+    "title": "Master of Science in Food and Agricultural Sciences - Sustainable Crop Production",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Applied agricultural graduate program focusing on plant breeding, soil microbial health, precision poultry management, and food safety microbiomics on Maryland's Eastern Shore.",
+    "funding": "USDA 1890 Capacity Research Assistantships $22,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.umes.edu/sans/",
+    "requirements": {
+      "gpa": "Undergraduate degree in agriculture, biology, or chemistry with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of goals and research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10056,
+    "title": "Ph.D. in Organizational Leadership - Higher Education & Public Administration",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Doctoral training preparing institutional executives and policy researchers in organizational governance, diversity equity frameworks, educational finance, and strategic planning.",
+    "funding": "Graduate teaching assistantships up to $18,000/year",
+    "tuition": "$18,500/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.umes.edu/Education/",
+    "requirements": {
+      "gpa": "Master's degree from accredited institution with GPA 3.25+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Scholarly writing sample and statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10057,
+    "title": "Bachelor of Science in Aviation Sciences - Professional Pilot & Aviation Management",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Premier FAA-approved collegiate aviation program providing FAA flight ratings, avionics engineering systems, flight operations management, and unmanned aerial systems (UAS) piloting.",
+    "funding": "FAA and aviation industry flight training scholarships up to $10,000",
+    "tuition": "$21,500/year (out-of-state) + flight lab fees",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umes.edu/aviation/",
+    "requirements": {
+      "gpa": "High school GPA 2.7+ and FAA Second Class Medical Certificate for flight track",
+      "ielts": "TOEFL 79+ or IELTS 6.0+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10058,
+    "title": "Master of Science in Applied Computer Science - Intelligent Computing",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "location": "Princess Anne, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Graduate coursework and thesis research in computer network security, cloud computing architectures, data analytics, and embedded intelligent robotic controllers.",
+    "funding": "Departmental Graduate Assistantships $18,000/year with partial tuition assistance",
+    "tuition": "$16,800/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umes.edu/mathcs/",
+    "requirements": {
+      "gpa": "BS in Computer Science or Mathematics with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10059,
+    "title": "Ph.D. in Molecular Medicine - Cancer Biology & Vascular Therapeutics",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite biomedical doctorate at the School of Medicine focusing on oncogenesis, vascular signaling cascades, targeted therapeutics, and stem cell biology at the Marlene and Stewart Greenebaum Comprehensive Cancer Center.",
+    "funding": "Full institutional fellowship $37,000/year, full tuition coverage, and comprehensive medical/dental benefits",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://www.medschool.umaryland.edu/gpis/Molecular-Medicine/",
+    "requirements": {
+      "gpa": "Undergraduate degree in biological sciences, biochemistry, or related STEM field with GPA 3.3+",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "GRE not accepted",
+      "papers": "Statement of research experience and goals",
+      "references": "Three letters from research mentors"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10060,
+    "title": "Ph.D. in Pharmaceutical Health Services Research (PHSR) - Pharmacoeconomics",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "biology"
+    ],
+    "desc": "Nationally recognized graduate training in comparative drug effectiveness, health economics, pharmaceutical policy regulation, and real-world clinical evidence analytics at the School of Pharmacy.",
+    "funding": "Full graduate research assistantships $36,000/year plus complete tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.pharmacy.umaryland.edu/academics/phsr-phd/",
+    "requirements": {
+      "gpa": "Degree in pharmacy, public health, economics, or biology with GPA 3.0+",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Personal research statement and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10061,
+    "title": "Ph.D. in Nursing Science - Health Disparities & Chronic Disease Management",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Top-ranked School of Nursing doctoral curriculum advancing clinical intervention trials, biobehavioral mechanisms of pain, gerontological care, and health equity in urban communities.",
+    "funding": "Pre-doctoral research fellowships $35,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://www.nursing.umaryland.edu/academics/doctoral/phd/",
+    "requirements": {
+      "gpa": "BSN or MSN degree with GPA 3.3+ and active nursing licensure eligibility",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample and statement of research focus",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10062,
+    "title": "Master of Science in Forensic Medicine - Medico-Legal Death Investigation",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Comprehensive forensic pathology and trauma analysis training in collaboration with the Maryland Office of the Chief Medical Examiner, covering toxicology, DNA evidence, and courtroom testimony.",
+    "funding": "Institutional merit awards up to $8,000",
+    "tuition": "$26,500 total",
+    "fee": "$75",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.graduate.umaryland.edu/forensicmedicine/",
+    "requirements": {
+      "gpa": "Bachelor's in forensic science, biology, chemistry, or nursing with GPA 3.0+",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE optional",
+      "papers": "Statement of professional goals",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10063,
+    "title": "Ph.D. in Social Work - Child Welfare & Behavioral Health Policy",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Distinguished social policy doctorate focusing on community intervention models, substance abuse recovery, child mental health systems, and urban social justice initiatives.",
+    "funding": "4-year funding package: $32,000/year stipend, full tuition remission, and health coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.ssw.umaryland.edu/phd/",
+    "requirements": {
+      "gpa": "MSW or related master's degree with GPA 3.5+; post-master's clinical/policy experience preferred",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE not required",
+      "papers": "Research statement and published writing sample",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10064,
+    "title": "Ph.D. in Biochemistry and Molecular Biology - Structural Biology of Infectious Disease",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "Molecular biophysics and chemical biology training utilizing cryogenic electron microscopy (cryo-EM), nuclear magnetic resonance (NMR), and X-ray crystallography to dissect viral entry mechanisms.",
+    "funding": "Full 5-year stipend $37,000/year plus full tuition remission and medical benefits",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://www.medschool.umaryland.edu/biochemistry/",
+    "requirements": {
+      "gpa": "Bachelor's in biochemistry, chemistry, or biological sciences with GPA 3.2+",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE not accepted",
+      "papers": "Statement of purpose and lab experience record",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10065,
+    "title": "Ph.D. in Computer Science - Artificial Intelligence & Cyber-Physical Systems",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Research-intensive doctoral study encompassing multi-agent systems, natural language understanding, privacy-preserving machine learning, and hardware cybersecurity.",
+    "funding": "Full departmental assistantships: $32,000/year stipend, full tuition waiver, and health insurance",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-01",
+    "deadlineText": "January 1, 2027",
+    "source": "https://csee.umbc.edu/academics/graduate/cs/",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science, Computer Engineering, or related field with GPA 3.4+",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10066,
+    "title": "Ph.D. in Chemical and Biochemical Engineering - Bioprocess & Tissue Engineering",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Advanced engineering curriculum addressing monoclonal antibody biomanufacturing, biomaterials for neural regeneration, microfluidic cell culture, and metabolic engineering.",
+    "funding": "Graduate research fellowships $33,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://cbbe.umbc.edu/graduate-programs/",
+    "requirements": {
+      "gpa": "Undergraduate degree in chemical engineering or related discipline with GPA 3.2+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10067,
+    "title": "Ph.D. in Atmospheric Physics - Cloud Microphysics & Remote Sensing",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "environment"
+    ],
+    "desc": "Elite atmospheric physics training utilizing satellite lidar, polarimetric sensors, and climate modeling through the Earth and Space Institute and NASA GESTAR II.",
+    "funding": "NASA-affiliated graduate research assistantships $34,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://physics.umbc.edu/graduate/",
+    "requirements": {
+      "gpa": "BS in physics, mathematics, or meteorology with GPA 3.2+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Research statement",
+      "references": "Three faculty references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10068,
+    "title": "Master of Science in Cybersecurity - Network Defense & Cloud Security",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on professional graduate program covering offensive security, cryptographic algorithms, zero-trust cloud architecture, and intrusion detection analysis.",
+    "funding": "Cybersecurity talent merit scholarships up to $10,000",
+    "tuition": "$22,500 total",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://cybersecurity.umbc.edu/",
+    "requirements": {
+      "gpa": "STEM bachelor's degree with GPA 3.0+ and programming proficiency",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Statement of goals and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10069,
+    "title": "Ph.D. in Public Policy - Health Policy & Urban Economic Disparities",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Doctoral research program analyzing urban poverty alleviation, healthcare access economics, public education reform, and environmental justice policy.",
+    "funding": "Graduate research assistantships $30,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://publicpolicy.umbc.edu/graduate-programs/",
+    "requirements": {
+      "gpa": "Master's or bachelor's degree with strong quantitative background and GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Research writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10070,
+    "title": "Master of Fine Arts in Intermedia and Digital Arts (IMDA)",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "location": "Baltimore, Maryland, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary terminal MFA blending creative coding, interactive media installations, digital storytelling, electronic music, and speculative technological art.",
+    "funding": "Full graduate teaching assistantships including tuition waiver and annual stipend",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://art.umbc.edu/graduate/imda/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and creative digital portfolio submission",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Artist statement and project proposal",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10071,
+    "title": "Ph.D. in Marine Science and Technology - Ocean Observatories & Marine Fisheries",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Doctoral research based at the oceanfront SMAST facility in New Bedford, investigating groundfish stock assessment, ocean circulation dynamics, acoustic tagging, and marine renewable energy.",
+    "funding": "Graduate Research Assistantships $28,500/year plus complete tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.umassd.edu/smast/academics/",
+    "requirements": {
+      "gpa": "BS or MS in marine science, biology, oceanography, or physics with GPA 3.2+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with SMAST faculty",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10072,
+    "title": "Ph.D. in Engineering and Applied Science - Computational & Materials Mechanics",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "mathematics"
+    ],
+    "desc": "Interdisciplinary doctoral program exploring composite materials mechanics, renewable energy harvesting devices, high-performance computing simulations, and marine robotics.",
+    "funding": "Full graduate research assistantships $29,000/year with full tuition coverage",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.umassd.edu/engineering/phd/",
+    "requirements": {
+      "gpa": "BS in Engineering, Physics, or Applied Mathematics with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10073,
+    "title": "Master of Science in Computer Science - Artificial Intelligence & Data Systems",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Graduate degree focusing on deep learning applications, distributed database systems, software engineering verification, and intelligent autonomous cyber-systems.",
+    "funding": "Teaching and lab assistantships up to $16,000/year",
+    "tuition": "$21,000/year",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.umassd.edu/engineering/cis/graduate/",
+    "requirements": {
+      "gpa": "BS in computer science or related field with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10074,
+    "title": "Juris Doctor (J.D.) - Public Interest Law & Coastal Legal Policy",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "The only public law school in Massachusetts, delivering rigorous practical legal education with concentrations in public interest law, environmental and coastal law, and community advocacy.",
+    "funding": "UMass Law Public Interest Fellowships covering 50% to 100% of tuition",
+    "tuition": "$31,000/year",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umassd.edu/law/",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive undergraduate GPA and LSAT or GRE score",
+      "ielts": "TOEFL 90+",
+      "gre": "LSAT/GRE required",
+      "papers": "Personal statement and legal resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10075,
+    "title": "Master of Fine Arts in Artisanry - Ceramics, Textiles & Jewelry Design",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Preeminent studio MFA celebrated for craft tradition and contemporary sculpture across ceramics, fiber arts, furniture design, and metalsmithing at CVPA Star Store studios.",
+    "funding": "Full graduate fellowships including tuition waivers and studio assistantships",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.umassd.edu/cvpa/artisanry/",
+    "requirements": {
+      "gpa": "BFA or BA in art with GPA 3.0+ and visual portfolio of 20 creative works",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Artist statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10076,
+    "title": "Master of Science in Biomedical Engineering and Biotechnology (BMEBT)",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "location": "Dartmouth, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "UMass system joint graduate program bridging cell biology, biomaterials synthesis, diagnostic biosensors, and tissue scaffolding for biomedical therapeutics.",
+    "funding": "Research assistantships $22,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.umassd.edu/engineering/bioengineering/graduate/",
+    "requirements": {
+      "gpa": "Undergraduate degree in life sciences, bioengineering, or chemistry with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10077,
+    "title": "Ph.D. in Plastics Engineering - Sustainable Biopolymers & Nanocomposites",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "The nation's founding and preeminent plastics engineering doctoral program, pioneering bio-derived polymer matrices, polymer rheology, extrusion modeling, and circular recycling technologies.",
+    "funding": "Graduate Research Assistantships $32,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uml.edu/engineering/plastics/programs-degrees/phd.aspx",
+    "requirements": {
+      "gpa": "BS or MS in plastics engineering, chemical engineering, materials science, or chemistry with GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Research statement and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10078,
+    "title": "Ph.D. in Computer Science - Autonomous Robotics & Cyber-Physical Security",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Advanced doctoral curriculum conducting field robotics validation at the NERVE Center, human-robot interaction, reinforcement learning, and embedded network defenses.",
+    "funding": "Teaching and Research Fellowships $33,000/year plus full tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uml.edu/sciences/computer-science/programs/phd.aspx",
+    "requirements": {
+      "gpa": "BS in Computer Science or allied STEM discipline with GPA 3.4+",
+      "ielts": "TOEFL 85+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10079,
+    "title": "Ph.D. in Mechanical Engineering - Advanced Energy Systems & Aerodynamics",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Rigorous mechanical engineering doctoral specialization in wind turbine blade aerodynamics, structural health monitoring, thermal management, and additive manufacturing.",
+    "funding": "Full graduate research assistantships $31,500/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.uml.edu/engineering/mechanical/programs/phd.aspx",
+    "requirements": {
+      "gpa": "BS in mechanical engineering or related discipline with GPA 3.2+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10080,
+    "title": "Ph.D. in Applied Biology - Molecular Therapeutics & Toxicology",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Doctoral training focusing on environmental endocrine disruptors, cancer cell signaling pathways, developmental neurobiology, and microbial genetics.",
+    "funding": "Departmental Graduate Teaching Assistantships $29,000/year with tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uml.edu/sciences/biology/programs/phd.aspx",
+    "requirements": {
+      "gpa": "Degree in biological sciences or biochemistry with GPA 3.2+ and laboratory research experience",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10081,
+    "title": "Master of Science in Sound Recording Technology - Audio Engineering & Production",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "Nationally recognized audio production master's combining acoustics physics, multi-track mixing in professional control rooms, spatial audio mixing, and DSP audio plugin programming.",
+    "funding": "Graduate studio assistantships up to $15,000/year",
+    "tuition": "$24,500/year",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.uml.edu/fahss/music/programs/graduate/srt-masters.aspx",
+    "requirements": {
+      "gpa": "Bachelor's in music or audio engineering with GPA 3.0+; audio portfolio audition",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Statement of artistic and technical goals",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10082,
+    "title": "Ph.D. in Criminology and Justice Studies - Counter-Terrorism & Evidence-Based Policing",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "location": "Lowell, Massachusetts, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Top-tier criminology doctoral program conducting empirical evaluations of security policy, digital forensics, violent extremism prevention, and juvenile justice reform.",
+    "funding": "Doctoral research fellowships $28,000/year plus complete tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.uml.edu/fahss/criminology/programs/phd.aspx",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in criminology, sociology, or allied field with GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10083,
+    "title": "Ph.D. in Biomedical Engineering - Orthopedic Biomaterials & Tissue Scaffolds",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Joint doctoral program with UTHSC leveraging Memphis's status as the global orthopedic device manufacturing capital, focusing on biomaterials, chitosan drug-delivery matrices, and biomechanical implant design.",
+    "funding": "Graduate Research Assistantships $28,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.memphis.edu/bme/graduate/phd.php",
+    "requirements": {
+      "gpa": "BS in biomedical engineering or related STEM field with GPA 3.3+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10084,
+    "title": "Ph.D. in Earth Sciences - Seismology & Earthquake Hazard Assessment",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Distinguished geophysical research through the Center for Earthquake Research and Information (CERI), investigating New Madrid seismic zone dynamics, intraplate earthquakes, and seismic hazard forecasting.",
+    "funding": "Full graduate research assistantships $26,000/year plus tuition remission at CERI",
+    "tuition": "Covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.memphis.edu/ceri/academics/",
+    "requirements": {
+      "gpa": "Degree in geosciences, physics, or mathematics with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10085,
+    "title": "Doctor of Audiology (Au.D.) - Clinical Audiology & Auditory Neuroscience",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Top-10 ranked clinical doctoral program preparing audiologists in cochlear implant mapping, pediatric diagnostic evaluations, vestibular rehabilitation, and neuro-otology.",
+    "funding": "Clinical graduate assistantships covering tuition and monthly stipends",
+    "tuition": "$22,000/year",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.memphis.edu/csd/audiology/",
+    "requirements": {
+      "gpa": "Undergraduate GPA 3.3+ with prerequisite coursework in speech and hearing sciences",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE required",
+      "papers": "CSDCAS personal essay",
+      "references": "Three academic/clinical references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10086,
+    "title": "Ph.D. in Computer Science - Intelligent Systems & Machine Learning",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Cutting-edge research at the Institute for Intelligent Systems (IIS) in conversational intelligent tutoring agents, automated cognitive modeling, big data analytics, and cyber security.",
+    "funding": "Departmental teaching and research assistantships $27,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.memphis.edu/cs/graduate/",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10087,
+    "title": "Ph.D. in Business Administration - Supply Chain Logistics & Freight Transportation",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Doctoral training situated in America's distribution capital, focusing on freight optimization, intermodal logistics networks, omni-channel inventory routing, and supply chain risk.",
+    "funding": "FedEx Supply Chain Fellowships $28,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.memphis.edu/fcbe/phd/",
+    "requirements": {
+      "gpa": "Strong undergraduate or master's GPA (3.3+) and quantitative aptitude",
+      "ielts": "TOEFL 80+",
+      "gre": "GMAT or GRE required",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10088,
+    "title": "Master of Music in Jazz and Studio Music - Performance & Arranging",
+    "university": "University of Memphis",
+    "country": "United States",
+    "location": "Memphis, Tennessee, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Historic Mid-South music program providing advanced training in jazz improvisation, big band arranging, sound recording production, and commercial studio performance.",
+    "funding": "Rudi E. Scheidt School of Music Graduate Fellowships up to $14,000/year",
+    "tuition": "$19,500/year",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.memphis.edu/music/academics/graduate.php",
+    "requirements": {
+      "gpa": "BM or BA in music with GPA 2.75+ and performance audition",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Statement of musical objectives and repertoire list",
+      "references": "Two faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10089,
+    "title": "Ph.D. in Automotive and Systems Engineering - Electric Powertrains & Connected Mobility",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Elite automotive doctorate collaborating with major OEMs on battery management systems, vehicle electrification, autonomous collision avoidance, and lightweight structural composites.",
+    "funding": "Graduate Research Assistantships $30,000/year plus full tuition remission and health insurance",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://umdearborn.edu/cecs/graduate-programs/doctoral-degrees/phd-automotive-and-systems-engineering",
+    "requirements": {
+      "gpa": "BS or MS in mechanical, electrical, or automotive engineering with GPA 3.3+",
+      "ielts": "TOEFL 84+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10090,
+    "title": "Ph.D. in Computer and Information Science - Vehicular Networks & Machine Intelligence",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Advanced computer science doctorate focusing on V2X (vehicle-to-everything) security protocols, embedded edge computing, adversarial machine learning, and computer vision.",
+    "funding": "CECS Doctoral Fellowships $30,000/year plus tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://umdearborn.edu/cecs/graduate-programs/doctoral-degrees/phd-computer-and-information-science",
+    "requirements": {
+      "gpa": "BS in Computer Science, Software Engineering, or related discipline with GPA 3.4+",
+      "ielts": "TOEFL 84+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and research proposal",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10091,
+    "title": "Master of Science in Cybersecurity and Information Assurance - Automotive Cyber Defense",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Specialized NSA-designated cybersecurity curriculum focusing on in-vehicle CAN bus security, embedded hardware cryptography, ethical hacking, and industrial IoT defense.",
+    "funding": "Industry graduate co-op placements and merit scholarships up to $8,000",
+    "tuition": "$23,500 total",
+    "fee": "$60",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://umdearborn.edu/cecs/graduate-programs/masters-degrees/ms-cybersecurity-and-information-assurance",
+    "requirements": {
+      "gpa": "Undergraduate degree in STEM with GPA 3.0+ and programming knowledge",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10092,
+    "title": "Master of Science in Bioengineering - Biomaterials & Assistive Technologies",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "engineering"
+    ],
+    "desc": "Interdisciplinary master's combining biomechanics modeling, ergonomic occupant safety design, biocompatible polymers, and assistive rehabilitation robotics.",
+    "funding": "Departmental teaching assistantships up to $16,000/year",
+    "tuition": "$21,000/year",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://umdearborn.edu/cecs/graduate-programs/masters-degrees/ms-bioengineering",
+    "requirements": {
+      "gpa": "BS in engineering, physics, or biological sciences with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of goals and CV",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10093,
+    "title": "Master of Science in Environmental Science - Urban Ecology & Watershed Protection",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Applied ecological master's utilizing the 300-acre Environmental Study Area and Rouge River watershed to study urban wetland remediation, stormwater pollutants, and biodiversity conservation.",
+    "funding": "Environmental Field Station Graduate Assistantships $18,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://umdearborn.edu/casl/graduate-programs/ms-environmental-science",
+    "requirements": {
+      "gpa": "Bachelor's in environmental science, biology, geology, or chemistry with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of environmental interests",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10094,
+    "title": "Master of Business Administration (MBA) - Supply Chain Management & Tech Commercialization",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "location": "Dearborn, Michigan, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited MBA curriculum emphasizing manufacturing operations, global automotive supply chain resilience, corporate financial analytics, and technology leadership.",
+    "funding": "College of Business Dean's Merit Scholarships up to $10,000",
+    "tuition": "$26,000 total",
+    "fee": "$60",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://umdearborn.edu/cob/graduate-programs/mba",
+    "requirements": {
+      "gpa": "Accredited bachelor's degree with GPA 3.0+ and 2+ years of professional experience preferred",
+      "ielts": "TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Professional statement and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10095,
+    "title": "Ph.D. in Nuclear Engineering - Radioisotope Production & Reactor Physics",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite nuclear engineering doctorate directly utilizing the 10-megawatt MURR reactor to advance radiopharmaceutical development, neutron diffraction, thermal hydraulics, and reactor core safety analysis.",
+    "funding": "Full MURR Graduate Research Fellowships $34,000/year plus complete tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://engineering.missouri.edu/degrees/nuclear-engineering/",
+    "requirements": {
+      "gpa": "BS or MS in nuclear, mechanical, or chemical engineering or physics with GPA 3.3+",
+      "ielts": "TOEFL 85+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose detailing nuclear research goals",
+      "references": "Three academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10096,
+    "title": "Master of Arts in Journalism - Investigative & Multimedia Reporting",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "The world's founding journalism school, famous for the 'Missouri Method' of hands-on professional newsroom training at the Columbia Missourian, KBIA-FM, and KOMU-TV NBC affiliate.",
+    "funding": "Missouri School of Journalism Merit Scholarships and graduate assistantships up to $18,000/year",
+    "tuition": "$28,500/year",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://journalism.missouri.edu/degrees-programs/graduate/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+; professional journalism portfolio or writing samples",
+      "ielts": "TOEFL 100+ or IELTS 7.5+",
+      "gre": "GRE not required",
+      "papers": "Three application essays and resume",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10097,
+    "title": "Ph.D. in Plant, Insect and Microbial Sciences - Crop Genetics & Biotechnology",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Top-tier plant sciences doctorate based at the Bond Life Sciences Center, focusing on soybean genomics, maize drought tolerance, root phenotyping, and sustainable agronomic pathology.",
+    "funding": "CAFNR Graduate Research Assistantships $30,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://cafnr.missouri.edu/degrees-and-programs/pims/",
+    "requirements": {
+      "gpa": "BS or MS in plant science, biology, agronomy, or genetics with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests and laboratory experience",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10098,
+    "title": "Ph.D. in Computer Science - Autonomous Systems & Cyber-Physical Security",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Research-intensive doctoral program exploring artificial intelligence, bioinformatics computing, high-performance distributed systems, and intelligent sensor networks.",
+    "funding": "Teaching and Research Fellowships $31,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://engineering.missouri.edu/degrees/computer-science/",
+    "requirements": {
+      "gpa": "BS in Computer Science or allied STEM discipline with GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10099,
+    "title": "Doctor of Veterinary Medicine (DVM) - Comparative Veterinary Medicine",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Comprehensive clinical veterinary doctorate featuring 40 hours/week in the Veterinary Health Center during clinical rotations, focusing on equine medicine, livestock reproduction, and oncology.",
+    "funding": "College of Veterinary Medicine Institutional Scholarships up to $15,000",
+    "tuition": "$38,000/year (resident) / $65,000/year (non-resident)",
+    "fee": "$100",
+    "deadline": "2027-09-15",
+    "deadlineText": "September 15, 2027",
+    "source": "https://cvm.missouri.edu/academics/doctor-of-veterinary-medicine/",
+    "requirements": {
+      "gpa": "Undergraduate GPA 3.2+ with minimum 400 hours veterinary/animal clinical experience",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE optional",
+      "papers": "VMCAS personal statement",
+      "references": "Three letters (including at least one veterinarian)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10100,
+    "title": "Ph.D. in Economics - Applied Econometrics & Public Finance",
+    "university": "University of Missouri",
+    "country": "United States",
+    "location": "Columbia, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "Doctoral training emphasizing theoretical and applied econometrics, health economics policy, labor markets, and monetary theory.",
+    "funding": "Departmental Graduate Teaching Assistantships $28,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://economics.missouri.edu/graduate",
+    "requirements": {
+      "gpa": "Bachelor's degree with strong mathematics coursework (calculus, linear algebra) and GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE General required",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10101,
+    "title": "Ph.D. in Criminology and Criminal Justice - Crime Policy & Social Control",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Consistently ranked among the top four criminology doctoral programs in the United States, advancing empirical studies of urban violence, youth crime trajectories, policing accountability, and sentencing policy.",
+    "funding": "Full 4-year funding: $25,000/year stipend, complete tuition remission, and health benefits",
+    "tuition": "Covered by fellowship",
+    "fee": "$40",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.umsl.edu/ccj/graduate-programs/phd.html",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in criminology, sociology, or allied social science with GPA 3.3+",
+      "ielts": "TOEFL 85+ or IELTS 7.0+",
+      "gre": "GRE required",
+      "papers": "Scholarly writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10102,
+    "title": "Doctor of Optometry (O.D.) - Clinical Optometry & Ocular Disease",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "The only optometry school in Missouri, delivering comprehensive 4-year clinical education in glaucoma management, pediatric vision care, corneal topography, and low-vision rehabilitation.",
+    "funding": "College of Optometry Merit Scholarships up to $10,000/year",
+    "tuition": "$29,000/year (resident) / $44,000/year (non-resident)",
+    "fee": "$75",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.umsl.edu/optometry/",
+    "requirements": {
+      "gpa": "Prerequisite science coursework with GPA 3.0+; OAT or GRE exam",
+      "ielts": "TOEFL 85+",
+      "gre": "OAT required",
+      "papers": "OptomCAS personal statement",
+      "references": "Two letters (including one practicing optometrist)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10103,
+    "title": "Ph.D. in Biology - Tropical Ecology and Conservation - Whitney R. Harris World Ecology Center",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Internationally renowned ecology doctorate conducted in collaboration with the Missouri Botanical Garden and the Saint Louis Zoo, studying Neotropical plant evolution, avian biodiversity, and conservation biology.",
+    "funding": "Harris World Ecology Fellowships $28,000/year plus full tuition remission and field research grants",
+    "tuition": "Covered by fellowship",
+    "fee": "$40",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.umsl.edu/divisions/artscience/biology/graduate/index.html",
+    "requirements": {
+      "gpa": "BS or MS in biological sciences or ecology with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with faculty advisor",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10104,
+    "title": "Master of Science in Cybersecurity - Information Systems & Cyber Defense",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "NSA-designated cybersecurity curriculum focusing on cloud security architecture, ethical hacking penetration testing, threat hunting, and digital risk management.",
+    "funding": "NSA/DHS National Center of Academic Excellence Graduate Scholarships up to $9,000",
+    "tuition": "$18,500 total",
+    "fee": "$40",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.umsl.edu/cybersecurity/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and technical background",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10105,
+    "title": "Ph.D. in Chemistry - Inorganic Materials & Supramolecular Catalysis",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry"
+    ],
+    "desc": "Doctoral research exploring synthetic organometallic catalysts, nanomaterials for battery storage, X-ray crystallography, and carbohydrate biomolecule synthesis.",
+    "funding": "Graduate teaching and research assistantships $26,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$40",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.umsl.edu/chemistry/graduate-programs/phd.html",
+    "requirements": {
+      "gpa": "BS in Chemistry or Biochemistry with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10106,
+    "title": "Master of Social Work (MSW) - Behavioral Health & Gerontological Social Work",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "location": "St. Louis, Missouri, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "CSWE-accredited clinical master's preparing licensed social work practitioners in clinical mental health therapy, substance abuse intervention, and community advocacy.",
+    "funding": "Departmental stipend awards and HRSA behavioral health traineeships up to $10,000",
+    "tuition": "$19,000/year",
+    "fee": "$40",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.umsl.edu/socialwork/msw/index.html",
+    "requirements": {
+      "gpa": "Undergraduate GPA 3.0+ with liberal arts background",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Social work essay and resume",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10107,
+    "title": "Ph.D. in Fish and Wildlife Biology - Carnivore Ecology & Population Modeling",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "The nation's top-ranked wildlife biology doctorate, studying grizzly bear and gray wolf predator-prey dynamics, ungulate migration corridors, and conservation genetics in the Crown of the Continent ecosystem.",
+    "funding": "Full graduate research assistantships $28,000/year plus complete tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://www.cfc.umt.edu/wbio/graduate/default.php",
+    "requirements": {
+      "gpa": "BS or MS in wildlife biology, zoology, ecology, or related field with GPA 3.3+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with faculty lab",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10108,
+    "title": "Ph.D. in Systems Ecology - Limnology & Biogeochemistry - Flathead Lake Biological Station",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Doctoral research conducted at the Flathead Lake Biological Station examining pristine freshwater nutrient cycling, river-floodplain hyporheic ecology, aquatic invasive species, and climate impacts on alpine lakes.",
+    "funding": "FLBS Research Fellowships $29,000/year plus tuition remission and field station lodging",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://flbs.umt.edu/newflbs/education/graduate/",
+    "requirements": {
+      "gpa": "Undergraduate degree in limnology, biology, or chemistry with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Research statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10109,
+    "title": "Ph.D. in Forestry - Wildfire Science & Forest Landscape Dynamics",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Elite forestry doctoral curriculum at the Franke College investigating wildfire behavior modeling, post-fire conifer regeneration, forest carbon sequestration, and climate adaptation strategies.",
+    "funding": "Graduate research assistantships $27,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.cfc.umt.edu/frec/graduate/default.php",
+    "requirements": {
+      "gpa": "BS or MS in forestry, natural resources, or environmental science with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10110,
+    "title": "Ph.D. in Toxicology - Inhalation Toxicology & Nanomaterial Health",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Center for Environmental Health Sciences (CEHS) doctorate researching wildfire smoke particle inhalation, pulmonary fibrosis mechanisms, autoimmune responses to silica, and heavy metal neurotoxicity.",
+    "funding": "NIH-funded pre-doctoral traineeships $34,000/year plus tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://health.umt.edu/cehs/graduate-program/default.php",
+    "requirements": {
+      "gpa": "BS in biochemistry, biology, chemistry, or toxicology with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Research statement and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10111,
+    "title": "Master of Fine Arts in Creative Writing - Poetry & Fiction",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "One of the most storied creative writing programs in American literature, founded by Richard Hugo, featuring intensive workshop mentorship in environmental literature, poetry, and novel writing.",
+    "funding": "Full graduate teaching assistantships covering tuition and annual living stipend",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://www.umt.edu/creative-writing/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+; creative manuscript (up to 25 pages prose or 10-15 poems)",
+      "ielts": "TOEFL 90+",
+      "gre": "GRE not required",
+      "papers": "Statement of writing objectives",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10112,
+    "title": "Master of Science in Computer Science - Applied Machine Learning & Geo-Data Systems",
+    "university": "University of Montana",
+    "country": "United States",
+    "location": "Missoula, Montana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "environment"
+    ],
+    "desc": "Graduate coursework and thesis research applying deep neural networks, spatial-temporal data analysis, satellite remote sensing pipelines, and sensor networks for environmental tracking.",
+    "funding": "Departmental teaching assistantships $20,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.umt.edu/computer-science/graduate/",
+    "requirements": {
+      "gpa": "BS in Computer Science or Mathematics with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10113,
+    "title": "Bachelor of Science in Ecology - Field-Based Stream & Rangeland Biology",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Immersive 18-day block field courses in stream water chemistry, trout population surveys, sagebrush steppe ecology, and riparian habitat restoration throughout Southwest Montana.",
+    "funding": "Western Undergraduate Exchange (WUE) reduced tuition and merit scholarships up to $8,000",
+    "tuition": "$18,200/year (out-of-state) / $5,800/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umwestern.edu/department/biology/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+",
+      "ielts": "TOEFL 68+ or IELTS 6.0+",
+      "gre": "N/A",
+      "papers": "Admissions application essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10114,
+    "title": "Bachelor of Science in Earth Science - Field Geology & Geomorphology",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Intensive field geology program utilizing Montana's thrust belts, fault scarps, and mining districts for structural mapping, hydrogeology sampling, and petrology analysis.",
+    "funding": "Departmental field research travel stipends and undergraduate merit awards",
+    "tuition": "$18,200/year (out-of-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umwestern.edu/department/environmental-sciences/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with strong science preparation",
+      "ielts": "TOEFL 68+",
+      "gre": "N/A",
+      "papers": "Personal statement",
+      "references": "One academic reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10115,
+    "title": "Bachelor of Science in Natural Horsemanship - Equine Science & Ranch Management",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Nationally recognized four-year equine science curriculum partnering with the Montana Center for Horsemanship, teaching horse behavior science, equine nutrition, and equine facility management.",
+    "funding": "Equine studies industry scholarships up to $5,000",
+    "tuition": "$18,200/year + equine facility lab fee",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.umwestern.edu/department/equine-studies/",
+    "requirements": {
+      "gpa": "High school diploma with GPA 2.5+ and riding evaluation",
+      "ielts": "TOEFL 68+",
+      "gre": "N/A",
+      "papers": "Equine experience statement",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10116,
+    "title": "Bachelor of Science in Environmental Interpretation - Outdoor Leadership & Park Education",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Practical degree preparing park naturalists, outdoor educators, and wilderness guides in Leave No Trace wilderness ethics, interpretive exhibit design, and outdoor risk management.",
+    "funding": "Chancellor's Leadership Scholarships up to $6,000",
+    "tuition": "$18,200/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umwestern.edu/department/environmental-sciences/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+",
+      "ielts": "TOEFL 68+",
+      "gre": "N/A",
+      "papers": "Statement of career objectives",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10117,
+    "title": "Bachelor of Arts in Visual Arts - Western Landscape Painting & Ceramic Sculpture",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Immersive studio block courses in plein air landscape oil painting, wheel-thrown ceramic stoneware, and glass sculpture inspired by the Rocky Mountain wilderness.",
+    "funding": "Fine arts studio merit awards up to $4,000",
+    "tuition": "$18,200/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umwestern.edu/department/fine-arts/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ and portfolio of 10 creative pieces",
+      "ielts": "TOEFL 68+",
+      "gre": "N/A",
+      "papers": "Artist statement",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10118,
+    "title": "Bachelor of Science in Mathematics - Applied Mathematical Modeling",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "location": "Dillon, Montana, United States",
+    "type": "Degree",
+    "subject": "mathematics",
+    "subjects": [
+      "mathematics",
+      "computer-science"
+    ],
+    "desc": "Applied mathematics curriculum featuring one-course-at-a-time focus on differential equations, statistical population modeling, cryptography, and Python scientific computing.",
+    "funding": "STEM tuition waivers and undergraduate research grants",
+    "tuition": "$18,200/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.umwestern.edu/department/mathematics/",
+    "requirements": {
+      "gpa": "High school GPA 2.7+ with precalculus coursework",
+      "ielts": "TOEFL 68+",
+      "gre": "N/A",
+      "papers": "Statement of purpose",
+      "references": "One math teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10119,
+    "title": "Bachelor of Fine Arts in Art - Digital Animation & Graphic Design",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "computer-science"
+    ],
+    "desc": "Accredited NASAD BFA curriculum in digital illustration, 3D character animation, motion graphics, UI/UX typography, and contemporary exhibition design at the Bloch Hall creative studios.",
+    "funding": "Fine Arts Talent Scholarships up to $10,000/year",
+    "tuition": "$25,500/year (out-of-state) / $12,800/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/college-of-fine-arts/departments/department-of-art/programs/art-b-f-a/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ and portfolio of 12 creative artworks",
+      "ielts": "TOEFL 71+ or IELTS 6.0+",
+      "gre": "N/A",
+      "papers": "Artist statement",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10120,
+    "title": "Bachelor of Science in Environmental Studies - Freshwater Aquatic Ecology",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on study of Alabama's world-leading freshwater mollusk and fish biodiversity, stream chemistry monitoring, wetland conservation, and environmental policy advocacy.",
+    "funding": "Environmental Leadership Awards and undergraduate field research grants up to $6,000",
+    "tuition": "$25,500/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/college-of-arts-sciences/biology-chemistry-mathematics/programs/environmental-studies/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with biology and chemistry background",
+      "ielts": "TOEFL 71+",
+      "gre": "N/A",
+      "papers": "Personal statement",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10121,
+    "title": "Master of Science in Speech-Language Pathology (MS-SLP) - Neurogenic Communication",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited clinical master's program providing comprehensive diagnosis and clinical therapy for dysphagia, pediatric speech apraxia, traumatic brain injury aphasia, and augmentative communication.",
+    "funding": "Departmental graduate clinic assistantships covering partial tuition and stipend",
+    "tuition": "$19,500/year",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/college-of-arts-sciences/communication-science-disorders/programs/master-of-science-in-speech-language-pathology/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and prerequisite CSD coursework",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "CSDCAS personal essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10122,
+    "title": "Bachelor of Business Administration in Finance - Sustainable Investment & Portfolio Analytics",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "mathematics"
+    ],
+    "desc": "AACSB-accredited business curriculum managing real-money student investment portfolios, financial modeling with Bloomberg terminals, and corporate capital budgeting.",
+    "funding": "Michael E. Stephens College of Business Endowed Scholarships up to $7,500",
+    "tuition": "$25,500/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/michael-e-stephens-college-of-business/programs/finance/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with strong algebra proficiency",
+      "ielts": "TOEFL 71+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10123,
+    "title": "Bachelor of Science in Chemistry - Green Synthesis & Environmental Toxicology",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "environment"
+    ],
+    "desc": "ACS-certified undergraduate chemistry program featuring independent laboratory research on biodegradable polymers, heavy metal water filtration, and spectroscopic analysis.",
+    "funding": "Undergraduate STEM research fellowships and lab assistantships",
+    "tuition": "$25,500/year",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/college-of-arts-sciences/biology-chemistry-mathematics/programs/chemistry/",
+    "requirements": {
+      "gpa": "High school GPA 2.7+ with strong math and science coursework",
+      "ielts": "TOEFL 71+",
+      "gre": "N/A",
+      "papers": "Statement of purpose",
+      "references": "One science teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10124,
+    "title": "Master of Education in Instructional Leadership - School Governance & Curriculum",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "location": "Montevallo, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate leadership program preparing certified educators for administrative leadership, educational law compliance, teacher coaching, and data-informed school improvement.",
+    "funding": "Alabama Teacher Leadership Scholarships up to $4,000",
+    "tuition": "$14,000 total",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.montevallo.edu/academics/colleges/college-of-education-human-development/programs/instructional-leadership/",
+    "requirements": {
+      "gpa": "Valid teaching certificate, 3+ years teaching experience, and undergraduate GPA 2.75+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE/MAT optional",
+      "papers": "Leadership portfolio and statement of purpose",
+      "references": "Three professional references (including superintendent)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10125,
+    "title": "Ph.D. in Agronomy and Horticulture - Plant Breeding & Phenomics",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Elite agricultural doctorate utilizing Nebraska Innovation Campus greenhouse phenotyping facilities to study maize and sorghum drought adaptation, gene editing, and digital agriculture.",
+    "funding": "CASNR Graduate Research Fellowships $32,000/year plus full tuition remission and health insurance",
+    "tuition": "Covered by fellowship",
+    "fee": "$50",
+    "deadline": "2027-01-05",
+    "deadlineText": "January 5, 2027",
+    "source": "https://agronomy.unl.edu/graduate-degrees",
+    "requirements": {
+      "gpa": "BS or MS in agronomy, plant biology, genetics, or related field with GPA 3.3+",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research goals",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10126,
+    "title": "Ph.D. in Physics - High-Intensity Laser Physics & Ultrafast Optics",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "World-class laser physics research at the Extreme Light Laboratory utilizing the Diocles petawatt laser to study laser wakefield particle acceleration, ultrafast X-ray scattering, and relativistic plasma dynamics.",
+    "funding": "Graduate Research and Teaching Assistantships $31,500/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://physics.unl.edu/graduate-program",
+    "requirements": {
+      "gpa": "BS in Physics or Applied Physics with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "Physics GRE recommended",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10127,
+    "title": "Ph.D. in Natural Resource Sciences - Hydrology & Drought Early Warning",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "computer-science"
+    ],
+    "desc": "Doctoral research based at the National Drought Mitigation Center (home of the U.S. Drought Monitor), analyzing groundwater depletion in the High Plains Ogallala Aquifer, climate forecasting, and remote sensing hydrology.",
+    "funding": "National Drought Mitigation Center Assistantships $29,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://snr.unl.edu/gradstudent/programs/",
+    "requirements": {
+      "gpa": "Degree in water resources, environmental science, geology, or geography with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10128,
+    "title": "Ph.D. in Computer Science - Agricultural Robotics & Autonomous Sensing",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Interdisciplinary computer science doctorate pioneering uncrewed aerial vehicle (UAV) crop canopy sensing, field robotics navigation algorithms, big data distributed systems, and edge AI.",
+    "funding": "Full graduate research assistantships $30,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://computing.unl.edu/graduate-program/",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science or Computer Engineering with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10129,
+    "title": "Ph.D. in Mechanical Engineering and Applied Mechanics - Multiscale Biomaterials & Nanomechanics",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Advanced engineering research in electrospun polymer nanofiber scaffolds, smart multifunctional hydrogels, finite element biomechanics modeling, and additive manufacturing.",
+    "funding": "Departmental Fellowships $31,000/year plus complete tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://engineering.unl.edu/mme/graduate-programs/",
+    "requirements": {
+      "gpa": "BS in mechanical, aerospace, or materials engineering with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10130,
+    "title": "Master of Laws (LL.M.) in Space, Cyber, and Telecommunications Law",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "location": "Lincoln, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "The nation's pioneer LL.M. program specializing in commercial satellite licensing, orbital debris regulation, cyber warfare international law, military space operations, and spectrum allocation.",
+    "funding": "Space Law Endowed Scholarships up to $15,000",
+    "tuition": "$26,000 total",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://law.unl.edu/space-cyber-law/",
+    "requirements": {
+      "gpa": "J.D. or foreign law equivalent with strong academic record",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "N/A",
+      "papers": "Statement of interest in space and cyber law",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10131,
+    "title": "Master of Science in Biology - Molecular Genetics & Ecological Restoration",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Research-focused biology graduate program offering laboratory and field investigations in Great Plains riverine ecology, tick-borne pathogens, sandhill crane migration, and cellular oncology.",
+    "funding": "Graduate Teaching Assistantships $15,500/year plus full tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$45",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.unk.edu/academics/biology/graduate.php",
+    "requirements": {
+      "gpa": "Undergraduate degree in biological sciences with GPA 3.0+",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests and goals",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10132,
+    "title": "Bachelor of Science in Aviation - Flight Operations & Aeronautical Management",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "Comprehensive collegiate flight training program in partnership with Kearney Regional Airport, preparing commercial airline pilots with FAA Private, Instrument, and Multi-Engine Commercial certificates.",
+    "funding": "Nebraska Aviation Merit Scholarships up to $6,000",
+    "tuition": "$14,500/year (out-of-state) / $7,200/year (in-state) + flight lab costs",
+    "fee": "$45",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.unk.edu/academics/aviation/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ and FAA Medical Certificate for flight track",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10133,
+    "title": "Master of Science in Education in Speech-Language Pathology",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited clinical master's specializing in rural healthcare delivery, pediatric speech disorders, tele-practice interventions, neurogenic dysphagia, and stuttering fluency.",
+    "funding": "Departmental clinical assistantships with tuition waiver",
+    "tuition": "$16,000/year",
+    "fee": "$45",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unk.edu/academics/communication_disorders/graduate.php",
+    "requirements": {
+      "gpa": "BS in Communication Disorders with GPA 3.2+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "CSDCAS application essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10134,
+    "title": "Bachelor of Science in Cyber Systems - Software Development & Network Security",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on undergraduate computer science curriculum emphasizing cloud infrastructure, mobile application engineering, penetration testing, and enterprise database systems.",
+    "funding": "UNK Cyber Innovation Scholarships up to $5,000/year",
+    "tuition": "$14,500/year",
+    "fee": "$45",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.unk.edu/academics/cyber-systems/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with strong algebra preparation",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Personal statement",
+      "references": "One teacher recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10135,
+    "title": "Master of Arts in History - American West & Public History",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Distinguished graduate history program offering deep archival research on the Trans-Mississippi West, Plains Native American histories, digital history exhibits, and museum preservation.",
+    "funding": "Graduate teaching assistantships $13,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$45",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.unk.edu/academics/history/graduate.php",
+    "requirements": {
+      "gpa": "Undergraduate degree in history or related humanities field with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Historical research writing sample and statement of purpose",
+      "references": "Two faculty recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10136,
+    "title": "Bachelor of Science in Chemistry - Forensics & Pre-Medical Biochemistry",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "location": "Kearney, Nebraska, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "desc": "ACS-certified undergraduate chemistry degree featuring individual research mentorship, gas chromatography-mass spectrometry (GC-MS), nuclear magnetic resonance (NMR), and drug design.",
+    "funding": "Undergraduate research stipends and chemistry merit scholarships",
+    "tuition": "$14,500/year",
+    "fee": "$45",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.unk.edu/academics/chemistry/",
+    "requirements": {
+      "gpa": "High school GPA 2.7+ with chemistry and advanced math background",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10137,
+    "title": "Ph.D. in Cancer Research - Pancreatic & Lymphoma Oncology - Fred & Pamela Buffett Cancer Center",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Elite NCI-designated comprehensive cancer center doctorate focusing on tumor microenvironment signaling, chemoresistance mechanisms, antibody-drug conjugates, and cancer genomics.",
+    "funding": "Full graduate assistantships $34,000/year plus complete tuition waiver and health insurance",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://www.unmc.edu/gradstudies/programs/cancer-research/",
+    "requirements": {
+      "gpa": "Bachelor's degree in biological sciences, chemistry, or related field with GPA 3.3+",
+      "ielts": "TOEFL 85+ or IELTS 7.0+",
+      "gre": "GRE optional",
+      "papers": "Personal research statement and laboratory background",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10138,
+    "title": "Ph.D. in Biosecurity and Emerging Infectious Diseases - Global Center for Health Security",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Preeminent national program utilizing the Davis Global Center and biocontainment facilities to study viral hemorrhagic fevers, airborne pathogen aerosolization, pandemic response logistics, and biocontainment protocol design.",
+    "funding": "Federal Health Security Research Fellowships $35,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unmc.edu/healthsecurity/education/",
+    "requirements": {
+      "gpa": "BS or MS in microbiology, public health, or immunology with GPA 3.2+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose and biosecurity interest",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10139,
+    "title": "Doctor of Pharmacy (Pharm.D.) - Clinical Pharmacokinetics & Precision Therapeutics",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Top-ranked clinical pharmacy doctorate delivering rigorous simulation training in therapeutic drug monitoring, hospital sterile compounding, infectious disease stewardship, and oncology pharmacotherapy.",
+    "funding": "College of Pharmacy Endowed Merit Scholarships up to $12,000/year",
+    "tuition": "$26,000/year (resident) / $41,000/year (non-resident)",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.unmc.edu/pharmacy/admissions/",
+    "requirements": {
+      "gpa": "Prerequisite science coursework with GPA 3.0+; PCAT optional",
+      "ielts": "TOEFL 85+",
+      "gre": "PCAT optional",
+      "papers": "PharmCAS application essays",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10140,
+    "title": "Ph.D. in Environmental Health, Occupational Health & Toxicology",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Interdisciplinary environmental health doctorate studying agricultural dust respiratory toxicity, pesticide neurotoxicity, Great Plains groundwater nitrate contamination, and rural occupational hazards.",
+    "funding": "Graduate Research Assistantships $32,000/year plus tuition waiver via College of Public Health",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unmc.edu/publichealth/programs/phd/",
+    "requirements": {
+      "gpa": "Undergraduate degree in life sciences, environmental health, or chemistry with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10141,
+    "title": "Ph.D. in Cellular and Integrative Physiology - Cardiovascular & Neurovascular Signaling",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Cardiovascular and integrative physiology research examining sympathetic nerve activity, heart failure molecular pathways, blood-brain barrier dysfunction, and microvascular hemodynamics.",
+    "funding": "NIH-funded training grant fellowships $34,000/year plus complete tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://www.unmc.edu/cip/graduate/",
+    "requirements": {
+      "gpa": "Bachelor's degree in physiology, biology, or neuroscience with GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE optional",
+      "papers": "Research statement",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10142,
+    "title": "Master of Science in Medical Anatomy - Advanced Human Dissection & Clinical Imaging",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Intensive gross anatomy master's featuring whole-body cadaveric dissection, 3D holographic virtual anatomy in the iEXCEL visualization center, histology, and embryology.",
+    "funding": "Departmental laboratory teaching assistantships up to $10,000",
+    "tuition": "$18,500 total",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.unmc.edu/anatomy/programs/ms-anatomy.html",
+    "requirements": {
+      "gpa": "Bachelor's degree with pre-health coursework and GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "MCAT or GRE accepted",
+      "papers": "Statement of purpose",
+      "references": "Two academic recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10143,
+    "title": "Ph.D. in Biomechanics - Rehabilitation Robotics & Human Movement Variability",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "The nation's first standalone Ph.D. in Biomechanics, housed in a state-of-the-art 50,000 sq ft research facility, investigating wearable exoskeletons, nonlinear movement dynamics in Parkinson's, and pediatric assistive robotics.",
+    "funding": "Center for Research in Human Movement Variability Fellowships $28,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unomaha.edu/college-of-education-health-and-human-sciences/biomechanics/academics/phd-biomechanics.php",
+    "requirements": {
+      "gpa": "BS or MS in biomechanics, biomedical engineering, kinesiology, or physics with GPA 3.2+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with biomechanics faculty",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10144,
+    "title": "Ph.D. in Information Technology - Cybersecurity & Machine Learning",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Interdisciplinary doctoral program at the Peter Kiewit Institute addressing automated vulnerability detection, biometric authentication, secure IoT firmware, and big data graph analytics.",
+    "funding": "Graduate Assistantships $29,000/year plus complete tuition waiver in the Peter Kiewit Institute",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unomaha.edu/college-of-information-science-and-technology/academics/phd-in-it.php",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science, Cybersecurity, or MIS with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and research proposal",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10145,
+    "title": "Ph.D. in Public Administration - Urban Governance & Public Budgeting",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Consistently ranked among the top public budgeting and financial management doctoral programs in the nation, advancing empirical research on municipal bond financing, nonprofit governance, and urban policy.",
+    "funding": "Full CPACS Graduate Assistantships $24,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/academics/phd-in-public-administration.php",
+    "requirements": {
+      "gpa": "Master's degree (MPA, MPP, or related field) with GPA 3.4+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE required",
+      "papers": "Scholarly writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10146,
+    "title": "Master of Science in Counterterrorism and National Security - NCITE Homeland Security",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Specialized curriculum hosted by NCITE (the DHS Center of Excellence for Counterterrorism), examining extremist radicalization dynamics, cyber threat intelligence, insider threat detection, and critical infrastructure defense.",
+    "funding": "DHS NCITE Research Assistantships up to $22,000/year",
+    "tuition": "$17,500 total",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.unomaha.edu/ncite/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and background in political science, security, or computing",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Statement of goals and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10147,
+    "title": "Bachelor of Science in Aviation - Professional Flight & Air Traffic Management",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "AABI-accredited collegiate aviation program providing FAA Part 141 flight training at Millard Airport, advanced Frasca flight simulators, jet transition training, and air traffic control radar lab certifications.",
+    "funding": "Aviation Industry and Endowed Scholarships up to $8,000/year",
+    "tuition": "$21,500/year (out-of-state) / $8,300/year (in-state) + flight lab fees",
+    "fee": "$45",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/aviation/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ and FAA Medical Certificate for flight students",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10148,
+    "title": "Master of Arts in Theatre - Playwriting, Directing & Performance Studies",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "location": "Omaha, Nebraska, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "Comprehensive theater graduate curriculum delivering practical dramaturgy, stage direction at the Weber Fine Arts Center, lighting design, and original playwriting development.",
+    "funding": "Departmental production assistantships covering tuition and production stipends",
+    "tuition": "$15,500/year",
+    "fee": "$45",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.unomaha.edu/college-of-communication-fine-arts-and-media/theatre/academics/graduate-program.php",
+    "requirements": {
+      "gpa": "Undergraduate degree in theater or humanities with GPA 3.0+; portfolio/audition",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Theatrical statement of purpose and writing sample",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10149,
+    "title": "Ph.D. in Hospitality Administration - Gaming Analytics & Resort Operations - Harrah College",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "The world's #1 ranked doctoral program in hospitality, studying gaming customer analytics, integrated resort revenue modeling, sustainable tourism operations, and responsible gambling policies.",
+    "funding": "Full Harrah Doctoral Fellowships $25,000/year plus complete tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unlv.edu/hospitality/phd",
+    "requirements": {
+      "gpa": "Master's degree in hospitality, business, or related field with GPA 3.25+; industry experience preferred",
+      "ielts": "TOEFL 85+ or IELTS 7.0+",
+      "gre": "GMAT or GRE required",
+      "papers": "Research statement and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10150,
+    "title": "Ph.D. in Radiochemistry - Nuclear Fuel Cycle & Actinide Chemistry",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "desc": "Elite national radiochemistry program addressing spent nuclear fuel reprocessing, uranium and plutonium coordination chemistry, environmental radiotracer transport, and nuclear forensics.",
+    "funding": "DOE-funded Radiochemistry Traineeships $32,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unlv.edu/chemistry/radiochemistry",
+    "requirements": {
+      "gpa": "BS in chemistry, chemical engineering, or physics with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and lab experience record",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10151,
+    "title": "Ph.D. in Mechanical Engineering - Concentrated Solar Power & Thermal Energy Storage",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Doctoral research leveraging the Mojave Desert solar corridor to pioneer high-efficiency molten salt solar storage, supercritical carbon dioxide power cycles, and desiccant evaporative cooling systems.",
+    "funding": "Graduate Research Assistantships $28,000/year plus tuition remission at Center for Energy Research",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://www.unlv.edu/me/degrees/phd",
+    "requirements": {
+      "gpa": "BS in Mechanical or Aerospace Engineering with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10152,
+    "title": "Ph.D. in Computer Science - Artificial Intelligence & Computer Vision",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Cutting-edge research program exploring autonomous driving perception, deep learning architectures, cybersecurity for distributed networks, and human-computer interactions.",
+    "funding": "Departmental teaching and research assistantships $27,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unlv.edu/cs/graduate-programs/phd",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10153,
+    "title": "Master of Laws (LL.M.) in Gaming Law and Regulation - Boyd School of Law",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "The world's only LL.M. program dedicated exclusively to gaming law, casino compliance, online sports betting regulation, anti-money laundering frameworks, and tribal gaming compacts.",
+    "funding": "Boyd Gaming Law Merit Scholarships up to $15,000",
+    "tuition": "$29,000 total",
+    "fee": "$60",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://law.unlv.edu/academics/llm-gaming",
+    "requirements": {
+      "gpa": "J.D. from ABA-accredited school or international law degree equivalent",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "N/A",
+      "papers": "Statement of interest in gaming regulation",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10154,
+    "title": "Doctor of Physical Therapy (DPT) - Neurological & Orthopedic Rehabilitation",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "CAPTE-accredited three-year clinical doctorate providing over 30 weeks of clinical internships, advanced biomechanical gait analysis, and spinal manipulation training.",
+    "funding": "Physical Therapy Departmental Scholarships up to $8,000",
+    "tuition": "$24,500/year (resident) / $39,000/year (non-resident)",
+    "fee": "$60",
+    "deadline": "2027-10-01",
+    "deadlineText": "October 1, 2027",
+    "source": "https://www.unlv.edu/pt/degrees/dpt",
+    "requirements": {
+      "gpa": "Prerequisite GPA 3.0+ and 50+ hours physical therapy clinical observation",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE required",
+      "papers": "PTCAS personal essay",
+      "references": "Three letters (including licensed physical therapist)"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10155,
+    "title": "Ph.D. in Civil and Environmental Engineering - Earthquake Shake Table & Structural Dynamics",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite structural engineering doctorate utilizing the multi-table shake simulation facility to test full-scale bridges, seismic base isolation systems, high-rise building resilience, and soil-structure interactions.",
+    "funding": "Full Earthquake Engineering Fellowships $32,000/year plus complete tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unr.edu/cee/degrees/phd",
+    "requirements": {
+      "gpa": "BS or MS in civil or structural engineering with GPA 3.3+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose detailing structural/seismic interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10156,
+    "title": "Ph.D. in Mining Engineering - Critical Minerals Processing & Sustainable Geomechanics",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Housed in the world-famous Mackay School, this program explores lithium extraction metallurgy, autonomous underground robotic haulage, rock mass characterization, and mine tailings remediation.",
+    "funding": "Mackay School of Earth Sciences Fellowships $30,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unr.edu/mining/degrees/phd",
+    "requirements": {
+      "gpa": "Engineering degree with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10157,
+    "title": "Ph.D. in Cellular and Molecular Pharmacology and Physiology - Smooth Muscle & Cardiac Electrophysiology",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology"
+    ],
+    "desc": "Internationally renowned physiological research exploring gastrointestinal pacemaker interstitial cells of Cajal, vascular smooth muscle ion channel gating, and diabetic gastroparesis therapies.",
+    "funding": "NIH-supported pre-doctoral traineeships $33,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://med.unr.edu/physio/graduate",
+    "requirements": {
+      "gpa": "Undergraduate degree in life sciences with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research experience",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10158,
+    "title": "Ph.D. in Computer Science and Engineering - Autonomous Robotics & Cyber-Physical Systems",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Doctoral research through the Robotics Research Lab and Autonomous Systems Lab, focusing on subterranean drone exploration, multi-robot swarm mapping, and deep reinforcement learning.",
+    "funding": "Graduate Teaching/Research Assistantships $28,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unr.edu/cse/degrees/phd",
+    "requirements": {
+      "gpa": "BS in Computer Science or Computer Engineering with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10159,
+    "title": "Ph.D. in Atmospheric Sciences - Mountain Meteorology & Wildfire Smoke Dispersion",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Conducted in partnership with the Desert Research Institute, exploring complex terrain wind dynamics, cloud seeding aerosol physics, wildfire plume dispersion modeling, and regional drought climatology.",
+    "funding": "Joint UNR/Desert Research Institute (DRI) Assistantships $31,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://www.unr.edu/atms/degrees/phd",
+    "requirements": {
+      "gpa": "BS in physics, atmospheric science, mathematics, or engineering with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10160,
+    "title": "Master of Science in Materials Science and Engineering - Battery Storage & Solid Electrolytes",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "location": "Reno, Nevada, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Graduate curriculum aligned with Nevada's lithium innovation hub, investigating solid-state lithium battery electrolytes, cathode synthesis degradation kinetics, and recyclable battery architectures.",
+    "funding": "Nevada Battery Coalition research assistantships $24,000/year plus tuition assistance",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.unr.edu/mse/degrees/ms",
+    "requirements": {
+      "gpa": "BS in materials science, chemistry, physics, or chemical engineering with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10161,
+    "title": "Ph.D. in Ocean Engineering - Ocean Mapping & Hydrographic Acoustics - CCOM/JHC",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "The world's foremost ocean mapping doctorate, operated with NOAA at the Center for Coastal and Ocean Mapping (CCOM), researching multibeam sonar acoustics, autonomous surface vessel bathymetry, and seabed habitat mapping.",
+    "funding": "NOAA Joint Hydrographic Center Graduate Fellowships $32,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ccom.unh.edu/academics",
+    "requirements": {
+      "gpa": "BS or MS in engineering, earth sciences, physics, or mathematics with GPA 3.3+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with CCOM labs",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10162,
+    "title": "Ph.D. in Physics - Space Plasma Physics & Heliophysics - Space Science Center",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "Elite astrophysical training designing flight instruments for NASA missions (MMS, Solar Probe, IBEX) to study magnetic reconnection, solar wind turbulence, and magnetospheric dynamics.",
+    "funding": "NASA-supported Space Science Center Fellowships $33,000/year plus complete tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://physics.unh.edu/graduate-program",
+    "requirements": {
+      "gpa": "BS in Physics, Applied Physics, or Astronomy with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "Physics GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10163,
+    "title": "Ph.D. in Earth and Environmental Sciences - Glaciology & Forest Ecosystem Biogeochemistry",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Doctoral research conducted through the EOS Institute investigating Greenland and Antarctic ice sheet radar sounding, temperate forest carbon flux towers, and groundwater watershed nitrogen dynamics.",
+    "funding": "Full graduate research assistantships $30,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$65",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ceps.unh.edu/earth-sciences/program/phd/earth-environmental-sciences",
+    "requirements": {
+      "gpa": "Degree in geosciences, environmental science, physics, or chemistry with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10164,
+    "title": "Ph.D. in Computer Science - Network Interoperability & High-Performance Computing",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Doctoral training connected to the world-renowned UNH InterOperability Laboratory (IOL), focusing on high-speed Ethernet protocol conformance, 5G wireless networking, and distributed machine learning.",
+    "funding": "UNH-IOL Industry Fellowships $30,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://ceps.unh.edu/computer-science/program/phd/computer-science",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10165,
+    "title": "Master of Laws (LL.M.) in Intellectual Property - UNH Franklin Pierce School of Law",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "A top-ranked national pioneer in intellectual property education for over 30 years, training attorneys in patent prosecution, trademark licensing, biotechnology patent law, and global digital copyright protection.",
+    "funding": "Franklin Pierce IP Merit Scholarships up to $18,000",
+    "tuition": "$38,000 total",
+    "fee": "$65",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://law.unh.edu/academics/degrees/llm-degrees/llm-intellectual-property",
+    "requirements": {
+      "gpa": "J.D. or foreign law equivalent with strong academic record",
+      "ielts": "TOEFL 90+ or IELTS 7.0+",
+      "gre": "N/A",
+      "papers": "Personal statement and legal resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10166,
+    "title": "Master of Science in Marine Biology - Aquaculture & Coastal Invertebrate Physiology",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "location": "Durham, New Hampshire, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Field-based marine biology master's utilizing the Jackson Estuarine Laboratory and Judd Gregg Marine Complex to research oyster reef aquaculture, eelgrass habitat restoration, and lobster thermal stress physiology.",
+    "funding": "Jackson Estuarine Laboratory Assistantships $22,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$65",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://colsa.unh.edu/biological-sciences/program/ms/marine-biology",
+    "requirements": {
+      "gpa": "BS in biology, marine science, or related STEM field with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10167,
+    "title": "Master of Science in Forensic Science - Crime Scene Investigation & Forensic DNA",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "One of the world's most prestigious forensic science graduate programs, offering rigorous training in forensic serology, STR DNA profiling, crime scene reconstruction, ballistics, and trace microscopy.",
+    "funding": "Henry C. Lee Forensic Fellowships and laboratory assistantships up to $14,000/year",
+    "tuition": "$24,000/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.newhaven.edu/lee-college/graduate-programs/forensic-science/",
+    "requirements": {
+      "gpa": "BS in biology, chemistry, or forensic science with GPA 3.0+; rigorous chemistry coursework",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Personal statement and laboratory credentials",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10168,
+    "title": "Ph.D. in Criminal Justice - International Criminology & Intelligence Analysis",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Doctoral curriculum emphasizing counter-terrorism, human trafficking interdiction, transnational organized crime forensics, police legitimacy, and advanced quantitative criminological modeling.",
+    "funding": "Full graduate assistantships $24,000/year plus complete tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.newhaven.edu/lee-college/graduate-programs/criminal-justice-phd/",
+    "requirements": {
+      "gpa": "Master's degree in criminal justice, sociology, or allied field with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10169,
+    "title": "Master of Science in Cybersecurity and Networks - Ethical Hacking & Digital Forensics",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Hands-on cybersecurity master's covering reverse engineering malware, cloud penetration testing, network packet forensics, smart grid security, and zero-trust protocol architecture.",
+    "funding": "NSA-CAE Cybersecurity Scholarships up to $10,000",
+    "tuition": "$22,500 total",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.newhaven.edu/engineering/graduate-programs/cybersecurity-networks/",
+    "requirements": {
+      "gpa": "BS in Computer Science, Information Technology, or engineering with GPA 3.0+",
+      "ielts": "TOEFL 75+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10170,
+    "title": "Master of Science in Marine Policy and Management - Coastal Resilience & Fisheries Law",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary master's combining Long Island Sound marine ecology, maritime law, coastal zone management, harbor sustainability, and offshore wind regulatory policy.",
+    "funding": "Coastal Research Assistantships up to $12,000/year",
+    "tuition": "$21,000/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.newhaven.edu/arts-sciences/graduate-programs/marine-policy-management/",
+    "requirements": {
+      "gpa": "Undergraduate degree in science, policy, or business with GPA 3.0+",
+      "ielts": "TOEFL 75+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10171,
+    "title": "Master of Science in Biomedical Engineering - Medical Device Design & Bio-MEMS",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "biology"
+    ],
+    "desc": "Applied biomedical engineering curriculum focusing on FDA medical device regulatory pathways, implantable sensor microfabrication, biomechanics modeling, and orthopedic hardware testing.",
+    "funding": "Tagliatela College of Engineering Merit Fellowships up to $9,000",
+    "tuition": "$22,000/year",
+    "fee": "$50",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.newhaven.edu/engineering/graduate-programs/biomedical-engineering/",
+    "requirements": {
+      "gpa": "BS in engineering or related physical/life sciences with GPA 3.0+",
+      "ielts": "TOEFL 75+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10172,
+    "title": "Master of Science in National Security - Information Protection & Threat Intelligence",
+    "university": "University of New Haven",
+    "country": "United States",
+    "location": "West Haven, Connecticut, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "Practitioner-taught graduate degree in geostrategic threat analysis, corporate counterintelligence, critical infrastructure resilience, and geopolitical risk forecasting.",
+    "funding": "National Security Executive Scholarships up to $8,000",
+    "tuition": "$21,000 total",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.newhaven.edu/lee-college/graduate-programs/national-security/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+; security clearance or professional interest in intelligence",
+      "ielts": "TOEFL 75+",
+      "gre": "GRE not required",
+      "papers": "Statement of national security objectives",
+      "references": "Two professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10173,
+    "title": "Bachelor of Business Administration in Entertainment Industry - Music Publishing & Recording Production",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "social-sciences"
+    ],
+    "desc": "Situated in the legendary Muscle Shoals recording region, this flagship program provides studio engineering at the 3261 Recording Studio, concert tour management, artist representation, and digital streaming royalties distribution.",
+    "funding": "Shoals Music Legacy Talent Scholarships up to $6,000/year",
+    "tuition": "$20,400/year (out-of-state) / $10,200/year (in-state)",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.una.edu/entertainment/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+",
+      "ielts": "TOEFL 79+ or IELTS 6.0+",
+      "gre": "N/A",
+      "papers": "Admissions application essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10174,
+    "title": "Master of Science in Nursing (MSN) - Family Nurse Practitioner & Rural Health",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited graduate nursing program preparing board-certified Family Nurse Practitioners (FNPs) in diagnostic clinical reasoning, pediatric and geriatric primary care, and rural health disparities.",
+    "funding": "HRSA Advanced Nursing Traineeships up to $10,000",
+    "tuition": "$14,500 total",
+    "fee": "$35",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://www.una.edu/nursing/msn-program/",
+    "requirements": {
+      "gpa": "BSN from accredited program with GPA 3.0+; active RN license",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Nursing professional goals essay",
+      "references": "Three clinical/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10175,
+    "title": "Master of Science in Applied Manufacturing Engineering - Automation & Smart Manufacturing",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "computer-science"
+    ],
+    "desc": "Applied engineering master's addressing programmable logic controllers (PLC), industrial robotics cells, digital twin production lines, lean manufacturing systems, and quality engineering.",
+    "funding": "CASE Industry Graduate Assistantships up to $12,000/year",
+    "tuition": "$16,000 total",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.una.edu/engineering/",
+    "requirements": {
+      "gpa": "BS in engineering, technology, physics, or related field with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10176,
+    "title": "Bachelor of Science in Marine Biology - Tennessee River Freshwater & Coastal Marine Ecology",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Comprehensive aquatic biology program combining Tennessee River basin mollusk biodiversity with summer field research courses at the Dauphin Island Sea Lab on the Gulf Coast.",
+    "funding": "Dauphin Island Sea Lab summer scholarships and UNA STEM merit grants",
+    "tuition": "$20,400/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.una.edu/biology/marine-biology.html",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with strong biology and chemistry preparation",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Personal statement",
+      "references": "One teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10177,
+    "title": "Master of Business Administration (MBA) - Information Systems & Executive Leadership",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "computer-science"
+    ],
+    "desc": "AACSB-accredited MBA curriculum delivering advanced competencies in business intelligence analytics, corporate finance, enterprise resource planning (ERP), and organizational strategy.",
+    "funding": "Sanders College of Business Merit Scholarships up to $6,000",
+    "tuition": "$15,000 total",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.una.edu/business/degrees/mba/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 2.75+",
+      "ielts": "TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Professional statement and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10178,
+    "title": "Bachelor of Science in Computer Science - Software Development & Cybersecurity",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "location": "Florence, Alabama, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "ABET-accredited undergraduate curriculum focusing on algorithm design, mobile app engineering, database architecture, network security protocols, and full-stack web engineering.",
+    "funding": "Undergraduate computing merit awards and lab assistantships up to $5,000/year",
+    "tuition": "$20,400/year",
+    "fee": "$35",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.una.edu/csis/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ with mathematics aptitude",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10179,
+    "title": "Ph.D. in Mechanical Engineering - Motorsports Aerodynamics & Precision Metrology",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite automotive and motorsports doctorate partnering with NASCAR teams and precision instrument manufacturers, focusing on race car aerodynamics wind-tunnel testing, nanometer metrology, and composites crashworthiness.",
+    "funding": "Lee College of Engineering Graduate Research Assistantships $30,000/year plus full tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://me.charlotte.edu/graduate-programs/phd-mechanical-engineering",
+    "requirements": {
+      "gpa": "BS or MS in Mechanical, Aerospace, or Automotive Engineering with GPA 3.3+",
+      "ielts": "TOEFL 83+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose detailing engineering research focus",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10180,
+    "title": "Ph.D. in Computing and Information Systems - FinTech Security & Applied AI",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Housed in the largest computing college in the Carolinas, researching automated fraud detection algorithms, blockchain security, financial graph neural networks, and privacy-preserving machine learning.",
+    "funding": "Bank of America & CCI Doctoral Fellowships $32,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://cci.charlotte.edu/academics/phd-computing-and-information-systems",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science, Software Engineering, or Mathematics with GPA 3.4+",
+      "ielts": "TOEFL 83+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and research proposal",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10181,
+    "title": "Ph.D. in Electrical Engineering - Smart Grid Power Systems & EPIC Energy Center",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Advanced research based at the Energy Production and Infrastructure Center (EPIC), investigating high-voltage smart grid integration, renewable microgrid stability, silicon carbide power electronics, and utility cyber defenses.",
+    "funding": "EPIC Energy Graduate Fellowships $31,000/year plus complete tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://ece.charlotte.edu/graduate-programs/phd-electrical-engineering",
+    "requirements": {
+      "gpa": "BS in Electrical Engineering with GPA 3.2+",
+      "ielts": "TOEFL 83+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10182,
+    "title": "Master of Science in Data Science and Business Analytics (DSBA) - FinTech Analytics",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary professional graduate degree uniting machine learning modeling, big data distributed pipelines, quantitative finance, and executive predictive analytics in Uptown Charlotte.",
+    "funding": "School of Data Science Merit Fellowships up to $12,000",
+    "tuition": "$24,500 total",
+    "fee": "$75",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://datascience.charlotte.edu/academics/ms-data-science-business-analytics",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and coursework in calculus, statistics, and programming",
+      "ielts": "TOEFL 83+",
+      "gre": "GRE/GMAT optional",
+      "papers": "Statement of purpose and resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10183,
+    "title": "Ph.D. in Optical Science and Engineering - Precision Freeform Optics & Metrology",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "Preeminent optics doctoral program pioneering freeform optical fabrication, laser interferometry, nanophotonic waveguides, and astronomical instrumentation at the Center for Precision Metrology.",
+    "funding": "Center for Freeform Optics Research Fellowships $32,000/year plus tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://optics.charlotte.edu/academic-programs/phd-optical-science-and-engineering",
+    "requirements": {
+      "gpa": "Degree in physics, optics, or electrical engineering with GPA 3.2+",
+      "ielts": "TOEFL 83+",
+      "gre": "GRE optional",
+      "papers": "Statement of research experience",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10184,
+    "title": "Ph.D. in Infrastructure and Environmental Systems - Urban Stormwater & Water Resources",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "location": "Charlotte, North Carolina, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "engineering"
+    ],
+    "desc": "Interdisciplinary doctoral program analyzing urban stormwater runoff quality, green infrastructure modeling, wastewater virus surveillance, and flood mitigation resilience in rapidly urbanizing watersheds.",
+    "funding": "Full graduate research assistantships $28,500/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://ines.charlotte.edu/",
+    "requirements": {
+      "gpa": "BS or MS in civil/environmental engineering, earth sciences, or biology with GPA 3.0+",
+      "ielts": "TOEFL 83+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10185,
+    "title": "Ph.D. in Aerospace Sciences - Autonomous Flight & Human Factors - Odegard School",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "The world's leading aerospace doctorate, researching beyond-visual-line-of-sight (BVLOS) autonomous drone integration, pilot cognitive workload modeling, space flight human performance, and air traffic automation.",
+    "funding": "Odegard Graduate Fellowships $30,000/year plus complete tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://und.edu/programs/aerospace-sciences-phd/index.html",
+    "requirements": {
+      "gpa": "BS or MS in aviation, aerospace engineering, computer science, or human factors with GPA 3.2+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose detailing aerospace research focus",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10186,
+    "title": "Ph.D. in Energy Engineering - Carbon Capture & Enhanced Hydrocarbon Recovery - EERC",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Elite energy research program based at the Energy & Environmental Research Center (EERC), investigating geologic carbon dioxide sequestration, Bakken shale petroleum thermodynamics, hydrogen generation, and geothermal energy systems.",
+    "funding": "EERC Graduate Research Assistantships $32,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://und.edu/programs/energy-engineering-phd/index.html",
+    "requirements": {
+      "gpa": "Engineering or geosciences bachelor's degree with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10187,
+    "title": "Master of Science in Space Studies - Planetary Geology & Lunar Habitat Design",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "physics",
+    "subjects": [
+      "physics",
+      "engineering"
+    ],
+    "desc": "Renowned interdisciplinary space program featuring the Inflatable Lunar/Mars Habitat analog station, space suit design laboratories, orbital mechanics, planetary surface geology, and international space treaty law.",
+    "funding": "NASA Space Grant Graduate Research Fellowships up to $22,000/year",
+    "tuition": "$18,500/year",
+    "fee": "$35",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://und.edu/programs/space-studies-ms/index.html",
+    "requirements": {
+      "gpa": "Bachelor's degree in STEM or space-related field with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10188,
+    "title": "Ph.D. in Biomedical Sciences - Neurodegenerative Disease & Epigenetics",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Doctoral research examining microglial neuroinflammation in Alzheimer's and Parkinson's diseases, epigenetic mechanisms of cancer development, viral pathogenesis, and rural toxicological health.",
+    "funding": "School of Medicine & Health Sciences Graduate Fellowships $29,000/year plus tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$35",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://med.und.edu/education/biomedical-sciences/index.html",
+    "requirements": {
+      "gpa": "Undergraduate degree in biological sciences or biochemistry with GPA 3.2+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and lab experience record",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10189,
+    "title": "Ph.D. in Atmospheric Sciences - Cloud Physics & Severe Winter Weather Radar",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "physics"
+    ],
+    "desc": "Conducting flight research using UND's Citation II atmospheric research aircraft and polarimetric Doppler radar to study aircraft ice accretion, blizzard snowflake microphysics, and climate variability.",
+    "funding": "Departmental Research Assistantships $28,000/year plus full tuition coverage",
+    "tuition": "Covered by assistantship",
+    "fee": "$35",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://und.edu/programs/atmospheric-sciences-phd/index.html",
+    "requirements": {
+      "gpa": "BS in meteorology, atmospheric sciences, physics, or mathematics with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10190,
+    "title": "Bachelor of Science in Aeronautics - Commercial Aviation & Flight Operations",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "location": "Grand Forks, North Dakota, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "social-sciences"
+    ],
+    "desc": "The gold standard of collegiate flight education operating a modern fleet of over 100 aircraft, flight training devices, CRJ-700 jet simulators, and direct flow partnerships with major global airlines.",
+    "funding": "Aviation Industry and Airline Pathway Scholarships up to $10,000/year",
+    "tuition": "$19,800/year (out-of-state) + flight training fees",
+    "fee": "$35",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://und.edu/programs/commercial-aviation-bsa/index.html",
+    "requirements": {
+      "gpa": "High school GPA 2.75+ and FAA First Class Medical Certificate",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10191,
+    "title": "Master of Science in Biology - Coastal and Marine Ecology & Shark Biology",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Nationally celebrated marine biology program utilizing the Atlantic coastline, St. Johns River estuary, and research vessels to study elasmobranch shark physiology, marine mammal strandings, and oyster reef restoration.",
+    "funding": "Coastal Flagship Graduate Assistantships $16,000/year plus full tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$30",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unf.edu/coas/biology/graduate.html",
+    "requirements": {
+      "gpa": "BS in biology, marine science, or related discipline with GPA 3.0+",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with biology faculty",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10192,
+    "title": "Master of Science in Logistics and Supply Chain Management - Port Logistics & Intermodal Freight",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Situated in Jacksonville—America's logistics hub with deepwater ports, rail terminals, and interstates—this program teaches maritime port operations, warehouse optimization, global trade compliance, and cold chain distribution.",
+    "funding": "Coggin College Transportation Scholarships up to $8,000",
+    "tuition": "$19,500 total",
+    "fee": "$30",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.unf.edu/coggin/graduate/mslscm.html",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+; business or STEM background",
+      "ielts": "TOEFL 79+",
+      "gre": "GMAT/GRE optional",
+      "papers": "Statement of purpose and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10193,
+    "title": "Master of Science in Civil Engineering - Coastal and Port Infrastructure Resilience",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "Specialized coastal engineering research at the Taylor Engineering Research Institute, investigating sea level rise adaptation, wave flume storm surge dynamics, living shorelines, and port maritime structures.",
+    "funding": "Taylor Engineering Research Fellowships up to $18,000/year plus tuition support",
+    "tuition": "$17,500/year",
+    "fee": "$30",
+    "deadline": "2027-03-15",
+    "deadlineText": "March 15, 2027",
+    "source": "https://www.unf.edu/ccec/ccee/graduate.html",
+    "requirements": {
+      "gpa": "BS in civil engineering or related engineering field with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10194,
+    "title": "Doctor of Nursing Practice (DNP) - Family Nurse Practitioner & Clinical Leadership",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited practice doctorate preparing advanced practice registered nurses in primary care diagnostic management, epidemiological health disparities, clinical health policy, and healthcare systems leadership.",
+    "funding": "Brooks College Health Scholarships and clinical preceptor stipends up to $8,000",
+    "tuition": "$21,000/year",
+    "fee": "$30",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://www.unf.edu/brooks/nursing/graduate.html",
+    "requirements": {
+      "gpa": "BSN from accredited program with GPA 3.2+; unencumbered Florida RN license",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE not required",
+      "papers": "DNP personal essay and clinical portfolio",
+      "references": "Three clinical/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10195,
+    "title": "Master of Science in Computing and Information Sciences - Software Engineering & Cyber Defense",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Advanced computing graduate curriculum emphasizing enterprise software architecture, full-stack cloud computing, artificial intelligence algorithms, network intrusion defenses, and database systems.",
+    "funding": "School of Computing Graduate Assistantships up to $14,000/year",
+    "tuition": "$18,000 total",
+    "fee": "$30",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.unf.edu/ccec/cis/graduate.html",
+    "requirements": {
+      "gpa": "BS in Computer Science, Information Technology, or engineering with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10196,
+    "title": "Bachelor of Fine Arts in Art - Sculpture & Intermedia Art",
+    "university": "University of North Florida",
+    "country": "United States",
+    "location": "Jacksonville, Florida, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "NASAD-accredited studio art BFA program offering intensive training in bronze foundry casting, wood sculpture, digital fabrication, contemporary installation, and gallery exhibition design.",
+    "funding": "Departmental Visual Arts Talent Scholarships up to $5,000/year",
+    "tuition": "$20,800/year (out-of-state) / $6,400/year (in-state)",
+    "fee": "$30",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.unf.edu/coas/art-design/",
+    "requirements": {
+      "gpa": "High school GPA 2.5+ and portfolio submission of 12 creative works",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Artist statement",
+      "references": "One letter of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10197,
+    "title": "Doctor of Musical Arts (D.M.A.) in Jazz Studies - Performance & Composition - College of Music",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design"
+    ],
+    "desc": "The nation's first and most Grammy-nominated jazz degree program, featuring performance opportunities with the premier One O'Clock Lab Band, advanced big band arranging, jazz improvisation pedagogy, and studio recording.",
+    "funding": "Full graduate teaching assistantships $22,000/year plus tuition remission and national touring stipends",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://jazz.unt.edu/graduate",
+    "requirements": {
+      "gpa": "Master's degree in music with GPA 3.25+; live audition and portfolio of original compositions",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE not required",
+      "papers": "Musical statement of purpose and repertoire list",
+      "references": "Three letters of recommendation from master musicians"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10198,
+    "title": "Ph.D. in Materials Science and Engineering - Additive Manufacturing & High-Entropy Alloys - Discovery Park",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Doctoral research conducted at Discovery Park using laser powder bed fusion, focused ion beam microscopy, and atom probe tomography to develop high-entropy alloys, refractory aerospace metals, and wear-resistant coatings.",
+    "funding": "Center for Additive Manufacturing (CAAAM) Fellowships $32,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://materials.engineering.unt.edu/graduate/phd",
+    "requirements": {
+      "gpa": "BS or MS in materials science, mechanical engineering, physics, or chemistry with GPA 3.3+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10199,
+    "title": "Ph.D. in Computer Science and Engineering - Autonomous Vehicles & Mobile Sensing",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "engineering"
+    ],
+    "desc": "Advanced computing doctorate researching multi-robot swarm mapping, deep neural network perception, cyber-physical smart cities, and edge computing for connected vehicles.",
+    "funding": "Graduate Research and Teaching Assistantships $29,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://computerscience.engineering.unt.edu/graduate/phd",
+    "requirements": {
+      "gpa": "BS in Computer Science or Computer Engineering with GPA 3.2+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose",
+      "references": "Three recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10200,
+    "title": "Ph.D. in Philosophy - Environmental Ethics & Biocultural Conservation",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "environment"
+    ],
+    "desc": "Home to the premier journal Environmental Ethics, this world-renowned doctorate focuses on biocultural conservation, indigenous environmental philosophies, wilderness policy, and environmental justice.",
+    "funding": "Departmental teaching assistantships $24,000/year plus complete tuition coverage",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://philosophy.unt.edu/graduate/doctoral-program",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in philosophy or related field with GPA 3.3+",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Philosophical writing sample (15-20 pages) and statement of purpose",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10201,
+    "title": "Master of Science in Aviation Logistics - Air Cargo Logistics & Airport Operations",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences",
+      "engineering"
+    ],
+    "desc": "Specialized aviation supply chain program leveraging proximity to DFW International Airport and Alliance Airport to train leaders in international air freight, airport revenue management, and airline fleet scheduling.",
+    "funding": "Ryan College of Business Merit Scholarships up to $10,000",
+    "tuition": "$21,500 total",
+    "fee": "$75",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://cob.unt.edu/aviation-logistics",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+; quantitative or business background",
+      "ielts": "TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Statement of purpose and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10202,
+    "title": "Ph.D. in Information Science - Data Analytics & Health Informatics",
+    "university": "University of North Texas",
+    "country": "United States",
+    "location": "Denton, Texas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science",
+      "social-sciences"
+    ],
+    "desc": "Interdisciplinary doctorate addressing clinical knowledge graphs, natural language processing for electronic health records, library digital curation, and social network analysis.",
+    "funding": "College of Information Doctoral Assistantships $27,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$75",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://informationscience.unt.edu/phd-program",
+    "requirements": {
+      "gpa": "Master's degree in information science, computer science, or allied field with GPA 3.3+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests and scholarly writing sample",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10203,
+    "title": "Juris Doctor (J.D.) - Experiential Legal Education & Community Advocacy - Downtown Dallas Law",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Innovative, accessible ABA-accredited law curriculum located in the historic Dallas Municipal Building, emphasizing hands-on legal clinic representation, community justice, courtroom advocacy, and practical legal skills.",
+    "funding": "UNT Dallas College of Law Public Service Fellowships up to $10,000",
+    "tuition": "$18,500/year",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://lawschool.untdallas.edu/",
+    "requirements": {
+      "gpa": "Bachelor's degree with competitive undergraduate GPA and LSAT or GRE exam score",
+      "ielts": "TOEFL 85+",
+      "gre": "LSAT/GRE required",
+      "papers": "Personal statement and legal resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10204,
+    "title": "Master of Science in Criminal Justice - Urban Policing & Restorative Justice",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Applied graduate degree examining urban community policing models, juvenile delinquency prevention, restorative justice sentencing alternatives, and crime mapping analytics in the Dallas metroplex.",
+    "funding": "School of Behavioral Health Graduate Assistantships up to $10,000/year",
+    "tuition": "$13,500 total",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://www.untdallas.edu/academics/programs/criminal-justice-ms.php",
+    "requirements": {
+      "gpa": "Bachelor's in criminal justice, sociology, or allied field with GPA 2.8+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE not required",
+      "papers": "Statement of purpose and professional resume",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10205,
+    "title": "Master of Science in Public Health - Urban Health Equity & Community Epidemiology",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "Community-based public health master's focusing on urban chronic disease prevention, social determinants of health in Southern Dallas communities, maternal-child health disparities, and biostatistical tracking.",
+    "funding": "Community Health Traineeships and tuition waivers up to $8,000",
+    "tuition": "$14,000 total",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://www.untdallas.edu/academics/programs/public-health-ms.php",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and coursework in statistics or life sciences",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Public health statement of purpose",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10206,
+    "title": "Bachelor of Science in Information Technology - Cloud Infrastructure & Enterprise Systems",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Practical curriculum preparing cloud database administrators, enterprise network engineers, and IT project managers with industry certifications in AWS, Cisco CCNA, and CompTIA Security+.",
+    "funding": "STEM First-Generation College Scholarships up to $6,000/year",
+    "tuition": "$19,200/year (out-of-state) / $9,600/year (in-state)",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.untdallas.edu/academics/programs/information-technology-bs.php",
+    "requirements": {
+      "gpa": "High school GPA 2.5+",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10207,
+    "title": "Master of Business Administration (MBA) - Strategic Management & Health Services",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Cohort-based executive MBA delivering practical managerial economics, healthcare organizational operations, corporate accounting analytics, and entrepreneurship in North Texas.",
+    "funding": "School of Business Dean's Fellowships up to $5,000",
+    "tuition": "$15,500 total",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.untdallas.edu/academics/programs/mba.php",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 2.75+",
+      "ielts": "TOEFL 79+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Statement of purpose and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10208,
+    "title": "Bachelor of Science in Biology - Pre-Health & Cellular Diagnostics",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "location": "Dallas, Texas, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "desc": "Pre-medical undergraduate biology degree featuring modern laboratory microscopy, cellular genetics, human physiology, and partnerships with UT Southwestern Medical Center.",
+    "funding": "Joint Admission Medical Program (JAMP) undergraduate pre-med stipends and tuition waivers",
+    "tuition": "$19,200/year (out-of-state)",
+    "fee": "$40",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.untdallas.edu/academics/programs/biology-bs.php",
+    "requirements": {
+      "gpa": "High school GPA 2.7+ with high school biology and chemistry coursework",
+      "ielts": "TOEFL 79+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One science teacher reference"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10209,
+    "title": "Master of Science in Technology - Metal Casting & 3D Sand Printing Additive Manufacturing",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "chemistry"
+    ],
+    "desc": "Operating one of the largest industrial 3D sand mold printing facilities in North America, this program teaches rapid metal casting prototypes, foundry metallurgy, binder jet additive manufacturing, and quality inspection.",
+    "funding": "Metal Casting Center Graduate Research Assistantships $18,000/year plus full tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://mcc.uni.edu/education",
+    "requirements": {
+      "gpa": "BS in engineering technology, industrial technology, or materials science with GPA 3.0+",
+      "ielts": "TOEFL 79+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10210,
+    "title": "Master of Science in Biology - Tallgrass Prairie Ecology & Conservation Restoration",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Housed at the world-renowned Tallgrass Prairie Center, this program investigates native prairie seed genetics, roadside prairie vegetation management, agricultural soil microbial restoration, and monarch butterfly habitat conservation.",
+    "funding": "Tallgrass Prairie Center Graduate Fellowships $16,500/year plus full tuition waiver",
+    "tuition": "Covered by fellowship",
+    "fee": "$60",
+    "deadline": "2027-02-15",
+    "deadlineText": "February 15, 2027",
+    "source": "https://tallgrassprairiecenter.org/academics",
+    "requirements": {
+      "gpa": "Undergraduate degree in biology, botany, or environmental science with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests aligned with faculty mentor",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10211,
+    "title": "Master of Accounting (MAcc) - Forensic Accounting & Corporate Taxation - Wilson College",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Consistently recognized for top-tier national CPA exam pass rates, offering advanced coursework in auditing analytics, forensic accounting investigations, corporate tax strategy, and internal controls.",
+    "funding": "Wilson College of Business Endowed Accounting Scholarships up to $10,000",
+    "tuition": "$17,500 total",
+    "fee": "$60",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://business.uni.edu/accounting/macc",
+    "requirements": {
+      "gpa": "Undergraduate accounting degree with GPA 3.0+",
+      "ielts": "TOEFL 80+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Statement of professional goals",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10212,
+    "title": "Doctor of Education (Ed.D.) - Educational Leadership & Curriculum Administration",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Iowa's premier doctoral education program, preparing school superintendents, educational policymakers, and curriculum leaders in organizational transformation, educational equity, and instructional coaching.",
+    "funding": "College of Education Doctoral Assistantships $15,000/year plus tuition remission",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://coe.uni.edu/departments/educational-leadership-postsecondary-education/edd-program",
+    "requirements": {
+      "gpa": "Master's degree in education with GPA 3.5+; minimum 3 years educational leadership experience",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample and statement of purpose",
+      "references": "Three professional references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10213,
+    "title": "Master of Science in Environmental Science - Groundwater Hydrogeology & Watershed Management",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "chemistry"
+    ],
+    "desc": "Interdisciplinary environmental master's examining agricultural non-point source nutrient runoff, groundwater karst contaminant transport, tile drainage filtration, and stream geomorphology.",
+    "funding": "Departmental research assistantships $16,000/year plus tuition waiver",
+    "tuition": "Covered by assistantship",
+    "fee": "$60",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://earth.uni.edu/environmental-science",
+    "requirements": {
+      "gpa": "BS in earth science, biology, chemistry, or environmental science with GPA 3.0+",
+      "ielts": "TOEFL 79+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and CV",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10214,
+    "title": "Master of Arts in Speech-Language Pathology - Pediatric & Neurological Rehabilitation",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "location": "Cedar Falls, Iowa, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CAA-accredited clinical master's delivering over 400 clinical practicum hours in dysphagia diagnosis, augmentative communication technology, pediatric speech disorders, and adult cognitive-communication therapies.",
+    "funding": "Roy Eblen Speech and Hearing Clinic Assistantships covering tuition and stipends",
+    "tuition": "$18,000/year",
+    "fee": "$60",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://csd.uni.edu/graduate-programs",
+    "requirements": {
+      "gpa": "BS in Communication Sciences and Disorders with GPA 3.3+",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE required",
+      "papers": "CSDCAS application essay",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10215,
+    "title": "Ph.D. in Aerospace and Mechanical Engineering - Hypersonics & Turbomachinery",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "physics"
+    ],
+    "desc": "Elite doctoral program utilizing the Hessert Laboratory for Aerospace Research and Notre Dame Turbomachinery Laboratory (NDTL) for Mach 6 quiet wind-tunnel hypersonics, gas turbine aerodynamics, and aeroacoustics.",
+    "funding": "Full 5-year guarantee: $36,500/year stipend, full tuition remission, and health insurance",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://ame.nd.edu/graduate/",
+    "requirements": {
+      "gpa": "BS or MS in aerospace or mechanical engineering with GPA 3.5+",
+      "ielts": "TOEFL 100+ or IELTS 7.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of intent detailing research alignment with faculty labs",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10216,
+    "title": "Ph.D. in Peace Studies - Keough School of Global Affairs & Kroc Institute",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "World-renowned interdisciplinary doctorate combining peace studies with anthropology, history, political science, psychology, sociology, or theology, focusing on peace agreement implementation, transitional justice, and armed conflict prevention.",
+    "funding": "Full Kroc Doctoral Fellowships $35,000/year plus full tuition remission for 5 years",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://kroc.nd.edu/ph-d-program/",
+    "requirements": {
+      "gpa": "Bachelor's or master's degree in humanities or social sciences with GPA 3.5+",
+      "ielts": "TOEFL 100+ or IELTS 7.5+",
+      "gre": "GRE optional",
+      "papers": "Scholarly writing sample and statement of intent",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10217,
+    "title": "Ph.D. in Computer Science and Engineering - Biometrics & Trustworthy AI",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "World-leading doctoral research at the Computer Vision Research Lab (CVRL) investigating deep learning face and iris recognition, deepfake detection, privacy-preserving AI architectures, and graph neural networks.",
+    "funding": "Full graduate research and teaching fellowships $36,000/year plus complete tuition coverage",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-15",
+    "deadlineText": "December 15, 2027",
+    "source": "https://cse.nd.edu/graduate/",
+    "requirements": {
+      "gpa": "BS or MS in Computer Science or allied field with GPA 3.5+",
+      "ielts": "TOEFL 100+",
+      "gre": "GRE optional",
+      "papers": "Statement of intent",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10218,
+    "title": "Ph.D. in Chemistry and Biochemistry - Actinide Radiochemistry & Supramolecular Assembly",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "chemistry",
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "desc": "Doctoral research in heavy element actinide materials at the Materials Science of Actinides Center of Excellence, synthetic molecular cages, bioinorganic catalysis, and energy conversion materials.",
+    "funding": "Guaranteed 5-year support: $35,500/year stipend, full tuition remission, and health benefits",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://chemistry.nd.edu/graduate-programs/",
+    "requirements": {
+      "gpa": "BS in Chemistry, Biochemistry, or Materials Science with GPA 3.3+",
+      "ielts": "TOEFL 100+",
+      "gre": "GRE optional",
+      "papers": "Statement of research interests",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10219,
+    "title": "Master of Architecture (M.Arch) - Classical Architecture & Urbanism - School of Architecture",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "arts-design",
+    "subjects": [
+      "arts-design",
+      "engineering"
+    ],
+    "desc": "The world's preeminent classical and traditional urban architecture graduate program, featuring a mandatory semester of architectural study at Notre Dame's Rome Global Gateway, classical proportioning, and sustainable urban design.",
+    "funding": "School of Architecture Merit Fellowships covering 50% to 100% of tuition plus Rome study grants",
+    "tuition": "$58,500/year",
+    "fee": "$75",
+    "deadline": "2027-01-15",
+    "deadlineText": "January 15, 2027",
+    "source": "https://architecture.nd.edu/academics/graduate-programs/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.2+ and architectural/visual design portfolio",
+      "ielts": "TOEFL 100+",
+      "gre": "GRE optional",
+      "papers": "Statement of intent",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10220,
+    "title": "Ph.D. in Biological Sciences - Global Health & Vector Biology - Eck Institute",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "location": "Notre Dame, Indiana, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "environment"
+    ],
+    "desc": "Interdisciplinary doctoral training researching mosquito transmission of malaria and dengue fever, neglected tropical diseases, parasite genetics, and host immune evasion mechanisms at the Eck Institute.",
+    "funding": "Eck Institute for Global Health Fellowships $36,000/year plus full tuition remission",
+    "tuition": "Covered by fellowship",
+    "fee": "$75",
+    "deadline": "2027-12-01",
+    "deadlineText": "December 1, 2027",
+    "source": "https://biology.nd.edu/graduate-program/",
+    "requirements": {
+      "gpa": "BS in biological sciences with GPA 3.3+ and laboratory experience",
+      "ielts": "TOEFL 100+",
+      "gre": "GRE not accepted",
+      "papers": "Statement of purpose detailing biological research goals",
+      "references": "Three letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10221,
+    "title": "Master of Science in Engineering - Renewable Energy & Structural Engineering - Shiley School",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "engineering",
+    "subjects": [
+      "engineering",
+      "environment"
+    ],
+    "desc": "High-impact master's curriculum combining clean energy power electronics, Pacific Northwest seismic structural design, sustainable wastewater treatment, and thermal fluids simulation.",
+    "funding": "Donald P. Shiley Graduate Engineering Fellowships up to $14,000/year",
+    "tuition": "$24,000/year",
+    "fee": "$50",
+    "deadline": "2027-03-01",
+    "deadlineText": "March 1, 2027",
+    "source": "https://engineering.up.edu/graduate-programs/",
+    "requirements": {
+      "gpa": "BS in engineering from ABET-accredited program with GPA 3.0+",
+      "ielts": "TOEFL 80+ or IELTS 6.5+",
+      "gre": "GRE optional",
+      "papers": "Statement of purpose and technical resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10222,
+    "title": "Doctor of Nursing Practice (DNP) - Family Nurse Practitioner & Integrative Health",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "biology",
+    "subjects": [
+      "biology",
+      "social-sciences"
+    ],
+    "desc": "CCNE-accredited practice doctorate featuring clinical partnerships across Portland medical centers, focusing on trauma-informed primary care, chronic disease management, and planetary health nursing.",
+    "funding": "School of Nursing Merit Scholarships up to $12,000/year",
+    "tuition": "$28,000/year",
+    "fee": "$50",
+    "deadline": "2027-02-01",
+    "deadlineText": "February 1, 2027",
+    "source": "https://nursing.up.edu/graduate-programs/dnp.html",
+    "requirements": {
+      "gpa": "BSN from accredited nursing school with GPA 3.2+; unencumbered RN license",
+      "ielts": "TOEFL 85+",
+      "gre": "GRE not required",
+      "papers": "DNP personal goal statement",
+      "references": "Three clinical/academic references"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10223,
+    "title": "Bachelor of Science in Environmental Science - Pacific Northwest Forest & River Ecology",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "environment",
+    "subjects": [
+      "environment",
+      "biology"
+    ],
+    "desc": "Hands-on ecological curriculum utilizing the Willamette River and Columbia River Gorge field sites to study salmonid habitat restoration, forest carbon cycles, and watershed water quality.",
+    "funding": "Presidential and Holy Cross Merit Scholarships up to $28,000/year",
+    "tuition": "$53,500/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://www.up.edu/environmentalscience/",
+    "requirements": {
+      "gpa": "High school GPA 3.0+ with strong laboratory science coursework",
+      "ielts": "TOEFL 80+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One academic recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10224,
+    "title": "Master of Business Administration (MBA) - Sustainable Operations & Ethical Leadership",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "AACSB-accredited evening and weekend MBA program emphasizing corporate environmental sustainability, ethical supply chains, financial risk modeling, and organizational culture.",
+    "funding": "Pamplin School of Business Dean's Scholarships up to $8,000",
+    "tuition": "$26,000 total",
+    "fee": "$50",
+    "deadline": "2027-04-15",
+    "deadlineText": "April 15, 2027",
+    "source": "https://business.up.edu/graduate/mba.html",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and 2+ years professional experience",
+      "ielts": "TOEFL 80+",
+      "gre": "GMAT/GRE waiver available",
+      "papers": "Statement of purpose and resume",
+      "references": "Two letters of recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10225,
+    "title": "Bachelor of Science in Computer Science - Full-Stack Engineering & AI Systems",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "computer-science",
+    "subjects": [
+      "computer-science"
+    ],
+    "desc": "Rigorous undergraduate computing program featuring senior capstone industry projects, algorithmic optimization, cybersecurity, mobile computing, and machine learning development.",
+    "funding": "Shiley STEM Talent Grants up to $20,000/year",
+    "tuition": "$53,500/year",
+    "fee": "$50",
+    "deadline": "2027-05-01",
+    "deadlineText": "May 1, 2027",
+    "source": "https://engineering.up.edu/computer-science/",
+    "requirements": {
+      "gpa": "High school GPA 3.0+ with precalculus or calculus",
+      "ielts": "TOEFL 80+",
+      "gre": "N/A",
+      "papers": "Admissions essay",
+      "references": "One recommendation"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  },
+  {
+    "id": 10226,
+    "title": "Master of Arts in Education - Culturally Responsive Curriculum & Teaching",
+    "university": "University of Portland",
+    "country": "United States",
+    "location": "Portland, Oregon, United States",
+    "type": "Degree",
+    "subject": "social-sciences",
+    "subjects": [
+      "social-sciences"
+    ],
+    "desc": "Graduate teaching curriculum preparing licensed educators in differentiated classroom instruction, bilingual education methods, inclusive special education, and social-emotional learning.",
+    "funding": "School of Education Teacher Leader Fellowships up to $6,000",
+    "tuition": "$18,500 total",
+    "fee": "$50",
+    "deadline": "2027-04-01",
+    "deadlineText": "April 1, 2027",
+    "source": "https://education.up.edu/graduate-programs/",
+    "requirements": {
+      "gpa": "Bachelor's degree with GPA 3.0+ and dedication to teaching",
+      "ielts": "TOEFL 80+",
+      "gre": "GRE not required",
+      "papers": "Statement of educational philosophy",
+      "references": "Two recommendations"
+    },
+    "reviewed": "2026-10-16",
+    "status": "Available"
+  }
 ];
 export const researchers=[
   {
@@ -373047,6 +378218,1627 @@ export const researchers=[
     "source": "https://machias.edu",
     "bio": "Dr. NeCastro investigates medieval drama, coastal Maine oral history preservation, digital humanities text analysis, and experiential place-based arts education.",
     "summary": "Dr. NeCastro investigates medieval drama, coastal Maine oral history preservation, digital humanities text analysis, and experiential place-based arts education.",
+    "reviewed": "2026-10-16"
+  }
+,
+  {
+    "id": 4579,
+    "name": "Dr. Christopher Monroe",
+    "role": "Professor of Physics & Quantum Information",
+    "title": "Professor of Physics & Quantum Information",
+    "university": "University of Maryland",
+    "country": "United States",
+    "department": "Department of Physics & Joint Quantum Institute",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics & Joint Quantum Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umd.edu",
+    "bio": "Dr. Monroe is a pioneer in trapped-ion quantum computing, coherent optical quantum control, quantum networks, and quantum simulations of many-body condensed matter physics.",
+    "summary": "Dr. Monroe is a pioneer in trapped-ion quantum computing, coherent optical quantum control, quantum networks, and quantum simulations of many-body condensed matter physics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4580,
+    "name": "Dr. Derek Paley",
+    "role": "Professor of Aerospace Engineering",
+    "title": "Professor of Aerospace Engineering",
+    "university": "University of Maryland",
+    "country": "United States",
+    "department": "Department of Aerospace Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Aerospace Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umd.edu",
+    "bio": "Dr. Paley directs the Collective Dynamics and Control Laboratory, focusing on bio-inspired autonomous underwater vehicles, flocking behaviors, and nonlinear control systems.",
+    "summary": "Dr. Paley directs the Collective Dynamics and Control Laboratory, focusing on bio-inspired autonomous underwater vehicles, flocking behaviors, and nonlinear control systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4581,
+    "name": "Dr. Marine Carpuat",
+    "role": "Associate Professor of Computer Science",
+    "title": "Associate Professor of Computer Science",
+    "university": "University of Maryland",
+    "country": "United States",
+    "department": "Department of Computer Science & UMIACS",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science & UMIACS"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umd.edu",
+    "bio": "Dr. Carpuat investigates multilingual natural language processing, machine translation robustness, cross-lingual representation learning, and semantic interpretation.",
+    "summary": "Dr. Carpuat investigates multilingual natural language processing, machine translation robustness, cross-lingual representation learning, and semantic interpretation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4582,
+    "name": "Dr. Paulinus Chigbu",
+    "role": "Director & Professor of Marine Environmental Science",
+    "title": "Director & Professor of Marine Environmental Science",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "department": "NOAA Living Marine Resources Cooperative Science Center",
+    "subject": "environment",
+    "topics": [
+      "NOAA Living Marine Resources Cooperative Science Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umes.edu",
+    "bio": "Dr. Chigbu investigates zooplankton ecology, crustacean biology, fisheries population dynamics, and estuarine trophic relationships in the Chesapeake Bay and coastal lagoons.",
+    "summary": "Dr. Chigbu investigates zooplankton ecology, crustacean biology, fisheries population dynamics, and estuarine trophic relationships in the Chesapeake Bay and coastal lagoons.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4583,
+    "name": "Dr. Byungrok Min",
+    "role": "Associate Professor of Food Science",
+    "title": "Associate Professor of Food Science",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "department": "Department of Agriculture, Food and Resource Sciences",
+    "subject": "biology",
+    "topics": [
+      "Department of Agriculture, Food and Resource Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umes.edu",
+    "bio": "Dr. Min conducts research on bioactive food packaging films, antimicrobial food safety interventions, lipid oxidation kinetics, and agricultural product value-addition.",
+    "summary": "Dr. Min conducts research on bioactive food packaging films, antimicrobial food safety interventions, lipid oxidation kinetics, and agricultural product value-addition.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4584,
+    "name": "Dr. Enyue Lu",
+    "role": "Professor of Computer Science",
+    "title": "Professor of Computer Science",
+    "university": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "department": "Department of Mathematics and Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Mathematics and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umes.edu",
+    "bio": "Dr. Lu specializes in mobile ad hoc networks, wireless sensor network optimization, distributed database security, and computational algorithms.",
+    "summary": "Dr. Lu specializes in mobile ad hoc networks, wireless sensor network optimization, distributed database security, and computational algorithms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4585,
+    "name": "Dr. Robert Gallo",
+    "role": "Director & Professor of Medicine",
+    "title": "Director & Professor of Medicine",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "department": "Institute of Human Virology",
+    "subject": "biology",
+    "topics": [
+      "Institute of Human Virology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umaryland.edu",
+    "bio": "Dr. Gallo is renowned for co-discovering HIV as the cause of AIDS, developing the HIV blood test, and advancing therapeutic vaccines and innate antiviral cytokine mechanisms.",
+    "summary": "Dr. Gallo is renowned for co-discovering HIV as the cause of AIDS, developing the HIV blood test, and advancing therapeutic vaccines and innate antiviral cytokine mechanisms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4586,
+    "name": "Dr. Claire Fraser",
+    "role": "Professor of Medicine & Microbiology",
+    "title": "Professor of Medicine & Microbiology",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "department": "Institute for Genome Sciences",
+    "subject": "biology",
+    "topics": [
+      "Institute for Genome Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umaryland.edu",
+    "bio": "Dr. Fraser is a pioneer in microbial genomics and metagenomics, investigating human gut microbiome dynamics, infectious pathogens, and comparative genomic evolution.",
+    "summary": "Dr. Fraser is a pioneer in microbial genomics and metagenomics, investigating human gut microbiome dynamics, infectious pathogens, and comparative genomic evolution.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4587,
+    "name": "Dr. C. Daniel Mullins",
+    "role": "Professor & Chair of Pharmaceutical Health Services Research",
+    "title": "Professor & Chair of Pharmaceutical Health Services Research",
+    "university": "University of Maryland, Baltimore",
+    "country": "United States",
+    "department": "Department of Pharmaceutical Health Services Research",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Pharmaceutical Health Services Research"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umaryland.edu",
+    "bio": "Dr. Mullins directs the PATIENTS Program, focusing on patient-centered outcomes research (PCOR), community-engaged health equity trials, and pharmacoeconomic modeling.",
+    "summary": "Dr. Mullins directs the PATIENTS Program, focusing on patient-centered outcomes research (PCOR), community-engaged health equity trials, and pharmacoeconomic modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4588,
+    "name": "Dr. Anupam Joshi",
+    "role": "Professor of Computer Science & Cybersecurity",
+    "title": "Professor of Computer Science & Cybersecurity",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "department": "Department of Computer Science and Electrical Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Electrical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umbc.edu",
+    "bio": "Dr. Joshi directs the UMBC Center for Cybersecurity, conducting research on AI-driven threat intelligence, semantic web ontologies, mobile security, and policy-driven systems.",
+    "summary": "Dr. Joshi directs the UMBC Center for Cybersecurity, conducting research on AI-driven threat intelligence, semantic web ontologies, mobile security, and policy-driven systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4589,
+    "name": "Dr. Nilanjan Banerjee",
+    "role": "Professor of Computer Science",
+    "title": "Professor of Computer Science",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "department": "Department of Computer Science and Electrical Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Electrical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umbc.edu",
+    "bio": "Dr. Banerjee focuses on mobile and pervasive systems, wearable computing, accessible non-invasive sensor platforms for individuals with paralysis, and renewable energy computing.",
+    "summary": "Dr. Banerjee focuses on mobile and pervasive systems, wearable computing, accessible non-invasive sensor platforms for individuals with paralysis, and renewable energy computing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4590,
+    "name": "Dr. Zhibo Zhang",
+    "role": "Professor of Physics",
+    "title": "Professor of Physics",
+    "university": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "department": "Department of Physics & Earth and Space Institute",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics & Earth and Space Institute"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umbc.edu",
+    "bio": "Dr. Zhang conducts satellite remote sensing of clouds and aerosols, aerosol-cloud-radiation climate interactions, and radiative transfer modeling for NASA space missions.",
+    "summary": "Dr. Zhang conducts satellite remote sensing of clouds and aerosols, aerosol-cloud-radiation climate interactions, and radiative transfer modeling for NASA space missions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4591,
+    "name": "Dr. Steven Cadrin",
+    "role": "Professor of Fisheries Oceanography",
+    "title": "Professor of Fisheries Oceanography",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "department": "School for Marine Science & Technology (SMAST)",
+    "subject": "environment",
+    "topics": [
+      "School for Marine Science & Technology (SMAST)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umassd.edu",
+    "bio": "Dr. Cadrin leads the Marine Fisheries Field Research Group, specializing in fish stock assessment modeling, spatial population structure, and sustainable fisheries management policies.",
+    "summary": "Dr. Cadrin leads the Marine Fisheries Field Research Group, specializing in fish stock assessment modeling, spatial population structure, and sustainable fisheries management policies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4592,
+    "name": "Dr. Gaurav Khanna",
+    "role": "Professor of Physics & Director of Research Computing",
+    "title": "Professor of Physics & Director of Research Computing",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "department": "Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umassd.edu",
+    "bio": "Dr. Khanna conducts research in computational gravitational physics, black hole perturbation theory, gravitational wave modeling, and high-performance GPU cluster supercomputing.",
+    "summary": "Dr. Khanna conducts research in computational gravitational physics, black hole perturbation theory, gravitational wave modeling, and high-performance GPU cluster supercomputing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4593,
+    "name": "Dr. Vijaya Chalivendra",
+    "role": "Professor of Mechanical Engineering",
+    "title": "Professor of Mechanical Engineering",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umassd.edu",
+    "bio": "Dr. Chalivendra investigates fracture mechanics of composite materials, nano-reinforced polymers, digital image correlation, and additive manufacturing of structural components.",
+    "summary": "Dr. Chalivendra investigates fracture mechanics of composite materials, nano-reinforced polymers, digital image correlation, and additive manufacturing of structural components.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4594,
+    "name": "Dr. Holly Yanco",
+    "role": "Distinguished University Professor of Computer Science",
+    "title": "Distinguished University Professor of Computer Science",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "department": "NERVE Center & Department of Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "NERVE Center & Department of Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uml.edu",
+    "bio": "Dr. Yanco directs the NERVE Center, conducting foundational research on human-robot interaction, assistive robotic technologies, robot performance evaluation, and disaster-response robotics.",
+    "summary": "Dr. Yanco directs the NERVE Center, conducting foundational research on human-robot interaction, assistive robotic technologies, robot performance evaluation, and disaster-response robotics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4595,
+    "name": "Dr. Meg Sobkowicz-Kline",
+    "role": "Professor of Plastics Engineering",
+    "title": "Professor of Plastics Engineering",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "department": "Department of Plastics Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Plastics Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uml.edu",
+    "bio": "Dr. Sobkowicz-Kline specializes in renewable biopolymers, biodegradable packaging composites, polymer crystallization kinetics, and circular economy plastics recycling.",
+    "summary": "Dr. Sobkowicz-Kline specializes in renewable biopolymers, biodegradable packaging composites, polymer crystallization kinetics, and circular economy plastics recycling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4596,
+    "name": "Dr. Christopher Hansen",
+    "role": "Associate Professor of Mechanical Engineering",
+    "title": "Associate Professor of Mechanical Engineering",
+    "university": "University of Massachusetts Lowell",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uml.edu",
+    "bio": "Dr. Hansen's research focuses on self-healing materials, microvascular structural composites, multifunctional polymers, and microfluidic processing technologies.",
+    "summary": "Dr. Hansen's research focuses on self-healing materials, microvascular structural composites, multifunctional polymers, and microfluidic processing technologies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4597,
+    "name": "Dr. Gary Bowlin",
+    "role": "Professor & Chair of Biomedical Engineering",
+    "title": "Professor & Chair of Biomedical Engineering",
+    "university": "University of Memphis",
+    "country": "United States",
+    "department": "Department of Biomedical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomedical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.memphis.edu",
+    "bio": "Dr. Bowlin is an international leader in electrospinning of natural polymers, investigating vascular graft biomaterials, tendon regeneration scaffolds, and neutrophil-biomaterial interactions.",
+    "summary": "Dr. Bowlin is an international leader in electrospinning of natural polymers, investigating vascular graft biomaterials, tendon regeneration scaffolds, and neutrophil-biomaterial interactions.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4598,
+    "name": "Dr. Charles Langston",
+    "role": "Director & Professor of Geophysics",
+    "title": "Director & Professor of Geophysics",
+    "university": "University of Memphis",
+    "country": "United States",
+    "department": "Center for Earthquake Research and Information (CERI)",
+    "subject": "environment",
+    "topics": [
+      "Center for Earthquake Research and Information (CERI)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.memphis.edu",
+    "bio": "Dr. Langston conducts research in wave propagation seismology, array seismology, intraplate earthquake source mechanics, and high-resolution crustal velocity structure imaging.",
+    "summary": "Dr. Langston conducts research in wave propagation seismology, array seismology, intraplate earthquake source mechanics, and high-resolution crustal velocity structure imaging.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4599,
+    "name": "Dr. Arthur Graesser",
+    "role": "Emeritus Professor of Psychology & Intelligent Systems",
+    "title": "Emeritus Professor of Psychology & Intelligent Systems",
+    "university": "University of Memphis",
+    "country": "United States",
+    "department": "Institute for Intelligent Systems",
+    "subject": "computer-science",
+    "topics": [
+      "Institute for Intelligent Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.memphis.edu",
+    "bio": "Dr. Graesser is a world-renowned pioneer in cognitive science, developing AutoTutor conversational pedagogical agents, discourse comprehension models, and question-answering systems.",
+    "summary": "Dr. Graesser is a world-renowned pioneer in cognitive science, developing AutoTutor conversational pedagogical agents, discourse comprehension models, and question-answering systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4600,
+    "name": "Dr. Yi Lu Murphey",
+    "role": "Professor of Electrical and Computer Engineering",
+    "title": "Professor of Electrical and Computer Engineering",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "department": "Department of Electrical and Computer Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Electrical and Computer Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umdearborn.edu",
+    "bio": "Dr. Murphey conducts research in machine learning, computer vision, electric vehicle power management, driver behavior modeling, and big data automated diagnostics.",
+    "summary": "Dr. Murphey conducts research in machine learning, computer vision, electric vehicle power management, driver behavior modeling, and big data automated diagnostics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4601,
+    "name": "Dr. Di Ma",
+    "role": "Professor of Computer and Information Science",
+    "title": "Professor of Computer and Information Science",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "department": "Department of Computer and Information Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer and Information Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umdearborn.edu",
+    "bio": "Dr. Ma directs the Cybersecurity Center, investigating vehicle cyber-physical system security, cryptographic protocols, RFID privacy, and smartphone security.",
+    "summary": "Dr. Ma directs the Cybersecurity Center, investigating vehicle cyber-physical system security, cryptographic protocols, RFID privacy, and smartphone security.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4602,
+    "name": "Dr. German Reyes-Villanueva",
+    "role": "Associate Professor of Mechanical Engineering",
+    "title": "Associate Professor of Mechanical Engineering",
+    "university": "University of Michigan-Dearborn",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://umdearborn.edu",
+    "bio": "Dr. Reyes-Villanueva specializes in mechanical behavior of lightweight structural materials, impact crashworthiness, fiber-metal laminates, and automotive composite recycling.",
+    "summary": "Dr. Reyes-Villanueva specializes in mechanical behavior of lightweight structural materials, impact crashworthiness, fiber-metal laminates, and automotive composite recycling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4603,
+    "name": "Dr. Silvia Jurisson",
+    "role": "Curators' Distinguished Professor of Chemistry & Radiology",
+    "title": "Curators' Distinguished Professor of Chemistry & Radiology",
+    "university": "University of Missouri",
+    "country": "United States",
+    "department": "Department of Chemistry & MURR",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry & MURR"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://missouri.edu",
+    "bio": "Dr. Jurisson is a world leader in radiopharmaceutical chemistry, synthesizing targeted radionuclide complexes for cancer diagnosis and targeted alpha/beta radiotherapy using MURR radioisotopes.",
+    "summary": "Dr. Jurisson is a world leader in radiopharmaceutical chemistry, synthesizing targeted radionuclide complexes for cancer diagnosis and targeted alpha/beta radiotherapy using MURR radioisotopes.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4604,
+    "name": "Dr. David Mendoza-Cozatl",
+    "role": "Associate Professor of Plant Sciences",
+    "title": "Associate Professor of Plant Sciences",
+    "university": "University of Missouri",
+    "country": "United States",
+    "department": "Division of Plant Science & Technology",
+    "subject": "biology",
+    "topics": [
+      "Division of Plant Science & Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://missouri.edu",
+    "bio": "Dr. Mendoza-Cozatl studies plant nutrient homeostasis, heavy metal detoxification mechanisms, phytochelatin transport, and biofortification of essential minerals in cereal crops.",
+    "summary": "Dr. Mendoza-Cozatl studies plant nutrient homeostasis, heavy metal detoxification mechanisms, phytochelatin transport, and biofortification of essential minerals in cereal crops.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4605,
+    "name": "Dr. Dong Xu",
+    "role": "Curators' Distinguished Professor of Computer Science",
+    "title": "Curators' Distinguished Professor of Computer Science",
+    "university": "University of Missouri",
+    "country": "United States",
+    "department": "Department of Electrical Engineering and Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Electrical Engineering and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://missouri.edu",
+    "bio": "Dr. Xu is a preeminent computational biologist investigating protein structure prediction, deep learning algorithms for single-cell genomics, and cancer biomarker discovery.",
+    "summary": "Dr. Xu is a preeminent computational biologist investigating protein structure prediction, deep learning algorithms for single-cell genomics, and cancer biomarker discovery.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4606,
+    "name": "Dr. Beth Huebner",
+    "role": "Professor of Criminology and Criminal Justice",
+    "title": "Professor of Criminology and Criminal Justice",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "department": "Department of Criminology and Criminal Justice",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Criminology and Criminal Justice"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umsl.edu",
+    "bio": "Dr. Huebner conducts foundational research on prisoner reentry trajectories, monetary sanctions in the criminal justice system, probation supervision models, and violent crime patterns.",
+    "summary": "Dr. Huebner conducts foundational research on prisoner reentry trajectories, monetary sanctions in the criminal justice system, probation supervision models, and violent crime patterns.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4607,
+    "name": "Dr. Patricia Parker",
+    "role": "Des Lee Professor of Zoological Studies",
+    "title": "Des Lee Professor of Zoological Studies",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "department": "Department of Biology & Harris World Ecology Center",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology & Harris World Ecology Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umsl.edu",
+    "bio": "Dr. Parker investigates avian malaria, pathogen transmission dynamics in the Galápagos Islands, evolutionary genetics, and disease threats to endemic island biodiversity.",
+    "summary": "Dr. Parker investigates avian malaria, pathogen transmission dynamics in the Galápagos Islands, evolutionary genetics, and disease threats to endemic island biodiversity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4608,
+    "name": "Dr. Eike Bauer",
+    "role": "Professor of Chemistry & Department Chair",
+    "title": "Professor of Chemistry & Department Chair",
+    "university": "University of Missouri-St. Louis",
+    "country": "United States",
+    "department": "Department of Chemistry and Biochemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry and Biochemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umsl.edu",
+    "bio": "Dr. Bauer's research focuses on homogeneous organometallic catalysis, earth-abundant iron and cobalt catalysts, asymmetric synthesis, and chiral phosphine ligands.",
+    "summary": "Dr. Bauer's research focuses on homogeneous organometallic catalysis, earth-abundant iron and cobalt catalysts, asymmetric synthesis, and chiral phosphine ligands.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4609,
+    "name": "Dr. Mark Hebblewhite",
+    "role": "Professor of Ungulate Habitat Ecology",
+    "title": "Professor of Ungulate Habitat Ecology",
+    "university": "University of Montana",
+    "country": "United States",
+    "department": "Wildlife Biology Program & W.A. Franke College",
+    "subject": "environment",
+    "topics": [
+      "Wildlife Biology Program & W.A. Franke College"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umt.edu",
+    "bio": "Dr. Hebblewhite conducts international research on large mammal migration, wolf-elk trophic cascades, spatial habitat modeling, and the impacts of climate change on boreal caribou.",
+    "summary": "Dr. Hebblewhite conducts international research on large mammal migration, wolf-elk trophic cascades, spatial habitat modeling, and the impacts of climate change on boreal caribou.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4610,
+    "name": "Dr. Jim Elser",
+    "role": "Director & Professor of Limnology",
+    "title": "Director & Professor of Limnology",
+    "university": "University of Montana",
+    "country": "United States",
+    "department": "Flathead Lake Biological Station",
+    "subject": "environment",
+    "topics": [
+      "Flathead Lake Biological Station"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umt.edu",
+    "bio": "Dr. Elser is a member of the National Academy of Sciences and co-founder of ecological stoichiometry, investigating phosphorus limitation, lake biogeochemistry, and plankton ecology.",
+    "summary": "Dr. Elser is a member of the National Academy of Sciences and co-founder of ecological stoichiometry, investigating phosphorus limitation, lake biogeochemistry, and plankton ecology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4611,
+    "name": "Dr. Andrij Holian",
+    "role": "Director & Professor of Toxicology",
+    "title": "Director & Professor of Toxicology",
+    "university": "University of Montana",
+    "country": "United States",
+    "department": "Center for Environmental Health Sciences",
+    "subject": "biology",
+    "topics": [
+      "Center for Environmental Health Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umt.edu",
+    "bio": "Dr. Holian investigates macrophage activation pathways, pulmonary inflammation caused by inhaled silica and carbon nanotubes, and therapeutic interventions for lung fibrosis.",
+    "summary": "Dr. Holian investigates macrophage activation pathways, pulmonary inflammation caused by inhaled silica and carbon nanotubes, and therapeutic interventions for lung fibrosis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4612,
+    "name": "Dr. Rob Thomas",
+    "role": "Regents Professor of Geology",
+    "title": "Regents Professor of Geology",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "department": "Department of Environmental Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Environmental Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umwestern.edu",
+    "bio": "Dr. Thomas is a nationally celebrated geological educator and researcher investigating Cambrian sedimentary stratigraphy, volcanic geo-hazards, and experiential field science pedagogies.",
+    "summary": "Dr. Thomas is a nationally celebrated geological educator and researcher investigating Cambrian sedimentary stratigraphy, volcanic geo-hazards, and experiential field science pedagogies.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4613,
+    "name": "Dr. Michael Morrow",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umwestern.edu",
+    "bio": "Dr. Morrow conducts field research on rangeland plant ecology, riparian willow community dynamics, invasive weed biocontrol, and sage-grouse habitat conservation.",
+    "summary": "Dr. Morrow conducts field research on rangeland plant ecology, riparian willow community dynamics, invasive weed biocontrol, and sage-grouse habitat conservation.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4614,
+    "name": "Dr. Brent Roberts",
+    "role": "Professor of Fine Arts",
+    "title": "Professor of Fine Arts",
+    "university": "University of Montana Western",
+    "country": "United States",
+    "department": "Department of Fine Arts",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Fine Arts"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.umwestern.edu",
+    "bio": "Dr. Roberts explores ceramic sculpture, high-fire wood kiln atmospheric firings, regional clay mineralogy, and contemporary three-dimensional craft installations.",
+    "summary": "Dr. Roberts explores ceramic sculpture, high-fire wood kiln atmospheric firings, regional clay mineralogy, and contemporary three-dimensional craft installations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4615,
+    "name": "Dr. Houston Byrd",
+    "role": "Professor of Chemistry",
+    "title": "Professor of Chemistry",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "department": "Department of Biology, Chemistry and Mathematics",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Biology, Chemistry and Mathematics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montevallo.edu",
+    "bio": "Dr. Byrd investigates thin polymer film self-assembly, modified metal surface coatings, environmental analytical chemistry, and undergraduate chemistry pedagogical research.",
+    "summary": "Dr. Byrd investigates thin polymer film self-assembly, modified metal surface coatings, environmental analytical chemistry, and undergraduate chemistry pedagogical research.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4616,
+    "name": "Dr. Scott Turner",
+    "role": "Professor of Political Science",
+    "title": "Professor of Political Science",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "department": "Department of Behavioral and Social Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Behavioral and Social Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montevallo.edu",
+    "bio": "Dr. Turner conducts scholarly research in peace studies, international human rights law, political theory, nonviolent civil resistance, and global democratic governance.",
+    "summary": "Dr. Turner conducts scholarly research in peace studies, international human rights law, political theory, nonviolent civil resistance, and global democratic governance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4617,
+    "name": "Dr. Collin Schmid",
+    "role": "Associate Professor of Art",
+    "title": "Associate Professor of Art",
+    "university": "University of Montevallo",
+    "country": "United States",
+    "department": "Department of Art",
+    "subject": "arts-design",
+    "topics": [
+      "Department of Art"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.montevallo.edu",
+    "bio": "Dr. Schmid specializes in ceramics, architectural tile installations, clay body formulation, and the integration of digital 3D modeling with traditional ceramic casting techniques.",
+    "summary": "Dr. Schmid specializes in ceramics, architectural tile installations, clay body formulation, and the integration of digital 3D modeling with traditional ceramic casting techniques.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4618,
+    "name": "Dr. Donald Umstadter",
+    "role": "Earle M. & Virginia M. Jorgensen Professor of Physics",
+    "title": "Earle M. & Virginia M. Jorgensen Professor of Physics",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "department": "Department of Physics & Astronomy",
+    "subject": "physics",
+    "topics": [
+      "Department of Physics & Astronomy"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unl.edu",
+    "bio": "Dr. Umstadter directs the Extreme Light Laboratory, studying relativistic optics, ultra-high-field laser interactions, table-top synchrotron X-ray generation, and laser-driven nuclear physics.",
+    "summary": "Dr. Umstadter directs the Extreme Light Laboratory, studying relativistic optics, ultra-high-field laser interactions, table-top synchrotron X-ray generation, and laser-driven nuclear physics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4619,
+    "name": "Dr. Carrick Detweiler",
+    "role": "Susan J. Rosowski Professor of Computer Science",
+    "title": "Susan J. Rosowski Professor of Computer Science",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "department": "School of Computing & Nebraska Center for Materials and Nanoscience",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computing & Nebraska Center for Materials and Nanoscience"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unl.edu",
+    "bio": "Dr. Detweiler co-directs the NIMBUS Lab, developing autonomous uncrewed aerial systems for environmental monitoring, aerial water sampling, and drone-based fire ignition for controlled burns.",
+    "summary": "Dr. Detweiler co-directs the NIMBUS Lab, developing autonomous uncrewed aerial systems for environmental monitoring, aerial water sampling, and drone-based fire ignition for controlled burns.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4620,
+    "name": "Dr. Mark Svoboda",
+    "role": "Director & Climatologist",
+    "title": "Director & Climatologist",
+    "university": "University of Nebraska–Lincoln",
+    "country": "United States",
+    "department": "National Drought Mitigation Center (NDMC)",
+    "subject": "environment",
+    "topics": [
+      "National Drought Mitigation Center (NDMC)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unl.edu",
+    "bio": "Dr. Svoboda is an internationally recognized drought specialist, co-originating the U.S. Drought Monitor, designing global drought early-warning systems, and advising the United Nations.",
+    "summary": "Dr. Svoboda is an internationally recognized drought specialist, co-originating the U.S. Drought Monitor, designing global drought early-warning systems, and advising the United Nations.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4621,
+    "name": "Dr. Kimberly Carlson",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unk.edu",
+    "bio": "Dr. Carlson investigates genetics of viral infections in Drosophila melanogaster, heat shock protein chaperones, and the cellular mechanisms of innate antiviral immunity.",
+    "summary": "Dr. Carlson investigates genetics of viral infections in Drosophila melanogaster, heat shock protein chaperones, and the cellular mechanisms of innate antiviral immunity.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4622,
+    "name": "Dr. Allen Thomas",
+    "role": "Associate Professor of Chemistry",
+    "title": "Associate Professor of Chemistry",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "department": "Department of Chemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unk.edu",
+    "bio": "Dr. Thomas specializes in synthetic organic chemistry, investigating novel amino acid transporter inhibitors (LAT1) for targeted cancer chemotherapies and prodrug delivery.",
+    "summary": "Dr. Thomas specializes in synthetic organic chemistry, investigating novel amino acid transporter inhibitors (LAT1) for targeted cancer chemotherapies and prodrug delivery.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4623,
+    "name": "Dr. Matthew Bice",
+    "role": "Associate Professor of Kinesiology & Health Sciences",
+    "title": "Associate Professor of Kinesiology & Health Sciences",
+    "university": "University of Nebraska at Kearney",
+    "country": "United States",
+    "department": "Department of Kinesiology and Sport Sciences",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Kinesiology and Sport Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unk.edu",
+    "bio": "Dr. Bice investigates behavioral health interventions, physical activity patterns in rural populations, mobile health tracking, and pediatric developmental exercise science.",
+    "summary": "Dr. Bice investigates behavioral health interventions, physical activity patterns in rural populations, mobile health tracking, and pediatric developmental exercise science.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4624,
+    "name": "Dr. Surinder Batra",
+    "role": "Professor & Chair of Biochemistry and Molecular Biology",
+    "title": "Professor & Chair of Biochemistry and Molecular Biology",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "department": "Fred & Pamela Buffett Cancer Center",
+    "subject": "biology",
+    "topics": [
+      "Fred & Pamela Buffett Cancer Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unmc.edu",
+    "bio": "Dr. Batra is an internationally recognized authority on pancreatic cancer, investigating mucin glycoproteins, biomarker discovery, antibody targeting, and metastasis signaling.",
+    "summary": "Dr. Batra is an internationally recognized authority on pancreatic cancer, investigating mucin glycoproteins, biomarker discovery, antibody targeting, and metastasis signaling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4625,
+    "name": "Dr. James Lawler",
+    "role": "Executive Director & Professor of Internal Medicine",
+    "title": "Executive Director & Professor of Internal Medicine",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "department": "Global Center for Health Security",
+    "subject": "biology",
+    "topics": [
+      "Global Center for Health Security"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unmc.edu",
+    "bio": "Dr. Lawler directs clinical biosecurity initiatives, leading quarantine protocols for high-consequence viral pathogens, aeromedical evacuation of Ebola patients, and outbreak surveillance.",
+    "summary": "Dr. Lawler directs clinical biosecurity initiatives, leading quarantine protocols for high-consequence viral pathogens, aeromedical evacuation of Ebola patients, and outbreak surveillance.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4626,
+    "name": "Dr. Irving Zucker",
+    "role": "Theodore F. Hubbard Professor of Cardiovascular Research",
+    "title": "Theodore F. Hubbard Professor of Cardiovascular Research",
+    "university": "University of Nebraska Medical Center",
+    "country": "United States",
+    "department": "Department of Cellular and Integrative Physiology",
+    "subject": "biology",
+    "topics": [
+      "Department of Cellular and Integrative Physiology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unmc.edu",
+    "bio": "Dr. Zucker investigates central nervous system control of circulation, autonomic dysregulation in chronic heart failure, carotid body chemoreflexes, and exercise hemodynamics.",
+    "summary": "Dr. Zucker investigates central nervous system control of circulation, autonomic dysregulation in chronic heart failure, carotid body chemoreflexes, and exercise hemodynamics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4627,
+    "name": "Dr. Nick Stergiou",
+    "role": "Distinguished Community Research Chair in Biomechanics",
+    "title": "Distinguished Community Research Chair in Biomechanics",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "department": "Department of Biomechanics",
+    "subject": "engineering",
+    "topics": [
+      "Department of Biomechanics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unomaha.edu",
+    "bio": "Dr. Stergiou is a founding pioneer in movement variability analysis, using chaos theory and nonlinear dynamics to study human locomotion, stroke rehabilitation, and sensory deficits in elderly adults.",
+    "summary": "Dr. Stergiou is a founding pioneer in movement variability analysis, using chaos theory and nonlinear dynamics to study human locomotion, stroke rehabilitation, and sensory deficits in elderly adults.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4628,
+    "name": "Dr. Gina Ligon",
+    "role": "Director & Professor of National Security",
+    "title": "Director & Professor of National Security",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "department": "National Counterterrorism Innovation, Technology, and Education Center (NCITE)",
+    "subject": "social-sciences",
+    "topics": [
+      "National Counterterrorism Innovation, Technology, and Education Center (NCITE)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unomaha.edu",
+    "bio": "Dr. Ligon directs NCITE, investigating organizational leadership of terrorist networks, ideological extremism communication strategies, and technology recruitment methods.",
+    "summary": "Dr. Ligon directs NCITE, investigating organizational leadership of terrorist networks, ideological extremism communication strategies, and technology recruitment methods.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4629,
+    "name": "Dr. Robin Gandhi",
+    "role": "Professor of Cybersecurity",
+    "title": "Professor of Cybersecurity",
+    "university": "University of Nebraska Omaha",
+    "country": "United States",
+    "department": "College of Information Science & Technology",
+    "subject": "computer-science",
+    "topics": [
+      "College of Information Science & Technology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://unomaha.edu",
+    "bio": "Dr. Gandhi conducts research on software assurance, cyber risk assessment for maritime transportation infrastructures, regulatory compliance metrics, and cryptographic systems.",
+    "summary": "Dr. Gandhi conducts research on software assurance, cyber risk assessment for maritime transportation infrastructures, regulatory compliance metrics, and cryptographic systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4630,
+    "name": "Dr. Brett Abarbanel",
+    "role": "Executive Director & Associate Professor of Gaming Research",
+    "title": "Executive Director & Associate Professor of Gaming Research",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "department": "International Gaming Institute (IGI)",
+    "subject": "social-sciences",
+    "topics": [
+      "International Gaming Institute (IGI)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unlv.edu",
+    "bio": "Dr. Abarbanel conducts global research on esports wagering, video game loot boxes, gambling consumer psychology, responsible gaming technology, and gaming policy.",
+    "summary": "Dr. Abarbanel conducts global research on esports wagering, video game loot boxes, gambling consumer psychology, responsible gaming technology, and gaming policy.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4631,
+    "name": "Dr. Frederic Poineau",
+    "role": "Associate Professor of Radiochemistry",
+    "title": "Associate Professor of Radiochemistry",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "department": "Department of Chemistry and Biochemistry",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry and Biochemistry"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unlv.edu",
+    "bio": "Dr. Poineau investigates technetium and uranium coordination chemistry, synthetic inorganic radioisotope synthesis, molten salt chemistry, and pyroprocessing of nuclear fuel.",
+    "summary": "Dr. Poineau investigates technetium and uranium coordination chemistry, synthetic inorganic radioisotope synthesis, molten salt chemistry, and pyroprocessing of nuclear fuel.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4632,
+    "name": "Dr. Kwang Kim",
+    "role": "Southwest Gas Professor of Energy and Matter",
+    "title": "Southwest Gas Professor of Energy and Matter",
+    "university": "University of Nevada, Las Vegas",
+    "country": "United States",
+    "department": "Department of Mechanical Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Department of Mechanical Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unlv.edu",
+    "bio": "Dr. Kim directs the Smart Materials and Systems Laboratory, focusing on artificial muscles, ionic polymer-metal composites (IPMC), biomimetic underwater robotics, and microfluidics.",
+    "summary": "Dr. Kim directs the Smart Materials and Systems Laboratory, focusing on artificial muscles, ionic polymer-metal composites (IPMC), biomimetic underwater robotics, and microfluidics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4633,
+    "name": "Dr. Ian Buckle",
+    "role": "Foundation Professor of Civil Engineering",
+    "title": "Foundation Professor of Civil Engineering",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "department": "Earthquake Engineering Laboratory & Department of Civil Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Earthquake Engineering Laboratory & Department of Civil Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unr.edu",
+    "bio": "Dr. Buckle is an internationally acclaimed structural engineer specializing in bridge seismic design, large-scale shake table experimentation, base isolation, and structural control devices.",
+    "summary": "Dr. Buckle is an internationally acclaimed structural engineer specializing in bridge seismic design, large-scale shake table experimentation, base isolation, and structural control devices.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4634,
+    "name": "Dr. Kenton Sanders",
+    "role": "Chair & Professor of Physiology and Cell Biology",
+    "title": "Chair & Professor of Physiology and Cell Biology",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "department": "Department of Physiology and Cell Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Physiology and Cell Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unr.edu",
+    "bio": "Dr. Sanders is a world-renowned electrophysiologist discovering the role of interstitial cells of Cajal as pacemakers in visceral smooth muscles and enteric neurotransmission pathways.",
+    "summary": "Dr. Sanders is a world-renowned electrophysiologist discovering the role of interstitial cells of Cajal as pacemakers in visceral smooth muscles and enteric neurotransmission pathways.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4635,
+    "name": "Dr. Kostas Alexis",
+    "role": "Associate Professor of Computer Science",
+    "title": "Associate Professor of Computer Science",
+    "university": "University of Nevada, Reno",
+    "country": "United States",
+    "department": "Department of Computer Science and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unr.edu",
+    "bio": "Dr. Alexis leads autonomous subterranean robotics, serving as team lead for Team CERBERUS, which won the DARPA Subterranean Challenge for autonomous robotic cave exploration.",
+    "summary": "Dr. Alexis leads autonomous subterranean robotics, serving as team lead for Team CERBERUS, which won the DARPA Subterranean Challenge for autonomous robotic cave exploration.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4636,
+    "name": "Dr. Larry Mayer",
+    "role": "Director & Professor of Ocean Engineering",
+    "title": "Director & Professor of Ocean Engineering",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "department": "Center for Coastal and Ocean Mapping (CCOM/JHC)",
+    "subject": "engineering",
+    "topics": [
+      "Center for Coastal and Ocean Mapping (CCOM/JHC)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unh.edu",
+    "bio": "Dr. Mayer is a member of the National Academy of Engineering, pioneering 3D seafloor visualization, multibeam sonar acoustic processing, and mapping the Arctic Ocean continental shelf for UNCLOS.",
+    "summary": "Dr. Mayer is a member of the National Academy of Engineering, pioneering 3D seafloor visualization, multibeam sonar acoustic processing, and mapping the Arctic Ocean continental shelf for UNCLOS.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4637,
+    "name": "Dr. Harlan Spence",
+    "role": "Director & Professor of Physics",
+    "title": "Director & Professor of Physics",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "department": "Institute for the Study of Earth, Oceans, and Space (EOS)",
+    "subject": "physics",
+    "topics": [
+      "Institute for the Study of Earth, Oceans, and Space (EOS)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unh.edu",
+    "bio": "Dr. Spence investigates energetic particle radiation in planetary magnetospheres, cosmic ray physics, space weather effects on spacecraft microelectronics, and NASA CRaTER mission science.",
+    "summary": "Dr. Spence investigates energetic particle radiation in planetary magnetospheres, cosmic ray physics, space weather effects on spacecraft microelectronics, and NASA CRaTER mission science.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4638,
+    "name": "Dr. Ruth Varner",
+    "role": "Professor of Biogeochemistry",
+    "title": "Professor of Biogeochemistry",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "department": "Earth Systems Research Center & EOS",
+    "subject": "environment",
+    "topics": [
+      "Earth Systems Research Center & EOS"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unh.edu",
+    "bio": "Dr. Varner investigates trace gas emissions from peatland and arctic permafrost ecosystems, methane bubbling dynamics from thermokarst lakes, and climate feedback modeling.",
+    "summary": "Dr. Varner investigates trace gas emissions from peatland and arctic permafrost ecosystems, methane bubbling dynamics from thermokarst lakes, and climate feedback modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4639,
+    "name": "Dr. Henry C. Lee",
+    "role": "Professor Emeritus & Founder",
+    "title": "Professor Emeritus & Founder",
+    "university": "University of New Haven",
+    "country": "United States",
+    "department": "Henry C. Lee Institute of Forensic Science",
+    "subject": "biology",
+    "topics": [
+      "Henry C. Lee Institute of Forensic Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.newhaven.edu",
+    "bio": "Dr. Lee is one of the world's foremost forensic scientists, famed for forensic crime scene reconstruction, advanced bloodstain pattern analysis, DNA profiling, and consulting on major international criminal trials.",
+    "summary": "Dr. Lee is one of the world's foremost forensic scientists, famed for forensic crime scene reconstruction, advanced bloodstain pattern analysis, DNA profiling, and consulting on major international criminal trials.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4640,
+    "name": "Dr. Ibrahim Baggili",
+    "role": "Professor of Computer Science & Cybersecurity",
+    "title": "Professor of Computer Science & Cybersecurity",
+    "university": "University of New Haven",
+    "country": "United States",
+    "department": "Department of Electrical & Computer Engineering and Computer Science",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Electrical & Computer Engineering and Computer Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.newhaven.edu",
+    "bio": "Dr. Baggili directs the Artifact Genome Project, investigating virtual reality cybersecurity, mobile device digital forensics, UAV drone hacking, and IoT firmware memory acquisition.",
+    "summary": "Dr. Baggili directs the Artifact Genome Project, investigating virtual reality cybersecurity, mobile device digital forensics, UAV drone hacking, and IoT firmware memory acquisition.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4641,
+    "name": "Dr. Timothy Palmbach",
+    "role": "Professor & Chair of Forensic Science",
+    "title": "Professor & Chair of Forensic Science",
+    "university": "University of New Haven",
+    "country": "United States",
+    "department": "Department of Forensic Science",
+    "subject": "biology",
+    "topics": [
+      "Department of Forensic Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.newhaven.edu",
+    "bio": "Dr. Palmbach specializes in crime scene analysis, utilizing rapid DNA identification technologies to combat human trafficking, international mass disaster victim identification, and forensic serology.",
+    "summary": "Dr. Palmbach specializes in crime scene analysis, utilizing rapid DNA identification technologies to combat human trafficking, international mass disaster victim identification, and forensic serology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4642,
+    "name": "Dr. Glenn Janik",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.una.edu",
+    "bio": "Dr. Janik investigates freshwater unionid mussel propagation, riverine habitat restoration in the Tennessee River drainage, and endocrine disruption in aquatic ecosystems.",
+    "summary": "Dr. Janik investigates freshwater unionid mussel propagation, riverine habitat restoration in the Tennessee River drainage, and endocrine disruption in aquatic ecosystems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4643,
+    "name": "Dr. James Jerkins",
+    "role": "Associate Professor of Computer Science",
+    "title": "Associate Professor of Computer Science",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "department": "Department of Computer Science and Information Systems",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Information Systems"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.una.edu",
+    "bio": "Dr. Jerkins specializes in computer vision algorithms, applied artificial intelligence for agricultural monitoring, and cybersecurity workforce development frameworks.",
+    "summary": "Dr. Jerkins specializes in computer vision algorithms, applied artificial intelligence for agricultural monitoring, and cybersecurity workforce development frameworks.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4644,
+    "name": "Dr. Tera Kirkman",
+    "role": "Dean & Professor of Nursing",
+    "title": "Dean & Professor of Nursing",
+    "university": "University of North Alabama",
+    "country": "United States",
+    "department": "Anderson College of Nursing and Health Professions",
+    "subject": "biology",
+    "topics": [
+      "Anderson College of Nursing and Health Professions"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.una.edu",
+    "bio": "Dr. Kirkman conducts clinical research in rural health delivery models, patient simulation efficacy, clinical decision-making pedagogies, and health promotion in underserved Southern communities.",
+    "summary": "Dr. Kirkman conducts clinical research in rural health delivery models, patient simulation efficacy, clinical decision-making pedagogies, and health promotion in underserved Southern communities.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4645,
+    "name": "Dr. Mesbah Uddin",
+    "role": "Director & Professor of Mechanical Engineering",
+    "title": "Director & Professor of Mechanical Engineering",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "department": "North Carolina Motorsports and Automotive Research Center",
+    "subject": "engineering",
+    "topics": [
+      "North Carolina Motorsports and Automotive Research Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.charlotte.edu",
+    "bio": "Dr. Uddin specializes in vehicle aerodynamics, computational fluid dynamics (CFD) of race cars, turbulent wake flows, and thermal management of electric vehicle battery enclosures.",
+    "summary": "Dr. Uddin specializes in vehicle aerodynamics, computational fluid dynamics (CFD) of race cars, turbulent wake flows, and thermal management of electric vehicle battery enclosures.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4646,
+    "name": "Dr. Bolesh Skubic",
+    "role": "Professor of Power Engineering",
+    "title": "Professor of Power Engineering",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "department": "Energy Production and Infrastructure Center (EPIC)",
+    "subject": "engineering",
+    "topics": [
+      "Energy Production and Infrastructure Center (EPIC)"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.charlotte.edu",
+    "bio": "Dr. Skubic investigates renewable electric power grid integration, wide-bandgap power semiconductor switching, microgrid cyber-physical protection, and battery storage modeling.",
+    "summary": "Dr. Skubic investigates renewable electric power grid integration, wide-bandgap power semiconductor switching, microgrid cyber-physical protection, and battery storage modeling.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4647,
+    "name": "Dr. Angela Davies",
+    "role": "Professor of Physics and Optical Science",
+    "title": "Professor of Physics and Optical Science",
+    "university": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "department": "Center for Precision Metrology & Department of Physics",
+    "subject": "physics",
+    "topics": [
+      "Center for Precision Metrology & Department of Physics"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.charlotte.edu",
+    "bio": "Dr. Davies investigates optical metrology, absolute surface interferometry, freeform optical surface measurement calibration, and precision instrument design for aerospace.",
+    "summary": "Dr. Davies investigates optical metrology, absolute surface interferometry, freeform optical surface measurement calibration, and precision instrument design for aerospace.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4648,
+    "name": "Dr. Pablo de León",
+    "role": "Professor & Chair of Space Studies",
+    "title": "Professor & Chair of Space Studies",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "department": "Department of Space Studies & Odegard School",
+    "subject": "engineering",
+    "topics": [
+      "Department of Space Studies & Odegard School"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://und.edu",
+    "bio": "Dr. de León directs the Human Spaceflight Laboratory, designing advanced planetary exploration spacesuits (NDX-1), lunar/Martian habitat analog stations, and spacecraft life support systems for NASA.",
+    "summary": "Dr. de León directs the Human Spaceflight Laboratory, designing advanced planetary exploration spacesuits (NDX-1), lunar/Martian habitat analog stations, and spacecraft life support systems for NASA.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4649,
+    "name": "Dr. Bethany Klemetsrud",
+    "role": "Associate Professor of Chemical Engineering",
+    "title": "Associate Professor of Chemical Engineering",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "department": "Department of Chemical Engineering & EERC",
+    "subject": "engineering",
+    "topics": [
+      "Department of Chemical Engineering & EERC"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://und.edu",
+    "bio": "Dr. Klemetsrud investigates renewable biofuels from agricultural waste, pyrolysis catalytic upgrading, carbonaceous adsorbent materials for wastewater treatment, and circular chemical manufacturing.",
+    "summary": "Dr. Klemetsrud investigates renewable biofuels from agricultural waste, pyrolysis catalytic upgrading, carbonaceous adsorbent materials for wastewater treatment, and circular chemical manufacturing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4650,
+    "name": "Dr. David Delene",
+    "role": "Research Professor of Atmospheric Sciences",
+    "title": "Research Professor of Atmospheric Sciences",
+    "university": "University of North Dakota",
+    "country": "United States",
+    "department": "Department of Atmospheric Sciences",
+    "subject": "environment",
+    "topics": [
+      "Department of Atmospheric Sciences"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://und.edu",
+    "bio": "Dr. Delene specializes in airborne atmospheric instrumentation, airborne aerosol-cloud measurements, cloud droplet size distribution kinetics, and airborne weather modification analysis.",
+    "summary": "Dr. Delene specializes in airborne atmospheric instrumentation, airborne aerosol-cloud measurements, cloud droplet size distribution kinetics, and airborne weather modification analysis.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4651,
+    "name": "Dr. Jim Gelsleichter",
+    "role": "Director & Professor of Biology",
+    "title": "Director & Professor of Biology",
+    "university": "University of North Florida",
+    "country": "United States",
+    "department": "Coastal and Marine Biology Flagship Program",
+    "subject": "biology",
+    "topics": [
+      "Coastal and Marine Biology Flagship Program"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unf.edu",
+    "bio": "Dr. Gelsleichter directs the Coastal and Marine Biology Program, investigating shark endocrinology, reproduction, ecotoxicology of oil spills and persistent pollutants on marine elasmobranchs, and marine animal tagging.",
+    "summary": "Dr. Gelsleichter directs the Coastal and Marine Biology Program, investigating shark endocrinology, reproduction, ecotoxicology of oil spills and persistent pollutants on marine elasmobranchs, and marine animal tagging.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4652,
+    "name": "Dr. Christopher Baynard",
+    "role": "Associate Professor of Geography and GIS",
+    "title": "Associate Professor of Geography and GIS",
+    "university": "University of North Florida",
+    "country": "United States",
+    "department": "Department of Economics and Geography",
+    "subject": "environment",
+    "topics": [
+      "Department of Economics and Geography"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unf.edu",
+    "bio": "Dr. Baynard conducts geospatial research in energy infrastructure mapping, environmental footprint analysis of oil extraction, satellite remote sensing of wetlands, and port logistics geography.",
+    "summary": "Dr. Baynard conducts geospatial research in energy infrastructure mapping, environmental footprint analysis of oil extraction, satellite remote sensing of wetlands, and port logistics geography.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4653,
+    "name": "Dr. Zornitza Prodanoff",
+    "role": "Professor of Computing",
+    "title": "Professor of Computing",
+    "university": "University of North Florida",
+    "country": "United States",
+    "department": "School of Computing",
+    "subject": "computer-science",
+    "topics": [
+      "School of Computing"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unf.edu",
+    "bio": "Dr. Prodanoff investigates computer network protocol performance, smart card security, queuing theory models for multimedia communications, and wireless sensor network routing.",
+    "summary": "Dr. Prodanoff investigates computer network protocol performance, smart card security, queuing theory models for multimedia communications, and wireless sensor network routing.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4654,
+    "name": "Dr. Rajiv Mishra",
+    "role": "Distinguished Research Professor of Materials Science",
+    "title": "Distinguished Research Professor of Materials Science",
+    "university": "University of North Texas",
+    "country": "United States",
+    "department": "Department of Materials Science and Engineering & Discovery Park",
+    "subject": "engineering",
+    "topics": [
+      "Department of Materials Science and Engineering & Discovery Park"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unt.edu",
+    "bio": "Dr. Mishra directs the Advanced Materials and Manufacturing Processes Institute (AMMPI), specializing in friction stir processing of metals, severe plastic deformation, and additive manufacturing of structural alloys.",
+    "summary": "Dr. Mishra directs the Advanced Materials and Manufacturing Processes Institute (AMMPI), specializing in friction stir processing of metals, severe plastic deformation, and additive manufacturing of structural alloys.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4655,
+    "name": "Dr. Alan Baylock",
+    "role": "Director & Professor of Music",
+    "title": "Director & Professor of Music",
+    "university": "University of North Texas",
+    "country": "United States",
+    "department": "One O'Clock Lab Band & College of Music",
+    "subject": "arts-design",
+    "topics": [
+      "One O'Clock Lab Band & College of Music"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unt.edu",
+    "bio": "Dr. Baylock is a celebrated big band composer, arranger, and director of the Grammy-nominated UNT One O'Clock Lab Band, conducting jazz masterclasses and releasing critically acclaimed orchestral jazz albums.",
+    "summary": "Dr. Baylock is a celebrated big band composer, arranger, and director of the Grammy-nominated UNT One O'Clock Lab Band, conducting jazz masterclasses and releasing critically acclaimed orchestral jazz albums.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4656,
+    "name": "Dr. Saraju Mohanty",
+    "role": "Professor of Computer Science and Engineering",
+    "title": "Professor of Computer Science and Engineering",
+    "university": "University of North Texas",
+    "country": "United States",
+    "department": "Department of Computer Science and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.unt.edu",
+    "bio": "Dr. Mohanty directs the Smart Electronic Systems Laboratory (SESL), researching secure IoT edge computing hardware, consumer healthcare wearables, and low-power smart city sensor networks.",
+    "summary": "Dr. Mohanty directs the Smart Electronic Systems Laboratory (SESL), researching secure IoT edge computing hardware, consumer healthcare wearables, and low-power smart city sensor networks.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4657,
+    "name": "Dr. Felecia Epps",
+    "role": "Dean & Professor of Law",
+    "title": "Dean & Professor of Law",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "department": "UNT Dallas College of Law",
+    "subject": "social-sciences",
+    "topics": [
+      "UNT Dallas College of Law"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.untdallas.edu",
+    "bio": "Dean Epps specializes in civil procedure, legal education pedagogy, access to justice for underserved populations, consumer bankruptcy, and judicial ethics.",
+    "summary": "Dean Epps specializes in civil procedure, legal education pedagogy, access to justice for underserved populations, consumer bankruptcy, and judicial ethics.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4658,
+    "name": "Dr. Eric Coleman",
+    "role": "Associate Professor of Criminal Justice",
+    "title": "Associate Professor of Criminal Justice",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "department": "Department of Criminal Justice",
+    "subject": "social-sciences",
+    "topics": [
+      "Department of Criminal Justice"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.untdallas.edu",
+    "bio": "Dr. Coleman conducts empirical research on police use of force, community policing reform in urban municipalities, procedural justice, and juvenile corrections alternatives.",
+    "summary": "Dr. Coleman conducts empirical research on police use of force, community policing reform in urban municipalities, procedural justice, and juvenile corrections alternatives.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4659,
+    "name": "Dr. Aaron Bartula",
+    "role": "Associate Professor of Sociology & Public Health",
+    "title": "Associate Professor of Sociology & Public Health",
+    "university": "University of North Texas at Dallas",
+    "country": "United States",
+    "department": "School of Behavioral Health and Human Services",
+    "subject": "social-sciences",
+    "topics": [
+      "School of Behavioral Health and Human Services"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.untdallas.edu",
+    "bio": "Dr. Bartula investigates urban social determinants of health, community crime mapping, spatial analysis of food insecurity, and health equity outcomes in North Texas.",
+    "summary": "Dr. Bartula investigates urban social determinants of health, community crime mapping, spatial analysis of food insecurity, and health equity outcomes in North Texas.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4660,
+    "name": "Dr. Laura Jackson",
+    "role": "Director & Professor of Biology",
+    "title": "Director & Professor of Biology",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "department": "Tallgrass Prairie Center & Department of Biology",
+    "subject": "environment",
+    "topics": [
+      "Tallgrass Prairie Center & Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uni.edu",
+    "bio": "Dr. Jackson directs the Tallgrass Prairie Center, researching agroecology, native perennial seed mix design, ecosystem services of roadside prairies, and soil carbon sequestration in restored grasslands.",
+    "summary": "Dr. Jackson directs the Tallgrass Prairie Center, researching agroecology, native perennial seed mix design, ecosystem services of roadside prairies, and soil carbon sequestration in restored grasslands.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4661,
+    "name": "Dr. Jerry Thiel",
+    "role": "Director & Professor of Metal Casting",
+    "title": "Director & Professor of Metal Casting",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "department": "UNI Metal Casting Center",
+    "subject": "engineering",
+    "topics": [
+      "UNI Metal Casting Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uni.edu",
+    "bio": "Dr. Thiel is an internationally recognized leader in foundry technology, pioneering 3D sand printing for complex metal castings, phenolic urethane binder chemistry, and bio-based mold materials.",
+    "summary": "Dr. Thiel is an internationally recognized leader in foundry technology, pioneering 3D sand printing for complex metal castings, phenolic urethane binder chemistry, and bio-based mold materials.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4662,
+    "name": "Dr. Kavita Dhanwada",
+    "role": "Professor of Biology & Biochemistry",
+    "title": "Professor of Biology & Biochemistry",
+    "university": "University of Northern Iowa",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.uni.edu",
+    "bio": "Dr. Dhanwada investigates molecular toxicology, examining the biochemical mechanisms of agricultural herbicide exposure (such as atrazine) on human cell lines and aquatic micro-organisms.",
+    "summary": "Dr. Dhanwada investigates molecular toxicology, examining the biochemical mechanisms of agricultural herbicide exposure (such as atrazine) on human cell lines and aquatic micro-organisms.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4663,
+    "name": "Dr. Peter Burns",
+    "role": "Henry J. Massman Professor of Civil and Environmental Engineering and Earth Sciences",
+    "title": "Henry J. Massman Professor of Civil and Environmental Engineering and Earth Sciences",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "department": "Department of Chemistry & Materials Science of Actinides Center",
+    "subject": "chemistry",
+    "topics": [
+      "Department of Chemistry & Materials Science of Actinides Center"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nd.edu",
+    "bio": "Dr. Burns is an internationally renowned radiochemist investigating uranium mineralogy, nanoscale actinide peroxide clusters, nuclear waste disposal thermodynamics, and solid-state crystal chemistry.",
+    "summary": "Dr. Burns is an internationally renowned radiochemist investigating uranium mineralogy, nanoscale actinide peroxide clusters, nuclear waste disposal thermodynamics, and solid-state crystal chemistry.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4664,
+    "name": "Dr. Kevin Bowyer",
+    "role": "Schubmehl-Prein Family Professor of Computer Science and Engineering",
+    "title": "Schubmehl-Prein Family Professor of Computer Science and Engineering",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "department": "Department of Computer Science and Engineering",
+    "subject": "computer-science",
+    "topics": [
+      "Department of Computer Science and Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nd.edu",
+    "bio": "Dr. Bowyer is a world leader in biometrics, computer vision, iris recognition accuracy, demographic fairness in facial recognition algorithms, and forensic imaging systems.",
+    "summary": "Dr. Bowyer is a world leader in biometrics, computer vision, iris recognition accuracy, demographic fairness in facial recognition algorithms, and forensic imaging systems.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4665,
+    "name": "Dr. Joshua Shrout",
+    "role": "Associate Professor of Civil and Environmental Engineering and Earth Sciences",
+    "title": "Associate Professor of Civil and Environmental Engineering and Earth Sciences",
+    "university": "University of Notre Dame",
+    "country": "United States",
+    "department": "Department of Biological Sciences & Center for Environmental Science",
+    "subject": "biology",
+    "topics": [
+      "Department of Biological Sciences & Center for Environmental Science"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.nd.edu",
+    "bio": "Dr. Shrout conducts pioneering research in microbial motility, biofilm architecture formation, Pseudomonas aeruginosa social behavior, and microfluidic environmental microbiology.",
+    "summary": "Dr. Shrout conducts pioneering research in microbial motility, biofilm architecture formation, Pseudomonas aeruginosa social behavior, and microfluidic environmental microbiology.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4666,
+    "name": "Dr. Matthew Kuhn",
+    "role": "Professor of Civil Engineering",
+    "title": "Professor of Civil Engineering",
+    "university": "University of Portland",
+    "country": "United States",
+    "department": "Donald P. Shiley School of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Donald P. Shiley School of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.up.edu",
+    "bio": "Dr. Kuhn conducts foundational research in granular mechanics, discrete element modeling of soil behavior, earthquake liquefaction mechanics, and microstructural deformations in sands.",
+    "summary": "Dr. Kuhn conducts foundational research in granular mechanics, discrete element modeling of soil behavior, earthquake liquefaction mechanics, and microstructural deformations in sands.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4667,
+    "name": "Dr. Tara Prestholdt",
+    "role": "Professor of Biology",
+    "title": "Professor of Biology",
+    "university": "University of Portland",
+    "country": "United States",
+    "department": "Department of Biology",
+    "subject": "biology",
+    "topics": [
+      "Department of Biology"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.up.edu",
+    "bio": "Dr. Prestholdt investigates avian behavioral ecology, songbird communication mechanisms, urban bird habitat adaptation, and undergraduate biology laboratory education.",
+    "summary": "Dr. Prestholdt investigates avian behavioral ecology, songbird communication mechanisms, urban bird habitat adaptation, and undergraduate biology laboratory education.",
+    "reviewed": "2026-10-16"
+  },
+  {
+    "id": 4668,
+    "name": "Dr. Mojtaba Takallou",
+    "role": "Professor of Civil Engineering",
+    "title": "Professor of Civil Engineering",
+    "university": "University of Portland",
+    "country": "United States",
+    "department": "Donald P. Shiley School of Engineering",
+    "subject": "engineering",
+    "topics": [
+      "Donald P. Shiley School of Engineering"
+    ],
+    "recruiting": "Not verified",
+    "source": "https://www.up.edu",
+    "bio": "Dr. Takallou specializes in transportation safety engineering, roundabouts design optimization, asphalt pavement materials recycling, and highway capacity analysis.",
+    "summary": "Dr. Takallou specializes in transportation safety engineering, roundabouts design optimization, asphalt pavement materials recycling, and highway capacity analysis.",
     "reviewed": "2026-10-16"
   }
 ];

@@ -12,15 +12,15 @@
     "netherlands",
     "switzerland"
   ],
-  "cycle": 85,
+  "cycle": 86,
   "completedInCycle": [
     "usa"
   ],
   "nextCountry": "usa",
   "lastPublished": {
     "country": "usa",
-    "university": "University of Maine at Machias",
-    "sourceRow": 1097
+    "university": "University of Portland",
+    "sourceRow": 1149
   },
   "skipExhausted": true,
   "publishedInCountry": {
@@ -28,7 +28,7 @@
     "australia": 57,
     "germany": 213,
     "italy": 114,
-    "usa": 485,
+    "usa": 515,
     "uk": 100,
     "japan": 180,
     "sweden": 56,
