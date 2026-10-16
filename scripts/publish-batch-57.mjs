@@ -12,7 +12,7 @@ const write = (p, content) => {
   writeFileSync(full, content, 'utf8');
 };
 
-const domain = 'https://universityproject-chi.vercel.app';
+const domain = 'https://openstemfield.org';
 const slug = s => String(s).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 const today = '2026-10-16';
 

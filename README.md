@@ -19,7 +19,7 @@ Node.js 20+, `npm start`, then open http://localhost:4173. No NPM installation i
 - Student contact: shahriyarkarimsiam@gmail.com. Optional mentorship is not live for payments.
 
 ## SEO
-Submit `https://universityproject-chi.vercel.app/sitemap.xml` to Search Console once the site's ownership is verified. Sitemaps and metadata **do not guarantee indexing, rankings or AdSense approval**. Improve original quality, accurate funding information and editorial review before scaling.
+Submit `https://openstemfield.org/sitemap.xml` to Search Console once the site's ownership is verified. Sitemaps and metadata **do not guarantee indexing, rankings or AdSense approval**. Improve original quality, accurate funding information and editorial review before scaling.
 
 ## Country directory and round-robin review
 - Browse `/universities/` and ten `/countries/{id}/` pages; source-reviewed Canada institutions have detailed profiles. The screening list of 1,646 candidate names is preliminary, not a source of funding claims.

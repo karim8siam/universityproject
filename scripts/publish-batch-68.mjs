@@ -23,7 +23,7 @@ function write(rel, content) {
   writeFileSync(p, content, 'utf8');
 }
 
-const domain = "https://universityproject-chi.vercel.app";
+const domain = "https://openstemfield.org";
 const today = "2026-10-16";
 
 export async function publishBatch68() {

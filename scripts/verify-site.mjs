@@ -5,7 +5,7 @@ import {opportunities,researchers,subjects} from '../data.js';
 const root=dirname(dirname(fileURLToPath(import.meta.url)));
 const read=p=>readFileSync(join(root,p),'utf8');
 const assert=(yes,msg)=>{if(!yes)throw Error(msg)};
-const domain='https://universityproject-chi.vercel.app';
+const domain='https://openstemfield.org';
 const slug=s=>String(s).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
 const date=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Dhaka',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const oppPath=o=>'/opportunities/'+o.id+'-'+slug(o.title)+'/';

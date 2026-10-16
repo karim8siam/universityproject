@@ -97,7 +97,7 @@ for (const res of allRes) {
 
 // Check existing sitemap collision
 for (const u of batch61Universities) {
-  const uniUrl = `https://universityproject-chi.vercel.app/universities/${u.slug}/`;
+  const uniUrl = `https://openstemfield.org/universities/${u.slug}/`;
   if (sitemapContent.includes(uniUrl)) {
     errors.push(`Collision with existing sitemap: ${uniUrl}`);
   }

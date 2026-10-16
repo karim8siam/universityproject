@@ -17,7 +17,7 @@ for(const o of expired){
   next=next.replace(/<div class="date" data-application-deadline="[^"]+">[^<]*<\/div>/g,'<div class="date">This application cycle closed on '+o.deadline+'. Please consult the university for the next cycle.</div>');
   return next;
  });
- const u='https://universityproject-chi.vercel.app'+route;
+ const u='https://openstemfield.org'+route;
  edits+=update('sitemap.xml',xml=>xml.replace(new RegExp('\\s*<url>\\s*<loc>'+u.replace(/[.*+?^$\{\}()|[\]\\]/g,'\\$&')+'<\\/loc>[\\s\\S]*?<\\/url>\\n?','g'),''));
 }
 const universityPages=existsSync(join(root,'universities'))?readdirSync(join(root,'universities'),{withFileTypes:true}).filter(item=>item.isDirectory()&&existsSync(join(root,'universities',item.name,'index.html'))).map(item=>'universities/'+item.name+'/index.html'):[];
@@ -34,7 +34,7 @@ for(const item of datedScholarshipPages){
  if(item.deadline>=today)continue;
  const file=item.route.slice(1)+'index.html';
  edits+=update(file,html=>html.includes('name="robots" content="noindex')?html:html.replace('<head>','<head><meta name="robots" content="noindex,follow">').replace('<section class="hero">','<section class="hero"><p class="source-note">This scholarship round has closed. Check the university for future rounds.</p>'));
- const loc='https://universityproject-chi.vercel.app'+item.route;
+ const loc='https://openstemfield.org'+item.route;
  edits+=update('sitemap.xml',xml=>xml.split('\n').filter(line=>!line.includes('<loc>'+loc+'</loc>')).join('\n'));
 }
 console.log('Deadline maintenance: '+expired.length+' expired records, '+edits+' files updated.');
