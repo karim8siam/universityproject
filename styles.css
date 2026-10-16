@@ -95,3 +95,51 @@
 @media(max-width:960px){.mentorship-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.form-grid{grid-template-columns:1fr}}
 @media(max-width:640px){.mentorship-grid{grid-template-columns:1fr}.mentorship-callout{padding:20px}.mentorship-form-wrap{padding:22px}}
 
+/* Comprehensive Mobile Responsiveness for all phones & tablets */
+html,body{overflow-x:hidden;max-width:100vw}
+img,svg{max-width:100%;height:auto}
+@media(max-width:768px){
+  .university-partner-callout,.faculty-partner-callout{padding:22px 18px!important;border-radius:6px!important}
+  .university-partner-callout h3,.faculty-partner-callout h3{font-size:20px!important}
+  .university-partner-callout p,.faculty-partner-callout p{font-size:13px!important}
+  .university-partner-callout .button,.faculty-partner-callout .button{width:100%;justify-content:center;text-align:center;font-size:12px!important}
+  .mentorship-callout-actions{width:100%;flex-direction:column}
+  .mentorship-callout-actions .button{width:100%;justify-content:center;text-align:center}
+  .form-actions-bar .button{width:100%;justify-content:center}
+  .form-actions-bar .form-note{max-width:100%}
+  .mentorship-submitted-card div[style*="display:flex"]{flex-direction:column;align-items:stretch!important}
+  .mentorship-submitted-card div[style*="display:flex"] .button{width:100%;justify-content:center}
+  .mentorship-receipt{padding:14px 16px;font-size:12px;word-break:break-word}
+  .footer-community div[style*="display:flex"]{flex-direction:column}
+  .footer-community div[style*="display:flex"] .button{width:100%;justify-content:center}
+}
+@media(max-width:480px){
+  .header{height:64px;padding:0 14px;gap:8px}
+  .brand{gap:7px}
+  .brand-logo{width:32px;height:28px}
+  .brand-name{font-size:clamp(18px,5.2vw,22px);letter-spacing:-0.04em}
+  .nav-cta.consultancy-cta{padding:6px 8px;font-size:10.5px;letter-spacing:-0.01em}
+  .nav-cta.consultancy-cta span{margin-left:4px}
+  .menu-button{font-size:22px;padding:4px}
+  .hero-copy{padding:45px 14px 35px;min-height:auto}
+  .hero-actions .button{width:100%}
+  .page-intro{padding-top:35px;padding-bottom:25px}
+  .page-intro h1{font-size:clamp(2.3rem,8.5vw,3.2rem)!important}
+  .mentorship-card{padding:20px 16px}
+  .mentorship-card .button{width:100%;justify-content:center}
+  .mentorship-form-wrap{padding:18px 14px}
+  .paper{padding:22px 16px}
+  .listing{padding:18px 16px}
+  .listing h3{font-size:20px}
+  .filters{padding:14px}
+  .category-tabs button{font-size:11px;padding:7px 11px}
+  .foot-row{font-size:11px}
+  .foot-row div[style*="display:flex"]{gap:10px!important}
+}
+@media(max-width:360px){
+  .header{padding:0 10px;gap:6px}
+  .brand-name{font-size:17px}
+  .nav-cta.consultancy-cta{padding:5px 6px;font-size:9.5px}
+  .wrap{width:calc(100% - 24px)}
+}
+
