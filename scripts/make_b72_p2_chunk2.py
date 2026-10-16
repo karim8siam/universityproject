@@ -1,0 +1,1316 @@
+# scripts/make_b72_p2_chunk2.py
+# Universities 24 to 30 of Batch 72
+# Opps: 10725 to 10766 (42 opps)
+# Res: 4918 to 4938 (21 res)
+
+import json
+
+unis = [
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of South Carolina Beaufort",
+        "shortName": "USCB",
+        "slug": "university-of-south-carolina-beaufort",
+        "location": "Bluffton, South Carolina, United States",
+        "website": "https://www.uscb.edu",
+        "sourceRow": 1157,
+        "stats": {
+            "established": "1959",
+            "students": "2,100+",
+            "international": "4%",
+            "faculty": "160+"
+        },
+        "hero": {
+            "tagline": "Bluffton & Beaufort · Premier Coastal Sea Islands Higher Education",
+            "desc": "The University of South Carolina Beaufort (USCB) is a senior comprehensive public university in the Lowcountry region of South Carolina, with campuses in Bluffton, Beaufort, and Hilton Head Island. USCB is nationally recognized for marine ecology in the Port Royal Sound estuary, nursing, computational science, and hospitality management."
+        },
+        "admissions": {
+            "general": "High school diploma with completed South Carolina college preparatory curriculum. Test-optional admission for students with 3.0+ cumulative GPA.",
+            "language": "TOEFL iBT 77+ or IELTS 6.0+ for international applicants without prior English-medium instruction.",
+            "deadlines": "Fall priority admission February 1, 2027; Regular fall deadline July 1, 2027; Spring deadline December 1, 2026."
+        },
+        "financial": {
+            "summary": "South Carolina Palmetto Fellows ($6,700 - $7,500/year), LIFE Scholarships ($5,000/year), and Lowcountry Out-of-State Tuition Waiver discounts.",
+            "tuition": "$10,344 - $21,390/year (South Carolina resident vs Non-resident undergraduate rate)"
+        },
+        "opportunities": [
+            {
+                "id": 10725,
+                "title": "Bachelor of Science in Biology - Marine Biology & Coastal Estuarine Ecology",
+                "type": "Degree",
+                "subject": "biology",
+                "subjects": ["biology", "environment"],
+                "desc": "Fieldwork-intensive major leveraging the pristine high-salinity Port Royal Sound estuary, examining salt marsh trophic dynamics, shark nursery ecology, and marine invertebrates.",
+                "funding": "Port Royal Sound Foundation Marine Research Fellowship: $3,500/year scholarship with coastal research lab placement",
+                "tuition": "$10,344/year (Resident rate)",
+                "fee": "$40",
+                "deadline": "2027-03-01",
+                "deadlineText": "March 1, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/natural_sciences/biology/marine-biology.html",
+                "requirements": {
+                    "gpa": "2.75+ cumulative high school GPA with biology and chemistry",
+                    "ielts": "IELTS 6.0 or TOEFL 77",
+                    "gre": "Not required",
+                    "papers": "Official high school transcripts, statement of marine science goals",
+                    "references": "Two recommendations (one science instructor)"
+                }
+            },
+            {
+                "id": 10726,
+                "title": "Bachelor of Science in Computational Science - Data Analytics and Modeling",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "mathematics"],
+                "desc": "Interdisciplinary computing program synthesizing numerical simulation, high-performance computing, mathematical modeling, and big data visualization.",
+                "funding": "USCB Computational Innovation Award: $3,000/year renewable four-year STEM grant",
+                "tuition": "$10,344/year",
+                "fee": "$40",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/computer_science/computational-science.html",
+                "requirements": {
+                    "gpa": "3.0+ GPA with strong preparation in algebra and precalculus",
+                    "ielts": "IELTS 6.0 or TOEFL 77",
+                    "gre": "Not required",
+                    "papers": "Transcripts, brief essay on computational interests",
+                    "references": "One math teacher recommendation"
+                }
+            },
+            {
+                "id": 10727,
+                "title": "Bachelor of Science in Nursing (BSN Pre-Licensure)",
+                "type": "Degree",
+                "subject": "biology",
+                "subjects": ["biology", "social-sciences"],
+                "desc": "CCNE-accredited healthcare degree delivering high-fidelity clinical simulation and patient rotations at Beaufort Memorial Hospital and Hilton Head Regional Healthcare.",
+                "funding": "Lowcountry Healthcare Partners Nurse Grant: $5,000/year award with regional hospital employment",
+                "tuition": "$10,800/year",
+                "fee": "$50",
+                "deadline": "2027-02-01",
+                "deadlineText": "February 1, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/nursing/",
+                "requirements": {
+                    "gpa": "3.0+ collegiate prerequisite GPA (anatomy, physiology, microbiology, chemistry)",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "TEAS examination score 70%+",
+                    "papers": "Nursing application, transcripts, criminal background check",
+                    "references": "Two academic or healthcare references"
+                }
+            },
+            {
+                "id": 10728,
+                "title": "Bachelor of Science in Hospitality Management - Resort & Tourism Analytics",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "Located on Hilton Head Island, one of America's premier resort destinations, providing real-world executive hotel, event design, and luxury tourism management experiences.",
+                "funding": "Hilton Head Island Hospitality Leadership Fellowship: $4,000/year award plus paid resort residency",
+                "tuition": "$10,344/year",
+                "fee": "$40",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/hospitality_management/",
+                "requirements": {
+                    "gpa": "2.5+ GPA or secondary school diploma",
+                    "ielts": "IELTS 6.0 or TOEFL 77",
+                    "gre": "Not required",
+                    "papers": "Transcripts, personal statement",
+                    "references": "Not required"
+                }
+            },
+            {
+                "id": 10729,
+                "title": "Bachelor of Science in Cybersecurity - Defensive Operations & Network Forensics",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "engineering"],
+                "desc": "Addresses threat intelligence, penetration testing, firewall systems, and digital forensics aligned with DoD defense installations in Beaufort and Parris Island.",
+                "funding": "Palmetto Cyber Defense Scholarship: $3,000/year scholarship",
+                "tuition": "$10,344/year",
+                "fee": "$40",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/computer_science/cybersecurity.html",
+                "requirements": {
+                    "gpa": "2.5+ GPA with mathematics readiness",
+                    "ielts": "IELTS 6.0 or TOEFL 77",
+                    "gre": "Not required",
+                    "papers": "Transcripts, statement of intent",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10730,
+                "title": "Master of Science in Computational Science (MS-CS)",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "mathematics"],
+                "desc": "Advanced research degree exploring parallel computing architectures, biomedical data algorithms, machine learning models, and computational fluid mechanics.",
+                "funding": "Graduate Computational Research Assistantship: $12,000/year stipend plus 50% tuition reduction",
+                "tuition": "$9,800/year (In-state graduate rate)",
+                "fee": "$50",
+                "deadline": "2027-05-15",
+                "deadlineText": "May 15, 2027",
+                "source": "https://www.uscb.edu/academics/academic_departments/computer_science/ms_computational_science.html",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA in computer science, mathematics, or physical sciences",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "GRE optional with 3.0+ GPA",
+                    "papers": "Transcripts, research goal statement, technical CV",
+                    "references": "Two letters from faculty"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4918,
+                "name": "Dr. Eric Montie",
+                "role": "Professor of Biology and Director of the Lowcountry Dolphin and Soundscape Lab",
+                "department": "Department of Natural Sciences",
+                "subject": "biology",
+                "bio": "Marine bioacoustician studying estuarine soundscapes, marine mammal communication, and toxicological impacts of environmental contaminants on bottlenose dolphins.",
+                "source": "https://www.uscb.edu/directory/eric-montie.html"
+            },
+            {
+                "id": 4919,
+                "name": "Dr. Yiming Ji",
+                "role": "Professor and Department Chair of Computer Science and Computational Science",
+                "department": "Department of Computer Science",
+                "subject": "computer-science",
+                "bio": "Investigates wireless sensor networks, high-performance distributed computing algorithms, and biomedical image processing pipelines.",
+                "source": "https://www.uscb.edu/directory/yiming-ji.html"
+            },
+            {
+                "id": 4920,
+                "name": "Dr. Kim Dudas",
+                "role": "Associate Professor and Assistant Dean of Nursing",
+                "department": "Department of Nursing",
+                "subject": "biology",
+                "bio": "Specializes in clinical nursing pedagogy, simulation-based interprofessional education, and healthcare workforce resilience in coastal rural communities.",
+                "source": "https://www.uscb.edu/directory/kim-dudas.html"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of St. Thomas - Minneapolis",
+        "shortName": "St. Thomas Minneapolis",
+        "slug": "university-of-st-thomas-minneapolis",
+        "location": "Minneapolis, Minnesota, United States",
+        "website": "https://www.stthomas.edu",
+        "sourceRow": 1161,
+        "stats": {
+            "established": "1885",
+            "students": "9,800+",
+            "international": "9%",
+            "faculty": "740+"
+        },
+        "hero": {
+            "tagline": "Downtown Minneapolis · Premier Law, Business, Education & Social Innovation",
+            "desc": "The University of St. Thomas Minneapolis Campus occupies a vibrant downtown footprint featuring the St. Thomas School of Law, the Opus College of Business, and the Morrison Family College of Health. St. Thomas integrates professional clinical education, ethical leadership, and close corporate linkages across the Twin Cities Fortune 500 business network."
+        },
+        "admissions": {
+            "general": "Conferred bachelor's degree from an accredited institution with competitive GPA and program-specific admissions prerequisites (LSAT for Law, GRE/GMAT for business).",
+            "language": "TOEFL iBT 80+ or IELTS 6.5+ for international candidates without prior English-medium degrees.",
+            "deadlines": "Law (J.D.) priority deadline March 15, 2027; Graduate business and education rounds February 1, 2027 and May 1, 2027."
+        },
+        "financial": {
+            "summary": "Dean's Law Merit Fellowships ($15,000 to full tuition), Opus Business Leadership Grants, and Minneapolis Community Health Fellowships.",
+            "tuition": "$22,500 - $48,200/year (depending on graduate business vs School of Law tuition)"
+        },
+        "opportunities": [
+            {
+                "id": 10731,
+                "title": "Juris Doctor (J.D.) - St. Thomas School of Law",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "ABA-accredited law degree nationally ranked for practical training, delivering 11 in-house clinical legal programs, judicial externships, and moral leadership in law.",
+                "funding": "St. Thomas Law Dean's Fellowship: Up to 100% full tuition scholarship based on LSAT and academic merit",
+                "tuition": "$48,200/year (Average scholarship covers 65% of tuition)",
+                "fee": "$60",
+                "deadline": "2027-03-15",
+                "deadlineText": "March 15, 2027",
+                "source": "https://www.stthomas.edu/law/academics/jd/",
+                "requirements": {
+                    "gpa": "3.4+ undergraduate GPA, competitive LSAT score (typically 155+)",
+                    "ielts": "IELTS 7.5 or TOEFL 100",
+                    "gre": "LSAT or GRE accepted",
+                    "papers": "LSAC Credential Assembly Service (CAS) report, personal essay, resume",
+                    "references": "Two letters of recommendation (academic preferred)"
+                }
+            },
+            {
+                "id": 10732,
+                "title": "Full-Time and Executive MBA - Opus College of Business",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "computer-science"],
+                "desc": "AACSB-accredited MBA in downtown Minneapolis focusing on ethical corporate strategy, healthcare management, digital business transformation, and venture capital financing.",
+                "funding": "Opus Business Scholar Fellowship: Up to $20,000/year merit scholarship",
+                "tuition": "$32,400/year",
+                "fee": "$60",
+                "deadline": "2027-04-01",
+                "deadlineText": "April 1, 2027",
+                "source": "https://www.stthomas.edu/business/degrees/mba/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA with 2+ years professional experience",
+                    "ielts": "IELTS 7.0 or TOEFL 90",
+                    "gre": "GMAT/GRE test-optional",
+                    "papers": "Professional resume, two executive career essays, transcripts",
+                    "references": "Two professional references"
+                }
+            },
+            {
+                "id": 10733,
+                "title": "Master of Science in Business Analytics (MSBA) - Opus College of Business",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "social-sciences"],
+                "desc": "STEM-designated graduate degree addressing machine learning algorithms, database querying (SQL/NoSQL), predictive customer analytics, and data governance.",
+                "funding": "Analytics Leadership Grant: $8,000 merit award for quantitative leaders",
+                "tuition": "$28,500/year",
+                "fee": "$60",
+                "deadline": "2027-05-01",
+                "deadlineText": "May 1, 2027",
+                "source": "https://www.stthomas.edu/business/degrees/msba/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA with mathematics or statistics background",
+                    "ielts": "IELTS 7.0 or TOEFL 90",
+                    "gre": "Not required",
+                    "papers": "Transcripts, technical resume, statement of purpose",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10734,
+                "title": "Doctor of Psychology in Counseling Psychology (Psy.D.)",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "biology"],
+                "desc": "APA-accredited practitioner-scholar doctorate training health service psychologists in psychodiagnostics, systemic psychotherapy, and integrated behavioral medicine.",
+                "funding": "Interprofessional Clinical Psychology Fellowship: $10,000/year stipend with clinic practicum placement",
+                "tuition": "$26,400/year",
+                "fee": "$60",
+                "deadline": "2027-01-15",
+                "deadlineText": "January 15, 2027",
+                "source": "https://www.stthomas.edu/health/degrees/psyd/",
+                "requirements": {
+                    "gpa": "3.2+ master's or undergraduate GPA in psychology or behavioral science",
+                    "ielts": "IELTS 7.5 or TOEFL 100",
+                    "gre": "GRE optional; admissions faculty interview required",
+                    "papers": "Personal clinical philosophy statement, CV, official transcripts",
+                    "references": "Three clinical/academic references"
+                }
+            },
+            {
+                "id": 10735,
+                "title": "Master of Science in Health Care Innovation - Morrison Family College of Health",
+                "type": "Degree",
+                "subject": "biology",
+                "subjects": ["biology", "social-sciences"],
+                "desc": "Interdisciplinary program examining medical device design pipelines, clinical trial regulation, patient safety informatics, and health equity delivery.",
+                "funding": "Twin Cities Health Tech Fellowship: $6,000 tuition grant",
+                "tuition": "$24,000/year",
+                "fee": "$60",
+                "deadline": "2027-06-01",
+                "deadlineText": "June 1, 2027",
+                "source": "https://www.stthomas.edu/health/degrees/ms-healthcare-innovation/",
+                "requirements": {
+                    "gpa": "2.8+ undergraduate GPA in health sciences, biology, or business",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "Not required",
+                    "papers": "Transcripts, resume, personal statement",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10736,
+                "title": "Master of Social Work (MSW) - Clinical Practice with Immigrants and Refugees",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "CSWE-accredited degree preparing clinical social workers through trauma treatment, culturally responsive mental health counseling, and Twin Cities non-profit field practicums.",
+                "funding": "Social Justice Clinical Scholars Grant: $5,000/year tuition reduction",
+                "tuition": "$22,500/year",
+                "fee": "$60",
+                "deadline": "2027-03-01",
+                "deadlineText": "March 1, 2027",
+                "source": "https://www.stthomas.edu/social-work/msw/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA with liberal arts foundation",
+                    "ielts": "IELTS 7.0 or TOEFL 90",
+                    "gre": "Not required",
+                    "papers": "Narrative essay on social justice principles, CV, transcripts",
+                    "references": "Three letters of recommendation"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4921,
+                "name": "Dr. Robert Vischer",
+                "role": "President of the University of St. Thomas and Professor of Law",
+                "department": "Office of the President & School of Law",
+                "subject": "social-sciences",
+                "bio": "Distinguished legal theorist and author researching legal ethics, religious liberty, conscience protections in professional life, and corporate moral responsibility.",
+                "source": "https://www.stthomas.edu/law/faculty/robert-vischer.html"
+            },
+            {
+                "id": 4922,
+                "name": "Dr. Laura Dunham",
+                "role": "Dean of the Opus College of Business and Professor of Entrepreneurship",
+                "department": "Opus College of Business",
+                "subject": "social-sciences",
+                "bio": "Investigates entrepreneurial decision-making under uncertainty, technology commercialization in health tech startups, and business model innovation.",
+                "source": "https://www.stthomas.edu/business/faculty/laura-dunham.html"
+            },
+            {
+                "id": 4923,
+                "name": "Dr. Christopher Michaelson",
+                "role": "Professor of Ethics and Business Law",
+                "department": "Department of Ethics and Business Law",
+                "subject": "social-sciences",
+                "bio": "Expert in corporate philosophy of work, business ethics in financial crises, and meaningful work metrics in organizational psychology.",
+                "source": "https://www.stthomas.edu/business/faculty/christopher-michaelson.html"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of Tennessee Space Institute",
+        "shortName": "UTSI",
+        "slug": "university-of-tennessee-space-institute",
+        "location": "Tullahoma, Tennessee, United States",
+        "website": "https://www.utsi.edu",
+        "sourceRow": 1165,
+        "stats": {
+            "established": "1964",
+            "students": "250+",
+            "international": "22%",
+            "faculty": "40+"
+        },
+        "hero": {
+            "tagline": "Tullahoma · World Leader in Hypersonics, Aerospace Propulsion & Defense Testing",
+            "desc": "The University of Tennessee Space Institute (UTSI) is an internationally recognized graduate research institute situated on 365 lakeside acres adjacent to the U.S. Air Force Arnold Engineering Development Complex (AEDC) in Tullahoma, TN. Founded in 1964, UTSI has produced nine NASA astronauts and leads cutting-edge research in hypersonic aerodynamics, optical diagnostics, scramjet combustion, and space systems."
+        },
+        "admissions": {
+            "general": "Conferred bachelor's degree in engineering, physics, mathematics, or aerospace sciences from an accredited institution with 3.0+ cumulative GPA.",
+            "language": "TOEFL iBT 80+ or IELTS 6.5+ for international candidates without prior English-medium degrees.",
+            "deadlines": "Fall priority funding deadline February 1, 2027; Regular fall deadline May 15, 2027; Spring deadline October 1, 2026."
+        },
+        "financial": {
+            "summary": "UTSI Graduate Research Assistantships (GRA) providing 100% full tuition waiver, comprehensive health insurance, and $28,000 to $34,000/year living stipends funded by NASA, DoD, and AFOSR.",
+            "tuition": "$0 - $13,400/year (100% covered for fully supported graduate research fellows)"
+        },
+        "opportunities": [
+            {
+                "id": 10737,
+                "title": "Ph.D. in Aerospace Engineering - Hypersonic Aerodynamics & Aerothermodynamics",
+                "type": "Fellowship",
+                "subject": "engineering",
+                "subjects": ["engineering", "physics"],
+                "desc": "Doctoral research program investigating high-enthalpy shock tunnel flows, boundary layer transition at Mach 5+, plasma aerodynamics, and thermal protection materials.",
+                "funding": "UTSI Hypersonics Doctoral Fellowship: $32,000/year living stipend plus 100% full tuition waiver and health insurance",
+                "tuition": "$0 (Fully funded doctoral fellowship)",
+                "fee": "$60",
+                "deadline": "2027-02-01",
+                "deadlineText": "February 1, 2027",
+                "source": "https://www.utsi.edu/academics/aerospace-engineering/",
+                "requirements": {
+                    "gpa": "3.5+ GPA in master's or bachelor's degree in aerospace, mechanical engineering, or physics",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "GRE quantitative score 160+ recommended",
+                    "papers": "Statement of research interests, technical writing sample, curriculum vitae",
+                    "references": "Three letters of academic/research recommendation"
+                }
+            },
+            {
+                "id": 10738,
+                "title": "Ph.D. in Mechanical Engineering - Advanced Optical Diagnostics & Laser Spectroscopy",
+                "type": "Fellowship",
+                "subject": "physics",
+                "subjects": ["physics", "engineering"],
+                "desc": "Research investigating femtosecond laser-induced breakdown spectroscopy (LIBS), particle image velocimetry (PIV), and non-intrusive combustion diagnostics in extreme environments.",
+                "funding": "Center for Laser Applications (CLA) Graduate Fellowship: $30,000/year stipend and full tuition waiver",
+                "tuition": "$0 (Fully funded fellowship)",
+                "fee": "$60",
+                "deadline": "2027-02-01",
+                "deadlineText": "February 1, 2027",
+                "source": "https://www.utsi.edu/academics/center-for-laser-applications/",
+                "requirements": {
+                    "gpa": "3.3+ undergraduate GPA in physics, optics, or mechanical engineering",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "GRE quantitative 158+",
+                    "papers": "Research statement (2 pages), CV, official collegiate transcripts",
+                    "references": "Three letters from academic researchers"
+                }
+            },
+            {
+                "id": 10739,
+                "title": "Master of Science in Aerospace Engineering - Space Propulsion & Scramjets",
+                "type": "Degree",
+                "subject": "engineering",
+                "subjects": ["engineering", "physics"],
+                "desc": "Graduate program examining supersonic combustion ramjets, solid and liquid rocket propulsion, high-temperature gas dynamics, and computational fluid dynamics (CFD).",
+                "funding": "AEDC Collaborative Engineering Traineeship: $28,000/year stipend plus full tuition offset",
+                "tuition": "$0 - $13,400/year",
+                "fee": "$60",
+                "deadline": "2027-04-15",
+                "deadlineText": "April 15, 2027",
+                "source": "https://www.utsi.edu/academics/ms-aerospace/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA in aerospace, mechanical, or chemical engineering",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "GRE optional with 3.2+ GPA",
+                    "papers": "Transcripts, statement of aerospace interest, professional resume",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10740,
+                "title": "Master of Science in Aviation Systems - Flight Test Engineering Focus",
+                "type": "Degree",
+                "subject": "engineering",
+                "subjects": ["engineering", "computer-science"],
+                "desc": "Elite curriculum tailored for civilian and military flight test pilots and flight test engineers, covering aircraft performance flight mechanics, avionics integration, and flight safety.",
+                "funding": "Aviation Systems Industry Grant: $4,500 tuition reduction",
+                "tuition": "$13,400/year",
+                "fee": "$60",
+                "deadline": "2027-05-01",
+                "deadlineText": "May 1, 2027",
+                "source": "https://www.utsi.edu/academics/aviation-systems/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA in engineering, aeronautics, or physical sciences",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "Not required for practicing flight test personnel",
+                    "papers": "Flight log summary, engineering resume, transcripts",
+                    "references": "Two professional/flight test recommendations"
+                }
+            },
+            {
+                "id": 10741,
+                "title": "Master of Science in Industrial and Systems Engineering - Defense Engineering Management",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "engineering"],
+                "desc": "Offered in collaboration with AEDC defense infrastructure, exploring complex aerospace systems architecture, reliability modeling, supply risk, and defense acquisition.",
+                "funding": "Defense Systems Fellowship: $3,500 tuition voucher",
+                "tuition": "$13,400/year",
+                "fee": "$60",
+                "deadline": "2027-06-01",
+                "deadlineText": "June 1, 2027",
+                "source": "https://www.utsi.edu/academics/industrial-systems/",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate GPA in engineering or quantitative sciences",
+                    "ielts": "IELTS 6.5 or TOEFL 80",
+                    "gre": "Not required",
+                    "papers": "Transcripts, statement of career goals, CV",
+                    "references": "Two professional references"
+                }
+            },
+            {
+                "id": 10742,
+                "title": "Postdoctoral Research Associate in Hypersonic Materials & High-Temperature Optics",
+                "type": "Fellowship",
+                "subject": "engineering",
+                "subjects": ["engineering", "chemistry"],
+                "desc": "Two-year salaried postdoctoral research position developing ultra-high temperature ceramics (UHTCs) and laser diagnostics for atmospheric reentry and hypersonic flight.",
+                "funding": "$64,000/year salaried fellowship with comprehensive health insurance and conference travel budget",
+                "tuition": "$0 (Fully salaried postdoctoral appointment)",
+                "fee": "$0",
+                "deadline": "2027-03-01",
+                "deadlineText": "March 1, 2027",
+                "source": "https://www.utsi.edu/research/hypersonics-postdoc/",
+                "requirements": {
+                    "gpa": "Ph.D. in aerospace engineering, mechanical engineering, materials science, or physics",
+                    "ielts": "IELTS 7.0 or TOEFL 90",
+                    "gre": "Not required",
+                    "papers": "Curriculum vitae with publication list, 3 sample peer-reviewed papers, research proposal",
+                    "references": "Three letters from leading international researchers"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4924,
+                "name": "Dr. John Schmisseur",
+                "role": "Professor of Aerospace Engineering and Director of the UT Space Institute",
+                "department": "Department of Mechanical, Aerospace and Biomedical Engineering",
+                "subject": "engineering",
+                "bio": "AIAA Fellow and renowned hypersonics researcher investigating crossflow boundary layer instability, shock-wave boundary-layer interactions, and high-speed wind tunnel testing.",
+                "source": "https://www.utsi.edu/directory/john-schmisseur/"
+            },
+            {
+                "id": 4925,
+                "name": "Dr. Christian Parigger",
+                "role": "Professor of Physics and Laser Diagnostics",
+                "department": "Center for Laser Applications",
+                "subject": "physics",
+                "bio": "Pioneering researcher in optical physics, laser-induced breakdown spectroscopy (LIBS), astrophysical white dwarf laboratory simulation spectra, and plasma physics diagnostics.",
+                "source": "https://www.utsi.edu/directory/christian-parigger/"
+            },
+            {
+                "id": 4926,
+                "name": "Dr. Steve Brooks",
+                "role": "Associate Professor of Mechanical Engineering",
+                "department": "Department of Mechanical, Aerospace and Biomedical Engineering",
+                "subject": "engineering",
+                "bio": "Specializes in aeropropulsion test facility computational design, supersonic combustion dynamics, and high-enthalpy thermal management in rocket propulsion.",
+                "source": "https://www.utsi.edu/directory/steve-brooks/"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of the Cumberlands - Northern Kentucky",
+        "shortName": "Cumberlands Northern KY",
+        "slug": "university-of-the-cumberlands-northern-kentucky",
+        "location": "Florence, Kentucky, United States",
+        "website": "https://www.ucumberlands.edu",
+        "sourceRow": 1168,
+        "stats": {
+            "established": "1888",
+            "students": "19,000+",
+            "international": "28%",
+            "faculty": "820+"
+        },
+        "hero": {
+            "tagline": "Florence & Cincinnati Metro · National Leader in Applied Doctoral & STEM Programs",
+            "desc": "The University of the Cumberlands Northern Kentucky Campus, situated at 410 Meijer Drive in Florence, KY (Cincinnati metropolitan area), is a primary executive center for Cumberlands' graduate STEM and doctoral cohorts. Cumberlands educates thousands of international and domestic graduate scholars through accredited doctoral and master's degrees in information technology, data science, cybersecurity, and clinical psychology."
+        },
+        "admissions": {
+            "general": "Conferred master's degree from an accredited institution with 3.0+ GPA for doctoral entry; conferred bachelor's degree for graduate master's programs. Executive hybrid residency options available.",
+            "language": "TOEFL iBT 79+ or IELTS 6.5+ for international candidates.",
+            "deadlines": "Bi-monthly executive graduate terms: Fall I August 15, 2027; Fall II October 15, 2026; Spring I January 5, 2027."
+        },
+        "financial": {
+            "summary": "Nationally recognized tuition reduction pledge making doctoral degrees among the most affordable in America ($400 - $500 per graduate credit hour); corporate tuition match.",
+            "tuition": "$6,900 - $9,800/year (Ultra-accessible graduate tuition pledge)"
+        },
+        "opportunities": [
+            {
+                "id": 10743,
+                "title": "Ph.D. in Information Technology - Big Data & Enterprise Architecture",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "engineering"],
+                "desc": "Elite executive doctoral program combining weekend residencies in Florence, KY with advanced research in distributed databases, artificial intelligence governance, and cloud virtualization.",
+                "funding": "Cumberlands Doctoral STEM Excellence Grant: $2,500/year tuition reduction",
+                "tuition": "$9,200/year (Doctoral rate)",
+                "fee": "$50",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/phd-information-technology",
+                "requirements": {
+                    "gpa": "3.0+ master's GPA in computer science, information systems, or software engineering",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Doctoral research goal statement (1,000 words), comprehensive CV, transcripts",
+                    "references": "Two professional/academic recommendations"
+                }
+            },
+            {
+                "id": 10744,
+                "title": "Ph.D. in Leadership - Business & Organizational Governance",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "Interdisciplinary doctoral degree preparing corporate C-suite executives, higher education leaders, and non-profit directors in strategic planning, ethical governance, and change management.",
+                "funding": "Executive Leadership Scholar Grant: $2,000/year award",
+                "tuition": "$9,200/year",
+                "fee": "$50",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/phd-leadership",
+                "requirements": {
+                    "gpa": "3.0+ master's GPA with 2+ years leadership or administrative experience",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Statement of leadership philosophy, resume, official transcripts",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10745,
+                "title": "Master of Science in Artificial Intelligence in Business Analytics",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "social-sciences"],
+                "desc": "Executive master's degree training data scientists in neural network deployment, algorithmic predictive marketing, NLP transformers, and ethical AI auditing.",
+                "funding": "Northern Kentucky AI Innovation Award: $1,500 tuition discount",
+                "tuition": "$7,400/year",
+                "fee": "$50",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/ms-artificial-intelligence",
+                "requirements": {
+                    "gpa": "2.75+ undergraduate GPA with programming and statistics foundations",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, professional resume, goal statement",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10746,
+                "title": "Master of Science in Cyber-Engineering & Critical Infrastructure Protection",
+                "type": "Degree",
+                "subject": "engineering",
+                "subjects": ["engineering", "computer-science"],
+                "desc": "Hands-on engineering curriculum examining SCADA systems security, industrial IoT hardware defenses, cryptanalysis, and national defense network resilience.",
+                "funding": "Cumberlands Cyber Defense Fellowship: $2,000 tuition grant",
+                "tuition": "$7,400/year",
+                "fee": "$50",
+                "deadline": "2027-06-15",
+                "deadlineText": "June 15, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/ms-cyber-engineering",
+                "requirements": {
+                    "gpa": "2.75+ undergraduate GPA in engineering, IT, or physics",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, statement of intent",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10747,
+                "title": "Ph.D. in Clinical Psychology (Northern Kentucky Cohort)",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "biology"],
+                "desc": "Scientist-practitioner doctorate preparing licensed clinical psychologists through advanced neurobehavioral assessment, psychopathology, psychodynamic therapy, and 2,000 practicum hours.",
+                "funding": "Behavioral Health Clinical Traineeship: $6,000/year award with regional mental health center placement",
+                "tuition": "$12,400/year",
+                "fee": "$75",
+                "deadline": "2027-01-15",
+                "deadlineText": "January 15, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/phd-clinical-psychology",
+                "requirements": {
+                    "gpa": "3.2+ master's or undergraduate GPA in psychology",
+                    "ielts": "IELTS 7.0 or TOEFL 85",
+                    "gre": "GRE optional; admissions interview required",
+                    "papers": "Statement of clinical objectives, psychological writing sample, transcripts",
+                    "references": "Three academic or clinical references"
+                }
+            },
+            {
+                "id": 10748,
+                "title": "Master of Science in Global Business with Blockchain & FinTech Concentration",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "computer-science"],
+                "desc": "Modern executive finance curriculum examining smart contract development, decentralized finance (DeFi) protocols, algorithmic asset management, and cross-border currency regulations.",
+                "funding": "FinTech Leadership Award: $1,800 tuition reduction",
+                "tuition": "$7,400/year",
+                "fee": "$50",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://www.ucumberlands.edu/academics/graduate/ms-global-business",
+                "requirements": {
+                    "gpa": "2.75+ undergraduate GPA in business, finance, or economics",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, business resume",
+                    "references": "One recommendation"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4927,
+                "name": "Dr. Christopher Leskiw",
+                "role": "Vice President for Academic Affairs and Professor of Political Science",
+                "department": "Office of Academic Affairs",
+                "subject": "social-sciences",
+                "bio": "Specializes in international security politics, quantitative foreign policy models, and democratic institutional durability in emerging global powers.",
+                "source": "https://www.ucumberlands.edu/directory/christopher-leskiw"
+            },
+            {
+                "id": 4928,
+                "name": "Dr. Donald Parrott",
+                "role": "Dean of the School of Computer and Information Sciences",
+                "department": "School of Computer and Information Sciences",
+                "subject": "computer-science",
+                "bio": "Investigates cloud infrastructure vulnerability architectures, machine learning intrusion classification, and international executive IT workforce education paradigms.",
+                "source": "https://www.ucumberlands.edu/directory/donald-parrott"
+            },
+            {
+                "id": 4929,
+                "name": "Dr. Shannon Deaton",
+                "role": "Professor and Program Director of Graduate Psychology",
+                "department": "Department of Psychology",
+                "subject": "social-sciences",
+                "bio": "Clinical psychologist researching trauma recovery pathways among Appalachian children, rural tele-mental health delivery models, and neuropsychological assessment reliability.",
+                "source": "https://www.ucumberlands.edu/directory/shannon-deaton"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of the Potomac",
+        "shortName": "Potomac",
+        "slug": "university-of-the-potomac",
+        "location": "Washington, District of Columbia, United States",
+        "website": "https://potomac.edu",
+        "sourceRow": 1172,
+        "stats": {
+            "established": "1989",
+            "students": "2,800+",
+            "international": "34%",
+            "faculty": "140+"
+        },
+        "hero": {
+            "tagline": "Washington, D.C. · Capital Center for Cybersecurity, Analytics & International Business",
+            "desc": "The University of the Potomac, situated steps from the White House at 1401 H Street NW in downtown Washington, D.C., delivers career-focused degrees accredited by the Middle States Commission on Higher Education (MSCHE). Potomac combines urban experiential learning with international multicultural cohorts across computer science, information technology, business administration, and digital forensics."
+        },
+        "admissions": {
+            "general": "High school diploma or recognized equivalent for undergraduate programs; conferred bachelor's degree from an accredited institution with 2.5+ GPA for graduate master's and doctoral degrees.",
+            "language": "TOEFL iBT 79+ or IELTS 6.0+ for international applicants.",
+            "deadlines": "Rolling admissions with six intake terms per year: Fall I August 15, 2027; Fall II October 15, 2026; Spring I January 10, 2027."
+        },
+        "financial": {
+            "summary": "Potomac Capital Merit Scholarships ($3,000 to $8,000/year), International Student Grants, and military veteran tuition assistance discounts.",
+            "tuition": "$9,600 - $14,400/year (Undergraduate and Graduate baseline tuition rate)"
+        },
+        "opportunities": [
+            {
+                "id": 10749,
+                "title": "Doctor of Computer Science (DCS) - Cybersecurity & Big Data Analytics",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "engineering"],
+                "desc": "Applied practice doctorate training chief information security officers (CISOs) and lead data architects in defensive cloud architecture, AI risk assessment, and federal compliance.",
+                "funding": "Capital Technology Leadership Fellowship: $4,500/year doctoral tuition scholarship",
+                "tuition": "$14,400/year",
+                "fee": "$50",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://potomac.edu/academics/doctor-of-computer-science/",
+                "requirements": {
+                    "gpa": "3.0+ master's GPA in computer science, software engineering, or related discipline",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Dissertation problem statement, comprehensive CV, official transcripts",
+                    "references": "Two professional/academic recommendations"
+                }
+            },
+            {
+                "id": 10750,
+                "title": "Master of Science in Cybersecurity - Incident Response & Threat Intelligence",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "social-sciences"],
+                "desc": "NSA-aligned curriculum in downtown D.C. providing hands-on training in network penetration testing, malware reverse engineering, and federal security compliance (FedRAMP/NIST).",
+                "funding": "D.C. Cyber Innovation Grant: $3,000 tuition discount with industry certification vouchers",
+                "tuition": "$11,200/year",
+                "fee": "$50",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://potomac.edu/academics/ms-cybersecurity/",
+                "requirements": {
+                    "gpa": "2.5+ undergraduate GPA in IT, computer science, or mathematics",
+                    "ielts": "IELTS 6.0 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Official transcripts, statement of cybersecurity goals",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10751,
+                "title": "Master of Science in Data Analytics - Machine Learning & Business Intelligence",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "mathematics"],
+                "desc": "STEM-designated graduate degree addressing statistical predictive modeling, Python data science frameworks, SQL databases, and enterprise data visualization.",
+                "funding": "Potomac Data Scholars Award: $2,500 tuition reduction",
+                "tuition": "$11,200/year",
+                "fee": "$50",
+                "deadline": "2027-06-15",
+                "deadlineText": "June 15, 2027",
+                "source": "https://potomac.edu/academics/ms-data-analytics/",
+                "requirements": {
+                    "gpa": "2.5+ undergraduate GPA",
+                    "ielts": "IELTS 6.0 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, professional CV, personal statement",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10752,
+                "title": "Master of Business Administration (MBA) in International Business Management",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "Capitalizes on Washington's diplomatic and international banking ecosystem, examining cross-border trade law, global supply networks, and corporate financial forecasting.",
+                "funding": "Global Diplomatic Business Grant: $3,000 award for international managers",
+                "tuition": "$11,200/year",
+                "fee": "$50",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://potomac.edu/academics/mba/",
+                "requirements": {
+                    "gpa": "2.5+ undergraduate GPA",
+                    "ielts": "IELTS 6.0 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Executive resume, personal statement of purpose, transcripts",
+                    "references": "Two professional references"
+                }
+            },
+            {
+                "id": 10753,
+                "title": "Bachelor of Science in Information Technology - Network Security Track",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "engineering"],
+                "desc": "Four-year undergraduate program covering Cisco router configurations, Linux administration, database management, and mobile wireless communication networks.",
+                "funding": "Potomac Future Tech Scholarship: $4,000/year four-year renewable award",
+                "tuition": "$9,600/year",
+                "fee": "$50",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://potomac.edu/academics/bs-information-technology/",
+                "requirements": {
+                    "gpa": "2.0+ high school or transfer collegiate GPA",
+                    "ielts": "IELTS 6.0 or TOEFL 70",
+                    "gre": "Not required",
+                    "papers": "High school or college transcripts, application form",
+                    "references": "Not required"
+                }
+            },
+            {
+                "id": 10754,
+                "title": "Bachelor of Science in Government Contract Management",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "mathematics"],
+                "desc": "Specialized curriculum aligned with the Federal Acquisition Regulation (FAR), training contract specialists in federal procurement, competitive bidding, and defense cost accounting.",
+                "funding": "Federal Acquisition Leadership Award: $3,000/year award",
+                "tuition": "$9,600/year",
+                "fee": "$50",
+                "deadline": "2027-07-20",
+                "deadlineText": "July 20, 2027",
+                "source": "https://potomac.edu/academics/bs-government-contracting/",
+                "requirements": {
+                    "gpa": "2.0+ GPA or completed associate degree",
+                    "ielts": "IELTS 6.0 or TOEFL 70",
+                    "gre": "Not required",
+                    "papers": "Transcripts, brief professional career statement",
+                    "references": "One recommendation"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4930,
+                "name": "Dr. Richard C. Bush",
+                "role": "Chief Academic Officer and Professor of Business Strategy",
+                "department": "Office of Academic Affairs",
+                "subject": "social-sciences",
+                "bio": "Expert in multinational corporate acquisitions, higher education accreditation systems, and strategic management in international business enterprises.",
+                "source": "https://potomac.edu/faculty/richard-bush/"
+            },
+            {
+                "id": 4931,
+                "name": "Dr. Sergei Shiriaev",
+                "role": "Professor and Program Chair of Computer Science",
+                "department": "School of Computer Science and Technology",
+                "subject": "computer-science",
+                "bio": "Specializes in algorithmic complexity, artificial intelligence neural network optimization, and cloud-based cryptographic protocols.",
+                "source": "https://potomac.edu/faculty/sergei-shiriaev/"
+            },
+            {
+                "id": 4932,
+                "name": "Dr. Maria Alvarez",
+                "role": "Associate Professor of Cybersecurity and Information Assurance",
+                "department": "Department of Cybersecurity",
+                "subject": "computer-science",
+                "bio": "Investigates cyber warfare doctrine, zero-trust network perimeter defense, and digital forensics evidence integrity in federal litigation.",
+                "source": "https://potomac.edu/faculty/maria-alvarez/"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of the Rockies",
+        "shortName": "Rockies",
+        "slug": "university-of-the-rockies",
+        "location": "Denver, Colorado, United States",
+        "website": "https://www.rockies.edu",
+        "sourceRow": 1173,
+        "stats": {
+            "established": "1998",
+            "students": "2,400+",
+            "international": "6%",
+            "faculty": "120+"
+        },
+        "hero": {
+            "tagline": "Denver · Graduate Institution in Applied Psychology, Executive Coaching & Human Services",
+            "desc": "Founded in Colorado in 1998, the University of the Rockies is an accredited graduate institution dedicated to advanced study in psychology, organizational leadership, behavioral health, and executive coaching. Operating from Denver, CO, Rockies provides scholar-practitioner doctorates and master's degrees tailored for licensed mental health practitioners, corporate consultants, and human service leaders."
+        },
+        "admissions": {
+            "general": "Conferred master's degree with 3.0+ GPA for Doctor of Psychology (Psy.D.) and Ph.D. programs; conferred bachelor's degree with 2.5+ GPA for master's programs.",
+            "language": "TOEFL iBT 79+ or IELTS 6.5+ for international candidates without prior English-instruction degrees.",
+            "deadlines": "Rolling admissions with quarterly terms: Fall October 1, 2026; Winter January 15, 2027; Spring April 1, 2027; Summer July 1, 2027."
+        },
+        "financial": {
+            "summary": "Rockies Scholar Practitioner Fellowships ($3,000 to $6,000/year), Non-Profit Leadership Grants, and Corporate Partner Tuition Reductions.",
+            "tuition": "$13,800 - $18,900/year (Graduate and Doctoral tuition rate)"
+        },
+        "opportunities": [
+            {
+                "id": 10755,
+                "title": "Doctor of Psychology (Psy.D.) in Clinical Psychology - Scholar-Practitioner Track",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "biology"],
+                "desc": "Advanced professional clinical doctorate training psychologists in personality assessment, cognitive-behavioral interventions, trauma treatment, and 1,500 supervised practicum hours.",
+                "funding": "Clinical Scholar Traineeship Award: $5,000/year merit scholarship with clinical agency placement",
+                "tuition": "$18,900/year",
+                "fee": "$50",
+                "deadline": "2027-04-01",
+                "deadlineText": "April 1, 2027",
+                "source": "https://www.rockies.edu/programs/psyd-clinical-psychology",
+                "requirements": {
+                    "gpa": "3.0+ undergraduate or master's GPA in psychology or behavioral science",
+                    "ielts": "IELTS 7.0 or TOEFL 85",
+                    "gre": "GRE optional; admissions clinical interview required",
+                    "papers": "Personal clinical philosophy essay, official transcripts, CV",
+                    "references": "Three professional/academic recommendations"
+                }
+            },
+            {
+                "id": 10756,
+                "title": "Ph.D. in Organizational Development and Leadership - Executive Coaching Focus",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "Rigorous research doctorate investigating executive leadership psychology, systemic team dynamics, workplace culture transformation, and organizational change consulting.",
+                "funding": "Executive Leadership Research Grant: $4,000/year doctoral fellowship",
+                "tuition": "$16,500/year",
+                "fee": "$50",
+                "deadline": "2027-06-01",
+                "deadlineText": "June 1, 2027",
+                "source": "https://www.rockies.edu/programs/phd-organizational-leadership",
+                "requirements": {
+                    "gpa": "3.2+ master's GPA with 3+ years managerial or organizational consulting experience",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Dissertation topic concept proposal, professional resume, transcripts",
+                    "references": "Two executive/academic references"
+                }
+            },
+            {
+                "id": 10757,
+                "title": "Master of Arts in Counseling - Clinical Mental Health Counseling Track",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "biology"],
+                "desc": "Prepares graduates for state LPC licensure through psychopathology diagnostics, grief counseling, addiction treatment, and 700 hours of clinical internship.",
+                "funding": "Rocky Mountain Community Mental Health Fellowship: $3,500/year award",
+                "tuition": "$14,200/year",
+                "fee": "$50",
+                "deadline": "2027-05-15",
+                "deadlineText": "May 15, 2027",
+                "source": "https://www.rockies.edu/programs/ma-counseling",
+                "requirements": {
+                    "gpa": "2.8+ undergraduate GPA",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, statement of counseling goals, background check",
+                    "references": "Two recommendations"
+                }
+            },
+            {
+                "id": 10758,
+                "title": "Master of Arts in Human Services - Non-Profit Management & Social Advocacy",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "Graduate leadership degree examining social welfare policy, grant proposal design, crisis community interventions, and non-profit volunteer coordination.",
+                "funding": "Social Advocacy Community Grant: $2,500 tuition discount",
+                "tuition": "$13,800/year",
+                "fee": "$50",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://www.rockies.edu/programs/ma-human-services",
+                "requirements": {
+                    "gpa": "2.5+ undergraduate GPA in humanities or social sciences",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Transcripts, statement of human service purpose",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10759,
+                "title": "Doctor of Psychology (Psy.D.) in Educational Leadership & School Psychology",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "biology"],
+                "desc": "Doctorate exploring child cognitive development, school-based behavioral interventions, neurodiversity accommodation, and educational program assessment.",
+                "funding": "Educational Psychology Leadership Fellowship: $4,500/year award",
+                "tuition": "$18,900/year",
+                "fee": "$50",
+                "deadline": "2027-04-15",
+                "deadlineText": "April 15, 2027",
+                "source": "https://www.rockies.edu/programs/psyd-educational-leadership",
+                "requirements": {
+                    "gpa": "3.2+ master's GPA in education, psychology, or counseling",
+                    "ielts": "IELTS 7.0 or TOEFL 85",
+                    "gre": "Not required",
+                    "papers": "Problem-of-practice statement, professional CV, transcripts",
+                    "references": "Two academic/school administrator recommendations"
+                }
+            },
+            {
+                "id": 10760,
+                "title": "Master of Arts in Psychology - Criminology and Forensic Behavioral Analysis",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "chemistry"],
+                "desc": "Investigates criminal psychopathology, criminal investigative profiling methods, victimology, and psychological evaluation in criminal court proceedings.",
+                "funding": "Forensic Behavioral Science Award: $3,000 tuition grant",
+                "tuition": "$14,200/year",
+                "fee": "$50",
+                "deadline": "2027-06-15",
+                "deadlineText": "June 15, 2027",
+                "source": "https://www.rockies.edu/programs/ma-psychology-criminology",
+                "requirements": {
+                    "gpa": "2.75+ undergraduate GPA in psychology, criminal justice, or sociology",
+                    "ielts": "IELTS 6.5 or TOEFL 79",
+                    "gre": "Not required",
+                    "papers": "Official transcripts, professional resume, personal statement",
+                    "references": "Two recommendations"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4933,
+                "name": "Dr. Tina Parscal",
+                "role": "Executive Dean and Professor of Psychology",
+                "department": "School of Professional Psychology",
+                "subject": "social-sciences",
+                "bio": "Expert in distance graduate psychology pedagogical frameworks, student retention metrics in clinical doctorates, and instructional design quality systems.",
+                "source": "https://www.rockies.edu/faculty/tina-parscal/"
+            },
+            {
+                "id": 4934,
+                "name": "Dr. Michael Robinson",
+                "role": "Professor of Organizational Psychology",
+                "department": "Department of Organizational Leadership",
+                "subject": "social-sciences",
+                "bio": "Investigates executive burnout dynamics, psychological safety in corporate restructuring, and evidence-based executive coaching assessment metrics.",
+                "source": "https://www.rockies.edu/faculty/michael-robinson/"
+            },
+            {
+                "id": 4935,
+                "name": "Dr. Jeremy Moreland",
+                "role": "Provost and Professor of Cognitive Psychology",
+                "department": "Office of the Provost",
+                "subject": "social-sciences",
+                "bio": "Researches cognitive processing under stress, decision-making biases in executive leadership, and scholar-practitioner doctoral dissertation methodologies.",
+                "source": "https://www.rockies.edu/faculty/jeremy-moreland/"
+            }
+        ]
+    },
+    {
+        "countryId": "usa",
+        "countryLabel": "United States",
+        "institution": "University of New Mexico - Taos",
+        "shortName": "UNM Taos",
+        "slug": "university-of-new-mexico-taos",
+        "location": "Taos, New Mexico, United States",
+        "website": "https://taos.unm.edu",
+        "sourceRow": 1189,
+        "stats": {
+            "established": "1993",
+            "students": "1,300+",
+            "international": "3%",
+            "faculty": "110+"
+        },
+        "hero": {
+            "tagline": "Sangre de Cristo Mountains · Northern New Mexico Native Arts, Solar Science & Nursing",
+            "desc": "The University of New Mexico - Taos is an accredited branch campus of UNM nestled in the high-desert mesa beneath the Sangre de Cristo Mountains at 280 La Entrada Road in Ranchos de Taos, NM. Designated as a Hispanic-Serving Institution (HSI), UNM-Taos delivers exceptional academic degrees in nursing, solar energy and natural resources, traditional Southwestern studio arts, and seamless UNM transfer degrees."
+        },
+        "admissions": {
+            "general": "Open admission policy with high school diploma, home school completion, or GED credential. Specific health sciences programs require selective application.",
+            "language": "TOEFL iBT 61+ or IELTS 6.0+ for international applicants.",
+            "deadlines": "Fall semester priority deadline August 1, 2027; Spring semester priority January 5, 2027."
+        },
+        "financial": {
+            "summary": "New Mexico Opportunity Scholarship (100% free tuition and fees for NM residents), UNM-Taos Foundation Scholarships, and Taos Community Health Foundation Awards.",
+            "tuition": "$2,232 - $5,400/year (Ultra-affordable New Mexico resident vs Out-of-state rate)"
+        },
+        "opportunities": [
+            {
+                "id": 10761,
+                "title": "Associate of Science in Pre-Science - Environmental Science & Solar Ecology",
+                "type": "Degree",
+                "subject": "environment",
+                "subjects": ["environment", "physics"],
+                "desc": "High-altitude environmental curriculum studying Rio Grande gorge hydrology, alpine watershed preservation, solar photovoltaics, and arid land soil regeneration.",
+                "funding": "Rio Grande Watershed Research Grant: $2,000 summer environmental fieldwork stipend",
+                "tuition": "$2,232/year (100% covered for eligible NM Opportunity Scholarship recipients)",
+                "fee": "$25",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://taos.unm.edu/academics/science-and-math/",
+                "requirements": {
+                    "gpa": "2.0+ GPA or GED standing with algebra readiness",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "Not required",
+                    "papers": "High school or prior college transcripts",
+                    "references": "Not required"
+                }
+            },
+            {
+                "id": 10762,
+                "title": "Associate of Applied Science in Nursing (AAS - RN Pre-Licensure)",
+                "type": "Degree",
+                "subject": "biology",
+                "subjects": ["biology", "social-sciences"],
+                "desc": "ACEN-accredited rural nursing cohort delivering clinical simulation training and rotations at Holy Cross Hospital in Taos and regional northern New Mexico health clinics.",
+                "funding": "Holy Cross Hospital Nurse Fellowship: 100% tuition coverage plus clinic scrub stipend",
+                "tuition": "$0 - $2,500/year",
+                "fee": "$30",
+                "deadline": "2027-03-01",
+                "deadlineText": "March 1, 2027",
+                "source": "https://taos.unm.edu/academics/nursing-and-health/",
+                "requirements": {
+                    "gpa": "2.75+ prerequisite GPA (anatomy, physiology, microbiology, psychology)",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "HESI A2 or TEAS exam composite score 70%+",
+                    "papers": "Nursing application, official transcripts, background clearance",
+                    "references": "Two professional/academic recommendations"
+                }
+            },
+            {
+                "id": 10763,
+                "title": "Associate of Fine Arts (AFA) in Studio Arts - Southwestern Ceramics & Printmaking",
+                "type": "Degree",
+                "subject": "arts-design",
+                "subjects": ["arts-design", "social-sciences"],
+                "desc": "Immersed in Taos's legendary historic arts colony, delivering intensive instruction in ceramic sculpture, traditional raku firing, stone lithography, and plein air landscape painting.",
+                "funding": "Taos Art Colony Endowment Scholarship: $2,500/year portfolio talent award",
+                "tuition": "$2,232/year",
+                "fee": "$25",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://taos.unm.edu/academics/fine-arts/",
+                "requirements": {
+                    "gpa": "2.0+ GPA; creative portfolio submission (5-10 images)",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "Not required",
+                    "papers": "High school transcripts, artist statement",
+                    "references": "One art teacher reference"
+                }
+            },
+            {
+                "id": 10764,
+                "title": "Associate of Applied Science in Information Technology - Cybersecurity & Cloud",
+                "type": "Degree",
+                "subject": "computer-science",
+                "subjects": ["computer-science", "engineering"],
+                "desc": "Hands-on curriculum in network routing, ethical hacking, Linux operating systems, cloud security configurations, and IT systems administration.",
+                "funding": "New Mexico Tech Workforce Grant: $1,500/year equipment scholarship",
+                "tuition": "$2,232/year",
+                "fee": "$25",
+                "deadline": "2027-07-20",
+                "deadlineText": "July 20, 2027",
+                "source": "https://taos.unm.edu/academics/business-and-technology/",
+                "requirements": {
+                    "gpa": "2.0+ GPA or equivalent GED",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "Not required",
+                    "papers": "Application form, transcripts",
+                    "references": "Not required"
+                }
+            },
+            {
+                "id": 10765,
+                "title": "Associate of Applied Science in Integrative Health & Healing Arts",
+                "type": "Degree",
+                "subject": "biology",
+                "subjects": ["biology", "social-sciences"],
+                "desc": "Unique healthcare degree integrating Western anatomy and pathophysiology with herbal medicine, traditional curanderismo healing traditions, and therapeutic bodywork.",
+                "funding": "High Desert Healing Arts Fellowship: $2,000/year scholarship",
+                "tuition": "$2,232/year",
+                "fee": "$25",
+                "deadline": "2027-07-01",
+                "deadlineText": "July 1, 2027",
+                "source": "https://taos.unm.edu/academics/integrative-health/",
+                "requirements": {
+                    "gpa": "2.0+ GPA with biology interest",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "Not required",
+                    "papers": "Transcripts, personal statement of healing arts goals",
+                    "references": "One recommendation"
+                }
+            },
+            {
+                "id": 10766,
+                "title": "Associate of Arts in Southwest Studies & Indigenous History",
+                "type": "Degree",
+                "subject": "social-sciences",
+                "subjects": ["social-sciences", "arts-design"],
+                "desc": "In-depth multidisciplinary study of Puebloan archaeology, Spanish colonial legal history, Chicana/o literature, and modern tribal water rights in northern New Mexico.",
+                "funding": "Northern New Mexico Heritage Award: $1,800/year award",
+                "tuition": "$2,232/year",
+                "fee": "$25",
+                "deadline": "2027-07-15",
+                "deadlineText": "July 15, 2027",
+                "source": "https://taos.unm.edu/academics/southwest-studies/",
+                "requirements": {
+                    "gpa": "2.0+ GPA or secondary credential",
+                    "ielts": "IELTS 6.0 or TOEFL 61",
+                    "gre": "Not required",
+                    "papers": "Official high school transcripts",
+                    "references": "Not required"
+                }
+            }
+        ],
+        "researchers": [
+            {
+                "id": 4936,
+                "name": "Dr. Anita Bringas",
+                "role": "Chancellor of UNM-Taos and Professor of Educational Administration",
+                "department": "Office of the Chancellor",
+                "subject": "social-sciences",
+                "bio": "Specializes in Hispanic-Serving Institution retention strategies, rural branch campus community partnerships, and bilingual postsecondary matriculation models.",
+                "source": "https://taos.unm.edu/about/chancellor.html"
+            },
+            {
+                "id": 4937,
+                "name": "Prof. Sarah Stolar",
+                "role": "Chair of Fine Arts and Professor of Studio Arts",
+                "department": "Department of Fine Arts",
+                "subject": "arts-design",
+                "bio": "Distinguished contemporary painter and visual artist whose works examine feminist iconography, portraiture, and historical southwestern cultural geographies.",
+                "source": "https://taos.unm.edu/directory/sarah-stolar.html"
+            },
+            {
+                "id": 4938,
+                "name": "Dr. Colin Nichols",
+                "role": "Assistant Professor of Environmental and Physical Sciences",
+                "department": "Department of Science and Mathematics",
+                "subject": "environment",
+                "bio": "Investigates high-desert watershed hydrology, snowpack sublimation dynamics in the southern Rocky Mountains, and riparian acequia irrigation systems.",
+                "source": "https://taos.unm.edu/directory/colin-nichols.html"
+            }
+        ]
+    }
+]
+
+with open('scripts/b72_p2_chunk2_raw.json', 'w') as f:
+    json.dump(unis, f, indent=2)
+
+print('Generated b72_p2_chunk2_raw.json with 7 universities, 42 opps, 21 researchers.')
