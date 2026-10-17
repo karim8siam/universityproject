@@ -39,11 +39,14 @@ for (const r of researchers) {
   }
 
   const content = readFileSync(filePath, 'utf8');
+  const reviewDate = r.reviewed || '2026-10-15';
+  const isoDate = `${reviewDate}T00:00:00Z`;
+  const canonicalUrl = `https://openstemfield.org/researchers/${dirName}/`;
 
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'ProfilePage',
-    'dateModified': r.reviewed || '2026-10-15',
+    'dateModified': isoDate,
     'mainEntity': {
       '@type': 'Person',
       'name': r.name,
@@ -54,7 +57,8 @@ for (const r of researchers) {
       },
       'knowsAbout': r.topics || [],
       'description': r.summary || '',
-      'url': r.source
+      'url': canonicalUrl,
+      'sameAs': r.source
     }
   };
 
