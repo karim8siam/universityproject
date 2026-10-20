@@ -1,0 +1,26 @@
+name: SEO content inventory
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run static SEO inventory
+        run: REPORT_FILE=seo-audit.json node scripts/audit-indexable-pages.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: seo-inventory
+          path: seo-audit.json
+          retention-days: 14
