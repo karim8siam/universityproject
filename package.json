@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
+    "test": "node scripts/verify-site.mjs",
     "test:structure": "node tests/structure.test.mjs",
     "test:seo": "node scripts/verify-site.mjs",
-    "audit:seo": "node scripts/audit-indexable-pages.mjs"
+    "audit:seo": "node scripts/audit-indexable-pages.mjs",
+    "build:hubs": "node scripts/build-directory-hubs.mjs"
   },
   "description": "Dependency-free interactive academic discovery website prototype."
 }

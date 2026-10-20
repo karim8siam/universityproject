@@ -35,7 +35,7 @@ const listedRoutes=area=>{
   .map(item=>'/'+area+'/'+item.name+'/')
   .filter(route=>!read(route.slice(1)+'index.html').includes('name="robots" content="noindex'));
 };
-const staticRoutes=['/','/universities/',...listedRoutes('universities'),...listedRoutes('countries'),...listedRoutes('scholarships'),...listedRoutes('subjects'),...['about','editorial-policy','privacy','contact'].map(name=>'/'+name+'/')];
+const staticRoutes=['/','/universities/','/opportunities/','/researchers/','/subjects/','/countries/','/scholarships/',...listedRoutes('universities'),...listedRoutes('countries'),...listedRoutes('scholarships'),...listedRoutes('subjects'),...['about','editorial-policy','privacy','contact'].map(name=>'/'+name+'/')];
 const active=opportunities.filter(o=>!o.deadline||o.deadline>=date).map(oppPath);
 const profiles=researchers.map(personPath);
 const expected=[...staticRoutes,...active,...profiles];
