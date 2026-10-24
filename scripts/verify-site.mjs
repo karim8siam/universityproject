@@ -55,6 +55,13 @@ for(const url of expected){
  assert(canonical===domain+url,'Incorrect canonical URL '+file);
  assert(!html.includes('name="robots" content="noindex'),'Nonindexable page in sitemap '+file);
  assert(map.includes('<loc>'+domain+url+'</loc>'),'Sitemap missing '+url);
+ if(url.startsWith('/researchers/')&&url!=='/researchers/'){
+  const jm=html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+  assert(jm,'Researcher missing structured data: '+file);
+  const sd=JSON.parse(jm[1]);
+  assert(sd['@type']==='ProfilePage','Researcher schema not ProfilePage: '+file);
+  assert(sd.mainEntity&&sd.mainEntity['@type']==='Person'&&sd.mainEntity.name,'Researcher missing mainEntity Person: '+file);
+ }
 }
 for(const o of opportunities.filter(o=>o.deadline&&o.deadline<date)){
  assert(!map.includes('<loc>'+domain+oppPath(o)+'</loc>'),'Expired record still in sitemap '+o.title);
