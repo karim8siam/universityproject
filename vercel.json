@@ -1,6 +1,38 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/universities/the-univers",
+      "destination": "/universities/",
+      "permanent": true
+    },
+    {
+      "source": "/universities/the-univers/",
+      "destination": "/universities/",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-standards",
+      "destination": "/editorial-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-standards/",
+      "destination": "/editorial-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/terms",
+      "destination": "/privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/terms/",
+      "destination": "/privacy/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
