@@ -220,17 +220,6 @@ export const universitiesPart1 = [
         topics: ["Software Engineering", "Game Technologies", "Distributed Systems", "Cloud Computing"],
         source: "https://algomau.ca/faculty/simon-xu/",
         summary: "Pioneering computer science professor whose research focuses on software evolution metrics, parallel game architecture frameworks, and high-performance distributed simulations for interactive media."
-      },
-      {
-        id: 509,
-        subject: "social-sciences",
-        name: "Dr. Sheila Grantham",
-        title: "Assistant Professor of Indigenous Studies",
-        university: "Algoma University",
-        country: "Canada",
-        topics: ["Indigenous Studies", "Decolonial Methodologies", "Indigenous Health", "Oral History"],
-        source: "https://algomau.ca/faculty/sheila-grantham/",
-        summary: "Indigenous scholar leading participatory research on Métis and First Nations oral histories, community wellness paradigms, and institutional transformation grounded in Indigenous knowledges."
       }
     ]
   },

@@ -327158,25 +327158,6 @@ export const researchers=[
     "reviewed": "2026-10-15"
   },
   {
-    "id": 509,
-    "subject": "social-sciences",
-    "name": "Dr. Sheila Grantham",
-    "title": "Assistant Professor of Indigenous Studies",
-    "university": "Algoma University",
-    "country": "Canada",
-    "topics": [
-      "Indigenous Studies",
-      "Decolonial Methodologies",
-      "Indigenous Health",
-      "Oral History"
-    ],
-    "source": "https://algomau.ca/faculty/sheila-grantham/",
-    "email": null,
-    "summary": "Indigenous scholar leading participatory research on Métis and First Nations oral histories, community wellness paradigms, and institutional transformation grounded in Indigenous knowledges.",
-    "recruiting": "Not verified",
-    "reviewed": "2026-10-15"
-  },
-  {
     "id": 510,
     "subject": "environment",
     "name": "Dr. Lee Baumgartner",
