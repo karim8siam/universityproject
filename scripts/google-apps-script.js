@@ -2,17 +2,27 @@
  * Google Apps Script Webhook Handler for OpenStemField
  * 
  * Instructions:
- * 1. Open your Google Sheet: https://docs.google.com/spreadsheets/d/1C3C93DR1KmzhIa-AUG-dL0RqsxA4ZzsmVMh5G3HB4Do/edit
+ * 1. Open your Google Sheet: https://docs.google.com/spreadsheets/d/175S6D2hqI4q6mDwgoa1blreIATafYzQKq523A_VfBT8/edit
  * 2. Click Extensions -> Apps Script.
  * 3. Replace all code in the editor with this script.
  * 4. Click Save (disk icon).
- * 5. Click Deploy -> Manage deployments -> Click the pencil edit icon -> Select "New version" -> Click Deploy.
+ * 5. Click Deploy -> New deployment (or Manage deployments -> Edit -> New version).
+ *    - Type: Web app
+ *    - Execute as: Me (your Google account)
+ *    - Who has access: Anyone
+ * 6. Copy the Web App URL (e.g. https://script.google.com/macros/s/.../exec) and provide it to Antigravity.
  */
+
+var SPREADSHEET_ID = "175S6D2hqI4q6mDwgoa1blreIATafYzQKq523A_VfBT8";
+var NOTIFICATION_EMAIL = "shahriyarkarimsiam@gmail.com";
 
 function doPost(e) {
   try {
     var data = JSON.parse(e.postData.contents);
     var ss = SpreadsheetApp.getActiveSpreadsheet();
+    if (!ss) {
+      ss = SpreadsheetApp.openById(SPREADSHEET_ID);
+    }
 
     // 1. Mentorship Application: Save to Sheet & Email to Siam
     if (data.action === "mentorshipApplication") {
@@ -40,12 +50,15 @@ function doPost(e) {
       }
 
       var timestamp = new Date();
+      var rawPhone = String(data.phone || "").trim();
+      var safePhone = (rawPhone.startsWith("+") || rawPhone.startsWith("=")) ? "'" + rawPhone : rawPhone;
+
       var rowData = [
         timestamp,
         data.name || "",
         data.country || "",
         data.email || "",
-        data.phone || "",
+        safePhone,
         data.department || "",
         data.cgpa || "",
         data.test_scores || "",
@@ -54,13 +67,13 @@ function doPost(e) {
       ];
       sheet.appendRow(rowData);
 
-      // Send Email to Siam
-      var recipient = "shahriyarkarimsiam@gmail.com";
+      // Send Email Notification to Siam
+      var recipient = NOTIFICATION_EMAIL;
       var subject = "🎓 New OpenStemField Mentorship Application: " + (data.name || "Student");
       var htmlBody = `
         <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #222; max-width: 620px; border: 1px solid #c9d8c4; padding: 24px; border-radius: 8px; background: #ffffff;">
           <h2 style="color: #123b2a; margin-top: 0; border-bottom: 2px solid #123b2a; padding-bottom: 10px; font-size: 22px;">New Mentorship Application Received</h2>
-          <p style="font-size: 14px; color: #444;">A student has submitted an academic mentorship & consultancy application on <strong>OpenStemField</strong>.</p>
+          <p style="font-size: 14px; color: #444;">A student has submitted an academic mentorship application on <strong>OpenStemField</strong>.</p>
           
           <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 13.5px;">
             <tr style="background: #f7f9f7;">
@@ -117,76 +130,63 @@ function doPost(e) {
         .setMimeType(ContentService.MimeType.JSON);
     }
 
-    // 2. Add or Update a row in 'Publishing Progress'
-    if (data.action === "addProgress") {
-      var sheet = ss.getSheetByName("Publishing Progress");
-      var values = sheet.getDataRange().getValues();
-      var targetRow = -1;
-      
-      for (var i = 1; i < values.length; i++) {
-        if (String(values[i][0]).trim() === String(data.sourceRow).trim()) {
-          targetRow = i + 1;
-          break;
-        }
+    // 2. World 1% Club Application
+    if (data.action === "onePercentClubApplication") {
+      var clubSheetName = "1% Club Applications";
+      var clubSheet = ss.getSheetByName(clubSheetName);
+      if (!clubSheet) {
+        clubSheet = ss.insertSheet(clubSheetName);
+        var clubHeaders = [
+          "Timestamp",
+          "Full Name",
+          "Email",
+          "Institution & Degree",
+          "STEM Field",
+          "Top 1% Track Record",
+          "Portfolio / Scholar / GitHub",
+          "Statement / Complex Problems Solved",
+          "Status"
+        ];
+        clubSheet.appendRow(clubHeaders);
+        clubSheet.getRange(1, 1, 1, clubHeaders.length).setFontWeight("bold").setBackground("#fdf2e8");
+        clubSheet.setFrozenRows(1);
       }
-      
-      var rowData = [
-        data.sourceRow,
-        data.country,
-        data.institution,
-        data.officialWebsite,
-        data.universityGuide,
-        data.publishedContent,
-        data.evidenceReviewDate,
-        data.gitCommit,
-        data.deploymentQa,
-        data.nextAction,
-        data.publishedDone === true,
-        data.sitemapUpdated === true
-      ];
-      
-      if (targetRow > 0) {
-        sheet.getRange(targetRow, 1, 1, rowData.length).setValues([rowData]);
-      } else {
-        sheet.appendRow(rowData);
-      }
-      
-      return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "Publishing progress updated" }))
-        .setMimeType(ContentService.MimeType.JSON);
-    }
 
-    // 3. Update status in 'Country Rotation'
-    if (data.action === "updateRotation") {
-      var sheet = ss.getSheetByName("Country Rotation");
-      var values = sheet.getDataRange().getValues();
-      
-      for (var i = 1; i < values.length; i++) {
-        if (values[i][1].toString().toLowerCase() === data.country.toLowerCase()) {
-          var row = i + 1;
-          if (data.publishedCount !== undefined) sheet.getRange(row, 4).setValue(data.publishedCount);
-          if (data.currentRoundStatus) sheet.getRange(row, 5).setValue(data.currentRoundStatus);
-          if (data.nextSourceRow) sheet.getRange(row, 6).setValue(data.nextSourceRow);
-          if (data.initialName) sheet.getRange(row, 7).setValue(data.initialName);
-          if (data.mostRecentPublished) sheet.getRange(row, 8).setValue(data.mostRecentPublished);
-          if (data.updatedDate) sheet.getRange(row, 11).setValue(data.updatedDate);
-          break;
-        }
-      }
-      
-      return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "Country rotation updated" }))
-        .setMimeType(ContentService.MimeType.JSON);
-    }
+      var rawPhoneClub = String(data.phone || "").trim();
+      var safePhoneClub = (rawPhoneClub.startsWith("+") || rawPhoneClub.startsWith("=")) ? "'" + rawPhoneClub : rawPhoneClub;
 
-    // 4. Log excluded or deferred items in 'Review Flags'
-    if (data.action === "addFlag") {
-      var sheet = ss.getSheetByName("Review Flags");
-      sheet.appendRow([
-        data.sourceRow,
-        data.status,
-        data.reason,
-        data.reviewedOn
+      clubSheet.appendRow([
+        new Date(),
+        data.name || "",
+        data.email || "",
+        data.institution || "",
+        data.field || "",
+        data.achievements || "",
+        data.portfolio || "",
+        data.statement || "",
+        "Review Pending"
       ]);
-      return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "Review flag added" }))
+
+      try {
+        MailApp.sendEmail({
+          to: NOTIFICATION_EMAIL,
+          subject: "🌟 New World 1% Club Application: " + (data.name || "Solver") + " (" + (data.field || "STEM") + ")",
+          htmlBody: `
+            <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #222; max-width: 620px; border: 1px solid #d8b896; padding: 24px; border-radius: 8px; background: #ffffff;">
+              <h2 style="color: #9b4d1b; margin-top: 0; border-bottom: 2px solid #9b4d1b; padding-bottom: 10px; font-size: 22px;">New World 1% Club Application</h2>
+              <p><strong>Name:</strong> ${data.name || 'N/A'} (<a href="mailto:${data.email}">${data.email || 'N/A'}</a>)</p>
+              <p><strong>Institution:</strong> ${data.institution || 'N/A'}</p>
+              <p><strong>Field:</strong> ${data.field || 'N/A'}</p>
+              <p><strong>Top 1% Proof:</strong> ${data.achievements || 'N/A'}</p>
+              <p><strong>Portfolio:</strong> <a href="${data.portfolio}">${data.portfolio || 'N/A'}</a></p>
+              <p><strong>Statement:</strong> "${data.statement || 'N/A'}"</p>
+            </div>
+          `,
+          replyTo: data.email || NOTIFICATION_EMAIL
+        });
+      } catch (e) {}
+
+      return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "Club application logged and emailed successfully" }))
         .setMimeType(ContentService.MimeType.JSON);
     }
 
@@ -200,6 +200,6 @@ function doPost(e) {
 }
 
 function doGet(e) {
-  return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "OpenStemField Webhook is ready" }))
+  return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "OpenStemField Webhook is ready", spreadsheetId: SPREADSHEET_ID }))
     .setMimeType(ContentService.MimeType.JSON);
 }
