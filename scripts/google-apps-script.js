@@ -203,3 +203,29 @@ function doGet(e) {
   return ContentService.createTextOutput(JSON.stringify({ status: "ok", message: "OpenStemField Webhook is ready", spreadsheetId: SPREADSHEET_ID }))
     .setMimeType(ContentService.MimeType.JSON);
 }
+
+/**
+ * Run this function in the Apps Script Editor (click Run)
+ * to authorize Google Sheets and Email permissions once.
+ */
+function testSendEmailAndSheet() {
+  var ss = SpreadsheetApp.openById(SPREADSHEET_ID);
+  var sheet = ss.getSheetByName("Mentorship Applications");
+  if (!sheet) {
+    sheet = ss.insertSheet("Mentorship Applications");
+  }
+
+  MailApp.sendEmail({
+    to: NOTIFICATION_EMAIL,
+    subject: "✅ Test: OpenStemField Email Connection Verified",
+    htmlBody: `
+      <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #222; max-width: 600px; border: 1px solid #c9d8c4; padding: 24px; border-radius: 8px;">
+        <h2 style="color: #123b2a; margin-top: 0; border-bottom: 2px solid #123b2a; padding-bottom: 10px;">Email Connection 100% Verified!</h2>
+        <p>This confirms that your OpenStemField mentorship application form is successfully connected to your email (<strong>${NOTIFICATION_EMAIL}</strong>) and your Google Sheet.</p>
+        <p>Whenever an applicant submits the form on <strong>openstemfield.org</strong>, you will receive an instant email notification here with all their details.</p>
+      </div>
+    `
+  });
+
+  Logger.log("Success: Test email sent to " + NOTIFICATION_EMAIL);
+}
